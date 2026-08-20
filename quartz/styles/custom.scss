@@ -1,0 +1,660 @@
+@use "./variables.scss" as *;
+
+// Vault look: publish.css + mtg-card-layout (Infocard float, synergy bars).
+// Quartz class names mapped where they differ from Obsidian Publish.
+
+:root {
+  --background-primary: #141414;
+  --background-primary-alt: #1a1a1a;
+  --background-secondary: #121212;
+  --text-normal: #e8e6e3;
+  --text-muted: #a0a0a0;
+  --color-accent: #c9a227;
+  color-scheme: dark;
+}
+
+// Fill the window: Quartz otherwise centers a ~1500px .page and the
+// center track is `auto` (content-sized), which leaves empty side strips.
+html,
+body,
+#quartz-root.page {
+  width: 100% !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  box-sizing: border-box;
+}
+
+#quartz-root.page {
+  padding-inline: 0.35rem;
+}
+
+#quartz-root.page > #quartz-body {
+  width: 100% !important;
+  max-width: none !important;
+  justify-content: stretch;
+}
+
+#quartz-root.page > #quartz-body .center {
+  min-width: 0 !important;
+  max-width: none !important;
+}
+
+// Explorer was 16.5rem and wrapping names. Give it real room; article
+// still takes leftover. Right rail stays a bit narrower (graph / TOC).
+@media (min-width: 800px) {
+  #quartz-root.page > #quartz-body {
+    grid-template-columns: minmax(20rem, 22.5rem) minmax(0, 1fr) !important;
+    column-gap: 1.1rem;
+  }
+
+  #quartz-root.page > #quartz-body .sidebar.left {
+    padding: $topSpacing 0.85rem 2rem 0.85rem;
+  }
+}
+
+@media all and ($desktop) {
+  #quartz-root.page > #quartz-body {
+    grid-template-columns: minmax(20rem, 22.5rem) minmax(0, 1fr) minmax(16rem, 18rem) !important;
+    column-gap: 1.1rem;
+  }
+
+  #quartz-root.page > #quartz-body .sidebar {
+    padding: $topSpacing 0.85rem 2rem 0.85rem;
+  }
+}
+
+.left.sidebar .explorer,
+.left.sidebar .explorer-content,
+.left.sidebar .explorer-ul {
+  width: 100%;
+  min-width: 0;
+}
+
+.left.sidebar .nav-file-title,
+.left.sidebar .folder-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.left.sidebar .page-title {
+  margin: 0 0 0.45rem 0;
+}
+
+.left.sidebar .page-title a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.4rem;
+  font-size: 1.15rem;
+  line-height: 1.2;
+}
+
+.left.sidebar .page-title a::before {
+  content: "";
+  display: block;
+  width: 100%;
+  aspect-ratio: 570 / 195;
+  height: auto;
+  background: url("./static/mtg-logo.png") no-repeat left center;
+  background-size: contain;
+}
+
+.page-title a,
+.article-title {
+  color: #d8d4ce !important;
+  font-weight: 700;
+}
+
+.left.sidebar,
+.right.sidebar {
+  background-color: #121212;
+}
+
+article.popover-hint,
+.markdown-preview-view,
+.markdown-rendered {
+  color: #e8e6e3;
+}
+
+.markdown-preview-view h1,
+.markdown-rendered h1,
+.article-title {
+  color: #d8d4ce !important;
+  font-weight: 700;
+}
+
+.markdown-preview-view h1,
+.markdown-rendered h1 {
+  border-bottom: 2px solid #444;
+  padding-bottom: 0.3em;
+}
+
+.markdown-preview-view h2,
+.markdown-rendered h2 {
+  color: #d8d4ce !important;
+  border-bottom: 1px solid #3a3a3a;
+  padding-bottom: 0.25em;
+  margin-top: 1.6em;
+}
+
+.markdown-preview-view h3,
+.markdown-rendered h3 {
+  color: #d8d4ce !important;
+  margin-top: 1.3em;
+}
+
+a.internal,
+a.internal-link {
+  color: #c8c4be !important;
+  text-decoration: none;
+}
+
+a.internal:hover,
+a.internal-link:hover {
+  color: #f0ece6 !important;
+  text-decoration: underline;
+}
+
+.markdown-preview-view th,
+.markdown-rendered th {
+  background: #2a2a2a;
+  color: #f0e6d3;
+  font-weight: 600;
+  padding: 0.45em 0.7em;
+  border: 1px solid #333;
+  text-align: left;
+}
+
+.markdown-preview-view td,
+.markdown-rendered td {
+  background: #1a1a1a;
+  padding: 0.4em 0.7em;
+  border: 1px solid #333;
+}
+
+.markdown-preview-view tr:nth-child(even) td,
+.markdown-rendered tr:nth-child(even) td {
+  background: #222;
+}
+
+.callout {
+  --callout-blend-mode: normal;
+  mix-blend-mode: normal !important;
+  isolation: isolate;
+  border-radius: 8px;
+  border: 1px solid #333;
+  background: #1a1a1a;
+  margin: 1em 0;
+}
+
+.callout[data-callout="card-proxy"] {
+  --color: #c9a227;
+  --border: #5a3a18;
+  --bg: #241c14;
+  --callout-color: 201, 162, 39;
+  mix-blend-mode: normal !important;
+  background: #241c14 !important;
+  background-color: #241c14 !important;
+  border: 1px solid #5a3a18 !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+  box-sizing: border-box !important;
+  color: #f0e6d3 !important;
+  overflow: visible !important;
+  overflow-y: visible !important;
+  width: auto;
+  max-width: none;
+  margin: 0;
+}
+
+.callout[data-callout="card-proxy"] .callout-title,
+.callout[data-callout="card-proxy"] .callout-title-inner,
+.callout[data-callout="card-proxy"] .callout-icon {
+  background: #2a1f0a;
+  color: #e0b83d !important;
+  font-weight: 700;
+}
+
+.callout[data-callout="card-proxy"] .callout-content {
+  padding: 0.75em 1em;
+  color: #f0e6d3 !important;
+  mix-blend-mode: normal !important;
+  overflow: visible !important;
+  display: block;
+}
+
+.callout[data-callout="card-proxy"] .callout-content h3 {
+  margin: 1.3rem 0 0.5rem 0 !important;
+  font-size: 1.25em !important;
+  font-weight: 700 !important;
+  color: #d8d4ce !important;
+}
+
+.callout[data-callout="card-proxy"] .callout-content p,
+.callout[data-callout="card-proxy"] .callout-content li,
+.callout[data-callout="card-proxy"] .callout-content td,
+.callout[data-callout="card-proxy"] .callout-content strong {
+  margin: 0.25rem 0 !important;
+  font-size: 0.95em !important;
+  color: #f0e6d3 !important;
+}
+
+.callout[data-callout="card-proxy"] .callout-content table {
+  font-size: 0.9em !important;
+  width: 100% !important;
+  margin-bottom: 0.7rem !important;
+}
+
+.callout[data-callout="card-proxy"] img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  max-height: none !important;
+  display: block !important;
+  margin: 0.75rem auto !important;
+  border-radius: 8px;
+  mix-blend-mode: normal !important;
+}
+
+img.mana-pip,
+.callout img.mana-pip,
+.callout[data-callout="card-proxy"] img.mana-pip,
+.callout img[src*="card-symbols"],
+.callout img[src*="svgs.scryfall"],
+.callout img[src*="mana"],
+.callout img[src*="/symb"] {
+  width: 1.15em !important;
+  height: 1.15em !important;
+  max-width: 1.15em !important;
+  max-height: 1.15em !important;
+  display: inline-block !important;
+  vertical-align: -0.15em;
+  margin: 0 0.08em !important;
+  border-radius: 0 !important;
+}
+
+.callout[data-callout="info"] {
+  border-color: #3d2a10;
+  background: #161616;
+}
+
+.callout[data-callout="note"] {
+  border-color: #3d3d1a;
+  background: #1a1a14;
+}
+
+.callout[data-callout="metadata"] {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  font-size: 0.9em;
+}
+
+.synergy-bar {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 4px;
+  height: 14px;
+  width: 100%;
+  margin: 0.35rem 0 0.9rem 0;
+  overflow: hidden;
+}
+
+.synergy-bar > div {
+  background: linear-gradient(90deg, #a67c00, #c9a227);
+  height: 100%;
+  border-radius: 4px;
+}
+
+.synergy-score {
+  display: grid !important;
+  grid-template-columns: 4.4rem minmax(0, 1fr) !important;
+  column-gap: 0.95rem !important;
+  align-items: start !important;
+  margin: 0.35rem 0 1.1rem 0 !important;
+  width: auto !important;
+  max-width: none !important;
+  clear: none !important;
+  float: none !important;
+}
+
+.synergy-score-num {
+  grid-column: 1 !important;
+  grid-row: 1 !important;
+  box-sizing: border-box !important;
+  width: 4.4rem !important;
+  max-width: 4.4rem !important;
+  height: 4.4rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  font-size: 1.85em !important;
+  font-weight: 800 !important;
+  line-height: 1 !important;
+  color: #1a1408 !important;
+  background: #c9a227 !important;
+  border-radius: 8px !important;
+  box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.18) !important;
+}
+
+.synergy-score-num span {
+  display: block !important;
+  margin-top: 0.2rem !important;
+  font-size: 0.38em !important;
+  font-weight: 700 !important;
+  opacity: 0.72 !important;
+}
+
+.synergy-score-why,
+.synergy-score > p {
+  grid-column: 2 !important;
+  grid-row: 1 !important;
+  width: auto !important;
+  max-width: none !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  float: none !important;
+}
+
+code {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+  font-size: 0.92em;
+}
+
+pre {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 0.9em 1em;
+  overflow-x: auto;
+}
+
+// Infocard + body as two columns so headings / hr / tables cannot
+// drop the rest of the note underneath (Quartz hr is width: 100%).
+.markdown-preview-view:has(> .callout[data-callout="card-proxy"]),
+.markdown-rendered:has(> .callout[data-callout="card-proxy"]) {
+  display: grid;
+  grid-template-columns: minmax(22rem, 30rem) minmax(0, 1fr);
+  column-gap: 2.25rem;
+  align-items: start;
+}
+
+.markdown-preview-view:has(> .callout[data-callout="card-proxy"]) > h1:first-child,
+.markdown-rendered:has(> .callout[data-callout="card-proxy"]) > h1:first-child {
+  grid-column: 1 / -1;
+  grid-row: 1;
+}
+
+.markdown-preview-view:has(> .callout[data-callout="card-proxy"]) > .callout[data-callout="card-proxy"],
+.markdown-rendered:has(> .callout[data-callout="card-proxy"]) > .callout[data-callout="card-proxy"] {
+  grid-column: 1;
+  grid-row: 1 / span 200;
+  justify-self: stretch;
+  align-self: start;
+}
+
+.markdown-preview-view:has(> .callout[data-callout="card-proxy"]) > h1:first-child ~ .callout[data-callout="card-proxy"],
+.markdown-rendered:has(> .callout[data-callout="card-proxy"]) > h1:first-child ~ .callout[data-callout="card-proxy"] {
+  grid-row: 2 / span 200;
+}
+
+.markdown-preview-view:has(> .callout[data-callout="card-proxy"]) > *:not(h1):not(.callout[data-callout="card-proxy"]),
+.markdown-rendered:has(> .callout[data-callout="card-proxy"]) > *:not(h1):not(.callout[data-callout="card-proxy"]) {
+  grid-column: 2;
+  min-width: 0;
+}
+
+.markdown-preview-view hr,
+.markdown-rendered hr {
+  width: auto;
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}
+
+@media (max-width: 1000px) {
+  .markdown-preview-view:has(> .callout[data-callout="card-proxy"]),
+  .markdown-rendered:has(> .callout[data-callout="card-proxy"]) {
+    display: block;
+  }
+
+  .callout[data-callout="card-proxy"] {
+    width: 100% !important;
+    max-width: 480px !important;
+    margin: 0 0 1.5rem 0 !important;
+  }
+}
+
+.mtg-decklist {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 1rem 1.2rem 1.15rem;
+  margin: 1.25rem 0 1.75rem;
+  color: #e8e6e3;
+}
+
+.mtg-decklist-meta {
+  color: #c9a227;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #5c1010;
+}
+
+.mtg-decklist-columns {
+  columns: 2;
+  column-gap: 2.25rem;
+}
+
+.mtg-decklist-section {
+  break-inside: avoid;
+  margin: 0 0 1.15rem;
+}
+
+.mtg-decklist-section h3 {
+  color: #d8d4ce !important;
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 0.35rem !important;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #3a3a3a;
+}
+
+.mtg-decklist-count {
+  color: #a0a0a0;
+  font-weight: 600;
+  font-size: 0.85em;
+}
+
+.mtg-decklist-section ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mtg-decklist-section li {
+  display: grid;
+  grid-template-columns: 1.7rem minmax(0, 1fr) auto;
+  column-gap: 0.45rem;
+  align-items: center;
+  padding: 0.12rem 0;
+  line-height: 1.45;
+}
+
+.mtg-decklist-section .qty {
+  color: #c9a227;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.mtg-decklist-section a.internal {
+  color: #c8c4be !important;
+}
+
+.mtg-decklist-mana {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.05em;
+  white-space: nowrap;
+}
+
+.mtg-decklist-mana .mana-pip {
+  width: 1em !important;
+  height: 1em !important;
+  max-width: 1em !important;
+  max-height: 1em !important;
+  margin: 0 0.04em !important;
+}
+
+@media (max-width: 800px) {
+  .mtg-decklist-columns {
+    columns: 1;
+  }
+}
+
+// Hover preview: 2× Quartz default (30rem × 20rem). Card pages inside
+// the popover drop the two-column grid so Infocard + text can wrap.
+.popover > .popover-inner {
+  width: 60rem !important;
+  max-height: 40rem !important;
+}
+
+.popover-inner .breadcrumb-container {
+  display: none;
+}
+
+.popover-inner .markdown-preview-view:has(> .callout[data-callout="card-proxy"]),
+.popover-inner .markdown-rendered:has(> .callout[data-callout="card-proxy"]) {
+  display: block !important;
+}
+
+.popover-inner .callout[data-callout="card-proxy"] {
+  float: left;
+  width: 20rem !important;
+  max-width: 46% !important;
+  margin: 0 1.25rem 1rem 0 !important;
+}
+
+// Deck themes apply only inside the deck folder, not Home or Commander.
+body[data-slug="commander/zurgo"],
+body[data-slug^="commander/zurgo/"] {
+  .page-title a,
+  .article-title,
+  .markdown-preview-view h1,
+  .markdown-rendered h1,
+  .markdown-preview-view h2,
+  .markdown-rendered h2,
+  .markdown-preview-view h3,
+  .markdown-rendered h3,
+  a.internal,
+  a.internal-link {
+    color: #e53935 !important;
+  }
+
+  a.internal:hover,
+  a.internal-link:hover {
+    color: #ff6b6b !important;
+  }
+
+  .markdown-preview-view h1,
+  .markdown-rendered h1 {
+    border-bottom-color: #8b1a1a;
+  }
+
+  .markdown-preview-view h2,
+  .markdown-rendered h2 {
+    border-bottom-color: #5c1010;
+  }
+
+  .markdown-preview-view th,
+  .markdown-rendered th {
+    background: #5c1010;
+    border-color: #3d0a0a;
+  }
+
+  .mtg-decklist-section h3 {
+    color: #e53935 !important;
+    border-bottom-color: #5c1010;
+  }
+
+  .mtg-decklist-section a.internal {
+    color: #e53935 !important;
+  }
+
+  .callout[data-callout="card-proxy"] .callout-content h3 {
+    color: #e53935 !important;
+  }
+}
+
+// Maralen vault accent from Obsidian appearance.json: #20a265
+body[data-slug="commander/maralen"],
+body[data-slug^="commander/maralen/"] {
+  .page-title a,
+  .article-title,
+  .markdown-preview-view h1,
+  .markdown-rendered h1,
+  .markdown-preview-view h2,
+  .markdown-rendered h2,
+  .markdown-preview-view h3,
+  .markdown-rendered h3,
+  a.internal,
+  a.internal-link {
+    color: #20a265 !important;
+  }
+
+  a.internal:hover,
+  a.internal-link:hover {
+    color: #4ad89a !important;
+  }
+
+  .markdown-preview-view h1,
+  .markdown-rendered h1 {
+    border-bottom-color: #145c3a;
+  }
+
+  .markdown-preview-view h2,
+  .markdown-rendered h2 {
+    border-bottom-color: #145c3a;
+  }
+
+  .markdown-preview-view th,
+  .markdown-rendered th {
+    background: #145c3a;
+    border-color: #0d3d26;
+  }
+
+  .synergy-bar > div {
+    background: linear-gradient(90deg, #0d7a4a, #20a265);
+  }
+
+  .synergy-score-num {
+    background: #20a265 !important;
+    color: #04150d !important;
+  }
+
+  .mtg-decklist-meta,
+  .mtg-decklist-section .qty {
+    color: #20a265;
+  }
+
+  .mtg-decklist-section h3 {
+    color: #20a265 !important;
+    border-bottom-color: #145c3a;
+  }
+
+  .mtg-decklist-section a.internal {
+    color: #20a265 !important;
+  }
+
+  .callout[data-callout="card-proxy"] .callout-content h3 {
+    color: #20a265 !important;
+  }
+}
