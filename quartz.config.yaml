@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: false
   locale: en-US
-  baseUrl: localhost:8080
+  baseUrl: jeffshmee.github.io/MTG
   ignorePatterns:
     - private
     - templates

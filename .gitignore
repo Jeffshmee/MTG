@@ -1,22 +1,12 @@
 .DS_Store
 node_modules
 public
-# Vault notes are junctions into the Obsidian vaults. Do not commit them.
-content/commander/zurgo/01 Deck/
-content/commander/zurgo/02 Cards/
-content/commander/zurgo/03 Effects/
-content/commander/zurgo/04 Types/
-content/commander/zurgo/05 Colours/
-content/commander/zurgo/06 Strategy/
-content/commander/maralen/01 Deck/
-content/commander/maralen/02 Cards/
-content/commander/maralen/03 Effects/
-content/commander/maralen/04 Types/
-content/commander/maralen/05 Colours/
-content/commander/maralen/06 Strategy/
+# Vault-only: never snapshot these into GitHub Pages.
+.obsidian
+**/07 Assets/
+**/ZZ-Changes/
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
