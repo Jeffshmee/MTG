@@ -130,14 +130,27 @@ function splitPips(value: string): ElementContent[] {
   return parts
 }
 
+function stripMtgInString(value: string): string {
+  return value.replace(/mtg:/g, "")
+}
+
 function stripMtgPrefix(node: Root | Element) {
   if (!node.children) {
     return
   }
   for (const child of node.children) {
     if (child.type === "text" && child.value.includes("mtg:")) {
-      child.value = child.value.replace(/mtg:/g, "")
-    } else if (child.type === "element") {
+      child.value = stripMtgInString(child.value)
+      continue
+    }
+    // OFM injects callout titles as raw HTML; rehype-raw has not parsed them yet
+    // when this plugin runs first.
+    const raw = child as { type?: string; value?: string }
+    if (raw.type === "raw" && typeof raw.value === "string" && raw.value.includes("mtg:")) {
+      raw.value = stripMtgInString(raw.value)
+      continue
+    }
+    if (child.type === "element") {
       stripMtgPrefix(child)
     }
   }
@@ -167,6 +180,11 @@ function walk(node: Root | Element) {
 
 export const ManaPips: QuartzTransformerPlugin = () => ({
   name: "ManaPips",
+  // Infocard titles are `mtg:Name`. Strip the prefix before markdown so OFM
+  // callout HTML never contains it.
+  textTransform(_ctx, src) {
+    return src.replaceAll("`mtg:", "`")
+  },
   htmlPlugins() {
     return [
       () => (tree: Root) => {
