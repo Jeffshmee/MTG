@@ -50,7 +50,7 @@ As this land enters, [[03 Effects/Pain Land|you may pay 2 life]]. If you don't, 
 
 ## Deck Role & Rating
 
-Shock dual for UB. Untapped if you pay 2 life; Island and Swamp, so [[02 Cards/Sorceries/Farseek|Farseek]] can find it. This is the documented answer to the `{B}{B}` pinch ([[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]]) plus a second blue source. Live in the 100. [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] is an owned cut.
+Shock dual for UB. Untapped if you pay 2 life; Island and Swamp, so [[02 Cards/Sorceries/Farseek|Farseek]] can find it. This is the documented answer to the {B}{B} pinch ([[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]]) plus a second blue source. Live in the 100. [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] is an owned cut.
 
 ## Play Patterns & Lines
 

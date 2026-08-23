@@ -50,7 +50,7 @@ As this land enters, [[03 Effects/Choose Type|choose Elemental, Elf, Faerie, Gia
 
 ## Deck Role & Rating
 
-Type-chooser land. Name Elf. `{T}`: `{C}`, or any colour that can only be spent to cast a spell of the chosen type or activate an ability of a source of the chosen type. That pays for Elf creature spells — including [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] — and for Elf abilities ([[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] tap, [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] tap-ten, [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]] token). Broader than [[02 Cards/Lands/Secluded Courtyard|Secluded Courtyard]], which is creature-only.
+Type-chooser land. Name Elf. {T}: {C}, or any colour that can only be spent to cast a spell of the chosen type or activate an ability of a source of the chosen type. That pays for Elf creature spells — including [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] — and for Elf abilities ([[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] tap, [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] tap-ten, [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]] token). Broader than [[02 Cards/Lands/Secluded Courtyard|Secluded Courtyard]], which is creature-only.
 
 ## Play Patterns & Lines
 

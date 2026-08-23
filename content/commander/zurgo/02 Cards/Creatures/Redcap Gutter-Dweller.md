@@ -76,7 +76,7 @@ Redcap dumps two Rats on ETB and then asks for a sac each upkeep to impulse the 
 
 - Committed cut for Bone-Cairn Butcher. Owned cut; not in the 100.
 - Rats cannot block. They are attack-or-sac only.
-- Four mana `{2}{R}{R}` for a 3/3 that wants a creature every upkeep.
+- Four mana {2}{R}{R} for a 3/3 that wants a creature every upkeep.
 - The impulse exile is this turn only — miss it and the card is gone.
 
 ## Related Pages

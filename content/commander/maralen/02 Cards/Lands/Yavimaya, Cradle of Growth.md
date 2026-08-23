@@ -64,7 +64,7 @@ Each land is a Forest in addition to its other land types. [[02 Cards/Creatures/
 
 - Opponents' lands become Forests too. Their Arbor Elves, landwalk, and Domain get better.
 - Not a Forest *card*. Lore / Visits / Farseek cannot fetch it.
-- Colourless on its own. You still need a way to make `{B}{G}{U}`.
+- Colourless on its own. You still need a way to make {B}{G}{U}.
 
 ## Related Pages
 

@@ -50,7 +50,7 @@ Equipped creature has [[03 Effects/Haste|haste]] and [[03 Effects/Shroud|shroud]
 
 ## Deck Role & Rating
 
-Haste and shroud on the equipped creature. Equip `{0}`. Slap it on [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] the turn she enters. Live in the 100. Shroud means *you* cannot target her either: [[02 Cards/Instants/Origin of Metalbending|Origin of Metalbending]]'s save, [[02 Cards/Lands/Rogue's Passage|Rogue's Passage]].
+Haste and shroud on the equipped creature. Equip {0}. Slap it on [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] the turn she enters. Live in the 100. Shroud means *you* cannot target her either: [[02 Cards/Instants/Origin of Metalbending|Origin of Metalbending]]'s save, [[02 Cards/Lands/Rogue's Passage|Rogue's Passage]].
 
 ## Play Patterns & Lines
 

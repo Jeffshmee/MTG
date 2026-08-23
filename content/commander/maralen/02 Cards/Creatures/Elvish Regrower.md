@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-Regrower is the cheaper permanent-recursion Elf. Same ETB as [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] — any permanent card from the yard to hand — for `{2}{G}{G}` and a 4/3 body. Priority targets are [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], then [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], and [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (and [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]] once it arrives). He mills and counts, but the returned card is why he is in the pile.
+Regrower is the cheaper permanent-recursion Elf. Same ETB as [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] — any permanent card from the yard to hand — for {2}{G}{G} and a 4/3 body. Priority targets are [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], then [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], and [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (and [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]] once it arrives). He mills and counts, but the returned card is why he is in the pile.
 
 ## Play Patterns & Lines
 

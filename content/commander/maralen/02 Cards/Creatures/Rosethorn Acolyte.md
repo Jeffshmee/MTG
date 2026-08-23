@@ -56,7 +56,7 @@ Rosethorn Acolyte is an Adventure first and an Elf later. Cast the Adventure to 
 
 - Adventure on 1 or 2 toward Maralen, a Faerie, or [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]]. The Adventure is not a creature and does not mill.
 - Cast the Elf after Maralen for the mill. That is the second spell from one card.
-- Once in play, tap for `{U}` to hold [[02 Cards/Instants/Negate|Negate]] or for `{B}` toward Morcant. Default is not `{G}` unless you are paying Perfect.
+- Once in play, tap for {U} to hold [[02 Cards/Instants/Negate|Negate]] or for {B} toward Morcant. Default is not {G} unless you are paying Perfect.
 - A Wave that hits the creature side is a 2/3 fixer. The Adventure cannot be hit from exile.
 
 ## Key Synergies

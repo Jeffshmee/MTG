@@ -48,13 +48,13 @@
 
 ## Deck Role & Rating
 
-Llanowar Elves is the premier one-mana Elf dork. Turn 1 into [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on 4 (or on 3 with a second dork) is the opening this list is built around. After she is down he is mill, steal-count, and a body that [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] converts into Wave mana. He does not fix `{U}` or `{B}` — he only accelerates green.
+Llanowar Elves is the premier one-mana Elf dork. Turn 1 into [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on 4 (or on 3 with a second dork) is the opening this list is built around. After she is down he is mill, steal-count, and a body that [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] converts into Wave mana. He does not fix {U} or {B} — he only accelerates green.
 
 ## Play Patterns & Lines
 
 - Turn 1 on a Forest, then keep him back to tap for Maralen on 4, or on 3 if you also have a second dork.
 - After Maralen, cast him even late: the ETB mills 2 and he is +1 Elf for the steal and for Archdruid.
-- On the [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] turn, do not tap every dork if you still need a blocker — the ritual from Archdruid is the X, not these `{G}` taps.
+- On the [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] turn, do not tap every dork if you still need a blocker — the ritual from Archdruid is the X, not these {G} taps.
 - He is a legal [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]] / [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]] return if you named Elf, but do not spend [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] on him.
 
 ## Key Synergies
@@ -67,7 +67,7 @@ Llanowar Elves is the premier one-mana Elf dork. Turn 1 into [[02 Cards/Creature
 ## Anti-synergies / Notes
 
 - Tapping him out on the Wave turn leaves a 1/1 that cannot block the flyer that eats Maralen.
-- `{T}: {G}` does not pay Maralen's `{U}` or Morcant's `{B}`. Pair him with a second color source.
+- {T}: {G} does not pay Maralen's {U} or Morcant's {B}. Pair him with a second color source.
 
 ## Related Pages
 

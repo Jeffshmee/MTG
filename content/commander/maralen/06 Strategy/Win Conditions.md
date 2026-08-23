@@ -47,7 +47,7 @@ This is the primary plan once Maralen lives a turn. Recursion exists to put the 
 **Live in the owned list**
 
 - The spell: Genesis Wave
-- Ritual: Archdruid — `{T}: Add {G}` per Elf; [[02 Cards/Creatures/Priest of Titania|Priest of Titania]] (Elves on the battlefield, including opponents'); [[02 Cards/Creatures/Marwyn, the Nurturer|Marwyn]] once she has grown; [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] — `{T}: Add {G}` per creature, so Faeries count
+- Ritual: Archdruid — {T}: Add {G} per Elf; [[02 Cards/Creatures/Priest of Titania|Priest of Titania]] (Elves on the battlefield, including opponents'); [[02 Cards/Creatures/Marwyn, the Nurturer|Marwyn]] once she has grown; [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] — {T}: Add {G} per creature, so Faeries count
 - Bodies: Lathril / Imperious / Warmaster tokens are the cheapest way to raise X
 - Hits that matter: Lathril, Morcant, Banner, Uprising, Panharmonicon, Findbroker, Regrower
 

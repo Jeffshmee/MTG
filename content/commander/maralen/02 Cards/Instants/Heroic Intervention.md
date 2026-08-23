@@ -52,7 +52,7 @@ Hexproof and indestructible on every permanent you control until end of turn. Th
 
 ## Play Patterns & Lines
 
-- Hold `{1}{G}`. Cast in response to the wrath, not preemptively.
+- Hold {1}{G}. Cast in response to the wrath, not preemptively.
 - Wave turn is the premium window. The dump plus Maralen all live.
 - Also stops targeted removal that [[02 Cards/Instants/Negate|Negate]] already spent itself on, or that Negate cannot hit (a creature spell).
 - Does not save you from sacrifice, bounce, 0 toughness, or a non-targeted exile like Farewell.

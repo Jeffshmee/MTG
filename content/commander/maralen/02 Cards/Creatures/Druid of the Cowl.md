@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-Druid of the Cowl is the two-mana `{T}:{G}` Elf. It is a turn slower than Llanowar but the 1/3 body actually lives, which matters when you need a blocker the turn you tap [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] for Wave. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] it mills and counts. Treat it as the dork you play when the one-drops are gone, not as a reason to keep a slow hand.
+Druid of the Cowl is the two-mana {T}:{G} Elf. It is a turn slower than Llanowar but the 1/3 body actually lives, which matters when you need a blocker the turn you tap [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] for Wave. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] it mills and counts. Treat it as the dork you play when the one-drops are gone, not as a reason to keep a slow hand.
 
 ## Play Patterns & Lines
 
@@ -66,7 +66,7 @@ Druid of the Cowl is the two-mana `{T}:{G}` Elf. It is a turn slower than Llanow
 
 ## Anti-synergies / Notes
 
-- Two mana for `{T}:{G}` is a poor rate if you already have a one-drop dork and Maralen ready.
+- Two mana for {T}:{G} is a poor rate if you already have a one-drop dork and Maralen ready.
 - Still green-only. It does not fix Maralen's blue or Morcant's black.
 
 - Owned cut. Sitting on the sideboard.

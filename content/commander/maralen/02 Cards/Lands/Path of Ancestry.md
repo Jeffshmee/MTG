@@ -51,7 +51,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Deck Role & Rating
 
-Tapped Sultai fixer. `{T}`: one mana of any colour in your commander's identity. When that mana is spent to cast a creature spell that shares a type with [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]], scry 1. Commander is Elf Faerie, so Elf *or* Faerie creature spells scry. There is no type to name. It is live in the 100.
+Tapped Sultai fixer. {T}: one mana of any colour in your commander's identity. When that mana is spent to cast a creature spell that shares a type with [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]], scry 1. Commander is Elf Faerie, so Elf *or* Faerie creature spells scry. There is no type to name. It is live in the 100.
 
 ## Play Patterns & Lines
 

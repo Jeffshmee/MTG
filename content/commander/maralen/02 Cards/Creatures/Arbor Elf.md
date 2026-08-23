@@ -48,13 +48,13 @@
 
 ## Deck Role & Rating
 
-Arbor Elf is the Forest-untap dork, not a raw `{G}` elf. Untap a [[02 Cards/Lands/Forest|Forest]] to double-spell into [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] or to float the extra green for [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]'s token. After she is down he is still an Elf ETB (mill 2) and +1 to the steal count, then he feeds [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]]'s ritual. He is the one-drop that turns a single Forest into two spells.
+Arbor Elf is the Forest-untap dork, not a raw {G} elf. Untap a [[02 Cards/Lands/Forest|Forest]] to double-spell into [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] or to float the extra green for [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]'s token. After she is down he is still an Elf ETB (mill 2) and +1 to the steal count, then he feeds [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]]'s ritual. He is the one-drop that turns a single Forest into two spells.
 
 ## Play Patterns & Lines
 
 - Turn 1 Arbor, turn 2 tap Forest + Arbor-untap to deploy another two-drop and still leave mana. Maralen is five mana: one Arbor gets her on 4; Arbor plus a second dork gets her on 3.
 - After Maralen, play him for the mill even if you do not need the mana — then leave him untapped as a 1/1 blocker on the Wave turn.
-- Untap the Forest that actually produces `{G}` before you tap [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] so the ritual plus land mana can pay a real [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] X.
+- Untap the Forest that actually produces {G} before you tap [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] so the ritual plus land mana can pay a real [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] X.
 - Once [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya, Cradle of Growth]] is in play, every land is a Forest and he becomes a true double-mana elf.
 
 ## Key Synergies

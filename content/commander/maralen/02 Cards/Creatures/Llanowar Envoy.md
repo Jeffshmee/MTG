@@ -48,11 +48,11 @@
 
 ## Deck Role & Rating
 
-Llanowar Envoy is a three-mana Elf that filters: pay `{1}{G}`, add one mana of any color. The rate is bad. It stays because it is an Elf — mill and steal-count after [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] — and because this list is hungry for `{U}` and `{B}` off a Forest pile. Treat it as Wave/count fodder that can splash, not as ramp.
+Llanowar Envoy is a three-mana Elf that filters: pay {1}{G}, add one mana of any color. The rate is bad. It stays because it is an Elf — mill and steal-count after [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] — and because this list is hungry for {U} and {B} off a Forest pile. Treat it as Wave/count fodder that can splash, not as ramp.
 
 ## Play Patterns & Lines
 
-- Cast after Maralen for the mill. Activate only when you need `{U}` for [[02 Cards/Instants/Negate|Negate]] or `{B}` for [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] / [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]].
+- Cast after Maralen for the mill. Activate only when you need {U} for [[02 Cards/Instants/Negate|Negate]] or {B} for [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] / [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]].
 - Do not activate into Wave. Archdruid is the ritual; Envoy's filter costs mana.
 - A 3/2 body can attack under lords. That is more damage than Elfhame will ever deal.
 - Never Rhythm for this. If Wave hits it, take the Elf and move on.
@@ -66,7 +66,7 @@ Llanowar Envoy is a three-mana Elf that filters: pay `{1}{G}`, add one mana of a
 
 ## Anti-synergies / Notes
 
-- `{1}{G}` to add one mana is negative ramp. Using it the turn you want to Wave shrinks X.
+- {1}{G} to add one mana is negative ramp. Using it the turn you want to Wave shrinks X.
 - Worse fixer than [[02 Cards/Creatures/Llanowar Loamspeaker|Llanowar Loamspeaker]] or [[02 Cards/Creatures/Rosethorn Acolyte|Rosethorn Acolyte]]. Play those first.
 
 - Owned cut. Sitting on the sideboard.

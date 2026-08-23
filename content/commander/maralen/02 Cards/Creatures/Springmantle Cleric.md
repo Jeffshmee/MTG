@@ -48,7 +48,7 @@ This creature enters with a [[03 Effects/Plus One Counters|+1/+1 counter]] on it
 
 ## Deck Role & Rating
 
-Springmantle Cleric is a five-mana Elf that enters with a +1/+1 counter per color spent. Off `{G}` it is a 3/4. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] it mills and counts. That is the whole card: a late Wave/count body with a slightly bigger frame. Do not build the turn around spending three colors to make it a 5/6.
+Springmantle Cleric is a five-mana Elf that enters with a +1/+1 counter per color spent. Off {G} it is a 3/4. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] it mills and counts. That is the whole card: a late Wave/count body with a slightly bigger frame. Do not build the turn around spending three colors to make it a 5/6.
 
 ## Play Patterns & Lines
 

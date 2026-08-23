@@ -47,13 +47,13 @@
 
 ## Deck Role & Rating
 
-`{T}`: add `{C}{C}`. Cast [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] faster. Not an Elf. Owned (in hand) but **left out of the 100** — [[02 Cards/Artifacts/Firdoch Core|Firdoch Core]] stays as the changeling rock. Extra copies stay in the box.
+{T}: add {C}{C}. Cast [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] faster. Not an Elf. Owned (in hand) but **left out of the 100** — [[02 Cards/Artifacts/Firdoch Core|Firdoch Core]] stays as the changeling rock. Extra copies stay in the box.
 
 ## Play Patterns & Lines
 
 - Turn 1 Ring, then a dork or [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], then Maralen ahead of curve.
 - After she is down this is just mana. Sequence an Elf ETB over tapping this if you need the mill this turn.
-- Colourless. You still need `{B}{G}{U}` from somewhere.
+- Colourless. You still need {B}{G}{U} from somewhere.
 
 ## Key Synergies
 

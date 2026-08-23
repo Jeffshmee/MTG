@@ -1,6 +1,6 @@
 # Add Mana
 
-An instruction to add mana to your mana pool (for example `{T}: Add {R}`). That mana can be spent to cast spells and activate abilities.
+An instruction to add mana to your mana pool (for example {T}: Add {R}). That mana can be spent to cast spells and activate abilities.
 
 This deck needs reliable Mardu mana so [[02 Cards/Creatures/Zurgo Stormrender|Zurgo]] can come down on turn 3.
 

@@ -51,7 +51,7 @@
 
 ## Deck Role & Rating
 
-Llanowar Visionary is the clean three-drop after [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]]: mill 2, draw a card, then tap for `{G}`. That refill is why it stays over another blank Elf. The body is an Elf for [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] and the steal count. Cast it on 3 with Maralen already down whenever you can.
+Llanowar Visionary is the clean three-drop after [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]]: mill 2, draw a card, then tap for {G}. That refill is why it stays over another blank Elf. The body is an Elf for [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] and the steal count. Cast it on 3 with Maralen already down whenever you can.
 
 ## Play Patterns & Lines
 
@@ -69,7 +69,7 @@ Llanowar Visionary is the clean three-drop after [[02 Cards/Creatures/Maralen, F
 
 ## Anti-synergies / Notes
 
-- `{T}:{G}` is still green-only. Visionary does not fix blue or black.
+- {T}:{G} is still green-only. Visionary does not fix blue or black.
 - Three mana with no haste on the tap. It does not accelerate Maralen the turn it comes down.
 
 ## Related Pages

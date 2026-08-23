@@ -48,7 +48,7 @@ You may cast spells as though they had [[03 Effects/Flash|flash]].
 
 ## Deck Role & Rating
 
-You may cast spells as though they had flash. If this is in your opening hand, you may begin the game with it on the battlefield. That is the card: flash [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]], flash [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]], flash the stolen spell on their end step. Paying `{2}{U}{U}` later is a worse version. It is live in the 100.
+You may cast spells as though they had flash. If this is in your opening hand, you may begin the game with it on the battlefield. That is the card: flash [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]], flash [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]], flash the stolen spell on their end step. Paying {2}{U}{U} later is a worse version. It is live in the 100.
 
 ## Play Patterns & Lines
 
@@ -66,7 +66,7 @@ You may cast spells as though they had flash. If this is in your opening hand, y
 ## Anti-synergies / Notes
 
 - Not tribal. Does not mill and does not raise the steal count.
-- Paying `{2}{U}{U}` from hand is a tempo hole on a five-mana commander.
+- Paying {2}{U}{U} from hand is a tempo hole on a five-mana commander.
 - They can still counter the flashed spell.
 
 ## Related Pages

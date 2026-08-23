@@ -50,12 +50,12 @@ Instant and sorcery spells you cast cost {1} [[03 Effects/Cost Reduction|less to
 
 ## Deck Role & Rating
 
-Mocking Sprite is the Faerie that makes instants and sorceries cost `{1}` less. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] it mills and counts. The discount is for spells you actually pay for: [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]], [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]], [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Instants/Heritage Reclamation|Heritage Reclamation]]. Maralen's steal already casts without paying, so Sprite does not help the free spell — it helps the Wave turn and the interaction you hold up.
+Mocking Sprite is the Faerie that makes instants and sorceries cost {1} less. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] it mills and counts. The discount is for spells you actually pay for: [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]], [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]], [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Instants/Heritage Reclamation|Heritage Reclamation]]. Maralen's steal already casts without paying, so Sprite does not help the free spell — it helps the Wave turn and the interaction you hold up.
 
 ## Play Patterns & Lines
 
-- Cast after Maralen for the mill, then keep `{U}{U}` (or `{1}{U}` after the discount) for Negate.
-- Wave is `{X}{G}{G}{G}`. Sprite knocks one generic off, so the same Archdruid pile buys +1 X.
+- Cast after Maralen for the mill, then keep {U}{U} (or {1}{U} after the discount) for Negate.
+- Wave is {X}{G}{G}{G}. Sprite knocks one generic off, so the same Archdruid pile buys +1 X.
 - Rhythm X=3 becomes cheaper to hard-cast. Harmonize still needs its own cost.
 - A 2/1 flyer can chump the bird that is pointed at Maralen. That is a real use.
 

@@ -53,11 +53,11 @@ As this artifact enters, [[03 Effects/Choose Type|choose Elemental, Elf, Faerie,
 
 ## Deck Role & Rating
 
-Pennant is the third recursion outlet. Name Elf: each Elf permanent that enters gains you 1 life, and `{2}`, tap, sacrifice returns an Elf card from the yard to hand. That is how you replay [[02 Cards/Creatures/High Perfect Morcant|Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], or [[02 Cards/Creatures/Elvish Archdruid|Archdruid]] when Findbroker and Regrower are not available. The life is incidental.
+Pennant is the third recursion outlet. Name Elf: each Elf permanent that enters gains you 1 life, and {2}, tap, sacrifice returns an Elf card from the yard to hand. That is how you replay [[02 Cards/Creatures/High Perfect Morcant|Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], or [[02 Cards/Creatures/Elvish Archdruid|Archdruid]] when Findbroker and Regrower are not available. The life is incidental.
 
 ## Play Patterns & Lines
 
-- Name Elf. Sac it the turn a legend dies if you have `{2}` and no other outlet.
+- Name Elf. Sac it the turn a legend dies if you have {2} and no other outlet.
 - Do not sac it for a dork. The card is the outlet, not the 1 life.
 - After Maralen, Elf tokens (Lathril, Imperious) trigger the life and later can be the reason you have a yard.
 

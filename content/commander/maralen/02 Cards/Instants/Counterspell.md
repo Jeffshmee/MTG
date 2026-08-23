@@ -51,7 +51,7 @@ Wishlist hard counter. Counter any spell — including the creature spells [[02 
 
 ## Play Patterns & Lines
 
-- Hold `{U}{U}` for the wipe, the extra turn, or the creature that would eat Maralen.
+- Hold {U}{U} for the wipe, the extra turn, or the creature that would eat Maralen.
 - Better than Negate when the table is creature-heavy. Worse when you only have one Island.
 - After it arrives it sits next to Negate: Negate on the cheap noncreature, this on anything.
 
@@ -63,7 +63,7 @@ Wishlist hard counter. Counter any spell — including the creature spells [[02 
 ## Anti-synergies / Notes
 
 - Not in the owned list yet. Not purchased.
-- `{U}{U}` is a real cost on a green-heavy manabase.
+- {U}{U} is a real cost on a green-heavy manabase.
 - Still one-for-one. Does not save a board the way [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] does.
 
 ## Related Pages

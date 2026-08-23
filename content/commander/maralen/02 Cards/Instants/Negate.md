@@ -51,7 +51,7 @@ Cheap noncreature counter — the wipe, the extra turn, or the exile-based remov
 
 ## Play Patterns & Lines
 
-- Hold `{1}{U}` on the turn you cast Maralen or [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]].
+- Hold {1}{U} on the turn you cast Maralen or [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]].
 - Counter the wrath or the exile spell, not their ramp.
 - Creature removal that is a creature (a Rec Sage, a pack-rat eater) walks. So does a creature commander pointed at her in combat.
 - After the pending saves arrive, this stays the cheap noncreature answer.

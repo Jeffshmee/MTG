@@ -56,7 +56,7 @@ Banner is why the list is Elf-majority. Name Elf: anthem on the team plus any-co
 ## Play Patterns & Lines
 
 - Name Elf. Always. The owned pile is not a Faerie deck.
-- Curve it before Maralen if you need the coloured mana; after her if you already have `{B}{G}{U}` and want the anthem on Lathril / tokens.
+- Curve it before Maralen if you need the coloured mana; after her if you already have {B}{G}{U} and want the anthem on Lathril / tokens.
 - If it dies, get it back before you get a dork. Lords without Banner still work; Banner without a board is still a rock.
 
 ## Key Synergies

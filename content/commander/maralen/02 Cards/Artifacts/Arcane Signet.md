@@ -47,13 +47,13 @@
 
 ## Deck Role & Rating
 
-Two-mana Sultai rock. `{T}`: add one mana of any colour in your commander's colour identity — `{B}`, `{G}`, or `{U}`. Cast [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on time. Not an Elf.
+Two-mana Sultai rock. {T}: add one mana of any colour in your commander's colour identity — {B}, {G}, or {U}. Cast [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on time. Not an Elf.
 
 ## Play Patterns & Lines
 
 - Turn 2 Signet, turn 3–4 Maralen. Fixes the pip the dorks do not.
 - After she is down, tap it for the next Elf rather than sitting on unused colours.
-- Better than [[02 Cards/Artifacts/Sol Ring|Sol Ring]] (owned, left out of the 100) at paying `{U}` for [[02 Cards/Instants/Negate|Negate]] or `{B}` for Findbroker.
+- Better than [[02 Cards/Artifacts/Sol Ring|Sol Ring]] (owned, left out of the 100) at paying {U} for [[02 Cards/Instants/Negate|Negate]] or {B} for Findbroker.
 
 ## Key Synergies
 

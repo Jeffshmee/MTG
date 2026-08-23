@@ -56,14 +56,14 @@ Findbroker is the expensive half of the permanent-recursion pair with [[02 Cards
 - After a wipe or a kill on Morcant / Lathril / Archdruid, this is the replay. Cast him after Maralen so the ETB mills as well.
 - Priority if several permanents are in the yard: Panharmonicon → Morcant or Lathril (whichever the table still requires) → Banner or Uprising → a random dork.
 - [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] can dump him and immediately return something the Wave put in the yard, or something that died in the same pile.
-- Four mana `{B}{B}{G}{G}` is awkward. Do not hold him as a dork.
+- Four mana {B}{B}{G}{G} is awkward. Do not hold him as a dork.
 
 ## Key Synergies
 
 - **Replay the legends**: [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]
 - **Permanent engines**: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]], [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]]
 - **Fill the yard**: [[02 Cards/Creatures/Glowspore Shaman|Glowspore Shaman]], [[02 Cards/Creatures/Lluwen, Imperfect Naturalist|Lluwen]], [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]] *(owned cuts)*
-- **Cheaper twin**: [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] (same ETB, `{2}{G}{G}`)
+- **Cheaper twin**: [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] (same ETB, {2}{G}{G})
 
 ## Anti-synergies / Notes
 

@@ -51,11 +51,11 @@
 
 ## Deck Role & Rating
 
-Llanowar Loamspeaker is the any-color two-mana dork. `{T}` for any color is how a green-heavy hand actually casts [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] or [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]]. After she is down it mills and counts. The land-animation is not an Elf and does not mill — do not use it unless you need a 3/3 blocker. Tap for mana is the default.
+Llanowar Loamspeaker is the any-color two-mana dork. {T} for any color is how a green-heavy hand actually casts [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] or [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]]. After she is down it mills and counts. The land-animation is not an Elf and does not mill — do not use it unless you need a 3/3 blocker. Tap for mana is the default.
 
 ## Play Patterns & Lines
 
-- Turn 2 Loamspeaker, turn 4 Maralen off the any-color — or turn 3 if you also have a one-drop. This is the card that turns a Forest-Forest hand into `{U}` and `{B}`.
+- Turn 2 Loamspeaker, turn 4 Maralen off the any-color — or turn 3 if you also have a one-drop. This is the card that turns a Forest-Forest hand into {U} and {B}.
 - After Maralen, play it for mill and hold it as a fixer for [[02 Cards/Instants/Negate|Negate]] or Morcant.
 - Animate a land only to block a lethal attacker. The Elemental is not an Elf or Faerie, so it does not raise the steal count and dies to removal with your land.
 - Leave it untapped on the Wave turn if you still need a color for a steal or a Perfect token after the pile.

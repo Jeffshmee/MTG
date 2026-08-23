@@ -51,10 +51,10 @@ Two cards, two life, two black. Not tribal. Owned cut — [[02 Cards/Sorceries/D
 
 ## Play Patterns & Lines
 
-- Early: draw toward dorks and `{B}{G}{U}`.
+- Early: draw toward dorks and {B}{G}{U}.
 - After Maralen: refill so you can play an Elf or Faerie every turn.
 - Point it at an opponent only if two life actually finishes them.
-- `{B}{B}` is awkward on a Forest-heavy manabase. Do not keep a hand that is this plus one Swamp and no other black.
+- {B}{B} is awkward on a Forest-heavy manabase. Do not keep a hand that is this plus one Swamp and no other black.
 
 ## Key Synergies
 

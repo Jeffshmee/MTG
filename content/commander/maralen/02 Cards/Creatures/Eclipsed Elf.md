@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-Eclipsed Elf is the owned list's cheap Elf finder. The ETB looks at four and takes an Elf, a Swamp, or a Forest. After Maralen that is a mill plus the next piece; before her it is a land or a dork so you hit `{B}{G}{U}` on time. If the four contain [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] or [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], take the one the table requires (see [[06 Strategy/Play Patterns|Play Patterns]]).
+Eclipsed Elf is the owned list's cheap Elf finder. The ETB looks at four and takes an Elf, a Swamp, or a Forest. After Maralen that is a mill plus the next piece; before her it is a land or a dork so you hit {B}{G}{U} on time. If the four contain [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] or [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], take the one the table requires (see [[06 Strategy/Play Patterns|Play Patterns]]).
 
 ## Play Patterns & Lines
 

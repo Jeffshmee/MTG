@@ -49,13 +49,13 @@
 
 ## Deck Role & Rating
 
-Colourless utility land. `{T}`: `{C}`. `{4}`, `{T}`: target creature cannot be blocked this turn. The sneak for [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] (combat-damage tokens) or [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] (4 flying when they have reach or a bigger flyer). Not a type-chooser.
+Colourless utility land. {T}: {C}. {4}, {T}: target creature cannot be blocked this turn. The sneak for [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] (combat-damage tokens) or [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] (4 flying when they have reach or a bigger flyer). Not a type-chooser.
 
 ## Play Patterns & Lines
 
 - Activate on Lathril after lords have pumped her. Unblocked damage is that many Elf Warriors, and those mill if Maralen is out.
 - Activate on Maralen when flying is not enough. She is already 4 power.
-- `{4}` plus tap is a full turn of mana. Do it when the connect wins more than the next spell.
+- {4} plus tap is a full turn of mana. Do it when the connect wins more than the next spell.
 - [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]] shroud stops this. Unequip first.
 
 ## Key Synergies
@@ -65,7 +65,7 @@ Colourless utility land. `{T}`: `{C}`. `{4}`, `{T}`: target creature cannot be b
 
 ## Anti-synergies / Notes
 
-- Colourless. A Passage-heavy draw misses `{B}{G}{U}`.
+- Colourless. A Passage-heavy draw misses {B}{G}{U}.
 - Five mana to activate. Not a free trick.
 - Targets. Greaves shroud on Maralen blanks this until you move the boots.
 

@@ -51,7 +51,7 @@
 
 ## Deck Role & Rating
 
-Changeling rock. It is every creature type, so it is an Elf *and* a Faerie for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]]'s mill trigger and steal count even while it is not a creature. `{T}`: any colour toward Maralen. `{4}`: becomes a 4/4 until end of turn — extra body, extra [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]] draw if you pay it.
+Changeling rock. It is every creature type, so it is an Elf *and* a Faerie for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]]'s mill trigger and steal count even while it is not a creature. {T}: any colour toward Maralen. {4}: becomes a 4/4 until end of turn — extra body, extra [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]] draw if you pay it.
 
 ## Play Patterns & Lines
 
@@ -68,7 +68,7 @@ Changeling rock. It is every creature type, so it is an Elf *and* a Faerie for [
 
 ## Anti-synergies / Notes
 
-- Not a creature until you pay `{4}`. [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] cannot find it, and it does not attack on its own.
+- Not a creature until you pay {4}. [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] cannot find it, and it does not attack on its own.
 - Animate lasts one turn.
 - Three mana is slow if you already have dorks untapped.
 

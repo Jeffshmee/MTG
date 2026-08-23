@@ -60,10 +60,10 @@ Glamermite is the three-mana flash Faerie that taps or untaps a creature on ETB.
 
 ## Play Patterns & Lines
 
-- Wave turn: tap Archdruid for `{G}` per Elf, flash Glamermite, untap Archdruid, tap again. That is the owned double-ritual.
+- Wave turn: tap Archdruid for {G} per Elf, flash Glamermite, untap Archdruid, tap again. That is the owned double-ritual.
 - Combat: tap their only blocker so Lathril or Maralen connects, or tap the flyer that is pointed at Maralen.
 - Their end step, with Maralen up: flash, mill 2, raise the count, steal on your turn.
-- Untap Perfect to make a second token the same turn if you have the `{G}`.
+- Untap Perfect to make a second token the same turn if you have the {G}.
 
 ## Key Synergies
 

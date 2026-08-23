@@ -50,7 +50,7 @@ As this land enters, [[03 Effects/Choose Type|choose a creature type]].
 
 ## Deck Role & Rating
 
-Type-chooser land. Name Elf. `{T}`: `{C}`, or any colour that can only be spent to cast a *creature* spell of the chosen type or activate an ability of a *creature* source of the chosen type. Pays for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] and the Elf dorks. Tighter than [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] — no noncreature Elf spells, no noncreature Elf sources.
+Type-chooser land. Name Elf. {T}: {C}, or any colour that can only be spent to cast a *creature* spell of the chosen type or activate an ability of a *creature* source of the chosen type. Pays for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] and the Elf dorks. Tighter than [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] — no noncreature Elf spells, no noncreature Elf sources.
 
 ## Play Patterns & Lines
 

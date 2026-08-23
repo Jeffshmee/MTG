@@ -48,13 +48,13 @@
 
 ## Deck Role & Rating
 
-Elvish Mystic is the third one-mana `{T}:{G}` Elf. The copies exist so you actually see a turn-1 dork and hit [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on 4, or on 3 with a second dork. Once she is down he is mill, steal-count, and ritual fuel for [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] — the owned Wave outlet. He is interchangeable with Llanowar and Fyndhorn; keep him in the opener for the same reason.
+Elvish Mystic is the third one-mana {T}:{G} Elf. The copies exist so you actually see a turn-1 dork and hit [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on 4, or on 3 with a second dork. Once she is down he is mill, steal-count, and ritual fuel for [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] — the owned Wave outlet. He is interchangeable with Llanowar and Fyndhorn; keep him in the opener for the same reason.
 
 ## Play Patterns & Lines
 
 - Curve: Mystic, land, Maralen. If you already have two lands and Maralen, still play him t1 so t2 can be Elite or another two-drop plus a tap.
 - After Maralen, a drawn Mystic is not a brick — cast it for the mill and the extra Elf on Archdruid.
-- Hold one `{G}` dork back when you tap Archdruid for [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] if you need a chump or a green for [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]'s token after the Wave.
+- Hold one {G} dork back when you tap Archdruid for [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] if you need a chump or a green for [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]'s token after the Wave.
 - Never Rhythm for Mystic. If he dies, [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]] can bring him back as a cheap re-mill.
 
 ## Key Synergies

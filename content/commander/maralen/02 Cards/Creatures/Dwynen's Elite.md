@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-Dwynen's Elite is two Elves for `{1}{G}` if you already control an Elf. That is two Maralen mills, +2 steal count, and two bodies for [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] and [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] blight. Sequence it after a dork or after Maralen herself — she is an Elf Faerie, so she turns the token on. The token is an Elf Warrior, so it mills when it enters.
+Dwynen's Elite is two Elves for {1}{G} if you already control an Elf. That is two Maralen mills, +2 steal count, and two bodies for [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] and [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] blight. Sequence it after a dork or after Maralen herself — she is an Elf Faerie, so she turns the token on. The token is an Elf Warrior, so it mills when it enters.
 
 ## Play Patterns & Lines
 

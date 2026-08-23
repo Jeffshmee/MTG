@@ -23,13 +23,13 @@ Protect Maralen. Live: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Enchantme
 
 ## Opening and curve
 
-**Keep** a hand that can make `{B}{G}{U}` and cast Maralen by turn 5 (sooner with dorks).
+**Keep** a hand that can make {B}{G}{U} and cast Maralen by turn 5 (sooner with dorks).
 
 - Untapped sources: [[02 Cards/Lands/Command Tower|Command Tower]], [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]], [[02 Cards/Lands/Watery Grave|Watery Grave]], [[02 Cards/Lands/Breeding Pool|Breeding Pool]], [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] (name Elf), [[02 Cards/Lands/Secluded Glen|Secluded Glen]] if you reveal a Faerie. [[02 Cards/Lands/Opulent Palace|Opulent Palace]] is the tapped three-colour gap filler — keep it.
-- One-mana Elves: [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]], [[02 Cards/Creatures/Fyndhorn Elves|Fyndhorn Elves]], [[02 Cards/Creatures/Elvish Mystic|Elvish Mystic]], [[02 Cards/Creatures/Arbor Elf|Arbor Elf]], [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]] (taps for `{B}`).
+- One-mana Elves: [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]], [[02 Cards/Creatures/Fyndhorn Elves|Fyndhorn Elves]], [[02 Cards/Creatures/Elvish Mystic|Elvish Mystic]], [[02 Cards/Creatures/Arbor Elf|Arbor Elf]], [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]] (taps for {B}).
 - Two-drops that matter before her: [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]], [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]], [[02 Cards/Creatures/Priest of Titania|Priest of Titania]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]].
 
-**Mulligan** hands with no green dork or no path to `{U}` and `{B}`.
+**Mulligan** hands with no green dork or no path to {U} and {B}.
 
 **Turn 4–5:** Maralen. Have a follow-up Elf or Faerie in hand. She needs the next body the same turn or the next.
 
@@ -44,7 +44,7 @@ Protect Maralen. Live: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Enchantme
 | Empty boards, you need count / Wave fuel / a steal number | [[02 Cards/Creatures/Lathril, Blade of the Elves\|Lathril]] | Combat tokens are Elves. They mill, they pay Archdruid, they attack. |
 | They have creatures you cannot race | [[02 Cards/Creatures/High Perfect Morcant\|High Perfect Morcant]] | Every later Elf ETB blights. Proliferate as a sorcery once three Elves can tap. |
 | You have Wave and a board, no ritual | [[02 Cards/Creatures/Elvish Archdruid\|Elvish Archdruid]] on **X=3** | The close is already in hand. |
-| You need a token factory this turn, no Lathril | [[02 Cards/Creatures/Imperious Perfect\|Imperious Perfect]] on **X=3** | `{G}`, tap: Elf Warrior. |
+| You need a token factory this turn, no Lathril | [[02 Cards/Creatures/Imperious Perfect\|Imperious Perfect]] on **X=3** | {G}, tap: Elf Warrior. |
 | A problem artifact / enchantment | [[02 Cards/Creatures/Reclamation Sage\|Reclamation Sage]] on **X=2** | The answer is also an Elf. |
 
 After Maralen, prefer Rhythm so the ETB mills. Dina's Guidance is the one you hold up. Eclipsed Elf is the one you cast as a body.

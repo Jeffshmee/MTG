@@ -48,12 +48,12 @@
 
 ## Deck Role & Rating
 
-Fyndhorn Elves is a second copy of the Llanowar job: `{G}` on turn 1 so [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] lands on 3–4. After she is in play he mills, counts for the steal, and is another Elf for [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] to turn into Wave mana. Keep every one-mana `{T}:{G}` Elf — the list does not have enough rituals yet to skip these.
+Fyndhorn Elves is a second copy of the Llanowar job: {G} on turn 1 so [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] lands on 3–4. After she is in play he mills, counts for the steal, and is another Elf for [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] to turn into Wave mana. Keep every one-mana {T}:{G} Elf — the list does not have enough rituals yet to skip these.
 
 ## Play Patterns & Lines
 
 - Lead on him, then hold the tap for Maralen rather than dumping a two-drop if she is in hand.
-- A late Fyndhorn after Maralen is still correct: mill 2, +1 count, +1 toward Archdruid's `{G}` per Elf.
+- A late Fyndhorn after Maralen is still correct: mill 2, +1 count, +1 toward Archdruid's {G} per Elf.
 - Leave at least one dork untapped when you Wave if the table has flyers — Maralen dies in the air.
 - Recur him only as filler. [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] X=3 is [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] or [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]], not this.
 
@@ -66,7 +66,7 @@ Fyndhorn Elves is a second copy of the Llanowar job: `{G}` on turn 1 so [[02 Car
 
 ## Anti-synergies / Notes
 
-- Same ceiling as every 1/1 dork: dies to any point of damage and cannot make `{U}`/`{B}`.
+- Same ceiling as every 1/1 dork: dies to any point of damage and cannot make {U}/{B}.
 - Do not tap the whole dork row into Wave and then pass with no blockers.
 
 ## Related Pages

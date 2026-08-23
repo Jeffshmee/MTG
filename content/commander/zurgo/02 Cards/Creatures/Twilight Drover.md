@@ -57,7 +57,7 @@ Twilight Drover turns every token leave into a +1/+1 counter, then cashes a coun
 ## Play Patterns & Lines
 
 - Play it before you attack. The first Mobilize wave puts a counter on it at end of turn with no extra mana.
-- Cash a counter after combat if you need two flyers now: `{2}{W}`, two Spirits, Tremors pings, Elas life, and two more Zurgo leaves later.
+- Cash a counter after combat if you need two flyers now: {2}{W}, two Spirits, Tremors pings, Elas life, and two more Zurgo leaves later.
 - Clamp or Caesar-sac an attacking 1/1: Zurgo draws, Garna draws, Drover gets a counter, Clamp draws two.
 - [[02 Cards/Creatures/Teysa Karlov|Teysa]] doubles the counter when the leave is a **death**. Exile or bounce is still one counter (and Zurgo still fires once).
 
@@ -71,7 +71,7 @@ Twilight Drover turns every token leave into a +1/+1 counter, then cashes a coun
 ## Anti-synergies / Notes
 
 - It is a 1/1. Any ping kills it before the first Mobilize wave lands.
-- Cashing counters costs `{2}{W}` each time. Do not dump your whole stack the turn you need mana for Zurgo or Aurelia.
+- Cashing counters costs {2}{W} each time. Do not dump your whole stack the turn you need mana for Zurgo or Aurelia.
 - [[02 Cards/Enchantments/Divine Visitation|Divine Visitation]] turns the Spirits into 4/4 Angels; Clamp then no longer kills them, but they still leave into Zurgo when they actually die or get exiled.
 
 ## Related Pages

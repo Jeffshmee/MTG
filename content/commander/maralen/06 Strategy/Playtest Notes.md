@@ -10,7 +10,7 @@ See also [[06 Strategy/Play Patterns|Play Patterns]] and [[06 Strategy/Win Condi
 > Do not cut Rosethorn for Bloom Tender. The Adventure is any-color mana with no gold permanent required. That is how green-heavy hands actually cast Maralen.
 >
 > > [!note]- AI Comments
-> > Keep [[02 Cards/Creatures/Rosethorn Acolyte|Rosethorn Acolyte]] in the 100. [[02 Cards/Creatures/Bloom Tender|Bloom Tender]] is Vivid: without a blue or black permanent it taps for one green. Rosethorn’s Adventure pays `{U}` or `{B}` off Forests on turn 1–2. Same reason not to spend [[02 Cards/Creatures/Llanowar Loamspeaker|Llanowar Loamspeaker]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], or [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]] on Bloom.
+> > Keep [[02 Cards/Creatures/Rosethorn Acolyte|Rosethorn Acolyte]] in the 100. [[02 Cards/Creatures/Bloom Tender|Bloom Tender]] is Vivid: without a blue or black permanent it taps for one green. Rosethorn’s Adventure pays {U} or {B} off Forests on turn 1–2. Same reason not to spend [[02 Cards/Creatures/Llanowar Loamspeaker|Llanowar Loamspeaker]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], or [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]] on Bloom.
 > > **Reinforce:** Bloom’s locked cut is [[02 Cards/Creatures/Wardens of the Cycle|Wardens of the Cycle]] (75) — four-mana morbid draw, not a fixer. Mastermind now covers draw.
 > > **Overcome:** three mana for the creature side is slow if Loamspeaker is already out.
 
@@ -60,7 +60,7 @@ See also [[06 Strategy/Play Patterns|Play Patterns]] and [[06 Strategy/Win Condi
 > Even though it enters tapped, it fixes all three identities. Too good a gap filler for Maralen to cut for Breeding Pool.
 >
 > > [!note]- AI Comments
-> > Keep [[02 Cards/Lands/Opulent Palace|Opulent Palace]]. It is the only tapped land that makes `{B}`, `{G}`, *and* `{U}` without a type restriction. Command Tower and shocks cover two-colour pairs; Palace covers the awkward Maralen pip when the shocks are the wrong two.
+> > Keep [[02 Cards/Lands/Opulent Palace|Opulent Palace]]. It is the only tapped land that makes {B}, {G}, *and* {U} without a type restriction. Command Tower and shocks cover two-colour pairs; Palace covers the awkward Maralen pip when the shocks are the wrong two.
 > > **Reinforce:** do not cut it land-for-land for a shock. Breeding Pool replaced a Forest instead.
 > > **Overcome:** it enters tapped. Do not keep a one-land hand that is only Palace.
 
@@ -80,7 +80,7 @@ See also [[06 Strategy/Play Patterns|Play Patterns]] and [[06 Strategy/Win Condi
 > Not the best in playtesting. Better land-fixing options now. Cut for Lightning Greaves.
 >
 > > [!note]- AI Comments
-> > [[02 Cards/Creatures/Glowspore Shaman|Glowspore Shaman]] mills you three and can stack a land. Self-mill for Findbroker is real, but the card sat as a 3/1 that did not fix `{U}` or `{B}` the way the new duals and Deep Shadow do.
+> > [[02 Cards/Creatures/Glowspore Shaman|Glowspore Shaman]] mills you three and can stack a land. Self-mill for Findbroker is real, but the card sat as a 3/1 that did not fix {U} or {B} the way the new duals and Deep Shadow do.
 > > **Reinforce:** do not put it back while Watery Grave, Breeding Pool, Elves of Deep Shadow, and Farseek are in the 100.
 > > **Committed 2026-08-21:** owned cut. [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]] took the slot.
 

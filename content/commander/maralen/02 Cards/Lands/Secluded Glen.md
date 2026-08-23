@@ -49,13 +49,13 @@ As this land enters, you may reveal a Faerie card from your hand. If you don't, 
 
 ## Deck Role & Rating
 
-`{U}` or `{B}` land. Enters untapped if you reveal a Faerie card from your hand; otherwise tapped. [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] is a Faerie, but she sits in the command zone — you cannot reveal her. Faeries you *can* reveal: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]], [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Tegwyll, Duke of Splendor|Tegwyll]], [[02 Cards/Creatures/Obyra, Dreaming Duelist|Obyra]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]], [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela]]. It is live in the 100.
+{U} or {B} land. Enters untapped if you reveal a Faerie card from your hand; otherwise tapped. [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] is a Faerie, but she sits in the command zone — you cannot reveal her. Faeries you *can* reveal: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]], [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Tegwyll, Duke of Splendor|Tegwyll]], [[02 Cards/Creatures/Obyra, Dreaming Duelist|Obyra]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]], [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela]]. It is live in the 100.
 
 ## Play Patterns & Lines
 
 - Reveal a Faerie from hand and keep it untapped. That is the keep-it-fast line.
 - No Faerie in hand: it comes in tapped. Play it on a turn you do not need the pip immediately.
-- Fixes `{U}` for [[02 Cards/Instants/Negate|Negate]] and `{B}` for [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] without eating a Forest.
+- Fixes {U} for [[02 Cards/Instants/Negate|Negate]] and {B} for [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] without eating a Forest.
 
 ## Key Synergies
 
@@ -66,7 +66,7 @@ As this land enters, you may reveal a Faerie card from your hand. If you don't, 
 ## Anti-synergies / Notes
 
 - This list is Elf-majority. Many hands have no Faerie, so this is often just a tapped UB land.
-- Does not tap for `{G}`.
+- Does not tap for {G}.
 
 ## Related Pages
 

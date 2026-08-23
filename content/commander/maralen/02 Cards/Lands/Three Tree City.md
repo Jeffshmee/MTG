@@ -50,12 +50,12 @@ As Three Tree City enters, [[03 Effects/Choose Type|choose a creature type]].
 
 ## Deck Role & Rating
 
-Legendary type-chooser land. Name Elf. `{T}`: `{C}`. `{2}`, `{T}`: choose a colour, add that much mana of that colour equal to the number of creatures you control of the chosen type. Ritual land for [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] once the board is wide. It is live in the 100.
+Legendary type-chooser land. Name Elf. {T}: {C}. {2}, {T}: choose a colour, add that much mana of that colour equal to the number of creatures you control of the chosen type. Ritual land for [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] once the board is wide. It is live in the 100.
 
 ## Play Patterns & Lines
 
-- Name Elf. The `{C}` tap is fine early; the `{2}` tap is the card once Lathril or Imperious has made a team.
-- After [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] this is a second ritual outlet that can make `{B}` or `{U}`, not just `{G}`.
+- Name Elf. The {C} tap is fine early; the {2} tap is the card once Lathril or Imperious has made a team.
+- After [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] this is a second ritual outlet that can make {B} or {U}, not just {G}.
 - [[02 Cards/Artifacts/Firdoch Core|Firdoch Core]] counts only while it is a creature. Tokens count.
 
 ## Key Synergies
@@ -66,7 +66,7 @@ Legendary type-chooser land. Name Elf. `{T}`: `{C}`. `{2}`, `{T}`: choose a colo
 ## Anti-synergies / Notes
 
 - Naming Faerie on this owned-shape list is a brick.
-- `{2}` plus tap does nothing if the board was just wiped.
+- {2} plus tap does nothing if the board was just wiped.
 - Legendary. Two copies would legend-rule (you only have one).
 
 ## Related Pages

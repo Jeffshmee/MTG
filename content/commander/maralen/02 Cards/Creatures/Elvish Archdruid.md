@@ -50,7 +50,7 @@ Other Elf creatures you control [[03 Effects/Pump Creatures|get +1/+1]].
 
 ## Deck Role & Rating
 
-Archdruid is the owned Wave outlet and a third lord. Other Elves get +1/+1; `{T}` adds {G} per Elf. Tutor him with [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] on X=3 when you have Wave and a board, and get him back with Findbroker / Regrower / Loyalist if he dies before the close. He mills and counts, but the tap is why he is the highest Combined creature in the 99.
+Archdruid is the owned Wave outlet and a third lord. Other Elves get +1/+1; {T} adds {G} per Elf. Tutor him with [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] on X=3 when you have Wave and a board, and get him back with Findbroker / Regrower / Loyalist if he dies before the close. He mills and counts, but the tap is why he is the highest Combined creature in the 99.
 
 ## Play Patterns & Lines
 

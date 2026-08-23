@@ -50,7 +50,7 @@ At the beginning of your upkeep, [[03 Effects/Surveil|surveil 1]].
 
 ## Deck Role & Rating
 
-Kindred Enchantment — Elf. Surveil 1 on your upkeep, then `{4}{G}{G}`, sacrifice: create X 2/2 black and green Elf tokens, where X is the number of Elf cards in your graveyard. Yard-matters with [[02 Cards/Creatures/Glowspore Shaman|Glowspore Shaman]] and [[02 Cards/Creatures/Lluwen, Imperfect Naturalist|Lluwen]]. The enchantment itself is an Elf permanent, so [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] mills when it enters. It is live in the 100.
+Kindred Enchantment — Elf. Surveil 1 on your upkeep, then {4}{G}{G}, sacrifice: create X 2/2 black and green Elf tokens, where X is the number of Elf cards in your graveyard. Yard-matters with [[02 Cards/Creatures/Glowspore Shaman|Glowspore Shaman]] and [[02 Cards/Creatures/Lluwen, Imperfect Naturalist|Lluwen]]. The enchantment itself is an Elf permanent, so [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] mills when it enters. It is live in the 100.
 
 ## Play Patterns & Lines
 

@@ -70,7 +70,7 @@ An Elf that taps for {G} per creature you control — Faeries count, unlike Prie
 
 ## Anti-synergies / Notes
 
-- `{G}{G}{G}` does not fix `{B}` or `{U}`. Priest is still the better early dork.
+- {G}{G}{G} does not fix {B} or {U}. Priest is still the better early dork.
 - 2/1. Dies to a single point of damage.
 - Live in the 100. [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]] is the owned cut.
 
