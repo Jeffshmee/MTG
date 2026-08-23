@@ -51,4 +51,4 @@ Colour pages are spells only (no lands, no tokens). Colourless is empty colour, 
 
 ## How copies are counted
 
-A row in **Box** (All Cards) and a row in a **deck** are different piles. Q
+A row in **Box** (All Cards) and a row in a **deck** are different piles. Qty is the sum across binders.
