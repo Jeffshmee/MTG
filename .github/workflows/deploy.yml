@@ -34,8 +34,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-plugins-
       - run: npm ci
-      - run: npx quartz plugin install --from-config
-      - run: npx quartz build
+      - run: npm run install-plugins
+      - run: node ./quartz/bootstrap-cli.mjs build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
