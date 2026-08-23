@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:87%"></div></div>
 >
-> ![Arcane](https://cards.scryfall.io/border_crop/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg)
+> ![Arcane](https://cards.scryfall.io/border_crop/front/1/5/156a1ca1-e4b1-4e0c-a786-fd80fe189896.jpg)
 >
 > ### Deck Scores
 >
@@ -85,7 +85,7 @@ Arcane Signet is a main-deck artifact.
 >   general: 90
 >   deck_specific: 85
 >   combined: 87
-> scryfall_id: 1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd
+> scryfall_id: 156a1ca1-e4b1-4e0c-a786-fd80fe189896
 > tags:
 >   - card
 >   - main-deck

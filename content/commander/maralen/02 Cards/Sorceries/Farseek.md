@@ -2,9 +2,9 @@
 
 > [!card-proxy] **`mtg:Farseek`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {1}{G}  
-> **Type:** Sorcery  
+> **Status:** Main Deck 
+> **Mana Cost:** {1}{G} 
+> **Type:** Sorcery 
 >
 > ### Deck Synergy
 > **78** / 100
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Ramp that searches for a Plains, Island, Swamp, or Mountain and puts it onto the battlefield tapped. In this Sultai list that means Island or Swamp — or a dual that is one of those types: [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]] (Swamp Forest), [[02 Cards/Lands/Watery Grave|Watery Grave]] (Island Swamp), [[02 Cards/Lands/Breeding Pool|Breeding Pool]] (Forest Island). It cannot find a Forest. Purchased; it is not in the owned list until it is in hand.
+Ramp that searches for a Plains, Island, Swamp, or Mountain and puts it onto the battlefield tapped. In this Sultai list that means Island or Swamp — or a dual that is one of those types: [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]] (Swamp Forest), [[02 Cards/Lands/Watery Grave|Watery Grave]] (Island Swamp), [[02 Cards/Lands/Breeding Pool|Breeding Pool]] (Forest Island). It cannot find a Forest. Live in the 100. [[02 Cards/Creatures/Elvish Rejuvenator|Elvish Rejuvenator]] is the owned cut.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,6 @@ Ramp that searches for a Plains, Island, Swamp, or Mountain and puts it onto the
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet.
 - Cannot find Forest, [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya]], or any land that is only a Forest.
 - Tapped land. Slower than Lore / Visits.
 
@@ -88,17 +87,17 @@ Ramp that searches for a Plains, Island, Swamp, or Mountain and puts it onto the
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 80
->   deck_specific: 76
->   combined: 78
+>  general: 80
+>  deck_specific: 76
+>  combined: 78
 > scryfall_id: c1aac0f5-1d01-4673-b8d3-878d9a1d423c
 > tags:
->   - card
->   - ordered
->   - sorcerie
+>  - card
+>  - main-deck
+>  - sorcerie
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

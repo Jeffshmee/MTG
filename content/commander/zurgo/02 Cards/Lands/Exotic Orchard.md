@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:76%"></div></div>
 >
-> ![Exotic](https://cards.scryfall.io/border_crop/front/d/1/d11c5fe0-1528-4c94-a8cc-42bcab9d7487.jpg)
+> ![Exotic](https://cards.scryfall.io/border_crop/front/d/c/dc0a1bc1-ba94-4494-a196-5363fde85194.jpg)
 >
 > ### Deck Scores
 >
@@ -86,7 +86,7 @@ Exotic Orchard is a main-deck land.
 >   general: 77
 >   deck_specific: 75
 >   combined: 76
-> scryfall_id: d11c5fe0-1528-4c94-a8cc-42bcab9d7487
+> scryfall_id: dc0a1bc1-ba94-4494-a196-5363fde85194
 > tags:
 >   - card
 >   - main-deck

@@ -2,16 +2,16 @@
 
 > [!card-proxy] **`mtg:Arcane Signet`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {2}  
-> **Type:** Artifact  
+> **Status:** Main Deck 
+> **Mana Cost:** {2} 
+> **Type:** Artifact 
 >
 > ### Deck Synergy
 > **85** / 100
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Arcane](https://cards.scryfall.io/border_crop/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222)
+> ![Arcane](https://cards.scryfall.io/border_crop/front/9/c/9ce66ebc-b39f-4b40-9d95-981629a5dd06.jpg)
 >
 > ### Deck Scores
 >
@@ -47,22 +47,21 @@
 
 ## Deck Role & Rating
 
-Two-mana Sultai rock. `{T}`: add one mana of any colour in your commander's colour identity — `{B}`, `{G}`, or `{U}`. Cast [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on time. Not an Elf. Purchased; it is not in the owned list until it is in hand.
+Two-mana Sultai rock. `{T}`: add one mana of any colour in your commander's colour identity — `{B}`, `{G}`, or `{U}`. Cast [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on time. Not an Elf.
 
 ## Play Patterns & Lines
 
 - Turn 2 Signet, turn 3–4 Maralen. Fixes the pip the dorks do not.
 - After she is down, tap it for the next Elf rather than sitting on unused colours.
-- Better than [[02 Cards/Artifacts/Sol Ring|Sol Ring]] at paying `{U}` for [[02 Cards/Instants/Negate|Negate]] or `{B}` for [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]].
+- Better than [[02 Cards/Artifacts/Sol Ring|Sol Ring]] (owned, left out of the 100) at paying `{U}` for [[02 Cards/Instants/Negate|Negate]] or `{B}` for Findbroker.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Other pending rock**: [[02 Cards/Artifacts/Sol Ring|Sol Ring]]
+- **Other rock (owned, left out)**: [[02 Cards/Artifacts/Sol Ring|Sol Ring]]
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet.
 - Not an Elf. No mill, no steal count.
 - Two mana that is not a body. A dork is often the better turn-2 play once you already have the colours.
 
@@ -87,17 +86,17 @@ Two-mana Sultai rock. `{T}`: add one mana of any colour in your commander's colo
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 86
->   deck_specific: 84
->   combined: 85
-> scryfall_id: 1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd
+>  general: 86
+>  deck_specific: 84
+>  combined: 85
+> scryfall_id: 9ce66ebc-b39f-4b40-9d95-981629a5dd06
 > tags:
->   - card
->   - ordered
->   - artifact
+>  - card
+>  - main-deck
+>  - artifact
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Druid of the Cowl`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {1}{G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 1/3  
@@ -69,6 +69,8 @@ Druid of the Cowl is the two-mana `{T}:{G}` Elf. It is a turn slower than Llanow
 - Two mana for `{T}:{G}` is a poor rate if you already have a one-drop dork and Maralen ready.
 - Still green-only. It does not fix Maralen's blue or Morcant's black.
 
+- Owned cut. Sitting on the sideboard.
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -90,7 +92,7 @@ Druid of the Cowl is the two-mana `{T}:{G}` Elf. It is a turn slower than Llanow
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 72
 >   deck_specific: 78
@@ -98,7 +100,7 @@ Druid of the Cowl is the two-mana `{T}:{G}` Elf. It is a turn slower than Llanow
 > scryfall_id: db2d0ee9-865c-4fc9-8cb6-540c597e1bf4
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

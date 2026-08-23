@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:73%"></div></div>
 >
-> ![Abrade](https://cards.scryfall.io/border_crop/front/1/a/1add1757-c1f8-448a-b279-c6940fb7ad5f.jpg)
+> ![Abrade](https://cards.scryfall.io/border_crop/front/a/a/aa74ab7c-b9de-47ab-83ea-2b98738838c7.jpg)
 >
 > ### Deck Scores
 >
@@ -90,7 +90,7 @@ Abrade is a main-deck instant.
 >   general: 78
 >   deck_specific: 70
 >   combined: 73
-> scryfall_id: 1add1757-c1f8-448a-b279-c6940fb7ad5f
+> scryfall_id: aa74ab7c-b9de-47ab-83ea-2b98738838c7
 > tags:
 >   - card
 >   - main-deck

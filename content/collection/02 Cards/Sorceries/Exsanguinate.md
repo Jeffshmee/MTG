@@ -1,0 +1,68 @@
+# Exsanguinate
+
+> [!card-proxy] **`mtg:Exsanguinate`**
+>
+> **Mana Cost:** {X}{B}{B}
+> **Type:** Sorcery
+>
+> ![Exsanguinate](https://cards.scryfall.io/border_crop/front/f/1/f11d7311-4066-4a5d-ba28-9857fa707a0b.jpg)
+
+## Classification
+
+| Category | Links |
+|----------|-------|
+| **Card type** | [[03 Card Types/Sorcery\|Sorcery]] |
+| **Creature type** | — |
+| **Colour** | [[05 Colours/Black\|Black]] |
+| **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
+| **Where** | [[06 Browse/Box\|Box]] |
+
+## Printings
+
+<div class="synergy-score collection-copies">
+<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-why">
+<table>
+<thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
+<tbody>
+<tr><td>Foundations (<code>FDN</code>)</td><td>173</td><td>—</td><td>1</td><td>Box</td><td>0.33</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+### Arts in this Collection
+
+Printings in the collection. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/1/f11d7311-4066-4a5d-ba28-9857fa707a0b.jpg" alt="Exsanguinate FDN 173 · ×1">
+<figcaption>FDN 173 · ×1</figcaption>
+</figure>
+</div>
+
+## Related
+
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+
+---
+
+> [!metadata]- Metadata
+> ```yaml
+> name: "Exsanguinate"
+> aliases:
+>   - "Exsanguinate"
+> mana_cost: "{X}{B}{B}"
+> cmc: 2
+> type: "Sorcery"
+> scryfall_id: f11d7311-4066-4a5d-ba28-9857fa707a0b
+> quantity: 1
+> tags:
+>   - black
+>   - card
+>   - collection
+>   - mana-2
+>   - sorcery
+>   - uncommon
+> ```

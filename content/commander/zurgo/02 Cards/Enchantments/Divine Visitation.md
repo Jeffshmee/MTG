@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
-> ![Divine Visitation](https://cards.scryfall.io/border_crop/front/d/a/dabd95db-b4ca-446b-bb68-6f52cec9ed2a.jpg)
+> ![Divine Visitation](https://cards.scryfall.io/border_crop/front/3/8/3800216f-5b35-4cfa-bcdb-d70e9b368d18.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ Mobilize's delayed sacrifice still happens, so you attack with 4/4 flyers and th
 >   general: 85
 >   deck_specific: 93
 >   combined: 89
-> scryfall_id: dabd95db-b4ca-446b-bb68-6f52cec9ed2a
+> scryfall_id: 3800216f-5b35-4cfa-bcdb-d70e9b368d18
 > tags:
 >   - card
 >   - main-deck

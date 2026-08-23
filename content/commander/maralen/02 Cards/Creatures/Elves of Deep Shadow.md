@@ -2,17 +2,17 @@
 
 > [!card-proxy] **`mtg:Elves of Deep Shadow`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {G}  
-> **Type:** Creature — Elf Druid  
-> **P/T:** 1/1  
+> **Status:** Main Deck 
+> **Mana Cost:** {G} 
+> **Type:** Creature — Elf Druid 
+> **P/T:** 1/1 
 >
 > ### Deck Synergy
 > **84** / 100
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Elves](https://cards.scryfall.io/border_crop/front/6/0/6040ba5e-7042-4095-9000-89bcb8ce1ea6.jpg?1783940403)
+> ![Elves](https://cards.scryfall.io/border_crop/front/f/d/fd1cd0c9-ab13-48c4-b5bf-942ca75608cd.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-One-mana Elf that taps for {B} and deals 1 damage to you. That is the cheapest way to fix Maralen's black off a Forest. It still counts for mill, steal, Archdruid, Priest, Warmaster, and Loyalist. It is Ordered and sits on the sideboard — not in the owned list yet.
+One-mana Elf that taps for {B} and deals 1 damage to you. That is the cheapest way to fix Maralen's black off a Forest. It still counts for mill, steal, Archdruid, Priest, Warmaster, and Loyalist. Live in the 100.
 
 ## Play Patterns & Lines
 
@@ -70,8 +70,6 @@ One-mana Elf that taps for {B} and deals 1 damage to you. That is the cheapest w
 - 1 damage a tap. Adds up in long games and stacks with Bearer.
 - Only makes black. It does not pay green Wave.
 - 1/1. Dies to any ping.
-- Not in the owned list yet.
-
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -93,17 +91,17 @@ One-mana Elf that taps for {B} and deals 1 damage to you. That is the cheapest w
 > colors: [B, G]
 > color_identity: [B, G]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 80
->   deck_specific: 86
->   combined: 84
-> scryfall_id: 6040ba5e-7042-4095-9000-89bcb8ce1ea6
+>  general: 80
+>  deck_specific: 86
+>  combined: 84
+> scryfall_id: fd1cd0c9-ab13-48c4-b5bf-942ca75608cd
 > tags:
->   - card
->   - ordered
->   - creature
+>  - card
+>  - main-deck
+>  - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

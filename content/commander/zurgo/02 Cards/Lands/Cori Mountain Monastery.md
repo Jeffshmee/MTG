@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:73%"></div></div>
 >
-> ![Cori](https://cards.scryfall.io/border_crop/front/9/3/9312821a-2059-4f44-9b20-c9522b827e38.jpg)
+> ![Cori](https://cards.scryfall.io/border_crop/front/8/5/85b84c4c-465d-4d8d-8d38-2ed08a9213b3.jpg)
 >
 > ### Deck Scores
 >
@@ -94,7 +94,7 @@ Cori Mountain Monastery is a main-deck land.
 >   general: 75
 >   deck_specific: 72
 >   combined: 73
-> scryfall_id: 9312821a-2059-4f44-9b20-c9522b827e38
+> scryfall_id: 85b84c4c-465d-4d8d-8d38-2ed08a9213b3
 > tags:
 >   - card
 >   - main-deck

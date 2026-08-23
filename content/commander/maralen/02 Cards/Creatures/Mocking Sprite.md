@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:78%"></div></div>
 >
-> ![Mocking](https://cards.scryfall.io/border_crop/front/d/5/d52d16be-c74b-4e40-94f9-2ffa497b6337.jpg?1783903953)
+> ![Mocking](https://cards.scryfall.io/border_crop/front/f/6/f6792f63-b651-497d-8aa5-cddf4cedeca8.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ Mocking Sprite is the Faerie that makes instants and sorceries cost `{1}` less. 
 >   general: 74
 >   deck_specific: 80
 >   combined: 78
-> scryfall_id: d52d16be-c74b-4e40-94f9-2ffa497b6337
+> scryfall_id: f6792f63-b651-497d-8aa5-cddf4cedeca8
 > tags:
 >   - card
 >   - main-deck

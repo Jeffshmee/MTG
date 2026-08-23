@@ -98,11 +98,11 @@ legality: commander
 1 Dragonskull Summit
 1 Exotic Orchard
 1 Fetid Heath
+1 Goblin-town
 1 Godless Shrine
 1 Isolated Chapel
 5 Mountain
 1 Nomad Outpost
-1 Path of Ancestry
 4 Plains
 1 Savai Triome
 1 Shattered Landscape
@@ -117,7 +117,7 @@ legality: commander
 ---
 
 *Source: `mardu-zurgo/07 Assets/current-deck.md`*  
-*Last synced: 2026-08-20*
+*Last synced: 2026-08-23*
 
 ---
 
@@ -215,11 +215,11 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Lands/Dragonskull Summit|Dragonskull Summit]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Lands/Exotic Orchard|Exotic Orchard]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
 - [[02 Cards/Lands/Fetid Heath|Fetid Heath]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
+- [[02 Cards/Lands/Goblin-town|Goblin-town]] **56** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:56%"></div></div>
 - [[02 Cards/Lands/Godless Shrine|Godless Shrine]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Isolated Chapel|Isolated Chapel]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Lands/Mountain|Mountain]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
 - [[02 Cards/Lands/Nomad Outpost|Nomad Outpost]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
-- [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Lands/Plains|Plains]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
 - [[02 Cards/Lands/Savai Triome|Savai Triome]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Shattered Landscape|Shattered Landscape]] **69** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:69%"></div></div>

@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Patchwork](https://cards.scryfall.io/border_crop/front/5/3/537ea7e7-e8e8-4736-bdd9-1085f1a7c259.jpg?1783903215)
+> ![Patchwork](https://cards.scryfall.io/border_crop/front/8/1/81669ca8-3f20-45e6-b088-65969dcd93d1.jpg)
 >
 > ### Deck Scores
 >
@@ -97,7 +97,7 @@ Banner is why the list is Elf-majority. Name Elf: anthem on the team plus any-co
 >   general: 78
 >   deck_specific: 90
 >   combined: 85
-> scryfall_id: 537ea7e7-e8e8-4736-bdd9-1085f1a7c259
+> scryfall_id: 81669ca8-3f20-45e6-b088-65969dcd93d1
 > tags:
 >   - card
 >   - main-deck

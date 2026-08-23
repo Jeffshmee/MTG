@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Swamp](https://cards.scryfall.io/border_crop/front/b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659)
+> ![Swamp](https://cards.scryfall.io/border_crop/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg)
 >
 > ### Deck Scores
 >
@@ -62,6 +62,29 @@ Swamp is a mana source in this Sultai pile. Prefer it when it is untapped or nam
 
 - Keep Maralen on the battlefield. The deck does much less without her.
 
+### Arts in this Deck
+
+Printings sleeved in this 100. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg" alt="Swamp FDN 276 · ×3">
+<figcaption>FDN 276 · ×3</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/0/f0bfdb9e-318f-4acd-9fbd-41b98a8875d6.jpg" alt="Swamp TDM 281 · ×2">
+<figcaption>TDM 281 · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/d/1dd4d605-02a2-4183-b191-0bca8dfbf962.jpg" alt="Swamp ECL 271 · ×1">
+<figcaption>ECL 271 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/d/fda1dbfa-a57b-4aa8-9993-c8f97aec28bb.jpg" alt="Swamp FDN 287 · ×1">
+<figcaption>FDN 287 · ×1</figcaption>
+</figure>
+</div>
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -88,7 +111,7 @@ Swamp is a mana source in this Sultai pile. Prefer it when it is untapped or nam
 >   general: 70
 >   deck_specific: 70
 >   combined: 70
-> scryfall_id: b7387103-1df1-4fd0-9e91-1544509792c7
+> scryfall_id: 319bc1f0-ee42-44e5-b08b-735613ded2ba
 > tags:
 >   - card
 >   - main-deck

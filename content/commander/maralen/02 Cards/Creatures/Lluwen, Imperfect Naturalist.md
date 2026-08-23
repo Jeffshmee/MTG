@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Lluwen, Imperfect Naturalist`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {B/G}{B/G}  
 > **Type:** Legendary Creature — Elf Druid  
 > **P/T:** 1/3  
@@ -52,7 +52,7 @@
 
 ## Deck Role & Rating
 
-Lluwen is a two-mana Elf that mills you four, then can stack a creature or land from those cards. That is the job: set up the next draw and dump payoffs into the yard for [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] / [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]. The Worm mode is not a win. Worm tokens are not Elves or Faeries — they do not mill for Maralen and they do not count for the steal. Use him as a yard-setup Elf.
+Lluwen is a two-mana Elf that mills you four, then can stack a creature or land from those cards. That is the job: set up the next draw and dump payoffs into the yard for [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] / [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]. The Worm mode is not a win. Worm tokens are not Elves or Faeries — they do not mill for Maralen and they do not count for the steal. Use him as a yard-setup Elf. Owned cut — [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]] took the slot. The Worm mode is off-plan.
 
 ## Play Patterns & Lines
 
@@ -71,6 +71,8 @@ Lluwen is a two-mana Elf that mills you four, then can stack a creature or land 
 
 - Worm tokens do not trigger Maralen and do not raise the steal number. That mode is off-plan.
 - Self-mill can hit [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]. Do not stack a land over a Wave you still need to draw.
+
+- Owned cut. Sitting on the sideboard.
 
 ## Related Pages
 
@@ -93,7 +95,7 @@ Lluwen is a two-mana Elf that mills you four, then can stack a creature or land 
 > colors: [B, G]
 > color_identity: [B, G]
 > keywords: ["Mill"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 76
 >   deck_specific: 74
@@ -101,7 +103,7 @@ Lluwen is a two-mana Elf that mills you four, then can stack a creature or land 
 > scryfall_id: 127a30a6-c25a-448a-a242-dc04f273a854
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

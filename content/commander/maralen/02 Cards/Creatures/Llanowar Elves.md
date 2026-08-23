@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> ![Llanowar](https://cards.scryfall.io/border_crop/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.jpg?1783909057)
+> ![Llanowar](https://cards.scryfall.io/border_crop/front/7/3/73542493-cd0b-4bb7-a5b8-8f889c76e4d6.jpg)
 >
 > ### Deck Scores
 >
@@ -95,7 +95,7 @@ Llanowar Elves is the premier one-mana Elf dork. Turn 1 into [[02 Cards/Creature
 >   general: 84
 >   deck_specific: 90
 >   combined: 88
-> scryfall_id: 6a0b230b-d391-4998-a3f7-7b158a0ec2cd
+> scryfall_id: 73542493-cd0b-4bb7-a5b8-8f889c76e4d6
 > tags:
 >   - card
 >   - main-deck

@@ -257,6 +257,49 @@ a.internal-link:hover {
   mix-blend-mode: normal !important;
 }
 
+.deck-arts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 0.7rem;
+  margin: 0.45rem 0 1rem;
+  width: auto;
+  max-width: 100%;
+  min-width: 0;
+  clear: none;
+  overflow: hidden;
+}
+
+.markdown-preview-view:has(> .callout[data-callout="card-proxy"]) .deck-arts,
+.markdown-rendered:has(> .callout[data-callout="card-proxy"]) .deck-arts {
+  grid-column: 2;
+  min-width: 0;
+}
+
+.deck-arts figure {
+  margin: 0;
+  width: 7.25rem;
+  flex: 0 0 7.25rem;
+  min-width: 0;
+}
+
+.deck-arts img,
+.popover-inner .deck-arts img {
+  width: 7.25rem !important;
+  max-width: 7.25rem !important;
+  height: auto !important;
+  max-height: none !important;
+  display: block !important;
+  margin: 0 !important;
+  border-radius: 5px;
+}
+
+.deck-arts figcaption {
+  font-size: 0.72rem;
+  line-height: 1.25;
+  margin-top: 0.22rem;
+  opacity: 0.85;
+}
+
 img.mana-pip,
 .callout img.mana-pip,
 .callout[data-callout="card-proxy"] img.mana-pip,
@@ -427,6 +470,24 @@ pre {
     max-width: 480px !important;
     margin: 0 0 1.5rem 0 !important;
   }
+}
+
+table.sortable thead th,
+.markdown-rendered table thead th {
+  cursor: pointer;
+  user-select: none;
+}
+
+table.sortable thead th[data-sort="asc"]::after,
+.markdown-rendered table thead th[data-sort="asc"]::after {
+  content: " \2191";
+  opacity: 0.7;
+}
+
+table.sortable thead th[data-sort="desc"]::after,
+.markdown-rendered table thead th[data-sort="desc"]::after {
+  content: " \2193";
+  opacity: 0.7;
 }
 
 .mtg-decklist {
@@ -656,5 +717,40 @@ body[data-slug^="commander/maralen/"] {
 
   .callout[data-callout="card-proxy"] .callout-content h3 {
     color: #20a265 !important;
+  }
+}
+
+// Collection vault Infocard — gold #C69324 on a dark warm ground
+body[data-slug="collection"],
+body[data-slug^="collection/"] {
+  .callout[data-callout="card-proxy"] {
+    --color: #c69324;
+    --border: #8a6418;
+    --bg: #1a1208;
+    --callout-color: 198, 147, 36;
+    background: #1a1208 !important;
+    background-color: #1a1208 !important;
+    border: 1px solid #8a6418 !important;
+    color: #c69324 !important;
+  }
+
+  .callout[data-callout="card-proxy"] .callout-title,
+  .callout[data-callout="card-proxy"] .callout-title-inner,
+  .callout[data-callout="card-proxy"] .callout-icon {
+    background: #241808 !important;
+    color: #c69324 !important;
+  }
+
+  .callout[data-callout="card-proxy"] .callout-content,
+  .callout[data-callout="card-proxy"] .callout-content p,
+  .callout[data-callout="card-proxy"] .callout-content li,
+  .callout[data-callout="card-proxy"] .callout-content td,
+  .callout[data-callout="card-proxy"] .callout-content strong {
+    color: #c69324 !important;
+  }
+
+  .synergy-score-num {
+    background: #c69324 !important;
+    color: #1a1208 !important;
   }
 }

@@ -64,7 +64,7 @@ The flash enabler: you may cast spells as though they had flash. That is instant
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
 - **Wave**: [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
-- **Owned flash**: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]]
+- **Owned flash**: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **Flash package**: [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]]
 - **Pending flash package**: [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]

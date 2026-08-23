@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Godless](https://cards.scryfall.io/border_crop/front/8/f/8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6.jpg?1784036826)
+> ![Godless](https://cards.scryfall.io/border_crop/front/c/e/ced4c824-2dfc-42ae-84e6-09f8e3f51b5b.jpg)
 >
 > ### Deck Scores
 >
@@ -93,7 +93,7 @@ Godless Shrine is the untapped WB shock: pay 2 life or it comes in tapped. [[02 
 >   general: 85
 >   deck_specific: 80
 >   combined: 82
-> scryfall_id: 8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6
+> scryfall_id: ced4c824-2dfc-42ae-84e6-09f8e3f51b5b
 > tags:
 >   - card
 >   - main-deck

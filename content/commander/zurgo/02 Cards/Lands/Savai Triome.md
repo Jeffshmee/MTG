@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Savai](https://cards.scryfall.io/border_crop/front/7/4/748e6a61-9c1f-4225-9f04-e54002f63ac3.jpg?1783931000)
+> ![Savai](https://cards.scryfall.io/border_crop/front/d/2/d21ef9e6-e2dd-4e0a-a36c-e07034ac4ba3.jpg)
 >
 > ### Deck Scores
 >
@@ -99,7 +99,7 @@ Savai Triome is the tapped Mardu triome: one land for {R}, {W}, or {B}, typed Mo
 >   general: 85
 >   deck_specific: 80
 >   combined: 82
-> scryfall_id: 748e6a61-9c1f-4225-9f04-e54002f63ac3
+> scryfall_id: d21ef9e6-e2dd-4e0a-a36c-e07034ac4ba3
 > tags:
 >   - card
 >   - main-deck

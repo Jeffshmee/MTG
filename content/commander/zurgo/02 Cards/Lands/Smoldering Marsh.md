@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:75%"></div></div>
 >
-> ![Smoldering](https://cards.scryfall.io/border_crop/front/d/7/d707c477-440f-417c-970a-0e7426a58045.jpg)
+> ![Smoldering](https://cards.scryfall.io/border_crop/front/d/6/d6890462-aeb0-4356-93dc-b2eda0df0c0e.jpg)
 >
 > ### Deck Scores
 >
@@ -90,7 +90,7 @@ Smoldering Marsh is a main-deck land.
 >   general: 76
 >   deck_specific: 74
 >   combined: 75
-> scryfall_id: d707c477-440f-417c-970a-0e7426a58045
+> scryfall_id: d6890462-aeb0-4356-93dc-b2eda0df0c0e
 > tags:
 >   - card
 >   - main-deck

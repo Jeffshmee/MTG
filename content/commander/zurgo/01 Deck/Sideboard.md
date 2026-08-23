@@ -8,11 +8,11 @@ group: auto
 legality: commander
 
 # Pending Adds (still not in hand / not committed)
+1 Path of Ancestry
 1 Sacred Foundry
 1 Mardu Ascendancy
 
 # Other / Lower Priority (owned, not in the 100)
-1 Goblin-town
 1 Mardu Devotee
 1 Mardu Banner
 1 Kimoyo Beads
@@ -40,7 +40,7 @@ legality: commander
 ---
 
 *Source: `mardu-zurgo/07 Assets/sideboard.md` + notes.md*  
-*Last synced: 2026-08-20*
+*Last synced: 2026-08-23*
 
 ---
 
@@ -216,6 +216,15 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > > - [[02 Cards/Lands/Temple of Triumph|Temple of Triumph]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
 > > - [[02 Cards/Lands/Battlefield Forge|Battlefield Forge]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
 
+> [!info] **`mtg:Path of Ancestry`**
+> **81** / 100 · 🟡 Ordered
+> <div class="synergy-bar"><div style="width:81%"></div></div>
+>
+> [[02 Cards/Lands/Path of Ancestry|Open local page →]]
+>
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Lands/Goblin-town|Goblin-town]] **56** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:56%"></div></div>
+
 > [!info] **`mtg:Temple of Silence`**
 > **70** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:70%"></div></div>
@@ -239,11 +248,3 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > [[02 Cards/Lands/Terramorphic Expanse|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Goblin-town`**
-> **56** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:56%"></div></div>
->
-> [[02 Cards/Lands/Goblin-town|Open local page →]]
->
-> *Stay in sideboard / already cut — Path of Ancestry stays. Do not swap this back.*

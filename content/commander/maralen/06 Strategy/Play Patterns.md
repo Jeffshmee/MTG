@@ -4,7 +4,7 @@ How this owned list is supposed to play. Commander is [[02 Cards/Creatures/Maral
 
 See also [[06 Strategy/Win Conditions|Win Conditions]] and [[01 Deck/Current Deck|Current Deck]].
 
-**Status of this draft:** written against the **100**. Starred arrivals from `07 Assets/arrival-priority.md` are live. Remaining Ordered cards (Priest, Bloom, Circle, Greaves, Heroic, Scion, Alela, rocks, Watery Grave, Breeding Pool) stay on [[01 Deck/Sideboard|Sideboard]]. Confounding Riddle and Aid from the Cowl are owned and still need a named cut.
+**Status of this draft:** written against the **100** after the 2026-08-23 commit (Mastermind >> Illusion Spinners, Circle >> Lys Alana Informant). Sol Ring was left out on purpose (Firdoch stays). Bloom Tender is still Ordered — reserved cut is Wardens of the Cycle. Confounding Riddle and Aid from the Cowl still need a named cut.
 
 ---
 
@@ -15,9 +15,9 @@ Maralen has two jobs:
 1. **ETB** — whenever she or another Elf or Faerie you control enters, exile the top two cards of an opponent's library.
 2. **Steal** — once each turn, cast a spell from among those exiled cards without paying its mana cost if its mana value is less than or equal to the number of Elves and Faeries you control.
 
-The owned list is Elf-majority ([[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]], [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] — name Elf). The Faeries you already own ([[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Illusion Spinners|Illusion Spinners]]) still count for both jobs.
+The owned list is Elf-majority ([[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]], [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] — name Elf). Live Faeries: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]], [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela]], Bearer, Trickster, Sprite, Tegwyll, Obyra. [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]] and [[02 Cards/Creatures/Illusion Spinners|Illusion Spinners]] are owned cuts.
 
-Protect Maralen. Live: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]] (flash her), [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]]. [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]], [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]], and [[02 Cards/Creatures/Scion of Oona|Scion of Oona]] are still Ordered.
+Protect Maralen. Live: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]] (flash her), [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]], [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]. [[02 Cards/Instants/Origin of Metalbending|Origin of Metalbending]] stays as the flexible save/answer — do not treat Heroic as a replacement for it.
 
 ---
 
@@ -25,9 +25,9 @@ Protect Maralen. Live: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Enchantme
 
 **Keep** a hand that can make `{B}{G}{U}` and cast Maralen by turn 5 (sooner with dorks).
 
-- Untapped sources: [[02 Cards/Lands/Command Tower|Command Tower]], [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]], [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] (name Elf), [[02 Cards/Lands/Secluded Glen|Secluded Glen]] if you reveal a Faerie.
-- One-mana Elves: [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]], [[02 Cards/Creatures/Fyndhorn Elves|Fyndhorn Elves]], [[02 Cards/Creatures/Elvish Mystic|Elvish Mystic]], [[02 Cards/Creatures/Arbor Elf|Arbor Elf]].
-- Two-drops that matter before her: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]], [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]].
+- Untapped sources: [[02 Cards/Lands/Command Tower|Command Tower]], [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]], [[02 Cards/Lands/Watery Grave|Watery Grave]], [[02 Cards/Lands/Breeding Pool|Breeding Pool]], [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] (name Elf), [[02 Cards/Lands/Secluded Glen|Secluded Glen]] if you reveal a Faerie. [[02 Cards/Lands/Opulent Palace|Opulent Palace]] is the tapped three-colour gap filler — keep it.
+- One-mana Elves: [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]], [[02 Cards/Creatures/Fyndhorn Elves|Fyndhorn Elves]], [[02 Cards/Creatures/Elvish Mystic|Elvish Mystic]], [[02 Cards/Creatures/Arbor Elf|Arbor Elf]], [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]] (taps for `{B}`).
+- Two-drops that matter before her: [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]], [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]], [[02 Cards/Creatures/Priest of Titania|Priest of Titania]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]].
 
 **Mulligan** hands with no green dork or no path to `{U}` and `{B}`.
 
@@ -67,7 +67,7 @@ Three outlets, three rules.
 4. [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]] / [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] / [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]] *(wishlist)* — the engines.
 5. A dork only if the yard is empty of the above.
 
-Fill the yard on purpose with [[02 Cards/Creatures/Glowspore Shaman|Glowspore Shaman]], [[02 Cards/Creatures/Lluwen, Imperfect Naturalist|Lluwen]] (take the mill, skip the Worms), and [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]].
+Findbroker / Regrower / Loyalist / Pennant still fill from the yard. [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]], Glowspore, and Lluwen are owned cuts.
 
 ---
 
@@ -75,12 +75,12 @@ Fill the yard on purpose with [[02 Cards/Creatures/Glowspore Shaman|Glowspore Sh
 
 Default: play another Elf or Faerie every turn. Tokens beat solo dorks.
 
-- Flash Faeries (Gifter, Glamermite) mill at instant speed. Gifter can also make a body Elf/Faerie for a turn or turn Lathril into a 4/4. Glamermite untaps Archdruid or taps a blocker.
+- Flash Faeries (Glamermite, Scion, Sprite, Trickster, **Mastermind**) mill at instant speed. [[02 Cards/Enchantments/Wilderness Reclamation|Wilderness Reclamation]] is the land-untap that pays that line: empty the hand on your turn, untap at end step, flash on their turn with no leftover-mana tax. Do not cut it. Glamermite untaps Archdruid or taps a blocker. Scion shrouds the other Faeries, including Maralen. Mastermind draws when they take a second card.
 - Imperious Perfect and Lathril make extra Elf tokens. Those tokens mill and pay the ritual.
 - Banner and Pennant: name Elf. Firdoch Core is a changeling — Elf *and* Faerie for the count.
 - Steal the cheapest useful spell, not the largest name.
 
-[[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] and [[02 Cards/Creatures/Elvish Warmaster|Elvish Warmaster]] are live token engines. [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] is still wishlist.
+[[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]], [[02 Cards/Creatures/Elvish Warmaster|Elvish Warmaster]], and [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela]] are live token engines. [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] is still wishlist.
 
 ---
 
@@ -92,10 +92,10 @@ Maralen already in play. Wide Elf board. Tap Archdruid. Cast [[02 Cards/Sorcerie
 - **X=7** is the dream (ten Elves). Do not wait for ten if four will hit the pieces.
 - What you want to see: Lathril, Morcant, Banner, Uprising, Panharmonicon, recursion Elves, more dorks. Lands are consolation.
 - If Findbroker or Regrower hits, return a missed engine or a legend that was already in the yard.
-- Hold Negate (and Heroic, once owned) for the wipe on this stack.
+- Hold Negate or [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] for the wipe on this stack.
 - Do **not** tap the team for Morcant proliferate or Lathril's ten on the Wave turn.
 
-[[02 Cards/Creatures/Marwyn, the Nurturer|Marwyn]] is a second live ritual once she has grown. Circle of Dreams (all creatures, so Faeries count) and Priest of Titania (Elves only) still Ordered.
+[[02 Cards/Creatures/Marwyn, the Nurturer|Marwyn]] and [[02 Cards/Creatures/Priest of Titania|Priest of Titania]] (Elves only, including opponents') are live rituals. [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] (all creatures, so Faeries count) is live.
 
 ---
 
@@ -104,12 +104,12 @@ Maralen already in play. Wide Elf board. Tap Archdruid. Cast [[02 Cards/Sorcerie
 | Priority | Role | Live now | Pending |
 |----------|------|----------|---------|
 | 1 | Commander | [[02 Cards/Creatures/Maralen, Fae Ascendant\|Maralen]] | — |
-| 2 | Ritual / dorks | Llanowar / Fyndhorn / Mystic / Arbor, **Archdruid**, **Marwyn** | Priest, Bloom Tender, Circle *(still Ordered)* |
-| 3 | Tutor | Nature's Rhythm, Dina's Guidance, Eclipsed Elf | — |
-| 4 | The legend the table needs | Lathril **or** Morcant, Tegwyll | — |
-| 5 | Tokens / anthems | Imperious, Dwynen's Elite, Banner, Warmaster, Bearer | Alela *(still Ordered)* |
+| 2 | Ritual / dorks | Llanowar / Fyndhorn / Mystic / Arbor / Deep Shadow, **Archdruid**, **Marwyn**, **Priest**, **Circle**, Signet | Bloom Tender *(still Ordered, >> Wardens)*; Sol Ring *(owned, left out)* |
+| 3 | Tutor | Nature's Rhythm, Dina's Guidance, Eclipsed Elf, Farseek | — |
+| 4 | The legend the table needs | Lathril **or** Morcant, Tegwyll, Alela | — |
+| 5 | Tokens / anthems | Imperious, Dwynen's Elite, Banner, Warmaster, Bearer, Alela, Champions | — |
 | 6 | Recursion | Findbroker, Regrower, Loyalist, Pennant, Panharmonicon | — |
-| 7 | Protection | Negate, Leyline, Trickster, Spellstutter | Greaves, Heroic, Scion *(still Ordered)* |
+| 7 | Protection | Negate, Leyline, Trickster, Spellstutter, Greaves, Heroic, Scion | — |
 | 8 | Interaction | Reclamation Sage, Heritage Reclamation, Dina's Guidance, Trophy, Spellstutter | — |
 | 9 | Close | Genesis Wave | — |
 
@@ -124,7 +124,7 @@ Maralen already in play. Wide Elf board. Tap Archdruid. Cast [[02 Cards/Sorcerie
 - Waving with Maralen in the command zone (unless the Wave is how she enters).
 - Naming Faerie on Banner / Pennant / Eclipsed Realms / Secluded Courtyard. Elf is the default on this owned list.
 - Highspire Artisan is an owned cut. Do not count Servo tokens if you see it in the yard.
-- Activating Lluwen's Worm mode as if those tokens mill. They do not.
+- Activating Lluwen's Worm mode if you see the owned cut in the yard. Those tokens do not mill.
 - Treating Ordered cards as if they are already in the pile.
 
 ---

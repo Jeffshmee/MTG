@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Path](https://cards.scryfall.io/border_crop/front/b/1/b1aaa7b0-1cac-4a92-b880-7ef1ac00618f.jpg?1785759407)
+> ![Path](https://cards.scryfall.io/border_crop/front/9/3/9335e773-4b45-4b91-8140-5159fe7e0395.jpg?1783903724)
 >
 > ### Deck Scores
 >
@@ -61,7 +61,7 @@ Tapped Sultai fixer. `{T}`: one mana of any colour in your commander's identity.
 
 ## Key Synergies
 
-- **Scry when you cast**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]]
+- **Scry when you cast**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Priest of Titania|Priest of Titania]]
 - **Commander**: Maralen (Elf and Faerie — both types scry)
 
 ## Anti-synergies / Notes
@@ -95,7 +95,7 @@ Tapped Sultai fixer. `{T}`: one mana of any colour in your commander's identity.
 >   general: 80
 >   deck_specific: 86
 >   combined: 84
-> scryfall_id: b1aaa7b0-1cac-4a92-b880-7ef1ac00618f
+> scryfall_id: 9335e773-4b45-4b91-8140-5159fe7e0395
 > tags:
 >   - card
 >   - main-deck

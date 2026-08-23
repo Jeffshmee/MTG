@@ -1,0 +1,89 @@
+# Lands
+
+Every land in the collection, including basics, duals, shocks, and utility lands.
+
+**227** copies · **76** names.
+
+```decklist
+group: auto
+legality: commander
+
+# Lands
+1 Azorius Guildgate
+1 Battlefield Forge
+1 Blood Crypt
+3 Bloodfell Caves
+3 Blossoming Sands
+1 Bojuka Bog
+1 Boros Guildgate
+1 Breeding Pool
+1 Canyon Slough
+1 Castle Ardenvale
+1 Castle Embereth
+1 Caves of Koilos
+1 Clifftop Retreat
+5 Command Tower
+1 Cori Mountain Monastery
+1 Crawling Barrens
+1 Cryptic Caves
+1 Demolition Field
+1 Dimir Guildgate
+3 Dismal Backwater
+1 Dragonskull Summit
+4 Eclipsed Realms
+3 Evolving Wilds
+1 Exotic Orchard
+1 Fetid Heath
+21 Forest
+1 Goblin-town
+1 Godless Shrine
+1 Golgari Guildgate
+1 Gruul Guildgate
+1 Hidden Grotto
+23 Island
+1 Isolated Chapel
+1 Izzet Guildgate
+3 Jungle Hollow
+1 Maze's End
+24 Mountain
+1 Nomad Outpost
+4 Opulent Palace
+1 Orzhov Guildgate
+1 Overgrown Tomb
+1 Path of Ancestry
+25 Plains
+1 Rakdos Guildgate
+1 Rogue's Passage
+4 Rugged Highlands
+1 Savai Triome
+3 Scoured Barrens
+1 Secluded Courtyard
+1 Secluded Glen
+1 Selesnya Guildgate
+1 Shattered Landscape
+1 Shattered Sanctum
+1 Simic Guildgate
+1 Smoldering Marsh
+26 Swamp
+3 Swiftwater Cliffs
+1 Temple of Abandon
+1 Temple of Deceit
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Malady
+1 Temple of Malice
+1 Temple of Mystery
+1 Temple of Plenty
+2 Temple of Silence
+2 Temple of Triumph
+1 Terramorphic Expanse
+3 Thornwood Falls
+1 Three Tree City
+4 Tranquil Cove
+1 Vault of the Archangel
+1 Watery Grave
+4 Wind-Scarred Crag
+1 Windbrisk Heights
+1 Yavimaya, Cradle of Growth
+
+```

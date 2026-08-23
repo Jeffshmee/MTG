@@ -1,0 +1,70 @@
+# Infestation Sage
+
+> [!card-proxy] **`mtg:Infestation Sage`**
+>
+> **Mana Cost:** {B}
+> **Type:** Creature — Elf Warlock
+>
+> ![Infestation Sage](https://cards.scryfall.io/border_crop/front/d/4/d40c73de-7a5f-46f2-a70b-449bc8ecfe24.jpg)
+
+## Classification
+
+| Category | Links |
+|----------|-------|
+| **Card type** | [[03 Card Types/Creature\|Creature]] |
+| **Creature type** | [[04 Creature Types/Elf\|Elf]] · [[04 Creature Types/Warlock\|Warlock]] |
+| **Colour** | [[05 Colours/Black\|Black]] |
+| **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
+| **Where** | [[06 Browse/Box\|Box]] |
+
+## Printings
+
+<div class="synergy-score collection-copies">
+<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-why">
+<table>
+<thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
+<tbody>
+<tr><td>Foundations (<code>FDN</code>)</td><td>64</td><td>—</td><td>2</td><td>Box</td><td>0.14</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+### Arts in this Collection
+
+Printings in the collection. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/4/d40c73de-7a5f-46f2-a70b-449bc8ecfe24.jpg" alt="Infestation Sage FDN 64 · ×2">
+<figcaption>FDN 64 · ×2</figcaption>
+</figure>
+</div>
+
+## Related
+
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Warlock|Warlock]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+
+---
+
+> [!metadata]- Metadata
+> ```yaml
+> name: "Infestation Sage"
+> aliases:
+>   - "Infestation Sage"
+> mana_cost: "{B}"
+> cmc: 1
+> type: "Creature — Elf Warlock"
+> scryfall_id: d40c73de-7a5f-46f2-a70b-449bc8ecfe24
+> quantity: 2
+> tags:
+>   - black
+>   - card
+>   - collection
+>   - common
+>   - creature
+>   - elf
+>   - mana-1
+>   - warlock
+> ```

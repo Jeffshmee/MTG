@@ -2,9 +2,9 @@
 
 > [!card-proxy] **`mtg:Heroic Intervention`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {1}{G}  
-> **Type:** Instant  
+> **Status:** Main Deck 
+> **Mana Cost:** {1}{G} 
+> **Type:** Instant 
 >
 > ### Deck Synergy
 > **85** / 100
@@ -48,7 +48,7 @@ Permanents you control gain [[03 Effects/Hexproof|hexproof]] and [[03 Effects/In
 
 ## Deck Role & Rating
 
-Hexproof and indestructible on every permanent you control until end of turn. The board-wide save this list is missing. Hold it for the wipe — especially the [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] turn or the turn [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] lands. Purchased; it is not in the owned list until it is in hand.
+Hexproof and indestructible on every permanent you control until end of turn. The board-wide save. Live in the 100. Hold it for the wipe — especially the [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] turn or the turn [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] lands. [[02 Cards/Creatures/Greenwood Sentinel|Greenwood Sentinel]] is the owned cut.
 
 ## Play Patterns & Lines
 
@@ -60,12 +60,10 @@ Hexproof and indestructible on every permanent you control until end of turn. Th
 ## Key Synergies
 
 - **What you are saving**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]], [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
-- **Owned protection until this arrives**: [[02 Cards/Instants/Negate|Negate]]
-- **Other pending saves**: [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
+- **Other protection**: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet.
 - Misses sacrifice, bounce, shrink-to-zero, and mass exile that does not destroy.
 - Two mana on the Wave turn is the same tax as Negate — you often cannot hold both.
 
@@ -90,17 +88,17 @@ Hexproof and indestructible on every permanent you control until end of turn. Th
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 86
->   deck_specific: 84
->   combined: 85
+>  general: 86
+>  deck_specific: 84
+>  combined: 85
 > scryfall_id: e32c67d1-187f-40df-b3b3-6036f5c92834
 > tags:
->   - card
->   - ordered
->   - instant
+>  - card
+>  - main-deck
+>  - instant
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

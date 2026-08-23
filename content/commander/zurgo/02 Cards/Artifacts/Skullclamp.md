@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:94%"></div></div>
 >
-> ![Skullclamp](https://cards.scryfall.io/border_crop/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg)
+> ![Skullclamp](https://cards.scryfall.io/border_crop/front/b/5/b5bb89dd-9d31-49d9-ba54-4a04798e515e.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ A 1/1 token becomes 2/0 and dies, so you draw two from Clamp and still get Zurgo
 >   general: 90
 >   deck_specific: 98
 >   combined: 94
-> scryfall_id: 1d8b007b-3169-4ee3-80c7-781fc096fc7a
+> scryfall_id: b5bb89dd-9d31-49d9-ba54-4a04798e515e
 > tags:
 >   - card
 >   - main-deck

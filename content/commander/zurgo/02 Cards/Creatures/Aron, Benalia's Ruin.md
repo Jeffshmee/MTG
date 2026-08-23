@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Aron](https://cards.scryfall.io/border_crop/front/7/2/721cd840-5f2e-40b7-8b33-ea2d6343d390.jpg)
+> ![Aron](https://cards.scryfall.io/border_crop/front/8/6/861f36b9-9f43-4ace-8e60-4ba671b2655a.jpg)
 >
 > ### Deck Scores
 >
@@ -99,7 +99,7 @@ Aron is a slow anthem sac outlet: {W}{B}, tap, sacrifice another creature, put a
 >   general: 78
 >   deck_specific: 84
 >   combined: 82
-> scryfall_id: 721cd840-5f2e-40b7-8b33-ea2d6343d390
+> scryfall_id: 861f36b9-9f43-4ace-8e60-4ba671b2655a
 > tags:
 >   - card
 >   - main-deck

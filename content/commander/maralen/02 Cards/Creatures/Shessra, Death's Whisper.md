@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:71%"></div></div>
 >
-> ![Shessra](https://cards.scryfall.io/border_crop/front/6/0/60ca5fef-af21-4e2b-9efa-61e08a638a1f.jpg?1783926444)
+> ![Shessra](https://cards.scryfall.io/border_crop/front/0/2/02a98a2d-a837-4911-b726-b2cee17cf450.jpg)
 >
 > ### Deck Scores
 >
@@ -98,7 +98,7 @@ Shessra is a Human Elf, not a token engine. The ETB forces a creature to block t
 >   general: 72
 >   deck_specific: 70
 >   combined: 71
-> scryfall_id: 60ca5fef-af21-4e2b-9efa-61e08a638a1f
+> scryfall_id: 02a98a2d-a837-4911-b726-b2cee17cf450
 > tags:
 >   - card
 >   - main-deck

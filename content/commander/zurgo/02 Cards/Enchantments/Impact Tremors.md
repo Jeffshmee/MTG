@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
-> ![Impact Tremors](https://cards.scryfall.io/border_crop/front/d/0/d0b7cecf-b51b-4d30-b7e9-cd7976271e07.jpg)
+> ![Impact Tremors](https://cards.scryfall.io/border_crop/front/4/6/46db3811-db1d-4f69-8143-a93f64d0297b.jpg)
 >
 > ### Deck Scores
 >
@@ -92,7 +92,7 @@ Bastion and Elas tax deaths; Tremors taxes the enter. A single Zurgo attack is 1
 >   general: 86
 >   deck_specific: 94
 >   combined: 90
-> scryfall_id: d0b7cecf-b51b-4d30-b7e9-cd7976271e07
+> scryfall_id: 46db3811-db1d-4f69-8143-a93f64d0297b
 > tags:
 >   - card
 >   - main-deck

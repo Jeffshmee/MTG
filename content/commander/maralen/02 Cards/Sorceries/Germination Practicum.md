@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Germination](https://cards.scryfall.io/border_crop/front/a/b/abe8332f-c76e-44e2-9427-d1228453abec.jpg?1783903658)
+> ![Germination](https://cards.scryfall.io/border_crop/front/d/f/df144bff-cdc8-46df-bbd2-6fdc93f04f04.jpg)
 >
 > ### Deck Scores
 >
@@ -97,7 +97,7 @@ Put two +1/+1 counters on each creature you control, then Paradigm exiles it and
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: abe8332f-c76e-44e2-9427-d1228453abec
+> scryfall_id: df144bff-cdc8-46df-bbd2-6fdc93f04f04
 > tags:
 >   - card
 >   - main-deck

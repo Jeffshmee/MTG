@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:76%"></div></div>
 >
-> ![Clifftop](https://cards.scryfall.io/border_crop/front/4/a/4a7f7767-1959-4812-8654-0a22634096b1.jpg)
+> ![Clifftop](https://cards.scryfall.io/border_crop/front/0/9/09d0e0dd-28e6-4d78-b768-b08188681d92.jpg)
 >
 > ### Deck Scores
 >
@@ -90,7 +90,7 @@ Clifftop Retreat is a main-deck land.
 >   general: 78
 >   deck_specific: 75
 >   combined: 76
-> scryfall_id: 4a7f7767-1959-4812-8654-0a22634096b1
+> scryfall_id: 09d0e0dd-28e6-4d78-b768-b08188681d92
 > tags:
 >   - card
 >   - main-deck

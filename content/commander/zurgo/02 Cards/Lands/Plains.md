@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Plains](https://cards.scryfall.io/border_crop/front/8/a/8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c.jpg)
+> ![Plains](https://cards.scryfall.io/border_crop/front/6/2/6242dbef-8412-4ebd-9486-42cec1dc6794.jpg)
 >
 > ### Deck Scores
 >
@@ -63,6 +63,29 @@ Plains is a main-deck land.
 
 - Not a reason to keep Zurgo off the battlefield. The deck still needs the commander.
 
+### Arts in this Deck
+
+Printings sleeved in this 100. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/6/2/6242dbef-8412-4ebd-9486-42cec1dc6794.jpg" alt="Plains ECL 274 foil · ×1">
+<figcaption>ECL 274 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/1/11a94c04-b6d3-4118-b252-5146eedae4e8.jpg" alt="Plains BLB 265 · ×1">
+<figcaption>BLB 265 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/6/e/6e6f19b3-4c76-4078-8ed2-b2832a33d066.jpg" alt="Plains FDN 282 · ×1">
+<figcaption>FDN 282 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/7/a/7a0f9892-89cd-46ff-bc87-114e175cb575.jpg" alt="Plains FDN 283 · ×1">
+<figcaption>FDN 283 · ×1</figcaption>
+</figure>
+</div>
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -86,7 +109,7 @@ Plains is a main-deck land.
 >   general: 70
 >   deck_specific: 70
 >   combined: 70
-> scryfall_id: 8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c
+> scryfall_id: 6242dbef-8412-4ebd-9486-42cec1dc6794
 > tags:
 >   - card
 >   - main-deck

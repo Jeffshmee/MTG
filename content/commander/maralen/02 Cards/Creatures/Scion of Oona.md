@@ -2,17 +2,17 @@
 
 > [!card-proxy] **`mtg:Scion of Oona`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {2}{U}  
-> **Type:** Creature — Faerie Soldier  
-> **P/T:** 1/1  
+> **Status:** Main Deck 
+> **Mana Cost:** {2}{U} 
+> **Type:** Creature — Faerie Soldier 
+> **P/T:** 1/1 
 >
 > ### Deck Synergy
 > **88** / 100
 >
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> ![Scion](https://cards.scryfall.io/border_crop/front/a/2/a29f95fe-2efa-4788-84d8-2bd88d8650b4.jpg?1783939995)
+> ![Scion](https://cards.scryfall.io/border_crop/front/9/3/937c75ac-b7cf-4af5-a7b7-9e90f43fa1a5.jpg)
 >
 > ### Deck Scores
 >
@@ -54,21 +54,20 @@ Other Faeries you control have [[03 Effects/Shroud|shroud]]. (They can't be the 
 
 ## Deck Role & Rating
 
-Flash Faerie lord. The shroud is the card: other Faeries you control cannot be targeted, and Maralen is a Faerie. It does not shroud Elves, so [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], and [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] stay open. Hold {2}{U} and flash it in response to targeted removal on her. It is Ordered and sits on the sideboard — not in the owned list yet.
+Flash Faerie lord. The shroud is the card: other Faeries you control cannot be targeted, and Maralen is a Faerie. It does not shroud Elves, so [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], and [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] stay open. Hold {2}{U} and flash it in response to targeted removal on her.
 
 ## Play Patterns & Lines
 
 - Hold it up after Maralen is out. Flash in response to a kill spell; she gets shroud and you mill on their turn.
-- The +1/+1 makes Bearer tokens and pending Alela tokens into real attackers.
+- The +1/+1 makes Bearer tokens and [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela]] tokens into real attackers.
 - Scion does not shroud itself. The next bolt still kills the lord.
 - Recur with Findbroker or Regrower. Loyalist cannot — Scion is not an Elf.
 
 ## Key Synergies
 
 - **Commander (Faerie)**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Owned flash**: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]]
-- **Faerie mass**: [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]]
-- **Pending Faerie mass**: [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]]
+- **Owned flash**: [[02 Cards/Creatures/Glamermite|Glamermite]]
+- **Faerie mass**: [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]], [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]]
 - **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
 
 ## Anti-synergies / Notes
@@ -76,8 +75,7 @@ Flash Faerie lord. The shroud is the card: other Faeries you control cannot be t
 - No shroud on Elves. The Elf engine stays targetable.
 - No shroud on itself.
 - Shroud also blocks your own targeted spells and equipment on Maralen — [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]] will not attach while Scion is out.
-- Owned Faerie count is thin. The lord is small until Bearer tokens exist and pending Alela arrives.
-- Not in the owned list yet.
+- The lord is small until Bearer or Alela tokens exist.
 
 ## Related Pages
 
@@ -100,17 +98,17 @@ Flash Faerie lord. The shroud is the card: other Faeries you control cannot be t
 > colors: [U]
 > color_identity: [U]
 > keywords: ["Flying", "Flash"]
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 86
->   deck_specific: 90
->   combined: 88
-> scryfall_id: a29f95fe-2efa-4788-84d8-2bd88d8650b4
+>  general: 86
+>  deck_specific: 90
+>  combined: 88
+> scryfall_id: 937c75ac-b7cf-4af5-a7b7-9e90f43fa1a5
 > tags:
->   - card
->   - ordered
->   - creature
+>  - card
+>  - main-deck
+>  - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

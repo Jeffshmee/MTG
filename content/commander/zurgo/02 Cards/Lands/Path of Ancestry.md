@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Path of Ancestry`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -51,7 +51,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Deck Role & Rating
 
-Path of Ancestry is the tapped Mardu fixer that replaced Goblin-town: any colour in Zurgo’s identity, plus scry 1 when that mana casts an Orc or Warrior. Same tap tax as Goblin-town, but three colours and a scry instead of a four-mana Goblin/Orc pump. Combined 81 vs 56. Committed; keep it. An extra copy on order is not a Zurgo swap — do not cut this for Goblin-town when that copy arrives.  
+Path of Ancestry is the tapped Mardu fixer: any colour in Zurgo’s identity, plus scry 1 when that mana casts an Orc or Warrior. Ordered — extra copy incoming. The physical printing is in Maralen. [[02 Cards/Lands/Goblin-town|Goblin-town]] holds this slot until that copy arrives. Combined 81 vs Goblin-town 56.  
 
 ## Play Patterns & Lines
 
@@ -67,6 +67,7 @@ Path of Ancestry is the tapped Mardu fixer that replaced Goblin-town: any colour
 ## Anti-synergies / Notes
 
 - Tapped ETB can miss a turn-3 Zurgo if the rest of the opener is also slow.
+- Ordered. Not in this 100. Goblin-town is live. When the extra copy is in hand, the named cut back in is Goblin-town.
 
 ## Related Pages
 
@@ -86,7 +87,7 @@ Path of Ancestry is the tapped Mardu fixer that replaced Goblin-town: any colour
 > colors: []
 > color_identity: []
 > keywords: ["Scry"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 80
 >   deck_specific: 82
@@ -94,7 +95,7 @@ Path of Ancestry is the tapped Mardu fixer that replaced Goblin-town: any colour
 > scryfall_id: b1aaa7b0-1cac-4a92-b880-7ef1ac00618f
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - land
 > ```
 

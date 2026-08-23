@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> ![Swords](https://cards.scryfall.io/border_crop/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg)
+> ![Swords](https://cards.scryfall.io/border_crop/front/6/8/68ec2aed-7662-48ae-ab25-04f74ece1e41.jpg)
 >
 > ### Deck Scores
 >
@@ -86,7 +86,7 @@ Swords to Plowshares is a main-deck instant.
 >   general: 90
 >   deck_specific: 75
 >   combined: 81
-> scryfall_id: b4e9c870-23c0-413a-ae39-265f09da16d1
+> scryfall_id: 68ec2aed-7662-48ae-ab25-04f74ece1e41
 > tags:
 >   - card
 >   - main-deck

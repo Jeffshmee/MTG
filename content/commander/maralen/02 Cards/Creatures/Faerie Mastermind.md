@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Faerie Mastermind`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{U}  
 > **Type:** Creature — Faerie Rogue  
 > **P/T:** 2/1  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:87%"></div></div>
 >
-> ![Faerie](https://cards.scryfall.io/border_crop/front/b/c/bc9a7599-3c7d-4b83-bff3-e3d1f20f1b0f.jpg?1783903820)
+> ![Faerie](https://cards.scryfall.io/border_crop/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg)
 >
 > ### Deck Scores
 >
@@ -53,20 +53,20 @@ Whenever an opponent draws their second card each turn, you [[03 Effects/Draw a 
 
 ## Deck Role & Rating
 
-Flash Faerie that draws whenever an opponent draws their second card each turn, and can make each player draw for {3}{U}. The trigger taxes cantrip tables; the activation is a group-hug wheel — use it when you can win the extra cards, not as a default tap. Flash ETB still mills if Maralen is up. It is Ordered and sits on the sideboard — not in the owned list yet.
+Flash Faerie that draws whenever an opponent draws their second card each turn, and can make each player draw for {3}{U}. The trigger taxes cantrip tables; the activation is a group-hug wheel — use it when you can win the extra cards, not as a default tap. Flash ETB still mills if Maralen is up, and flash is how you steal on an opponent's turn. Live in the 100. Took [[02 Cards/Creatures/Illusion Spinners|Illusion Spinners]]'s slot. [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] stayed.
 
 ## Play Patterns & Lines
 
 - Flash on an opponent's second draw so you get the body, the mill, and the trigger in one window.
-- Activate the wheel when pending [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]] is naming Elf or Faerie, or when your hand is empty and the board can use the cards.
+- Activate the wheel when [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]] *(wishlist)* is naming Elf or Faerie, or when your hand is empty and the board can use the cards.
 - Do not activate into opponents who will spend the card better than you.
 - Recur with Findbroker or Regrower. Loyalist cannot.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Pending draw engine**: [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]]
-- **Flash package**: [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]]
+- **Wishlist draw engine**: [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]]
+- **Flash package**: [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
 
 ## Anti-synergies / Notes
@@ -74,8 +74,8 @@ Flash Faerie that draws whenever an opponent draws their second card each turn, 
 - The wheel helps the table. Defaulting it away is how you lose.
 - Passive draw does nothing at tables that do not cantrip.
 - 2/1. Dies to a single point of damage.
-- Not an Elf.
-- Not in the owned list yet.
+- Not an Elf. Does not pay Priest or Archdruid.
+- Live in the 100. [[02 Cards/Creatures/Illusion Spinners|Illusion Spinners]] is the owned cut. [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] stayed.
 
 ## Related Pages
 
@@ -98,15 +98,15 @@ Flash Faerie that draws whenever an opponent draws their second card each turn, 
 > colors: [U]
 > color_identity: [U]
 > keywords: ["Flying", "Flash"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 88
 >   deck_specific: 86
 >   combined: 87
-> scryfall_id: bc9a7599-3c7d-4b83-bff3-e3d1f20f1b0f
+> scryfall_id: 52d3005f-a1c7-4ef5-911f-ccc0752f4181
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

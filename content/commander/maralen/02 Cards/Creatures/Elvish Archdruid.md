@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Elvish](https://cards.scryfall.io/border_crop/front/0/0/006ff5a3-355b-4a7d-b402-bb3c8d32a585.jpg?1785497593)
+> ![Elvish](https://cards.scryfall.io/border_crop/front/3/4/341da856-7414-403b-b2e3-4bebd58a5aa4.jpg?1783909059)
 >
 > ### Deck Scores
 >
@@ -68,7 +68,7 @@ Archdruid is the owned Wave outlet and a third lord. Other Elves get +1/+1; `{T}
 
 ## Anti-synergies / Notes
 
-- Faeries do not pay the ritual. Circle of Dreams will, once owned.
+- Faeries do not pay the ritual. [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] does — it is live.
 - Tapping him and the team fights Morcant proliferate and Lathril's tap-ten. Pick the Wave turn.
 - He is a first-priority removal magnet. Recast him; do not rebuild without a ritual.
 
@@ -98,7 +98,7 @@ Archdruid is the owned Wave outlet and a third lord. Other Elves get +1/+1; `{T}
 >   general: 88
 >   deck_specific: 94
 >   combined: 92
-> scryfall_id: 006ff5a3-355b-4a7d-b402-bb3c8d32a585
+> scryfall_id: 341da856-7414-403b-b2e3-4bebd58a5aa4
 > tags:
 >   - card
 >   - main-deck

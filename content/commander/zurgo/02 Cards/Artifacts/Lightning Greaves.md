@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Lightning](https://cards.scryfall.io/border_crop/front/b/6/b61634ae-05be-4b56-8ebb-9d4ade902e42.jpg)
+> ![Lightning](https://cards.scryfall.io/border_crop/front/8/b/8b59b12c-fde5-4f19-a357-e09f06f490cc.jpg)
 >
 > ### Deck Scores
 >
@@ -90,7 +90,7 @@ Lightning Greaves is a main-deck artifact.
 >   general: 88
 >   deck_specific: 82
 >   combined: 84
-> scryfall_id: b61634ae-05be-4b56-8ebb-9d4ade902e42
+> scryfall_id: 8b59b12c-fde5-4f19-a357-e09f06f490cc
 > tags:
 >   - card
 >   - main-deck

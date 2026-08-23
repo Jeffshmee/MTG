@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
-> ![Imperious](https://cards.scryfall.io/border_crop/front/8/3/83b4a09f-ea53-42b4-a41a-4299192a6fd3.jpg?1783908890)
+> ![Imperious](https://cards.scryfall.io/border_crop/front/a/9/a93e9d33-0c5d-4890-a1aa-84f59af9d4fb.jpg)
 >
 > ### Deck Scores
 >
@@ -97,7 +97,7 @@ Imperious Perfect is an Elf lord and a token factory. The anthem makes the go-wi
 >   general: 86
 >   deck_specific: 92
 >   combined: 90
-> scryfall_id: 83b4a09f-ea53-42b4-a41a-4299192a6fd3
+> scryfall_id: a93e9d33-0c5d-4890-a1aa-84f59af9d4fb
 > tags:
 >   - card
 >   - main-deck

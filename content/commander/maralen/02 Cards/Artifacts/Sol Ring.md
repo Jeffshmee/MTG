@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
-> ![Sol](https://cards.scryfall.io/border_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215)
+> ![Sol](https://cards.scryfall.io/border_crop/front/1/9/19911e6e-7c35-4281-b31c-266382f052cc.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-`{T}`: add `{C}{C}`. Cast [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] faster. Not an Elf. Purchased; it is not in the owned list until it is in hand.
+`{T}`: add `{C}{C}`. Cast [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] faster. Not an Elf. Owned (in hand) but **left out of the 100** — [[02 Cards/Artifacts/Firdoch Core|Firdoch Core]] stays as the changeling rock. Extra copies stay in the box.
 
 ## Play Patterns & Lines
 
@@ -58,11 +58,11 @@
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Other pending rock**: [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]]
+- **Live rock that entered instead**: [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]]
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet.
+- Owned (in hand). Left out of the 100 so Firdoch stays.
 - Not an Elf. [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] hitting only rocks is a miss.
 - Dies to the same artifact hate that eats Banner.
 
@@ -92,7 +92,7 @@
 >   general: 92
 >   deck_specific: 82
 >   combined: 86
-> scryfall_id: 91fdb56b-54d5-4272-8319-505ff987fe9b
+> scryfall_id: 19911e6e-7c35-4281-b31c-266382f052cc
 > tags:
 >   - card
 >   - ordered

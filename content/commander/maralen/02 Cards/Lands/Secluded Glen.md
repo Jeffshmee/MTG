@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Secluded](https://cards.scryfall.io/border_crop/front/9/e/9e4afa65-7933-4a64-b50f-a9a9f832b112.jpg?1783942847)
+> ![Secluded](https://cards.scryfall.io/border_crop/front/3/c/3c536cbf-ff08-48b5-9da8-9a14760261f9.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ As this land enters, you may reveal a Faerie card from your hand. If you don't, 
 
 ## Deck Role & Rating
 
-`{U}` or `{B}` land. Enters untapped if you reveal a Faerie card from your hand; otherwise tapped. [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] is a Faerie, but she sits in the command zone — you cannot reveal her. Faeries you *can* reveal: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Illusion Spinners|Illusion Spinners]], [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Tegwyll, Duke of Splendor|Tegwyll]], [[02 Cards/Creatures/Obyra, Dreaming Duelist|Obyra]]. It is live in the 100.
+`{U}` or `{B}` land. Enters untapped if you reveal a Faerie card from your hand; otherwise tapped. [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] is a Faerie, but she sits in the command zone — you cannot reveal her. Faeries you *can* reveal: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]], [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Tegwyll, Duke of Splendor|Tegwyll]], [[02 Cards/Creatures/Obyra, Dreaming Duelist|Obyra]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]], [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela]]. It is live in the 100.
 
 ## Play Patterns & Lines
 
@@ -59,7 +59,7 @@ As this land enters, you may reveal a Faerie card from your hand. If you don't, 
 
 ## Key Synergies
 
-- **Reveal these**: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Illusion Spinners|Illusion Spinners]], [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Tegwyll, Duke of Splendor|Tegwyll]], [[02 Cards/Creatures/Obyra, Dreaming Duelist|Obyra]]
+- **Reveal these**: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]], [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela]], [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]]
 - **Pending reveals**: [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]]
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]] (cannot reveal her)
 
@@ -94,7 +94,7 @@ As this land enters, you may reveal a Faerie card from your hand. If you don't, 
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: 9e4afa65-7933-4a64-b50f-a9a9f832b112
+> scryfall_id: 3c536cbf-ff08-48b5-9da8-9a14760261f9
 > tags:
 >   - card
 >   - main-deck

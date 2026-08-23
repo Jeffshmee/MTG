@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:76%"></div></div>
 >
-> ![Negate](https://cards.scryfall.io/border_crop/front/5/2/52d58fe4-6070-4022-9cd7-c35a11b44525.jpg?1783904112)
+> ![Negate](https://cards.scryfall.io/border_crop/front/3/3/33b83158-78b4-425e-8379-be3ef038295c.jpg)
 >
 > ### Deck Scores
 >
@@ -93,7 +93,7 @@ Cheap noncreature counter — the wipe, the extra turn, or the exile-based remov
 >   general: 80
 >   deck_specific: 74
 >   combined: 76
-> scryfall_id: 52d58fe4-6070-4022-9cd7-c35a11b44525
+> scryfall_id: 33b83158-78b4-425e-8379-be3ef038295c
 > tags:
 >   - card
 >   - main-deck

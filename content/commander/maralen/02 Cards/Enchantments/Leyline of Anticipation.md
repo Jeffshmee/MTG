@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Leyline](https://cards.scryfall.io/border_crop/front/f/5/f57bdaa1-ce8a-4103-8598-fee751e65a53.jpg?1783922469)
+> ![Leyline](https://cards.scryfall.io/border_crop/front/d/7/d789703e-81ae-48a7-8831-201ccdec5eba.jpg)
 >
 > ### Deck Scores
 >
@@ -60,7 +60,7 @@ You may cast spells as though they had flash. If this is in your opening hand, y
 ## Key Synergies
 
 - **What you flash**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]], [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]], [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]]
-- **Already-flash bodies**: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]]
+- **Already-flash bodies**: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **End-step mana**: [[02 Cards/Enchantments/Wilderness Reclamation|Wilderness Reclamation]]
 
 ## Anti-synergies / Notes
@@ -95,7 +95,7 @@ You may cast spells as though they had flash. If this is in your opening hand, y
 >   general: 82
 >   deck_specific: 86
 >   combined: 84
-> scryfall_id: f57bdaa1-ce8a-4103-8598-fee751e65a53
+> scryfall_id: d789703e-81ae-48a7-8831-201ccdec5eba
 > tags:
 >   - card
 >   - main-deck

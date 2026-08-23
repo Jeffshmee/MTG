@@ -2,10 +2,10 @@
 
 > [!card-proxy] **`mtg:Priest of Titania`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {1}{G}  
-> **Type:** Creature — Elf Druid  
-> **P/T:** 1/1  
+> **Status:** Main Deck 
+> **Mana Cost:** {1}{G} 
+> **Type:** Creature — Elf Druid 
+> **P/T:** 1/1 
 >
 > ### Deck Synergy
 > **91** / 100
@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-Priest is the pending Elf-count ritual: tap for {G} per Elf on the battlefield, including opponents'. That is the same Wave math as owned [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] — X equals Elves minus 3 — at two mana instead of three, but with no anthem and no "you control" limit. Faeries do not pay the tap; [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] is the pending upgrade when the board is mixed. It is Ordered and sits on the sideboard — not in the owned list yet.
+Priest is the live Elf-count ritual: tap for {G} per Elf on the battlefield, including opponents'. That is the same Wave math as [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] — X equals Elves minus 3 — at two mana instead of three, but with no anthem and no "you control" limit. Faeries do not pay the tap; [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] is live and counts every creature, including Faeries.
 
 ## Play Patterns & Lines
 
@@ -61,16 +61,15 @@ Priest is the pending Elf-count ritual: tap for {G} per Elf on the battlefield, 
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
 - **Wave**: [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]]
-- **Better pending ritual**: [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]]
+- **Ritual that counts Faeries**: [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]]
 - **Elf tokens (owned)**: [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]]
 - **Tutor**: [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] (X=2)
 - **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
 
 ## Anti-synergies / Notes
 
-- Counts Elves only. Faerie tokens from Bearer or pending Alela do not add mana.
+- Counts Elves only. Faerie tokens from Bearer or Alela do not add mana.
 - 1/1. Any ping removes the ritual until you recur it.
-- Not in the owned list yet.
 
 ## Related Pages
 
@@ -93,17 +92,17 @@ Priest is the pending Elf-count ritual: tap for {G} per Elf on the battlefield, 
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 86
->   deck_specific: 94
->   combined: 91
+>  general: 86
+>  deck_specific: 94
+>  combined: 91
 > scryfall_id: eb11921b-1b28-483f-a707-4de21a6daa31
 > tags:
->   - card
->   - ordered
->   - creature
+>  - card
+>  - main-deck
+>  - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

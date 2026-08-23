@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Elfhame Druid`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {1}{G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 0/2  
@@ -69,6 +69,8 @@ Elfhame Druid is a 0/2 that taps for {G}. The second ability — {T}: add {G}{G}
 - The {G}{G} kick clause does not pay Wave, Rhythm, Maralen, or stolen spells.
 - 0 power means it never connects, never pumps Lathril's damage, and is a blank on [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]].
 
+- Owned cut. Sitting on the sideboard.
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -90,7 +92,7 @@ Elfhame Druid is a 0/2 that taps for {G}. The second ability — {T}: add {G}{G}
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 68
 >   deck_specific: 74
@@ -98,7 +100,7 @@ Elfhame Druid is a 0/2 that taps for {G}. The second ability — {T}: add {G}{G}
 > scryfall_id: 5e62226e-3585-42d2-9b7a-2462fcd967f5
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

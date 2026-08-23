@@ -1,0 +1,20 @@
+# Warlock
+
+Creature type: Warlock.
+
+**19** copies · **12** names.
+
+| Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
+|------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Infestation Sage`**](https://scryfall.com/card/fdn/64) | [[02 Cards/Creatures/Infestation Sage\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.28 |
+| [**`mtg:Vengeful Bloodwitch`**](https://scryfall.com/card/fdn/76) | [[02 Cards/Creatures/Vengeful Bloodwitch\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 5 | 0.90 |
+| [**`mtg:Chaos Spewer`**](https://scryfall.com/card/ecl/210) | [[02 Cards/Creatures/Chaos Spewer\|PAGE]] | {2}{B/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.04 |
+| [**`mtg:Heirloom Auntie`**](https://scryfall.com/card/ecl/107) | [[02 Cards/Creatures/Heirloom Auntie\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
+| [**`mtg:Moonglove Extractor`**](https://scryfall.com/card/ecl/109) | [[02 Cards/Creatures/Moonglove Extractor\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
+| [**`mtg:Alela, Cunning Conqueror`**](https://scryfall.com/card/woc/3) | [[02 Cards/Creatures/Alela, Cunning Conqueror\|PAGE]] | {2}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 8.77 |
+| [**`mtg:Chittering Witch`**](https://scryfall.com/card/tdc/175) | [[02 Cards/Creatures/Chittering Witch\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.21 |
+| [**`mtg:Shessra, Death's Whisper`**](https://scryfall.com/card/afr/345) | [[02 Cards/Creatures/Shessra, Death's Whisper\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.15 |
+| [**`mtg:Vile Entomber`**](https://scryfall.com/card/fdn/616) | [[02 Cards/Creatures/Vile Entomber\|PAGE]] | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.20 |
+| [**`mtg:Wardens of the Cycle`**](https://scryfall.com/card/fdn/125) | [[02 Cards/Creatures/Wardens of the Cycle\|PAGE]] | {1}{B}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.16 |
+| [**`mtg:Blighted Blackthorn`**](https://scryfall.com/card/ecl/90) | [[02 Cards/Creatures/Blighted Blackthorn\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Treefolk\|Treefolk]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.07 |
+| [**`mtg:Vampire Soulcaller`**](https://scryfall.com/card/fdn/75) | [[02 Cards/Creatures/Vampire Soulcaller\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |

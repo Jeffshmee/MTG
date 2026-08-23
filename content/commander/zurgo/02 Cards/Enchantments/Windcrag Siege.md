@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
-> ![Windcrag Siege](https://cards.scryfall.io/border_crop/front/3/1/31a8329b-23a1-4c49-a579-a5da8d01435a.jpg)
+> ![Windcrag Siege](https://cards.scryfall.io/border_crop/front/b/3/b32111e6-c389-4dcd-9dcd-29ee7ee238e6.jpg)
 >
 > ### Deck Scores
 >
@@ -98,7 +98,7 @@ That is the mode this deck wants: double Zurgo Mobilize, Adeline, Hero, Packbeas
 >   general: 80
 >   deck_specific: 90
 >   combined: 86
-> scryfall_id: 31a8329b-23a1-4c49-a579-a5da8d01435a
+> scryfall_id: b32111e6-c389-4dcd-9dcd-29ee7ee238e6
 > tags:
 >   - card
 >   - main-deck

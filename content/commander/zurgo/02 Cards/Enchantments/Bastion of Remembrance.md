@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
-> ![Bastion](https://cards.scryfall.io/border_crop/front/6/f/6fe6ccad-e303-48f9-9dfa-0db7c1878031.jpg)
+> ![Bastion](https://cards.scryfall.io/border_crop/front/9/d/9d0c6077-f84c-4e91-87dc-b0ac81d557f8.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ The ETB Soldier is a Clamp target or a Zurgo attacker. Every death after that â€
 >   general: 86
 >   deck_specific: 94
 >   combined: 90
-> scryfall_id: 6fe6ccad-e303-48f9-9dfa-0db7c1878031
+> scryfall_id: 9d0c6077-f84c-4e91-87dc-b0ac81d557f8
 > tags:
 >   - card
 >   - main-deck

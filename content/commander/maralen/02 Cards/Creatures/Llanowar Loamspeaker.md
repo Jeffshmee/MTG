@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Llanowar](https://cards.scryfall.io/border_crop/front/b/d/bd5611db-82dd-464d-8b03-70d7619dcefe.jpg?1783921297)
+> ![Llanowar](https://cards.scryfall.io/border_crop/front/0/d/0dba8ffb-b7b1-411e-90c5-070b7a888e3f.jpg)
 >
 > ### Deck Scores
 >
@@ -97,7 +97,7 @@ Llanowar Loamspeaker is the any-color two-mana dork. `{T}` for any color is how 
 >   general: 80
 >   deck_specific: 84
 >   combined: 82
-> scryfall_id: bd5611db-82dd-464d-8b03-70d7619dcefe
+> scryfall_id: 0dba8ffb-b7b1-411e-90c5-070b7a888e3f
 > tags:
 >   - card
 >   - main-deck

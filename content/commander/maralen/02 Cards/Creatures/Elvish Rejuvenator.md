@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Elvish Rejuvenator`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {2}{G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 1/1  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:74%"></div></div>
 >
-> ![Elvish](https://cards.scryfall.io/border_crop/front/0/3/03ef5cff-2e2b-4096-8310-4c5aabcb0eac.jpg?1783911912)
+> ![Elvish](https://cards.scryfall.io/border_crop/front/5/d/5deb7010-131c-40e9-a4c2-dee1b700e6c9.jpg)
 >
 > ### Deck Scores
 >
@@ -70,6 +70,8 @@ Elvish Rejuvenator is land ramp that happens to be an Elf. The ETB looks at five
 - The land comes in tapped. This does not help you cast Maralen the same turn.
 - Top five with no land is a 1/1 for three. The list is land-heavy, but a spell-flood miss happens.
 
+- Owned cut. Sitting on the sideboard.
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -91,15 +93,15 @@ Elvish Rejuvenator is land ramp that happens to be an Elf. The ETB looks at five
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 72
 >   deck_specific: 76
 >   combined: 74
-> scryfall_id: 03ef5cff-2e2b-4096-8310-4c5aabcb0eac
+> scryfall_id: 5deb7010-131c-40e9-a4c2-dee1b700e6c9
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

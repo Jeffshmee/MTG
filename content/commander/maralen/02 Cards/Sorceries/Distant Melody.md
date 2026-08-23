@@ -2,9 +2,9 @@
 
 > [!card-proxy] **`mtg:Distant Melody`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {3}{U}  
-> **Type:** Sorcery  
+> **Status:** Main Deck 
+> **Mana Cost:** {3}{U} 
+> **Type:** Sorcery 
 >
 > ### Deck Synergy
 > **85** / 100
@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-Name Elf. Draw a card for each permanent you control of that type. The post-token / post-Wave refill this list is missing — [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] is two cards, this is the rest of the hand. Purchased; it is not in the owned list until it is in hand.
+Name Elf. Draw a card for each permanent you control of that type. The post-token / post-Wave refill — live in the 100. [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] is an owned cut.
 
 ## Play Patterns & Lines
 
@@ -60,12 +60,11 @@ Name Elf. Draw a card for each permanent you control of that type. The post-toke
 ## Key Synergies
 
 - **Name Elf after**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]], [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]], [[02 Cards/Artifacts/Firdoch Core|Firdoch Core]]
-- **Owned draw until this arrives**: [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]], [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]]
+- **Other draw**: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Creatures/Beast Whisperer|Beast Whisperer]]
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet.
 - Dead after a wipe. Do not hold it as the only card in hand.
 - Naming Faerie on a four-Faerie list is a brick.
 
@@ -90,17 +89,17 @@ Name Elf. Draw a card for each permanent you control of that type. The post-toke
 > colors: [U]
 > color_identity: [U]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 80
->   deck_specific: 88
->   combined: 85
+>  general: 80
+>  deck_specific: 88
+>  combined: 85
 > scryfall_id: f1d7e8c9-0936-47eb-8996-309e7a7edcad
 > tags:
->   - card
->   - ordered
->   - sorcerie
+>  - card
+>  - main-deck
+>  - sorcerie
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

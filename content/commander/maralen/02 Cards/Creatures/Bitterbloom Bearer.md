@@ -53,7 +53,7 @@ At the beginning of your upkeep, [[03 Effects/Lose Life|you lose 1 life]] and [[
 
 ## Deck Role & Rating
 
-Best repeating Faerie engine in the 100: flash it in, then every upkeep you lose 1 life and make a 1/1 flying Faerie. Each token is a Faerie ETB — mills 2 if Maralen is up and raises the steal count. That is the critical mass Spellstutter, Tegwyll, and Obyra are waiting on, and pending Scion later. It is live in the 100.
+Best repeating Faerie engine in the 100: flash it in, then every upkeep you lose 1 life and make a 1/1 flying Faerie. Each token is a Faerie ETB — mills 2 if Maralen is up and raises the steal count. That is the critical mass Spellstutter, Tegwyll, and Obyra are waiting on, and [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]. It is live in the 100.
 
 ## Play Patterns & Lines
 

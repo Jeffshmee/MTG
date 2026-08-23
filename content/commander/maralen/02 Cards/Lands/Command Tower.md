@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:87%"></div></div>
 >
-> ![Command](https://cards.scryfall.io/border_crop/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206)
+> ![Command](https://cards.scryfall.io/border_crop/front/5/f/5fc770b6-03ac-45c3-a2ca-bd508096384e.jpg)
 >
 > ### Deck Scores
 >
@@ -88,7 +88,7 @@ The best owned untapped source. It casts Maralen without asking for a basic.
 >   general: 88
 >   deck_specific: 86
 >   combined: 87
-> scryfall_id: 0548fb60-c843-4f8f-a029-6f10efc63a41
+> scryfall_id: 5fc770b6-03ac-45c3-a2ca-bd508096384e
 > tags:
 >   - card
 >   - main-deck

@@ -70,7 +70,7 @@ Glamermite is the three-mana flash Faerie that taps or untaps a creature on ETB.
 - **Commander / count**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
 - **Double ritual**: [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
 - **Tap for a connect**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]]
-- **Other flash**: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]]
+- **Other flash**: [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 
 ## Anti-synergies / Notes
 

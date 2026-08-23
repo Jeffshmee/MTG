@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:66%"></div></div>
 >
-> ![Thornwood](https://cards.scryfall.io/border_crop/front/e/b/ebb502c2-5fd0-46a9-b77d-010f4a942056.jpg?1783907271)
+> ![Thornwood](https://cards.scryfall.io/border_crop/front/4/2/42799f51-0f8c-444b-974e-dae281a5c697.jpg)
 >
 > ### Deck Scores
 >
@@ -93,7 +93,7 @@ Thornwood Falls is fixing that comes in tapped. [[02 Cards/Lands/Three Tree City
 >   general: 68
 >   deck_specific: 64
 >   combined: 66
-> scryfall_id: ebb502c2-5fd0-46a9-b77d-010f4a942056
+> scryfall_id: 42799f51-0f8c-444b-974e-dae281a5c697
 > tags:
 >   - card
 >   - ordered

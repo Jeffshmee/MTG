@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:87%"></div></div>
 >
-> ![Teysa](https://cards.scryfall.io/border_crop/front/c/d/cd14f1ce-7fcd-485c-b7ca-01c5b45fdc01.jpg)
+> ![Teysa](https://cards.scryfall.io/border_crop/front/5/8/581a2da7-80d3-409a-8a6c-aa6e9ccc1568.jpg)
 >
 > ### Deck Scores
 >
@@ -98,7 +98,7 @@ Teysa is the death-trigger half of the doubler pair (Isshin is the attack half).
 >   general: 85
 >   deck_specific: 89
 >   combined: 87
-> scryfall_id: cd14f1ce-7fcd-485c-b7ca-01c5b45fdc01
+> scryfall_id: 581a2da7-80d3-409a-8a6c-aa6e9ccc1568
 > tags:
 >   - card
 >   - main-deck

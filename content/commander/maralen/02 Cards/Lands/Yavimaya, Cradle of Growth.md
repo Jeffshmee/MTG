@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Yavimaya](https://cards.scryfall.io/border_crop/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg?1783926791)
+> ![Yavimaya](https://cards.scryfall.io/border_crop/front/8/a/8a12b4f7-8f6b-4a3c-9114-825e1b2099a0.jpg)
 >
 > ### Deck Scores
 >
@@ -92,7 +92,7 @@ Each land is a Forest in addition to its other land types. [[02 Cards/Creatures/
 >   general: 84
 >   deck_specific: 86
 >   combined: 85
-> scryfall_id: 4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c
+> scryfall_id: 8a12b4f7-8f6b-4a3c-9114-825e1b2099a0
 > tags:
 >   - card
 >   - main-deck

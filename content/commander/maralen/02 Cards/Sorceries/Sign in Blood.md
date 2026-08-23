@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Sign in Blood`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {B}{B}  
 > **Type:** Sorcery  
 >
@@ -47,7 +47,7 @@ Target player draws two cards and [[03 Effects/Lose Life|loses 2 life]].
 
 ## Deck Role & Rating
 
-The owned list's cheapest draw. Two cards, two life, two black. Not tribal — it does not mill and it does not raise the steal count. Dig for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], or the next Elf so she has a follow-up. You can point it at an opponent, but this deck is not trying to burn people out.
+Two cards, two life, two black. Not tribal. Owned cut — [[02 Cards/Sorceries/Distant Melody|Distant Melody]] took the draw slot. You can point it at an opponent, but this deck is not trying to burn people out.
 
 ## Play Patterns & Lines
 
@@ -60,13 +60,15 @@ The owned list's cheapest draw. Two cards, two life, two black. Not tribal — i
 
 - **What you are digging for**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
 - **Other owned draw**: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Creatures/Llanowar Visionary|Llanowar Visionary]]
-- **Pending refill**: [[02 Cards/Sorceries/Distant Melody|Distant Melody]]
+- **Live refill that replaced it**: [[02 Cards/Sorceries/Distant Melody|Distant Melody]]
 
 ## Anti-synergies / Notes
 
 - Not an Elf. Spending a turn on this after Maralen is down is a missed mill if you already had a body to play.
 - Two life matters when you are already racing.
 - Two black is a real cost on this list.
+
+- Owned cut. Sitting on the sideboard.
 
 ## Related Pages
 
@@ -89,7 +91,7 @@ The owned list's cheapest draw. Two cards, two life, two black. Not tribal — i
 > colors: [B]
 > color_identity: [B]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 76
 >   deck_specific: 70
@@ -97,7 +99,7 @@ The owned list's cheapest draw. Two cards, two life, two black. Not tribal — i
 > scryfall_id: b89d9372-8682-4a61-a003-8bccfbb6cbb4
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - sorcerie
 > ```
 

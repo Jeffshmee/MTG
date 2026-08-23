@@ -130,6 +130,25 @@ function splitPips(value: string): ElementContent[] {
   return parts
 }
 
+function stripMtgPrefix(node: Root | Element) {
+  if (node.type === "element" && String(node.tagName) === "code") {
+    for (const child of node.children ?? []) {
+      if (child.type === "text" && child.value.startsWith("mtg:")) {
+        child.value = child.value.slice(4)
+      }
+    }
+    return
+  }
+  if (!node.children) {
+    return
+  }
+  for (const child of node.children) {
+    if (child.type === "element") {
+      stripMtgPrefix(child)
+    }
+  }
+}
+
 function walk(node: Root | Element) {
   if (!node.children) {
     return
@@ -157,6 +176,7 @@ export const ManaPips: QuartzTransformerPlugin = () => ({
   htmlPlugins() {
     return [
       () => (tree: Root) => {
+        stripMtgPrefix(tree)
         walk(tree)
       },
     ]

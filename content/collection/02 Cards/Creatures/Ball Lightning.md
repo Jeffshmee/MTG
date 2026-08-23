@@ -1,0 +1,69 @@
+# Ball Lightning
+
+> [!card-proxy] **`mtg:Ball Lightning`**
+>
+> **Mana Cost:** {R}{R}{R}
+> **Type:** Creature — Elemental
+>
+> ![Ball Lightning](https://cards.scryfall.io/border_crop/front/5/f/5f27dbf0-6818-40ea-832d-10686b4c2900.jpg)
+
+## Classification
+
+| Category | Links |
+|----------|-------|
+| **Card type** | [[03 Card Types/Creature\|Creature]] |
+| **Creature type** | [[04 Creature Types/Elemental\|Elemental]] |
+| **Colour** | [[05 Colours/Red\|Red]] |
+| **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
+| **Where** | [[06 Browse/Box\|Box]] |
+
+## Printings
+
+<div class="synergy-score collection-copies">
+<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-why">
+<table>
+<thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
+<tbody>
+<tr><td>Foundations (<code>FDN</code>)</td><td>618</td><td>—</td><td>1</td><td>Box</td><td>0.27</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+### Arts in this Collection
+
+Printings in the collection. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/5/f/5f27dbf0-6818-40ea-832d-10686b4c2900.jpg" alt="Ball Lightning FDN 618 · ×1">
+<figcaption>FDN 618 · ×1</figcaption>
+</figure>
+</div>
+
+## Related
+
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Elemental|Elemental]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+
+---
+
+> [!metadata]- Metadata
+> ```yaml
+> name: "Ball Lightning"
+> aliases:
+>   - "Ball Lightning"
+> mana_cost: "{R}{R}{R}"
+> cmc: 3
+> type: "Creature — Elemental"
+> scryfall_id: 5f27dbf0-6818-40ea-832d-10686b4c2900
+> quantity: 1
+> tags:
+>   - card
+>   - collection
+>   - creature
+>   - elemental
+>   - mana-3
+>   - rare
+>   - red
+> ```

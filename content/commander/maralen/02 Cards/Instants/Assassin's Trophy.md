@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Assassin's](https://cards.scryfall.io/border_crop/front/a/a/aaf258fc-3ba4-4b83-bdbf-10a07e0b6c03.jpg?1783903757)
+> ![Assassin's](https://cards.scryfall.io/border_crop/front/d/e/def90432-6d13-4d28-aa27-f75dd26456bb.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@ Destroy any permanent an opponent controls. The answer this list has for problem
 >   general: 86
 >   deck_specific: 80
 >   combined: 82
-> scryfall_id: aaf258fc-3ba4-4b83-bdbf-10a07e0b6c03
+> scryfall_id: def90432-6d13-4d28-aa27-f75dd26456bb
 > tags:
 >   - card
 >   - main-deck

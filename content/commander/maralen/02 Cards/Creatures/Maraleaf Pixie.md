@@ -2,10 +2,10 @@
 
 > [!card-proxy] **`mtg:Maraleaf Pixie`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {G}{U}  
-> **Type:** Creature — Faerie  
-> **P/T:** 2/2  
+> **Status:** Main Deck 
+> **Mana Cost:** {G}{U} 
+> **Type:** Creature — Faerie 
+> **P/T:** 2/2 
 >
 > ### Deck Synergy
 > **83** / 100
@@ -50,12 +50,12 @@
 
 ## Deck Role & Rating
 
-Two-mana Faerie that taps for {G} or {U}. It color-fixes Maralen's blue and still counts as a Faerie for mill, steal, Spellstutter, and Scion. It is not an Elf, so it does not pay Archdruid or Priest, grow Marwyn, or come back with Loyalist. It is Ordered and sits on the sideboard — not in the owned list yet.
+Two-mana Faerie that taps for {G} or {U}. It color-fixes Maralen's blue and still counts as a Faerie for mill, steal, Spellstutter, and Scion. It is not an Elf, so it does not pay Archdruid or Priest, grow Marwyn, or come back with Loyalist. Live in the 100.
 
 ## Play Patterns & Lines
 
 - Turn 2 dork. Tap for Maralen's {U} or extra green.
-- After Maralen it mills and is a Faerie for Sprite and pending Scion.
+- After Maralen it mills and is a Faerie for Sprite and Scion.
 - Recur with Findbroker or Regrower only.
 - Flying 2/2 can chump in the air.
 
@@ -63,7 +63,7 @@ Two-mana Faerie that taps for {G} or {U}. It color-fixes Maralen's blue and stil
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
 - **Faerie payoff**: [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]]
-- **Pending Faerie payoff**: [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
+- **Faerie payoff**: [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **Vivid**: [[02 Cards/Creatures/Bloom Tender|Bloom Tender]] (Simic body)
 - **Ritual that counts it**: [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]]
 - **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
@@ -73,8 +73,6 @@ Two-mana Faerie that taps for {G} or {U}. It color-fixes Maralen's blue and stil
 - Not an Elf. Dead for Archdruid, Priest, Marwyn, Warmaster, and Loyalist.
 - {G}{U} can be awkward on turn 2.
 - Does not make black.
-- Not in the owned list yet.
-
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -96,17 +94,17 @@ Two-mana Faerie that taps for {G} or {U}. It color-fixes Maralen's blue and stil
 > colors: [G, U]
 > color_identity: [G, U]
 > keywords: ["Flying"]
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 78
->   deck_specific: 86
->   combined: 83
+>  general: 78
+>  deck_specific: 86
+>  combined: 83
 > scryfall_id: e6d7f9c9-dd83-4684-a949-1c22f316138a
 > tags:
->   - card
->   - ordered
->   - creature
+>  - card
+>  - main-deck
+>  - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

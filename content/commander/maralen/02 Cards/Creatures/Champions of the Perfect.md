@@ -2,10 +2,10 @@
 
 > [!card-proxy] **`mtg:Champions of the Perfect`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {3}{G}  
-> **Type:** Creature — Elf Warrior  
-> **P/T:** 6/6  
+> **Status:** Main Deck 
+> **Mana Cost:** {3}{G} 
+> **Type:** Creature — Elf Warrior 
+> **P/T:** 6/6 
 >
 > ### Deck Synergy
 > **86** / 100
@@ -52,7 +52,7 @@ When this creature leaves the battlefield, [[03 Effects/Recursion|return the exi
 
 ## Deck Role & Rating
 
-6/6 Elf that draws on every creature spell, with an extra cost: behold an Elf and exile it. When Champions leaves the battlefield, that Elf returns to hand — soft protection and a third recursion pattern next to Findbroker/Regrower (any permanent) and Loyalist (Elves only). Behold a dork you can recast, not [[02 Cards/Creatures/High Perfect Morcant|Morcant]] or [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], unless you want that legend in hand later. It is Ordered and sits on the sideboard — not in the owned list yet.
+6/6 Elf that draws on every creature spell, with an extra cost: behold an Elf and exile it. When Champions leaves the battlefield, that Elf returns to hand — soft protection and a third recursion pattern next to Findbroker/Regrower (any permanent) and Loyalist (Elves only). Behold a dork you can recast, not [[02 Cards/Creatures/High Perfect Morcant|Morcant]] or [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], unless you want that legend in hand later. Live in the 100.
 
 ## Play Patterns & Lines
 
@@ -74,8 +74,6 @@ When this creature leaves the battlefield, [[03 Effects/Recursion|return the exi
 - You must exile an Elf from the battlefield or your hand. No Elf, no cast.
 - Beholding your only ritual or lord shrinks the board for a 6/6.
 - Token ETBs are not creature spells.
-- Not in the owned list yet.
-
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -97,17 +95,17 @@ When this creature leaves the battlefield, [[03 Effects/Recursion|return the exi
 > colors: [G]
 > color_identity: [G]
 > keywords: ["Behold"]
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 82
->   deck_specific: 88
->   combined: 86
+>  general: 82
+>  deck_specific: 88
+>  combined: 86
 > scryfall_id: 4f359211-8be5-4818-b73c-14f24b7ddb21
 > tags:
->   - card
->   - ordered
->   - creature
+>  - card
+>  - main-deck
+>  - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

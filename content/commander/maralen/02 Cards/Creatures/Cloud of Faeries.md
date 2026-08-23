@@ -2,17 +2,17 @@
 
 > [!card-proxy] **`mtg:Cloud of Faeries`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {1}{U}  
-> **Type:** Creature — Faerie  
-> **P/T:** 1/1  
+> **Status:** Main Deck 
+> **Mana Cost:** {1}{U} 
+> **Type:** Creature — Faerie 
+> **P/T:** 1/1 
 >
 > ### Deck Synergy
 > **85** / 100
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Cloud](https://cards.scryfall.io/border_crop/front/0/3/03aff125-8962-4a0a-a2b4-e5d693b75400.jpg?1783917172)
+> ![Cloud](https://cards.scryfall.io/border_crop/front/e/d/ed95f539-1d8b-408b-9af2-8c6f93fb98c8.jpg)
 >
 > ### Deck Scores
 >
@@ -55,7 +55,7 @@
 
 ## Deck Role & Rating
 
-Cheap Faerie that untaps two lands on ETB — a double-spell or a refund after tapping out, not a token maker. Cycle it for {2} when you do not need the body; recursion rebuys the untap. It is Ordered and sits on the sideboard — not in the owned list yet.
+Cheap Faerie that untaps two lands on ETB — a double-spell or a refund after tapping out, not a token maker. Cycle it for {2} when you do not need the body; recursion rebuys the untap. Live in the 100. [[02 Cards/Creatures/Lluwen, Imperfect Naturalist|Lluwen]] is the owned cut.
 
 ## Play Patterns & Lines
 
@@ -70,7 +70,7 @@ Cheap Faerie that untaps two lands on ETB — a double-spell or a refund after t
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
 - **Wave leftover mana**: [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
 - **Faerie count**: [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]]
-- **Pending Faerie count**: [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
+- **Faerie count**: [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
 
 ## Anti-synergies / Notes
@@ -78,8 +78,6 @@ Cheap Faerie that untaps two lands on ETB — a double-spell or a refund after t
 - Lands only. Does not untap the ritual creatures.
 - 1/1 flyer does nothing in combat.
 - Not an Elf. Loyalist cannot return it.
-- Not in the owned list yet.
-
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -101,17 +99,17 @@ Cheap Faerie that untaps two lands on ETB — a double-spell or a refund after t
 > colors: [U]
 > color_identity: [U]
 > keywords: ["Flying", "Cycling"]
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 80
->   deck_specific: 88
->   combined: 85
-> scryfall_id: 03aff125-8962-4a0a-a2b4-e5d693b75400
+>  general: 80
+>  deck_specific: 88
+>  combined: 85
+> scryfall_id: ed95f539-1d8b-408b-9af2-8c6f93fb98c8
 > tags:
->   - card
->   - ordered
->   - creature
+>  - card
+>  - main-deck
+>  - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

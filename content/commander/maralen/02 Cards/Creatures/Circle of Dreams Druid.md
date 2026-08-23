@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Circle of Dreams Druid`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {G}{G}{G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 2/1  
@@ -48,13 +48,13 @@
 
 ## Deck Role & Rating
 
-An Elf that taps for {G} per creature you control — Faeries count, unlike Priest or owned [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]]. That mana turns [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] into a close: X equals creatures minus 3, and every Elf or Faerie that hits mills for Maralen. It is purchased or starred and sits on the sideboard until it is in hand. Do not treat it as in the owned list.
+An Elf that taps for {G} per creature you control — Faeries count, unlike Priest or [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]]. That mana turns [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] into a close: X equals creatures minus 3, and every Elf or Faerie that hits mills for Maralen. Live in the 100. Took [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]]'s slot.
 
 ## Play Patterns & Lines
 
 - Do not spend it trying to cast Maralen. You need three green and a board first.
 - After Maralen and a spread of Elves and Faeries, tap Circle and dump Wave for X equal to (creatures − 3).
-- Bearer tokens and pending Alela tokens count here; they do not pay Priest or Archdruid.
+- Bearer tokens and Alela tokens count here; they do not pay Priest or Archdruid.
 - Recur the ritual with Findbroker or Regrower (any permanent). Loyalist also works — Circle is an Elf.
 - Each Wave hit that is an Elf or Faerie mills, and the next tap is bigger.
 
@@ -64,15 +64,15 @@ An Elf that taps for {G} per creature you control — Faeries count, unlike Prie
 - **Wave**: [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
 - **Elf-only rituals**: [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Priest of Titania|Priest of Titania]]
 - **Faerie count**: [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]]
-- **Pending Faerie count**: [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]]
-- **Owned tokens**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]
+- **Faerie tokens**: [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]]
+- **Elf tokens**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]
 - **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
 
 ## Anti-synergies / Notes
 
 - `{G}{G}{G}` does not fix `{B}` or `{U}`. Priest is still the better early dork.
 - 2/1. Dies to a single point of damage.
-- Not in the owned list yet.
+- Live in the 100. [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]] is the owned cut.
 
 ## Related Pages
 
@@ -95,7 +95,7 @@ An Elf that taps for {G} per creature you control — Faeries count, unlike Prie
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 83
 >   deck_specific: 92
@@ -103,7 +103,7 @@ An Elf that taps for {G} per creature you control — Faeries count, unlike Prie
 > scryfall_id: be6fdec0-a2c4-4da2-ae14-961185eaee66
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

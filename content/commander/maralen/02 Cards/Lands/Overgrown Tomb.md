@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Overgrown](https://cards.scryfall.io/border_crop/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836)
+> ![Overgrown](https://cards.scryfall.io/border_crop/front/4/5/45b92924-baa1-4c9b-9932-9a5eda8f3446.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@ Overgrown Tomb is fixing that comes in tapped. Fine while the owned list is shor
 >   general: 86
 >   deck_specific: 82
 >   combined: 84
-> scryfall_id: ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd
+> scryfall_id: 45b92924-baa1-4c9b-9932-9a5eda8f3446
 > tags:
 >   - card
 >   - main-deck

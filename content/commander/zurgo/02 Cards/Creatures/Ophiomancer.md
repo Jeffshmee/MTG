@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:87%"></div></div>
 >
-> ![Ophiomancer](https://cards.scryfall.io/border_crop/front/b/a/baf793b6-9612-43f3-9f1b-2e53e81cb89f.jpg)
+> ![Ophiomancer](https://cards.scryfall.io/border_crop/front/7/d/7da2511d-f5ae-4c51-a9b2-dffd581243b6.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ Ophiomancer is a three-mana Snake factory: if you control no Snakes at each upke
 >   general: 84
 >   deck_specific: 89
 >   combined: 87
-> scryfall_id: baf793b6-9612-43f3-9f1b-2e53e81cb89f
+> scryfall_id: 7da2511d-f5ae-4c51-a9b2-dffd581243b6
 > tags:
 >   - card
 >   - main-deck

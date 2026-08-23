@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Extra land mana. Not tribal. Fine extra land mana. |
-> | Deck-Specific | 70 | Extra land mana. Not tribal. Fine extra land mana. |
-> | **Combined** | **72** | Extra land mana. Not tribal. Fine extra land mana. |
+> | General | 76 | Four-mana extra land mana. Legal, not efficient in a vacuum. |
+> | Deck-Specific | 70 | Score still reads “not tribal.” Playtest: flash-turn engine. Do not cut. |
+> | **Combined** | **72** | Combined 72 underweights the flash line — playtest lock. |
 >
 > ### Classification
 >
@@ -37,7 +37,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">72<span>/100</span></div><p class="synergy-score-why">Extra land mana. Not tribal. Fine extra land mana. General 76 and Deck-Specific 70 produce Combined 72.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">72<span>/100</span></div><p class="synergy-score-why">End-step untap: dump the hand, then flash Faeries on their turn. Combined 72 underweights that line — playtest lock. General 76 and Deck-Specific 70 produce Combined 72.</p></div>
 
 ## Oracle Text
 
@@ -47,24 +47,27 @@ At the beginning of your end step, [[03 Effects/Untap|untap]] all lands you cont
 
 ## Deck Role & Rating
 
-At the beginning of your end step, untap all lands you control. Extra land mana for instants and flash on your end step. Not tribal. Fine mana, low synergy with the mill plan. It is live in the 100.
+At the beginning of your end step, untap all lands you control. That is how this list plays a full hand on your turn, then flashes Faeries on their turn with no leftover-mana tax — mill and steal on *their* turn. Combined 72 reads as “not tribal.” Playtest lock: do not cut it. Live in the 100.
 
 ## Play Patterns & Lines
 
-- Untap into [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Instants/Heritage Reclamation|Heritage Reclamation]], and the flash Faeries ([[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]]).
-- With [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]] you can flash [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] or [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] on the end step after the lands untap.
-- Mana empties at the end of the step. Spend it on that end step or lose it.
+- Empty the hand on your turn. End step: lands untap. Their turn: flash [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]].
+- Hold [[02 Cards/Instants/Negate|Negate]] / [[02 Cards/Instants/Heritage Reclamation|Heritage Reclamation]] / [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] off the untap. That is not leftover mana — it is the second main phase this card creates.
+- With [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]] you can flash [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] or [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] after the lands untap.
+- Mana empties at the end of the step if you spend it then. Untapped lands persist into their turn; that is the flash window.
 
 ## Key Synergies
 
-- **End-step spend**: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Instants/Heritage Reclamation|Heritage Reclamation]], [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]]
+- **Flash package**: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]]
+- **Hold-up**: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Instants/Heritage Reclamation|Heritage Reclamation]], [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]]
 - **Flash the expensive stuff**: [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]]
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
 
 ## Anti-synergies / Notes
 
-- Not an Elf. Does not mill. Does not raise the steal count.
-- Four-mana enchantment for extra land mana when the deck already has dorks. Fine if you need the mana; low synergy.
+- Not an Elf. Does not mill. Does not raise the steal count. The job is mana for the bodies that do.
+- Four mana. A Reclamation with no flash in hand is just extra land mana.
+- Playtest lock. Combined 72 is not a cut signal.
 
 ## Related Pages
 

@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
-> ![Sol](https://cards.scryfall.io/border_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg)
+> ![Sol](https://cards.scryfall.io/border_crop/front/1/9/19911e6e-7c35-4281-b31c-266382f052cc.jpg)
 >
 > ### Deck Scores
 >
@@ -85,7 +85,7 @@ Sol Ring is a main-deck artifact.
 >   general: 95
 >   deck_specific: 85
 >   combined: 89
-> scryfall_id: 91fdb56b-54d5-4272-8319-505ff987fe9b
+> scryfall_id: 19911e6e-7c35-4281-b31c-266382f052cc
 > tags:
 >   - card
 >   - main-deck

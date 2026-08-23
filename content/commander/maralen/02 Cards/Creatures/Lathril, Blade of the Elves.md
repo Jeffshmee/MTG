@@ -59,7 +59,7 @@ Lathril is the owned token engine. Combat damage makes that many Elf Warriors; e
 ## Play Patterns & Lines
 
 - After Maralen, connect. Lords ([[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]], Archdruid, Banner, Loyalist) make the hit larger and the tokens relevant in combat.
-- [[02 Cards/Lands/Rogue's Passage|Rogue's Passage]] or Menace plus a cleared board is how she gets through. [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]] can turn her into a 4/4 for the turn.
+- [[02 Cards/Lands/Rogue's Passage|Rogue's Passage]] or Menace plus a cleared board is how she gets through.
 - Tokens this turn, Wave next turn. Do not tap ten the same turn you need Archdruid and the team for X.
 - If she dies after a good connect, Findbroker / Regrower / Loyalist / Pennant her back. The tokens stay.
 

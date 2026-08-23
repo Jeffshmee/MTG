@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:87%"></div></div>
 >
-> ![Belladonna](https://cards.scryfall.io/border_crop/front/8/8/88f0c189-c9ed-4ea3-ae62-3d8ac6c7fecf.jpg)
+> ![Belladonna](https://cards.scryfall.io/border_crop/front/0/f/0ff767b1-b04d-4d1d-bc91-3bd1361c5ee8.jpg)
 >
 > ### Deck Scores
 >
@@ -97,7 +97,7 @@ Belladonna is a two-mana token-ETB ladder: first token that turn is 1 life, seco
 >   general: 82
 >   deck_specific: 92
 >   combined: 87
-> scryfall_id: 88f0c189-c9ed-4ea3-ae62-3d8ac6c7fecf
+> scryfall_id: 0ff767b1-b04d-4d1d-bc91-3bd1361c5ee8
 > tags:
 >   - card
 >   - main-deck

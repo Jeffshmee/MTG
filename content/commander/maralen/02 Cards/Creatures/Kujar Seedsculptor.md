@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Kujar Seedsculptor`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {1}{G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 1/2  
@@ -69,6 +69,8 @@ Kujar Seedsculptor is a two-mana Elf that drops a +1/+1 counter on ETB. The coun
 - No mana ability. A t2 Kujar instead of Loamspeaker/Cowl delays Maralen.
 - The counter is one shot. Without Lathril or a lord in play you spent two mana on a 2/3.
 
+- Owned cut. Sitting on the sideboard.
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -90,7 +92,7 @@ Kujar Seedsculptor is a two-mana Elf that drops a +1/+1 counter on ETB. The coun
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 68
 >   deck_specific: 74
@@ -98,7 +100,7 @@ Kujar Seedsculptor is a two-mana Elf that drops a +1/+1 counter on ETB. The coun
 > scryfall_id: 7a8a8d63-e64b-4a7a-ba95-1a68f75977d4
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:69%"></div></div>
 >
-> ![Island](https://cards.scryfall.io/border_crop/front/f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645)
+> ![Island](https://cards.scryfall.io/border_crop/front/1/7/17e2b637-72b1-4457-aaba-66d51107be4c.jpg)
 >
 > ### Deck Scores
 >
@@ -62,6 +62,25 @@ Island is a mana source in this Sultai pile. Prefer it when it is untapped or na
 
 - Keep Maralen on the battlefield. The deck does much less without her.
 
+### Arts in this Deck
+
+Printings sleeved in this 100. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/7/17e2b637-72b1-4457-aaba-66d51107be4c.jpg" alt="Island FDN 274 · ×4">
+<figcaption>FDN 274 · ×4</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/4/2/4208e66c-8c98-4c48-ab07-8523c0b26ca4.jpg" alt="Island TDM 273 · ×1">
+<figcaption>TDM 273 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/6/d6a5ba11-3156-4a0c-958d-5756e18b767b.jpg" alt="Island ECL 280 · ×1">
+<figcaption>ECL 280 · ×1</figcaption>
+</figure>
+</div>
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -88,7 +107,7 @@ Island is a mana source in this Sultai pile. Prefer it when it is untapped or na
 >   general: 70
 >   deck_specific: 68
 >   combined: 69
-> scryfall_id: f3cc07cd-cc79-4745-b0b7-eade60175cc3
+> scryfall_id: 17e2b637-72b1-4457-aaba-66d51107be4c
 > tags:
 >   - card
 >   - main-deck

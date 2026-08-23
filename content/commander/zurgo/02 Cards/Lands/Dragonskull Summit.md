@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:75%"></div></div>
 >
-> ![Dragonskull](https://cards.scryfall.io/border_crop/front/d/2/d20e433a-eb62-4301-bc20-bfe27468b033.jpg)
+> ![Dragonskull](https://cards.scryfall.io/border_crop/front/9/2/92964d76-3a01-4ab6-abf9-66b754708f90.jpg)
 >
 > ### Deck Scores
 >
@@ -90,7 +90,7 @@ Dragonskull Summit is a main-deck land.
 >   general: 76
 >   deck_specific: 74
 >   combined: 75
-> scryfall_id: d20e433a-eb62-4301-bc20-bfe27468b033
+> scryfall_id: 92964d76-3a01-4ab6-abf9-66b754708f90
 > tags:
 >   - card
 >   - main-deck

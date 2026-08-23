@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:71%"></div></div>
 >
-> ![Canyon](https://cards.scryfall.io/border_crop/front/5/8/587cc3ba-75c2-46a0-bd44-6f953fe1eb01.jpg)
+> ![Canyon](https://cards.scryfall.io/border_crop/front/d/2/d2ba7cfa-36f2-410f-80c3-5a06f4b48372.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ Canyon Slough is a tapped BR cycling dual. Blood Crypt took this slot as the unt
 >   general: 73
 >   deck_specific: 70
 >   combined: 71
-> scryfall_id: 587cc3ba-75c2-46a0-bd44-6f953fe1eb01
+> scryfall_id: d2ba7cfa-36f2-410f-80c3-5a06f4b48372
 > tags:
 >   - card
 >   - ordered

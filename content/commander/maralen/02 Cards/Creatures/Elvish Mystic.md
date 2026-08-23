@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> ![Elvish](https://cards.scryfall.io/border_crop/front/0/8/08b9a296-3b76-4f8f-9d71-7c9af92bb3b4.jpg?1785647413)
+> ![Elvish](https://cards.scryfall.io/border_crop/front/e/b/eb654a76-62ee-4fd8-83d4-cb912211a9a0.jpg)
 >
 > ### Deck Scores
 >
@@ -95,7 +95,7 @@ Elvish Mystic is the third one-mana `{T}:{G}` Elf. The copies exist so you actua
 >   general: 84
 >   deck_specific: 90
 >   combined: 88
-> scryfall_id: 08b9a296-3b76-4f8f-9d71-7c9af92bb3b4
+> scryfall_id: eb654a76-62ee-4fd8-83d4-cb912211a9a0
 > tags:
 >   - card
 >   - main-deck

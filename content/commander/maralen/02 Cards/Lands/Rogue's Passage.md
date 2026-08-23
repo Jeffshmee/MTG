@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:72%"></div></div>
 >
-> ![Rogue's](https://cards.scryfall.io/border_crop/front/4/4/4493b62b-f354-47ff-9dcf-cc6e29de77c6.jpg?1785497634)
+> ![Rogue's](https://cards.scryfall.io/border_crop/front/3/3/335444f0-0848-4c17-b056-56d4fc876a58.jpg)
 >
 > ### Deck Scores
 >
@@ -95,7 +95,7 @@ Colourless utility land. `{T}`: `{C}`. `{4}`, `{T}`: target creature cannot be b
 >   general: 74
 >   deck_specific: 70
 >   combined: 72
-> scryfall_id: 4493b62b-f354-47ff-9dcf-cc6e29de77c6
+> scryfall_id: 335444f0-0848-4c17-b056-56d4fc876a58
 > tags:
 >   - card
 >   - main-deck

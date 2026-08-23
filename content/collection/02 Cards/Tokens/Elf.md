@@ -1,0 +1,69 @@
+# Elf
+
+> [!card-proxy] **`mtg:Elf`**
+>
+> **Mana Cost:** —
+> **Type:** Token Creature — Elf
+>
+> ![Elf](https://cards.scryfall.io/border_crop/front/3/9/39b36f22-21f9-44fe-8a49-bdc859503342.jpg)
+
+## Classification
+
+| Category | Links |
+|----------|-------|
+| **Card type** | [[02 Cards/Tokens/01 - Summary\|Token]] |
+| **Creature type** | — |
+| **Colour** | [[02 Cards/Tokens/01 - Summary\|Token]] |
+| **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
+| **Where** | [[06 Browse/Box\|Box]] |
+
+## Printings
+
+<div class="synergy-score collection-copies">
+<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-why">
+<table>
+<thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
+<tbody>
+<tr><td>Lorwyn Eclipsed Tokens (<code>TECL</code>)</td><td>4</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+### Arts in this Collection
+
+Printings in the collection. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/9/39b36f22-21f9-44fe-8a49-bdc859503342.jpg" alt="Elf TECL 4 · ×1">
+<figcaption>TECL 4 · ×1</figcaption>
+</figure>
+</div>
+
+## Related
+
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TECL|Lorwyn Eclipsed Tokens]]
+
+---
+
+> [!metadata]- Metadata
+> ```yaml
+> name: "Elf"
+> aliases:
+>   - "Elf"
+> mana_cost: ""
+> cmc: 0
+> type: "Token Creature — Elf"
+> scryfall_id: 39b36f22-21f9-44fe-8a49-bdc859503342
+> quantity: 1
+> tags:
+>   - card
+>   - collection
+>   - common
+>   - creature
+>   - elf
+>   - mana-0
+>   - token
+> ```

@@ -1,0 +1,70 @@
+# Battlesong Berserker
+
+> [!card-proxy] **`mtg:Battlesong Berserker`**
+>
+> **Mana Cost:** {3}{R}
+> **Type:** Creature — Human Berserker
+>
+> ![Battlesong Berserker](https://cards.scryfall.io/border_crop/front/a/1/a1f8b199-5d62-485f-b1c3-b30aa550595b.jpg)
+
+## Classification
+
+| Category | Links |
+|----------|-------|
+| **Card type** | [[03 Card Types/Creature\|Creature]] |
+| **Creature type** | [[04 Creature Types/Human\|Human]] · [[04 Creature Types/Berserker\|Berserker]] |
+| **Colour** | [[05 Colours/Red\|Red]] |
+| **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
+| **Where** | [[06 Browse/Box\|Box]] |
+
+## Printings
+
+<div class="synergy-score collection-copies">
+<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-why">
+<table>
+<thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
+<tbody>
+<tr><td>Foundations (<code>FDN</code>)</td><td>78</td><td>—</td><td>1</td><td>Box</td><td>0.04</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+### Arts in this Collection
+
+Printings in the collection. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/a/1/a1f8b199-5d62-485f-b1c3-b30aa550595b.jpg" alt="Battlesong Berserker FDN 78 · ×1">
+<figcaption>FDN 78 · ×1</figcaption>
+</figure>
+</div>
+
+## Related
+
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Human|Human]] · [[04 Creature Types/Berserker|Berserker]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+
+---
+
+> [!metadata]- Metadata
+> ```yaml
+> name: "Battlesong Berserker"
+> aliases:
+>   - "Battlesong Berserker"
+> mana_cost: "{3}{R}"
+> cmc: 4
+> type: "Creature — Human Berserker"
+> scryfall_id: a1f8b199-5d62-485f-b1c3-b30aa550595b
+> quantity: 1
+> tags:
+>   - berserker
+>   - card
+>   - collection
+>   - creature
+>   - human
+>   - mana-4
+>   - red
+>   - uncommon
+> ```

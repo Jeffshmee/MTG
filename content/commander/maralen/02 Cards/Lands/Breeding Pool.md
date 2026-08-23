@@ -2,16 +2,16 @@
 
 > [!card-proxy] **`mtg:Breeding Pool`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** —  
-> **Type:** Land — Forest Island  
+> **Status:** Main Deck 
+> **Mana Cost:** — 
+> **Type:** Land — Forest Island 
 >
 > ### Deck Synergy
 > **84** / 100
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Breeding](https://cards.scryfall.io/border_crop/front/6/3/63e4dc07-c742-41bd-8301-861637908fd1.jpg?1784036820)
+> ![Breeding](https://cards.scryfall.io/border_crop/front/1/c/1c575871-9b46-4cd4-8596-54dc04f76456.jpg)
 >
 > ### Deck Scores
 >
@@ -50,22 +50,23 @@ As this land enters, [[03 Effects/Pain Land|you may pay 2 life]]. If you don't, 
 
 ## Deck Role & Rating
 
-Breeding Pool is fixing that comes in tapped. Fine while the owned list is short; premium duals on order replace the worst of these.
-It is purchased or starred and sits on the sideboard until it is in hand. Do not treat it as in the owned list.
+Shock dual for GU. Untapped if you pay 2 life; Forest and Island, so [[02 Cards/Sorceries/Farseek|Farseek]] can find it. Fixes Maralen's green-blue pair. It replaced a basic Forest (the pile is 12 Forests plus Yavimaya). Live in the 100.
 
 ## Play Patterns & Lines
 
+- Pay 2 life to keep it untapped when you need {G} or {U} this turn.
 - Sequence it so Maralen is {B}{G}{U} on time. Name Elf on tribal lands.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
+- **Fetch**: [[02 Cards/Sorceries/Farseek|Farseek]] (Forest Island)
 - **Ramp**: helps hit Maralen on time.
-- Pending until owned. Do not treat this as in the current list.
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet.
+
+- 2 life or enters tapped. Do not shock on turn 1 unless the pip is the keep.
 
 ## Related Pages
 
@@ -88,17 +89,17 @@ It is purchased or starred and sits on the sideboard until it is in hand. Do not
 > colors: [G, U]
 > color_identity: [G, U]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 86
->   deck_specific: 82
->   combined: 84
-> scryfall_id: 63e4dc07-c742-41bd-8301-861637908fd1
+>  general: 86
+>  deck_specific: 82
+>  combined: 84
+> scryfall_id: 1c575871-9b46-4cd4-8596-54dc04f76456
 > tags:
->   - card
->   - ordered
->   - land
+>  - card
+>  - main-deck
+>  - land
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

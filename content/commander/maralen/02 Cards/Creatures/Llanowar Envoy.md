@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Llanowar Envoy`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {2}{G}  
 > **Type:** Creature — Elf Scout  
 > **P/T:** 3/2  
@@ -69,6 +69,8 @@ Llanowar Envoy is a three-mana Elf that filters: pay `{1}{G}`, add one mana of a
 - `{1}{G}` to add one mana is negative ramp. Using it the turn you want to Wave shrinks X.
 - Worse fixer than [[02 Cards/Creatures/Llanowar Loamspeaker|Llanowar Loamspeaker]] or [[02 Cards/Creatures/Rosethorn Acolyte|Rosethorn Acolyte]]. Play those first.
 
+- Owned cut. Sitting on the sideboard.
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -90,7 +92,7 @@ Llanowar Envoy is a three-mana Elf that filters: pay `{1}{G}`, add one mana of a
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 66
 >   deck_specific: 70
@@ -98,7 +100,7 @@ Llanowar Envoy is a three-mana Elf that filters: pay `{1}{G}`, add one mana of a
 > scryfall_id: 1a667bba-ecf0-4212-8ca3-75d4db6abce2
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

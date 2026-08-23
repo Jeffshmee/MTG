@@ -2,10 +2,10 @@
 
 > [!card-proxy] **`mtg:Alela, Cunning Conqueror`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** {2}{U}{B}  
-> **Type:** Legendary Creature — Faerie Warlock  
-> **P/T:** 2/4  
+> **Status:** Main Deck 
+> **Mana Cost:** {2}{U}{B} 
+> **Type:** Legendary Creature — Faerie Warlock 
+> **P/T:** 2/4 
 >
 > ### Deck Synergy
 > **88** / 100
@@ -53,7 +53,7 @@ Whenever one or more Faeries you control deal [[03 Effects/Combat Damage|combat 
 
 ## Deck Role & Rating
 
-Opponent-turn Faerie factory: your first spell on each opponent's turn makes a 1/1 flying Faerie Rogue. Those tokens mill if Maralen is up and feed Sprite, Scion, Obyra, and Tegwyll. She needs a flash package to trigger — owned Gifter, Glamermite, Sprite, Trickster, and Leyline, plus pending Scion. It is Ordered and sits on the sideboard — not in the owned list yet.
+Opponent-turn Faerie factory: your first spell on each opponent's turn makes a 1/1 flying Faerie Rogue. Those tokens mill if Maralen is up and feed Sprite, Scion, Obyra, and Tegwyll. She needs a flash package to trigger — live Glamermite, Sprite, Trickster, Leyline, and Scion. [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]] is an owned cut.
 
 ## Play Patterns & Lines
 
@@ -65,9 +65,8 @@ Opponent-turn Faerie factory: your first spell on each opponent's turn makes a 1
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Owned flash**: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]]
+- **Owned flash**: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **Flash package**: [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]], [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]]
-- **Pending flash**: [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **Faerie payoffs**: [[02 Cards/Creatures/Obyra, Dreaming Duelist|Obyra, Dreaming Duelist]], [[02 Cards/Creatures/Tegwyll, Duke of Splendor|Tegwyll, Duke of Splendor]]
 - **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
 
@@ -77,7 +76,6 @@ Opponent-turn Faerie factory: your first spell on each opponent's turn makes a 1
 - Tokens are not Elves. They do not pay Archdruid, Priest, or Marwyn.
 - {2}{U}{B} does nothing the turn you cast it if it is your turn and you have no flash follow-up.
 - Legendary.
-- Not in the owned list yet.
 
 ## Related Pages
 
@@ -100,17 +98,17 @@ Opponent-turn Faerie factory: your first spell on each opponent's turn makes a 1
 > colors: [B, U]
 > color_identity: [B, U]
 > keywords: ["Flying", "Goad"]
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 86
->   deck_specific: 90
->   combined: 88
+>  general: 86
+>  deck_specific: 90
+>  combined: 88
 > scryfall_id: 79ba5c35-6e5c-406a-b95f-844d5ec296ab
 > tags:
->   - card
->   - ordered
->   - creature
+>  - card
+>  - main-deck
+>  - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

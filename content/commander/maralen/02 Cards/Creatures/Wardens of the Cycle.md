@@ -72,6 +72,7 @@ Wardens of the Cycle is a four-mana Elf that, at your end step, draws (and loses
 
 - No death that turn = no trigger. A tapped-out, no-combat turn is a vanilla 3/4 for four.
 - The draw costs a life. Stacking it every turn while blight is also picking off your 1/1s adds up.
+- Reserved cut for [[02 Cards/Creatures/Bloom Tender|Bloom Tender]] when it arrives. Not a Maralen-cast fixer.
 
 ## Related Pages
 

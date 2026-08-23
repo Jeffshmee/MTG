@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> ![Reclamation](https://cards.scryfall.io/border_crop/front/1/9/1918ea65-ab7f-4d40-97fd-a656c892a2a1.jpg?1783909055)
+> ![Reclamation](https://cards.scryfall.io/border_crop/front/a/f/af3f0764-9d80-4e15-a402-1f93e652bcbb.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ Reclamation Sage is the artifact/enchantment answer that is also an Elf. After [
 >   general: 80
 >   deck_specific: 82
 >   combined: 81
-> scryfall_id: 1918ea65-ab7f-4d40-97fd-a656c892a2a1
+> scryfall_id: af3f0764-9d80-4e15-a402-1f93e652bcbb
 > tags:
 >   - card
 >   - main-deck

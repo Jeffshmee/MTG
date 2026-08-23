@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Greenwood Sentinel`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {1}{G}  
 > **Type:** Creature — Elf Scout  
 > **P/T:** 2/2  
@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-Greenwood Sentinel is honest Wave/count fodder with vigilance. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] the 2/2 mills and ticks the steal number, then it can attack and still block the creature that would eat a lord. That is the extra: vigilance, not a second ability. Lords and Banner turn it into a real attacker.
+Greenwood Sentinel is honest Wave/count fodder with vigilance. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] the 2/2 mills and ticks the steal number, then it can attack and still block the creature that would eat a lord. That is the extra: vigilance, not a second ability. Owned cut — [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] took the slot.
 
 ## Play Patterns & Lines
 
@@ -67,6 +67,8 @@ Greenwood Sentinel is honest Wave/count fodder with vigilance. After [[02 Cards/
 
 - No mana, no ETB, no tokens. If Maralen is dead this is a 2/2 for two.
 - Vigilance does not stop flyers. Thornweald / Tajuru / Maralen herself have to handle the air.
+
+- Owned cut. Sitting on the sideboard.
 
 ## Related Pages
 
@@ -89,7 +91,7 @@ Greenwood Sentinel is honest Wave/count fodder with vigilance. After [[02 Cards/
 > colors: [G]
 > color_identity: [G]
 > keywords: ["Vigilance"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 64
 >   deck_specific: 70
@@ -97,7 +99,7 @@ Greenwood Sentinel is honest Wave/count fodder with vigilance. After [[02 Cards/
 > scryfall_id: e9a1a70d-c146-453e-84c4-71cae4e0afaa
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

@@ -1,0 +1,70 @@
+# Harnesser of Storms
+
+> [!card-proxy] **`mtg:Harnesser of Storms`**
+>
+> **Mana Cost:** {2}{R}
+> **Type:** Creature — Otter Wizard
+>
+> ![Harnesser of Storms](https://cards.scryfall.io/border_crop/front/b/5/b56beeb6-88ca-475e-8654-1d4e8b4aa3c0.jpg)
+
+## Classification
+
+| Category | Links |
+|----------|-------|
+| **Card type** | [[03 Card Types/Creature\|Creature]] |
+| **Creature type** | [[04 Creature Types/Otter\|Otter]] · [[04 Creature Types/Wizard\|Wizard]] |
+| **Colour** | [[05 Colours/Red\|Red]] |
+| **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
+| **Where** | [[06 Browse/Box\|Box]] |
+
+## Printings
+
+<div class="synergy-score collection-copies">
+<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-why">
+<table>
+<thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
+<tbody>
+<tr><td>Bloomburrow (<code>BLB</code>)</td><td>137</td><td>—</td><td>1</td><td>Box</td><td>0.18</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+### Arts in this Collection
+
+Printings in the collection. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/5/b56beeb6-88ca-475e-8654-1d4e8b4aa3c0.jpg" alt="Harnesser of Storms BLB 137 · ×1">
+<figcaption>BLB 137 · ×1</figcaption>
+</figure>
+</div>
+
+## Related
+
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Otter|Otter]] · [[04 Creature Types/Wizard|Wizard]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/BLB|Bloomburrow]]
+
+---
+
+> [!metadata]- Metadata
+> ```yaml
+> name: "Harnesser of Storms"
+> aliases:
+>   - "Harnesser of Storms"
+> mana_cost: "{2}{R}"
+> cmc: 3
+> type: "Creature — Otter Wizard"
+> scryfall_id: b56beeb6-88ca-475e-8654-1d4e8b4aa3c0
+> quantity: 1
+> tags:
+>   - card
+>   - collection
+>   - creature
+>   - mana-3
+>   - otter
+>   - red
+>   - uncommon
+>   - wizard
+> ```

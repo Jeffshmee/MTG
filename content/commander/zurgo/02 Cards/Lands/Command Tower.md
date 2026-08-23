@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
-> ![Command](https://cards.scryfall.io/border_crop/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg)
+> ![Command](https://cards.scryfall.io/border_crop/front/2/7/27e36832-09ca-4070-8511-94580014c3ed.jpg)
 >
 > ### Deck Scores
 >
@@ -86,7 +86,7 @@ Command Tower is a main-deck land.
 >   general: 90
 >   deck_specific: 88
 >   combined: 89
-> scryfall_id: 0548fb60-c843-4f8f-a029-6f10efc63a41
+> scryfall_id: 27e36832-09ca-4070-8511-94580014c3ed
 > tags:
 >   - card
 >   - main-deck

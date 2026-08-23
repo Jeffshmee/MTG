@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:71%"></div></div>
 >
-> ![Forest](https://cards.scryfall.io/border_crop/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675)
+> ![Forest](https://cards.scryfall.io/border_crop/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Forest is a mana source in this Sultai pile. Prefer it when it is untapped or names Elf/Faerie.
+Forest is a mana source in this Sultai pile. Twelve copies in the 100 (was fourteen). Two came out land-for-land for [[02 Cards/Lands/Watery Grave|Watery Grave]] and [[02 Cards/Lands/Breeding Pool|Breeding Pool]]. [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya]] still makes every land a Forest for Arbor Elf.
 
 ## Play Patterns & Lines
 
@@ -61,6 +61,33 @@ Forest is a mana source in this Sultai pile. Prefer it when it is untapped or na
 ## Anti-synergies / Notes
 
 - Keep Maralen on the battlefield. The deck does much less without her.
+
+### Arts in this Deck
+
+Printings sleeved in this 100. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg" alt="Forest FDN 280 · ×7">
+<figcaption>FDN 280 · ×7</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/a/b/ab8affbb-d2a2-436b-bbc2-9e8b6cf0d2c4.jpg" alt="Forest FDN 281 · ×2">
+<figcaption>FDN 281 · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/b/bbbeb57d-5fa0-4ff7-b5e8-caafc139669b.jpg" alt="Forest FDN 290 · ×1">
+<figcaption>FDN 290 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/1/117ab60a-b888-4585-b0c6-769d387069f7.jpg" alt="Forest FDN 291 · ×1">
+<figcaption>FDN 291 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/4/b460f5f7-c7c9-400c-8419-23d614f45bf9.jpg" alt="Forest ECL 273 · ×1">
+<figcaption>ECL 273 · ×1</figcaption>
+</figure>
+</div>
 
 ## Related Pages
 
@@ -88,7 +115,7 @@ Forest is a mana source in this Sultai pile. Prefer it when it is untapped or na
 >   general: 70
 >   deck_specific: 72
 >   combined: 71
-> scryfall_id: dce15387-4114-4b3e-91aa-5b42b45c44ac
+> scryfall_id: d232fcc2-12f6-401a-b1aa-ddff11cb9378
 > tags:
 >   - card
 >   - main-deck

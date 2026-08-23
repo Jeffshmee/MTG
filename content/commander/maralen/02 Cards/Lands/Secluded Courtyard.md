@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> ![Secluded](https://cards.scryfall.io/border_crop/front/c/0/c0d17d04-cf0b-4918-bfec-b34b0d98a602.jpg?1783903197)
+> ![Secluded](https://cards.scryfall.io/border_crop/front/d/1/d13373d2-139b-48c7-a8c9-828cefc4f150.jpg)
 >
 > ### Deck Scores
 >
@@ -95,7 +95,7 @@ Type-chooser land. Name Elf. `{T}`: `{C}`, or any colour that can only be spent 
 >   general: 76
 >   deck_specific: 84
 >   combined: 81
-> scryfall_id: c0d17d04-cf0b-4918-bfec-b34b0d98a602
+> scryfall_id: d13373d2-139b-48c7-a8c9-828cefc4f150
 > tags:
 >   - card
 >   - main-deck

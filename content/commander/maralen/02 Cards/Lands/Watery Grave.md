@@ -2,16 +2,16 @@
 
 > [!card-proxy] **`mtg:Watery Grave`**
 >
-> **Status:** Ordered  
-> **Mana Cost:** —  
-> **Type:** Land — Island Swamp  
+> **Status:** Main Deck 
+> **Mana Cost:** — 
+> **Type:** Land — Island Swamp 
 >
 > ### Deck Synergy
 > **82** / 100
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Watery](https://cards.scryfall.io/border_crop/front/5/5/5525d6a6-e532-4047-9da4-bfae7927fecc.jpg?1784036860)
+> ![Watery](https://cards.scryfall.io/border_crop/front/b/2/b248ff3a-e10d-4797-8c04-7f4094608d32.jpg)
 >
 > ### Deck Scores
 >
@@ -50,22 +50,24 @@ As this land enters, [[03 Effects/Pain Land|you may pay 2 life]]. If you don't, 
 
 ## Deck Role & Rating
 
-Watery Grave is fixing that comes in tapped. Fine while the owned list is short; premium duals on order replace the worst of these.
-It is purchased or starred and sits on the sideboard until it is in hand. Do not treat it as in the owned list.
+Shock dual for UB. Untapped if you pay 2 life; Island and Swamp, so [[02 Cards/Sorceries/Farseek|Farseek]] can find it. This is the documented answer to the `{B}{B}` pinch ([[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]]) plus a second blue source. Live in the 100. [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] is an owned cut.
 
 ## Play Patterns & Lines
 
+- Pay 2 life to keep it untapped when you need {U} or {B} this turn.
 - Sequence it so Maralen is {B}{G}{U} on time. Name Elf on tribal lands.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
+- **Fetch**: [[02 Cards/Sorceries/Farseek|Farseek]] (Island Swamp)
+- **{B}{B} sinks**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]]
 - **Ramp**: helps hit Maralen on time.
-- Pending until owned. Do not treat this as in the current list.
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet.
+
+- 2 life or enters tapped. Do not shock on turn 1 unless the pip is the keep.
 
 ## Related Pages
 
@@ -88,17 +90,17 @@ It is purchased or starred and sits on the sideboard until it is in hand. Do not
 > colors: [B, U]
 > color_identity: [B, U]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 86
->   deck_specific: 80
->   combined: 82
-> scryfall_id: 5525d6a6-e532-4047-9da4-bfae7927fecc
+>  general: 86
+>  deck_specific: 80
+>  combined: 82
+> scryfall_id: b248ff3a-e10d-4797-8c04-7f4094608d32
 > tags:
->   - card
->   - ordered
->   - land
+>  - card
+>  - main-deck
+>  - land
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-17* 
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

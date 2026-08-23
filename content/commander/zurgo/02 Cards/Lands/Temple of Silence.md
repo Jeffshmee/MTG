@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Temple](https://cards.scryfall.io/border_crop/front/f/7/f7d3770f-cde6-4e29-8cbf-fe841634a5d7.jpg)
+> ![Temple](https://cards.scryfall.io/border_crop/front/4/1/41393bce-01c1-4268-907e-de0fa8a76719.jpg)
 >
 > ### Deck Scores
 >
@@ -93,7 +93,7 @@ Temple of Silence is a tapped WB scry land. Godless Shrine took this slot as the
 >   general: 72
 >   deck_specific: 68
 >   combined: 70
-> scryfall_id: f7d3770f-cde6-4e29-8cbf-fe841634a5d7
+> scryfall_id: 41393bce-01c1-4268-907e-de0fa8a76719
 > tags:
 >   - card
 >   - ordered

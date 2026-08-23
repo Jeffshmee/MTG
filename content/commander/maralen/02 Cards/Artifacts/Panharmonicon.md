@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
-> ![Panharmonicon](https://cards.scryfall.io/border_crop/front/9/9/998d0cc8-ca2a-41c3-ab65-d05c26ab8278.jpg?1783921789)
+> ![Panharmonicon](https://cards.scryfall.io/border_crop/front/9/d/9d7903ff-359b-49f5-8782-c9dd789c2da6.jpg)
 >
 > ### Deck Scores
 >
@@ -92,7 +92,7 @@ Panharmonicon is the ETB doubler in the 100. It doubles a triggered ability of a
 >   general: 80
 >   deck_specific: 90
 >   combined: 86
-> scryfall_id: 998d0cc8-ca2a-41c3-ab65-d05c26ab8278
+> scryfall_id: 9d7903ff-359b-49f5-8782-c9dd789c2da6
 > tags:
 >   - card
 >   - main-deck

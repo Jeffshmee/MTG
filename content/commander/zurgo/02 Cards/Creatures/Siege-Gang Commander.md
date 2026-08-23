@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:87%"></div></div>
 >
-> ![Siege-Gang](https://cards.scryfall.io/border_crop/front/7/d/7d67e614-03d2-4034-b82f-25962fc378d4.jpg)
+> ![Siege-Gang](https://cards.scryfall.io/border_crop/front/a/2/a2d3ddb9-ddfb-4ca9-ae77-cf691d385a4a.jpg)
 >
 > ### Deck Scores
 >
@@ -100,7 +100,7 @@ Siege-Gang is a five-mana burst of three Goblins plus a ping that sacs a Goblin 
 >   general: 83
 >   deck_specific: 90
 >   combined: 87
-> scryfall_id: 7d67e614-03d2-4034-b82f-25962fc378d4
+> scryfall_id: a2d3ddb9-ddfb-4ca9-ae77-cf691d385a4a
 > tags:
 >   - card
 >   - main-deck

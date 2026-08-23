@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Springmantle Cleric`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {4}{G}  
 > **Type:** Creature — Elf Cleric  
 > **P/T:** 2/3  
@@ -69,6 +69,8 @@ Springmantle Cleric is a five-mana Elf that enters with a +1/+1 counter per colo
 - Five mana for a 3/4 is the worst rate in the creature suite. It does not draw, ramp, or make tokens.
 - Wave puts it onto the battlefield uncast, so it enters as a 2/3. The rainbow 5/6 only happens if you hard-cast it with three colors.
 
+- Owned cut. Sitting on the sideboard.
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -90,7 +92,7 @@ Springmantle Cleric is a five-mana Elf that enters with a +1/+1 counter per colo
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 62
 >   deck_specific: 68
@@ -98,7 +100,7 @@ Springmantle Cleric is a five-mana Elf that enters with a +1/+1 counter per colo
 > scryfall_id: 8d822730-6d81-4dbc-a3c3-ce96d29a1078
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

@@ -48,7 +48,7 @@ Vivid — {T}: For each color among permanents you control, [[03 Effects/Add Man
 
 ## Deck Role & Rating
 
-Bloom Tender is a two-mana Elf that taps for colors, not for creature count. Once Maralen or another multicolor permanent is out, Vivid hits Sultai — {G}{U}{B} from one dork — which is how you cast her and pay mixed steal costs. It is not a Wave ritual; five Elves still only add as many colors as you actually have. It is Ordered and sits on the sideboard — not in the owned list yet.
+Bloom Tender is a two-mana Elf that taps for colors, not for creature count. Once Maralen or another multicolor permanent is out, Vivid hits Sultai — {G}{U}{B} from one dork — which is how you cast her and pay mixed steal costs. It is not a Wave ritual; five Elves still only add as many colors as you actually have. It is Ordered and sits on the sideboard — not in the owned list yet. Locked cut when it arrives: [[02 Cards/Creatures/Wardens of the Cycle|Wardens of the Cycle]]. Do not cut [[02 Cards/Creatures/Rosethorn Acolyte|Rosethorn Acolyte]] for it.
 
 ## Play Patterns & Lines
 
@@ -70,7 +70,7 @@ Bloom Tender is a two-mana Elf that taps for colors, not for creature count. Onc
 - A monocolor board taps for one green. Without a blue or black permanent it does not cast Maralen.
 - Not a count ritual. It will not dump [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]].
 - 1/1. Dies to any removal.
-- Not in the owned list yet.
+- Not in the owned list yet. Locked cut: Wardens of the Cycle. Rosethorn stays.
 
 ## Related Pages
 

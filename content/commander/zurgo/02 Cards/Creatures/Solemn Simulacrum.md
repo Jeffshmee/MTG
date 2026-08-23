@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:75%"></div></div>
 >
-> ![Solemn](https://cards.scryfall.io/border_crop/front/d/a/daafd816-f7c1-4630-9e5c-a1e5db570a35.jpg)
+> ![Solemn](https://cards.scryfall.io/border_crop/front/c/b/cb1563a1-c8dc-4fcb-b9c8-e7432235d31e.jpg)
 >
 > ### Deck Scores
 >
@@ -97,7 +97,7 @@ Solemn is honest four-mana ramp and a death-draw. The deck's ramp is thin — [[
 >   general: 82
 >   deck_specific: 70
 >   combined: 75
-> scryfall_id: daafd816-f7c1-4630-9e5c-a1e5db570a35
+> scryfall_id: cb1563a1-c8dc-4fcb-b9c8-e7432235d31e
 > tags:
 >   - card
 >   - ordered

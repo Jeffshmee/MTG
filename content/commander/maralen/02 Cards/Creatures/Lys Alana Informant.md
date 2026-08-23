@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Lys Alana Informant`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {1}{G}  
 > **Type:** Creature — Elf Scout  
 > **P/T:** 3/1  
@@ -51,7 +51,7 @@
 
 ## Deck Role & Rating
 
-Lys Alana Informant is the cheap surveil Elf. ETB and death each surveil 1, so you can stack a Wave hit or dump dross for [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] / [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] the enter still mills an opponent. The 3/1 dies in any fight — that is fine; the second surveil is part of the rate.
+Lys Alana Informant is the cheap surveil Elf. ETB and death each surveil 1, so you can stack a Wave hit or dump dross for [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] / [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] the enter still mills an opponent. Owned cut — [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] took the slot.
 
 ## Play Patterns & Lines
 
@@ -71,6 +71,7 @@ Lys Alana Informant is the cheap surveil Elf. ETB and death each surveil 1, so y
 
 - 3/1 dies to any removal and to blight. You do not get a combat creature out of this.
 - Surveil is your library, not theirs. Binning Wave by accident is the failure mode.
+- Owned cut. Sitting on the sideboard.
 
 ## Related Pages
 
@@ -93,7 +94,7 @@ Lys Alana Informant is the cheap surveil Elf. ETB and death each surveil 1, so y
 > colors: [G]
 > color_identity: [G]
 > keywords: ["Surveil"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 72
 >   deck_specific: 78
@@ -101,7 +102,7 @@ Lys Alana Informant is the cheap surveil Elf. ETB and death each surveil 1, so y
 > scryfall_id: a79649c4-559e-4306-a102-5fd8750629c7
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

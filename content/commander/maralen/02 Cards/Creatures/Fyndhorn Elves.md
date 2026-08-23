@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> ![Fyndhorn](https://cards.scryfall.io/border_crop/front/4/5/450744cf-7eba-491b-97b0-ca80c6368bbb.jpg?1783928794)
+> ![Fyndhorn](https://cards.scryfall.io/border_crop/front/e/c/ec8bf526-1260-40a1-b007-10ff9340f10b.jpg)
 >
 > ### Deck Scores
 >
@@ -95,7 +95,7 @@ Fyndhorn Elves is a second copy of the Llanowar job: `{G}` on turn 1 so [[02 Car
 >   general: 84
 >   deck_specific: 90
 >   combined: 88
-> scryfall_id: 450744cf-7eba-491b-97b0-ca80c6368bbb
+> scryfall_id: ec8bf526-1260-40a1-b007-10ff9340f10b
 > tags:
 >   - card
 >   - main-deck

@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
-> ![Elas](https://cards.scryfall.io/border_crop/front/1/c/1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019.jpg)
+> ![Elas](https://cards.scryfall.io/border_crop/front/5/5/552fbde6-515d-457e-81c9-d67157eaaf37.jpg)
 >
 > ### Deck Scores
 >
@@ -99,7 +99,7 @@ Elas is the two-mana drain engine that taxes both halves of the token loop. Anot
 >   general: 86
 >   deck_specific: 93
 >   combined: 90
-> scryfall_id: 1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019
+> scryfall_id: 552fbde6-515d-457e-81c9-d67157eaaf37
 > tags:
 >   - card
 >   - main-deck

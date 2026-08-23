@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Springbloom](https://cards.scryfall.io/border_crop/front/1/7/17d67b88-3f76-401f-b04a-f2bcaab4aa97.jpg?1783903944)
+> ![Springbloom](https://cards.scryfall.io/border_crop/front/6/0/60a211bb-0935-4815-a705-f4674a468bf5.jpg)
 >
 > ### Deck Scores
 >
@@ -97,7 +97,7 @@ Springbloom Druid is the net-plus-one land Elf: sacrifice one land, put two basi
 >   general: 78
 >   deck_specific: 84
 >   combined: 82
-> scryfall_id: 17d67b88-3f76-401f-b04a-f2bcaab4aa97
+> scryfall_id: 60a211bb-0935-4815-a705-f4674a468bf5
 > tags:
 >   - card
 >   - main-deck

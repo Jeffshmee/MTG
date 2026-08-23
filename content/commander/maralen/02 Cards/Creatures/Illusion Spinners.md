@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Illusion Spinners`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {4}{U}  
 > **Type:** Creature — Faerie Wizard  
 > **P/T:** 4/3  
@@ -52,7 +52,7 @@ This creature has [[03 Effects/Hexproof|hexproof]] as long as it's untapped.
 
 ## Deck Role & Rating
 
-Illusion Spinners is a five-mana Faerie: 4/3 flyer, flash if you already control a Faerie, hexproof while untapped. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] it is a late count body and a mill. It is not a reason to keep a slow hand. Cast it when you have a Faerie up so it can come down at instant speed, then leave it untapped if you want the hexproof.
+Illusion Spinners is a five-mana Faerie: 4/3 flyer, flash if you already control a Faerie, hexproof while untapped. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] it is a late count body and a mill. Owned cut — [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]] took the slot.
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,7 @@ Illusion Spinners is a five-mana Faerie: 4/3 flyer, flash if you already control
 ## Key Synergies
 
 - **Commander / count**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Faeries that turn flash on**: [[02 Cards/Creatures/Glamer Gifter|Glamer Gifter]], [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]]
+- **Faeries that turn flash on**: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
 - **4-power**: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]]
 - **Wave fodder**: [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
 
@@ -72,6 +72,7 @@ Illusion Spinners is a five-mana Faerie: 4/3 flyer, flash if you already control
 
 - Hard-cast without a Faerie is a sorcery-speed 5-drop. The Faerie count in the owned list is thin if Maralen is dead.
 - Attacking turns hexproof off. A 4/3 that just ate a removal spell was a wasted five mana.
+- Owned cut. Sitting on the sideboard.
 
 ## Related Pages
 
@@ -94,7 +95,7 @@ Illusion Spinners is a five-mana Faerie: 4/3 flyer, flash if you already control
 > colors: [U]
 > color_identity: [U]
 > keywords: ["Flying"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 70
 >   deck_specific: 76
@@ -102,7 +103,7 @@ Illusion Spinners is a five-mana Faerie: 4/3 flyer, flash if you already control
 > scryfall_id: eb4229a9-8df4-4adc-9d3e-acd2221fa3e9
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

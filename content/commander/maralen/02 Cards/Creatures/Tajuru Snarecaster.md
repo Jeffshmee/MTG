@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Tajuru Snarecaster`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {2}{G}  
 > **Type:** Creature — Elf Rogue  
 > **P/T:** 1/4  
@@ -69,6 +69,8 @@ Tajuru Snarecaster is Wave/count fodder with reach. The 1/4 sits under Maralen a
 - 1 power. It does not attack, it does not connect for Lathril, and it does not turn on Uprising.
 - Reach without deathtouch loses to any flyer bigger than the current toughness.
 
+- Owned cut. Sitting on the sideboard.
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -90,7 +92,7 @@ Tajuru Snarecaster is Wave/count fodder with reach. The 1/4 sits under Maralen a
 > colors: [G]
 > color_identity: [G]
 > keywords: ["Reach"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 64
 >   deck_specific: 70
@@ -98,7 +100,7 @@ Tajuru Snarecaster is Wave/count fodder with reach. The 1/4 sits under Maralen a
 > scryfall_id: e1894cf9-7d53-4b7e-aaae-8db42bdd8e49
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

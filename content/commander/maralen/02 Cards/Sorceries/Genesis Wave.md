@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Genesis](https://cards.scryfall.io/border_crop/front/d/4/d46f7ddb-f986-4f1f-b096-ae1a02d0bdc8.jpg?1783909059)
+> ![Genesis](https://cards.scryfall.io/border_crop/front/5/4/546c3b8d-6218-4786-bf16-22c6d3718361.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Wave is the owned close, not a ramp spell. Tap [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] after the Elf board is wide, set X to Elves minus three, and put every permanent ≤ X onto the battlefield. Maralen must already be in play so each Elf or Faerie that hits mills — she is the commander, so she is not in the library. What you *want* to hit: Archdruid if he is still in the deck, [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], the recursion Elves, more dorks. Small X after she is down is still mill. [[02 Cards/Creatures/Circle of Dreams Druid|Circle]] (all creatures) and [[02 Cards/Creatures/Priest of Titania|Priest]] (Elves) do the same ritual when they arrive.
+Wave is the owned close, not a ramp spell. Tap [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] after the Elf board is wide, set X to Elves minus three, and put every permanent ≤ X onto the battlefield. Maralen must already be in play so each Elf or Faerie that hits mills — she is the commander, so she is not in the library. What you *want* to hit: Archdruid if he is still in the deck, [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], the recursion Elves, more dorks. Small X after she is down is still mill. [[02 Cards/Creatures/Priest of Titania|Priest]] (Elves) and [[02 Cards/Creatures/Circle of Dreams Druid|Circle]] (all creatures, so Faeries count) are live rituals.
 
 ## Play Patterns & Lines
 
@@ -59,7 +59,7 @@ Wave is the owned close, not a ramp spell. Tap [[02 Cards/Creatures/Elvish Archd
 
 ## Key Synergies
 
-- **Ritual**: [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] *(live)*, [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]], [[02 Cards/Creatures/Priest of Titania|Priest of Titania]]
+- **Ritual**: [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Priest of Titania|Priest of Titania]], [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]]
 - **Hits that matter**: [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]]
 - **Recursion in the pile**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
@@ -96,7 +96,7 @@ Wave is the owned close, not a ramp spell. Tap [[02 Cards/Creatures/Elvish Archd
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: d46f7ddb-f986-4f1f-b096-ae1a02d0bdc8
+> scryfall_id: 546c3b8d-6218-4786-bf16-22c6d3718361
 > tags:
 >   - card
 >   - main-deck

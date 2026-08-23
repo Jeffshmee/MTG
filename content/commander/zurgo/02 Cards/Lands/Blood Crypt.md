@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Blood](https://cards.scryfall.io/border_crop/front/1/b/1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316.jpg?1784036817)
+> ![Blood](https://cards.scryfall.io/border_crop/front/8/b/8bd5828b-8dcd-4ce6-b834-ebe9cbaa12d1.jpg)
 >
 > ### Deck Scores
 >
@@ -93,7 +93,7 @@ Blood Crypt is the untapped BR shock: pay 2 life or it comes in tapped. [[02 Car
 >   general: 85
 >   deck_specific: 80
 >   combined: 82
-> scryfall_id: 1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316
+> scryfall_id: 8bd5828b-8dcd-4ce6-b834-ebe9cbaa12d1
 > tags:
 >   - card
 >   - main-deck

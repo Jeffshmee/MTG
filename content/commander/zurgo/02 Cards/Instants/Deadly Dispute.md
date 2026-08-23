@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> ![Deadly](https://cards.scryfall.io/border_crop/front/d/8/d86fa72c-25c1-43ef-9cb0-fe76f7568ed3.jpg)
+> ![Deadly](https://cards.scryfall.io/border_crop/front/b/2/b22ef77b-67a3-45d3-9d18-12b7b124cbf4.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ Deadly Dispute is a main-deck instant.
 >   general: 82
 >   deck_specific: 80
 >   combined: 81
-> scryfall_id: d86fa72c-25c1-43ef-9cb0-fe76f7568ed3
+> scryfall_id: b22ef77b-67a3-45d3-9d18-12b7b124cbf4
 > tags:
 >   - card
 >   - main-deck

@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:79%"></div></div>
 >
-> ![Shattered](https://cards.scryfall.io/border_crop/front/5/a/5aa0c810-3b7d-4661-979e-e84fb327742d.jpg)
+> ![Shattered](https://cards.scryfall.io/border_crop/front/2/c/2c531254-1b12-44d8-a942-e767d516364e.jpg)
 >
 > ### Deck Scores
 >
@@ -90,7 +90,7 @@ Shattered Sanctum is a main-deck land.
 >   general: 80
 >   deck_specific: 78
 >   combined: 79
-> scryfall_id: 5aa0c810-3b7d-4661-979e-e84fb327742d
+> scryfall_id: 2c531254-1b12-44d8-a942-e767d516364e
 > tags:
 >   - card
 >   - main-deck

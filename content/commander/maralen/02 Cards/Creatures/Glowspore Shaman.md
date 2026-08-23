@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Glowspore Shaman`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {B}{G}  
 > **Type:** Creature — Elf Shaman  
 > **P/T:** 3/1  
@@ -50,7 +50,7 @@
 
 ## Deck Role & Rating
 
-Glowspore Shaman mills you three, then can put a land from your graveyard on top of your library. That is yard setup for [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], and [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]], plus a guaranteed land off the next draw. It is not opponent mill — Maralen still has to do that when the Shaman enters. The 3/1 dies easily; get the ETB and do not expect it to attack twice.
+Glowspore Shaman mills you three, then can put a land from your graveyard on top of your library. That is yard setup for [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], and [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]], plus a guaranteed land off the next draw. It is not opponent mill — Maralen still has to do that when the Shaman enters. Owned cut — [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]] took the slot. Table note: it underperformed; the list has better fixing now.
 
 ## Play Patterns & Lines
 
@@ -69,6 +69,8 @@ Glowspore Shaman mills you three, then can put a land from your graveyard on top
 
 - This mills you, not them. Hitting Wave or Rhythm into the yard is a real cost — Rhythm can still harmonize, Wave cannot.
 - 3/1 trades down. Do not send it in unless you need a death for morbid.
+
+- Owned cut. Sitting on the sideboard.
 
 ## Related Pages
 
@@ -91,7 +93,7 @@ Glowspore Shaman mills you three, then can put a land from your graveyard on top
 > colors: [B, G]
 > color_identity: [B, G]
 > keywords: ["Mill"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 72
 >   deck_specific: 76
@@ -99,7 +101,7 @@ Glowspore Shaman mills you three, then can put a land from your graveyard on top
 > scryfall_id: a7978a10-795a-414a-a824-b65f7ba543bc
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
