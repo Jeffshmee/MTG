@@ -1,3 +1,7 @@
+---
+title: Collection
+---
+
 # Collection
 
 **1,075** cards · **710** names · **783** printings · ~**£503** listed
@@ -47,4 +51,4 @@ Colour pages are spells only (no lands, no tokens). Colourless is empty colour, 
 
 ## How copies are counted
 
-A row in **Box** (All Cards) and a row in a **deck** are different piles. Qty is the sum across bin
+A row in **Box** (All Cards) and a row in a **deck** are different piles. Q

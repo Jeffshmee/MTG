@@ -720,9 +720,56 @@ body[data-slug^="commander/maralen/"] {
   }
 }
 
-// Collection vault Infocard — gold #C69324 on a dark warm ground
+// Collection vault — gold titles/links like Zurgo red and Maralen green
 body[data-slug="collection"],
 body[data-slug^="collection/"] {
+  .page-title a,
+  .article-title,
+  .markdown-preview-view h1,
+  .markdown-rendered h1,
+  .markdown-preview-view h2,
+  .markdown-rendered h2,
+  .markdown-preview-view h3,
+  .markdown-rendered h3,
+  a.internal,
+  a.internal-link {
+    color: #c69324 !important;
+  }
+
+  a.internal:hover,
+  a.internal-link:hover {
+    color: #e0b83d !important;
+  }
+
+  .markdown-preview-view h1,
+  .markdown-rendered h1 {
+    border-bottom-color: #8a6418;
+  }
+
+  .markdown-preview-view h2,
+  .markdown-rendered h2 {
+    border-bottom-color: #8a6418;
+  }
+
+  .markdown-preview-view th,
+  .markdown-rendered th {
+    background: #241808;
+    border-color: #8a6418;
+  }
+
+  .mtg-decklist-section h3 {
+    color: #c69324 !important;
+    border-bottom-color: #8a6418;
+  }
+
+  .mtg-decklist-section a.internal {
+    color: #c69324 !important;
+  }
+
+  .callout[data-callout="card-proxy"] .callout-content h3 {
+    color: #c69324 !important;
+  }
+
   .callout[data-callout="card-proxy"] {
     --color: #c69324;
     --border: #8a6418;

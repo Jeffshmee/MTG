@@ -494,6 +494,7 @@ export async function loadQuartzConfig(
   const builtinPlugins = await import("../index")
   const { ManaPips } = await import("../transformers/manaPips")
   const { MtgDecklist } = await import("../transformers/mtgDecklist")
+  const { VaultLinks } = await import("../transformers/vaultLinks")
   const builtinTransformers: unknown[] = [ManaPips(), MtgDecklist()]
   const builtinEmitters = [
     builtinPlugins.ComponentResources(),
@@ -503,7 +504,11 @@ export async function loadQuartzConfig(
   const builtinPageTypes = [builtinPlugins.PageTypes.NotFoundPageType()]
 
   const plugins: PluginTypes = {
-    transformers: [...builtinTransformers, ...(await instantiate(transformers, "transformer"))],
+    transformers: [
+      ...builtinTransformers,
+      ...(await instantiate(transformers, "transformer")),
+      VaultLinks(),
+    ],
     filters: await instantiate(filters, "filter"),
     emitters: [...builtinEmitters, ...(await instantiate(emitters, "emitter"))],
     pageTypes: [...(await instantiate(pageTypes, "pageType")), ...builtinPageTypes],

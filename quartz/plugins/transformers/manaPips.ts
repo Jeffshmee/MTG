@@ -131,19 +131,13 @@ function splitPips(value: string): ElementContent[] {
 }
 
 function stripMtgPrefix(node: Root | Element) {
-  if (node.type === "element" && String(node.tagName) === "code") {
-    for (const child of node.children ?? []) {
-      if (child.type === "text" && child.value.startsWith("mtg:")) {
-        child.value = child.value.slice(4)
-      }
-    }
-    return
-  }
   if (!node.children) {
     return
   }
   for (const child of node.children) {
-    if (child.type === "element") {
+    if (child.type === "text" && child.value.includes("mtg:")) {
+      child.value = child.value.replace(/mtg:/g, "")
+    } else if (child.type === "element") {
       stripMtgPrefix(child)
     }
   }
