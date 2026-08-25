@@ -7,6 +7,10 @@
 >
 > ![Jeskai Shrinekeeper](https://cards.scryfall.io/border_crop/front/6/e/6ec8fa0b-c695-4326-aebd-042cb1974925.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (5)\|Mana (5)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

@@ -7,6 +7,10 @@
 >
 > ![Mardu Monument](https://cards.scryfall.io/border_crop/front/9/b/9bd0c794-77bc-4d4a-a769-3829e2ce4bdf.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

@@ -8,7 +8,7 @@ In this list the job is to replay the two legends and the engines, not to loop d
 
 **Outlets**
 
-- Any permanent: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
+- Any permanent: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] ([[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] is an owned cut)
 - Another Elf, on death: [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
 - Named type from the yard: [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]] (name Elf)
 - Soft: [[02 Cards/Creatures/Champions of the Perfect|Champions of the Perfect]] returns the beheld Elf when it leaves

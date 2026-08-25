@@ -7,6 +7,10 @@
 >
 > ![Midnight Snack](https://cards.scryfall.io/border_crop/front/c/9/c9b7543f-2a45-4db6-b560-d15507a58c91.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Black\|Black]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

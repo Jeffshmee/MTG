@@ -7,6 +7,10 @@
 >
 > ![Osseous Exhale](https://cards.scryfall.io/border_crop/front/2/3/2300da2f-2297-4c2f-90c1-11ce2b42d91f.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

@@ -7,6 +7,10 @@
 >
 > ![Morcant's Eyes](https://cards.scryfall.io/border_crop/front/a/7/a730b254-ff7c-4f89-a559-b44ad7fd6c6c.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

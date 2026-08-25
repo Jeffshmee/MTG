@@ -7,6 +7,10 @@
 >
 > ![Sandskitter Outrider](https://cards.scryfall.io/border_crop/front/1/c/1c4bfebe-f10f-44bd-9368-33e273ba5a55.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Black\|Black]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

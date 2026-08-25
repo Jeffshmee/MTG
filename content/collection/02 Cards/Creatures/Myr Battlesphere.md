@@ -7,6 +7,10 @@
 >
 > ![Myr Battlesphere](https://cards.scryfall.io/border_crop/front/7/1/71e7ef4a-2032-4571-afc6-5207d4b40c3d.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (7)\|Mana (7)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

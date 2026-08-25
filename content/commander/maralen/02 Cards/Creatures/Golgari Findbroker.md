@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-Findbroker is the expensive half of the permanent-recursion pair with [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]. The ETB returns any permanent — not just Elves — so the real targets are [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] and [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] when they die, and the engines that make those two matter: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]], and (once it arrives) [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]]. He is still an Elf, so he mills and counts, but you cast him for the card you get back.
+Findbroker is the remaining any-permanent recursion Elf. The ETB returns any permanent — not just Elves — so the real targets are [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] and [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] when they die, and the engines that make those two matter: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]], and (once it arrives) [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]]. [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] was the cheaper twin; it is an owned cut. He is still an Elf, so he mills and counts, but you cast him for the card you get back.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,8 @@ Findbroker is the expensive half of the permanent-recursion pair with [[02 Cards
 - **Replay the legends**: [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]
 - **Permanent engines**: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]], [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]]
 - **Fill the yard**: [[02 Cards/Creatures/Glowspore Shaman|Glowspore Shaman]], [[02 Cards/Creatures/Lluwen, Imperfect Naturalist|Lluwen]], [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]] *(owned cuts)*
-- **Cheaper twin**: [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] (same ETB, {2}{G}{G})
+- **Cheaper twin** *(owned cut)*: [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] (same ETB, {2}{G}{G})
+- **Elf-only / named-type outlets**: [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]], [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]]
 
 ## Anti-synergies / Notes
 

@@ -7,6 +7,10 @@
 >
 > ![An Offer You Can't Refuse](https://cards.scryfall.io/border_crop/front/a/8/a829747f-cf9b-4d81-ba66-9f0630ed4565.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

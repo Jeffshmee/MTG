@@ -7,6 +7,10 @@
 >
 > ![Sting-Slinger](https://cards.scryfall.io/border_crop/front/3/8/386c5f73-fb8f-46c8-ad45-56e2c19b7d1f.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Red\|Red]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

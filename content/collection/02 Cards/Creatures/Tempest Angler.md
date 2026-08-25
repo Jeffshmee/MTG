@@ -7,6 +7,10 @@
 >
 > ![Tempest Angler](https://cards.scryfall.io/border_crop/front/8/5/850daae4-f0b7-4604-95e7-ad044ec165c3.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

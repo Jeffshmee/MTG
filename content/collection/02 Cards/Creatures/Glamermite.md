@@ -7,6 +7,10 @@
 >
 > ![Glamermite](https://cards.scryfall.io/border_crop/front/b/8/b8b7c23a-0034-453c-ab44-f6ec0f31d1eb.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

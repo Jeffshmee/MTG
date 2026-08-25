@@ -7,6 +7,10 @@
 >
 > ![Teysa Karlov](https://cards.scryfall.io/border_crop/front/5/8/581a2da7-80d3-409a-8a6c-aa6e9ccc1568.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Sideboard to deck |
+
+</div>
+
+</div>
 
 ## Printings
 

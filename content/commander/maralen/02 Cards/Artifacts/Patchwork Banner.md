@@ -51,7 +51,7 @@ Creatures you control of the chosen type [[03 Effects/Pump Creatures|get +1/+1]]
 
 ## Deck Role & Rating
 
-Banner is why the list is Elf-majority. Name Elf: anthem on the team plus any-colour mana for Maralen. It is a first-priority permanent for [[02 Cards/Creatures/Golgari Findbroker|Findbroker]] / [[02 Cards/Creatures/Elvish Regrower|Regrower]] and a Wave hit that immediately turns the rest of the dump sideways. It is not an Elf itself — it does not mill.
+Banner is why the list is Elf-majority. Name Elf: anthem on the team plus any-colour mana for Maralen. It is a first-priority permanent for [[02 Cards/Creatures/Golgari Findbroker|Findbroker]] and a Wave hit that immediately turns the rest of the dump sideways. It is not an Elf itself — it does not mill.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,8 @@ Banner is why the list is Elf-majority. Name Elf: anthem on the team plus any-co
 ## Key Synergies
 
 - **The team it pumps**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]]
-- **Replay it**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
+- **Replay it**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]]
+- **Anthem stack**: [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
 - **Wave**: a 3-mana hit that turns the rest of the pile into attackers
 
 ## Anti-synergies / Notes

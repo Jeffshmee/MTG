@@ -7,6 +7,10 @@
 >
 > ![Equilibrium Adept](https://cards.scryfall.io/border_crop/front/a/4/a4ba6d74-c6be-4a5e-8859-b791bb6b8f51.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Red\|Red]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

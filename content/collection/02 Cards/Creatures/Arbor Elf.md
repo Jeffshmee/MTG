@@ -7,6 +7,10 @@
 >
 > ![Arbor Elf](https://cards.scryfall.io/border_crop/front/4/b/4b81165e-f091-4211-8b47-5ea6868b0d4c.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

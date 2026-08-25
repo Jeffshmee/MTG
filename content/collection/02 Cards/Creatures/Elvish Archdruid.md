@@ -7,6 +7,10 @@
 >
 > ![Elvish Archdruid](https://cards.scryfall.io/border_crop/front/3/4/341da856-7414-403b-b2e3-4bebd58a5aa4.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 18/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

@@ -7,6 +7,10 @@
 >
 > ![Shattered Sanctum](https://cards.scryfall.io/border_crop/front/2/c/2c531254-1b12-44d8-a942-e767d516364e.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -17,6 +21,20 @@
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

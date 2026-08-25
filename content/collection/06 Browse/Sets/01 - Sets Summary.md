@@ -4,29 +4,29 @@ Every set in the ManaBox export. Open a set for the name table.
 
 | Set | | Code | Names | Qty | Est. Price (GBP) |
 |-----|--|------|-------|-----|------------------|
-| [Foundations](https://scryfall.com/sets/fdn) | [[06 Browse/Sets/FDN\|PAGE]] | `FDN` | 269 | 450 | 91.88 |
-| [Tarkir: Dragonstorm](https://scryfall.com/sets/tdm) | [[06 Browse/Sets/TDM\|PAGE]] | `TDM` | 109 | 146 | 28.77 |
+| [Foundations](https://scryfall.com/sets/fdn) | [[06 Browse/Sets/FDN\|PAGE]] | `FDN` | 268 | 448 | 89.43 |
+| [Tarkir: Dragonstorm](https://scryfall.com/sets/tdm) | [[06 Browse/Sets/TDM\|PAGE]] | `TDM` | 108 | 145 | 28.64 |
 | [Lorwyn Eclipsed](https://scryfall.com/sets/ecl) | [[06 Browse/Sets/ECL\|PAGE]] | `ECL` | 75 | 105 | 43.16 |
 | [Tarkir: Dragonstorm Commander](https://scryfall.com/sets/tdc) | [[06 Browse/Sets/TDC\|PAGE]] | `TDC` | 69 | 80 | 63.91 |
 | [Bloomburrow](https://scryfall.com/sets/blb) | [[06 Browse/Sets/BLB\|PAGE]] | `BLB` | 40 | 40 | 32.20 |
 | [Foundations Tokens](https://scryfall.com/sets/tfdn) | [[06 Browse/Sets/TFDN\|PAGE]] | `TFDN` | 20 | 34 | 5.94 |
-| [Secrets of Strixhaven Commander](https://scryfall.com/sets/soc) | [[06 Browse/Sets/SOC\|PAGE]] | `SOC` | 28 | 32 | 19.08 |
+| [Secrets of Strixhaven Commander](https://scryfall.com/sets/soc) | [[06 Browse/Sets/SOC\|PAGE]] | `SOC` | 27 | 31 | 18.21 |
 | [Tarkir: Dragonstorm Tokens](https://scryfall.com/sets/ttdm) | [[06 Browse/Sets/TTDM\|PAGE]] | `TTDM` | 9 | 21 | 2.67 |
 | [Tarkir: Dragonstorm Commander Tokens](https://scryfall.com/sets/ttdc) | [[06 Browse/Sets/TTDC\|PAGE]] | `TTDC` | 11 | 14 | 2.52 |
-| [Modern Horizons 3 Commander](https://scryfall.com/sets/m3c) | [[06 Browse/Sets/M3C\|PAGE]] | `M3C` | 6 | 13 | 21.76 |
+| [Modern Horizons 3 Commander](https://scryfall.com/sets/m3c) | [[06 Browse/Sets/M3C\|PAGE]] | `M3C` | 6 | 12 | 19.68 |
 | [Lorwyn Eclipsed Commander](https://scryfall.com/sets/ecc) | [[06 Browse/Sets/ECC\|PAGE]] | `ECC` | 7 | 10 | 2.89 |
 | [Lorwyn Eclipsed Tokens](https://scryfall.com/sets/tecl) | [[06 Browse/Sets/TECL\|PAGE]] | `TECL` | 5 | 10 | 0.00 |
 | [Core Set 2019](https://scryfall.com/sets/m19) | [[06 Browse/Sets/M19\|PAGE]] | `M19` | 2 | 6 | 2.86 |
 | [Ravnica: Clue Edition](https://scryfall.com/sets/clu) | [[06 Browse/Sets/CLU\|PAGE]] | `CLU` | 3 | 5 | 6.44 |
 | [Kaldheim Commander](https://scryfall.com/sets/khc) | [[06 Browse/Sets/KHC\|PAGE]] | `KHC` | 2 | 5 | 5.71 |
 | [Core Set 2020](https://scryfall.com/sets/m20) | [[06 Browse/Sets/M20\|PAGE]] | `M20` | 5 | 5 | 1.14 |
+| [Dominaria United](https://scryfall.com/sets/dmu) | [[06 Browse/Sets/DMU\|PAGE]] | `DMU` | 4 | 4 | 5.41 |
 | [Aetherdrift Commander](https://scryfall.com/sets/drc) | [[06 Browse/Sets/DRC\|PAGE]] | `DRC` | 4 | 4 | 9.08 |
-| [Final Fantasy Commander](https://scryfall.com/sets/fic) | [[06 Browse/Sets/FIC\|PAGE]] | `FIC` | 1 | 4 | 3.00 |
 | [Innistrad Remastered](https://scryfall.com/sets/inr) | [[06 Browse/Sets/INR\|PAGE]] | `INR` | 4 | 4 | 0.53 |
 | [Wilds of Eldraine Commander](https://scryfall.com/sets/woc) | [[06 Browse/Sets/WOC\|PAGE]] | `WOC` | 4 | 4 | 18.08 |
 | [Bloomburrow Commander](https://scryfall.com/sets/blc) | [[06 Browse/Sets/BLC\|PAGE]] | `BLC` | 3 | 3 | 1.19 |
-| [Dominaria United](https://scryfall.com/sets/dmu) | [[06 Browse/Sets/DMU\|PAGE]] | `DMU` | 3 | 3 | 1.01 |
 | [Throne of Eldraine](https://scryfall.com/sets/eld) | [[06 Browse/Sets/ELD\|PAGE]] | `ELD` | 2 | 3 | 0.24 |
+| [Final Fantasy Commander](https://scryfall.com/sets/fic) | [[06 Browse/Sets/FIC\|PAGE]] | `FIC` | 1 | 3 | 2.21 |
 | [Tales of Middle-earth Commander](https://scryfall.com/sets/ltc) | [[06 Browse/Sets/LTC\|PAGE]] | `LTC` | 2 | 3 | 0.70 |
 | [Ravnica Remastered](https://scryfall.com/sets/rvr) | [[06 Browse/Sets/RVR\|PAGE]] | `RVR` | 3 | 3 | 3.88 |
 | [Secrets of Strixhaven](https://scryfall.com/sets/sos) | [[06 Browse/Sets/SOS\|PAGE]] | `SOS` | 3 | 3 | 7.13 |
@@ -61,6 +61,7 @@ Every set in the ManaBox export. Open a set for the name table.
 | [Dominaria Remastered](https://scryfall.com/sets/dmr) | [[06 Browse/Sets/DMR\|PAGE]] | `DMR` | 1 | 1 | 0.17 |
 | [Dragons of Tarkir](https://scryfall.com/sets/dtk) | [[06 Browse/Sets/DTK\|PAGE]] | `DTK` | 1 | 1 | 0.07 |
 | [GRN Guild Kit](https://scryfall.com/sets/gk1) | [[06 Browse/Sets/GK1\|PAGE]] | `GK1` | 1 | 1 | 3.39 |
+| [Gatecrash](https://scryfall.com/sets/gtc) | [[06 Browse/Sets/GTC\|PAGE]] | `GTC` | 1 | 1 | 0.00 |
 | [Hour of Devastation](https://scryfall.com/sets/hou) | [[06 Browse/Sets/HOU\|PAGE]] | `HOU` | 1 | 1 | 0.16 |
 | [Ikoria: Lair of Behemoths](https://scryfall.com/sets/iko) | [[06 Browse/Sets/IKO\|PAGE]] | `IKO` | 1 | 1 | 13.63 |
 | [Foundations Jumpstart](https://scryfall.com/sets/j25) | [[06 Browse/Sets/J25\|PAGE]] | `J25` | 1 | 1 | 0.16 |

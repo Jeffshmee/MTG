@@ -7,6 +7,10 @@
 >
 > ![Shocking Sharpshooter](https://cards.scryfall.io/border_crop/front/4/a/4a10342d-ca04-4d1e-bca9-79f531951a16.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Red\|Red]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Sideboard to deck |
+
+</div>
+
+</div>
 
 ## Printings
 

@@ -7,6 +7,10 @@
 >
 > ![Confounding Riddle](https://cards.scryfall.io/border_crop/front/f/2/f2ae23db-c391-402c-9568-65447cada66e.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen SB\|Maralen SB]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

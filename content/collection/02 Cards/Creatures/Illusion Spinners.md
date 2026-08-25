@@ -7,6 +7,10 @@
 >
 > ![Illusion Spinners](https://cards.scryfall.io/border_crop/front/e/b/eb4229a9-8df4-4adc-9d3e-acd2221fa3e9.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (5)\|Mana (5)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen SB\|Maralen SB]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

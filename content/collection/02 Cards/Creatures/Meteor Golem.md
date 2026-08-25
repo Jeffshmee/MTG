@@ -7,6 +7,10 @@
 >
 > ![Meteor Golem](https://cards.scryfall.io/border_crop/front/d/2/d291ea1e-36bc-46b3-b3ae-084fa0ba69eb.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (7)\|Mana (7)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

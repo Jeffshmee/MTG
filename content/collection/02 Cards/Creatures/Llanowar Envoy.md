@@ -7,6 +7,10 @@
 >
 > ![Llanowar Envoy](https://cards.scryfall.io/border_crop/front/1/a/1a667bba-ecf0-4212-8ca3-75d4db6abce2.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen SB\|Maralen SB]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

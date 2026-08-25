@@ -7,6 +7,10 @@
 >
 > ![Elvish Mystic](https://cards.scryfall.io/border_crop/front/e/b/eb654a76-62ee-4fd8-83d4-cb912211a9a0.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

@@ -7,6 +7,10 @@
 >
 > ![Alela, Cunning Conqueror](https://cards.scryfall.io/border_crop/front/7/9/79ba5c35-6e5c-406a-b95f-844d5ec296ab.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 21/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

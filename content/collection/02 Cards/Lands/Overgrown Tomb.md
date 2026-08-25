@@ -7,6 +7,10 @@
 >
 > ![Overgrown Tomb](https://cards.scryfall.io/border_crop/front/4/5/45b92924-baa1-4c9b-9932-9a5eda8f3446.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -17,6 +21,20 @@
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

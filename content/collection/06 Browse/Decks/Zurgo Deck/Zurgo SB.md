@@ -2,12 +2,13 @@
 
 Copies in **Zurgo SB**.
 
-**23** copies · **23** names.
+**24** copies · **24** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Canyon Slough`**](https://scryfall.com/card/ecc/145) | [[02 Cards/Lands/Canyon Slough\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Swamp\|Swamp]] [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
 | [**`mtg:Temple of Silence`**](https://scryfall.com/card/tdc/406) | [[02 Cards/Lands/Temple of Silence\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.17 |
+| [**`mtg:Temple of Triumph`**](https://scryfall.com/card/soc/417) | [[02 Cards/Lands/Temple of Triumph\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
 | [**`mtg:Terramorphic Expanse`**](https://scryfall.com/card/tdc/408) | [[02 Cards/Lands/Terramorphic Expanse\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.17 |
 | [**`mtg:Bitter Triumph`**](https://scryfall.com/card/tdc/173) | [[02 Cards/Instants/Bitter Triumph\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.73 |
 | [**`mtg:Blade of Selves`**](https://scryfall.com/card/tdc/313) | [[02 Cards/Artifacts/Blade of Selves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.40 |

@@ -7,6 +7,10 @@
 >
 > ![Fetid Heath](https://cards.scryfall.io/border_crop/front/f/4/f465ded8-0d38-42ac-bafc-a12185013c5d.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -17,6 +21,20 @@
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

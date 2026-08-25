@@ -7,6 +7,10 @@
 >
 > ![Marwyn, the Nurturer](https://cards.scryfall.io/border_crop/front/a/a/aad61d99-5c8e-47b7-ab1a-e70905f59205.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

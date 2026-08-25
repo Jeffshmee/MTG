@@ -7,6 +7,10 @@
 >
 > ![Beast Whisperer](https://cards.scryfall.io/border_crop/front/d/a/daf4bcd2-3ae4-4803-9ea1-3bcc3de5ca59.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

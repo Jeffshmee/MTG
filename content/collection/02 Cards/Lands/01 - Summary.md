@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**227** copies · **76** names.
+**228** copies · **77** names.
 
 ```decklist
 group: auto
@@ -55,6 +55,7 @@ legality: commander
 1 Rakdos Guildgate
 1 Rogue's Passage
 4 Rugged Highlands
+1 Sacred Foundry
 1 Savai Triome
 3 Scoured Barrens
 1 Secluded Courtyard

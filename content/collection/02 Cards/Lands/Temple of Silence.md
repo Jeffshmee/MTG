@@ -7,6 +7,10 @@
 >
 > ![Temple of Silence](https://cards.scryfall.io/border_crop/front/4/1/41393bce-01c1-4268-907e-de0fa8a76719.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -17,6 +21,20 @@
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

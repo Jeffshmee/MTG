@@ -7,6 +7,10 @@
 >
 > ![Riling Dawnbreaker // Signaling Roar](https://cards.scryfall.io/border_crop/front/3/1/312f7072-3bf8-449f-bfb7-93727ef26c66.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (5)\|Mana (5)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

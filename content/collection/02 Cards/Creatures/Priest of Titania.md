@@ -7,6 +7,10 @@
 >
 > ![Priest of Titania](https://cards.scryfall.io/border_crop/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 21/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

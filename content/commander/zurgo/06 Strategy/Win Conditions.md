@@ -4,7 +4,7 @@ How this deck actually closes a table. All three plans run through [[02 Cards/Cr
 
 Play order and sequencing live on [[06 Strategy/Play Patterns|Play Patterns]]. Table observations live on [[06 Strategy/Playtest Notes|Playtest Notes]]. Card scores live on the individual pages and in [[01 Deck/Current Deck|Current Deck]].
 
-**Draft note:** primary and secondary plans below are live in the current 100. Isshin, Teysa, Packbeasts, Bone-Cairn, Anim Pakal, Belladonna, and Windcrag are in. Remaining ordered: [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] and [[02 Cards/Lands/Sacred Foundry|Sacred Foundry]].
+**Draft note:** primary and secondary plans below are live in the current 100. Isshin, Teysa, Packbeasts, Bone-Cairn, Anim Pakal, Belladonna, Windcrag, and Sacred Foundry are in. Remaining ordered: [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]].
 
 ---
 

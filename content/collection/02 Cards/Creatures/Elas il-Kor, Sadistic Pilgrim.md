@@ -7,6 +7,10 @@
 >
 > ![Elas il-Kor, Sadistic Pilgrim](https://cards.scryfall.io/border_crop/front/5/5/552fbde6-515d-457e-81c9-d67157eaaf37.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 17/08/2026 | Sideboard to deck |
+
+</div>
+
+</div>
 
 ## Printings
 

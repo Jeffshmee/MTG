@@ -7,6 +7,10 @@
 >
 > ![Hidden Grotto](https://cards.scryfall.io/border_crop/front/4/b/4ba8f2e7-8357-4862-97dc-1942d066023a.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

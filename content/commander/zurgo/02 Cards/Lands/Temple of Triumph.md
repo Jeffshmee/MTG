@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Temple of Triumph`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -53,7 +53,7 @@ When this land enters, [[03 Effects/Scry|scry]] 1. (Look at the top card of your
 
 ## Deck Role & Rating
 
-Temple of Triumph is a main-deck land.  
+Temple of Triumph is a tapped RW scry land. Sacred Foundry took this slot as the untapped shock. Owned cut; not in the 100.
 
 ## Play Patterns & Lines
 
@@ -69,6 +69,7 @@ Temple of Triumph is a main-deck land.
 ## Anti-synergies / Notes
 
 - Tapped ETB can miss a turn-3 Zurgo if the rest of the opener is also slow.
+- Owned cut. Sacred Foundry is live. Do not swap this back.
 
 ## Related Pages
 
@@ -88,7 +89,7 @@ Temple of Triumph is a main-deck land.
 > colors: []
 > color_identity: ["R", "W"]
 > keywords: ["Scry"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 72
 >   deck_specific: 70
@@ -96,9 +97,9 @@ Temple of Triumph is a main-deck land.
 > scryfall_id: d0e763f7-25b8-444f-8722-614297d0663f
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - land
 > ```
 
-*Last evaluated: 2026-08-15*  
+*Last evaluated: 2026-08-24*  
 *Data source: mtg-scryfall-bulk + mardu-commander scoring*

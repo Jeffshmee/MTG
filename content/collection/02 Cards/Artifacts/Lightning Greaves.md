@@ -7,6 +7,10 @@
 >
 > ![Lightning Greaves](https://cards.scryfall.io/border_crop/front/4/b/4b8bfdd3-7c73-4d13-8a8d-50b6dd85fad3.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 21/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

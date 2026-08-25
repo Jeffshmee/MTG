@@ -7,6 +7,10 @@
 >
 > ![Redcap Gutter-Dweller](https://cards.scryfall.io/border_crop/front/c/6/c6c7f55a-bcc7-4ca3-853d-fc6e260d9429.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Red\|Red]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

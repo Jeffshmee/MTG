@@ -7,6 +7,10 @@
 >
 > ![Canyon Slough](https://cards.scryfall.io/border_crop/front/d/2/d2ba7cfa-36f2-410f-80c3-5a06f4b48372.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -17,6 +21,20 @@
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+
+</div>
+
+</div>
 
 ## Printings
 

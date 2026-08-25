@@ -4,7 +4,7 @@ How this owned list is supposed to play. Commander is [[02 Cards/Creatures/Maral
 
 See also [[06 Strategy/Win Conditions|Win Conditions]] and [[01 Deck/Current Deck|Current Deck]].
 
-**Status of this draft:** written against the **100** after the 2026-08-23 commit (Mastermind >> Illusion Spinners, Circle >> Lys Alana Informant). Sol Ring was left out on purpose (Firdoch stays). Bloom Tender is still Ordered — reserved cut is Wardens of the Cycle. Confounding Riddle and Aid from the Cowl still need a named cut.
+**Status of this draft:** written against the **100** after the 2026-08-24 commit (Leaf-Crowned Visionary >> Elvish Regrower). Sol Ring was left out on purpose (Firdoch stays). Bloom Tender is still Ordered — reserved cut is Wardens of the Cycle. Confounding Riddle and Aid from the Cowl still need a named cut.
 
 ---
 
@@ -27,7 +27,7 @@ Protect Maralen. Live: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Enchantme
 
 - Untapped sources: [[02 Cards/Lands/Command Tower|Command Tower]], [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]], [[02 Cards/Lands/Watery Grave|Watery Grave]], [[02 Cards/Lands/Breeding Pool|Breeding Pool]], [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] (name Elf), [[02 Cards/Lands/Secluded Glen|Secluded Glen]] if you reveal a Faerie. [[02 Cards/Lands/Opulent Palace|Opulent Palace]] is the tapped three-colour gap filler — keep it.
 - One-mana Elves: [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]], [[02 Cards/Creatures/Fyndhorn Elves|Fyndhorn Elves]], [[02 Cards/Creatures/Elvish Mystic|Elvish Mystic]], [[02 Cards/Creatures/Arbor Elf|Arbor Elf]], [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]] (taps for {B}).
-- Two-drops that matter before her: [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]], [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]], [[02 Cards/Creatures/Priest of Titania|Priest of Titania]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]].
+- Two-drops that matter before her: [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]], [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]], [[02 Cards/Creatures/Priest of Titania|Priest of Titania]], [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]], [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]]. [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]] is the two-mana lord-plus-draw — play it *after* a dork, not instead of one.
 
 **Mulligan** hands with no green dork or no path to {U} and {B}.
 
@@ -37,7 +37,7 @@ Protect Maralen. Live: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Enchantme
 
 ## Tutor tree — Lathril or Morcant
 
-[[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] puts the creature onto the battlefield. [[02 Cards/Instants/Dina's Guidance|Dina's Guidance]] is the instant-speed version — to hand (default) or the graveyard if Findbroker / Regrower / Loyalist / Pennant is ready. [[02 Cards/Creatures/Eclipsed Elf|Eclipsed Elf]] is a four-card peek, not a tutor. Same decision tree for all three:
+[[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] puts the creature onto the battlefield. [[02 Cards/Instants/Dina's Guidance|Dina's Guidance]] is the instant-speed version — to hand (default) or the graveyard if Findbroker / Loyalist / Pennant is ready. [[02 Cards/Creatures/Eclipsed Elf|Eclipsed Elf]] is a four-card peek, not a tutor. Same decision tree for all three:
 
 | Table | Tutor X=4 | Why |
 |-------|-----------|-----|
@@ -46,6 +46,7 @@ Protect Maralen. Live: [[02 Cards/Instants/Negate|Negate]], [[02 Cards/Enchantme
 | You have Wave and a board, no ritual | [[02 Cards/Creatures/Elvish Archdruid\|Elvish Archdruid]] on **X=3** | The close is already in hand. |
 | You need a token factory this turn, no Lathril | [[02 Cards/Creatures/Imperious Perfect\|Imperious Perfect]] on **X=3** | {G}, tap: Elf Warrior. |
 | A problem artifact / enchantment | [[02 Cards/Creatures/Reclamation Sage\|Reclamation Sage]] on **X=2** | The answer is also an Elf. |
+| You want a lord-plus-draw now | [[02 Cards/Creatures/Leaf-Crowned Visionary\|Leaf-Crowned Visionary]] on **X=2** | Anthem plus paid draw on later Elf spells. Not a dork. |
 
 After Maralen, prefer Rhythm so the ETB mills. Dina's Guidance is the one you hold up. Eclipsed Elf is the one you cast as a body.
 
@@ -55,7 +56,7 @@ After Maralen, prefer Rhythm so the ETB mills. Dina's Guidance is the one you ho
 
 Three outlets, three rules.
 
-1. **Any permanent** — [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] and [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]].
+1. **Any permanent** — [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]]. [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] is an owned cut.
 2. **Another Elf, on death** — [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]] (cannot return himself; cannot return Banner).
 3. **Named type from the yard** — [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]] (name Elf, then sac).
 
@@ -67,7 +68,7 @@ Three outlets, three rules.
 4. [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]] / [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] / [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]] *(wishlist)* — the engines.
 5. A dork only if the yard is empty of the above.
 
-Findbroker / Regrower / Loyalist / Pennant still fill from the yard. [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]], Glowspore, and Lluwen are owned cuts.
+Findbroker / Loyalist / Pennant still fill from the yard. [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]], Glowspore, and Lluwen are owned cuts.
 
 ---
 

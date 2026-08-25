@@ -7,6 +7,10 @@
 >
 > ![Tegwyll, Duke of Splendor](https://cards.scryfall.io/border_crop/front/0/3/03fab911-7bd4-45fa-ba07-cd0e51b0cd95.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

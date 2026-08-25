@@ -56,14 +56,14 @@ Imperious Perfect is an Elf lord and a token factory. The anthem makes the go-wi
 
 - Cast after Maralen, then tap with {G} up to make a token the same turn if you can. Each later token is another mill and +1 steal.
 - [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] X=3 finds this when you need tokens, or Archdruid when you are ready to Wave. Do not grab it if the table already has a board and blight would do more — that X=4 is Morcant.
-- Recur it with [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] / [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] / Loyalist. A replayed Perfect is another mill plus the factory back on.
+- Recur it with [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] / Loyalist / Pennant. A replayed Perfect is another mill plus the factory back on.
 - Anthem makes [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] a 3/4. A connect then makes three tokens, each of which mills.
 
 ## Key Synergies
 
 - **Commander / count**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Tutor / recursion**: [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
-- **Go-wide payoffs**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]]
+- **Tutor / recursion**: [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]], [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
+- **Go-wide payoffs**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]]
 - **Token ETBs**: [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]]
 
 ## Anti-synergies / Notes

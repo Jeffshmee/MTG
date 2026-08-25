@@ -51,7 +51,7 @@ When this creature [[03 Effects/Dies Trigger|dies]], [[03 Effects/Recursion|retu
 
 ## Deck Role & Rating
 
-Loyalist is the Elf-only recursion piece and a small anthem. Other Elves get +1/+1 while he lives; when he dies he returns *another* Elf card from the yard to hand. That is how you replay [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], or [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] after a fight or a wipe. He does **not** get Banner, Uprising, or Panharmonicon — that is [[02 Cards/Creatures/Golgari Findbroker|Findbroker]] / [[02 Cards/Creatures/Elvish Regrower|Regrower]].
+Loyalist is the Elf-only recursion piece and a small anthem. Other Elves get +1/+1 while he lives; when he dies he returns *another* Elf card from the yard to hand. That is how you replay [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], or [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] after a fight or a wipe. He does **not** get Banner, Uprising, or Panharmonicon — that is [[02 Cards/Creatures/Golgari Findbroker|Findbroker]].
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,8 @@ Loyalist is the Elf-only recursion piece and a small anthem. Other Elves get +1/
 ## Key Synergies
 
 - **Elf recursion targets**: [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]
-- **Chain into permanents**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
+- **Chain into permanents**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]]
+- **Anthem stack**: [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]]
 - **Anthem stack**: [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]]
 - **Make him die on purpose**: combat, blight trades via Morcant, a wipe you are already losing
 

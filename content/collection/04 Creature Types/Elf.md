@@ -2,7 +2,7 @@
 
 Creature type: Elf.
 
-**91** copies · **54** names.
+**92** copies · **55** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -21,6 +21,7 @@ Creature type: Elf.
 | [**`mtg:Glowspore Shaman`**](https://scryfall.com/card/rvr/184) | [[02 Cards/Creatures/Glowspore Shaman\|PAGE]] | {B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
 | [**`mtg:Greenwood Sentinel`**](https://scryfall.com/card/m20/174) | [[02 Cards/Creatures/Greenwood Sentinel\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Kujar Seedsculptor`**](https://scryfall.com/card/ddu/15) | [[02 Cards/Creatures/Kujar Seedsculptor\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
+| [**`mtg:Leaf-Crowned Visionary`**](https://scryfall.com/card/dmu/167) | [[02 Cards/Creatures/Leaf-Crowned Visionary\|PAGE]] | {G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.40 |
 | [**`mtg:Llanowar Loamspeaker`**](https://scryfall.com/card/blc/228) | [[02 Cards/Creatures/Llanowar Loamspeaker\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://scryfall.com/card/ecl/232) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | {B/G}{B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.21 |
 | [**`mtg:Lys Alana Informant`**](https://scryfall.com/card/ecl/181) | [[02 Cards/Creatures/Lys Alana Informant\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.10 |

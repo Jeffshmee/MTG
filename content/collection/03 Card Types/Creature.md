@@ -2,7 +2,7 @@
 
 Card type: Creature.
 
-**460** copies · **360** names.
+**461** copies · **361** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -89,6 +89,7 @@ Card type: Creature.
 | [**`mtg:Knight of Grace`**](https://scryfall.com/card/fdn/576) | [[02 Cards/Creatures/Knight of Grace\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Knight of Malice`**](https://scryfall.com/card/fdn/608) | [[02 Cards/Creatures/Knight of Malice\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Kujar Seedsculptor`**](https://scryfall.com/card/ddu/15) | [[02 Cards/Creatures/Kujar Seedsculptor\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
+| [**`mtg:Leaf-Crowned Visionary`**](https://scryfall.com/card/dmu/167) | [[02 Cards/Creatures/Leaf-Crowned Visionary\|PAGE]] | {G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.40 |
 | [**`mtg:Llanowar Loamspeaker`**](https://scryfall.com/card/blc/228) | [[02 Cards/Creatures/Llanowar Loamspeaker\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://scryfall.com/card/ecl/232) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | {B/G}{B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.21 |
 | [**`mtg:Loyal Apprentice`**](https://scryfall.com/card/tdc/222) | [[02 Cards/Creatures/Loyal Apprentice\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |

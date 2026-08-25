@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**144** copies · **97** names.
+**145** copies · **98** names.
 
 ```decklist
 group: auto
@@ -44,6 +44,7 @@ legality: commander
 4 Imperious Perfect
 1 Keen-Eyed Curator
 1 Kujar Seedsculptor
+1 Leaf-Crowned Visionary
 8 Llanowar Elves
 1 Llanowar Envoy
 1 Llanowar Loamspeaker

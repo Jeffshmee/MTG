@@ -104,12 +104,12 @@ legality: commander
 5 Mountain
 1 Nomad Outpost
 4 Plains
+1 Sacred Foundry
 1 Savai Triome
 1 Shattered Landscape
 1 Shattered Sanctum
 1 Smoldering Marsh
 4 Swamp
-1 Temple of Triumph
 1 Vault of the Archangel
 1 Windbrisk Heights
 ```
@@ -117,7 +117,7 @@ legality: commander
 ---
 
 *Source: `mardu-zurgo/07 Assets/current-deck.md`*  
-*Last synced: 2026-08-23*
+*Last synced: 2026-08-24*
 
 ---
 
@@ -221,11 +221,11 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Lands/Mountain|Mountain]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
 - [[02 Cards/Lands/Nomad Outpost|Nomad Outpost]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Plains|Plains]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
+- [[02 Cards/Lands/Sacred Foundry|Sacred Foundry]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Savai Triome|Savai Triome]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Shattered Landscape|Shattered Landscape]] **69** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:69%"></div></div>
 - [[02 Cards/Lands/Shattered Sanctum|Shattered Sanctum]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Smoldering Marsh|Smoldering Marsh]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Lands/Swamp|Swamp]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
-- [[02 Cards/Lands/Temple of Triumph|Temple of Triumph]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>
 - [[02 Cards/Lands/Vault of the Archangel|Vault of the Archangel]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Windbrisk Heights|Windbrisk Heights]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>

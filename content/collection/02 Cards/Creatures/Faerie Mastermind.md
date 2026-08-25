@@ -7,6 +7,10 @@
 >
 > ![Faerie Mastermind](https://cards.scryfall.io/border_crop/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 23/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

@@ -7,6 +7,10 @@
 >
 > ![Anim Pakal, Thousandth Moon](https://cards.scryfall.io/border_crop/front/8/6/868856b7-8875-43c1-8249-0f8fb2c8319b.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Sideboard to deck |
+
+</div>
+
+</div>
 
 ## Printings
 

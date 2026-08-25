@@ -2,7 +2,7 @@
 
 Creature type: Druid.
 
-**48** copies · **31** names.
+**49** copies · **32** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -15,6 +15,7 @@ Creature type: Druid.
 | [**`mtg:Elfhame Druid`**](https://scryfall.com/card/dom/159) | [[02 Cards/Creatures/Elfhame Druid\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.18 |
 | [**`mtg:Great Forest Druid`**](https://scryfall.com/card/ecl/178) | [[02 Cards/Creatures/Great Forest Druid\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Treefolk\|Treefolk]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.18 |
 | [**`mtg:Kujar Seedsculptor`**](https://scryfall.com/card/ddu/15) | [[02 Cards/Creatures/Kujar Seedsculptor\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
+| [**`mtg:Leaf-Crowned Visionary`**](https://scryfall.com/card/dmu/167) | [[02 Cards/Creatures/Leaf-Crowned Visionary\|PAGE]] | {G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.40 |
 | [**`mtg:Llanowar Loamspeaker`**](https://scryfall.com/card/blc/228) | [[02 Cards/Creatures/Llanowar Loamspeaker\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://scryfall.com/card/ecl/232) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | {B/G}{B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.21 |
 | [**`mtg:Priest of Titania`**](https://scryfall.com/card/mh3/286) | [[02 Cards/Creatures/Priest of Titania\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.82 |

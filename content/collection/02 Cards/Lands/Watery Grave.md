@@ -7,6 +7,10 @@
 >
 > ![Watery Grave](https://cards.scryfall.io/border_crop/front/b/2/b248ff3a-e10d-4797-8c04-7f4094608d32.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -17,6 +21,20 @@
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {U}{B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 21/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

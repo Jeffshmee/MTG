@@ -2,7 +2,7 @@
 
 Rarity: common.
 
-**576** copies · **297** names.
+**574** copies · **296** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -115,7 +115,7 @@ Rarity: common.
 | [**`mtg:Agent of Kotis`**](https://scryfall.com/card/tdm/36) | [[02 Cards/Creatures/Agent of Kotis\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
 | [**`mtg:Ajani's Sunstriker`**](https://scryfall.com/card/cns/66) | [[02 Cards/Creatures/Ajani's Sunstriker\|PAGE]] | {W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Alesha's Legacy`**](https://scryfall.com/card/tdm/72) | [[02 Cards/Instants/Alesha's Legacy\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
-| [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 5 | 3.40 |
+| [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 2.61 |
 | [**`mtg:Auntie's Sentence`**](https://scryfall.com/card/ecl/85) | [[02 Cards/Sorceries/Auntie's Sentence\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Axgard Cavalry`**](https://scryfall.com/card/fdn/189) | [[02 Cards/Creatures/Axgard Cavalry\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.18 |
 | [**`mtg:Bakersbane Duo`**](https://scryfall.com/card/blb/163) | [[02 Cards/Creatures/Bakersbane Duo\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Squirrel\|Squirrel]] [[04 Creature Types/Raccoon\|Raccoon]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
@@ -200,7 +200,6 @@ Rarity: common.
 | [**`mtg:Crusader of Odric`**](https://scryfall.com/card/inr/18) | [[02 Cards/Creatures/Crusader of Odric\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Diresight`**](https://scryfall.com/card/blb/91) | [[02 Cards/Sorceries/Diresight\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Dragon's Prey`**](https://scryfall.com/card/tdm/79) | [[02 Cards/Instants/Dragon's Prey\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
-| [**`mtg:Dragonstorm Globe`**](https://scryfall.com/card/tdm/241) | [[02 Cards/Artifacts/Dragonstorm Globe\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Elvish Rejuvenator`**](https://scryfall.com/card/m3c/226) | [[02 Cards/Creatures/Elvish Rejuvenator\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Enraged Flamecaster`**](https://scryfall.com/card/ecl/135) | [[02 Cards/Creatures/Enraged Flamecaster\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Fierce Empath`**](https://scryfall.com/card/fdn/636) | [[02 Cards/Creatures/Fierce Empath\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |

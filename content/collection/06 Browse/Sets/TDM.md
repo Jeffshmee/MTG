@@ -2,7 +2,7 @@
 
 Set `TDM`. Qty here is copies of this name from this set.
 
-**146** copies · **109** names.
+**145** copies · **108** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -62,7 +62,6 @@ Set `TDM`. Qty here is copies of this name from this set.
 | [**`mtg:Dalkovan Packbeasts`**](https://scryfall.com/card/tdm/7) | [[02 Cards/Creatures/Dalkovan Packbeasts\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Ox\|Ox]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Dragon's Prey`**](https://scryfall.com/card/tdm/79) | [[02 Cards/Instants/Dragon's Prey\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
 | [**`mtg:Dragonologist`**](https://scryfall.com/card/tdm/295) | [[02 Cards/Creatures/Dragonologist\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.45 |
-| [**`mtg:Dragonstorm Globe`**](https://scryfall.com/card/tdm/241) | [[02 Cards/Artifacts/Dragonstorm Globe\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Highspire Bell-Ringer`**](https://scryfall.com/card/tdm/47) | [[02 Cards/Creatures/Highspire Bell-Ringer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Monk\|Monk]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.20 |
 | [**`mtg:Kin-Tree Nurturer`**](https://scryfall.com/card/tdm/83) | [[02 Cards/Creatures/Kin-Tree Nurturer\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Knockout Maneuver`**](https://scryfall.com/card/tdm/147) | [[02 Cards/Sorceries/Knockout Maneuver\|PAGE]] | {2}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |

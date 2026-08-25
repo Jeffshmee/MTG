@@ -7,6 +7,10 @@
 >
 > ![Belladonna Took](https://cards.scryfall.io/border_crop/front/0/f/0ff767b1-b04d-4d1d-bc91-3bd1361c5ee8.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Sideboard to deck |
+
+</div>
+
+</div>
 
 ## Printings
 

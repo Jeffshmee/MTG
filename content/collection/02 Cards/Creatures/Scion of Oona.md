@@ -7,6 +7,10 @@
 >
 > ![Scion of Oona](https://cards.scryfall.io/border_crop/front/9/3/937c75ac-b7cf-4af5-a7b7-9e90f43fa1a5.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 21/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

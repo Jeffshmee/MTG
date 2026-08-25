@@ -22,6 +22,7 @@ legality: commander
 1 Dwynen's Elite
 1 Elvish Warmaster
 1 Faerie Mastermind
+1 Leaf-Crowned Visionary
 1 Llanowar Loamspeaker
 1 Maraleaf Pixie
 1 Obyra, Dreaming Duelist
@@ -45,7 +46,6 @@ legality: commander
 1 Alela, Cunning Conqueror
 1 Beast Whisperer
 1 Champions of the Perfect
-1 Elvish Regrower
 1 Golgari Findbroker
 1 High Fae Trickster
 1 High Perfect Morcant
@@ -103,7 +103,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/current-deck.md`*
-*Last synced: 2026-08-23*
+*Last synced: 2026-08-24*
 
 ---
 
@@ -124,6 +124,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Elvish Warmaster|Elvish Warmaster]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
+- [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Llanowar Loamspeaker|Llanowar Loamspeaker]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Creatures/Maraleaf Pixie|Maraleaf Pixie]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Obyra, Dreaming Duelist|Obyra, Dreaming Duelist]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
@@ -147,7 +148,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Beast Whisperer|Beast Whisperer]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Champions of the Perfect|Champions of the Perfect]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
-- [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
 - [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
 - [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>

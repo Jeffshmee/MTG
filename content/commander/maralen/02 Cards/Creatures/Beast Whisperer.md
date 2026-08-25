@@ -48,22 +48,22 @@ Whenever you cast a creature spell, [[03 Effects/Draw a Card|draw a card]].
 
 ## Deck Role & Rating
 
-The refill engine: every creature spell you cast draws a card. Token ETBs from [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]] and [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] do not draw — only the spells. Cast him, then dump the creature hand; he is a top Findbroker / Regrower target if he dies. He is live in the 100.
+The refill engine: every creature spell you cast draws a card. Token ETBs from [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]] and [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] do not draw — only the spells. Cast him, then dump the creature hand; he is a top Findbroker / Loyalist target if he dies. [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]] is the two-mana Elf-only paid-draw lord; this hits Faeries too. He is live in the 100.
 
 ## Play Patterns & Lines
 
 - Play him before a creature-heavy hand, not as a Wave passenger. Wave puts permanents onto the battlefield; it does not cast them.
-- Recast him off Findbroker or Regrower the turn he dies. Loyalist also gets the Elf.
+- Recast him off Findbroker the turn he dies. Loyalist also gets the Elf.
 - [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] at X=4 can find him instead of Lathril when the tank is empty.
-- Pending [[02 Cards/Creatures/Champions of the Perfect|Champions of the Perfect]] is a second "draw on creature spells" — they stack.
+- [[02 Cards/Creatures/Champions of the Perfect|Champions of the Perfect]] and [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]] also draw on (Elf / creature) spells — they stack.
 - Stolen creature spells you actually cast off Maralen do draw.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
+- **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
 - **Tutor**: [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]]
-- **Pending double-draw**: [[02 Cards/Creatures/Champions of the Perfect|Champions of the Perfect]]
+- **Other creature-draw**: [[02 Cards/Creatures/Champions of the Perfect|Champions of the Perfect]], [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]]
 - **Pending enchantment draw**: [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]]
 
 ## Anti-synergies / Notes

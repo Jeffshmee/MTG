@@ -4,7 +4,7 @@ How this list is supposed to play. Commander is [[02 Cards/Creatures/Zurgo Storm
 
 See also [[06 Strategy/Win Conditions|Win Conditions]], [[06 Strategy/Playtest Notes|Playtest Notes]], and [[01 Deck/Current Deck|Current Deck]].
 
-**Status of this draft:** written against the current 100. Isshin, Teysa, Packbeasts, Bone-Cairn, Anim Pakal, Belladonna, Windcrag, and the shock/triome lands are live. Remaining ordered: [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] and [[02 Cards/Lands/Sacred Foundry|Sacred Foundry]]. See [[01 Deck/Sideboard|Sideboard]].
+**Status of this draft:** written against the current 100. Isshin, Teysa, Packbeasts, Bone-Cairn, Anim Pakal, Belladonna, Windcrag, and the shock/triome lands are live — including [[02 Cards/Lands/Sacred Foundry|Sacred Foundry]] over Temple of Triumph. Remaining ordered: [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]]. See [[01 Deck/Sideboard|Sideboard]].
 
 ---
 
@@ -25,7 +25,7 @@ Protect Zurgo. [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]] is the
 
 **Keep** a hand that can cast Zurgo on turn 3 and attack. Ideal:
 
-- Two or three lands that can make {R}{W}{B} by turn 3. Prefer untapped sources ([[02 Cards/Lands/Command Tower|Command Tower]], pain lands, checklands) over a pile of Temples.
+- Two or three lands that can make {R}{W}{B} by turn 3. Prefer untapped sources ([[02 Cards/Lands/Command Tower|Command Tower]], pain lands, shocks — [[02 Cards/Lands/Sacred Foundry|Sacred Foundry]] / [[02 Cards/Lands/Godless Shrine|Godless Shrine]] / [[02 Cards/Lands/Blood Crypt|Blood Crypt]], checklands) over a pile of Temples.
 - A two-drop that does something before Zurgo: [[02 Cards/Creatures/Viscera Seer|Viscera Seer]], [[02 Cards/Creatures/Loyal Apprentice|Loyal Apprentice]], [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas]], [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]], [[02 Cards/Artifacts/Skullclamp|Skullclamp]] / [[02 Cards/Artifacts/Sol Ring|Sol Ring]] / [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]].
 
 **Mulligan** hands with no red+white+black by three, or five-plus-mana piles with no early play and no Zurgo protection.

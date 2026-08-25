@@ -7,6 +7,10 @@
 >
 > ![Godless Shrine](https://cards.scryfall.io/border_crop/front/c/e/ced4c824-2dfc-42ae-84e6-09f8e3f51b5b.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -17,6 +21,20 @@
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 20/08/2026 | Sideboard to deck |
+
+</div>
+
+</div>
 
 ## Printings
 

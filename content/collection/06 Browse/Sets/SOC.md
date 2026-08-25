@@ -2,7 +2,7 @@
 
 Set `SOC`. Qty here is copies of this name from this set.
 
-**32** copies · **28** names.
+**31** copies · **27** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -24,7 +24,6 @@ Set `SOC`. Qty here is copies of this name from this set.
 | [**`mtg:Viscera Seer`**](https://scryfall.com/card/soc/229) | [[02 Cards/Creatures/Viscera Seer\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.51 |
 | [**`mtg:Abrade`**](https://scryfall.com/card/fdn/327) | [[02 Cards/Instants/Abrade\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
 | [**`mtg:Deadly Brew`**](https://scryfall.com/card/soc/303) | [[02 Cards/Sorceries/Deadly Brew\|PAGE]] | {B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
-| [**`mtg:Fellwar Stone`**](https://scryfall.com/card/soc/347) | [[02 Cards/Artifacts/Fellwar Stone\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.87 |
 | [**`mtg:Talisman of Hierarchy`**](https://scryfall.com/card/soc/358) | [[02 Cards/Artifacts/Talisman of Hierarchy\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.66 |
 | [**`mtg:Morbid Opportunist`**](https://scryfall.com/card/soc/219) | [[02 Cards/Creatures/Morbid Opportunist\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.22 |
 | [**`mtg:Patchwork Banner`**](https://scryfall.com/card/soc/353) | [[02 Cards/Artifacts/Patchwork Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 6.76 |

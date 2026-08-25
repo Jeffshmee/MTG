@@ -7,6 +7,10 @@
 >
 > ![Circle of Dreams Druid](https://cards.scryfall.io/border_crop/front/b/e/be6fdec0-a2c4-4da2-ae14-961185eaee66.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 23/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

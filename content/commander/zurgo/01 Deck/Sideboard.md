@@ -9,7 +9,6 @@ legality: commander
 
 # Pending Adds (still not in hand / not committed)
 1 Path of Ancestry
-1 Sacred Foundry
 1 Mardu Ascendancy
 
 # Other / Lower Priority (owned, not in the 100)
@@ -20,6 +19,7 @@ legality: commander
 # Recent Cuts (from main deck)
 1 Canyon Slough
 1 Temple of Silence
+1 Temple of Triumph
 1 Terramorphic Expanse
 1 Shadow Summoning
 1 Nightblade Brigade
@@ -40,7 +40,7 @@ legality: commander
 ---
 
 *Source: `mardu-zurgo/07 Assets/sideboard.md` + notes.md*  
-*Last synced: 2026-08-23*
+*Last synced: 2026-08-24*
 
 ---
 
@@ -206,16 +206,6 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 ### Lands
-> [!info] **`mtg:Sacred Foundry`**
-> **82** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:82%"></div></div>
->
-> [[02 Cards/Lands/Sacred Foundry|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Temple of Triumph|Temple of Triumph]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Battlefield Forge|Battlefield Forge]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
 > [!info] **`mtg:Path of Ancestry`**
 > **81** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:81%"></div></div>
@@ -232,6 +222,14 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > [[02 Cards/Lands/Temple of Silence|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
+
+> [!info] **`mtg:Temple of Triumph`**
+> **71** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:71%"></div></div>
+>
+> [[02 Cards/Lands/Temple of Triumph|Open local page →]]
+>
+> *Stay in sideboard / already cut — Sacred Foundry took this slot.*
 
 > [!info] **`mtg:Canyon Slough`**
 > **71** / 100 · 🟢 Owned

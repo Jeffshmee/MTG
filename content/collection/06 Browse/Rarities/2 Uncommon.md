@@ -2,7 +2,7 @@
 
 Rarity: uncommon.
 
-**287** copies · **220** names.
+**283** copies · **218** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -31,7 +31,7 @@ Rarity: uncommon.
 | [**`mtg:Mold Adder`**](https://scryfall.com/card/fdn/640) | [[02 Cards/Creatures/Mold Adder\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Fungus\|Fungus]] [[04 Creature Types/Snake\|Snake]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.16 |
 | [**`mtg:Savannah Lions`**](https://scryfall.com/card/fdn/146) | [[02 Cards/Creatures/Savannah Lions\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.08 |
 | [**`mtg:Skullclamp`**](https://scryfall.com/card/tdc/103) | [[02 Cards/Artifacts/Skullclamp\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 5.26 |
-| [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 5 | 9.33 |
+| [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 7.25 |
 | [**`mtg:Soul-Guide Lantern`**](https://scryfall.com/card/eoc/143) | [[02 Cards/Artifacts/Soul-Guide Lantern\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.17 |
 | [**`mtg:Soulbright Seeker`**](https://scryfall.com/card/ecl/157) | [[02 Cards/Creatures/Soulbright Seeker\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.04 |
 | [**`mtg:Spectral Denial`**](https://scryfall.com/card/tdm/58) | [[02 Cards/Instants/Spectral Denial\|PAGE]] | {X}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
@@ -58,7 +58,6 @@ Rarity: uncommon.
 | [**`mtg:Elfhame Druid`**](https://scryfall.com/card/dom/159) | [[02 Cards/Creatures/Elfhame Druid\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.18 |
 | [**`mtg:Essence Scatter`**](https://scryfall.com/card/fdn/153) | [[02 Cards/Instants/Essence Scatter\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Exsanguinate`**](https://scryfall.com/card/fdn/173) | [[02 Cards/Sorceries/Exsanguinate\|PAGE]] | {X}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.33 |
-| [**`mtg:Fellwar Stone`**](https://scryfall.com/card/soc/347) | [[02 Cards/Artifacts/Fellwar Stone\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.87 |
 | [**`mtg:Flashfreeze`**](https://scryfall.com/card/fdn/590) | [[02 Cards/Instants/Flashfreeze\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Fog Bank`**](https://scryfall.com/card/fdn/591) | [[02 Cards/Creatures/Fog Bank\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wall\|Wall]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Fynn, the Fangbearer`**](https://scryfall.com/card/fdn/637) | [[02 Cards/Creatures/Fynn, the Fangbearer\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.34 |
@@ -93,7 +92,6 @@ Rarity: uncommon.
 | [**`mtg:Silvergill Mentor`**](https://scryfall.com/card/ecl/69) | [[02 Cards/Creatures/Silvergill Mentor\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Stargaze`**](https://scryfall.com/card/blb/114) | [[02 Cards/Sorceries/Stargaze\|PAGE]] | {X}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
 | [**`mtg:Stormbeacon Blade`**](https://scryfall.com/card/tdm/27) | [[02 Cards/Artifacts/Stormbeacon Blade\|PAGE]] | {1}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
-| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/fdn/355) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.22 |
 | [**`mtg:Talisman of Conviction`**](https://scryfall.com/card/tdc/329) | [[02 Cards/Artifacts/Talisman of Conviction\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.38 |
 | [**`mtg:Talisman of Hierarchy`**](https://scryfall.com/card/soc/358) | [[02 Cards/Artifacts/Talisman of Hierarchy\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.66 |
 | [**`mtg:Teach by Example`**](https://scryfall.com/card/fdn/666) | [[02 Cards/Instants/Teach by Example\|PAGE]] | {U/R}{U/R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
@@ -123,7 +121,7 @@ Rarity: uncommon.
 | [**`mtg:Giant Cindermaw`**](https://scryfall.com/card/fdn/624) | [[02 Cards/Creatures/Giant Cindermaw\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
 | [**`mtg:Guttersnipe`**](https://scryfall.com/card/tdc/217) | [[02 Cards/Creatures/Guttersnipe\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |
 | [**`mtg:Harnesser of Storms`**](https://scryfall.com/card/blb/137) | [[02 Cards/Creatures/Harnesser of Storms\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Otter\|Otter]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |
-| [**`mtg:Heraldic Banner`**](https://scryfall.com/card/fdn/254) | [[02 Cards/Artifacts/Heraldic Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.46 |
+| [**`mtg:Heraldic Banner`**](https://scryfall.com/card/fdn/254) | [[02 Cards/Artifacts/Heraldic Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.23 |
 | [**`mtg:Hero's Downfall`**](https://scryfall.com/card/fdn/175) | [[02 Cards/Instants/Hero's Downfall\|PAGE]] | {1}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.20 |
 | [**`mtg:Inspiration from Beyond`**](https://scryfall.com/card/fdn/43) | [[02 Cards/Sorceries/Inspiration from Beyond\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.12 |
 | [**`mtg:Knockout Maneuver`**](https://scryfall.com/card/tdm/147) | [[02 Cards/Sorceries/Knockout Maneuver\|PAGE]] | {2}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |

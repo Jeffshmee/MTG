@@ -2,7 +2,7 @@
 
 Cards whose mana value is 3.
 
-**195** copies · **158** names.
+**193** copies · **157** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -36,7 +36,6 @@ Cards whose mana value is 3.
 | [**`mtg:Diresight`**](https://scryfall.com/card/blb/91) | [[02 Cards/Sorceries/Diresight\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Dragon's Prey`**](https://scryfall.com/card/tdm/79) | [[02 Cards/Instants/Dragon's Prey\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
 | [**`mtg:Dragonologist`**](https://scryfall.com/card/tdm/295) | [[02 Cards/Creatures/Dragonologist\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.45 |
-| [**`mtg:Dragonstorm Globe`**](https://scryfall.com/card/tdm/241) | [[02 Cards/Artifacts/Dragonstorm Globe\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Dreadwing Scavenger`**](https://scryfall.com/card/fdn/118) | [[02 Cards/Creatures/Dreadwing Scavenger\|PAGE]] | {1}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Nightmare\|Nightmare]] [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.14 |
 | [**`mtg:Eclipsed Elf`**](https://scryfall.com/card/ecl/218) | [[02 Cards/Creatures/Eclipsed Elf\|PAGE]] | {B/G}{B/G}{B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Elvish Archdruid`**](https://scryfall.com/card/fdn/219) | [[02 Cards/Creatures/Elvish Archdruid\|PAGE]] | {1}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 1.88 |
@@ -63,7 +62,7 @@ Cards whose mana value is 3.
 | [**`mtg:Harmless Offering`**](https://scryfall.com/card/fdn/625) | [[02 Cards/Sorceries/Harmless Offering\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |
 | [**`mtg:Harnesser of Storms`**](https://scryfall.com/card/blb/137) | [[02 Cards/Creatures/Harnesser of Storms\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Otter\|Otter]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |
 | [**`mtg:Heirloom Auntie`**](https://scryfall.com/card/ecl/107) | [[02 Cards/Creatures/Heirloom Auntie\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
-| [**`mtg:Heraldic Banner`**](https://scryfall.com/card/fdn/254) | [[02 Cards/Artifacts/Heraldic Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.46 |
+| [**`mtg:Heraldic Banner`**](https://scryfall.com/card/fdn/254) | [[02 Cards/Artifacts/Heraldic Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.23 |
 | [**`mtg:Hero's Downfall`**](https://scryfall.com/card/fdn/175) | [[02 Cards/Instants/Hero's Downfall\|PAGE]] | {1}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.20 |
 | [**`mtg:Highspire Artisan`**](https://scryfall.com/card/kld/157) | [[02 Cards/Creatures/Highspire Artisan\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Highspire Bell-Ringer`**](https://scryfall.com/card/tdm/47) | [[02 Cards/Creatures/Highspire Bell-Ringer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Monk\|Monk]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.20 |

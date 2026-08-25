@@ -2,7 +2,7 @@
 
 Rarity: rare.
 
-**180** copies · **162** names.
+**182** copies · **164** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -22,6 +22,7 @@ Rarity: rare.
 | [**`mtg:Godless Shrine`**](https://scryfall.com/card/rna/248) | [[02 Cards/Lands/Godless Shrine\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.46 |
 | [**`mtg:Isolated Chapel`**](https://scryfall.com/card/soc/382) | [[02 Cards/Lands/Isolated Chapel\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.44 |
 | [**`mtg:Overgrown Tomb`**](https://scryfall.com/card/ecl/266) | [[02 Cards/Lands/Overgrown Tomb\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Swamp\|Swamp]] [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.39 |
+| [**`mtg:Sacred Foundry`**](https://scryfall.com/card/gtc/245) | [[02 Cards/Lands/Sacred Foundry\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Mountain\|Mountain]] [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.00 |
 | [**`mtg:Savai Triome`**](https://scryfall.com/card/iko/312) | [[02 Cards/Lands/Savai Triome\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Mountain\|Mountain]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 13.63 |
 | [**`mtg:Secluded Glen`**](https://scryfall.com/card/woc/166) | [[02 Cards/Lands/Secluded Glen\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.73 |
 | [**`mtg:Shattered Sanctum`**](https://scryfall.com/card/tdc/391) | [[02 Cards/Lands/Shattered Sanctum\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 1.92 |
@@ -66,6 +67,7 @@ Rarity: rare.
 | [**`mtg:Idol of Oblivion`**](https://scryfall.com/card/tdc/319) | [[02 Cards/Artifacts/Idol of Oblivion\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.29 |
 | [**`mtg:Kalastria Highborn`**](https://scryfall.com/card/fdn/607) | [[02 Cards/Creatures/Kalastria Highborn\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
 | [**`mtg:Keen-Eyed Curator`**](https://scryfall.com/card/blb/181) | [[02 Cards/Creatures/Keen-Eyed Curator\|PAGE]] | {G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Raccoon\|Raccoon]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.46 |
+| [**`mtg:Leaf-Crowned Visionary`**](https://scryfall.com/card/dmu/167) | [[02 Cards/Creatures/Leaf-Crowned Visionary\|PAGE]] | {G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.40 |
 | [**`mtg:Llanowar Loamspeaker`**](https://scryfall.com/card/blc/228) | [[02 Cards/Creatures/Llanowar Loamspeaker\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://scryfall.com/card/ecl/232) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | {B/G}{B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.21 |
 | [**`mtg:Mazemind Tome`**](https://scryfall.com/card/fdn/676) | [[02 Cards/Artifacts/Mazemind Tome\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |

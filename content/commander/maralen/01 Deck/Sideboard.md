@@ -30,6 +30,7 @@ legality: commander
 1 Highspire Artisan
 1 Llanowar Envoy
 1 Tajuru Snarecaster
+1 Elvish Regrower
 1 Illusion Spinners
 1 Springmantle Cleric
 
@@ -51,7 +52,7 @@ legality: commander
 ```
 
 *Source: `maralen-fae/07 Assets/sideboard.md`*
-*Last synced: 2026-08-23*
+*Last synced: 2026-08-24*
 
 ---
 
@@ -118,6 +119,14 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 > [[02 Cards/Creatures/Elvish Rejuvenator|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
+
+> [!info] **`mtg:Elvish Regrower`**
+> **76** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:76%"></div></div>
+>
+> [[02 Cards/Creatures/Elvish Regrower|Open local page →]]
+>
+> *Stay in sideboard / already cut — Leaf-Crowned Visionary took this slot.*
 
 > [!info] **`mtg:Lluwen, Imperfect Naturalist`**
 > **75** / 100 · 🟢 Owned

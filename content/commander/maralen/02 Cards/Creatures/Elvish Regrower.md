@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Elvish Regrower`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {2}{G}{G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 4/3  
@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-Regrower is the cheaper permanent-recursion Elf. Same ETB as [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] — any permanent card from the yard to hand — for {2}{G}{G} and a 4/3 body. Priority targets are [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], then [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], and [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (and [[02 Cards/Enchantments/Kindred Discovery|Kindred Discovery]] once it arrives). He mills and counts, but the returned card is why he is in the pile.
+Regrower is the cheaper permanent-recursion Elf. Same ETB as [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] — any permanent card from the yard to hand — for {2}{G}{G} and a 4/3 body. [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]] took this slot. Owned cut; not in the 100. Findbroker, Loyalist, and Pennant still cover the yard.
 
 ## Play Patterns & Lines
 
@@ -70,6 +70,7 @@ Regrower is the cheaper permanent-recursion Elf. Same ETB as [[02 Cards/Creature
 - Four mana for a 4/3 that does nothing if the yard is empty.
 - Cannot return instants or sorceries.
 - He is not a dork. Do not curve him as ramp.
+- Owned cut. Leaf-Crowned Visionary is live. Do not swap this back.
 
 ## Related Pages
 
@@ -92,7 +93,7 @@ Regrower is the cheaper permanent-recursion Elf. Same ETB as [[02 Cards/Creature
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 74
 >   deck_specific: 78
@@ -100,9 +101,9 @@ Regrower is the cheaper permanent-recursion Elf. Same ETB as [[02 Cards/Creature
 > scryfall_id: 2694e3cd-26ed-4a10-ae55-fb84d7800253
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-24*  
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

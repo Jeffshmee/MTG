@@ -4,7 +4,7 @@ How this list closes a table. All four plans run through [[02 Cards/Creatures/Ma
 
 Play order, the Lathril-vs-Morcant tutor tree, and recursion priority live on [[06 Strategy/Play Patterns|Play Patterns]].
 
-**Draft note:** the plans below use the **100** after the 2026-08-23 commit (Mastermind >> Illusion Spinners, Circle >> Lys Alana Informant). Sol Ring was left out (Firdoch stays). Bloom Tender is still Ordered — reserved cut is Wardens of the Cycle. Confounding Riddle and Aid from the Cowl still need a named cut.
+**Draft note:** the plans below use the **100** after the 2026-08-24 commit (Leaf-Crowned Visionary >> Elvish Regrower). Sol Ring was left out (Firdoch stays). Bloom Tender is still Ordered — reserved cut is Wardens of the Cycle. Confounding Riddle and Aid from the Cowl still need a named cut.
 
 ---
 

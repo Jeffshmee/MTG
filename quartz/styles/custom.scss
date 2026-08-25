@@ -801,3 +801,29 @@ body[data-slug^="collection/"] {
     color: #1a1208 !important;
   }
 }
+
+.collection-side-tables {
+  display: grid;
+  grid-template-columns: minmax(14rem, 1.2fr) minmax(12rem, 1fr);
+  gap: 0 1.75rem;
+  align-items: start;
+  min-width: 0;
+}
+
+.collection-side-tables h2 {
+  margin-top: 0;
+}
+
+.collection-side-tables table {
+  width: 100%;
+}
+
+@media (max-width: 1200px) {
+  .collection-side-tables {
+    grid-template-columns: 1fr;
+  }
+}
+
+.popover-inner .collection-side-tables {
+  grid-template-columns: 1fr;
+}

@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**72** copies · **52** names.
+**66** copies · **49** names.
 
 ```decklist
 group: auto
@@ -28,22 +28,20 @@ legality: commander
 
 # Artifacts
 1 Abzan Monument
-5 Arcane Signet
+4 Arcane Signet
 1 Basilisk Collar
 2 Blade of Selves
 1 Cultivator's Caravan
 4 Dawn-Blessed Pennant
-1 Dragonstorm Globe
 1 Expedition Map
 1 Feldon's Cane
-1 Fellwar Stone
 1 Firdoch Core
 1 Fireshrieker
 1 Fishing Pole
 1 Gilded Lotus
 1 Goldvein Pick
 1 Hedron Archive
-2 Heraldic Banner
+1 Heraldic Banner
 1 Idol of Oblivion
 2 Jeskai Monument
 2 Lightning Greaves
@@ -55,11 +53,10 @@ legality: commander
 1 Pyromancer's Goggles
 1 Ravenous Amulet
 1 Skullclamp
-5 Sol Ring
+4 Sol Ring
 1 Sorcerous Spyglass
 1 Soul-Guide Lantern
 1 Stalactite Dagger
-1 Swiftfoot Boots
 1 Talisman of Conviction
 1 Talisman of Hierarchy
 1 Wayfarer's Bauble

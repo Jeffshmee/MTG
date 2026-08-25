@@ -7,6 +7,10 @@
 >
 > ![Heraldic Banner](https://cards.scryfall.io/border_crop/front/7/4/743ea709-dbb3-4db8-a2ce-544f47eb6339.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -17,15 +21,30 @@
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
 | **Where** | [[06 Browse/Box\|Box]] |
 
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+| 24/08/2026 | Traded to Mark for Leaf-Crowned Visionary |
+
+</div>
+
+</div>
+
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>1</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations (<code>FDN</code>)</td><td>254</td><td>—</td><td>2</td><td>Box</td><td>0.23</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>254</td><td>—</td><td>1</td><td>Box</td><td>0.23</td></tr>
 </tbody>
 </table>
 </div>
@@ -37,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/7/4/743ea709-dbb3-4db8-a2ce-544f47eb6339.jpg" alt="Heraldic Banner FDN 254 · ×2">
-<figcaption>FDN 254 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/7/4/743ea709-dbb3-4db8-a2ce-544f47eb6339.jpg" alt="Heraldic Banner FDN 254 · ×1">
+<figcaption>FDN 254 · ×1</figcaption>
 </figure>
 </div>
 
@@ -57,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 3
 > type: "Artifact"
 > scryfall_id: 743ea709-dbb3-4db8-a2ce-544f47eb6339
-> quantity: 2
+> quantity: 1
 > tags:
 >   - artifact
 >   - card

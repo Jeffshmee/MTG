@@ -7,6 +7,10 @@
 >
 > ![Fellwar Stone](https://cards.scryfall.io/border_crop/front/3/8/385b9f5e-81dd-49f6-a644-59d53245e3dc.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -15,7 +19,22 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[07 Traded Out/01 - Trades Summary/Trades Summary\|Traded Out]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 15/08/2026 | Added to collection |
+| 24/08/2026 | Traded to Mark for Leaf-Crowned Visionary |
+
+</div>
+
+</div>
 
 ## Printings
 
@@ -25,7 +44,7 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>347</td><td>—</td><td>1</td><td>Box</td><td>0.87</td></tr>
+<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>347</td><td>—</td><td>1</td><td>Traded Out</td><td>0.87</td></tr>
 </tbody>
 </table>
 </div>
@@ -44,7 +63,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[07 Traded Out/01 - Trades Summary/Trades Summary|Trades Summary]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[07 Traded Out/01 - Trades Summary/Trades Summary|Traded Out]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
 
 ---
 

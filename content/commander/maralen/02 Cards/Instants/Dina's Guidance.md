@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Instant-speed creature tutor. Same Lathril-vs-Morcant-vs-Archdruid tree as [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]], except the card goes to hand or the graveyard, not onto the battlefield. Hand is the default. Graveyard is setup for [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]], or [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]].
+Instant-speed creature tutor. Same Lathril-vs-Morcant-vs-Archdruid tree as [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]], except the card goes to hand or the graveyard, not onto the battlefield. Hand is the default. Graveyard is setup for [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]], or [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]].
 
 ## Play Patterns & Lines
 
@@ -59,7 +59,7 @@ Instant-speed creature tutor. Same Lathril-vs-Morcant-vs-Archdruid tree as [[02 
 ## Key Synergies
 
 - **What you fetch**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]]
-- **If you bin it**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]], [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]]
+- **If you bin it**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]], [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]]
 - **Hard tutor onto the battlefield**: [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]]
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
 

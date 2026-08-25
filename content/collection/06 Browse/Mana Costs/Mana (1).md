@@ -2,7 +2,7 @@
 
 Cards whose mana value is 1.
 
-**113** copies · **71** names.
+**112** copies · **71** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -56,7 +56,7 @@ Cards whose mana value is 1.
 | [**`mtg:Scavenger's Talent`**](https://scryfall.com/card/blb/111) | [[02 Cards/Enchantments/Scavenger's Talent\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.82 |
 | [**`mtg:Skullclamp`**](https://scryfall.com/card/tdc/103) | [[02 Cards/Artifacts/Skullclamp\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 5.26 |
 | [**`mtg:Snakeskin Veil`**](https://scryfall.com/card/tdm/159) | [[02 Cards/Instants/Snakeskin Veil\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.29 |
-| [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 5 | 9.33 |
+| [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 7.25 |
 | [**`mtg:Soul-Guide Lantern`**](https://scryfall.com/card/eoc/143) | [[02 Cards/Artifacts/Soul-Guide Lantern\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.17 |
 | [**`mtg:Soulbright Seeker`**](https://scryfall.com/card/ecl/157) | [[02 Cards/Creatures/Soulbright Seeker\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.04 |
 | [**`mtg:Spectral Denial`**](https://scryfall.com/card/tdm/58) | [[02 Cards/Instants/Spectral Denial\|PAGE]] | {X}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |

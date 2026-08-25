@@ -7,6 +7,10 @@
 >
 > ![Caesar, Legion's Emperor](https://cards.scryfall.io/border_crop/front/2/4/246a7176-98bc-4f54-aa61-38747420f178.jpg)
 
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
 ## Classification
 
 | Category | Links |
@@ -16,6 +20,20 @@
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
 | **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 19/08/2026 | Ordered to owned |
+
+</div>
+
+</div>
 
 ## Printings
 

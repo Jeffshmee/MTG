@@ -57,7 +57,7 @@ Rhythm is the owned hard tutor. It puts a creature with mana value ≤ X onto th
 - **X=4, go-wide / Wave / steal count:** Lathril. Tokens now, tap-ten later.
 - **X=4, they have creatures:** Morcant. Every later Elf ETB blights; tap three Elves to proliferate.
 - **X=3:** [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] if you have Wave and a board; [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]] if you need a token factory this turn.
-- **X=2:** [[02 Cards/Creatures/Reclamation Sage|Reclamation Sage]] for a problem artifact/enchantment; [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]] for two bodies.
+- **X=2:** [[02 Cards/Creatures/Reclamation Sage|Reclamation Sage]] for a problem artifact/enchantment; [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]] for two bodies; [[02 Cards/Creatures/Leaf-Crowned Visionary|Leaf-Crowned Visionary]] for a lord-plus-draw.
 - Harmonize later. Tap a pumped Elf (Archdruid / Banner / Imperious) to cut the generic. The Harmonize copy exiles, so the first cast is the one you can repeat.
 
 ## Key Synergies
@@ -65,7 +65,7 @@ Rhythm is the owned hard tutor. It puts a creature with mana value ≤ X onto th
 - **Default targets**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]], [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]]
 - **Ritual / tokens**: [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]
 - **Soft finder if you do not want to spend X**: [[02 Cards/Creatures/Eclipsed Elf|Eclipsed Elf]]
-- **Replay if they kill the tutor hit**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
+- **Replay if they kill the tutor hit**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]]
 
 ## Anti-synergies / Notes
 
