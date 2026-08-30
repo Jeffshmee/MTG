@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] |
 
 </div>
 
@@ -43,7 +43,7 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>231</td><td>—</td><td>1</td><td>Zurgo</td><td>0.14</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>231</td><td>—</td><td>1</td><td>Zurgo SB</td><td>0.14</td></tr>
 </tbody>
 </table>
 </div>
@@ -51,7 +51,7 @@
 
 ## In decks
 
-- [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
+- [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo — Sideboard]]
 
 ### Arts in this Collection
 
@@ -66,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Enchantment|Enchantment]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Enchantment|Enchantment]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo SB]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]]
 
 ---
 

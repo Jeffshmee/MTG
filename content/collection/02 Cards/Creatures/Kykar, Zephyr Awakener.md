@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Bird\|Bird]] · [[04 Creature Types/Wizard\|Wizard]] |
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations (<code>FDN</code>)</td><td>122</td><td>—</td><td>1</td><td>Box</td><td>0.24</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>122</td><td>—</td><td>1</td><td>Kykar</td><td>0.24</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -62,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Bird|Bird]] · [[04 Creature Types/Wizard|Wizard]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Bird|Bird]] · [[04 Creature Types/Wizard|Wizard]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]]
 
 ---
 

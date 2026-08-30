@@ -6,7 +6,7 @@ Lands with the Gate subtype.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Azorius Guildgate`**](https://scryfall.com/card/fdn/683) | [[02 Cards/Lands/Azorius Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 |
+| [**`mtg:Azorius Guildgate`**](https://scryfall.com/card/fdn/683) | [[02 Cards/Lands/Azorius Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
 | [**`mtg:Boros Guildgate`**](https://scryfall.com/card/fdn/684) | [[02 Cards/Lands/Boros Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.10 |
 | [**`mtg:Dimir Guildgate`**](https://scryfall.com/card/fdn/688) | [[02 Cards/Lands/Dimir Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
 | [**`mtg:Golgari Guildgate`**](https://scryfall.com/card/fdn/689) | [[02 Cards/Lands/Golgari Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.21 |

@@ -63,14 +63,14 @@ Bone Devourer is an owned cut — it is not in the 100. Flash in a flyer that en
 ## Play Patterns & Lines
 
 - Flash it after a Mobilize end-step wave or a Clamp/Caesar turn so the ETB counters are real. A 2/2 with zero deaths is a miss.
-- Cash it the same turn with [[02 Cards/Creatures/Viscera Seer|Viscera Seer]], [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni]], [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]], or [[02 Cards/Instants/Deadly Dispute|Deadly Dispute]] if you actually want the cards and can pay the life.
+- Cash it the same turn with [[02 Cards/Creatures/Viscera Seer|Viscera Seer]], [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni]], or [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]] if you actually want the cards and can pay the life.
 - Do not hold it as a 4-mana flyer. If Elas, Bastion, or Garna is the other card in hand, cast those.
 - Teysa does not help the ETB. She would double nothing until Bone Devourer itself dies.
 
 ## Key Synergies
 
 - **Deaths this turn**: [[02 Cards/Creatures/Zurgo Stormrender|Zurgo Stormrender]], [[02 Cards/Artifacts/Skullclamp|Skullclamp]], [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]], [[02 Cards/Creatures/Viscera Seer|Viscera Seer]]
-- **Cash the body**: [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni]], [[02 Cards/Instants/Deadly Dispute|Deadly Dispute]]
+- **Cash the body**: [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni]], [[02 Cards/Artifacts/Skullclamp|Skullclamp]]
 - **What replaced it**: [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas il-Kor]]
 
 ## Anti-synergies / Notes

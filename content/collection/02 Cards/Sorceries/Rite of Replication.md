@@ -5,7 +5,7 @@
 > **Mana Cost:** {2}{U}{U}
 > **Type:** Sorcery
 >
-> ![Rite of Replication](https://cards.scryfall.io/border_crop/front/5/0/5032d71d-d9f8-498c-97d1-271c2e9c1c47.jpg)
+> ![Rite of Replication](https://cards.scryfall.io/border_crop/front/f/e/fe98958d-30ee-4a47-aacc-064e02d109b3.jpg)
 
 <div class="collection-side-tables">
 
@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>202</td><td>—</td><td>1</td><td>Box</td><td>0.20</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>711</td><td>foil</td><td>1</td><td>Kykar</td><td>0.30</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -55,14 +59,14 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/5/0/5032d71d-d9f8-498c-97d1-271c2e9c1c47.jpg" alt="Rite of Replication SOC 202 · ×1">
-<figcaption>SOC 202 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/f/e/fe98958d-30ee-4a47-aacc-064e02d109b3.jpg" alt="Rite of Replication FDN 711 · ×1">
+<figcaption>FDN 711 · ×1</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/Blue|Blue]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/Blue|Blue]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]]
 
 ---
 
@@ -74,7 +78,7 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: "{2}{U}{U}"
 > cmc: 4
 > type: "Sorcery"
-> scryfall_id: 5032d71d-d9f8-498c-97d1-271c2e9c1c47
+> scryfall_id: fe98958d-30ee-4a47-aacc-064e02d109b3
 > quantity: 1
 > tags:
 >   - blue

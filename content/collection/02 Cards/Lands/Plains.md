@@ -20,7 +20,7 @@
 | **Land type** | [[06 Browse/Land Types/Plains\|Plains]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -30,7 +30,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 30/08/2026 | Booster haul |
 
 </div>
 
@@ -39,19 +39,24 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>25</div>
+<div class="synergy-score-num"><span>Copies</span>26</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>2</td><td>Box</td><td>0.05</td></tr>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>3</td><td>Box</td><td>0.12</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>8</td><td>Box</td><td>0.12</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>8</td><td>Box</td><td>0.08</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>2</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>7</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>7</td><td>Box</td><td>0.08</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>274</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.21</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>282</td><td>—</td><td>1</td><td>Zurgo</td><td>0.31</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>—</td><td>1</td><td>Zurgo</td><td>0.18</td></tr>
 <tr><td>Bloomburrow (<code>BLB</code>)</td><td>265</td><td>—</td><td>1</td><td>Zurgo</td><td>0.45</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>1</td><td>Kykar</td><td>0.05</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Kykar</td><td>0.13</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>1</td><td>Kykar</td><td>0.05</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>1</td><td>Kykar</td><td>0.10</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>1</td><td>Kykar</td><td>0.09</td></tr>
+<tr><td>The Hobbit (<code>HOB</code>)</td><td>194</td><td>—</td><td>1</td><td>Kykar</td><td>0.29</td></tr>
 </tbody>
 </table>
 </div>
@@ -60,6 +65,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -98,11 +104,15 @@ Printings in the collection. Infocard uses the most copies.
 <img src="https://cards.scryfall.io/border_crop/front/7/a/7a0f9892-89cd-46ff-bc87-114e175cb575.jpg" alt="Plains FDN 283 · ×1">
 <figcaption>FDN 283 · ×1</figcaption>
 </figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/2/4/24dc369c-020a-4115-a4bb-d60a44de64e3.jpg" alt="Plains HOB 194 · ×1">
+<figcaption>HOB 194 · ×1</figcaption>
+</figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/HOB|The Hobbit]]
 
 ---
 
@@ -115,7 +125,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Plains"
 > scryfall_id: 4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3
-> quantity: 25
+> quantity: 26
 > tags:
 >   - card
 >   - collection

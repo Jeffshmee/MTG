@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Goblin-town`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** —  
 > **Type:** Land
 >
@@ -54,7 +54,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Deck Role & Rating
 
-Goblin-town is a tapped BR land that can pay {2}{B}{R} and sacrifice itself to put two +1/+1 counters on a Goblin or Orc — Zurgo or Redoubled Stormsinger, at sorcery speed. Live in the 100. The physical [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] is in Maralen; the extra Path is Ordered. Combined 56 is the weakest land — this swap is inventory, not a score upgrade.
+Goblin-town is a tapped BR land that can pay {2}{B}{R} and sacrifice itself to put two +1/+1 counters on a Goblin or Orc — Zurgo or Redoubled Stormsinger, at sorcery speed. [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] took this slot. Owned cut; not in the 100. Combined 56 is the weakest land — inventory, not a score fight.
 
 ## Play Patterns & Lines
 
@@ -65,11 +65,11 @@ Goblin-town is a tapped BR land that can pay {2}{B}{R} and sacrifice itself to p
 ## Key Synergies
 
 - **Orc / Goblin targets**: [[02 Cards/Creatures/Zurgo Stormrender|Zurgo Stormrender]], [[02 Cards/Creatures/Redoubled Stormsinger|Redoubled Stormsinger]], [[02 Cards/Creatures/Nightblade Brigade|Nightblade Brigade]], [[02 Cards/Creatures/Legion Warboss|Legion Warboss]]
-- **Same-slot land (Ordered, extra copy incoming)**: [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]]
+- **Same-slot land (live)**: [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]]
 
 ## Anti-synergies / Notes
 
-- Live in the 100. Path of Ancestry is Ordered (incoming copy). Combined 56 is a power-down vs Path 81.
+- Owned cut for Path of Ancestry. Combined 56 is a power-down vs Path 81.
 - Sorcery speed. Cannot pump Zurgo in combat or in response to removal.
 - Misses Humans, Oxen, Demons, Soldiers — most of the 100 is not a legal target.
 - Always enters tapped. Four-mana activation plus a land is a bad rate.
@@ -92,7 +92,7 @@ Goblin-town is a tapped BR land that can pay {2}{B}{R} and sacrifice itself to p
 > colors: []
 > color_identity: ["B", "R"]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 58
 >   deck_specific: 55
@@ -100,7 +100,7 @@ Goblin-town is a tapped BR land that can pay {2}{B}{R} and sacrifice itself to p
 > scryfall_id: d76df9d0-56cf-4351-a5e8-e6ae6fc791d1
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - land
 > ```
 

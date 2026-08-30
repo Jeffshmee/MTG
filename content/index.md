@@ -12,3 +12,4 @@ Notes live in the Obsidian vaults. This site is a public view of decks and the c
 
 - [[commander/zurgo/index|Zurgo Stormrender]]
 - [[commander/maralen/index|Maralen, Fae Ascendant]]
+- [[commander/kykar/index|Kykar, Zephyr Awakener]]

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Thunder of Unity`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {R}{W}{B}  
 > **Type:** Enchantment — Saga  
 >
@@ -56,21 +56,25 @@ II, III — Whenever a creature you control enters this turn, each [[03 Effects/
 
 ## Deck Role & Rating
 
-Thunder of Unity is a main-deck enchantment.  
+Thunder of Unity is a three-mana Saga: chapter I draws two and you lose 2; chapters II and III drain on creature ETBs that turn. [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] took this slot — a Goblin per nontoken attacker is the better three-mana enchantment for this list. Owned cut; not in the 100. Combined 78 vs Ascendancy 83. Chapter I was the real card (two cards); the drain chapters duplicate [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]] / [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas]] and expire when the Saga leaves.
 
 ## Play Patterns & Lines
 
+- Chapter I on an empty board is still two cards. Cast it when you can spend the cards the same turn, not as a setup spell you hope to stack later.
+- Chapters II and III want a wave the same turn: Zurgo attack, Adeline, Hero, Clamp deaths that make more bodies. Do not fire it into a dead board and wait.
 - Use spare Mobilize tokens as fodder. Deaths still pay [[02 Cards/Creatures/Zurgo Stormrender|Zurgo Stormrender]] and [[02 Cards/Artifacts/Skullclamp|Skullclamp]].
-- Hold it for a turn you are already making or sacrificing tokens so the draw stacks with Zurgo.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Zurgo Stormrender|Zurgo Stormrender]]
+- **ETB drain already better in the 100**: [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]], [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas il-Kor]]
 - **Death engines**: [[02 Cards/Creatures/Teysa Karlov|Teysa Karlov]], [[02 Cards/Creatures/Viscera Seer|Viscera Seer]], [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni]], [[02 Cards/Artifacts/Skullclamp|Skullclamp]]
 
 ## Anti-synergies / Notes
 
-- Not a reason to keep Zurgo off the battlefield. The deck still needs the commander.
+- Owned cut for Mardu Ascendancy. Not in this 100.
+- Saga leaves after III. The drain is not a permanent engine.
+- Teysa does not double chapter II/III — those are ETB, not dies.
 
 ## Related Pages
 
@@ -90,7 +94,7 @@ Thunder of Unity is a main-deck enchantment.
 > colors: ["B", "R", "W"]
 > color_identity: ["B", "R", "W"]
 > keywords: []
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 74
 >   deck_specific: 80
@@ -98,7 +102,7 @@ Thunder of Unity is a main-deck enchantment.
 > scryfall_id: 5c953b36-f5e4-4258-91cb-f07e799321f7
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - enchantment
 > ```
 

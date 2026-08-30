@@ -34,7 +34,6 @@ legality: commander
 1 Elvish Archdruid
 1 Glamermite
 1 Imperious Perfect
-1 Llanowar Visionary
 1 Marwyn, the Nurturer
 1 Mocking Sprite
 1 Morcant's Loyalist
@@ -51,6 +50,7 @@ legality: commander
 1 High Perfect Morcant
 1 Lathril, Blade of the Elves
 1 Shessra, Death's Whisper
+1 Thranduil, Sindarin Liege
 1 Wardens of the Cycle
 
 # Instants
@@ -86,7 +86,7 @@ legality: commander
 1 Breeding Pool
 1 Command Tower
 1 Eclipsed Realms
-12 Forest
+11 Forest
 6 Island
 1 Opulent Palace
 1 Overgrown Tomb
@@ -96,6 +96,7 @@ legality: commander
 1 Secluded Glen
 7 Swamp
 1 Three Tree City
+1 Wastewood Verge
 1 Watery Grave
 1 Yavimaya, Cradle of Growth
 ```
@@ -103,7 +104,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/current-deck.md`*
-*Last synced: 2026-08-24*
+*Last synced: 2026-08-30*
 
 ---
 
@@ -136,7 +137,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Glamermite|Glamermite]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
-- [[02 Cards/Creatures/Llanowar Visionary|Llanowar Visionary]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Creatures/Marwyn, the Nurturer|Marwyn, the Nurturer]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
 - [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
@@ -153,6 +153,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Shessra, Death's Whisper|Shessra, Death's Whisper]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>
+- [[02 Cards/Creatures/Thranduil, Sindarin Liege|Thranduil, Sindarin Liege]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Wardens of the Cycle|Wardens of the Cycle]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
 
@@ -199,5 +200,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Lands/Secluded Glen|Secluded Glen]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Lands/Swamp|Swamp]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
 - [[02 Cards/Lands/Three Tree City|Three Tree City]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
+- [[02 Cards/Lands/Wastewood Verge|Wastewood Verge]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Lands/Watery Grave|Watery Grave]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya, Cradle of Growth]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>

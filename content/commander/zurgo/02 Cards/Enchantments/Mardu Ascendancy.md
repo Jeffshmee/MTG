@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mardu Ascendancy`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {R}{W}{B}  
 > **Type:** Enchantment
 >
@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | On-theme Mardu enchantment with a panic fog |
-> | Deck-Specific | 86 | One attacking Goblin per nontoken attacker, cheap to leave up |
-> | **Combined** | **83** | Solid ordered token maker, not an engine on Isshin's level |
+> | General | 75 | On-theme Mardu enchantment with a panic fog |
+> | Deck-Specific | 88 | One attacking Goblin per nontoken attacker, cheap to leave up |
+> | **Combined** | **83** | Solid token maker, not an engine on Isshin's level |
 >
 > ### Classification
 >
@@ -52,7 +52,7 @@ Whenever a nontoken creature you control attacks, [[03 Effects/Create Token|crea
 ## Deck Role & Rating
 
 Mardu Ascendancy is a cheap go-wide enchantment.  
-Each nontoken attacker (Zurgo, Adeline, Hero, Packbeasts, Caesar) makes an attacking Goblin. Those Goblins feed Zurgo when they leave and complete Belladonna / Impact Tremors loops.
+Each nontoken attacker (Zurgo, Adeline, Hero, Packbeasts, Caesar) makes an attacking Goblin. Those Goblins feed Zurgo when they leave and complete Belladonna / Impact Tremors / Boggart loops. Live in the 100 over [[02 Cards/Enchantments/Thunder of Unity|Thunder of Unity]] — a Goblin per attacker beats a three-chapter drain saga. The sac is a one-shot +0/+3 against damage-based wipes, not a win condition.
 
 ## Play Patterns & Lines
 
@@ -91,15 +91,15 @@ Each nontoken attacker (Zurgo, Adeline, Hero, Packbeasts, Caesar) makes an attac
 > colors: [R, W, B]
 > color_identity: [R, W, B]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
->   general: 80
->   deck_specific: 86
+>   general: 75
+>   deck_specific: 88
 >   combined: 83
 > scryfall_id: 02bc2415-b1d1-467a-9578-3948dda166cf
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 >   - mardu
 >   - token

@@ -30,7 +30,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 30/08/2026 | Booster haul |
 
 </div>
 
@@ -39,21 +39,23 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>21</div>
+<div class="synergy-score-num"><span>Copies</span>23</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Bloomburrow (<code>BLB</code>)</td><td>278</td><td>—</td><td>1</td><td>Box</td><td>0.23</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>291</td><td>—</td><td>1</td><td>Box</td><td>0.21</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>280</td><td>—</td><td>1</td><td>Box</td><td>0.06</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>280</td><td>—</td><td>2</td><td>Box</td><td>0.06</td></tr>
 <tr><td>Dragons of Tarkir (<code>DTK</code>)</td><td>263</td><td>—</td><td>1</td><td>Box</td><td>0.07</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>281</td><td>—</td><td>5</td><td>Box</td><td>0.11</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>273</td><td>—</td><td>1</td><td>Maralen</td><td>0.11</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>280</td><td>—</td><td>7</td><td>Maralen</td><td>0.06</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>280</td><td>—</td><td>6</td><td>Maralen</td><td>0.06</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>281</td><td>—</td><td>2</td><td>Maralen</td><td>0.11</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>291</td><td>—</td><td>1</td><td>Maralen</td><td>0.21</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>—</td><td>1</td><td>Maralen</td><td>0.17</td></tr>
+<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>—</td><td>1</td><td>Box</td><td>0.20</td></tr>
+<tr><td>Avatar: The Last Airbender (<code>TLA</code>)</td><td>286</td><td>—</td><td>1</td><td>Box</td><td>0.08</td></tr>
 </tbody>
 </table>
 </div>
@@ -96,11 +98,19 @@ Printings in the collection. Infocard uses the most copies.
 <img src="https://cards.scryfall.io/border_crop/front/b/b/bbbeb57d-5fa0-4ff7-b5e8-caafc139669b.jpg" alt="Forest FDN 290 · ×1">
 <figcaption>FDN 290 · ×1</figcaption>
 </figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/c/5/c52038c8-5bba-4d8e-845f-30af44300acc.jpg" alt="Forest FIN 308 · ×1">
+<figcaption>FIN 308 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/a/3/a305e44f-4253-4754-b83f-1e34103d77b0.jpg" alt="Forest TLA 286 · ×1">
+<figcaption>TLA 286 · ×1</figcaption>
+</figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]]
 
 ---
 
@@ -113,7 +123,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Forest"
 > scryfall_id: d232fcc2-12f6-401a-b1aa-ddff11cb9378
-> quantity: 21
+> quantity: 23
 > tags:
 >   - card
 >   - collection

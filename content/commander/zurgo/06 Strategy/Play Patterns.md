@@ -4,7 +4,7 @@ How this list is supposed to play. Commander is [[02 Cards/Creatures/Zurgo Storm
 
 See also [[06 Strategy/Win Conditions|Win Conditions]], [[06 Strategy/Playtest Notes|Playtest Notes]], and [[01 Deck/Current Deck|Current Deck]].
 
-**Status of this draft:** written against the current 100. Isshin, Teysa, Packbeasts, Bone-Cairn, Anim Pakal, Belladonna, Windcrag, and the shock/triome lands are live — including [[02 Cards/Lands/Sacred Foundry|Sacred Foundry]] over Temple of Triumph. Remaining ordered: [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]]. See [[01 Deck/Sideboard|Sideboard]].
+**Status of this draft:** written against the current 100. Isshin, Teysa, Packbeasts, Bone-Cairn, Anim Pakal, Belladonna, Windcrag, Sacred Foundry, [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] (over Thunder of Unity), and [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] (over Goblin-town) are live. [[02 Cards/Creatures/Kambal, Profiteering Mayor|Kambal]] stays on the sideboard as a token-matchup sleeve. See [[01 Deck/Sideboard|Sideboard]].
 
 ---
 
@@ -54,7 +54,7 @@ Once Zurgo is down, the default is **attack every turn**.
 Order of operations on a typical attack turn:
 
 1. Declare attackers (Zurgo plus whatever else can swing).
-2. Mobilize / Adeline / Hero / Legion Warboss / Caesar / Packbeasts / Anim Pakal tokens enter → Impact Tremors, Elas lifegain, Goldnight pump, Belladonna ladder.
+2. Mobilize / Adeline / Hero / Legion Warboss / Caesar / Packbeasts / Anim Pakal / Ascendancy tokens enter → Impact Tremors, Elas lifegain, Goldnight pump, Belladonna ladder.
 3. Combat damage.
 4. End step: Mobilize tokens are sacrificed → Zurgo draws (they were attacking), Garna draws, Bastion / Boggart drain.
 
@@ -70,7 +70,7 @@ Order of operations on a typical attack turn:
 |----------|------|----------|
 | 1 | Commander + protection | [[02 Cards/Creatures/Zurgo Stormrender\|Zurgo]], [[02 Cards/Artifacts/Lightning Greaves\|Greaves]] |
 | 2 | Cheap payoffs | [[02 Cards/Enchantments/Impact Tremors\|Impact Tremors]], [[02 Cards/Artifacts/Skullclamp\|Skullclamp]], [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim\|Elas]] |
-| 3 | Attack engines | [[02 Cards/Creatures/Adeline, Resplendent Cathar\|Adeline]], [[02 Cards/Creatures/Hero of Bladehold\|Hero]], [[02 Cards/Creatures/Legion Warboss\|Legion Warboss]], [[02 Cards/Creatures/Caesar, Legion's Emperor\|Caesar]], [[02 Cards/Creatures/Dalkovan Packbeasts\|Packbeasts]], [[02 Cards/Creatures/Anim Pakal, Thousandth Moon\|Anim Pakal]] |
+| 3 | Attack engines | [[02 Cards/Creatures/Adeline, Resplendent Cathar\|Adeline]], [[02 Cards/Creatures/Hero of Bladehold\|Hero]], [[02 Cards/Creatures/Legion Warboss\|Legion Warboss]], [[02 Cards/Creatures/Caesar, Legion's Emperor\|Caesar]], [[02 Cards/Creatures/Dalkovan Packbeasts\|Packbeasts]], [[02 Cards/Creatures/Anim Pakal, Thousandth Moon\|Anim Pakal]], [[02 Cards/Enchantments/Mardu Ascendancy\|Mardu Ascendancy]] |
 | 4 | Death engines | [[02 Cards/Enchantments/Bastion of Remembrance\|Bastion]], [[02 Cards/Creatures/Garna, Bloodfist of Keld\|Garna]], [[02 Cards/Creatures/Teysa Karlov\|Teysa]] |
 | 5 | Multipliers / closers | [[02 Cards/Creatures/Isshin, Two Heavens as One\|Isshin]], [[02 Cards/Enchantments/Windcrag Siege\|Windcrag Siege]], [[02 Cards/Creatures/Aurelia, the Warleader\|Aurelia]], [[02 Cards/Enchantments/Divine Visitation\|Divine Visitation]], [[02 Cards/Enchantments/All-Out Assault\|All-Out Assault]] |
 
@@ -93,15 +93,31 @@ Point removal at the thing that **stops the attack** (tax, pillowfort, a sweeper
 
 **In the 100 now**
 
-- [[02 Cards/Creatures/Isshin, Two Heavens as One|Isshin]] and [[02 Cards/Enchantments/Windcrag Siege|Windcrag Siege]] (Mardu mode) double attack-caused triggers. Stack them: each trigger happens three times.
+- [[02 Cards/Creatures/Isshin, Two Heavens as One|Isshin]] and [[02 Cards/Enchantments/Windcrag Siege|Windcrag Siege]] (Mardu mode) double attack-caused triggers. Stack them: each trigger happens three times. That includes [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] (one Goblin per nontoken attacker, doubled).
 - [[02 Cards/Creatures/Teysa Karlov|Teysa]] doubles **dies** triggers. Mobilize end-step sacrifice **is** a death → Zurgo draws twice per token. Exile/bounce → Zurgo once only.
 - [[02 Cards/Creatures/Redoubled Stormsinger|Redoubled Stormsinger]] copies tokens that entered this turn when it attacks.
 - [[02 Cards/Creatures/Aurelia, the Warleader|Aurelia]] / [[02 Cards/Enchantments/All-Out Assault|All-Out Assault]] — extra combat, not a trigger doubler.
 - [[02 Cards/Planeswalkers/Kaya, Geist Hunter|Kaya]] −2 doubles the *number* of tokens created this turn.
 
-**Still ordered**
+---
 
-- [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] — a Goblin per nontoken attacker. Its old cut ([[02 Cards/Enchantments/Commander's Insignia|Commander's Insignia]]) already left for Windcrag. Needs a new named cut when it arrives.
+## Matchup sleeve — Kambal vs token decks
+
+[[02 Cards/Creatures/Kambal, Profiteering Mayor|Kambal, Profiteering Mayor]] stays in a sleeve on the [[01 Deck/Sideboard|Sideboard]]. He is **not** in the default 100 (Combined 74). Bring him in when an opponent’s main plan is making tokens.
+
+**Example:** Mark’s Spirit deck makes tokens as cards leave the graveyard to exile. That is one event with a pile of Spirits. Kambal copies each of them, tapped, once that turn. The copies cannot block the turn they enter. They untap on your turn, so they are equivalent blockers by the time those Spirits can attack — unless the tokens have haste or entered attacking. Flying Spirits copy as flying Spirits.
+
+The copies are *your* tokens: [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]] / [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas]] / [[02 Cards/Enchantments/Divine Visitation|Divine Visitation]] all see them. The grouped drain on *your* token ETBs is extra, not the reason to sleeve him.
+
+**What to take out (ranked)**
+
+1. **Default:** [[02 Cards/Creatures/Sandskitter Outrider|Sandskitter Outrider]] (76). Creature for creature. Four-mana filler with no unique job against their tokens. Least you give up.
+2. **If the table is token-heavy enough that a nontoken wipe does nothing to them:** [[02 Cards/Sorceries/Hour of Reckoning|Hour of Reckoning]] (82). Hour of Reckoning *leaves* Spirit tokens and can also eat your own nontoken engines. Keep it in if another player is a creature-heavy nontoken deck.
+3. **If the game will be over before seven mana matters:** [[02 Cards/Creatures/Myr Battlesphere|Myr Battlesphere]] (83). You want the three-mana hate bear, not a late wad of Myr, once they are already flooding.
+
+**Do not sleeve out:** Impact Tremors, Elas, Bastion, Goldnight, Divine Visitation, Greaves, attack engines, Path of Ancestry, Mardu Ascendancy.
+
+This is a pre-game swap, not a committed cut. After playtesting the matchup, a standing 100 change can be named later.
 
 ---
 

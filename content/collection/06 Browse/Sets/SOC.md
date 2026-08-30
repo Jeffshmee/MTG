@@ -2,7 +2,7 @@
 
 Set `SOC`. Qty here is copies of this name from this set.
 
-**31** copies · **27** names.
+**30** copies · **26** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -12,7 +12,7 @@ Set `SOC`. Qty here is copies of this name from this set.
 | [**`mtg:Clifftop Retreat`**](https://scryfall.com/card/soc/366) | [[02 Cards/Lands/Clifftop Retreat\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.31 |
 | [**`mtg:Fetid Heath`**](https://scryfall.com/card/soc/372) | [[02 Cards/Lands/Fetid Heath\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.49 |
 | [**`mtg:Isolated Chapel`**](https://scryfall.com/card/soc/382) | [[02 Cards/Lands/Isolated Chapel\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.44 |
-| [**`mtg:Path of Ancestry`**](https://scryfall.com/card/soc/393) | [[02 Cards/Lands/Path of Ancestry\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.12 |
+| [**`mtg:Path of Ancestry`**](https://scryfall.com/card/fic/411) | [[02 Cards/Lands/Path of Ancestry\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.12 |
 | [**`mtg:Rogue's Passage`**](https://scryfall.com/card/soc/400) | [[02 Cards/Lands/Rogue's Passage\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.42 |
 | [**`mtg:Temple of Epiphany`**](https://scryfall.com/card/soc/412) | [[02 Cards/Lands/Temple of Epiphany\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.23 |
 | [**`mtg:Temple of Malady`**](https://scryfall.com/card/soc/413) | [[02 Cards/Lands/Temple of Malady\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
@@ -28,8 +28,7 @@ Set `SOC`. Qty here is copies of this name from this set.
 | [**`mtg:Morbid Opportunist`**](https://scryfall.com/card/soc/219) | [[02 Cards/Creatures/Morbid Opportunist\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.22 |
 | [**`mtg:Patchwork Banner`**](https://scryfall.com/card/soc/353) | [[02 Cards/Artifacts/Patchwork Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 6.76 |
 | [**`mtg:Redoubled Stormsinger`**](https://scryfall.com/card/soc/251) | [[02 Cards/Creatures/Redoubled Stormsinger\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
-| [**`mtg:Tocasia's Welcome`**](https://scryfall.com/card/soc/181) | [[02 Cards/Enchantments/Tocasia's Welcome\|PAGE]] | {2}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.80 |
+| [**`mtg:Tocasia's Welcome`**](https://scryfall.com/card/soc/181) | [[02 Cards/Enchantments/Tocasia's Welcome\|PAGE]] | {2}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.83 |
 | [**`mtg:Yahenni, Undying Partisan`**](https://scryfall.com/card/soc/232) | [[02 Cards/Creatures/Yahenni, Undying Partisan\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Aetherborn\|Aetherborn]] [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.24 |
 | [**`mtg:Angelic Destiny`**](https://scryfall.com/card/soc/134) | [[02 Cards/Enchantments/Angelic Destiny\|PAGE]] | {2}{W}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.37 |
-| [**`mtg:Rite of Replication`**](https://scryfall.com/card/soc/202) | [[02 Cards/Sorceries/Rite of Replication\|PAGE]] | {2}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.20 |
 | [**`mtg:Sun Titan`**](https://scryfall.com/card/soc/178) | [[02 Cards/Creatures/Sun Titan\|PAGE]] | {4}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Giant\|Giant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.25 |

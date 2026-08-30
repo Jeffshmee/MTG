@@ -30,7 +30,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 30/08/2026 | Booster haul |
 
 </div>
 
@@ -39,7 +39,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>26</div>
+<div class="synergy-score-num"><span>Copies</span>27</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -57,6 +57,7 @@
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>282</td><td>—</td><td>1</td><td>Zurgo</td><td>0.23</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>1</td><td>Zurgo</td><td>0.24</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>286</td><td>—</td><td>1</td><td>Zurgo</td><td>0.67</td></tr>
+<tr><td>The Hobbit (<code>HOB</code>)</td><td>191</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
 </tbody>
 </table>
 </div>
@@ -104,11 +105,15 @@ Printings in the collection. Infocard uses the most copies.
 <img src="https://cards.scryfall.io/border_crop/front/6/f/6f23a73a-522b-40cf-a14b-ffdf47a24c01.jpg" alt="Swamp FDN 286 · ×1">
 <figcaption>FDN 286 · ×1</figcaption>
 </figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/4/0/4031e5e4-e573-4130-8d20-4a606edef0a0.jpg" alt="Swamp HOB 191 · ×1">
+<figcaption>HOB 191 · ×1</figcaption>
+</figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]]
 
 ---
 
@@ -121,7 +126,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Swamp"
 > scryfall_id: 13505c15-14e0-4200-82bd-fb9bce949e68
-> quantity: 26
+> quantity: 27
 > tags:
 >   - card
 >   - collection

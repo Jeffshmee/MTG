@@ -20,7 +20,7 @@
 | **Land type** | [[06 Browse/Land Types/Island\|Island]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {U} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -30,7 +30,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 30/08/2026 | Booster haul |
 
 </div>
 
@@ -39,19 +39,21 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>23</div>
+<div class="synergy-score-num"><span>Copies</span>24</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>270</td><td>—</td><td>1</td><td>Box</td><td>0.08</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.23</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>284</td><td>—</td><td>1</td><td>Box</td><td>0.14</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>5</td><td>Box</td><td>0.09</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>9</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>4</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>280</td><td>—</td><td>1</td><td>Maralen</td><td>0.22</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>273</td><td>—</td><td>1</td><td>Maralen</td><td>0.47</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>4</td><td>Maralen</td><td>0.09</td></tr>
+<tr><td>The Hobbit (<code>HOB</code>)</td><td>190</td><td>—</td><td>1</td><td>Kykar</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>5</td><td>Kykar</td><td>0.08</td></tr>
+<tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>270</td><td>—</td><td>1</td><td>Kykar</td><td>0.07</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>284</td><td>—</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
 </tbody>
 </table>
 </div>
@@ -60,6 +62,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -91,6 +94,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>FDN 285 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/c/6/c6aa89a8-3584-4906-b9a9-41ef2f021f8e.jpg" alt="Island HOB 190 · ×1">
+<figcaption>HOB 190 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/4/2/4208e66c-8c98-4c48-ab07-8523c0b26ca4.jpg" alt="Island TDM 273 · ×1">
 <figcaption>TDM 273 · ×1</figcaption>
 </figure>
@@ -98,7 +105,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Island|Island]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Island|Island]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/HOB|The Hobbit]]
 
 ---
 
@@ -111,7 +118,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Island"
 > scryfall_id: 17e2b637-72b1-4457-aaba-66d51107be4c
-> quantity: 23
+> quantity: 24
 > tags:
 >   - card
 >   - collection

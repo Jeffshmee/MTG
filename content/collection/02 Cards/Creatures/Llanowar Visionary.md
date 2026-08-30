@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Elf\|Elf]] · [[04 Creature Types/Druid\|Druid]] |
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen SB\|Maralen SB]] |
 
 </div>
 
@@ -43,7 +43,7 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Core Set 2021 (<code>M21</code>)</td><td>193</td><td>—</td><td>1</td><td>Maralen</td><td>0.16</td></tr>
+<tr><td>Core Set 2021 (<code>M21</code>)</td><td>193</td><td>—</td><td>1</td><td>Maralen SB</td><td>0.16</td></tr>
 </tbody>
 </table>
 </div>
@@ -51,7 +51,7 @@
 
 ## In decks
 
-- [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
+- [[06 Browse/Decks/Maralen Deck/Maralen SB|Maralen — Sideboard]]
 
 ### Arts in this Collection
 
@@ -66,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Druid|Druid]] · [[05 Colours/Green|Green]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/M21|Core Set 2021]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Druid|Druid]] · [[05 Colours/Green|Green]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Maralen Deck/Maralen SB|Maralen SB]] · [[06 Browse/Sets/M21|Core Set 2021]]
 
 ---
 

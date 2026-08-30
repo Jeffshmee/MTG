@@ -30,7 +30,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 30/08/2026 | Booster haul |
 
 </div>
 
@@ -39,13 +39,14 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>3</div>
+<div class="synergy-score-num"><span>Copies</span>4</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>269</td><td>—</td><td>2</td><td>Box</td><td>0.07</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>269</td><td>—</td><td>1</td><td>Maralen SB</td><td>0.07</td></tr>
+<tr><td>Aetherdrift (<code>DFT</code>)</td><td>266</td><td>—</td><td>1</td><td>Box</td><td>0.06</td></tr>
 </tbody>
 </table>
 </div>
@@ -64,11 +65,15 @@ Printings in the collection. Infocard uses the most copies.
 <img src="https://cards.scryfall.io/border_crop/front/4/2/42799f51-0f8c-444b-974e-dae281a5c697.jpg" alt="Thornwood Falls FDN 269 · ×3">
 <figcaption>FDN 269 · ×3</figcaption>
 </figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/4/7/4723a303-7f20-4399-8bc6-6a27a61a3532.jpg" alt="Thornwood Falls DFT 266 · ×1">
+<figcaption>DFT 266 · ×1</figcaption>
+</figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen SB|Maralen SB]] · [[06 Browse/Sets/FDN|Foundations]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen SB|Maralen SB]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DFT|Aetherdrift]]
 
 ---
 
@@ -81,7 +86,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Land"
 > scryfall_id: 42799f51-0f8c-444b-974e-dae281a5c697
-> quantity: 3
+> quantity: 4
 > tags:
 >   - card
 >   - collection

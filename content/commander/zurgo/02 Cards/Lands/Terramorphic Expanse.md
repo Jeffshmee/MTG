@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-Terramorphic Expanse is a slow fetch that finds a basic tapped. Savai Triome took this slot. Owned cut; not in the 100.
+Terramorphic Expanse is a slow fetch that finds a basic tapped. Savai Triome took this slot. The physical copy moved to Kykar — no Zurgo SB copy remains.
 
 ## Play Patterns & Lines
 

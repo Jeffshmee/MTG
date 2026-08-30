@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Path of Ancestry`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> ![Path](https://cards.scryfall.io/border_crop/front/b/1/b1aaa7b0-1cac-4a92-b880-7ef1ac00618f.jpg)
+> ![Path](https://cards.scryfall.io/border_crop/front/4/d/4dd83a5d-1908-4141-8449-fac5e77cd6c0.jpg)
 >
 > ### Deck Scores
 >
@@ -45,13 +45,13 @@
 
 This land [[03 Effects/Enters Tapped|enters tapped]].
 
-[[03 Effects/Add Mana|{T}: Add one mana of any color in your commander's color identity]]. When that mana is spent to cast a creature spell that shares a creature type with your commander, [[03 Effects/Scry|scry]] 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: [[03 Effects/Add Mana|Add]] one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, [[03 Effects/Scry|scry]] 1. (Look at the top card of your library. You may put that card on the bottom.)
 
 ---
 
 ## Deck Role & Rating
 
-Path of Ancestry is the tapped Mardu fixer: any colour in Zurgo’s identity, plus scry 1 when that mana casts an Orc or Warrior. Ordered — extra copy incoming. The physical printing is in Maralen. [[02 Cards/Lands/Goblin-town|Goblin-town]] holds this slot until that copy arrives. Combined 81 vs Goblin-town 56.  
+Path of Ancestry is the tapped Mardu fixer: any colour in Zurgo’s identity, plus scry 1 when that mana casts an Orc or Warrior. Live in the 100 (FIC 411) over [[02 Cards/Lands/Goblin-town|Goblin-town]]. Maralen keeps the SOC printing. Combined 81 vs Goblin-town 56 — inventory upgrade, not a new engine.  
 
 ## Play Patterns & Lines
 
@@ -67,7 +67,6 @@ Path of Ancestry is the tapped Mardu fixer: any colour in Zurgo’s identity, pl
 ## Anti-synergies / Notes
 
 - Tapped ETB can miss a turn-3 Zurgo if the rest of the opener is also slow.
-- Ordered. Not in this 100. Goblin-town is live. When the extra copy is in hand, the named cut back in is Goblin-town.
 
 ## Related Pages
 
@@ -87,15 +86,15 @@ Path of Ancestry is the tapped Mardu fixer: any colour in Zurgo’s identity, pl
 > colors: []
 > color_identity: []
 > keywords: ["Scry"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 82
 >   combined: 81
-> scryfall_id: b1aaa7b0-1cac-4a92-b880-7ef1ac00618f
+> scryfall_id: 4dd83a5d-1908-4141-8449-fac5e77cd6c0
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

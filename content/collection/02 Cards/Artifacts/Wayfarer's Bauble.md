@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>335</td><td>—</td><td>1</td><td>Box</td><td>0.21</td></tr>
+<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>335</td><td>—</td><td>1</td><td>Kykar</td><td>0.22</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -62,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
 
 ---
 

@@ -2,57 +2,57 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**57** copies · **50** names.
+**55** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
-| 24/08/2026 | [**`mtg:Leaf-Crowned Visionary`**](https://scryfall.com/card/dmu/167) | [[02 Cards/Creatures/Leaf-Crowned Visionary\|PAGE]] | 1 |
-| 24/08/2026 | [**`mtg:Sacred Foundry`**](https://scryfall.com/card/gtc/245) | [[02 Cards/Lands/Sacred Foundry\|PAGE]] | 1 |
-| 23/08/2026 | [**`mtg:Circle of Dreams Druid`**](https://scryfall.com/card/afr/176) | [[02 Cards/Creatures/Circle of Dreams Druid\|PAGE]] | 1 |
-| 23/08/2026 | [**`mtg:Faerie Mastermind`**](https://scryfall.com/card/mom/58) | [[02 Cards/Creatures/Faerie Mastermind\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Alela, Cunning Conqueror`**](https://scryfall.com/card/woc/3) | [[02 Cards/Creatures/Alela, Cunning Conqueror\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | 4 |
-| 21/08/2026 | [**`mtg:Breeding Pool`**](https://scryfall.com/card/eoe/278) | [[02 Cards/Lands/Breeding Pool\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Champions of the Perfect`**](https://scryfall.com/card/ecl/171) | [[02 Cards/Creatures/Champions of the Perfect\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Cloud of Faeries`**](https://scryfall.com/card/dmr/43) | [[02 Cards/Creatures/Cloud of Faeries\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Distant Melody`**](https://scryfall.com/card/ecc/45) | [[02 Cards/Sorceries/Distant Melody\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Elves of Deep Shadow`**](https://scryfall.com/card/gk1/56) | [[02 Cards/Creatures/Elves of Deep Shadow\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Farseek`**](https://scryfall.com/card/msc/173) | [[02 Cards/Sorceries/Farseek\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Heroic Intervention`**](https://scryfall.com/card/cmm/295) | [[02 Cards/Instants/Heroic Intervention\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | 2 |
-| 21/08/2026 | [**`mtg:Maraleaf Pixie`**](https://scryfall.com/card/eld/196) | [[02 Cards/Creatures/Maraleaf Pixie\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Priest of Titania`**](https://scryfall.com/card/mh3/286) | [[02 Cards/Creatures/Priest of Titania\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Scion of Oona`**](https://scryfall.com/card/woc/109) | [[02 Cards/Creatures/Scion of Oona\|PAGE]] | 1 |
-| 21/08/2026 | [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | 4 |
-| 21/08/2026 | [**`mtg:Watery Grave`**](https://scryfall.com/card/eoe/286) | [[02 Cards/Lands/Watery Grave\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Aid from the Cowl`**](https://scryfall.com/card/moc/290) | [[02 Cards/Enchantments/Aid from the Cowl\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Anim Pakal, Thousandth Moon`**](https://scryfall.com/card/lci/223) | [[02 Cards/Creatures/Anim Pakal, Thousandth Moon\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Assassin's Trophy`**](https://scryfall.com/card/acr/95) | [[02 Cards/Instants/Assassin's Trophy\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Beast Whisperer`**](https://scryfall.com/card/clu/158) | [[02 Cards/Creatures/Beast Whisperer\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Belladonna Took`**](https://scryfall.com/card/hob/214) | [[02 Cards/Creatures/Belladonna Took\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Blood Crypt`**](https://scryfall.com/card/rtr/238) | [[02 Cards/Lands/Blood Crypt\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Bone-Cairn Butcher`**](https://scryfall.com/card/tdm/173) | [[02 Cards/Creatures/Bone-Cairn Butcher\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Confounding Riddle`**](https://scryfall.com/card/lci/50) | [[02 Cards/Instants/Confounding Riddle\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Dalkovan Packbeasts`**](https://scryfall.com/card/tdm/7) | [[02 Cards/Creatures/Dalkovan Packbeasts\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Elvish Warmaster`**](https://scryfall.com/card/khm/167) | [[02 Cards/Creatures/Elvish Warmaster\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Godless Shrine`**](https://scryfall.com/card/rna/248) | [[02 Cards/Lands/Godless Shrine\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:High Fae Trickster`**](https://scryfall.com/card/fdn/40) | [[02 Cards/Creatures/High Fae Trickster\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Isshin, Two Heavens as One`**](https://scryfall.com/card/neo/224) | [[02 Cards/Creatures/Isshin, Two Heavens as One\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Leyline of Anticipation`**](https://scryfall.com/card/wot/23) | [[02 Cards/Enchantments/Leyline of Anticipation\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Marwyn, the Nurturer`**](https://scryfall.com/card/khc/68) | [[02 Cards/Creatures/Marwyn, the Nurturer\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Morcant's Eyes`**](https://scryfall.com/card/ecl/185) | [[02 Cards/Enchantments/Morcant's Eyes\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Obyra, Dreaming Duelist`**](https://scryfall.com/card/woe/210) | [[02 Cards/Creatures/Obyra, Dreaming Duelist\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Path of Ancestry`**](https://scryfall.com/card/soc/393) | [[02 Cards/Lands/Path of Ancestry\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Savai Triome`**](https://scryfall.com/card/iko/312) | [[02 Cards/Lands/Savai Triome\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Secluded Glen`**](https://scryfall.com/card/woc/166) | [[02 Cards/Lands/Secluded Glen\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Shocking Sharpshooter`**](https://scryfall.com/card/tdm/121) | [[02 Cards/Creatures/Shocking Sharpshooter\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Spellstutter Sprite`**](https://scryfall.com/card/mma/65) | [[02 Cards/Creatures/Spellstutter Sprite\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Tegwyll, Duke of Splendor`**](https://scryfall.com/card/woc/1) | [[02 Cards/Creatures/Tegwyll, Duke of Splendor\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Teysa Karlov`**](https://scryfall.com/card/cmm/688) | [[02 Cards/Creatures/Teysa Karlov\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Three Tree City`**](https://scryfall.com/card/blb/260) | [[02 Cards/Lands/Three Tree City\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Wilderness Reclamation`**](https://scryfall.com/card/dsc/205) | [[02 Cards/Enchantments/Wilderness Reclamation\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Windcrag Siege`**](https://scryfall.com/card/tdm/392) | [[02 Cards/Enchantments/Windcrag Siege\|PAGE]] | 1 |
-| 20/08/2026 | [**`mtg:Yavimaya, Cradle of Growth`**](https://scryfall.com/card/m3c/409) | [[02 Cards/Lands/Yavimaya, Cradle of Growth\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Academy Journeymage`**](https://scryfall.com/card/dom/41) | [[02 Cards/Creatures/Academy Journeymage\|PAGE]] | 2 |
+| 30/08/2026 | [**`mtg:Accumulate Wisdom`**](https://scryfall.com/card/tla/44) | [[02 Cards/Instants/Accumulate Wisdom\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Adventurer's Inn`**](https://scryfall.com/card/fin/271) | [[02 Cards/Lands/Adventurer's Inn\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Aether Channeler`**](https://scryfall.com/card/pdmu/42s) | [[02 Cards/Creatures/Aether Channeler\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Alacrian Jaguar`**](https://scryfall.com/card/dft/152) | [[02 Cards/Creatures/Alacrian Jaguar\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Ally`**](https://scryfall.com/card/ttla/8) | [[02 Cards/Tokens/Ally\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Angelo`**](https://scryfall.com/card/tfin/19) | [[02 Cards/Tokens/Angelo\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Anthropede`**](https://scryfall.com/card/dsk/167) | [[02 Cards/Creatures/Anthropede\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Apothecary Geist`**](https://scryfall.com/card/inr/10) | [[02 Cards/Creatures/Apothecary Geist\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Ashe, Princess of Dalmasca`**](https://scryfall.com/card/fin/7) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Azula Always Lies`**](https://scryfall.com/card/tla/84) | [[02 Cards/Instants/Azula Always Lies\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Azula, On the Hunt`**](https://scryfall.com/card/tla/85) | [[02 Cards/Creatures/Azula, On the Hunt\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Balemurk Leech`**](https://scryfall.com/card/dsk/84) | [[02 Cards/Creatures/Balemurk Leech\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Baseball Bat`**](https://scryfall.com/card/dsk/209) | [[02 Cards/Artifacts/Baseball Bat\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bashful Beastie`**](https://scryfall.com/card/dsk/169) | [[02 Cards/Creatures/Bashful Beastie\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bear Trap`**](https://scryfall.com/card/dsk/243) | [[02 Cards/Artifacts/Bear Trap\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Beastrider Vanguard`**](https://scryfall.com/card/dft/154) | [[02 Cards/Creatures/Beastrider Vanguard\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bedhead Beastie`**](https://scryfall.com/card/dsk/125) | [[02 Cards/Creatures/Bedhead Beastie\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bejeweled Warg`**](https://scryfall.com/card/hob/117) | [[02 Cards/Creatures/Bejeweled Warg\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Beorn, Reluctant Host`**](https://scryfall.com/card/hob/118) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | 2 |
+| 30/08/2026 | [**`mtg:Betrayer's Bargain`**](https://scryfall.com/card/dsk/126) | [[02 Cards/Instants/Betrayer's Bargain\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bifur, Melodic Rider`**](https://scryfall.com/card/hob/147) | [[02 Cards/Creatures/Bifur, Melodic Rider\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bilbo Baggins, Burglar`**](https://scryfall.com/card/hob/34) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | 2 |
+| 30/08/2026 | [**`mtg:Bilbo's Deadly Slice`**](https://scryfall.com/card/hob/62) | [[02 Cards/Instants/Bilbo's Deadly Slice\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Blink of an Eye`**](https://scryfall.com/card/dom/46) | [[02 Cards/Instants/Blink of an Eye\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Boar-q-pine`**](https://scryfall.com/card/tla/124) | [[02 Cards/Creatures/Boar-q-pine\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bolg of the North`**](https://scryfall.com/card/hob/148) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bombur, Gentle Dreamer`**](https://scryfall.com/card/hob/88) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Boosted Sloop`**](https://scryfall.com/card/dft/190) | [[02 Cards/Artifacts/Boosted Sloop\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bottomless Pool`**](https://scryfall.com/card/dsk/43) | [[02 Cards/Enchantments/Bottomless Pool\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Brightfield Glider`**](https://scryfall.com/card/dft/4) | [[02 Cards/Creatures/Brightfield Glider\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Bumi Bash`**](https://scryfall.com/card/tla/125) | [[02 Cards/Sorceries/Bumi Bash\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Burner Rocket`**](https://scryfall.com/card/dft/114) | [[02 Cards/Artifacts/Burner Rocket\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Cackling Slasher`**](https://scryfall.com/card/dsk/85) | [[02 Cards/Creatures/Cackling Slasher\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Call to Heel`**](https://scryfall.com/card/bbd/114) | [[02 Cards/Instants/Call to Heel\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Camera Launcher`**](https://scryfall.com/card/dft/232) | [[02 Cards/Creatures/Camera Launcher\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Canyon Crawler`**](https://scryfall.com/card/tla/90) | [[02 Cards/Creatures/Canyon Crawler\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Cautious Survivor`**](https://scryfall.com/card/dsk/172) | [[02 Cards/Creatures/Cautious Survivor\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Celebrate the Mountain-king`**](https://scryfall.com/card/hob/7) | [[02 Cards/Enchantments/Celebrate the Mountain-king\|PAGE]] | 3 |
+| 30/08/2026 | [**`mtg:Chillbringer`**](https://scryfall.com/card/rna/33) | [[02 Cards/Creatures/Chillbringer\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Clammy Prowler`**](https://scryfall.com/card/dsk/45) | [[02 Cards/Creatures/Clammy Prowler\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Clockwork Percussionist`**](https://scryfall.com/card/dsk/130) | [[02 Cards/Creatures/Clockwork Percussionist\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Cloudkin Seer`**](https://scryfall.com/card/clu/82) | [[02 Cards/Creatures/Cloudkin Seer\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Cloudspire Coordinator`**](https://scryfall.com/card/dft/196) | [[02 Cards/Creatures/Cloudspire Coordinator\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Clue`**](https://scryfall.com/card/ttla/16) | [[02 Cards/Tokens/Clue\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Combustion Man`**](https://scryfall.com/card/tla/127) | [[02 Cards/Creatures/Combustion Man\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Commune with Evil`**](https://scryfall.com/card/dsk/87) | [[02 Cards/Sorceries/Commune with Evil\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Confusticate and Bebother`**](https://scryfall.com/card/hob/35) | [[02 Cards/Instants/Confusticate and Bebother\|PAGE]] | 1 |
+| 30/08/2026 | [**`mtg:Cult Healer`**](https://scryfall.com/card/dsk/2) | [[02 Cards/Creatures/Cult Healer\|PAGE]] | 1 |

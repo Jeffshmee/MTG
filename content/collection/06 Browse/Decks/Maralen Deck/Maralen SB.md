@@ -2,7 +2,7 @@
 
 Copies in **Maralen SB**.
 
-**21** copies · **21** names.
+**22** copies · **22** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -23,6 +23,7 @@ Copies in **Maralen SB**.
 | [**`mtg:Elvish Rejuvenator`**](https://scryfall.com/card/m3c/226) | [[02 Cards/Creatures/Elvish Rejuvenator\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Highspire Artisan`**](https://scryfall.com/card/kld/157) | [[02 Cards/Creatures/Highspire Artisan\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Llanowar Envoy`**](https://scryfall.com/card/dom/169) | [[02 Cards/Creatures/Llanowar Envoy\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
+| [**`mtg:Llanowar Visionary`**](https://scryfall.com/card/m21/193) | [[02 Cards/Creatures/Llanowar Visionary\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.16 |
 | [**`mtg:Tajuru Snarecaster`**](https://scryfall.com/card/znr/210) | [[02 Cards/Creatures/Tajuru Snarecaster\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Elvish Regrower`**](https://scryfall.com/card/fdn/104) | [[02 Cards/Creatures/Elvish Regrower\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.09 |
 | [**`mtg:Illusion Spinners`**](https://scryfall.com/card/ecl/55) | [[02 Cards/Creatures/Illusion Spinners\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.04 |

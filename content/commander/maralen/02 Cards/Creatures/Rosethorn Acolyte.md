@@ -27,7 +27,7 @@
 > | Category | Links |
 > |----------|-------|
 > | **Colours** | [[05 Colours/Green\|Green]] |
-> | **Type** | [[04 Types/Creature\|Creature]] · [[04 Types/Elf\|Elf]] · [[04 Types/Druid\|Druid]] |
+> | **Type** | [[04 Types/Creature\|Creature]] · [[04 Types/Elf\|Elf]] · [[04 Types/Druid\|Druid]] · [[04 Types/Adventure\|Adventure]] |
 > | **Effects** | [[03 Effects/Exile\|Exile]] · [[03 Effects/Add Mana\|Add Mana]] |
 >
 > ### Extracted Effects

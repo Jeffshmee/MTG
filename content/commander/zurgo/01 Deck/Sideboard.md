@@ -1,46 +1,43 @@
 # Sideboard
 
-Pending upgrades, cuts, and ordered cards.  
+Pending upgrades, cuts, and owned cards.  
 These are **not** in the main 100-card list until physically integrated.
 
 ```decklist
 group: auto
 legality: commander
 
-# Pending Adds (still not in hand / not committed)
-1 Path of Ancestry
-1 Mardu Ascendancy
-
 # Other / Lower Priority (owned, not in the 100)
 1 Mardu Devotee
+1 Kambal, Profiteering Mayor
 1 Mardu Banner
 1 Kimoyo Beads
 
 # Recent Cuts (from main deck)
 1 Canyon Slough
+1 Goblin-town
 1 Temple of Silence
 1 Temple of Triumph
-1 Terramorphic Expanse
+1 Deadly Dispute
 1 Shadow Summoning
 1 Nightblade Brigade
+1 Thunder of Unity
 1 Bone Devourer
 1 Chittering Witch
 1 Commander's Insignia
 1 Dragonback Lancer
 1 Emeria Angel
 1 Redcap Gutter-Dweller
-1 Solemn Simulacrum
 1 Goldlust Triad
 1 Eliminate the Competition
 1 Goblin Negotiation
 1 Perforating Artist
-1 Tocasia's Welcome
 ```
 
 ---
 
 *Source: `mardu-zurgo/07 Assets/sideboard.md` + notes.md*  
-*Last synced: 2026-08-24*
+*Last synced: 2026-08-30*
 
 ---
 
@@ -52,6 +49,18 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 **Status key:** 🟢 Owned · 🟡 Ordered · ⚪ Wishlist
 
 ### Creatures
+> [!info] **`mtg:Kambal, Profiteering Mayor`**
+> **74** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:74%"></div></div>
+>
+> [[02 Cards/Creatures/Kambal, Profiteering Mayor|Open local page →]]
+>
+> > [!note]- Matchup sleeve (token decks)
+> > Default 100: stay on the sideboard. Sleeve in vs a token engine (Mark's Spirits). See [[06 Strategy/Play Patterns|Play Patterns]].
+> > - [[02 Cards/Creatures/Sandskitter Outrider|Sandskitter Outrider]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> > - [[02 Cards/Sorceries/Hour of Reckoning|Hour of Reckoning]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
+> > - [[02 Cards/Creatures/Myr Battlesphere|Myr Battlesphere]] **83** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:83%"></div></div>
+
 > [!info] **`mtg:Mardu Devotee`**
 > **76** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:76%"></div></div>
@@ -73,14 +82,6 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > <div class="synergy-bar"><div style="width:76%"></div></div>
 >
 > [[02 Cards/Creatures/Goldlust Triad|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Solemn Simulacrum`**
-> **75** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:75%"></div></div>
->
-> [[02 Cards/Creatures/Solemn Simulacrum|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
@@ -132,6 +133,15 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
+### Instants
+> [!info] **`mtg:Deadly Dispute`**
+> **81** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:81%"></div></div>
+>
+> [[02 Cards/Instants/Deadly Dispute|Open local page →]]
+>
+> *Stay in sideboard / already cut — no main-deck swap suggested.*
+
 ### Sorceries
 > [!info] **`mtg:Shadow Summoning`**
 > **76** / 100 · 🟢 Owned
@@ -158,30 +168,19 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 ### Enchantments
-> [!info] **`mtg:Mardu Ascendancy`**
-> **83** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:83%"></div></div>
+> [!info] **`mtg:Thunder of Unity`**
+> **78** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:78%"></div></div>
 >
-> [[02 Cards/Enchantments/Mardu Ascendancy|Open local page →]]
+> [[02 Cards/Enchantments/Thunder of Unity|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Enchantments/Thunder of Unity|Thunder of Unity]] **78** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:78%"></div></div>
-> > - [[02 Cards/Artifacts/Stormbeacon Blade|Stormbeacon Blade]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-> > - [[02 Cards/Creatures/Sandskitter Outrider|Sandskitter Outrider]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Stay in sideboard / already cut — Mardu Ascendancy took this slot.*
 
 > [!info] **`mtg:Commander's Insignia`**
 > **78** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:78%"></div></div>
 >
 > [[02 Cards/Enchantments/Commander's Insignia|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Tocasia's Welcome`**
-> **67** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:67%"></div></div>
->
-> [[02 Cards/Enchantments/Tocasia's Welcome|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
@@ -206,14 +205,13 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 ### Lands
-> [!info] **`mtg:Path of Ancestry`**
-> **81** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:81%"></div></div>
+> [!info] **`mtg:Goblin-town`**
+> **56** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:56%"></div></div>
 >
-> [[02 Cards/Lands/Path of Ancestry|Open local page →]]
+> [[02 Cards/Lands/Goblin-town|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Goblin-town|Goblin-town]] **56** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:56%"></div></div>
+> *Stay in sideboard / already cut — Path of Ancestry took this slot.*
 
 > [!info] **`mtg:Temple of Silence`**
 > **70** / 100 · 🟢 Owned
@@ -236,13 +234,5 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > <div class="synergy-bar"><div style="width:71%"></div></div>
 >
 > [[02 Cards/Lands/Canyon Slough|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Terramorphic Expanse`**
-> **66** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:66%"></div></div>
->
-> [[02 Cards/Lands/Terramorphic Expanse|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*

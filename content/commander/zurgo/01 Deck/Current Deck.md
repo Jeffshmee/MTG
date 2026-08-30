@@ -37,6 +37,7 @@ legality: commander
 1 Garna, Bloodfist of Keld
 1 Goldnight Commander
 1 Hero of Bladehold
+1 Jazal Goldmane
 1 Ogre Battledriver
 1 Sandskitter Outrider
 1 Teysa Karlov
@@ -54,7 +55,6 @@ legality: commander
 # Instants
 1 Swords to Plowshares
 1 Abrade
-1 Deadly Dispute
 1 Grand Crescendo
 1 Mortify
 1 Will of the Mardu
@@ -69,7 +69,7 @@ legality: commander
 # Enchantments
 1 Impact Tremors
 1 Bastion of Remembrance
-1 Thunder of Unity
+1 Mardu Ascendancy
 1 Windcrag Siege
 1 Within Range
 1 All-Out Assault
@@ -98,11 +98,11 @@ legality: commander
 1 Dragonskull Summit
 1 Exotic Orchard
 1 Fetid Heath
-1 Goblin-town
 1 Godless Shrine
 1 Isolated Chapel
 5 Mountain
 1 Nomad Outpost
+1 Path of Ancestry
 4 Plains
 1 Sacred Foundry
 1 Savai Triome
@@ -117,7 +117,7 @@ legality: commander
 ---
 
 *Source: `mardu-zurgo/07 Assets/current-deck.md`*  
-*Last synced: 2026-08-24*
+*Last synced: 2026-08-30*
 
 ---
 
@@ -153,6 +153,7 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Creatures/Garna, Bloodfist of Keld|Garna, Bloodfist of Keld]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Goldnight Commander|Goldnight Commander]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Hero of Bladehold|Hero of Bladehold]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
+- [[02 Cards/Creatures/Jazal Goldmane|Jazal Goldmane]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Ogre Battledriver|Ogre Battledriver]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Sandskitter Outrider|Sandskitter Outrider]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
 - [[02 Cards/Creatures/Teysa Karlov|Teysa Karlov]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
@@ -170,7 +171,6 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 ### Instants
 - [[02 Cards/Instants/Swords to Plowshares|Swords to Plowshares]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Instants/Abrade|Abrade]] **73** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:73%"></div></div>
-- [[02 Cards/Instants/Deadly Dispute|Deadly Dispute]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Instants/Grand Crescendo|Grand Crescendo]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Instants/Mortify|Mortify]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Instants/Will of the Mardu|Will of the Mardu]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
@@ -186,7 +186,7 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Enchantments/Boggart Mischief|Boggart Mischief]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
-- [[02 Cards/Enchantments/Thunder of Unity|Thunder of Unity]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
+- [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Enchantments/Windcrag Siege|Windcrag Siege]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Enchantments/Within Range|Within Range]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Enchantments/All-Out Assault|All-Out Assault]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
@@ -215,11 +215,11 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Lands/Dragonskull Summit|Dragonskull Summit]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Lands/Exotic Orchard|Exotic Orchard]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
 - [[02 Cards/Lands/Fetid Heath|Fetid Heath]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
-- [[02 Cards/Lands/Goblin-town|Goblin-town]] **56** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:56%"></div></div>
 - [[02 Cards/Lands/Godless Shrine|Godless Shrine]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Isolated Chapel|Isolated Chapel]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Lands/Mountain|Mountain]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
 - [[02 Cards/Lands/Nomad Outpost|Nomad Outpost]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
+- [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Lands/Plains|Plains]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
 - [[02 Cards/Lands/Sacred Foundry|Sacred Foundry]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Savai Triome|Savai Triome]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>

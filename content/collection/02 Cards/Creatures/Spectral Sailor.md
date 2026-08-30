@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Spirit\|Spirit]] · [[04 Creature Types/Pirate\|Pirate]] |
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 30/08/2026 | Bought from Nerdbase |
 
 </div>
 
@@ -38,16 +38,21 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>3</div>
+<div class="synergy-score-num"><span>Copies</span>4</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>164</td><td>—</td><td>3</td><td>Box</td><td>0.10</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>164</td><td>—</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -55,14 +60,14 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/0/3/03a49535-c5f3-4a6f-b333-7ac7bffdc9ae.jpg" alt="Spectral Sailor FDN 164 · ×3">
-<figcaption>FDN 164 · ×3</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/0/3/03a49535-c5f3-4a6f-b333-7ac7bffdc9ae.jpg" alt="Spectral Sailor FDN 164 · ×4">
+<figcaption>FDN 164 · ×4</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Spirit|Spirit]] · [[04 Creature Types/Pirate|Pirate]] · [[05 Colours/Blue|Blue]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Spirit|Spirit]] · [[04 Creature Types/Pirate|Pirate]] · [[05 Colours/Blue|Blue]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]]
 
 ---
 
@@ -75,7 +80,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 1
 > type: "Creature — Spirit Pirate"
 > scryfall_id: 03a49535-c5f3-4a6f-b333-7ac7bffdc9ae
-> quantity: 3
+> quantity: 4
 > tags:
 >   - blue
 >   - card

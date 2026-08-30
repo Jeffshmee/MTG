@@ -1,0 +1,22 @@
+# Final Fantasy
+
+Set `FIN`. Qty here is copies of this name from this set.
+
+**14** copies · **14** names.
+
+| Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
+|------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Adventurer's Inn`**](https://scryfall.com/card/fin/271) | [[02 Cards/Lands/Adventurer's Inn\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Town\|Town]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.09 |
+| [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.20 |
+| [**`mtg:Dreams of Laguna`**](https://scryfall.com/card/fin/50) | [[02 Cards/Instants/Dreams of Laguna\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
+| [**`mtg:Gysahl Greens`**](https://scryfall.com/card/fin/190) | [[02 Cards/Sorceries/Gysahl Greens\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
+| [**`mtg:Item Shopkeep`**](https://scryfall.com/card/fin/142) | [[02 Cards/Creatures/Item Shopkeep\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
+| [**`mtg:Monk's Fist`**](https://scryfall.com/card/fin/265) | [[02 Cards/Artifacts/Monk's Fist\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
+| [**`mtg:Ultros, Obnoxious Octopus`**](https://scryfall.com/card/fin/83) | [[02 Cards/Creatures/Ultros, Obnoxious Octopus\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Octopus\|Octopus]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
+| [**`mtg:Ashe, Princess of Dalmasca`**](https://scryfall.com/card/fin/7) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rebel\|Rebel]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
+| [**`mtg:Shambling Cie'th`**](https://scryfall.com/card/fin/117) | [[02 Cards/Creatures/Shambling Cie'th\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Mutant\|Mutant]] [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
+| [**`mtg:Summon: Fenrir`**](https://scryfall.com/card/fin/203) | [[02 Cards/Creatures/Summon Fenrir\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.22 |
+| [**`mtg:Dion, Bahamut's Dominant`**](https://scryfall.com/card/fin/16) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Knight\|Knight]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.41 |
+| [**`mtg:Fate of the Sun-Cryst`**](https://scryfall.com/card/fin/19) | [[02 Cards/Instants/Fate of the Sun-Cryst\|PAGE]] | {4}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
+| [**`mtg:Gladiolus Amicitia`**](https://scryfall.com/card/fin/224) | [[02 Cards/Creatures/Gladiolus Amicitia\|PAGE]] | {4}{R}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
+| [**`mtg:Malboro`**](https://scryfall.com/card/fin/106) | [[02 Cards/Creatures/Malboro\|PAGE]] | {4}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Plant\|Plant]] [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.07 |

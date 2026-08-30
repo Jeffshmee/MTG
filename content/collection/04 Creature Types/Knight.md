@@ -2,10 +2,11 @@
 
 Creature type: Knight.
 
-**10** copies · **10** names.
+**13** copies · **13** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Beastrider Vanguard`**](https://scryfall.com/card/dft/154) | [[02 Cards/Creatures/Beastrider Vanguard\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Knight of Grace`**](https://scryfall.com/card/fdn/576) | [[02 Cards/Creatures/Knight of Grace\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Knight of Malice`**](https://scryfall.com/card/fdn/608) | [[02 Cards/Creatures/Knight of Malice\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Adeline, Resplendent Cathar`**](https://scryfall.com/card/tdc/108) | [[02 Cards/Creatures/Adeline, Resplendent Cathar\|PAGE]] | {1}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 2.82 |
@@ -13,6 +14,8 @@ Creature type: Knight.
 | [**`mtg:Ledev Champion`**](https://scryfall.com/card/grn/186) | [[02 Cards/Creatures/Ledev Champion\|PAGE]] | {1}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Midnight Reaper`**](https://scryfall.com/card/fdn/609) | [[02 Cards/Creatures/Midnight Reaper\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |
 | [**`mtg:Shrike Force`**](https://scryfall.com/card/blb/31) | [[02 Cards/Creatures/Shrike Force\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.17 |
+| [**`mtg:Veteran Beastrider`**](https://scryfall.com/card/dft/226) | [[02 Cards/Creatures/Veteran Beastrider\|PAGE]] | {1}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
+| [**`mtg:Dion, Bahamut's Dominant`**](https://scryfall.com/card/fin/16) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Knight\|Knight]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.41 |
 | [**`mtg:Hero of Bladehold`**](https://scryfall.com/card/tdc/119) | [[02 Cards/Creatures/Hero of Bladehold\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.05 |
 | [**`mtg:Wilt-Leaf Liege`**](https://scryfall.com/card/fdn/668) | [[02 Cards/Creatures/Wilt-Leaf Liege\|PAGE]] | {1}{G/W}{G/W}{G/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
 | [**`mtg:Syr Alin, the Lion's Claw`**](https://scryfall.com/card/fdn/582) | [[02 Cards/Creatures/Syr Alin, the Lion's Claw\|PAGE]] | {3}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.09 |

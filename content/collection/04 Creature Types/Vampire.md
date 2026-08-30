@@ -2,7 +2,7 @@
 
 Creature type: Vampire.
 
-**21** copies · **14** names.
+**22** copies · **15** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -19,4 +19,5 @@ Creature type: Vampire.
 | [**`mtg:Yahenni, Undying Partisan`**](https://scryfall.com/card/soc/232) | [[02 Cards/Creatures/Yahenni, Undying Partisan\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Aetherborn\|Aetherborn]] [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.24 |
 | [**`mtg:Driver of the Dead`**](https://scryfall.com/card/fdn/605) | [[02 Cards/Creatures/Driver of the Dead\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |
 | [**`mtg:Immersturm Predator`**](https://scryfall.com/card/fdn/660) | [[02 Cards/Creatures/Immersturm Predator\|PAGE]] | {2}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.21 |
+| [**`mtg:Streaking Oilgorger`**](https://scryfall.com/card/dft/107) | [[02 Cards/Creatures/Streaking Oilgorger\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
 | [**`mtg:Vampire Soulcaller`**](https://scryfall.com/card/fdn/75) | [[02 Cards/Creatures/Vampire Soulcaller\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |

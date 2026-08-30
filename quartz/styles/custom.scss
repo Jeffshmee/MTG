@@ -720,6 +720,71 @@ body[data-slug^="commander/maralen/"] {
   }
 }
 
+// Kykar vault accent from Obsidian appearance.json: #4fc3f7
+body[data-slug="commander/kykar"],
+body[data-slug^="commander/kykar/"] {
+  .page-title a,
+  .article-title,
+  .markdown-preview-view h1,
+  .markdown-rendered h1,
+  .markdown-preview-view h2,
+  .markdown-rendered h2,
+  .markdown-preview-view h3,
+  .markdown-rendered h3,
+  a.internal,
+  a.internal-link {
+    color: #4fc3f7 !important;
+  }
+
+  a.internal:hover,
+  a.internal-link:hover {
+    color: #81d4fa !important;
+  }
+
+  .markdown-preview-view h1,
+  .markdown-rendered h1 {
+    border-bottom-color: #0277bd;
+  }
+
+  .markdown-preview-view h2,
+  .markdown-rendered h2 {
+    border-bottom-color: #0277bd;
+  }
+
+  .markdown-preview-view th,
+  .markdown-rendered th {
+    background: #0277bd;
+    border-color: #01579b;
+  }
+
+  .synergy-bar > div {
+    background: linear-gradient(90deg, #0277bd, #4fc3f7);
+  }
+
+  .synergy-score-num {
+    background: #4fc3f7 !important;
+    color: #042030 !important;
+  }
+
+  .mtg-decklist-meta,
+  .mtg-decklist-section .qty {
+    color: #4fc3f7;
+  }
+
+  .mtg-decklist-section h3 {
+    color: #4fc3f7 !important;
+    border-bottom-color: #0277bd;
+  }
+
+  .mtg-decklist-section a.internal {
+    color: #4fc3f7 !important;
+  }
+
+  .callout[data-callout="card-proxy"] .callout-content h3 {
+    color: #4fc3f7 !important;
+  }
+}
+
 // Collection vault — gold titles/links like Zurgo red and Maralen green
 body[data-slug="collection"],
 body[data-slug^="collection/"] {

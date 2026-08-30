@@ -61,7 +61,7 @@ Viscera Seer is the free sac outlet: sacrifice a creature, scry 1, no mana. Left
 ## Key Synergies
 
 - **Leaves and deaths**: [[02 Cards/Creatures/Zurgo Stormrender|Zurgo Stormrender]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas il-Kor]], [[02 Cards/Creatures/Garna, Bloodfist of Keld|Garna]], [[02 Cards/Creatures/Teysa Karlov|Teysa Karlov]]
-- **Needs a sac**: [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]], [[02 Cards/Instants/Deadly Dispute|Deadly Dispute]]
+- **Needs a sac**: [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]], [[02 Cards/Artifacts/Skullclamp|Skullclamp]]
 - **Fodder**: [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline]], [[02 Cards/Creatures/Hero of Bladehold|Hero of Bladehold]], [[02 Cards/Creatures/Thalisse, Reverent Medium|Thalisse]], [[02 Cards/Creatures/Twilight Drover|Twilight Drover]]
 - **Other outlets**: [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni]], [[02 Cards/Artifacts/Skullclamp|Skullclamp]]
 

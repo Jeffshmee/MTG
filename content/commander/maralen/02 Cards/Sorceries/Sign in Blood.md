@@ -59,7 +59,7 @@ Two cards, two life, two black. Not tribal. Owned cut — [[02 Cards/Sorceries/D
 ## Key Synergies
 
 - **What you are digging for**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
-- **Other owned draw**: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Creatures/Llanowar Visionary|Llanowar Visionary]]
+- **Other owned draw**: [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]], [[02 Cards/Creatures/Faerie Mastermind|Faerie Mastermind]]
 - **Live refill that replaced it**: [[02 Cards/Sorceries/Distant Melody|Distant Melody]]
 
 ## Anti-synergies / Notes

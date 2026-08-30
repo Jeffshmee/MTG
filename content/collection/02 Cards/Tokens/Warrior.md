@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 26/08/2026 | TTDM tokens x12 |
 
 </div>
 
@@ -38,12 +38,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>4</div>
+<div class="synergy-score-num"><span>Copies</span>16</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>13</td><td>—</td><td>4</td><td>Box</td><td>0.18</td></tr>
+<tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>13</td><td>—</td><td>16</td><td>Box</td><td>0.18</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +55,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/7/e/7edc0515-a130-45a7-aa09-0e23bba41587.jpg" alt="Warrior TTDM 13 · ×4">
-<figcaption>TTDM 13 · ×4</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/7/e/7edc0515-a130-45a7-aa09-0e23bba41587.jpg" alt="Warrior TTDM 13 · ×16">
+<figcaption>TTDM 13 · ×16</figcaption>
 </figure>
 </div>
 
@@ -75,7 +75,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Creature — Warrior"
 > scryfall_id: 7edc0515-a130-45a7-aa09-0e23bba41587
-> quantity: 4
+> quantity: 16
 > tags:
 >   - card
 >   - collection

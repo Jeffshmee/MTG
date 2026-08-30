@@ -79,7 +79,7 @@ Do not sit back and only mill. The owned list is not a dedicated mill deck.
 | Tutor | Nature's Rhythm, Dina's Guidance, Eclipsed Elf, Farseek | — |
 | Recursion | Findbroker, Regrower, Loyalist, Pennant, Panharmonicon | — |
 | Ramp | Llanowar / Fyndhorn / Mystic / Arbor / Deep Shadow, Banner, Firdoch, Springbloom, Archdruid, Marwyn, Priest, **Circle**, Signet, Three Tree City | Bloom *(still Ordered, >> Wardens)*; Sol Ring *(owned, left out)* |
-| Draw | Distant Melody, Garruk's Uprising, Llanowar Visionary, Beast Whisperer, Champions, **Faerie Mastermind** | Kindred Discovery *(wishlist)* |
+| Draw | Distant Melody, Garruk's Uprising, Beast Whisperer, Champions, **Faerie Mastermind**, Leaf-Crowned Visionary | Kindred Discovery *(wishlist)* |
 | Interaction | Reclamation Sage, Heritage Reclamation, Origin of Metalbending, Dina's Guidance, Negate, Assassin's Trophy, Spellstutter Sprite | — |
 | Protection | Negate, Leyline, Trickster, Spellstutter, Greaves, Heroic Intervention, Scion of Oona | — |
 

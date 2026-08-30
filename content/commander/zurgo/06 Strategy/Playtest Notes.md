@@ -56,6 +56,14 @@ See also [[06 Strategy/Play Patterns|Play Patterns]] and [[06 Strategy/Win Condi
 
 ---
 
+> [!info] Kambal as a token-matchup sleeve
+> Keep Kambal, Profiteering Mayor sleeved on the sideboard. He would be a strong conditional swap against players who create tokens — for example Mark’s Spirit deck, which makes tokens as cards leave the graveyard to exile. The copies enter tapped, so they are blockers by the time those tokens can attack. After playtesting the matchup, a committed cut can be named later.
+>
+> > [!note]- AI Comments
+> > Default 100 stays without [[02 Cards/Creatures/Kambal, Profiteering Mayor|Kambal]] (Combined 74). Sleeve him in pre-game when a token engine is the problem. Ranked take-outs and the haste/attacking-token caveat live on [[06 Strategy/Play Patterns|Play Patterns]] → **Matchup sleeve — Kambal vs token decks**. Default take-out is [[02 Cards/Creatures/Sandskitter Outrider|Sandskitter Outrider]]. Do not treat a good Mark game as a standing include until a cut is named.
+
+---
+
 ## Related Pages
 
 - [[02 Cards/Creatures/Zurgo Stormrender|Zurgo Stormrender]]
@@ -63,3 +71,4 @@ See also [[06 Strategy/Play Patterns|Play Patterns]] and [[06 Strategy/Win Condi
 - [[06 Strategy/Win Conditions|Win Conditions]]
 - [[01 Deck/Current Deck|Current Deck]]
 - [[01 Deck/Sideboard|Sideboard]]
+- [[02 Cards/Creatures/Kambal, Profiteering Mayor|Kambal, Profiteering Mayor]]

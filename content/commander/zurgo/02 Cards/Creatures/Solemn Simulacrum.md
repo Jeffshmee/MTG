@@ -51,12 +51,12 @@ When this creature dies, you may [[03 Effects/Draw a Card|draw a card]].
 
 ## Deck Role & Rating
 
-Solemn is honest four-mana ramp and a death-draw. The deck's ramp is thin — [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], [[02 Cards/Artifacts/Mardu Monument|Mardu Monument]] — so the tapped basic still matters for Zurgo, Neriv, Siege-Gang, Titan, and Visitation. It is not a token and does not feed Zurgo's leave; the death is its own card, plus [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas]] / [[02 Cards/Creatures/Garna, Bloodfist of Keld|Garna]] / [[02 Cards/Enchantments/Bastion of Remembrance|Bastion]] if those are out. Teysa took this slot. Owned cut; not in the 100.
+Solemn is honest four-mana ramp and a death-draw. The deck's ramp is thin — [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], [[02 Cards/Artifacts/Mardu Monument|Mardu Monument]] — so the tapped basic still matters for Zurgo, Neriv, Siege-Gang, Titan, and Visitation. It is not a token and does not feed Zurgo's leave; the death is its own card, plus [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas]] / [[02 Cards/Creatures/Garna, Bloodfist of Keld|Garna]] / [[02 Cards/Enchantments/Bastion of Remembrance|Bastion]] if those are out. Teysa took this slot. The physical copy moved to Kykar — no Zurgo SB copy remains.
 
 ## Play Patterns & Lines
 
 - Curve: Solemn on four, Zurgo or a five-drop on five.
-- After the land it is a 2/2. Sac, clamp, or [[02 Cards/Instants/Deadly Dispute|Deadly Dispute]] it; do not attack it into a real blocker for no reason.
+- After the land it is a 2/2. Sac or clamp it; do not attack it into a real blocker for no reason.
 - [[02 Cards/Creatures/Sun Titan|Sun Titan]] cannot return it (mana value 4). Do not bin it "for Titan."
 - Flooding: still cast it. The land is why the slot stays.
 
@@ -64,7 +64,7 @@ Solemn is honest four-mana ramp and a death-draw. The deck's ramp is thin — [[
 
 - **Ramp**: [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], [[02 Cards/Artifacts/Mardu Monument|Mardu Monument]]
 - **Death payoffs (not Zurgo)**: [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas il-Kor]], [[02 Cards/Creatures/Garna, Bloodfist of Keld|Garna]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Morbid Opportunist|Morbid Opportunist]]
-- **Sac / clamp**: [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]], [[02 Cards/Creatures/Viscera Seer|Viscera Seer]], [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni]], [[02 Cards/Artifacts/Skullclamp|Skullclamp]], [[02 Cards/Instants/Deadly Dispute|Deadly Dispute]]
+- **Sac / clamp**: [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]], [[02 Cards/Creatures/Viscera Seer|Viscera Seer]], [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni]], [[02 Cards/Artifacts/Skullclamp|Skullclamp]]
 
 ## Anti-synergies / Notes
 

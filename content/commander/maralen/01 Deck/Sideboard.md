@@ -29,6 +29,7 @@ legality: commander
 1 Elvish Rejuvenator
 1 Highspire Artisan
 1 Llanowar Envoy
+1 Llanowar Visionary
 1 Tajuru Snarecaster
 1 Elvish Regrower
 1 Illusion Spinners
@@ -52,7 +53,7 @@ legality: commander
 ```
 
 *Source: `maralen-fae/07 Assets/sideboard.md`*
-*Last synced: 2026-08-24*
+*Last synced: 2026-08-30*
 
 ---
 
@@ -85,6 +86,14 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 > <div class="synergy-bar"><div style="width:68%"></div></div>
 >
 > [[02 Cards/Creatures/Llanowar Envoy|Open local page →]]
+>
+> *Stay in sideboard / already cut — no main-deck swap suggested.*
+
+> [!info] **`mtg:Llanowar Visionary`**
+> **82** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:82%"></div></div>
+>
+> [[02 Cards/Creatures/Llanowar Visionary|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 

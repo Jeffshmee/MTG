@@ -4,7 +4,7 @@ How this deck actually closes a table. All three plans run through [[02 Cards/Cr
 
 Play order and sequencing live on [[06 Strategy/Play Patterns|Play Patterns]]. Table observations live on [[06 Strategy/Playtest Notes|Playtest Notes]]. Card scores live on the individual pages and in [[01 Deck/Current Deck|Current Deck]].
 
-**Draft note:** primary and secondary plans below are live in the current 100. Isshin, Teysa, Packbeasts, Bone-Cairn, Anim Pakal, Belladonna, Windcrag, and Sacred Foundry are in. Remaining ordered: [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]].
+**Draft note:** primary and secondary plans below are live in the current 100. Isshin, Teysa, Packbeasts, Bone-Cairn, Anim Pakal, Belladonna, Windcrag, Sacred Foundry, [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]], and [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] are in. [[02 Cards/Creatures/Kambal, Profiteering Mayor|Kambal]] is a sideboard sleeve vs token decks — see [[06 Strategy/Play Patterns|Play Patterns]].
 
 ---
 
@@ -16,14 +16,10 @@ Overwhelm with tokens plus anthems, extra combat, and evasion.
 
 **Live in the 100**
 
-- Token engines: [[02 Cards/Creatures/Zurgo Stormrender|Zurgo]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline]], [[02 Cards/Creatures/Hero of Bladehold|Hero of Bladehold]], [[02 Cards/Creatures/Legion Warboss|Legion Warboss]], [[02 Cards/Creatures/Loyal Apprentice|Loyal Apprentice]], [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]], [[02 Cards/Creatures/Dalkovan Packbeasts|Dalkovan Packbeasts]], [[02 Cards/Creatures/Bone-Cairn Butcher|Bone-Cairn Butcher]], [[02 Cards/Creatures/Anim Pakal, Thousandth Moon|Anim Pakal]], [[02 Cards/Sorceries/Heroic Reinforcements|Heroic Reinforcements]], [[02 Cards/Sorceries/Lingering Souls|Lingering Souls]], [[02 Cards/Sorceries/Tempt with Vengeance|Tempt with Vengeance]]
+- Token engines: [[02 Cards/Creatures/Zurgo Stormrender|Zurgo]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline]], [[02 Cards/Creatures/Hero of Bladehold|Hero of Bladehold]], [[02 Cards/Creatures/Legion Warboss|Legion Warboss]], [[02 Cards/Creatures/Loyal Apprentice|Loyal Apprentice]], [[02 Cards/Creatures/Caesar, Legion's Emperor|Caesar]], [[02 Cards/Creatures/Dalkovan Packbeasts|Dalkovan Packbeasts]], [[02 Cards/Creatures/Bone-Cairn Butcher|Bone-Cairn Butcher]], [[02 Cards/Creatures/Anim Pakal, Thousandth Moon|Anim Pakal]], [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]], [[02 Cards/Sorceries/Heroic Reinforcements|Heroic Reinforcements]], [[02 Cards/Sorceries/Lingering Souls|Lingering Souls]], [[02 Cards/Sorceries/Tempt with Vengeance|Tempt with Vengeance]]
 - Pump / extra combat: [[02 Cards/Creatures/Goldnight Commander|Goldnight Commander]], [[02 Cards/Creatures/Ogre Battledriver|Ogre Battledriver]], [[02 Cards/Enchantments/All-Out Assault|All-Out Assault]], [[02 Cards/Creatures/Aurelia, the Warleader|Aurelia]], [[02 Cards/Lands/Castle Embereth|Castle Embereth]]
 - Attack doublers: [[02 Cards/Creatures/Isshin, Two Heavens as One|Isshin]], [[02 Cards/Enchantments/Windcrag Siege|Windcrag Siege]]
 - Closer: [[02 Cards/Enchantments/Divine Visitation|Divine Visitation]] (playtest: real win-con once the token stream is on)
-
-**Pending**
-
-- Another wave per nontoken attacker: [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]]
 
 This is the default plan. If you have Zurgo and any second token maker, keep attacking until the table is dead or someone wipes.
 

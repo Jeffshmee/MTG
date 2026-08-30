@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Deadly Dispute`**
 >
-> **Status:** Main Deck  
+> **Status:** Ordered  
 > **Mana Cost:** {1}{B}  
 > **Type:** Instant  
 >
@@ -53,7 +53,7 @@ As an additional cost to cast this spell, [[03 Effects/Sacrifice|sacrifice]] an 
 
 ## Deck Role & Rating
 
-Deadly Dispute is a main-deck instant.  
+Deadly Dispute is an owned cut. Sitting on the sideboard. The job was instant-speed draw two plus a Treasure for a sac — Mobilize fodder still hit [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]] on the way in and [[02 Cards/Creatures/Zurgo Stormrender|Zurgo]] on the way out. [[02 Cards/Creatures/Jazal Goldmane|Jazal Goldmane]] took this slot.
 
 ## Play Patterns & Lines
 
@@ -72,6 +72,7 @@ Deadly Dispute is a main-deck instant.
 
 - [[02 Cards/Enchantments/Divine Visitation|Divine Visitation]] upgrades the tokens; [[02 Cards/Artifacts/Skullclamp|Skullclamp]] then no longer kills 4/4s.
 - One-shot. Sequence it around an attack or a wipe, then it is gone.
+- Owned cut. Sitting on the sideboard. Status stays Ordered.
 
 ## Related Pages
 
@@ -91,7 +92,7 @@ Deadly Dispute is a main-deck instant.
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Treasure"]
-> status: Main Deck
+> status: Ordered
 > scores:
 >   general: 82
 >   deck_specific: 80
@@ -99,7 +100,7 @@ Deadly Dispute is a main-deck instant.
 > scryfall_id: b22ef77b-67a3-45d3-9d18-12b7b124cbf4
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - instant
 > ```
 

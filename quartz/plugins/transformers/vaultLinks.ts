@@ -10,6 +10,9 @@ function nestPrefix(slug: string): string | null {
   if (slug === "commander/zurgo" || slug.startsWith("commander/zurgo/")) {
     return "commander/zurgo"
   }
+  if (slug === "commander/kykar" || slug.startsWith("commander/kykar/")) {
+    return "commander/kykar"
+  }
   if (slug === "collection" || slug.startsWith("collection/")) {
     return "collection"
   }

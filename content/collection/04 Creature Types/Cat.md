@@ -2,7 +2,7 @@
 
 Creature type: Cat.
 
-**20** copies · **14** names.
+**22** copies · **16** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -12,11 +12,13 @@ Creature type: Cat.
 | [**`mtg:Ajani's Sunstriker`**](https://scryfall.com/card/cns/66) | [[02 Cards/Creatures/Ajani's Sunstriker\|PAGE]] | {W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Dawnwing Marshal`**](https://scryfall.com/card/fdn/570) | [[02 Cards/Creatures/Dawnwing Marshal\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.19 |
 | [**`mtg:Felidar Cub`**](https://scryfall.com/card/fdn/573) | [[02 Cards/Creatures/Felidar Cub\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
-| [**`mtg:Helpful Hunter`**](https://scryfall.com/card/fdn/16) | [[02 Cards/Creatures/Helpful Hunter\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
+| [**`mtg:Helpful Hunter`**](https://scryfall.com/card/fdn/16) | [[02 Cards/Creatures/Helpful Hunter\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
 | [**`mtg:Oreskos Swiftclaw`**](https://scryfall.com/card/m19/31) | [[02 Cards/Creatures/Oreskos Swiftclaw\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
 | [**`mtg:Prowling Caracal`**](https://scryfall.com/card/m20/309) | [[02 Cards/Creatures/Prowling Caracal\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Undergrowth Leopard`**](https://scryfall.com/card/tdm/165) | [[02 Cards/Creatures/Undergrowth Leopard\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Wary Thespian`**](https://scryfall.com/card/fdn/235) | [[02 Cards/Creatures/Wary Thespian\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Prideful Parent`**](https://scryfall.com/card/fdn/21) | [[02 Cards/Creatures/Prideful Parent\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Felidar Savior`**](https://scryfall.com/card/fdn/12) | [[02 Cards/Creatures/Felidar Savior\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.10 |
+| [**`mtg:Jazal Goldmane`**](https://scryfall.com/card/fdn/497) | [[02 Cards/Creatures/Jazal Goldmane\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.29 |
+| [**`mtg:Alacrian Jaguar`**](https://scryfall.com/card/dft/152) | [[02 Cards/Creatures/Alacrian Jaguar\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Mount\|Mount]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Regal Caracal`**](https://scryfall.com/card/fdn/579) | [[02 Cards/Creatures/Regal Caracal\|PAGE]] | {3}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.36 |

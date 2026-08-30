@@ -2,7 +2,7 @@
 
 Creature type: Druid.
 
-**49** copies · **32** names.
+**52** copies · **34** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -23,12 +23,14 @@ Creature type: Druid.
 | [**`mtg:Venom Connoisseur`**](https://scryfall.com/card/fdn/648) | [[02 Cards/Creatures/Venom Connoisseur\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
 | [**`mtg:Vinereap Mentor`**](https://scryfall.com/card/blb/238) | [[02 Cards/Creatures/Vinereap Mentor\|PAGE]] | {B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Squirrel\|Squirrel]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
 | [**`mtg:Wary Thespian`**](https://scryfall.com/card/fdn/235) | [[02 Cards/Creatures/Wary Thespian\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
+| [**`mtg:Woodland Weavemaster`**](https://scryfall.com/card/hob/143) | [[02 Cards/Creatures/Woodland Weavemaster\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.04 |
 | [**`mtg:Circle of Dreams Druid`**](https://scryfall.com/card/afr/176) | [[02 Cards/Creatures/Circle of Dreams Druid\|PAGE]] | {G}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 9.21 |
 | [**`mtg:Elvish Archdruid`**](https://scryfall.com/card/fdn/219) | [[02 Cards/Creatures/Elvish Archdruid\|PAGE]] | {1}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 1.88 |
 | [**`mtg:Elvish Rejuvenator`**](https://scryfall.com/card/m3c/226) | [[02 Cards/Creatures/Elvish Rejuvenator\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Kin-Tree Nurturer`**](https://scryfall.com/card/tdm/83) | [[02 Cards/Creatures/Kin-Tree Nurturer\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Llanowar Visionary`**](https://scryfall.com/card/m21/193) | [[02 Cards/Creatures/Llanowar Visionary\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.16 |
 | [**`mtg:Marwyn, the Nurturer`**](https://scryfall.com/card/khc/68) | [[02 Cards/Creatures/Marwyn, the Nurturer\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.55 |
+| [**`mtg:Mirkwood Meditator`**](https://scryfall.com/card/hob/48) | [[02 Cards/Creatures/Mirkwood Meditator\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Rosethorn Acolyte`**](https://scryfall.com/card/eld/174) | [[02 Cards/Creatures/Rosethorn Acolyte\|PAGE]] | {2}{G} // {G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.10 |
 | [**`mtg:Sage of the Fang`**](https://scryfall.com/card/tdm/155) | [[02 Cards/Creatures/Sage of the Fang\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Springbloom Druid`**](https://scryfall.com/card/tdc/271) | [[02 Cards/Creatures/Springbloom Druid\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |
