@@ -2,10 +2,11 @@
 
 Card type: Enchantment.
 
-**76** copies · **66** names.
+**79** copies · **69** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Graduation Day`**](https://scryfall.com/card/sos/16) | [[02 Cards/Enchantments/Graduation Day\|PAGE]] | {W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.14 |
 | [**`mtg:Lightwheel Enhancements`**](https://scryfall.com/card/dft/20) | [[02 Cards/Enchantments/Lightwheel Enhancements\|PAGE]] | {W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Northern Air Temple`**](https://scryfall.com/card/tla/111) | [[02 Cards/Enchantments/Northern Air Temple\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:Point the Way`**](https://scryfall.com/card/dft/175) | [[02 Cards/Enchantments/Point the Way\|PAGE]] | {G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
@@ -14,6 +15,7 @@ Card type: Enchantment.
 | [**`mtg:Vampiric Rites`**](https://scryfall.com/card/fdn/615) | [[02 Cards/Enchantments/Vampiric Rites\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.18 |
 | [**`mtg:Witness Protection`**](https://scryfall.com/card/fdn/168) | [[02 Cards/Enchantments/Witness Protection\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.19 |
 | [**`mtg:Anthem of Champions`**](https://scryfall.com/card/fdn/116) | [[02 Cards/Enchantments/Anthem of Champions\|PAGE]] | {G}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
+| [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | [[02 Cards/Enchantments/Comforting Counsel\|PAGE]] | {1}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.18 |
 | [**`mtg:Fire-Rim Form`**](https://scryfall.com/card/tdm/107) | [[02 Cards/Enchantments/Fire-Rim Form\|PAGE]] | {1}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
 | [**`mtg:Hollowmurk Siege`**](https://scryfall.com/card/tdm/192) | [[02 Cards/Enchantments/Hollowmurk Siege\|PAGE]] | {B}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.71 |
 | [**`mtg:Impact Tremors`**](https://scryfall.com/card/moc/285) | [[02 Cards/Enchantments/Impact Tremors\|PAGE]] | {1}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.35 |
@@ -61,6 +63,7 @@ Card type: Enchantment.
 | [**`mtg:Thassa, Deep-Dwelling`**](https://scryfall.com/card/thb/261) | [[02 Cards/Creatures/Thassa, Deep-Dwelling\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/God\|God]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 20.25 |
 | [**`mtg:Wilderness Reclamation`**](https://scryfall.com/card/dsc/205) | [[02 Cards/Enchantments/Wilderness Reclamation\|PAGE]] | {3}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.28 |
 | [**`mtg:Within Range`**](https://scryfall.com/card/tdc/32) | [[02 Cards/Enchantments/Within Range\|PAGE]] | {3}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.47 |
+| [**`mtg:Additive Evolution`**](https://scryfall.com/card/sos/139) | [[02 Cards/Enchantments/Additive Evolution\|PAGE]] | {3}{G}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
 | [**`mtg:Aid from the Cowl`**](https://scryfall.com/card/moc/290) | [[02 Cards/Enchantments/Aid from the Cowl\|PAGE]] | {3}{G}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.14 |
 | [**`mtg:All-Out Assault`**](https://scryfall.com/card/tdm/167) | [[02 Cards/Enchantments/All-Out Assault\|PAGE]] | {2}{R}{W}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 1.89 |
 | [**`mtg:Divine Visitation`**](https://scryfall.com/card/tdc/113) | [[02 Cards/Enchantments/Divine Visitation\|PAGE]] | {3}{W}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 1.17 |

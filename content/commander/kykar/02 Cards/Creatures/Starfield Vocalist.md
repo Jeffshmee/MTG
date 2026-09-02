@@ -50,7 +50,7 @@ If a permanent entering the battlefield causes a triggered ability of a permanen
 
 ## Deck Role & Rating
 
-Vocalist doubles ETB triggers on your permanents. Panharmonicon is locked in Maralen; this is the stand-in (EOE, not SOS). Warp {1}{U} is cheap. Not in the owned 65. Buy-rank 9.
+Vocalist doubles ETB triggers on your permanents, including enchantments. Warp {1}{U} is cheap. Buy-rank 10. Stacks with a bought [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (rank 9) — do not unsleeve Maralen.
 
 ## Play Patterns & Lines
 

@@ -2,57 +2,57 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**55** copies · **50** names.
+**87** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
-| 30/08/2026 | [**`mtg:Academy Journeymage`**](https://scryfall.com/card/dom/41) | [[02 Cards/Creatures/Academy Journeymage\|PAGE]] | 2 |
-| 30/08/2026 | [**`mtg:Accumulate Wisdom`**](https://scryfall.com/card/tla/44) | [[02 Cards/Instants/Accumulate Wisdom\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Adventurer's Inn`**](https://scryfall.com/card/fin/271) | [[02 Cards/Lands/Adventurer's Inn\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Aether Channeler`**](https://scryfall.com/card/pdmu/42s) | [[02 Cards/Creatures/Aether Channeler\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Alacrian Jaguar`**](https://scryfall.com/card/dft/152) | [[02 Cards/Creatures/Alacrian Jaguar\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Ally`**](https://scryfall.com/card/ttla/8) | [[02 Cards/Tokens/Ally\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Angelo`**](https://scryfall.com/card/tfin/19) | [[02 Cards/Tokens/Angelo\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Anthropede`**](https://scryfall.com/card/dsk/167) | [[02 Cards/Creatures/Anthropede\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Apothecary Geist`**](https://scryfall.com/card/inr/10) | [[02 Cards/Creatures/Apothecary Geist\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Ashe, Princess of Dalmasca`**](https://scryfall.com/card/fin/7) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Azula Always Lies`**](https://scryfall.com/card/tla/84) | [[02 Cards/Instants/Azula Always Lies\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Azula, On the Hunt`**](https://scryfall.com/card/tla/85) | [[02 Cards/Creatures/Azula, On the Hunt\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Balemurk Leech`**](https://scryfall.com/card/dsk/84) | [[02 Cards/Creatures/Balemurk Leech\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Baseball Bat`**](https://scryfall.com/card/dsk/209) | [[02 Cards/Artifacts/Baseball Bat\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bashful Beastie`**](https://scryfall.com/card/dsk/169) | [[02 Cards/Creatures/Bashful Beastie\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bear Trap`**](https://scryfall.com/card/dsk/243) | [[02 Cards/Artifacts/Bear Trap\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Beastrider Vanguard`**](https://scryfall.com/card/dft/154) | [[02 Cards/Creatures/Beastrider Vanguard\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bedhead Beastie`**](https://scryfall.com/card/dsk/125) | [[02 Cards/Creatures/Bedhead Beastie\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bejeweled Warg`**](https://scryfall.com/card/hob/117) | [[02 Cards/Creatures/Bejeweled Warg\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Beorn, Reluctant Host`**](https://scryfall.com/card/hob/118) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | 2 |
-| 30/08/2026 | [**`mtg:Betrayer's Bargain`**](https://scryfall.com/card/dsk/126) | [[02 Cards/Instants/Betrayer's Bargain\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bifur, Melodic Rider`**](https://scryfall.com/card/hob/147) | [[02 Cards/Creatures/Bifur, Melodic Rider\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bilbo Baggins, Burglar`**](https://scryfall.com/card/hob/34) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | 2 |
-| 30/08/2026 | [**`mtg:Bilbo's Deadly Slice`**](https://scryfall.com/card/hob/62) | [[02 Cards/Instants/Bilbo's Deadly Slice\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Blink of an Eye`**](https://scryfall.com/card/dom/46) | [[02 Cards/Instants/Blink of an Eye\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Boar-q-pine`**](https://scryfall.com/card/tla/124) | [[02 Cards/Creatures/Boar-q-pine\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bolg of the North`**](https://scryfall.com/card/hob/148) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bombur, Gentle Dreamer`**](https://scryfall.com/card/hob/88) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Boosted Sloop`**](https://scryfall.com/card/dft/190) | [[02 Cards/Artifacts/Boosted Sloop\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bottomless Pool`**](https://scryfall.com/card/dsk/43) | [[02 Cards/Enchantments/Bottomless Pool\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Brightfield Glider`**](https://scryfall.com/card/dft/4) | [[02 Cards/Creatures/Brightfield Glider\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Bumi Bash`**](https://scryfall.com/card/tla/125) | [[02 Cards/Sorceries/Bumi Bash\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Burner Rocket`**](https://scryfall.com/card/dft/114) | [[02 Cards/Artifacts/Burner Rocket\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Cackling Slasher`**](https://scryfall.com/card/dsk/85) | [[02 Cards/Creatures/Cackling Slasher\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Call to Heel`**](https://scryfall.com/card/bbd/114) | [[02 Cards/Instants/Call to Heel\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Camera Launcher`**](https://scryfall.com/card/dft/232) | [[02 Cards/Creatures/Camera Launcher\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Canyon Crawler`**](https://scryfall.com/card/tla/90) | [[02 Cards/Creatures/Canyon Crawler\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Cautious Survivor`**](https://scryfall.com/card/dsk/172) | [[02 Cards/Creatures/Cautious Survivor\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Celebrate the Mountain-king`**](https://scryfall.com/card/hob/7) | [[02 Cards/Enchantments/Celebrate the Mountain-king\|PAGE]] | 3 |
-| 30/08/2026 | [**`mtg:Chillbringer`**](https://scryfall.com/card/rna/33) | [[02 Cards/Creatures/Chillbringer\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Clammy Prowler`**](https://scryfall.com/card/dsk/45) | [[02 Cards/Creatures/Clammy Prowler\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Clockwork Percussionist`**](https://scryfall.com/card/dsk/130) | [[02 Cards/Creatures/Clockwork Percussionist\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Cloudkin Seer`**](https://scryfall.com/card/clu/82) | [[02 Cards/Creatures/Cloudkin Seer\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Cloudspire Coordinator`**](https://scryfall.com/card/dft/196) | [[02 Cards/Creatures/Cloudspire Coordinator\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Clue`**](https://scryfall.com/card/ttla/16) | [[02 Cards/Tokens/Clue\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Combustion Man`**](https://scryfall.com/card/tla/127) | [[02 Cards/Creatures/Combustion Man\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Commune with Evil`**](https://scryfall.com/card/dsk/87) | [[02 Cards/Sorceries/Commune with Evil\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Confusticate and Bebother`**](https://scryfall.com/card/hob/35) | [[02 Cards/Instants/Confusticate and Bebother\|PAGE]] | 1 |
-| 30/08/2026 | [**`mtg:Cult Healer`**](https://scryfall.com/card/dsk/2) | [[02 Cards/Creatures/Cult Healer\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Aberrant Manawurm`**](https://scryfall.com/card/sos/138) | [[02 Cards/Creatures/Aberrant Manawurm\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Abrade`**](https://scryfall.com/card/soa/37) | [[02 Cards/Instants/Abrade\|PAGE]] | 4 |
+| 02/09/2026 | [**`mtg:Abstract Paintmage`**](https://scryfall.com/card/sos/171) | [[02 Cards/Creatures/Abstract Paintmage\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Additive Evolution`**](https://scryfall.com/card/sos/139) | [[02 Cards/Enchantments/Additive Evolution\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Adventurous Eater`**](https://scryfall.com/card/sos/72) | [[02 Cards/Creatures/Adventurous Eater\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Ajani's Response`**](https://scryfall.com/card/sos/6) | [[02 Cards/Instants/Ajani's Response\|PAGE]] | 3 |
+| 02/09/2026 | [**`mtg:Ancestral Anger`**](https://scryfall.com/card/sos/106) | [[02 Cards/Sorceries/Ancestral Anger\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | [[02 Cards/Sorceries/Antiquities on the Loose\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Arcane Omens`**](https://scryfall.com/card/sos/73) | [[02 Cards/Sorceries/Arcane Omens\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Archaic's Agony`**](https://scryfall.com/card/sos/107) | [[02 Cards/Sorceries/Archaic's Agony\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Ark of Hunger`**](https://scryfall.com/card/sos/173) | [[02 Cards/Artifacts/Ark of Hunger\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Arnyn, Deathbloom Botanist`**](https://scryfall.com/card/sos/74) | [[02 Cards/Creatures/Arnyn, Deathbloom Botanist\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Artistic Process`**](https://scryfall.com/card/sos/108) | [[02 Cards/Sorceries/Artistic Process\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Ascendant Dustspeaker`**](https://scryfall.com/card/sos/8) | [[02 Cards/Creatures/Ascendant Dustspeaker\|PAGE]] | 3 |
+| 02/09/2026 | [**`mtg:Aziza, Mage Tower Captain`**](https://scryfall.com/card/sos/174) | [[02 Cards/Creatures/Aziza, Mage Tower Captain\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Banishing Betrayal`**](https://scryfall.com/card/sos/38) | [[02 Cards/Instants/Banishing Betrayal\|PAGE]] | 3 |
+| 02/09/2026 | [**`mtg:Biblioplex Tomekeeper`**](https://scryfall.com/card/sos/247) | [[02 Cards/Creatures/Biblioplex Tomekeeper\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Bitter Triumph`**](https://scryfall.com/card/tdc/173) | [[02 Cards/Instants/Bitter Triumph\|PAGE]] | 3 |
+| 02/09/2026 | [**`mtg:Blazing Firesinger`**](https://scryfall.com/card/sos/109) | [[02 Cards/Creatures/Blazing Firesinger\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Bogwater Lumaret`**](https://scryfall.com/card/sos/177) | [[02 Cards/Creatures/Bogwater Lumaret\|PAGE]] | 3 |
+| 02/09/2026 | [**`mtg:Borrowed Knowledge`**](https://scryfall.com/card/sos/178) | [[02 Cards/Sorceries/Borrowed Knowledge\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Brush Off`**](https://scryfall.com/card/sos/39) | [[02 Cards/Instants/Brush Off\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Bulk Up`**](https://scryfall.com/card/soa/40) | [[02 Cards/Instants/Bulk Up\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Burrog Banemaker`**](https://scryfall.com/card/sos/75) | [[02 Cards/Creatures/Burrog Banemaker\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Burrog Barrage`**](https://scryfall.com/card/sos/141) | [[02 Cards/Instants/Burrog Barrage\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Burst Lightning`**](https://scryfall.com/card/fdn/192) | [[02 Cards/Instants/Burst Lightning\|PAGE]] | 5 |
+| 02/09/2026 | [**`mtg:Campus Composer`**](https://scryfall.com/card/sos/40) | [[02 Cards/Creatures/Campus Composer\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Cauldron of Essence`**](https://scryfall.com/card/sos/179) | [[02 Cards/Artifacts/Cauldron of Essence\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Charging Strifeknight`**](https://scryfall.com/card/sos/110) | [[02 Cards/Creatures/Charging Strifeknight\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Chase Inspiration`**](https://scryfall.com/card/sos/41) | [[02 Cards/Instants/Chase Inspiration\|PAGE]] | 3 |
+| 02/09/2026 | [**`mtg:Cheerful Osteomancer`**](https://scryfall.com/card/sos/76) | [[02 Cards/Creatures/Cheerful Osteomancer\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Chelonian Tackle`**](https://scryfall.com/card/sos/142) | [[02 Cards/Sorceries/Chelonian Tackle\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Choreographed Sparks`**](https://scryfall.com/card/sos/111) | [[02 Cards/Instants/Choreographed Sparks\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Colossus of the Blood Age`**](https://scryfall.com/card/sos/181) | [[02 Cards/Creatures/Colossus of the Blood Age\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | [[02 Cards/Enchantments/Comforting Counsel\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Copy`**](https://scryfall.com/card/tsos/1) | [[02 Cards/Tokens/Copy\|PAGE]] | 4 |
+| 02/09/2026 | [**`mtg:Cost of Brilliance`**](https://scryfall.com/card/sos/77) | [[02 Cards/Sorceries/Cost of Brilliance\|PAGE]] | 4 |
+| 02/09/2026 | [**`mtg:Cuboid Colony`**](https://scryfall.com/card/sos/183) | [[02 Cards/Creatures/Cuboid Colony\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | [[02 Cards/Instants/Culling the Weak\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Deduce`**](https://scryfall.com/card/soa/16) | [[02 Cards/Instants/Deduce\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Deluge Virtuoso`**](https://scryfall.com/card/sos/42) | [[02 Cards/Creatures/Deluge Virtuoso\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Diary of Dreams`**](https://scryfall.com/card/sos/248) | [[02 Cards/Artifacts/Diary of Dreams\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Dig Site Inventory`**](https://scryfall.com/card/sos/10) | [[02 Cards/Sorceries/Dig Site Inventory\|PAGE]] | 2 |
+| 02/09/2026 | [**`mtg:Disdainful Stroke`**](https://scryfall.com/card/soa/17) | [[02 Cards/Instants/Disdainful Stroke\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Dissection Practice`**](https://scryfall.com/card/sos/79) | [[02 Cards/Instants/Dissection Practice\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Divergent Equation`**](https://scryfall.com/card/sos/43) | [[02 Cards/Instants/Divergent Equation\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | 1 |
+| 02/09/2026 | [**`mtg:Duel Tactics`**](https://scryfall.com/card/sos/112) | [[02 Cards/Sorceries/Duel Tactics\|PAGE]] | 1 |

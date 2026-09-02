@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Artifact — Treasure
 >
-> ![Treasure](https://cards.scryfall.io/border_crop/front/a/c/ac4384b7-853c-417d-b3b4-f54cd0b5d361.jpg)
+> ![Treasure](https://cards.scryfall.io/border_crop/front/b/4/b4f61b5e-9c53-40b1-b93e-3ffa351ff052.jpg)
 
 <div class="collection-side-tables">
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 02/09/2026 | Booster haul |
 
 </div>
 
@@ -38,7 +39,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>7</div>
+<div class="synergy-score-num"><span>Copies</span>15</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -48,6 +49,7 @@
 <tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>16</td><td>—</td><td>1</td><td>Box</td><td>0.22</td></tr>
 <tr><td>Duskmourn: House of Horror Tokens (<code>TDSK</code>)</td><td>15</td><td>—</td><td>1</td><td>Box</td><td>0.19</td></tr>
 <tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>13</td><td>—</td><td>2</td><td>Box</td><td>—</td></tr>
+<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>12</td><td>—</td><td>8</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
 </div>
@@ -58,6 +60,10 @@
 Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/4/b4f61b5e-9c53-40b1-b93e-3ffa351ff052.jpg" alt="Treasure TSOS 12 · ×8">
+<figcaption>TSOS 12 · ×8</figcaption>
+</figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/c/ac4384b7-853c-417d-b3b4-f54cd0b5d361.jpg" alt="Treasure TECL 10 · ×2">
 <figcaption>TECL 10 · ×2</figcaption>
@@ -82,7 +88,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TFDN|Foundations Tokens]] · [[06 Browse/Sets/TECL|Lorwyn Eclipsed Tokens]] · [[06 Browse/Sets/TTDM|Tarkir: Dragonstorm Tokens]] · [[06 Browse/Sets/TDSK|Duskmourn: House of Horror Tokens]] · [[06 Browse/Sets/THOB|The Hobbit Tokens]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TFDN|Foundations Tokens]] · [[06 Browse/Sets/TECL|Lorwyn Eclipsed Tokens]] · [[06 Browse/Sets/TTDM|Tarkir: Dragonstorm Tokens]] · [[06 Browse/Sets/TDSK|Duskmourn: House of Horror Tokens]] · [[06 Browse/Sets/THOB|The Hobbit Tokens]] · [[06 Browse/Sets/TSOS|Secrets of Strixhaven Tokens]]
 
 ---
 
@@ -94,8 +100,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Artifact — Treasure"
-> scryfall_id: ac4384b7-853c-417d-b3b4-f54cd0b5d361
-> quantity: 7
+> scryfall_id: b4f61b5e-9c53-40b1-b93e-3ffa351ff052
+> quantity: 15
 > tags:
 >   - artifact
 >   - card

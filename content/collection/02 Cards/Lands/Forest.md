@@ -31,6 +31,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 02/09/2026 | Booster haul |
 
 </div>
 
@@ -39,7 +40,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>23</div>
+<div class="synergy-score-num"><span>Copies</span>27</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -56,6 +57,9 @@
 <tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>—</td><td>1</td><td>Maralen</td><td>0.17</td></tr>
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>—</td><td>1</td><td>Box</td><td>0.20</td></tr>
 <tr><td>Avatar: The Last Airbender (<code>TLA</code>)</td><td>286</td><td>—</td><td>1</td><td>Box</td><td>0.08</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>foil</td><td>1</td><td>Box</td><td>0.15</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>281</td><td>—</td><td>2</td><td>Box</td><td>0.08</td></tr>
 </tbody>
 </table>
 </div>
@@ -81,6 +85,14 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/1/117ab60a-b888-4585-b0c6-769d387069f7.jpg" alt="Forest FDN 291 · ×2">
 <figcaption>FDN 291 · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/1/f169dfb2-e4c8-46e9-8591-e51bb82da082.jpg" alt="Forest SOS 280 · ×2">
+<figcaption>SOS 280 · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/0/3041d539-4f15-4836-a215-afa19a5cc23f.jpg" alt="Forest SOS 281 · ×2">
+<figcaption>SOS 281 · ×2</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/7/f791876a-f3fb-45b8-90a9-af846d8b8f74.jpg" alt="Forest BLB 278 · ×1">
@@ -110,7 +122,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 
@@ -123,7 +135,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Forest"
 > scryfall_id: d232fcc2-12f6-401a-b1aa-ddff11cb9378
-> quantity: 23
+> quantity: 27
 > tags:
 >   - card
 >   - collection

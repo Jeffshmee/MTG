@@ -5,7 +5,7 @@
 > **Mana Cost:** {1}{B}
 > **Type:** Sorcery
 >
-> ![Feed the Swarm](https://cards.scryfall.io/border_crop/front/a/7/a776f96b-01bf-430a-b1ad-9f4651070610.jpg)
+> ![Feed the Swarm](https://cards.scryfall.io/border_crop/front/a/0/a041cfe3-a02d-41e2-aea3-76bc2bacc10e.jpg)
 
 <div class="collection-side-tables">
 
@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 02/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +38,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>180</td><td>—</td><td>1</td><td>Box</td><td>0.28</td></tr>
+<tr><td>Secrets of Strixhaven Mystical Archive (<code>SOA</code>)</td><td>29</td><td>—</td><td>1</td><td>Box</td><td>0.18</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,6 +56,10 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/a/0/a041cfe3-a02d-41e2-aea3-76bc2bacc10e.jpg" alt="Feed the Swarm SOA 29 · ×1">
+<figcaption>SOA 29 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/7/a776f96b-01bf-430a-b1ad-9f4651070610.jpg" alt="Feed the Swarm TDC 180 · ×1">
 <figcaption>TDC 180 · ×1</figcaption>
 </figure>
@@ -62,7 +67,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]] · [[06 Browse/Sets/SOA|Secrets of Strixhaven Mystical Archive]]
 
 ---
 
@@ -74,8 +79,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: "{1}{B}"
 > cmc: 2
 > type: "Sorcery"
-> scryfall_id: a776f96b-01bf-430a-b1ad-9f4651070610
-> quantity: 1
+> scryfall_id: a041cfe3-a02d-41e2-aea3-76bc2bacc10e
+> quantity: 2
 > tags:
 >   - black
 >   - card

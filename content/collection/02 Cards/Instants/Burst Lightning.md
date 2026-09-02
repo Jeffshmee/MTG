@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 02/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +38,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>4</div>
+<div class="synergy-score-num"><span>Copies</span>5</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>192</td><td>—</td><td>4</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Secrets of Strixhaven Mystical Archive (<code>SOA</code>)</td><td>41</td><td>—</td><td>1</td><td>Box</td><td>0.15</td></tr>
 </tbody>
 </table>
 </div>
@@ -58,11 +59,15 @@ Printings in the collection. Infocard uses the most copies.
 <img src="https://cards.scryfall.io/border_crop/front/a/e/aec5d380-d354-4750-931a-6c91853e2edc.jpg" alt="Burst Lightning FDN 192 · ×4">
 <figcaption>FDN 192 · ×4</figcaption>
 </figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/9/f98b402a-ecdb-432f-a050-65945c8c415d.jpg" alt="Burst Lightning SOA 41 · ×1">
+<figcaption>SOA 41 · ×1</figcaption>
+</figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/SOA|Secrets of Strixhaven Mystical Archive]]
 
 ---
 
@@ -75,7 +80,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 1
 > type: "Instant"
 > scryfall_id: aec5d380-d354-4750-931a-6c91853e2edc
-> quantity: 4
+> quantity: 5
 > tags:
 >   - card
 >   - collection

@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 02/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +38,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>6</td><td>—</td><td>1</td><td>Box</td><td>0.03</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>6</td><td>—</td><td>3</td><td>Box</td><td>0.03</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +55,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/9/c/9cd1417a-badc-4abd-a8ca-5b31f85c1072.jpg" alt="Ajani's Response SOS 6 · ×1">
-<figcaption>SOS 6 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/9/c/9cd1417a-badc-4abd-a8ca-5b31f85c1072.jpg" alt="Ajani's Response SOS 6 · ×3">
+<figcaption>SOS 6 · ×3</figcaption>
 </figure>
 </div>
 
@@ -75,7 +75,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 5
 > type: "Instant"
 > scryfall_id: 9cd1417a-badc-4abd-a8ca-5b31f85c1072
-> quantity: 1
+> quantity: 3
 > tags:
 >   - card
 >   - collection

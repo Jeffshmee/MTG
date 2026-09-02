@@ -1,17 +1,21 @@
 # Sideboard
 
-Owned extras (not in the 72) and wishlist / buy-list cards.
+Owned extras (not in the 73) and wishlist / buy-list cards.
 These are **not** in the main list until physically integrated and committed.
 
 ```decklist
 group: auto
 legality: commander
 
-# Owned extras (not in the 72)
+# Owned extras (not in the 73)
 1 Cryptic Caves
 1 Hidden Grotto
 1 Divine Resilience
+1 Harmonized Trio
+1 Sleight of Hand
+1 Spell Pierce
 1 Chart a Course
+1 Flow State
 1 Fog Bank
 1 Mission Briefing
 1 Run Away Together
@@ -22,12 +26,14 @@ legality: commander
 1 Empyrean Eagle
 1 Mentor of the Meek
 1 Refute
+1 Stock Up
 1 Felidar Savior
 1 Mystical Teachings
 1 Release the Dogs
 1 Bard, King of Dale
 1 Meteor Golem
 1 Wanderwine Farewell
+1 Wisdom of Ages
 
 # Wishlist
 1 Adarkar Wastes
@@ -74,6 +80,7 @@ legality: commander
 1 Talisman of Progress
 1 Thought Vessel
 1 Wall of Omens
+1 Wizard's Staff
 1 Circuit Mender
 1 Deputy of Detention
 1 Eerie Interlude
@@ -96,6 +103,7 @@ legality: commander
 1 Aetherize
 1 Archaeomancer
 1 Displacer Kitten
+1 Panharmonicon
 1 Restoration Angel
 1 Starfield Vocalist
 1 Stonehorn Dignitary
@@ -104,7 +112,6 @@ legality: commander
 1 Venser, Shaper Savant
 1 Witch Enchanter
 1 Conjurer's Closet
-1 Emeritus of Ideation
 1 Evacuation
 1 Mulldrifter
 1 Peregrine Drake
@@ -190,7 +197,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Deputy of Detention`**
-> **91** / 100 · ⚪ Wishlist
+> **91** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:91%"></div></div>
 >
 > [[02 Cards/Creatures/Deputy of Detention|Open local page →]]
@@ -231,7 +238,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Loran of the Third Path`**
-> **89** / 100 · ⚪ Wishlist
+> **89** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Creatures/Loran of the Third Path|Open local page →]]
@@ -272,7 +279,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Reflector Mage`**
-> **92** / 100 · ⚪ Wishlist
+> **92** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
 > [[02 Cards/Creatures/Reflector Mage|Open local page →]]
@@ -283,7 +290,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Skyclave Apparition`**
-> **90** / 100 · ⚪ Wishlist
+> **90** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
 > [[02 Cards/Creatures/Skyclave Apparition|Open local page →]]
@@ -294,7 +301,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Soulherder`**
-> **90** / 100 · ⚪ Wishlist
+> **90** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
 > [[02 Cards/Creatures/Soulherder|Open local page →]]
@@ -316,7 +323,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Archaeomancer`**
-> **91** / 100 · ⚪ Wishlist
+> **91** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:91%"></div></div>
 >
 > [[02 Cards/Creatures/Archaeomancer|Open local page →]]
@@ -327,7 +334,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Displacer Kitten`**
-> **96** / 100 · ⚪ Wishlist
+> **96** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:96%"></div></div>
 >
 > [[02 Cards/Creatures/Displacer Kitten|Open local page →]]
@@ -346,7 +353,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Restoration Angel`**
-> **88** / 100 · ⚪ Wishlist
+> **88** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
 > [[02 Cards/Creatures/Restoration Angel|Open local page →]]
@@ -357,7 +364,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Starfield Vocalist`**
-> **93** / 100 · ⚪ Wishlist
+> **93** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:93%"></div></div>
 >
 > [[02 Cards/Creatures/Starfield Vocalist|Open local page →]]
@@ -379,7 +386,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Venser, Shaper Savant`**
-> **92** / 100 · ⚪ Wishlist
+> **92** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
 > [[02 Cards/Creatures/Venser, Shaper Savant|Open local page →]]
@@ -400,19 +407,8 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
-> [!info] **`mtg:Emeritus of Ideation`**
-> **82** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:82%"></div></div>
->
-> [[02 Cards/Creatures/Emeritus of Ideation|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
 > [!info] **`mtg:Mulldrifter`**
-> **88** / 100 · ⚪ Wishlist
+> **88** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
 > [[02 Cards/Creatures/Mulldrifter|Open local page →]]
@@ -423,7 +419,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Peregrine Drake`**
-> **89** / 100 · ⚪ Wishlist
+> **89** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Creatures/Peregrine Drake|Open local page →]]
@@ -441,8 +437,18 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
+> [!info] **`mtg:Harmonized Trio`**
+> **89** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:89%"></div></div>
+>
+> [[02 Cards/Creatures/Harmonized Trio|Open local page →]]
+>
+> > [!note]- Possible Cuts (or fill — 73/100, no cut required)
+> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
+> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+
 > [!info] **`mtg:Deadeye Navigator`**
-> **90** / 100 · ⚪ Wishlist
+> **90** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
 > [[02 Cards/Creatures/Deadeye Navigator|Open local page →]]
@@ -461,8 +467,18 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 ### Instants
+> [!info] **`mtg:Spell Pierce`**
+> **84** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Instants/Spell Pierce|Open local page →]]
+>
+> > [!note]- Possible Cuts (or fill — 73/100, no cut required)
+> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
+> > - [[02 Cards/Instants/Lofty Denial|Lofty Denial]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
+
 > [!info] **`mtg:Cloudshift`**
-> **89** / 100 · ⚪ Wishlist
+> **89** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Instants/Cloudshift|Open local page →]]
@@ -492,7 +508,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Ephemerate`**
-> **94** / 100 · ⚪ Wishlist
+> **94** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:94%"></div></div>
 >
 > [[02 Cards/Instants/Ephemerate|Open local page →]]
@@ -525,7 +541,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
 
 > [!info] **`mtg:Counterspell`**
-> **86** / 100 · ⚪ Wishlist
+> **86** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
 > [[02 Cards/Instants/Counterspell|Open local page →]]
@@ -607,7 +623,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Snap`**
-> **90** / 100 · ⚪ Wishlist
+> **90** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
 > [[02 Cards/Instants/Snap|Open local page →]]
@@ -659,7 +675,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
 
 > [!info] **`mtg:Ghostly Flicker`**
-> **91** / 100 · ⚪ Wishlist
+> **91** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:91%"></div></div>
 >
 > [[02 Cards/Instants/Ghostly Flicker|Open local page →]]
@@ -689,7 +705,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
 
 > [!info] **`mtg:Aetherize`**
-> **95** / 100 · ⚪ Wishlist
+> **95** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:95%"></div></div>
 >
 > [[02 Cards/Instants/Aetherize|Open local page →]]
@@ -720,7 +736,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 
 ### Sorceries
 > [!info] **`mtg:Ponder`**
-> **86** / 100 · ⚪ Wishlist
+> **86** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
 > [[02 Cards/Sorceries/Ponder|Open local page →]]
@@ -748,6 +764,42 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > [[02 Cards/Sorceries/Chart a Course|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
+
+> [!info] **`mtg:Sleight of Hand`**
+> **85** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:85%"></div></div>
+>
+> [[02 Cards/Sorceries/Sleight of Hand|Open local page →]]
+>
+> > [!note]- Possible Cuts (or fill — 73/100, no cut required)
+> > Weaker than Opt. No forced cut.
+
+> [!info] **`mtg:Flow State`**
+> **84** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Sorceries/Flow State|Open local page →]]
+>
+> > [!note]- Possible Cuts (or fill — 73/100, no cut required)
+> > - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
+
+> [!info] **`mtg:Stock Up`**
+> **88** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:88%"></div></div>
+>
+> [[02 Cards/Sorceries/Stock Up|Open local page →]]
+>
+> > [!note]- Possible Cuts (or fill — 73/100, no cut required)
+> > - [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
+> > - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
+
+> [!info] **`mtg:Wisdom of Ages`**
+> **65** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:65%"></div></div>
+>
+> [[02 Cards/Sorceries/Wisdom of Ages|Open local page →]]
+>
+> *Stay in sideboard — not a 73 include ({4}{U}{U}{U}).*
 
 > [!info] **`mtg:Ureni's Rebuff`**
 > **74** / 100 · 🟢 Owned
@@ -787,7 +839,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
 
 > [!info] **`mtg:Time Wipe`**
-> **89** / 100 · ⚪ Wishlist
+> **89** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Sorceries/Time Wipe|Open local page →]]
@@ -857,7 +909,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Enchantments/Enchanted River's Grasp|Enchanted River's Grasp]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
 
 > [!info] **`mtg:Teleportation Circle`**
-> **85** / 100 · ⚪ Wishlist
+> **85** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Enchantments/Teleportation Circle|Open local page →]]
@@ -880,7 +932,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 
 ### Artifacts
 > [!info] **`mtg:Arcane Signet`**
-> **86** / 100 · ⚪ Wishlist
+> **86** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
 > [[02 Cards/Artifacts/Arcane Signet|Open local page →]]
@@ -890,7 +942,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
 
 > [!info] **`mtg:Azorius Signet`**
-> **85** / 100 · ⚪ Wishlist
+> **85** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Artifacts/Azorius Signet|Open local page →]]
@@ -919,7 +971,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
 
 > [!info] **`mtg:Swiftfoot Boots`**
-> **84** / 100 · ⚪ Wishlist
+> **84** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
 > [[02 Cards/Artifacts/Swiftfoot Boots|Open local page →]]
@@ -928,8 +980,18 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
 > > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
 
+> [!info] **`mtg:Wizard's Staff`**
+> **85** / 100 · 🟡 Ordered
+> <div class="synergy-bar"><div style="width:85%"></div></div>
+>
+> [[02 Cards/Artifacts/Wizard's Staff|Open local page →]]
+>
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
+> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
+
 > [!info] **`mtg:Talisman of Progress`**
-> **85** / 100 · ⚪ Wishlist
+> **85** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Artifacts/Talisman of Progress|Open local page →]]
@@ -953,6 +1015,16 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Artifacts/Conjurer's Closet|Open local page →]]
+>
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
+> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
+
+> [!info] **`mtg:Panharmonicon`**
+> **92** / 100 · 🟡 Ordered
+> <div class="synergy-bar"><div style="width:92%"></div></div>
+>
+> [[02 Cards/Artifacts/Panharmonicon|Open local page →]]
 >
 > > [!note]- Possible Cuts
 > > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
@@ -1012,7 +1084,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Floodfarm Verge`**
-> **85** / 100 · ⚪ Wishlist
+> **85** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Lands/Floodfarm Verge|Open local page →]]
@@ -1023,7 +1095,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Glacial Fortress`**
-> **84** / 100 · ⚪ Wishlist
+> **84** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
 > [[02 Cards/Lands/Glacial Fortress|Open local page →]]
@@ -1034,7 +1106,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Hallowed Fountain`**
-> **88** / 100 · ⚪ Wishlist
+> **88** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
 > [[02 Cards/Lands/Hallowed Fountain|Open local page →]]
@@ -1086,7 +1158,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Mystic Sanctuary`**
-> **88** / 100 · ⚪ Wishlist
+> **88** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
 > [[02 Cards/Lands/Mystic Sanctuary|Open local page →]]
@@ -1108,7 +1180,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Port Town`**
-> **82** / 100 · ⚪ Wishlist
+> **82** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
 > [[02 Cards/Lands/Port Town|Open local page →]]
@@ -1119,7 +1191,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Prairie Stream`**
-> **84** / 100 · ⚪ Wishlist
+> **84** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
 > [[02 Cards/Lands/Prairie Stream|Open local page →]]

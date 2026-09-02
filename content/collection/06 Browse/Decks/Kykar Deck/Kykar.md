@@ -2,7 +2,7 @@
 
 Copies in **Kykar**.
 
-**72** copies · **60** names.
+**73** copies · **61** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,7 +13,7 @@ Copies in **Kykar**.
 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 8 | 0.68 |
 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 6 | 0.71 |
 | [**`mtg:Temple of Enlightenment`**](https://scryfall.com/card/eoc/186) | [[02 Cards/Lands/Temple of Enlightenment\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
-| [**`mtg:Terramorphic Expanse`**](https://scryfall.com/card/tdc/408) | [[02 Cards/Lands/Terramorphic Expanse\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 |
+| [**`mtg:Terramorphic Expanse`**](https://scryfall.com/card/sos/265) | [[02 Cards/Lands/Terramorphic Expanse\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 |
 | [**`mtg:Tranquil Cove`**](https://scryfall.com/card/fdn/270) | [[02 Cards/Lands/Tranquil Cove\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.11 |
 | [**`mtg:An Offer You Can't Refuse`**](https://scryfall.com/card/fdn/160) | [[02 Cards/Instants/An Offer You Can't Refuse\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.29 |
 | [**`mtg:Into the Flood Maw`**](https://scryfall.com/card/blb/52) | [[02 Cards/Instants/Into the Flood Maw\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 1.33 |
@@ -29,7 +29,7 @@ Copies in **Kykar**.
 | [**`mtg:Charming Prince`**](https://scryfall.com/card/fdn/568) | [[02 Cards/Creatures/Charming Prince\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.61 |
 | [**`mtg:Dawn's Truce`**](https://scryfall.com/card/blb/9) | [[02 Cards/Instants/Dawn's Truce\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 8.13 |
 | [**`mtg:Disenchant`**](https://scryfall.com/card/fdn/572) | [[02 Cards/Instants/Disenchant\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
-| [**`mtg:Essence Scatter`**](https://scryfall.com/card/fdn/153) | [[02 Cards/Instants/Essence Scatter\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
+| [**`mtg:Essence Scatter`**](https://scryfall.com/card/sos/47) | [[02 Cards/Instants/Essence Scatter\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Harbinger of the Tides`**](https://scryfall.com/card/fdn/593) | [[02 Cards/Creatures/Harbinger of the Tides\|PAGE]] | {U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Helpful Hunter`**](https://scryfall.com/card/fdn/16) | [[02 Cards/Creatures/Helpful Hunter\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
 | [**`mtg:Into the Roil`**](https://scryfall.com/card/fdn/509) | [[02 Cards/Instants/Into the Roil\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
@@ -62,6 +62,7 @@ Copies in **Kykar**.
 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
 | [**`mtg:Thassa, Deep-Dwelling`**](https://scryfall.com/card/thb/261) | [[02 Cards/Creatures/Thassa, Deep-Dwelling\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/God\|God]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 20.25 |
 | [**`mtg:Cloudblazer`**](https://scryfall.com/card/fdn/653) | [[02 Cards/Creatures/Cloudblazer\|PAGE]] | {3}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.12 |
+| [**`mtg:Emeritus of Ideation`**](https://scryfall.com/card/sos/45) | [[02 Cards/Creatures/Emeritus of Ideation\|PAGE]] | {3}{U}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 7.18 |
 | [**`mtg:Shipwreck Dowser`**](https://scryfall.com/card/fdn/596) | [[02 Cards/Creatures/Shipwreck Dowser\|PAGE]] | {3}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.12 |
 | [**`mtg:Flood of Tears`**](https://scryfall.com/card/voc/104) | [[02 Cards/Sorceries/Flood of Tears\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.85 |
 | [**`mtg:River's Rebuke`**](https://scryfall.com/card/fdn/595) | [[02 Cards/Sorceries/River's Rebuke\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.39 |

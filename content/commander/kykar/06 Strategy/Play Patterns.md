@@ -1,10 +1,10 @@
 # Play Patterns
 
-How this **owned 72** is supposed to play. Commander is [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. Every line is judged by whether it is a **noncreature spell** (Kykar trigger) or an **ETB worth blinking** (bounce, draw, exile).
+How this **owned 73** is supposed to play. Commander is [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. Every line is judged by whether it is a **noncreature spell** (Kykar trigger) or an **ETB worth blinking** (bounce, draw, exile).
 
 See also [[06 Strategy/Win Conditions|Win Conditions]] and [[01 Deck/Current Deck|Current Deck]].
 
-**Status of this draft:** written against the **72** sleeved (art scan plus Stasis Snare and Solemn Simulacrum). Target is 100. Combo pieces, Kitten, Ephemerate, Aetherize, Vocalist, Reflector Mage, and **Arcane Signet** (buy) are **wishlist**. Duals are almost all on the buy list.
+**Status of this draft:** written against the **73** sleeved (art scan plus Stasis Snare, Solemn Simulacrum, and Emeritus of Ideation). Target is 100. Combo pieces, Kitten, Ephemerate, Aetherize, Vocalist, Reflector Mage, and **Arcane Signet** (buy) are **wishlist**. Duals are almost all on the buy list.
 
 ---
 
@@ -49,7 +49,7 @@ Ramp is **3** (Ring, Bauble, [[02 Cards/Creatures/Solemn Simulacrum|Solemn Simul
 | 5 | [[02 Cards/Enchantments/Stormplain Detainment\|Stormplain Detainment]] / [[02 Cards/Enchantments/Stasis Snare\|Stasis Snare]] | New exile target. Tokens they lose do not return. Stormplain is the Banishing Light foil. |
 | 6 | [[02 Cards/Creatures/Glasspool Mimic\|Glasspool Mimic]] | Copy Channeler or Hunter, then blink the Mimic to copy something else. |
 
-[[02 Cards/Creatures/Micromancer|Micromancer]] finds Opt / Unsummon (and Ephemerate once bought). [[02 Cards/Creatures/Shipwreck Dowser|Shipwreck Dowser]] is the owned Archaeomancer-lite.
+[[02 Cards/Creatures/Micromancer|Micromancer]] finds Opt / Unsummon (and Ephemerate once bought). [[02 Cards/Creatures/Shipwreck Dowser|Shipwreck Dowser]] is the owned Archaeomancer-lite. [[02 Cards/Creatures/Emeritus of Ideation|Emeritus of Ideation]] enters prepared: spend {U} on Ancestral Recall (Kykar trigger, draw three). Blink it to re-prepare.
 
 ---
 
@@ -69,7 +69,7 @@ Do not gift the Fish on Flood Maw against a token deck.
 
 ## Combo sequencing (pending)
 
-None of the combo pieces are in the 72. When they arrive:
+None of the combo pieces are in the 73. When they arrive:
 
 1. **Two-card:** [[02 Cards/Creatures/Deadeye Navigator|Deadeye Navigator]] soulbond [[02 Cards/Creatures/Peregrine Drake|Peregrine Drake]]. {1}{U} flicker Drake, untap five, net mana, repeat.
 2. **Three-card:** [[02 Cards/Instants/Ghostly Flicker|Ghostly Flicker]] + [[02 Cards/Creatures/Archaeomancer|Archaeomancer]] + Drake. Flicker both; Archaeomancer returns Flicker; Drake pays.

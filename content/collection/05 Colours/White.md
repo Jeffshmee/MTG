@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**163** copies · **131** names.
+**213** copies · **159** names.
 
 ```decklist
 group: auto
@@ -21,6 +21,7 @@ legality: commander
 1 Apothecary Geist
 1 Arashin Sunshield
 1 Archway Angel
+3 Ascendant Dustspeaker
 1 Ashe, Princess of Dalmasca
 1 Ballyrush Banneret
 1 Belladonna Took
@@ -36,8 +37,12 @@ legality: commander
 1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
 2 Dragonback Lancer
 1 Dwarven Provisioner
+2 Eager Glyphmage
 1 Eagle of the Great Shelf
+3 Elite Interceptor // Rejoinder
 1 Emeria Angel
+1 Emeritus of Truce // Swords to Plowshares
+1 Ennis, Debate Moderator
 3 Esgaroth Garrison
 1 Felidar Cub
 1 Felidar Savior
@@ -48,6 +53,8 @@ legality: commander
 1 Helpful Hunter
 1 Hero of Bladehold
 4 Hinterland Sanctifier
+2 Honorbound Page // Forum's Favor
+1 Inkshape Demonstrator
 1 Inspiring Overseer
 1 Inspiring Paladin
 1 Intrepid Rabbit
@@ -63,19 +70,27 @@ legality: commander
 1 Moonlit Lamenter
 1 Nettle Guard
 2 Oreskos Swiftclaw
+4 Owlin Historian
 1 Poised Practitioner
 1 Prideful Parent
 1 Prowling Caracal
+1 Quill-Blade Laureate // Twofold Intent
 1 Rabaroo Troop
 1 Regal Caracal
+3 Rehearsed Debater
 1 Reluctant Dounguard
 1 Resolute Reinforcements
 2 Riling Dawnbreaker // Signaling Roar
 1 Sacred Cat
 1 Salt Road Packbeast
 1 Savannah Lions
+2 Shattered Acolyte
 1 Shrike Force
+1 Soaring Stoneglider
+1 Spiritcall Enthusiast // Scrollboost
 1 Squad Rallier
+2 Stone Docent
+1 Summoned Dromedary
 1 Sun Titan
 2 Sun-Dappled Celebrant
 1 Swiftwing Assailant
@@ -91,15 +106,16 @@ legality: commander
 1 Zetalpa, Primal Dawn
 
 # Instants
-1 Ajani's Response
+3 Ajani's Response
 1 Appeal to Eirdu
 1 Claws Out
 1 Dawn's Truce
 1 Disenchant
 2 Divine Resilience
-1 Duty Beyond Death
+3 Duty Beyond Death
 1 Fate of the Sun-Cryst
 1 Grand Crescendo
+3 Interjection
 2 Joust Through
 2 Lightfoot Technique
 1 Luminous Rebuke
@@ -108,7 +124,10 @@ legality: commander
 1 Osseous Exhale
 1 Personify
 1 Protective Response
+2 Rapier Wit
 1 Rebellious Strike
+1 Repel Calamity
+2 Stand Up for Yourself
 1 Stone by Sunlight
 3 Stroke of Midnight
 1 Swords to Plowshares
@@ -119,12 +138,20 @@ legality: commander
 1 Will of the Mardu
 
 # Sorceries
+1 Antiquities on the Loose
 1 Day of Judgment
+1 Daydream
 1 Devout Decree
+2 Dig Site Inventory
+1 Group Project
+1 Helping Hand
+1 Hop to It
 1 Hour of Reckoning
 1 Lingering Souls
 1 Moment of Glory
+1 Prismatic Ending
 2 Release the Dogs
+1 Requisition Raid
 
 # Enchantments
 1 Angelic Destiny
@@ -133,6 +160,7 @@ legality: commander
 1 Commander's Insignia
 1 Divine Visitation
 1 Felidar Retreat
+1 Graduation Day
 2 Legion Loyalty
 1 Lightwheel Enhancements
 1 Southern Air Temple

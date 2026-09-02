@@ -9,6 +9,7 @@ legality: commander
 
 # Other / Lower Priority (owned, not in the 100)
 1 Mardu Devotee
+1 Prismatic Ending
 1 Kambal, Profiteering Mayor
 1 Mardu Banner
 1 Kimoyo Beads
@@ -143,6 +144,15 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 ### Sorceries
+> [!info] **`mtg:Prismatic Ending`**
+> **80** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:80%"></div></div>
+>
+> [[02 Cards/Sorceries/Prismatic Ending|Open local page →]]
+>
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Instants/Mortify|Mortify]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+
 > [!info] **`mtg:Shadow Summoning`**
 > **76** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:76%"></div></div>

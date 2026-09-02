@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Kykar, Zephyr Awakener
-71 + 1 = 72 cards (target 100)
+72 + 1 = 73 cards (target 100)
 
 ```decklist
 group: auto
@@ -31,6 +31,7 @@ legality: commander
 1 Solemn Simulacrum
 1 Thassa, Deep-Dwelling
 1 Cloudblazer
+1 Emeritus of Ideation
 1 Shipwreck Dowser
 
 # Instants
@@ -85,7 +86,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-08-30*
+*Last synced: 2026-09-02*
 
 ---
 
@@ -116,6 +117,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Solemn Simulacrum|Solemn Simulacrum]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
+- [[02 Cards/Creatures/Emeritus of Ideation|Emeritus of Ideation]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Shipwreck Dowser|Shipwreck Dowser]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 
 ### Instants

@@ -2,7 +2,7 @@
 
 Copies in **Zurgo SB**.
 
-**25** copies · **25** names.
+**26** copies · **26** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,6 +10,7 @@ Copies in **Zurgo SB**.
 | [**`mtg:Goblin-town`**](https://scryfall.com/card/hob/183) | [[02 Cards/Lands/Goblin-town\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.06 |
 | [**`mtg:Temple of Silence`**](https://scryfall.com/card/tdc/406) | [[02 Cards/Lands/Temple of Silence\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.17 |
 | [**`mtg:Temple of Triumph`**](https://scryfall.com/card/soc/417) | [[02 Cards/Lands/Temple of Triumph\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
+| [**`mtg:Prismatic Ending`**](https://scryfall.com/card/soa/7) | [[02 Cards/Sorceries/Prismatic Ending\|PAGE]] | {X}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.47 |
 | [**`mtg:Bitter Triumph`**](https://scryfall.com/card/tdc/173) | [[02 Cards/Instants/Bitter Triumph\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.73 |
 | [**`mtg:Blade of Selves`**](https://scryfall.com/card/tdc/313) | [[02 Cards/Artifacts/Blade of Selves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.40 |
 | [**`mtg:Deadly Dispute`**](https://scryfall.com/card/tdc/177) | [[02 Cards/Instants/Deadly Dispute\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.49 |

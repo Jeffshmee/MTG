@@ -5,13 +5,16 @@ Every set in the ManaBox export. Open a set for the name table.
 | Set | | Code | Names | Qty | Est. Price (GBP) |
 |-----|--|------|-------|-----|------------------|
 | [Foundations](https://scryfall.com/sets/fdn) | [[06 Browse/Sets/FDN\|PAGE]] | `FDN` | 270 | 451 | 89.80 |
+| [Secrets of Strixhaven](https://scryfall.com/sets/sos) | [[06 Browse/Sets/SOS\|PAGE]] | `SOS` | 223 | 393 | 85.36 |
 | [Tarkir: Dragonstorm](https://scryfall.com/sets/tdm) | [[06 Browse/Sets/TDM\|PAGE]] | `TDM` | 108 | 145 | 28.58 |
 | [The Hobbit](https://scryfall.com/sets/hob) | [[06 Browse/Sets/HOB\|PAGE]] | `HOB` | 82 | 114 | 12.32 |
 | [Lorwyn Eclipsed](https://scryfall.com/sets/ecl) | [[06 Browse/Sets/ECL\|PAGE]] | `ECL` | 75 | 105 | 43.18 |
 | [Tarkir: Dragonstorm Commander](https://scryfall.com/sets/tdc) | [[06 Browse/Sets/TDC\|PAGE]] | `TDC` | 69 | 80 | 63.83 |
+| [Secrets of Strixhaven Tokens](https://scryfall.com/sets/tsos) | [[06 Browse/Sets/TSOS\|PAGE]] | `TSOS` | 7 | 52 | 0.00 |
 | [Tarkir: Dragonstorm Tokens](https://scryfall.com/sets/ttdm) | [[06 Browse/Sets/TTDM\|PAGE]] | `TTDM` | 9 | 45 | 6.63 |
 | [Bloomburrow](https://scryfall.com/sets/blb) | [[06 Browse/Sets/BLB\|PAGE]] | `BLB` | 40 | 40 | 32.46 |
 | [Foundations Tokens](https://scryfall.com/sets/tfdn) | [[06 Browse/Sets/TFDN\|PAGE]] | `TFDN` | 20 | 34 | 5.94 |
+| [Secrets of Strixhaven Mystical Archive](https://scryfall.com/sets/soa) | [[06 Browse/Sets/SOA\|PAGE]] | `SOA` | 27 | 31 | 15.29 |
 | [Secrets of Strixhaven Commander](https://scryfall.com/sets/soc) | [[06 Browse/Sets/SOC\|PAGE]] | `SOC` | 26 | 30 | 18.04 |
 | [Avatar: The Last Airbender](https://scryfall.com/sets/tla) | [[06 Browse/Sets/TLA\|PAGE]] | `TLA` | 29 | 30 | 4.42 |
 | [Aetherdrift](https://scryfall.com/sets/dft) | [[06 Browse/Sets/DFT\|PAGE]] | `DFT` | 28 | 28 | 9.49 |
@@ -33,7 +36,6 @@ Every set in the ManaBox export. Open a set for the name table.
 | [Commander Legends](https://scryfall.com/sets/cmr) | [[06 Browse/Sets/CMR\|PAGE]] | `CMR` | 4 | 4 | 4.88 |
 | [Dominaria United](https://scryfall.com/sets/dmu) | [[06 Browse/Sets/DMU\|PAGE]] | `DMU` | 4 | 4 | 5.41 |
 | [Aetherdrift Commander](https://scryfall.com/sets/drc) | [[06 Browse/Sets/DRC\|PAGE]] | `DRC` | 4 | 4 | 9.08 |
-| [Secrets of Strixhaven](https://scryfall.com/sets/sos) | [[06 Browse/Sets/SOS\|PAGE]] | `SOS` | 4 | 4 | 7.44 |
 | [Aetherdrift Tokens](https://scryfall.com/sets/tdft) | [[06 Browse/Sets/TDFT\|PAGE]] | `TDFT` | 4 | 4 | 0.36 |
 | [Wilds of Eldraine Commander](https://scryfall.com/sets/woc) | [[06 Browse/Sets/WOC\|PAGE]] | `WOC` | 4 | 4 | 18.08 |
 | [Zendikar Rising](https://scryfall.com/sets/znr) | [[06 Browse/Sets/ZNR\|PAGE]] | `ZNR` | 3 | 4 | 5.74 |

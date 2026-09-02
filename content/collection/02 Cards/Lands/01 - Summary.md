@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**249** copies · **88** names.
+**285** copies · **95** names.
 
 ```decklist
 group: auto
@@ -34,12 +34,15 @@ legality: commander
 1 Dimir Guildgate
 3 Dismal Backwater
 1 Dragonskull Summit
+1 Dreamroot Cascade
 4 Eclipsed Realms
 2 Elvenking's Halls
 3 Evolving Wilds
 1 Exotic Orchard
 1 Fetid Heath
-23 Forest
+4 Fields of Strife
+27 Forest
+2 Forum of Amity
 2 Goblin-town
 1 Godless Shrine
 1 Golgari Guildgate
@@ -47,21 +50,22 @@ legality: commander
 1 Hidden Grotto
 1 Hobbit Hole
 1 Iron Hills
-24 Island
+27 Island
 1 Isolated Chapel
 1 Izzet Guildgate
 4 Jungle Hollow
 1 Maze's End
 1 Meditation Pools
 1 Mirkwood
-24 Mountain
+27 Mountain
 1 Nomad Outpost
 4 Opulent Palace
 1 Orzhov Guildgate
 1 Overgrown Tomb
+3 Paradox Gardens
 2 Path of Ancestry
 1 Peculiar Lighthouse
-26 Plains
+29 Plains
 1 Rakdos Guildgate
 1 Rogue's Passage
 4 Rugged Highlands
@@ -74,10 +78,12 @@ legality: commander
 1 Secret Tunnel
 1 Selesnya Guildgate
 1 Shattered Landscape
-1 Shattered Sanctum
+2 Shattered Sanctum
 1 Simic Guildgate
+1 Skycoach Waypoint
 1 Smoldering Marsh
-27 Swamp
+2 Spectacle Summit
+29 Swamp
 3 Swiftwater Cliffs
 1 Temple of Abandon
 1 Temple of Deceit
@@ -89,9 +95,10 @@ legality: commander
 1 Temple of Plenty
 2 Temple of Silence
 2 Temple of Triumph
-1 Terramorphic Expanse
+4 Terramorphic Expanse
 4 Thornwood Falls
 1 Three Tree City
+4 Titan's Grave
 4 Tranquil Cove
 1 Vault of the Archangel
 1 Wastewood Verge

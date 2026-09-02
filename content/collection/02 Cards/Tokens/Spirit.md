@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Creature — Spirit
 >
-> ![Spirit](https://cards.scryfall.io/border_crop/front/6/3/639b70ba-a421-47aa-b356-3b261444e79a.jpg)
+> ![Spirit](https://cards.scryfall.io/border_crop/front/d/0/d0f3bd3d-08cf-4783-ae31-03770c8be69c.jpg)
 
 <div class="collection-side-tables">
 
@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 02/09/2026 | Booster haul |
 
 </div>
 
@@ -38,7 +38,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>6</div>
+<div class="synergy-score-num"><span>Copies</span>16</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -48,6 +48,8 @@
 <tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>9</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
 <tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>6</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Tarkir: Dragonstorm Commander Tokens (<code>TTDC</code>)</td><td>6</td><td>—</td><td>2</td><td>Box</td><td>0.14</td></tr>
+<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>11</td><td>—</td><td>7</td><td>Box</td><td>—</td></tr>
+<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>10</td><td>—</td><td>3</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
 </div>
@@ -58,6 +60,14 @@
 Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/0/d0f3bd3d-08cf-4783-ae31-03770c8be69c.jpg" alt="Spirit TSOS 11 · ×7">
+<figcaption>TSOS 11 · ×7</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/8/7/877f7ddb-ed70-41a0-b845-d9bf8ac65f9b.jpg" alt="Spirit TSOS 10 · ×3">
+<figcaption>TSOS 10 · ×3</figcaption>
+</figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/6/3/639b70ba-a421-47aa-b356-3b261444e79a.jpg" alt="Spirit TTDC 6 · ×2">
 <figcaption>TTDC 6 · ×2</figcaption>
@@ -82,7 +92,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TTDM|Tarkir: Dragonstorm Tokens]] · [[06 Browse/Sets/TTDC|Tarkir: Dragonstorm Commander Tokens]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TTDM|Tarkir: Dragonstorm Tokens]] · [[06 Browse/Sets/TTDC|Tarkir: Dragonstorm Commander Tokens]] · [[06 Browse/Sets/TSOS|Secrets of Strixhaven Tokens]]
 
 ---
 
@@ -94,8 +104,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Creature — Spirit"
-> scryfall_id: 639b70ba-a421-47aa-b356-3b261444e79a
-> quantity: 6
+> scryfall_id: d0f3bd3d-08cf-4783-ae31-03770c8be69c
+> quantity: 16
 > tags:
 >   - card
 >   - collection

@@ -2,7 +2,7 @@
 
 Creature type: Dwarf.
 
-**14** copies · **9** names.
+**23** copies · **15** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,7 +11,13 @@ Creature type: Dwarf.
 | [**`mtg:Dwarven Provisioner`**](https://scryfall.com/card/hob/9) | [[02 Cards/Creatures/Dwarven Provisioner\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Iron Hills Blacksmith`**](https://scryfall.com/card/hob/16) | [[02 Cards/Creatures/Iron Hills Blacksmith\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.18 |
 | [**`mtg:Nori, Teller of Tales`**](https://scryfall.com/card/hob/161) | [[02 Cards/Creatures/Nori, Teller of Tales\|PAGE]] | {1}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.06 |
+| [**`mtg:Scolding Administrator`**](https://scryfall.com/card/sos/224) | [[02 Cards/Creatures/Scolding Administrator\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
+| [**`mtg:Shattered Acolyte`**](https://scryfall.com/card/sos/31) | [[02 Cards/Creatures/Shattered Acolyte\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.28 |
+| [**`mtg:Thunderdrum Soloist`**](https://scryfall.com/card/sos/134) | [[02 Cards/Creatures/Thunderdrum Soloist\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
 | [**`mtg:Óin the Brave`**](https://scryfall.com/card/hob/106) | [[02 Cards/Creatures/Óin the Brave\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
+| [**`mtg:Blazing Firesinger`**](https://scryfall.com/card/sos/109) | [[02 Cards/Creatures/Blazing Firesinger\|PAGE]] | {2}{R} // {2}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |
 | [**`mtg:Bombur, Gentle Dreamer`**](https://scryfall.com/card/hob/88) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
+| [**`mtg:Practiced Scrollsmith`**](https://scryfall.com/card/sos/210) | [[02 Cards/Creatures/Practiced Scrollsmith\|PAGE]] | {R}{R/W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
+| [**`mtg:Rubble Rouser`**](https://scryfall.com/card/sos/128) | [[02 Cards/Creatures/Rubble Rouser\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.10 |
 | [**`mtg:Iron Hills Stalwart`**](https://scryfall.com/card/hob/102) | [[02 Cards/Creatures/Iron Hills Stalwart\|PAGE]] | {4}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.04 |
 | [**`mtg:Bifur, Melodic Rider`**](https://scryfall.com/card/hob/147) | [[02 Cards/Creatures/Bifur, Melodic Rider\|PAGE]] | {4}{R/W}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.08 |

@@ -1,0 +1,90 @@
+# Honorbound Page // Forum's Favor
+
+> [!card-proxy] **`mtg:Honorbound Page // Forum's Favor`**
+>
+> **Mana Cost:** {3}{W} // {W}
+> **Type:** Creature — Cat Cleric // Sorcery
+>
+> ![Honorbound Page // Forum's Favor](https://cards.scryfall.io/border_crop/front/7/9/79a70863-860f-4a7b-9cb2-d3546b689d44.jpg)
+
+<div class="collection-side-tables">
+
+<div class="collection-class">
+
+## Classification
+
+| Category | Links |
+|----------|-------|
+| **Card type** | [[03 Card Types/Creature\|Creature]] · [[03 Card Types/Sorcery\|Sorcery]] |
+| **Creature type** | [[04 Creature Types/Cat\|Cat]] · [[04 Creature Types/Cleric\|Cleric]] |
+| **Colour** | [[05 Colours/White\|White]] |
+| **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
+| **Where** | [[06 Browse/Box\|Box]] |
+
+</div>
+
+<div class="collection-dates">
+
+## Date added
+
+| Date | Event |
+|------|-------|
+| 02/09/2026 | Booster haul |
+
+</div>
+
+</div>
+
+## Printings
+
+<div class="synergy-score collection-copies">
+<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-why">
+<table>
+<thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
+<tbody>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>19</td><td>—</td><td>2</td><td>Box</td><td>0.03</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+### Arts in this Collection
+
+Printings in the collection. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/7/9/79a70863-860f-4a7b-9cb2-d3546b689d44.jpg" alt="Honorbound Page // Forum's Favor SOS 19 · ×2">
+<figcaption>SOS 19 · ×2</figcaption>
+</figure>
+</div>
+
+## Related
+
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Cat|Cat]] · [[04 Creature Types/Cleric|Cleric]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+
+---
+
+> [!metadata]- Metadata
+> ```yaml
+> name: "Honorbound Page // Forum's Favor"
+> aliases:
+>   - "Honorbound Page"
+>   - "Honorbound Page // Forum's Favor"
+> mana_cost: "{3}{W} // {W}"
+> cmc: 4
+> type: "Creature — Cat Cleric // Sorcery"
+> scryfall_id: 79a70863-860f-4a7b-9cb2-d3546b689d44
+> quantity: 2
+> tags:
+>   - card
+>   - cat
+>   - cleric
+>   - collection
+>   - common
+>   - creature
+>   - mana-4
+>   - sorcery
+>   - white
+> ```

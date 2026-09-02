@@ -31,6 +31,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 02/09/2026 | Booster haul |
 
 </div>
 
@@ -39,7 +40,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>24</div>
+<div class="synergy-score-num"><span>Copies</span>27</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -54,6 +55,9 @@
 <tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>5</td><td>Kykar</td><td>0.08</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>270</td><td>—</td><td>1</td><td>Kykar</td><td>0.07</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>284</td><td>—</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>268</td><td>—</td><td>1</td><td>Box</td><td>0.60</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>foil</td><td>1</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
 </tbody>
 </table>
 </div>
@@ -78,6 +82,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>FDN 275 · ×9</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/d/fd1b9e7c-09d0-4907-9f48-34289f3cd2cc.jpg" alt="Island SOS 275 · ×2">
+<figcaption>SOS 275 · ×2</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/0/b0da67fb-1cb2-4105-ab5c-b7c680b8116c.jpg" alt="Island ECL 270 · ×1">
 <figcaption>ECL 270 · ×1</figcaption>
 </figure>
@@ -98,6 +106,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>HOB 190 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/9/3/937250fe-bcad-4ff8-9406-286a69db7e0a.jpg" alt="Island SOS 268 · ×1">
+<figcaption>SOS 268 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/4/2/4208e66c-8c98-4c48-ab07-8523c0b26ca4.jpg" alt="Island TDM 273 · ×1">
 <figcaption>TDM 273 · ×1</figcaption>
 </figure>
@@ -105,7 +117,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Island|Island]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/HOB|The Hobbit]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Island|Island]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 
@@ -118,7 +130,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Island"
 > scryfall_id: 17e2b637-72b1-4457-aaba-66d51107be4c
-> quantity: 24
+> quantity: 27
 > tags:
 >   - card
 >   - collection

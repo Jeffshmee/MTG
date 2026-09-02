@@ -8,7 +8,9 @@ group: auto
 legality: commander
 
 # Owned (in hand, need a cut)
+1 Dreamroot Cascade
 1 Sol Ring
+1 Veil of Summer
 1 Confounding Riddle
 1 Aid from the Cowl
 
@@ -246,6 +248,15 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 > > - [[02 Cards/Instants/Heritage Reclamation|Heritage Reclamation]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Instants/Negate|Negate]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
 
+> [!info] **`mtg:Veil of Summer`**
+> **87** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:87%"></div></div>
+>
+> [[02 Cards/Instants/Veil of Summer|Open local page →]]
+>
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Instants/Negate|Negate]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+
 > [!info] **`mtg:Counterspell`**
 > **79** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:79%"></div></div>
@@ -330,6 +341,15 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 > *Stay in sideboard / wishlist — not purchased.*
 
 ### Lands
+> [!info] **`mtg:Dreamroot Cascade`**
+> **79** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:79%"></div></div>
+>
+> [[02 Cards/Lands/Dreamroot Cascade|Open local page →]]
+>
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Lands/Forest|Forest]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
+
 > [!info] **`mtg:Evolving Wilds`**
 > **64** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:64%"></div></div>
