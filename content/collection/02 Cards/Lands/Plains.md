@@ -47,7 +47,7 @@
 <tbody>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>2</td><td>Box</td><td>0.12</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>7</td><td>Box</td><td>0.12</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>7</td><td>Box</td><td>0.08</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>8</td><td>Box</td><td>0.08</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>274</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.21</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>282</td><td>—</td><td>1</td><td>Zurgo</td><td>0.31</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>—</td><td>1</td><td>Zurgo</td><td>0.18</td></tr>
@@ -55,7 +55,6 @@
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>2</td><td>Kykar</td><td>0.05</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Kykar</td><td>0.13</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>1</td><td>Kykar</td><td>0.10</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>194</td><td>—</td><td>1</td><td>Kykar</td><td>0.29</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>272</td><td>—</td><td>1</td><td>Box</td><td>0.19</td></tr>

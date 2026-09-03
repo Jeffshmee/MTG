@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Archaeomancer`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{U}{U}  
 > **Type:** Creature — Human Wizard  
 > **P/T:** 1/2  
@@ -48,11 +48,11 @@
 
 ## Deck Role & Rating
 
-Archaeomancer returns an instant or sorcery on ETB. Fair targets in the 65: Unsummon, Into the Roil, River's Rebuke. Combo target: Ghostly Flicker, with Drake in play. Shipwreck Dowser is the owned Archaeomancer-lite until this arrives. Not in the owned 65. Buy-rank 5.
+Archaeomancer returns an instant or sorcery on ETB. Fair targets in the 65: Unsummon, Into the Roil, River's Rebuke. Combo target: Ghostly Flicker, with Drake in play. Shipwreck Dowser is the owned Archaeomancer-lite until this arrives. In the owned 88. Combo piece two; Flicker and Drake still ordered.
 
 ## Play Patterns & Lines
 
-- Not in the owned 65. Buy the combo four in one basket (Flicker, Archaeomancer, Drake, Deadeye).
+- Combo four: Archaeomancer is in. Still need Flicker, Drake, Deadeye.
 - Two-card: Deadeye soulbond Drake, {1}{U} flicker Drake, untap five, net mana, repeat. Dump into Channeler (bounce) or Mulldrifter (draw).
 - Three-card: Flicker Archaeomancer and Drake. Archaeomancer returns Flicker. Same dump.
 - Fair: Drake is five mana of untap; Flicker is two permanents; Archaeomancer is Unsummon / Roil from the yard. Play them without the loop.
@@ -69,7 +69,7 @@ Archaeomancer returns an instant or sorcery on ETB. Fair targets in the 65: Unsu
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In the owned 88.
 
 ## Related Pages
 
@@ -92,7 +92,7 @@ Archaeomancer returns an instant or sorcery on ETB. Fair targets in the 65: Unsu
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 96
@@ -100,7 +100,7 @@ Archaeomancer returns an instant or sorcery on ETB. Fair targets in the 65: Unsu
 > scryfall_id: cc258713-6ce3-44e0-9b4b-8fa7d1d093a1
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

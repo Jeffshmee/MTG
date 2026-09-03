@@ -2,7 +2,7 @@
 
 Creature type: Cleric.
 
-**48** copies · **34** names.
+**49** copies · **35** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -16,6 +16,7 @@ Creature type: Cleric.
 | [**`mtg:Nullpriest of Oblivion`**](https://scryfall.com/card/fdn/611) | [[02 Cards/Creatures/Nullpriest of Oblivion\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
 | [**`mtg:Quill-Blade Laureate`**](https://scryfall.com/card/sos/27) | [[02 Cards/Creatures/Quill-Blade Laureate\|PAGE]] | {1}{W} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Scolding Administrator`**](https://scryfall.com/card/sos/224) | [[02 Cards/Creatures/Scolding Administrator\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
+| [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.62 |
 | [**`mtg:Wanderbrine Preacher`**](https://scryfall.com/card/ecl/41) | [[02 Cards/Creatures/Wanderbrine Preacher\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Warren Elder`**](https://scryfall.com/card/blb/37) | [[02 Cards/Creatures/Warren Elder\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rabbit\|Rabbit]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Adept Watershaper`**](https://scryfall.com/card/ecl/3) | [[02 Cards/Creatures/Adept Watershaper\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.45 |

@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 20/08/2026 | Ordered to owned |
+| 03/09/2026 | MageCards · Bigfloppa |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Aetherdrift Commander (<code>DRC</code>)</td><td>135</td><td>—</td><td>1</td><td>Maralen</td><td>5.10</td></tr>
+<tr><td>Aetherdrift Commander (<code>DRC</code>)</td><td>135</td><td>—</td><td>1</td><td>Kykar</td><td>5.37</td></tr>
 </tbody>
 </table>
 </div>
@@ -52,6 +54,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -59,14 +62,14 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/9/d/9d7903ff-359b-49f5-8782-c9dd789c2da6.jpg" alt="Panharmonicon DRC 135 · ×1">
-<figcaption>DRC 135 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/9/d/9d7903ff-359b-49f5-8782-c9dd789c2da6.jpg" alt="Panharmonicon DRC 135 · ×2">
+<figcaption>DRC 135 · ×2</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/DRC|Aetherdrift Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/DRC|Aetherdrift Commander]]
 
 ---
 
@@ -79,7 +82,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 4
 > type: "Artifact"
 > scryfall_id: 9d7903ff-359b-49f5-8782-c9dd789c2da6
-> quantity: 1
+> quantity: 2
 > tags:
 >   - artifact
 >   - card

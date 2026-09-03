@@ -2,7 +2,7 @@
 
 Set `TDC`. Qty here is copies of this name from this set.
 
-**80** copies · **69** names.
+**81** copies · **70** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -18,6 +18,7 @@ Set `TDC`. Qty here is copies of this name from this set.
 | [**`mtg:Vault of the Archangel`**](https://scryfall.com/card/tdc/410) | [[02 Cards/Lands/Vault of the Archangel\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 1.31 |
 | [**`mtg:Windbrisk Heights`**](https://scryfall.com/card/tdc/411) | [[02 Cards/Lands/Windbrisk Heights\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.22 |
 | [**`mtg:Dragonmaster Outcast`**](https://scryfall.com/card/tdc/211) | [[02 Cards/Creatures/Dragonmaster Outcast\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.33 |
+| [**`mtg:Ponder`**](https://scryfall.com/card/tdc/159) | [[02 Cards/Sorceries/Ponder\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.63 |
 | [**`mtg:Skullclamp`**](https://scryfall.com/card/tdc/103) | [[02 Cards/Artifacts/Skullclamp\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 5.26 |
 | [**`mtg:Tempt with Vengeance`**](https://scryfall.com/card/tdc/239) | [[02 Cards/Sorceries/Tempt with Vengeance\|PAGE]] | {X}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.27 |
 | [**`mtg:Wayfarer's Bauble`**](https://scryfall.com/card/tdc/335) | [[02 Cards/Artifacts/Wayfarer's Bauble\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.22 |

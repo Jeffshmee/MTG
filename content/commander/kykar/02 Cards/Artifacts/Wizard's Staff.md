@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Wizard's Staff`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{U}  
 > **Type:** Artifact — Equipment  
 >
@@ -69,7 +69,7 @@ Hang it on [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] 
 
 - Dead without a Wizard in play. Equipment floor.
 - Prowess is noise. Combat is not the plan.
-- Status stays Ordered until it is in hand and committed.
+- In the owned 88.
 
 ## Related Pages
 
@@ -92,7 +92,7 @@ Hang it on [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] 
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Equip"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -100,7 +100,7 @@ Hang it on [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] 
 > scryfall_id: 0de529a7-bdc5-4581-a169-1ad123bc099a
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ponder`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {U}  
 > **Type:** Sorcery  
 >
@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-Ponder is a cantrip or refill at {U}. Noncreature, so [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] triggers. Keep [[02 Cards/Instants/Opt|Opt]] density until Ponder / Preordain arrive. Cantrip that sets up Kykar triggers. It is not in the owned 65 yet.
+Ponder is a cantrip or refill at {U}. Noncreature, so [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] triggers. Keep [[02 Cards/Instants/Opt|Opt]] density until Ponder / Preordain arrive. Cantrip that sets up Kykar triggers. Now in the owned 88.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ Ponder is a cantrip or refill at {U}. Noncreature, so [[02 Cards/Creatures/Kykar
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In the owned 88.
 
 ## Related Pages
 
@@ -88,7 +88,7 @@ Ponder is a cantrip or refill at {U}. Noncreature, so [[02 Cards/Creatures/Kykar
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 88
@@ -96,7 +96,7 @@ Ponder is a cantrip or refill at {U}. Noncreature, so [[02 Cards/Creatures/Kykar
 > scryfall_id: dc69f960-68ba-4315-8146-6a7a82047503
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**285** copies · **95** names.
+**286** copies · **96** names.
 
 ```decklist
 group: auto
@@ -71,6 +71,7 @@ legality: commander
 4 Rugged Highlands
 1 Rumble Arena
 1 Sacred Foundry
+1 Savage Lands
 1 Savai Triome
 3 Scoured Barrens
 1 Secluded Courtyard

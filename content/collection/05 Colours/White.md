@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**213** copies · **159** names.
+**215** copies · **161** names.
 
 ```decklist
 group: auto
@@ -19,6 +19,7 @@ legality: commander
 1 Angel of Invention
 1 Angel of Vitality
 1 Apothecary Geist
+1 Arahbo, the First Fang
 1 Arashin Sunshield
 1 Archway Angel
 3 Ascendant Dustspeaker
@@ -33,6 +34,7 @@ legality: commander
 1 Crusader of Odric
 1 Cult Healer
 1 Dalkovan Packbeasts
+1 Danitha, Benalia's Hope
 1 Dawnwing Marshal
 1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
 2 Dragonback Lancer
@@ -84,6 +86,7 @@ legality: commander
 1 Sacred Cat
 1 Salt Road Packbeast
 1 Savannah Lions
+1 Selfless Spirit
 2 Shattered Acolyte
 1 Shrike Force
 1 Soaring Stoneglider
@@ -138,7 +141,6 @@ legality: commander
 1 Will of the Mardu
 
 # Sorceries
-1 Antiquities on the Loose
 1 Day of Judgment
 1 Daydream
 1 Devout Decree

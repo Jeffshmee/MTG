@@ -2,7 +2,7 @@
 
 Card type: Instant.
 
-**254** copies · **172** names.
+**256** copies · **174** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -95,6 +95,7 @@ Card type: Instant.
 | [**`mtg:Sarkhan's Resolve`**](https://scryfall.com/card/tdm/158) | [[02 Cards/Instants/Sarkhan's Resolve\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.08 |
 | [**`mtg:Silverquill Charm`**](https://scryfall.com/card/sos/225) | [[02 Cards/Instants/Silverquill Charm\|PAGE]] | {W}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Smaug's Fury`**](https://scryfall.com/card/hob/111) | [[02 Cards/Instants/Smaug's Fury\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
+| [**`mtg:Snap`**](https://scryfall.com/card/dds/10) | [[02 Cards/Instants/Snap\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.33 |
 | [**`mtg:Spectral Interference`**](https://scryfall.com/card/dft/63) | [[02 Cards/Instants/Spectral Interference\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |
 | [**`mtg:Stone by Sunlight`**](https://scryfall.com/card/hob/27) | [[02 Cards/Instants/Stone by Sunlight\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
 | [**`mtg:Teach by Example`**](https://scryfall.com/card/fdn/666) | [[02 Cards/Instants/Teach by Example\|PAGE]] | {U/R}{U/R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
@@ -157,6 +158,7 @@ Card type: Instant.
 | [**`mtg:Mystical Teachings`**](https://scryfall.com/card/fdn/594) | [[02 Cards/Instants/Mystical Teachings\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.11 |
 | [**`mtg:Peer Past the Veil`**](https://scryfall.com/card/dsk/226) | [[02 Cards/Instants/Peer Past the Veil\|PAGE]] | {2}{R}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.08 |
 | [**`mtg:Run Behind`**](https://scryfall.com/card/sos/66) | [[02 Cards/Instants/Run Behind\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 0.11 |
+| [**`mtg:Scour for Scrap`**](https://scryfall.com/card/eoe/73) | [[02 Cards/Instants/Scour for Scrap\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.56 |
 | [**`mtg:Thorin's Last Stand`**](https://scryfall.com/card/hob/28) | [[02 Cards/Instants/Thorin's Last Stand\|PAGE]] | {2}{W}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.04 |
 | [**`mtg:Uncharted Voyage`**](https://scryfall.com/card/fdn/53) | [[02 Cards/Instants/Uncharted Voyage\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
 | [**`mtg:Uneasy Partings`**](https://scryfall.com/card/hob/58) | [[02 Cards/Instants/Uneasy Partings\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |

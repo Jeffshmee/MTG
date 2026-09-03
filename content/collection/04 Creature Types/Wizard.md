@@ -2,7 +2,7 @@
 
 Creature type: Wizard.
 
-**77** copies · **54** names.
+**78** copies · **55** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -40,6 +40,7 @@ Creature type: Wizard.
 | [**`mtg:Tempest Angler`**](https://scryfall.com/card/blb/235) | [[02 Cards/Creatures/Tempest Angler\|PAGE]] | {1}{U/R}{U/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Otter\|Otter]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Textbook Tabulator`**](https://scryfall.com/card/sos/70) | [[02 Cards/Creatures/Textbook Tabulator\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.10 |
 | [**`mtg:Unsparing Boltcaster`**](https://scryfall.com/card/tdm/130) | [[02 Cards/Creatures/Unsparing Boltcaster\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Ogre\|Ogre]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.12 |
+| [**`mtg:Archaeomancer`**](https://scryfall.com/card/uma/45) | [[02 Cards/Creatures/Archaeomancer\|PAGE]] | {2}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.33 |
 | [**`mtg:Clinquant Skymage`**](https://scryfall.com/card/fdn/33) | [[02 Cards/Creatures/Clinquant Skymage\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.10 |
 | [**`mtg:High Fae Trickster`**](https://scryfall.com/card/fdn/40) | [[02 Cards/Creatures/High Fae Trickster\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 5.24 |
 | [**`mtg:Kykar, Zephyr Awakener`**](https://scryfall.com/card/fdn/122) | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|PAGE]] | {2}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |

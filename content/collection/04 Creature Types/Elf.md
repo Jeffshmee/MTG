@@ -2,7 +2,7 @@
 
 Creature type: Elf.
 
-**115** copies · **73** names.
+**114** copies · **72** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -71,7 +71,6 @@ Creature type: Elf.
 | [**`mtg:Halsin, Emerald Archdruid`**](https://scryfall.com/card/clb/408) | [[02 Cards/Creatures/Halsin, Emerald Archdruid\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.11 |
 | [**`mtg:High Perfect Morcant`**](https://scryfall.com/card/ecl/229) | [[02 Cards/Creatures/High Perfect Morcant\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 3.33 |
 | [**`mtg:Lathril, Blade of the Elves`**](https://scryfall.com/card/fdn/242) | [[02 Cards/Creatures/Lathril, Blade of the Elves\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 2.10 |
-| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | {2}{B}{G} // {B/G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Shessra, Death's Whisper`**](https://scryfall.com/card/afr/345) | [[02 Cards/Creatures/Shessra, Death's Whisper\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.15 |
 | [**`mtg:Thranduil, Sindarin Liege`**](https://scryfall.com/card/hob/166) | [[02 Cards/Creatures/Thranduil, Sindarin Liege\|PAGE]] | {2}{G/U}{G/U} // {1}{G/U}{G/U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |
 | [**`mtg:Wardens of the Cycle`**](https://scryfall.com/card/fdn/125) | [[02 Cards/Creatures/Wardens of the Cycle\|PAGE]] | {1}{B}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.16 |

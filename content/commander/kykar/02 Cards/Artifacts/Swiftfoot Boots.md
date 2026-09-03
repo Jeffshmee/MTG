@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Swiftfoot Boots`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}  
 > **Type:** Artifact — Equipment  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Swiftfoot Boots](https://cards.scryfall.io/border_crop/front/0/3/03f7e9fc-8e59-45c1-90fc-1d04d929b292.jpg)
+> ![Swiftfoot Boots](https://cards.scryfall.io/border_crop/front/c/f/cfc0480c-ed2c-4504-b4dc-8881613e9a90.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 
 ## Deck Role & Rating
 
-Swiftfoot Boots ({2}). Hexproof haste. Lightning Greaves is locked in both other 100s. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. It is not in the owned 65 yet.
+Swiftfoot Boots ({2}). Hexproof haste. Lightning Greaves is locked in both other 100s. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. Now in the owned 88.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ Swiftfoot Boots ({2}). Hexproof haste. Lightning Greaves is locked in both other
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In the owned 88.
 
 ## Related Pages
 
@@ -88,15 +88,15 @@ Swiftfoot Boots ({2}). Hexproof haste. Lightning Greaves is locked in both other
 > colors: []
 > color_identity: []
 > keywords: ["Equip"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 82
 >   deck_specific: 86
 >   combined: 84
-> scryfall_id: 03f7e9fc-8e59-45c1-90fc-1d04d929b292
+> scryfall_id: cfc0480c-ed2c-4504-b4dc-8881613e9a90
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

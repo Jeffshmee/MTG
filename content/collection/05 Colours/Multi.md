@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**231** copies · **175** names.
+**230** copies · **175** names.
 
 ```decklist
 group: auto
@@ -20,6 +20,7 @@ legality: commander
 1 Bard, King of Dale
 1 Bifur, Melodic Rider
 1 Bloodbraid Elf
+1 Boggart Cursecrafter
 3 Bogwater Lumaret
 1 Bolg of the North
 1 Bone-Cairn Butcher
@@ -67,7 +68,6 @@ legality: commander
 2 Lathril, Blade of the Elves
 1 Ledev Champion
 1 Lilysplash Mentor
-1 Lluwen, Exchange Student // Pest Friend
 1 Lluwen, Imperfect Naturalist
 1 Maraleaf Pixie
 2 Maralen, Fae Ascendant
@@ -85,7 +85,7 @@ legality: commander
 1 Paradox Surveyor
 1 Patient Instructor
 1 Perforating Artist
-2 Pest Mascot
+1 Pest Mascot
 1 Pond Prophet
 1 Practiced Scrollsmith
 3 Pterafractyl

@@ -2,7 +2,7 @@
 
 Cards whose mana value is 0.
 
-**470** copies · **145** names.
+**471** copies · **146** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -96,7 +96,7 @@ Cards whose mana value is 0.
 | [**`mtg:Peculiar Lighthouse`**](https://scryfall.com/card/dsk/265) | [[02 Cards/Lands/Peculiar Lighthouse\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.08 |
 | [**`mtg:Pest`**](https://scryfall.com/card/tsos/8) | [[02 Cards/Tokens/Pest\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 6 | 0.00 |
 | [**`mtg:Phyrexian Goblin`**](https://scryfall.com/card/tfdn/31) | [[02 Cards/Tokens/Phyrexian Goblin\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.42 |
-| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 29 | 4.39 |
+| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 29 | 4.38 |
 | [**`mtg:Rabbit`**](https://scryfall.com/card/tfdn/5) | [[02 Cards/Tokens/Rabbit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
 | [**`mtg:Rakdos Guildgate`**](https://scryfall.com/card/fdn/693) | [[02 Cards/Lands/Rakdos Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
 | [**`mtg:Rat`**](https://scryfall.com/card/tfdn/30) | [[02 Cards/Tokens/Rat\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.58 |
@@ -104,6 +104,7 @@ Cards whose mana value is 0.
 | [**`mtg:Rugged Highlands`**](https://scryfall.com/card/fdn/265) | [[02 Cards/Lands/Rugged Highlands\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {R}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.24 |
 | [**`mtg:Rumble Arena`**](https://scryfall.com/card/tla/277) | [[02 Cards/Lands/Rumble Arena\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.06 |
 | [**`mtg:Sacred Foundry`**](https://scryfall.com/card/gtc/245) | [[02 Cards/Lands/Sacred Foundry\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Mountain\|Mountain]] [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.00 |
+| [**`mtg:Savage Lands`**](https://scryfall.com/card/cmm/1025) | [[02 Cards/Lands/Savage Lands\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.62 |
 | [**`mtg:Savai Triome`**](https://scryfall.com/card/iko/312) | [[02 Cards/Lands/Savai Triome\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Mountain\|Mountain]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 13.63 |
 | [**`mtg:Scoured Barrens`**](https://scryfall.com/card/fdn/266) | [[02 Cards/Lands/Scoured Barrens\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.15 |
 | [**`mtg:Secluded Courtyard`**](https://scryfall.com/card/fdn/267) | [[02 Cards/Lands/Secluded Courtyard\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.29 |

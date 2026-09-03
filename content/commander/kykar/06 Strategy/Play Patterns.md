@@ -67,7 +67,7 @@ Do not gift the Fish on Flood Maw against a token deck.
 
 ---
 
-## Combo sequencing (pending)
+## Combo sequencing (Archaeomancer in; Flicker / Drake / Deadeye ordered)
 
 None of the combo pieces are in the 80. When they arrive:
 

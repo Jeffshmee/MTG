@@ -2,7 +2,7 @@
 
 Set `ECL`. Qty here is copies of this name from this set.
 
-**105** copies · **75** names.
+**106** copies · **76** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -20,6 +20,7 @@ Set `ECL`. Qty here is copies of this name from this set.
 | [**`mtg:Auntie's Sentence`**](https://scryfall.com/card/ecl/85) | [[02 Cards/Sorceries/Auntie's Sentence\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Bark of Doran`**](https://scryfall.com/card/ecl/6) | [[02 Cards/Artifacts/Bark of Doran\|PAGE]] | {1}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 17.03 |
+| [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/331) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.22 |
 | [**`mtg:Bogslither's Embrace`**](https://scryfall.com/card/ecl/94) | [[02 Cards/Sorceries/Bogslither's Embrace\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Feisty Spikeling`**](https://scryfall.com/card/ecl/223) | [[02 Cards/Creatures/Feisty Spikeling\|PAGE]] | {1}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Flame-Chain Mauler`**](https://scryfall.com/card/ecl/138) | [[02 Cards/Creatures/Flame-Chain Mauler\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.08 |

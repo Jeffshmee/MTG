@@ -114,13 +114,13 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Fix What's Broken`**](https://scryfall.com/card/sos/188) | [[02 Cards/Sorceries/Fix What's Broken\|PAGE]] | {2}{W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.22 | — |
 | [**`mtg:Tragedy Feaster`**](https://scryfall.com/card/sos/102) | [[02 Cards/Creatures/Tragedy Feaster\|PAGE]] | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.22 | — |
 | [**`mtg:Ark of Hunger`**](https://scryfall.com/card/sos/173) | [[02 Cards/Artifacts/Ark of Hunger\|PAGE]] | {2}{R}{W} | [[03 Card Types/Artifact\|Artifact]] | Rare | — | 1 | 0.19 | — |
-| [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | [[02 Cards/Enchantments/Comforting Counsel\|PAGE]] | {1}{G} | [[03 Card Types/Enchantment\|Enchantment]] | Rare | — | 1 | 0.18 | — |
+| [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | — | — | — | Rare | — | 1 | 0.18 | — |
 | [**`mtg:Moment of Reckoning`**](https://scryfall.com/card/sos/205) | [[02 Cards/Sorceries/Moment of Reckoning\|PAGE]] | {3}{W}{W}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 2 | 0.18 | — |
 | [**`mtg:Wildgrowth Archaic`**](https://scryfall.com/card/sos/168) | [[02 Cards/Creatures/Wildgrowth Archaic\|PAGE]] | {2/G}{2/G} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.17 | — |
 | [**`mtg:Aziza, Mage Tower Captain`**](https://scryfall.com/card/sos/174) | [[02 Cards/Creatures/Aziza, Mage Tower Captain\|PAGE]] | {R}{W} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.16 | — |
 | [**`mtg:Pox Plague`**](https://scryfall.com/card/sos/94) | [[02 Cards/Sorceries/Pox Plague\|PAGE]] | {B}{B}{B}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.16 | — |
 | [**`mtg:Wisdom of Ages`**](https://scryfall.com/card/sos/71) | [[02 Cards/Sorceries/Wisdom of Ages\|PAGE]] | {4}{U}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.14 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). Greedy {4}{U}{U}{U} on 21 lands. |
-| [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | [[02 Cards/Sorceries/Antiquities on the Loose\|PAGE]] | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.13 | — |
+| [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | — | — | — | Rare | — | 1 | 0.13 | — |
 | [**`mtg:Choreographed Sparks`**](https://scryfall.com/card/sos/111) | [[02 Cards/Instants/Choreographed Sparks\|PAGE]] | {R}{R} | [[03 Card Types/Instant\|Instant]] | Rare | — | 1 | 0.13 | — |
 | [**`mtg:Jadzi, Steward of Fate`**](https://scryfall.com/card/sos/55) | [[02 Cards/Creatures/Jadzi, Steward of Fate\|PAGE]] | {2}{U} // {X}{X}{U} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.13 | — |
 | [**`mtg:Steal the Show`**](https://scryfall.com/card/sos/130) | [[02 Cards/Sorceries/Steal the Show\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.11 | — |
@@ -166,7 +166,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Divergent Equation`**](https://scryfall.com/card/sos/43) | [[02 Cards/Instants/Divergent Equation\|PAGE]] | {X}{X}{U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Ennis, Debate Moderator`**](https://scryfall.com/card/sos/14) | [[02 Cards/Creatures/Ennis, Debate Moderator\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Helping Hand`**](https://scryfall.com/card/soa/5) | [[02 Cards/Sorceries/Helping Hand\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.12 | — |
-| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | {2}{B}{G} // {B/G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.12 | — |
+| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | — | — | — | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Rabid Attack`**](https://scryfall.com/card/sos/96) | [[02 Cards/Instants/Rabid Attack\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Thunderdrum Soloist`**](https://scryfall.com/card/sos/134) | [[02 Cards/Creatures/Thunderdrum Soloist\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Dissection Practice`**](https://scryfall.com/card/sos/79) | [[02 Cards/Instants/Dissection Practice\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.11 | — |
@@ -692,7 +692,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Stress Dream`**](https://scryfall.com/card/sos/235) | [[02 Cards/Instants/Stress Dream\|PAGE]] | {3}{U}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.03 | — |
 | [**`mtg:Infirmary Healer`**](https://scryfall.com/card/sos/152) | [[02 Cards/Creatures/Infirmary Healer\|PAGE]] | {1}{G} // {X}{G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.09 | — |
 | [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.25 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). One-mana blink plus flashback. |
-| [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | [[02 Cards/Enchantments/Comforting Counsel\|PAGE]] | {1}{G} | [[03 Card Types/Enchantment\|Enchantment]] | Rare | — | 1 | 0.18 | — |
+| [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | — | — | — | Rare | — | 1 | 0.18 | — |
 | [**`mtg:Deduce`**](https://scryfall.com/card/soa/16) | [[02 Cards/Instants/Deduce\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.09 | — |
 | [**`mtg:Geometer's Arthropod`**](https://scryfall.com/card/sos/300) | [[02 Cards/Creatures/Geometer's Arthropod\|PAGE]] | {G}{U} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 0.50 | — |
 | [**`mtg:Mountain`**](https://scryfall.com/card/sos/279) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.11 | — |
@@ -714,7 +714,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Pterafractyl`**](https://scryfall.com/card/sos/215) | [[02 Cards/Creatures/Pterafractyl\|PAGE]] | {X}{G}{U} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.04 |
 | [**`mtg:Vibrant Outburst`**](https://scryfall.com/card/sos/240) | [[02 Cards/Instants/Vibrant Outburst\|PAGE]] | {U}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.19 |
 | [**`mtg:Soaring Stoneglider`**](https://scryfall.com/card/sos/32) | [[02 Cards/Creatures/Soaring Stoneglider\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.05 |
-| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | {2}{B}{G} // {B/G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.12 |
+| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | — | — | — | Uncommon | — | 1 | 0.12 |
 | [**`mtg:Tragedy Feaster`**](https://scryfall.com/card/sos/102) | [[02 Cards/Creatures/Tragedy Feaster\|PAGE]] | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.22 |
 | [**`mtg:Locust Spray`**](https://scryfall.com/card/soa/31) | [[02 Cards/Instants/Locust Spray\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.06 |
 | [**`mtg:Terramorphic Expanse`**](https://scryfall.com/card/sos/265) | [[02 Cards/Lands/Terramorphic Expanse\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | foil | 1 | 0.10 |
@@ -988,7 +988,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Arcane Omens`**](https://scryfall.com/card/sos/73) | [[02 Cards/Sorceries/Arcane Omens\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.05 |
 | [**`mtg:Topiary Lecturer`**](https://scryfall.com/card/sos/165) | [[02 Cards/Creatures/Topiary Lecturer\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.16 |
 | [**`mtg:Orysa, Tide Choreographer`**](https://scryfall.com/card/sos/62) | [[02 Cards/Creatures/Orysa, Tide Choreographer\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.06 |
-| [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | [[02 Cards/Sorceries/Antiquities on the Loose\|PAGE]] | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.13 |
+| [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | — | — | — | Rare | — | 1 | 0.13 |
 | [**`mtg:Scheming Silvertongue`**](https://scryfall.com/card/sos/99) | [[02 Cards/Creatures/Scheming Silvertongue\|PAGE]] | {1}{B} // {B}{B} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.87 |
 | [**`mtg:Burst Lightning`**](https://scryfall.com/card/soa/41) | [[02 Cards/Instants/Burst Lightning\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.15 |
 | [**`mtg:Mindful Biomancer`**](https://scryfall.com/card/sos/154) | [[02 Cards/Creatures/Mindful Biomancer\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] | Common | foil | 1 | 0.03 |

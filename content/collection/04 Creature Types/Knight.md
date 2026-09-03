@@ -2,7 +2,7 @@
 
 Creature type: Knight.
 
-**15** copies · **14** names.
+**16** copies · **15** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -19,4 +19,5 @@ Creature type: Knight.
 | [**`mtg:Dion, Bahamut's Dominant`**](https://scryfall.com/card/fin/16) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Knight\|Knight]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.41 |
 | [**`mtg:Hero of Bladehold`**](https://scryfall.com/card/tdc/119) | [[02 Cards/Creatures/Hero of Bladehold\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.05 |
 | [**`mtg:Wilt-Leaf Liege`**](https://scryfall.com/card/fdn/668) | [[02 Cards/Creatures/Wilt-Leaf Liege\|PAGE]] | {1}{G/W}{G/W}{G/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
+| [**`mtg:Danitha, Benalia's Hope`**](https://scryfall.com/card/dmu/15) | [[02 Cards/Creatures/Danitha, Benalia's Hope\|PAGE]] | {4}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.38 |
 | [**`mtg:Syr Alin, the Lion's Claw`**](https://scryfall.com/card/fdn/582) | [[02 Cards/Creatures/Syr Alin, the Lion's Claw\|PAGE]] | {3}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.09 |

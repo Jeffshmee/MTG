@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Starfield Vocalist`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{U}  
 > **Type:** Creature — Human Bard  
 > **P/T:** 3/4  
@@ -68,7 +68,7 @@ Vocalist doubles ETB triggers on your permanents, including enchantments. Warp {
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In the owned 88.
 - Kykar's blink is delayed. Do not block with the blinked creature; it is gone until end of turn.
 
 ## Related Pages
@@ -92,7 +92,7 @@ Vocalist doubles ETB triggers on your permanents, including enchantments. Warp {
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Warp"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 88
 >   deck_specific: 96
@@ -100,7 +100,7 @@ Vocalist doubles ETB triggers on your permanents, including enchantments. Warp {
 > scryfall_id: deca0b2a-e7f3-444a-883d-7c41dd62c9cc
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

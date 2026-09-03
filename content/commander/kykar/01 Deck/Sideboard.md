@@ -1,13 +1,13 @@
 # Sideboard
 
-Owned extras (not in the 80) and wishlist / buy-list cards.
+Owned extras (not in the 88) and wishlist / buy-list cards.
 These are **not** in the main list until physically integrated and committed.
 
 ```decklist
 group: auto
 legality: commander
 
-# Owned extras (not in the 80)
+# Owned extras (not in the 88)
 1 Cryptic Caves
 1 Hidden Grotto
 1 Divine Resilience
@@ -55,7 +55,6 @@ legality: commander
 1 Ephemerate
 1 Essence Flux
 1 Path to Exile
-1 Ponder
 1 Preordain
 1 Arcane Signet
 1 Azorius Signet
@@ -69,12 +68,8 @@ legality: commander
 1 Parting Gust
 1 Razorgrass Ambush
 1 Sapphire Medallion
-1 Snap
-1 Swiftfoot Boots
-1 Talisman of Progress
 1 Thought Vessel
 1 Wall of Omens
-1 Wizard's Staff
 1 Circuit Mender
 1 Deputy of Detention
 1 Eerie Interlude
@@ -95,11 +90,8 @@ legality: commander
 1 Soulherder
 1 Spellseeker
 1 Aetherize
-1 Archaeomancer
 1 Displacer Kitten
-1 Panharmonicon
 1 Restoration Angel
-1 Starfield Vocalist
 1 Stonehorn Dignitary
 1 Supreme Verdict
 1 Teleportation Circle
@@ -316,17 +308,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
-> [!info] **`mtg:Archaeomancer`**
-> **91** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:91%"></div></div>
->
-> [[02 Cards/Creatures/Archaeomancer|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
 > [!info] **`mtg:Displacer Kitten`**
 > **96** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:96%"></div></div>
@@ -351,17 +332,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
 > [[02 Cards/Creatures/Restoration Angel|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
-> [!info] **`mtg:Starfield Vocalist`**
-> **93** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:93%"></div></div>
->
-> [[02 Cards/Creatures/Starfield Vocalist|Open local page →]]
 >
 > > [!note]- Possible Cuts
 > > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
@@ -596,17 +566,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
-> [!info] **`mtg:Snap`**
-> **90** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:90%"></div></div>
->
-> [[02 Cards/Instants/Snap|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
 > [!info] **`mtg:Divide by Zero`**
 > **78** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:78%"></div></div>
@@ -709,17 +668,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
 
 ### Sorceries
-> [!info] **`mtg:Ponder`**
-> **86** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:86%"></div></div>
->
-> [[02 Cards/Sorceries/Ponder|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
-
 > [!info] **`mtg:Preordain`**
 > **86** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:86%"></div></div>
@@ -908,36 +856,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
 > > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
 
-> [!info] **`mtg:Swiftfoot Boots`**
-> **84** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:84%"></div></div>
->
-> [[02 Cards/Artifacts/Swiftfoot Boots|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
-> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
-
-> [!info] **`mtg:Wizard's Staff`**
-> **85** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:85%"></div></div>
->
-> [[02 Cards/Artifacts/Wizard's Staff|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
-> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
-
-> [!info] **`mtg:Talisman of Progress`**
-> **85** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:85%"></div></div>
->
-> [[02 Cards/Artifacts/Talisman of Progress|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
-> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
-
 > [!info] **`mtg:Thought Vessel`**
 > **85** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:85%"></div></div>
@@ -958,17 +876,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
 > > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
 
-> [!info] **`mtg:Panharmonicon`**
-> **92** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:92%"></div></div>
->
-> [[02 Cards/Artifacts/Panharmonicon|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
-> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
-
-### Lands
 > [!info] **`mtg:Adarkar Wastes`**
 > **85** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:85%"></div></div>

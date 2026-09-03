@@ -2,7 +2,7 @@
 
 Card type: Enchantment.
 
-**79** copies · **69** names.
+**78** copies · **68** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -15,7 +15,6 @@ Card type: Enchantment.
 | [**`mtg:Vampiric Rites`**](https://scryfall.com/card/fdn/615) | [[02 Cards/Enchantments/Vampiric Rites\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.18 |
 | [**`mtg:Witness Protection`**](https://scryfall.com/card/fdn/168) | [[02 Cards/Enchantments/Witness Protection\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.19 |
 | [**`mtg:Anthem of Champions`**](https://scryfall.com/card/fdn/116) | [[02 Cards/Enchantments/Anthem of Champions\|PAGE]] | {G}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
-| [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | [[02 Cards/Enchantments/Comforting Counsel\|PAGE]] | {1}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.18 |
 | [**`mtg:Fire-Rim Form`**](https://scryfall.com/card/tdm/107) | [[02 Cards/Enchantments/Fire-Rim Form\|PAGE]] | {1}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
 | [**`mtg:Hollowmurk Siege`**](https://scryfall.com/card/tdm/192) | [[02 Cards/Enchantments/Hollowmurk Siege\|PAGE]] | {B}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.71 |
 | [**`mtg:Impact Tremors`**](https://scryfall.com/card/moc/285) | [[02 Cards/Enchantments/Impact Tremors\|PAGE]] | {1}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.35 |

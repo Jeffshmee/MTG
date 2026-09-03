@@ -2,7 +2,7 @@
 
 Cards whose mana value is 3.
 
-**341** copies · **265** names.
+**340** copies · **265** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -17,7 +17,7 @@ Cards whose mana value is 3.
 | [**`mtg:Anafenza, Unyielding Lineage`**](https://scryfall.com/card/tdm/2) | [[02 Cards/Creatures/Anafenza, Unyielding Lineage\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
 | [**`mtg:Angel of Vitality`**](https://scryfall.com/card/clu/53) | [[02 Cards/Creatures/Angel of Vitality\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Anim Pakal, Thousandth Moon`**](https://scryfall.com/card/lci/223) | [[02 Cards/Creatures/Anim Pakal, Thousandth Moon\|PAGE]] | {1}{R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 4.15 |
-| [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | [[02 Cards/Sorceries/Antiquities on the Loose\|PAGE]] | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
+| [**`mtg:Arahbo, the First Fang`**](https://scryfall.com/card/fdn/2) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.58 |
 | [**`mtg:Arnyn, Deathbloom Botanist`**](https://scryfall.com/card/sos/74) | [[02 Cards/Creatures/Arnyn, Deathbloom Botanist\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.19 |
 | [**`mtg:Aron, Benalia's Ruin`**](https://scryfall.com/card/dmu/292) | [[02 Cards/Creatures/Aron, Benalia's Ruin\|PAGE]] | {W}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Human\|Human]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Ashe, Princess of Dalmasca`**](https://scryfall.com/card/fin/7) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rebel\|Rebel]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
@@ -171,7 +171,7 @@ Cards whose mana value is 3.
 | [**`mtg:Patient Instructor`**](https://scryfall.com/card/hob/162) | [[02 Cards/Creatures/Patient Instructor\|PAGE]] | {2}{W/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Pensive Professor`**](https://scryfall.com/card/sos/63) | [[02 Cards/Creatures/Pensive Professor\|PAGE]] | {1}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.41 |
 | [**`mtg:Perforating Artist`**](https://scryfall.com/card/fdn/124) | [[02 Cards/Creatures/Perforating Artist\|PAGE]] | {1}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Devil\|Devil]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
-| [**`mtg:Pest Mascot`**](https://scryfall.com/card/sos/209) | [[02 Cards/Creatures/Pest Mascot\|PAGE]] | {1}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Pest\|Pest]] [[04 Creature Types/Ape\|Ape]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.14 |
+| [**`mtg:Pest Mascot`**](https://scryfall.com/card/sos/209) | [[02 Cards/Creatures/Pest Mascot\|PAGE]] | {1}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Pest\|Pest]] [[04 Creature Types/Ape\|Ape]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Poised Practitioner`**](https://scryfall.com/card/tdm/18) | [[02 Cards/Creatures/Poised Practitioner\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Monk\|Monk]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Poisoner's Apprentice`**](https://scryfall.com/card/sos/92) | [[02 Cards/Creatures/Poisoner's Apprentice\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.11 |
 | [**`mtg:Potioner's Trove`**](https://scryfall.com/card/sos/251) | [[02 Cards/Artifacts/Potioner's Trove\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.09 |

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Panharmonicon`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}  
 > **Type:** Artifact  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Panharmonicon](https://cards.scryfall.io/border_crop/front/9/9/998d0cc8-ca2a-41c3-ab65-d05c26ab8278.jpg)
+> ![Panharmonicon](https://cards.scryfall.io/border_crop/front/9/d/9d7903ff-359b-49f5-8782-c9dd789c2da6.jpg)
 >
 > ### Deck Scores
 >
@@ -65,7 +65,7 @@ The ETB doubler this blink list is built around. Blink [[02 Cards/Creatures/Aeth
 ## Anti-synergies / Notes
 
 - Locked in Maralen until the bought copy arrives. Same rule as Arcane Signet.
-- Status stays Ordered until it is in hand and committed.
+- In the owned 88.
 
 ## Related Pages
 
@@ -88,15 +88,15 @@ The ETB doubler this blink list is built around. Blink [[02 Cards/Creatures/Aeth
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 90
 >   deck_specific: 94
 >   combined: 92
-> scryfall_id: 998d0cc8-ca2a-41c3-ab65-d05c26ab8278
+> scryfall_id: 9d7903ff-359b-49f5-8782-c9dd789c2da6
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

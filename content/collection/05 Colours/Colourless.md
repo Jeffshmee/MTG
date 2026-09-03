@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**95** copies · **69** names.
+**98** copies · **71** names.
 
 ```decklist
 group: auto
@@ -67,7 +67,7 @@ legality: commander
 1 Mazemind Tome
 1 Mobile Garrison
 1 Monk's Fist
-1 Panharmonicon
+2 Panharmonicon
 4 Patchwork Banner
 3 Potioner's Trove
 1 Pyromancer's Goggles
@@ -79,8 +79,10 @@ legality: commander
 1 Soul-Guide Lantern
 1 Stalactite Dagger
 1 Strixhaven Skycoach
+1 Swiftfoot Boots
 1 Talisman of Conviction
 1 Talisman of Hierarchy
+1 Talisman of Progress
 1 Wayfarer's Bauble
 
 ```

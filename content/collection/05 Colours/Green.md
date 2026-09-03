@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**231** copies · **154** names.
+**230** copies · **153** names.
 
 ```decklist
 group: auto
@@ -161,7 +161,6 @@ legality: commander
 # Enchantments
 1 Additive Evolution
 1 Aid from the Cowl
-1 Comforting Counsel
 1 Garruk's Uprising
 1 Morcant's Eyes
 1 Ordeal of Nylea

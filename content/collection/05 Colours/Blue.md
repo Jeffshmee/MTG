@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**223** copies · **174** names.
+**229** copies · **180** names.
 
 ```decklist
 group: auto
@@ -14,6 +14,7 @@ legality: commander
 1 Aether Channeler
 2 Agent of Kotis
 1 Arcanis the Omnipotent
+1 Archaeomancer
 1 Bigfin Bouncer
 2 Bilbo Baggins, Burglar // Take a Glance
 3 Brineborn Cutthroat
@@ -89,6 +90,7 @@ legality: commander
 2 Spellbook Seeker // Careful Study
 1 Spellstutter Sprite
 1 Sphinx of the Final Word
+1 Starfield Vocalist
 1 Stitched Mangler
 1 Stormwing Entity
 1 Strix Lookout
@@ -141,6 +143,8 @@ legality: commander
 1 Repeal
 2 Run Away Together
 3 Run Behind
+1 Scour for Scrap
+1 Snap
 1 Spectral Denial
 1 Spectral Interference
 2 Spell Pierce
@@ -162,6 +166,7 @@ legality: commander
 1 Flow State
 1 Inspiration from Beyond
 1 Otterball Antics
+1 Ponder
 2 Procrastinate
 1 Rite of Replication
 1 River's Rebuke
@@ -191,5 +196,6 @@ legality: commander
 # Artifacts
 1 Marina Vendrell's Grimoire
 1 Midnight Mangler
+1 Wizard's Staff
 
 ```

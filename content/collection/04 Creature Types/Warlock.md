@@ -2,13 +2,14 @@
 
 Creature type: Warlock.
 
-**45** copies · **28** names.
+**46** copies · **29** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Burrog Banemaker`**](https://scryfall.com/card/sos/75) | [[02 Cards/Creatures/Burrog Banemaker\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
 | [**`mtg:Infestation Sage`**](https://scryfall.com/card/fdn/64) | [[02 Cards/Creatures/Infestation Sage\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.28 |
 | [**`mtg:Lecturing Scornmage`**](https://scryfall.com/card/sos/87) | [[02 Cards/Creatures/Lecturing Scornmage\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
+| [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/331) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.22 |
 | [**`mtg:Leech Collector`**](https://scryfall.com/card/sos/88) | [[02 Cards/Creatures/Leech Collector\|PAGE]] | {1}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Scheming Silvertongue`**](https://scryfall.com/card/sos/99) | [[02 Cards/Creatures/Scheming Silvertongue\|PAGE]] | {1}{B} // {B}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.87 |
 | [**`mtg:Shattered Acolyte`**](https://scryfall.com/card/sos/31) | [[02 Cards/Creatures/Shattered Acolyte\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.28 |

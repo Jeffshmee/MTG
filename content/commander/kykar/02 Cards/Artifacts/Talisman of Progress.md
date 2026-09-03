@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Talisman of Progress`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}  
 > **Type:** Artifact  
 >
@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-Talisman of Progress is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], and Wayfarer's Bauble — this list is short of the 8–12 band until Signet / Talisman arrive. Noncreature rocks trigger Kykar. On-colour rock, untapped. It is not in the owned 65 yet.
+Talisman of Progress is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], and Wayfarer's Bauble — this list is short of the 8–12 band until Signet / Talisman arrive. Noncreature rocks trigger Kykar. On-colour rock, untapped. Now in the owned 88.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ Talisman of Progress is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In the owned 88.
 
 ## Related Pages
 
@@ -88,7 +88,7 @@ Talisman of Progress is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 84
@@ -96,7 +96,7 @@ Talisman of Progress is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol
 > scryfall_id: b356ee36-1c62-4097-87d7-fef6a6dad067
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

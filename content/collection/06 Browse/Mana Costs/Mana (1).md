@@ -2,7 +2,7 @@
 
 Cards whose mana value is 1.
 
-**190** copies · **124** names.
+**191** copies · **125** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -89,6 +89,7 @@ Cards whose mana value is 1.
 | [**`mtg:Oracle's Restoration`**](https://scryfall.com/card/sos/156) | [[02 Cards/Sorceries/Oracle's Restoration\|PAGE]] | {G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.20 |
 | [**`mtg:Pillar Launch`**](https://scryfall.com/card/tla/189) | [[02 Cards/Instants/Pillar Launch\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Point the Way`**](https://scryfall.com/card/dft/175) | [[02 Cards/Enchantments/Point the Way\|PAGE]] | {G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
+| [**`mtg:Ponder`**](https://scryfall.com/card/tdc/159) | [[02 Cards/Sorceries/Ponder\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.63 |
 | [**`mtg:Primal Might`**](https://scryfall.com/card/soc/283) | [[02 Cards/Sorceries/Primal Might\|PAGE]] | {X}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
 | [**`mtg:Prismatic Ending`**](https://scryfall.com/card/soa/7) | [[02 Cards/Sorceries/Prismatic Ending\|PAGE]] | {X}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.47 |
 | [**`mtg:Procrastinate`**](https://scryfall.com/card/sos/64) | [[02 Cards/Sorceries/Procrastinate\|PAGE]] | {X}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |

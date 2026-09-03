@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[07 Traded Out/01 - Trades Summary/Trades Summary\|Traded Out]] |
 
 </div>
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 03/09/2026 | Traded to Mark for Danitha, Benalia's Hope and Selfless Spirit |
 
 </div>
 
@@ -43,7 +44,7 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>7</td><td>—</td><td>1</td><td>Box</td><td>0.13</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>7</td><td>—</td><td>1</td><td>Traded Out</td><td>0.13</td></tr>
 </tbody>
 </table>
 </div>
@@ -62,7 +63,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[07 Traded Out/01 - Trades Summary/Trades Summary|Trades Summary]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[07 Traded Out/01 - Trades Summary/Trades Summary|Traded Out]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 

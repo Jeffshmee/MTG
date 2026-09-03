@@ -2,7 +2,7 @@
 
 Foil copies only. Qty on this page is foil, not the name's total.
 
-**71** copies · **67** names.
+**74** copies · **70** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -31,6 +31,7 @@ Foil copies only. Qty on this page is foil, not the name's total.
 | [**`mtg:Banishing Betrayal`**](https://scryfall.com/card/sos/38) | [[02 Cards/Instants/Banishing Betrayal\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Baseball Bat`**](https://scryfall.com/card/dsk/209) | [[02 Cards/Artifacts/Baseball Bat\|PAGE]] | {G}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 17.03 |
+| [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/331) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.22 |
 | [**`mtg:Geometer's Arthropod`**](https://scryfall.com/card/sos/300) | [[02 Cards/Creatures/Geometer's Arthropod\|PAGE]] | {G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Fractal\|Fractal]] [[04 Creature Types/Crab\|Crab]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.50 |
 | [**`mtg:Growth Curve`**](https://scryfall.com/card/sos/193) | [[02 Cards/Sorceries/Growth Curve\|PAGE]] | {G}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Iron Hills Blacksmith`**](https://scryfall.com/card/hob/16) | [[02 Cards/Creatures/Iron Hills Blacksmith\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
@@ -39,6 +40,7 @@ Foil copies only. Qty on this page is foil, not the name's total.
 | [**`mtg:Noxious Newt`**](https://scryfall.com/card/sos/155) | [[02 Cards/Creatures/Noxious Newt\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Salamander\|Salamander]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
 | [**`mtg:Old Thrush`**](https://scryfall.com/card/hob/2) | [[02 Cards/Creatures/Old Thrush\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
 | [**`mtg:Spectral Interference`**](https://scryfall.com/card/dft/63) | [[02 Cards/Instants/Spectral Interference\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |
+| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/prm/86132) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.00 |
 | [**`mtg:Ultros, Obnoxious Octopus`**](https://scryfall.com/card/fin/83) | [[02 Cards/Creatures/Ultros, Obnoxious Octopus\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Octopus\|Octopus]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Aether Channeler`**](https://scryfall.com/card/pdmu/42s) | [[02 Cards/Creatures/Aether Channeler\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.48 |
@@ -60,6 +62,7 @@ Foil copies only. Qty on this page is foil, not the name's total.
 | [**`mtg:Render Speechless`**](https://scryfall.com/card/sos/220) | [[02 Cards/Sorceries/Render Speechless\|PAGE]] | {2}{W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Rite of Replication`**](https://scryfall.com/card/fdn/711) | [[02 Cards/Sorceries/Rite of Replication\|PAGE]] | {2}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.30 |
 | [**`mtg:Run Behind`**](https://scryfall.com/card/sos/66) | [[02 Cards/Instants/Run Behind\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
+| [**`mtg:Scour for Scrap`**](https://scryfall.com/card/eoe/73) | [[02 Cards/Instants/Scour for Scrap\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.56 |
 | [**`mtg:Tam, Observant Sequencer`**](https://scryfall.com/card/sos/237) | [[02 Cards/Creatures/Tam, Observant Sequencer\|PAGE]] | {2}{G}{U} // {G}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Gorgon\|Gorgon]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
 | [**`mtg:Thassa, Deep-Dwelling`**](https://scryfall.com/card/thb/261) | [[02 Cards/Creatures/Thassa, Deep-Dwelling\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/God\|God]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 20.25 |
 | [**`mtg:Wander Off`**](https://scryfall.com/card/sos/104) | [[02 Cards/Instants/Wander Off\|PAGE]] | {3}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |

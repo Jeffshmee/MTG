@@ -2,7 +2,7 @@
 
 Set `FDN`. Qty here is copies of this name from this set.
 
-**451** copies · **270** names.
+**452** copies · **271** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -24,7 +24,7 @@ Set `FDN`. Qty here is copies of this name from this set.
 | [**`mtg:Jungle Hollow`**](https://scryfall.com/card/fdn/263) | [[02 Cards/Lands/Jungle Hollow\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.10 |
 | [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 18 | 1.86 |
 | [**`mtg:Orzhov Guildgate`**](https://scryfall.com/card/fdn/692) | [[02 Cards/Lands/Orzhov Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
-| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 18 | 2.08 |
+| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 18 | 2.07 |
 | [**`mtg:Rakdos Guildgate`**](https://scryfall.com/card/fdn/693) | [[02 Cards/Lands/Rakdos Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
 | [**`mtg:Rugged Highlands`**](https://scryfall.com/card/fdn/265) | [[02 Cards/Lands/Rugged Highlands\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {R}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.21 |
 | [**`mtg:Scoured Barrens`**](https://scryfall.com/card/fdn/266) | [[02 Cards/Lands/Scoured Barrens\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.10 |
@@ -137,6 +137,7 @@ Set `FDN`. Qty here is copies of this name from this set.
 | [**`mtg:Wary Thespian`**](https://scryfall.com/card/fdn/235) | [[02 Cards/Creatures/Wary Thespian\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Wildborn Preserver`**](https://scryfall.com/card/fdn/650) | [[02 Cards/Creatures/Wildborn Preserver\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Wishclaw Talisman`**](https://scryfall.com/card/fdn/617) | [[02 Cards/Artifacts/Wishclaw Talisman\|PAGE]] | {1}{B} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.94 |
+| [**`mtg:Arahbo, the First Fang`**](https://scryfall.com/card/fdn/2) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.58 |
 | [**`mtg:Ball Lightning`**](https://scryfall.com/card/fdn/618) | [[02 Cards/Creatures/Ball Lightning\|PAGE]] | {R}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.27 |
 | [**`mtg:Banishing Light`**](https://scryfall.com/card/fdn/138) | [[02 Cards/Enchantments/Banishing Light\|PAGE]] | {2}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Beast-Kin Ranger`**](https://scryfall.com/card/fdn/100) | [[02 Cards/Creatures/Beast-Kin Ranger\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Ranger\|Ranger]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |

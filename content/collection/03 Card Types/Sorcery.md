@@ -2,7 +2,7 @@
 
 Card type: Sorcery.
 
-**235** copies · **167** names.
+**234** copies · **166** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -21,6 +21,7 @@ Card type: Sorcery.
 | [**`mtg:Impractical Joke`**](https://scryfall.com/card/sos/119) | [[02 Cards/Sorceries/Impractical Joke\|PAGE]] | {R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.46 |
 | [**`mtg:Moment of Glory`**](https://scryfall.com/card/hob/21) | [[02 Cards/Sorceries/Moment of Glory\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.02 |
 | [**`mtg:Oracle's Restoration`**](https://scryfall.com/card/sos/156) | [[02 Cards/Sorceries/Oracle's Restoration\|PAGE]] | {G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.20 |
+| [**`mtg:Ponder`**](https://scryfall.com/card/tdc/159) | [[02 Cards/Sorceries/Ponder\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.63 |
 | [**`mtg:Primal Might`**](https://scryfall.com/card/soc/283) | [[02 Cards/Sorceries/Primal Might\|PAGE]] | {X}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
 | [**`mtg:Prismatic Ending`**](https://scryfall.com/card/soa/7) | [[02 Cards/Sorceries/Prismatic Ending\|PAGE]] | {X}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.47 |
 | [**`mtg:Procrastinate`**](https://scryfall.com/card/sos/64) | [[02 Cards/Sorceries/Procrastinate\|PAGE]] | {X}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
@@ -82,7 +83,6 @@ Card type: Sorcery.
 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.22 |
 | [**`mtg:Act of Treason`**](https://scryfall.com/card/m20/124) | [[02 Cards/Sorceries/Act of Treason\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
 | [**`mtg:Adventurous Eater`**](https://scryfall.com/card/sos/72) | [[02 Cards/Creatures/Adventurous Eater\|PAGE]] | {2}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.08 |
-| [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | [[02 Cards/Sorceries/Antiquities on the Loose\|PAGE]] | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Bilbo Baggins, Burglar`**](https://scryfall.com/card/hob/34) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | {2}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
 | [**`mtg:Chelonian Tackle`**](https://scryfall.com/card/sos/142) | [[02 Cards/Sorceries/Chelonian Tackle\|PAGE]] | {2}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Commune with Evil`**](https://scryfall.com/card/dsk/87) | [[02 Cards/Sorceries/Commune with Evil\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
@@ -126,7 +126,6 @@ Card type: Sorcery.
 | [**`mtg:Gollum, Silent Slinker`**](https://scryfall.com/card/hob/71) | [[02 Cards/Creatures/Gollum, Silent Slinker\|PAGE]] | {3}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.04 |
 | [**`mtg:Heroic Reinforcements`**](https://scryfall.com/card/fdn/241) | [[02 Cards/Sorceries/Heroic Reinforcements\|PAGE]] | {2}{R}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |
 | [**`mtg:Honorbound Page`**](https://scryfall.com/card/sos/19) | [[02 Cards/Creatures/Honorbound Page\|PAGE]] | {3}{W} // {W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |
-| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | {2}{B}{G} // {B/G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Release the Dogs`**](https://scryfall.com/card/tdc/127) | [[02 Cards/Sorceries/Release the Dogs\|PAGE]] | {3}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.40 |
 | [**`mtg:Render Speechless`**](https://scryfall.com/card/sos/220) | [[02 Cards/Sorceries/Render Speechless\|PAGE]] | {2}{W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 5 | 0.15 |
 | [**`mtg:Rite of Replication`**](https://scryfall.com/card/fdn/711) | [[02 Cards/Sorceries/Rite of Replication\|PAGE]] | {2}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.30 |

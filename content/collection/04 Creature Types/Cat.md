@@ -2,7 +2,7 @@
 
 Creature type: Cat.
 
-**32** copies · **22** names.
+**33** copies · **23** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -19,6 +19,7 @@ Creature type: Cat.
 | [**`mtg:Prowling Caracal`**](https://scryfall.com/card/m20/309) | [[02 Cards/Creatures/Prowling Caracal\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Undergrowth Leopard`**](https://scryfall.com/card/tdm/165) | [[02 Cards/Creatures/Undergrowth Leopard\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Wary Thespian`**](https://scryfall.com/card/fdn/235) | [[02 Cards/Creatures/Wary Thespian\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
+| [**`mtg:Arahbo, the First Fang`**](https://scryfall.com/card/fdn/2) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.58 |
 | [**`mtg:Emeritus of Truce`**](https://scryfall.com/card/sos/13) | [[02 Cards/Creatures/Emeritus of Truce\|PAGE]] | {1}{W}{W} // {W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.29 |
 | [**`mtg:Prideful Parent`**](https://scryfall.com/card/fdn/21) | [[02 Cards/Creatures/Prideful Parent\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Spiritcall Enthusiast`**](https://scryfall.com/card/sos/33) | [[02 Cards/Creatures/Spiritcall Enthusiast\|PAGE]] | {2}{W} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |

@@ -2,10 +2,24 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**87** copies · **50** names.
+**86** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
+| 03/09/2026 | [**`mtg:Arahbo, the First Fang`**](https://scryfall.com/card/fdn/2) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Archaeomancer`**](https://scryfall.com/card/uma/45) | [[02 Cards/Creatures/Archaeomancer\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/331) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Danitha, Benalia's Hope`**](https://scryfall.com/card/dmu/15) | [[02 Cards/Creatures/Danitha, Benalia's Hope\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | 2 |
+| 03/09/2026 | [**`mtg:Ponder`**](https://scryfall.com/card/tdc/159) | [[02 Cards/Sorceries/Ponder\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Savage Lands`**](https://scryfall.com/card/cmm/1025) | [[02 Cards/Lands/Savage Lands\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Scour for Scrap`**](https://scryfall.com/card/eoe/73) | [[02 Cards/Instants/Scour for Scrap\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Snap`**](https://scryfall.com/card/dds/10) | [[02 Cards/Instants/Snap\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Starfield Vocalist`**](https://scryfall.com/card/eoe/78) | [[02 Cards/Creatures/Starfield Vocalist\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/prm/86132) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Talisman of Progress`**](https://scryfall.com/card/msc/221) | [[02 Cards/Artifacts/Talisman of Progress\|PAGE]] | 1 |
+| 03/09/2026 | [**`mtg:Wizard's Staff`**](https://scryfall.com/card/hob/59) | [[02 Cards/Artifacts/Wizard's Staff\|PAGE]] | 1 |
 | 02/09/2026 | [**`mtg:Aberrant Manawurm`**](https://scryfall.com/card/sos/138) | [[02 Cards/Creatures/Aberrant Manawurm\|PAGE]] | 1 |
 | 02/09/2026 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | 2 |
 | 02/09/2026 | [**`mtg:Abrade`**](https://scryfall.com/card/soa/37) | [[02 Cards/Instants/Abrade\|PAGE]] | 4 |
@@ -14,7 +28,6 @@ The 50 names most recently added to the collection. Cards with no recorded date 
 | 02/09/2026 | [**`mtg:Adventurous Eater`**](https://scryfall.com/card/sos/72) | [[02 Cards/Creatures/Adventurous Eater\|PAGE]] | 2 |
 | 02/09/2026 | [**`mtg:Ajani's Response`**](https://scryfall.com/card/sos/6) | [[02 Cards/Instants/Ajani's Response\|PAGE]] | 3 |
 | 02/09/2026 | [**`mtg:Ancestral Anger`**](https://scryfall.com/card/sos/106) | [[02 Cards/Sorceries/Ancestral Anger\|PAGE]] | 2 |
-| 02/09/2026 | [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | [[02 Cards/Sorceries/Antiquities on the Loose\|PAGE]] | 1 |
 | 02/09/2026 | [**`mtg:Arcane Omens`**](https://scryfall.com/card/sos/73) | [[02 Cards/Sorceries/Arcane Omens\|PAGE]] | 1 |
 | 02/09/2026 | [**`mtg:Archaic's Agony`**](https://scryfall.com/card/sos/107) | [[02 Cards/Sorceries/Archaic's Agony\|PAGE]] | 1 |
 | 02/09/2026 | [**`mtg:Ark of Hunger`**](https://scryfall.com/card/sos/173) | [[02 Cards/Artifacts/Ark of Hunger\|PAGE]] | 1 |
@@ -41,18 +54,5 @@ The 50 names most recently added to the collection. Cards with no recorded date 
 | 02/09/2026 | [**`mtg:Chelonian Tackle`**](https://scryfall.com/card/sos/142) | [[02 Cards/Sorceries/Chelonian Tackle\|PAGE]] | 1 |
 | 02/09/2026 | [**`mtg:Choreographed Sparks`**](https://scryfall.com/card/sos/111) | [[02 Cards/Instants/Choreographed Sparks\|PAGE]] | 1 |
 | 02/09/2026 | [**`mtg:Colossus of the Blood Age`**](https://scryfall.com/card/sos/181) | [[02 Cards/Creatures/Colossus of the Blood Age\|PAGE]] | 2 |
-| 02/09/2026 | [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | [[02 Cards/Enchantments/Comforting Counsel\|PAGE]] | 1 |
 | 02/09/2026 | [**`mtg:Copy`**](https://scryfall.com/card/tsos/1) | [[02 Cards/Tokens/Copy\|PAGE]] | 4 |
 | 02/09/2026 | [**`mtg:Cost of Brilliance`**](https://scryfall.com/card/sos/77) | [[02 Cards/Sorceries/Cost of Brilliance\|PAGE]] | 4 |
-| 02/09/2026 | [**`mtg:Cuboid Colony`**](https://scryfall.com/card/sos/183) | [[02 Cards/Creatures/Cuboid Colony\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | [[02 Cards/Instants/Culling the Weak\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Deduce`**](https://scryfall.com/card/soa/16) | [[02 Cards/Instants/Deduce\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Deluge Virtuoso`**](https://scryfall.com/card/sos/42) | [[02 Cards/Creatures/Deluge Virtuoso\|PAGE]] | 2 |
-| 02/09/2026 | [**`mtg:Diary of Dreams`**](https://scryfall.com/card/sos/248) | [[02 Cards/Artifacts/Diary of Dreams\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Dig Site Inventory`**](https://scryfall.com/card/sos/10) | [[02 Cards/Sorceries/Dig Site Inventory\|PAGE]] | 2 |
-| 02/09/2026 | [**`mtg:Disdainful Stroke`**](https://scryfall.com/card/soa/17) | [[02 Cards/Instants/Disdainful Stroke\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Dissection Practice`**](https://scryfall.com/card/sos/79) | [[02 Cards/Instants/Dissection Practice\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Divergent Equation`**](https://scryfall.com/card/sos/43) | [[02 Cards/Instants/Divergent Equation\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | 1 |
-| 02/09/2026 | [**`mtg:Duel Tactics`**](https://scryfall.com/card/sos/112) | [[02 Cards/Sorceries/Duel Tactics\|PAGE]] | 1 |

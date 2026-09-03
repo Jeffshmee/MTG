@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Snap`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{U}  
 > **Type:** Instant  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
-> ![Snap](https://cards.scryfall.io/border_crop/front/f/1/f13406c6-f208-402a-94d3-a94a24f03563.jpg)
+> ![Snap](https://cards.scryfall.io/border_crop/front/1/9/1959f078-4b7b-4df2-a256-d43b2d97e853.jpg)
 >
 > ### Deck Scores
 >
@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-Snap is bounce at {1}{U}: tokens that leave cease to exist, and a creature that leaves and returns is a new object with no counters. Point it at the engine (Adeline, Lathril, a counter lord), not one 1/1. It is a noncreature spell, so [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] triggers. Bounce a creature, untap two lands. Pays for the next cantrip. It is not in the owned 65 yet.
+Snap is bounce at {1}{U}: tokens that leave cease to exist, and a creature that leaves and returns is a new object with no counters. Point it at the engine (Adeline, Lathril, a counter lord), not one 1/1. It is a noncreature spell, so [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] triggers. Bounce a creature, untap two lands. Pays for the next cantrip. Now in the owned 88.
 
 ## Play Patterns & Lines
 
@@ -67,7 +67,7 @@ Snap is bounce at {1}{U}: tokens that leave cease to exist, and a creature that 
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In the owned 88.
 
 ## Related Pages
 
@@ -90,15 +90,15 @@ Snap is bounce at {1}{U}: tokens that leave cease to exist, and a creature that 
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 92
 >   combined: 90
-> scryfall_id: f13406c6-f208-402a-94d3-a94a24f03563
+> scryfall_id: 1959f078-4b7b-4df2-a256-d43b2d97e853
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - instant
 > ```
 

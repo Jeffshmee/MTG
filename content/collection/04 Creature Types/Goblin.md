@@ -2,12 +2,13 @@
 
 Creature type: Goblin.
 
-**34** copies · **27** names.
+**35** copies · **28** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Fanatical Firebrand`**](https://scryfall.com/card/fdn/195) | [[02 Cards/Creatures/Fanatical Firebrand\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.08 |
 | [**`mtg:Greasewrench Goblin`**](https://scryfall.com/card/dft/132) | [[02 Cards/Creatures/Greasewrench Goblin\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.11 |
+| [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/331) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.22 |
 | [**`mtg:Courageous Goblin`**](https://scryfall.com/card/fdn/82) | [[02 Cards/Creatures/Courageous Goblin\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Front Porch Sentries`**](https://scryfall.com/card/hob/67) | [[02 Cards/Creatures/Front Porch Sentries\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.06 |
 | [**`mtg:Goblin Glasswright`**](https://scryfall.com/card/sos/117) | [[02 Cards/Creatures/Goblin Glasswright\|PAGE]] | {1}{R} // {R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.16 |

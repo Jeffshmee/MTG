@@ -4,7 +4,7 @@ How this list closes a table. All four plans run through noncreature spells and 
 
 Play order, blink-target priority, and bounce-the-engine live on [[06 Strategy/Play Patterns|Play Patterns]].
 
-**Draft note:** written against the **80** sleeved (art scan plus Stasis Snare, Solemn, and the 02/09/2026 SOS sleeves). Combo, Kitten, Aetherize, Vocalist, Reflector Mage, and Arcane Signet (buy) are **pending**. Duals are almost all on the buy list.
+**Draft note:** written against the **72** sleeved (art scan plus Stasis Snare and Solemn). Combo, Kitten, Aetherize, Vocalist, Reflector Mage, and Arcane Signet (buy) are **pending**. Duals are almost all on the buy list.
 
 ---
 
@@ -14,11 +14,11 @@ Play order, blink-target priority, and bounce-the-engine live on [[06 Strategy/P
 
 **Pending**
 
-| Line | Pieces |
-|------|--------|
-| Two-card | [[02 Cards/Creatures/Deadeye Navigator\|Deadeye Navigator]] + [[02 Cards/Creatures/Peregrine Drake\|Peregrine Drake]] |
-| Three-card | [[02 Cards/Instants/Ghostly Flicker\|Ghostly Flicker]] + [[02 Cards/Creatures/Archaeomancer\|Archaeomancer]] + Drake |
-| Dump | [[02 Cards/Creatures/Aether Channeler\|Aether Channeler]] *(live)* / [[02 Cards/Creatures/Mulldrifter\|Mulldrifter]] *(buy)* |
+| Line       | Pieces                                                                                                                       |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Two-card   | [[02 Cards/Creatures/Deadeye Navigator\|Deadeye Navigator]] + [[02 Cards/Creatures/Peregrine Drake\|Peregrine Drake]]        |
+| Three-card | [[02 Cards/Instants/Ghostly Flicker\|Ghostly Flicker]] + [[02 Cards/Creatures/Archaeomancer\|Archaeomancer]] + Drake         |
+| Dump       | [[02 Cards/Creatures/Aether Channeler\|Aether Channeler]] *(live)* / [[02 Cards/Creatures/Mulldrifter\|Mulldrifter]] *(buy)* |
 
 Commander still has to draw both, cast both, and not get stopped. That is the interaction window — hold [[02 Cards/Instants/An Offer You Can't Refuse|Offer]]. Felidar / Saheeli is a different combo; leave it off.
 
@@ -30,7 +30,7 @@ Buy ranks: Flicker 4, Archaeomancer 5, Drake 6, Deadeye 7.
 
 **How it wins:** every token that leaves ceases. Every real creature that leaves and returns has no counters. Repeat Channeler, Bigfin, Roil, Unsummon until the engine is gone, then wrath what rebuilt.
 
-**Live in the 80**
+**Live in the 72**
 
 - Spot bounce: [[02 Cards/Creatures/Aether Channeler|Channeler]], [[02 Cards/Instants/Unsummon|Unsummon]], [[02 Cards/Instants/Into the Roil|Into the Roil]], [[02 Cards/Instants/Into the Flood Maw|Flood Maw]], [[02 Cards/Creatures/Bigfin Bouncer|Bigfin]], [[02 Cards/Creatures/Harbinger of the Tides|Harbinger]]
 - Exile until leaves: [[02 Cards/Enchantments/Stormplain Detainment|Stormplain Detainment]], [[02 Cards/Enchantments/Stasis Snare|Stasis Snare]], [[02 Cards/Creatures/Kitesail Larcenist|Kitesail Larcenist]] (Treasure overlay)
@@ -44,14 +44,12 @@ Point spot bounce at the **engine**.
 
 ## 3. Value — blink draw until you have a wrath or a lethal flyer stack
 
-**How it wins:** Hunter / Overseer / Cloudblazer / Skyscanner draw every time they enter. Kykar, Thassa, Skycoach, and Charming Prince are the blinks. [[02 Cards/Creatures/Emeritus of Ideation|Emeritus of Ideation]] is prepared Ancestral Recall — blink it for another. Eventually you hit Day of Judgment, River's Rebuke, or a critical mass of flyers (Kykar, Thassa, Cloudblazer, Angel of Finality, Emeritus, Spirits).
+**How it wins:** Hunter / Overseer / Cloudblazer / Skyscanner draw every time they enter. Kykar, Thassa, Skycoach, and Charming Prince are the blinks. Eventually you hit Day of Judgment, River's Rebuke, or a critical mass of flyers (Kykar, Thassa, Cloudblazer, Angel of Finality, Spirits).
 
-**Live in the 80**
+**Live in the 72**
 
 - Draw ETBs: [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], [[02 Cards/Creatures/Inspiring Overseer|Inspiring Overseer]], [[02 Cards/Creatures/Cloudblazer|Cloudblazer]], [[02 Cards/Creatures/Skyscanner|Skyscanner]]
-- Prepared draw: [[02 Cards/Creatures/Emeritus of Ideation|Emeritus of Ideation]] (Ancestral Recall)
-- Cantrips: [[02 Cards/Instants/Opt|Opt]], [[02 Cards/Instants/Think Twice|Think Twice]], [[02 Cards/Sorceries/Winged Words|Winged Words]], [[02 Cards/Sorceries/Sleight of Hand|Sleight of Hand]], [[02 Cards/Sorceries/Stock Up|Stock Up]], [[02 Cards/Sorceries/Flow State|Flow State]], [[02 Cards/Creatures/Harmonized Trio|Harmonized Trio]]
-- Blink spell: [[02 Cards/Sorceries/Daydream|Daydream]] (sorcery; flashback)
+- Cantrips: [[02 Cards/Instants/Opt|Opt]], [[02 Cards/Instants/Think Twice|Think Twice]], [[02 Cards/Sorceries/Winged Words|Winged Words]]
 - Extra card on cheap ETBs: [[02 Cards/Enchantments/Tocasia's Welcome|Tocasia's Welcome]]
 - Recur a bounce spell: [[02 Cards/Creatures/Shipwreck Dowser|Shipwreck Dowser]]
 

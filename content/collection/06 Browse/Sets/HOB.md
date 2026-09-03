@@ -2,7 +2,7 @@
 
 Set `HOB`. Qty here is copies of this name from this set.
 
-**114** copies · **82** names.
+**115** copies · **83** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -41,6 +41,7 @@ Set `HOB`. Qty here is copies of this name from this set.
 | [**`mtg:Vow to Erebor`**](https://scryfall.com/card/hob/31) | [[02 Cards/Instants/Vow to Erebor\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Warg Tactics`**](https://scryfall.com/card/hob/139) | [[02 Cards/Instants/Warg Tactics\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
 | [**`mtg:Wargling`**](https://scryfall.com/card/hob/140) | [[02 Cards/Creatures/Wargling\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.04 |
+| [**`mtg:Wizard's Staff`**](https://scryfall.com/card/hob/59) | [[02 Cards/Artifacts/Wizard's Staff\|PAGE]] | {1}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.72 |
 | [**`mtg:Woodland Weavemaster`**](https://scryfall.com/card/hob/143) | [[02 Cards/Creatures/Woodland Weavemaster\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.04 |
 | [**`mtg:Óin the Brave`**](https://scryfall.com/card/hob/106) | [[02 Cards/Creatures/Óin the Brave\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Bilbo Baggins, Burglar`**](https://scryfall.com/card/hob/34) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | {2}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |

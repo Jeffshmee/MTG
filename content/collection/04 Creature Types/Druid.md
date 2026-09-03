@@ -2,7 +2,7 @@
 
 Creature type: Druid.
 
-**68** copies · **45** names.
+**67** copies · **44** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -46,7 +46,6 @@ Creature type: Druid.
 | [**`mtg:Elvish Regrower`**](https://scryfall.com/card/fdn/104) | [[02 Cards/Creatures/Elvish Regrower\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.18 |
 | [**`mtg:Halsin, Emerald Archdruid`**](https://scryfall.com/card/clb/408) | [[02 Cards/Creatures/Halsin, Emerald Archdruid\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.11 |
 | [**`mtg:Lilysplash Mentor`**](https://scryfall.com/card/blb/222) | [[02 Cards/Creatures/Lilysplash Mentor\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
-| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | {2}{B}{G} // {B/G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Old-Growth Educator`**](https://scryfall.com/card/sos/207) | [[02 Cards/Creatures/Old-Growth Educator\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Treefolk\|Treefolk]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.09 |
 | [**`mtg:Tatyova, Benthic Druid`**](https://scryfall.com/card/fdn/247) | [[02 Cards/Creatures/Tatyova, Benthic Druid\|PAGE]] | {3}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.09 |
 | [**`mtg:Tenured Concocter`**](https://scryfall.com/card/sos/163) | [[02 Cards/Creatures/Tenured Concocter\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Troll\|Troll]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.08 |

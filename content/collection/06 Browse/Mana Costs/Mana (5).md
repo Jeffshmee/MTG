@@ -2,7 +2,7 @@
 
 Cards whose mana value is 5.
 
-**130** copies · **96** names.
+**131** copies · **97** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -28,6 +28,7 @@ Cards whose mana value is 5.
 | [**`mtg:Combustion Man`**](https://scryfall.com/card/tla/127) | [[02 Cards/Creatures/Combustion Man\|PAGE]] | {3}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Assassin\|Assassin]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.07 |
 | [**`mtg:Constrictor Sage`**](https://scryfall.com/card/tdm/39) | [[02 Cards/Creatures/Constrictor Sage\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Snake\|Snake]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.06 |
 | [**`mtg:Consuming Aberration`**](https://scryfall.com/card/tdc/283) | [[02 Cards/Creatures/Consuming Aberration\|PAGE]] | {3}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.15 |
+| [**`mtg:Danitha, Benalia's Hope`**](https://scryfall.com/card/dmu/15) | [[02 Cards/Creatures/Danitha, Benalia's Hope\|PAGE]] | {4}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.38 |
 | [**`mtg:Disruptive Stormbrood`**](https://scryfall.com/card/tdm/178) | [[02 Cards/Creatures/Disruptive Stormbrood\|PAGE]] | {4}{G} // {1}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.10 |
 | [**`mtg:Divine Visitation`**](https://scryfall.com/card/tdc/113) | [[02 Cards/Enchantments/Divine Visitation\|PAGE]] | {3}{W}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 1.17 |
 | [**`mtg:Eagle of the Great Shelf`**](https://scryfall.com/card/hob/11) | [[02 Cards/Creatures/Eagle of the Great Shelf\|PAGE]] | {4}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |

@@ -2,7 +2,7 @@
 
 Lands with two or more colours in their colour identity — shocks, checklands, temples, gates, taplands, triomes.
 
-**107** copies · **64** names.
+**108** copies · **65** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -43,6 +43,7 @@ Lands with two or more colours in their colour identity — shocks, checklands, 
 | [**`mtg:Rakdos Guildgate`**](https://scryfall.com/card/fdn/693) | [[02 Cards/Lands/Rakdos Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
 | [**`mtg:Rugged Highlands`**](https://scryfall.com/card/fdn/265) | [[02 Cards/Lands/Rugged Highlands\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {R}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.24 |
 | [**`mtg:Sacred Foundry`**](https://scryfall.com/card/gtc/245) | [[02 Cards/Lands/Sacred Foundry\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Mountain\|Mountain]] [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.00 |
+| [**`mtg:Savage Lands`**](https://scryfall.com/card/cmm/1025) | [[02 Cards/Lands/Savage Lands\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.62 |
 | [**`mtg:Savai Triome`**](https://scryfall.com/card/iko/312) | [[02 Cards/Lands/Savai Triome\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Mountain\|Mountain]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 13.63 |
 | [**`mtg:Scoured Barrens`**](https://scryfall.com/card/fdn/266) | [[02 Cards/Lands/Scoured Barrens\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.15 |
 | [**`mtg:Secluded Glen`**](https://scryfall.com/card/woc/166) | [[02 Cards/Lands/Secluded Glen\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.73 |

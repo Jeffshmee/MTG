@@ -2,7 +2,7 @@
 
 Card type: Artifact.
 
-**109** copies · **86** names.
+**113** copies · **89** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -48,10 +48,13 @@ Card type: Artifact.
 | [**`mtg:Sorcerous Spyglass`**](https://scryfall.com/card/tsr/401) | [[02 Cards/Artifacts/Sorcerous Spyglass\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.19 |
 | [**`mtg:Stalactite Dagger`**](https://scryfall.com/card/ecl/261) | [[02 Cards/Artifacts/Stalactite Dagger\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Stormbeacon Blade`**](https://scryfall.com/card/tdm/27) | [[02 Cards/Artifacts/Stormbeacon Blade\|PAGE]] | {1}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
+| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/prm/86132) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.00 |
 | [**`mtg:Talisman of Conviction`**](https://scryfall.com/card/tdc/329) | [[02 Cards/Artifacts/Talisman of Conviction\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.38 |
 | [**`mtg:Talisman of Hierarchy`**](https://scryfall.com/card/soc/358) | [[02 Cards/Artifacts/Talisman of Hierarchy\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.66 |
+| [**`mtg:Talisman of Progress`**](https://scryfall.com/card/msc/221) | [[02 Cards/Artifacts/Talisman of Progress\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
 | [**`mtg:Three Tree Mascot`**](https://scryfall.com/card/fdn/682) | [[02 Cards/Creatures/Three Tree Mascot\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Wishclaw Talisman`**](https://scryfall.com/card/fdn/617) | [[02 Cards/Artifacts/Wishclaw Talisman\|PAGE]] | {1}{B} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.94 |
+| [**`mtg:Wizard's Staff`**](https://scryfall.com/card/hob/59) | [[02 Cards/Artifacts/Wizard's Staff\|PAGE]] | {1}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.72 |
 | [**`mtg:Adaptive Automaton`**](https://scryfall.com/card/2xm/231) | [[02 Cards/Creatures/Adaptive Automaton\|PAGE]] | {3} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.27 |
 | [**`mtg:Boosted Sloop`**](https://scryfall.com/card/dft/190) | [[02 Cards/Artifacts/Boosted Sloop\|PAGE]] | {1}{U}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Burnished Hart`**](https://scryfall.com/card/fdn/250) | [[02 Cards/Creatures/Burnished Hart\|PAGE]] | {3} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Elk\|Elk]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
@@ -76,7 +79,7 @@ Card type: Artifact.
 | [**`mtg:Dwarven Shortsword`**](https://scryfall.com/card/hob/10) | [[02 Cards/Artifacts/Dwarven Shortsword\|PAGE]] | {3}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.07 |
 | [**`mtg:Getaway Barrel`**](https://scryfall.com/card/hob/98) | [[02 Cards/Artifacts/Getaway Barrel\|PAGE]] | {3}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
 | [**`mtg:Hedron Archive`**](https://scryfall.com/card/blc/275) | [[02 Cards/Artifacts/Hedron Archive\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.15 |
-| [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 5.10 |
+| [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 10.47 |
 | [**`mtg:Resonating Lute`**](https://scryfall.com/card/sos/221) | [[02 Cards/Artifacts/Resonating Lute\|PAGE]] | {2}{U}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.27 |
 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
 | [**`mtg:Boulderborn Dragon`**](https://scryfall.com/card/tdm/239) | [[02 Cards/Creatures/Boulderborn Dragon\|PAGE]] | {5} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.13 |

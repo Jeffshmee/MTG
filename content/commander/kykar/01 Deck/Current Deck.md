@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Kykar, Zephyr Awakener
-79 + 1 = 80 cards (target 100)
+87 + 1 = 88 cards (target 100)
 
 ```decklist
 group: auto
@@ -26,10 +26,12 @@ legality: commander
 1 Skycoach Conductor
 1 Skyscanner
 1 Angel of Finality
+1 Archaeomancer
 1 Bigfin Bouncer
 1 Micromancer
 1 Naga Fleshcrafter
 1 Solemn Simulacrum
+1 Starfield Vocalist
 1 Thassa, Deep-Dwelling
 1 Cloudblazer
 1 Emeritus of Ideation
@@ -49,11 +51,13 @@ legality: commander
 1 Into the Roil
 1 Lofty Denial
 1 Personify
+1 Snap
 1 Think Twice
 1 Stroke of Midnight
 
 # Sorceries
 1 Daydream
+1 Ponder
 1 Sleight of Hand
 1 Flow State
 1 Stock Up
@@ -77,6 +81,10 @@ legality: commander
 1 Sol Ring
 1 Soul-Guide Lantern
 1 Wayfarer's Bauble
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 Wizard's Staff
+1 Panharmonicon
 
 # Lands
 1 Azorius Guildgate
@@ -93,7 +101,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-02 (SOS sleeves)*
+*Last synced: 2026-09-03 (MageCards 49736 arrivals)*
 
 ---
 
@@ -118,11 +126,13 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Skyscanner|Skyscanner]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
+- [[02 Cards/Creatures/Archaeomancer|Archaeomancer]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Creatures/Bigfin Bouncer|Bigfin Bouncer]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
 - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
 - [[02 Cards/Creatures/Naga Fleshcrafter|Naga Fleshcrafter]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Solemn Simulacrum|Solemn Simulacrum]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
+- [[02 Cards/Creatures/Starfield Vocalist|Starfield Vocalist]] **93** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:93%"></div></div>
 - [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Emeritus of Ideation|Emeritus of Ideation]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
@@ -142,11 +152,13 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Instants/Into the Roil|Into the Roil]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Instants/Lofty Denial|Lofty Denial]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
+- [[02 Cards/Instants/Snap|Snap]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Instants/Stroke of Midnight|Stroke of Midnight]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 
 ### Sorceries
 - [[02 Cards/Sorceries/Daydream|Daydream]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
+- [[02 Cards/Sorceries/Ponder|Ponder]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Sorceries/Sleight of Hand|Sleight of Hand]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Sorceries/Flow State|Flow State]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Sorceries/Stock Up|Stock Up]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
@@ -170,6 +182,10 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Artifacts/Sol Ring|Sol Ring]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
+- [[02 Cards/Artifacts/Swiftfoot Boots|Swiftfoot Boots]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Artifacts/Talisman of Progress|Talisman of Progress]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Artifacts/Wizard's Staff|Wizard's Staff]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 
 ### Lands
 - [[02 Cards/Lands/Azorius Guildgate|Azorius Guildgate]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
