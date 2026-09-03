@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] · [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -43,9 +43,9 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>408</td><td>—</td><td>1</td><td>Kykar</td><td>0.16</td></tr>
+<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>408</td><td>—</td><td>1</td><td>Box</td><td>0.16</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>265</td><td>—</td><td>2</td><td>Box</td><td>0.07</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>265</td><td>foil</td><td>1</td><td>Box</td><td>0.10</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>265</td><td>foil</td><td>1</td><td>Kykar</td><td>0.10</td></tr>
 </tbody>
 </table>
 </div>
@@ -72,7 +72,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 

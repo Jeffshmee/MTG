@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Stock Up`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{U}  
 > **Type:** Sorcery  
 >
@@ -48,13 +48,13 @@
 
 ## Deck Role & Rating
 
-Stock Up is selection at {2}{U}. Noncreature, so [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] triggers. Stronger than [[02 Cards/Sorceries/Winged Words|Winged Words]] and [[02 Cards/Instants/Think Twice|Think Twice]] as a refill. Owned extra on the sideboard — 73/100 so it can fill with no cut. Suggested cut if you insist: Think Twice or Winged Words.
+Stock Up is selection at {2}{U}. Noncreature, so [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] triggers. Stronger than [[02 Cards/Sorceries/Winged Words|Winged Words]] and [[02 Cards/Instants/Think Twice|Think Twice]] as a refill. Sleeved into the 80 from the 02/09/2026 haul — no cut.
 
 ## Play Patterns & Lines
 
 - Cast on three mana when you need two real cards, not a cantrip.
 - Triggers Kykar. Take the Spirit if nothing is worth blinking.
-- 73/100 — can enter as a fill. Confirm before sleeving into the pile.
+- Take the Spirit if nothing is worth blinking.
 
 ## Key Synergies
 
@@ -64,7 +64,7 @@ Stock Up is selection at {2}{U}. Noncreature, so [[02 Cards/Creatures/Kykar, Zep
 
 ## Anti-synergies / Notes
 
-- Owned extra. Stay on the sideboard until a fill or named cut is confirmed.
+- Three mana. Fine on the 21-land pile.
 
 ## Related Pages
 
@@ -87,7 +87,7 @@ Stock Up is selection at {2}{U}. Noncreature, so [[02 Cards/Creatures/Kykar, Zep
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 90
@@ -95,7 +95,7 @@ Stock Up is selection at {2}{U}. Noncreature, so [[02 Cards/Creatures/Kykar, Zep
 > scryfall_id: ad048b7c-588f-4c34-906f-4224f1aaaeb6
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 > ```
 
 *Last evaluated: 2026-09-02*  

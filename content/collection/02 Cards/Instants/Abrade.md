@@ -44,9 +44,9 @@
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>234</td><td>—</td><td>1</td><td>Box</td><td>0.14</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>327</td><td>—</td><td>1</td><td>Zurgo</td><td>0.32</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>327</td><td>—</td><td>1</td><td>Box</td><td>0.32</td></tr>
 <tr><td>Secrets of Strixhaven Mystical Archive (<code>SOA</code>)</td><td>37</td><td>—</td><td>1</td><td>Box</td><td>0.15</td></tr>
-<tr><td>Secrets of Strixhaven Mystical Archive (<code>SOA</code>)</td><td>37</td><td>foil</td><td>1</td><td>Box</td><td>0.28</td></tr>
+<tr><td>Secrets of Strixhaven Mystical Archive (<code>SOA</code>)</td><td>37</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.28</td></tr>
 </tbody>
 </table>
 </div>

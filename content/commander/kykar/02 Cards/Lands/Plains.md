@@ -82,12 +82,12 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figcaption>FDN 272 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/3/7/37edc4b5-75f5-4b43-a57e-a8192565a2a0.jpg" alt="Plains FDN 273 · ×1">
-<figcaption>FDN 273 · ×1</figcaption>
-</figure>
-<figure>
 <img src="https://cards.scryfall.io/border_crop/front/2/4/24dc369c-020a-4115-a4bb-d60a44de64e3.jpg" alt="Plains HOB 194 · ×1">
 <figcaption>HOB 194 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg" alt="Plains SOS 267 · ×1">
+<figcaption>SOS 267 · ×1</figcaption>
 </figure>
 </div>
 

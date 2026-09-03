@@ -49,15 +49,14 @@
 <tr><td>Foundations (<code>FDN</code>)</td><td>291</td><td>—</td><td>1</td><td>Box</td><td>0.21</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>280</td><td>—</td><td>2</td><td>Box</td><td>0.06</td></tr>
 <tr><td>Dragons of Tarkir (<code>DTK</code>)</td><td>263</td><td>—</td><td>1</td><td>Box</td><td>0.07</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>281</td><td>—</td><td>5</td><td>Box</td><td>0.11</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>281</td><td>—</td><td>7</td><td>Box</td><td>0.11</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>273</td><td>—</td><td>1</td><td>Maralen</td><td>0.11</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>280</td><td>—</td><td>6</td><td>Maralen</td><td>0.06</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>281</td><td>—</td><td>2</td><td>Maralen</td><td>0.11</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>291</td><td>—</td><td>1</td><td>Maralen</td><td>0.21</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>—</td><td>1</td><td>Maralen</td><td>0.17</td></tr>
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>—</td><td>1</td><td>Box</td><td>0.20</td></tr>
 <tr><td>Avatar: The Last Airbender (<code>TLA</code>)</td><td>286</td><td>—</td><td>1</td><td>Box</td><td>0.08</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>—</td><td>1</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>foil</td><td>1</td><td>Box</td><td>0.15</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>281</td><td>—</td><td>2</td><td>Box</td><td>0.08</td></tr>
 </tbody>

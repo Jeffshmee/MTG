@@ -85,8 +85,9 @@ legality: commander
 # Lands
 1 Breeding Pool
 1 Command Tower
+1 Dreamroot Cascade
 1 Eclipsed Realms
-11 Forest
+10 Forest
 6 Island
 1 Opulent Palace
 1 Overgrown Tomb
@@ -104,7 +105,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/current-deck.md`*
-*Last synced: 2026-08-30*
+*Last synced: 2026-09-02*
 
 ---
 
@@ -189,6 +190,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 ### Lands
 - [[02 Cards/Lands/Breeding Pool|Breeding Pool]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Lands/Command Tower|Command Tower]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
+- [[02 Cards/Lands/Dreamroot Cascade|Dreamroot Cascade]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Eclipsed Realms|Eclipsed Realms]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Lands/Forest|Forest]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>
 - [[02 Cards/Lands/Island|Island]] **69** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:69%"></div></div>

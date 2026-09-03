@@ -865,6 +865,36 @@ body[data-slug^="collection/"] {
     background: #c69324 !important;
     color: #1a1208 !important;
   }
+
+  .callout[data-callout="success"] {
+    --color: #a5d6a7;
+    --border: #43a047;
+    --bg: #17331c;
+    background-color: #17331c !important;
+    border-color: #43a047 !important;
+  }
+
+  .callout[data-callout="success"] .callout-title,
+  .callout[data-callout="success"] .callout-title-inner,
+  .callout[data-callout="success"] .callout-icon {
+    background: #1e4a24 !important;
+    color: #a5d6a7 !important;
+  }
+
+  .callout[data-callout="quote"] {
+    --color: #fafafa;
+    --border: #eeeeee;
+    --bg: #3a3a3a;
+    background-color: #3a3a3a !important;
+    border-color: #eeeeee !important;
+  }
+
+  .callout[data-callout="quote"] .callout-title,
+  .callout[data-callout="quote"] .callout-title-inner,
+  .callout[data-callout="quote"] .callout-icon {
+    background: #4a4a4a !important;
+    color: #fafafa !important;
+  }
 }
 
 .collection-side-tables {
@@ -890,5 +920,46 @@ body[data-slug^="collection/"] {
 }
 
 .popover-inner .collection-side-tables {
+  grid-template-columns: 1fr;
+}
+
+.callout[data-callout="info"] .callout-content:has(> table):has(> p),
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) {
+  display: grid !important;
+  grid-template-columns: minmax(18rem, 0.95fr) minmax(16rem, 1.05fr);
+  gap: 0.4rem 1.5rem;
+  align-items: start;
+}
+
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) > table:first-of-type,
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > .table-container:first-of-type {
+  grid-column: 1;
+  grid-row: 1 / span 30;
+  width: 100%;
+  margin: 0;
+}
+
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) > :not(table),
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > :not(.table-container) {
+  grid-column: 2;
+}
+
+@media (max-width: 1200px) {
+  .callout[data-callout="info"] .callout-content:has(> table):has(> p),
+  .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) {
+    grid-template-columns: 1fr;
+  }
+
+  .callout[data-callout="info"] .callout-content:has(> table):has(> p) > table:first-of-type,
+  .callout[data-callout="info"] .callout-content:has(> table):has(> p) > :not(table),
+  .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > .table-container:first-of-type,
+  .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > :not(.table-container) {
+    grid-column: 1;
+    grid-row: auto;
+  }
+}
+
+.popover-inner .callout[data-callout="info"] .callout-content:has(> table):has(> p),
+.popover-inner .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) {
   grid-template-columns: 1fr;
 }

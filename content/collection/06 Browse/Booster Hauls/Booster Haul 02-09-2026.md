@@ -10,14 +10,14 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 
 | Card | | Mana | Type | Deck | Note |
 |------|--|------|------|------|------|
-| [**`mtg:Stock Up`**](https://scryfall.com/card/soa/24) | [[02 Cards/Sorceries/Stock Up\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Owned on the Kykar sideboard (still Box). Suggested fill — 72/100 so no cut required. If cutting: Think Twice or Winged Words. |
-| [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | Kykar | Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Essence Scatter or Lofty Denial. |
-| [**`mtg:Sleight of Hand`**](https://scryfall.com/card/soa/22) | [[02 Cards/Sorceries/Sleight of Hand\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Owned on the Kykar sideboard (still Box). Suggested fill. Weaker than Opt; no forced cut. |
-| [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[03 Card Types/Creature\|Creature]] | Kykar | Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Spectral Sailor or Mocking Sprite. |
-| [**`mtg:Flow State`**](https://scryfall.com/card/sos/49) | [[02 Cards/Sorceries/Flow State\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Think Twice. |
-| [**`mtg:Wisdom of Ages`**](https://scryfall.com/card/sos/71) | [[02 Cards/Sorceries/Wisdom of Ages\|PAGE]] | {4}{U}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Owned on the Kykar sideboard (still Box). Not a 72 include — {4}{U}{U}{U} refill. Parked until the list is cheap-spell dense. |
+| [**`mtg:Stock Up`**](https://scryfall.com/card/soa/24) | [[02 Cards/Sorceries/Stock Up\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Sleeved in the Kykar in-hand pile (now in deck). |
+| [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | Kykar | Sleeved in the Kykar in-hand pile (now in deck). |
+| [**`mtg:Sleight of Hand`**](https://scryfall.com/card/soa/22) | [[02 Cards/Sorceries/Sleight of Hand\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Sleeved in the Kykar in-hand pile (now in deck). |
+| [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[03 Card Types/Creature\|Creature]] | Kykar | Sleeved in the Kykar in-hand pile (now in deck). |
+| [**`mtg:Flow State`**](https://scryfall.com/card/sos/49) | [[02 Cards/Sorceries/Flow State\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Sleeved in the Kykar in-hand pile (now in deck). |
+| [**`mtg:Wisdom of Ages`**](https://scryfall.com/card/sos/71) | [[02 Cards/Sorceries/Wisdom of Ages\|PAGE]] | {4}{U}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Sleeved in the Kykar in-hand pile (now in deck). Greedy {4}{U}{U}{U} on 21 lands. |
 | [**`mtg:Veil of Summer`**](https://scryfall.com/card/soa/60) | [[02 Cards/Instants/Veil of Summer\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | Maralen | Owned on Maralen Sideboard. Suggested cut: Negate (Heroic Intervention already covers wipes; Veil is cheaper vs blue/black). |
-| [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Maralen | Owned on Maralen Sideboard. Suggested cut: a Forest. |
+| [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Maralen | Sleeved in the Maralen 100 (cut one FDN 281 Forest). |
 | [**`mtg:Prismatic Ending`**](https://scryfall.com/card/soa/7) | [[02 Cards/Sorceries/Prismatic Ending\|PAGE]] | {X}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Zurgo | Owned on Zurgo sideboard. Suggested cut: Mortify. |
 | [**`mtg:Emeritus of Woe`**](https://scryfall.com/card/sos/80) | [[02 Cards/Creatures/Emeritus of Woe\|PAGE]] | {3}{B} // {1}{B} | [[03 Card Types/Creature\|Creature]] | Box | Sleeve for the box (mythic). Vampire Warlock — not an Elf/Faerie. Not a Maralen 100 cut. |
 | [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | [[02 Cards/Instants/Culling the Weak\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | Box | Sleeve for the box (rare £6.63). Not a 100 cut — sacrifice a body for {B}{B}{B}{B} is hard to spend in this Sultai pile. |
@@ -30,6 +30,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Emeritus of Truce`**](https://scryfall.com/card/sos/13) | [[02 Cards/Creatures/Emeritus of Truce\|PAGE]] | {1}{W}{W} // {W} | [[03 Card Types/Creature\|Creature]] | Box | Sleeve for the box (mythic). |
 | [**`mtg:Resonating Lute`**](https://scryfall.com/card/sos/221) | [[02 Cards/Artifacts/Resonating Lute\|PAGE]] | {2}{U}{R} | [[03 Card Types/Artifact\|Artifact]] | Box | Sleeve for the box (rare £1.27). |
 | [**`mtg:The Dawning Archaic`**](https://scryfall.com/card/sos/1) | [[02 Cards/Creatures/The Dawning Archaic\|PAGE]] | {10} | [[03 Card Types/Creature\|Creature]] | Box | Sleeve for the box (mythic). |
+| [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Kykar | Sleeved in the Kykar in-hand pile (now in deck). One-mana blink plus flashback. |
 
 ## Contents
 
@@ -99,13 +100,13 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Scheming Silvertongue`**](https://scryfall.com/card/sos/99) | [[02 Cards/Creatures/Scheming Silvertongue\|PAGE]] | {1}{B} // {B}{B} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.87 | — |
 | [**`mtg:Traumatic Critique`**](https://scryfall.com/card/sos/239) | [[02 Cards/Instants/Traumatic Critique\|PAGE]] | {X}{U}{R} | [[03 Card Types/Instant\|Instant]] | Rare | — | 1 | 0.86 | — |
 | [**`mtg:Moseo, Vein's New Dean`**](https://scryfall.com/card/sos/91) | [[02 Cards/Creatures/Moseo, Vein's New Dean\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.68 | — |
-| [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Rare | — | 1 | 0.67 | **Maralen:** Owned on Maralen Sideboard. Suggested cut: a Forest. |
+| [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Rare | — | 1 | 0.67 | **Maralen:** Sleeved in the Maralen 100 (cut one FDN 281 Forest). |
 | [**`mtg:Geometer's Arthropod`**](https://scryfall.com/card/sos/300) | [[02 Cards/Creatures/Geometer's Arthropod\|PAGE]] | {G}{U} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 0.50 | — |
 | [**`mtg:Exhibition Tidecaller`**](https://scryfall.com/card/sos/48) | [[02 Cards/Creatures/Exhibition Tidecaller\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.49 | — |
 | [**`mtg:Prismatic Ending`**](https://scryfall.com/card/soa/7) | [[02 Cards/Sorceries/Prismatic Ending\|PAGE]] | {X}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.47 | **Zurgo:** Owned on Zurgo sideboard. Suggested cut: Mortify. |
 | [**`mtg:Vicious Rivalry`**](https://scryfall.com/card/sos/241) | [[02 Cards/Sorceries/Vicious Rivalry\|PAGE]] | {2}{B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.45 | — |
 | [**`mtg:Pensive Professor`**](https://scryfall.com/card/sos/63) | [[02 Cards/Creatures/Pensive Professor\|PAGE]] | {1}{U}{U} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.41 | — |
-| [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 0.32 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Spectral Sailor or Mocking Sprite. |
+| [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 0.32 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Skycoach Conductor`**](https://scryfall.com/card/sos/67) | [[02 Cards/Creatures/Skycoach Conductor\|PAGE]] | {2}{U} // {U} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.31 | — |
 | [**`mtg:Mind into Matter`**](https://scryfall.com/card/sos/202) | [[02 Cards/Sorceries/Mind into Matter\|PAGE]] | {X}{G}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.29 | — |
 | [**`mtg:Vastlands Scavenger`**](https://scryfall.com/card/sos/166) | [[02 Cards/Creatures/Vastlands Scavenger\|PAGE]] | {1}{G}{G} // {4}{G} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.28 | — |
@@ -118,7 +119,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Wildgrowth Archaic`**](https://scryfall.com/card/sos/168) | [[02 Cards/Creatures/Wildgrowth Archaic\|PAGE]] | {2/G}{2/G} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.17 | — |
 | [**`mtg:Aziza, Mage Tower Captain`**](https://scryfall.com/card/sos/174) | [[02 Cards/Creatures/Aziza, Mage Tower Captain\|PAGE]] | {R}{W} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.16 | — |
 | [**`mtg:Pox Plague`**](https://scryfall.com/card/sos/94) | [[02 Cards/Sorceries/Pox Plague\|PAGE]] | {B}{B}{B}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.16 | — |
-| [**`mtg:Wisdom of Ages`**](https://scryfall.com/card/sos/71) | [[02 Cards/Sorceries/Wisdom of Ages\|PAGE]] | {4}{U}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.14 | **Kykar:** Owned on the Kykar sideboard (still Box). Not a 72 include — {4}{U}{U}{U} refill. Parked until the list is cheap-spell dense. |
+| [**`mtg:Wisdom of Ages`**](https://scryfall.com/card/sos/71) | [[02 Cards/Sorceries/Wisdom of Ages\|PAGE]] | {4}{U}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.14 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). Greedy {4}{U}{U}{U} on 21 lands. |
 | [**`mtg:Antiquities on the Loose`**](https://scryfall.com/card/sos/7) | [[02 Cards/Sorceries/Antiquities on the Loose\|PAGE]] | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.13 | — |
 | [**`mtg:Choreographed Sparks`**](https://scryfall.com/card/sos/111) | [[02 Cards/Instants/Choreographed Sparks\|PAGE]] | {R}{R} | [[03 Card Types/Instant\|Instant]] | Rare | — | 1 | 0.13 | — |
 | [**`mtg:Jadzi, Steward of Fate`**](https://scryfall.com/card/sos/55) | [[02 Cards/Creatures/Jadzi, Steward of Fate\|PAGE]] | {2}{U} // {X}{X}{U} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.13 | — |
@@ -131,13 +132,13 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 
 | Name | | Mana | Type | Rarity | Foil | Qty | Est. Price (GBP) | Note |
 |------|--|------|------|--------|------|-----|------------------|------|
-| [**`mtg:Flow State`**](https://scryfall.com/card/sos/49) | [[02 Cards/Sorceries/Flow State\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 2.24 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Think Twice. |
-| [**`mtg:Stock Up`**](https://scryfall.com/card/soa/24) | [[02 Cards/Sorceries/Stock Up\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 1.04 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill — 72/100 so no cut required. If cutting: Think Twice or Winged Words. |
+| [**`mtg:Flow State`**](https://scryfall.com/card/sos/49) | [[02 Cards/Sorceries/Flow State\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 2.24 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
+| [**`mtg:Stock Up`**](https://scryfall.com/card/soa/24) | [[02 Cards/Sorceries/Stock Up\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 1.04 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Tablet of Discovery`**](https://scryfall.com/card/sos/132) | [[02 Cards/Artifacts/Tablet of Discovery\|PAGE]] | {2}{R} | [[03 Card Types/Artifact\|Artifact]] | Uncommon | — | 1 | 0.81 | — |
 | [**`mtg:Abrade`**](https://scryfall.com/card/soa/37) | [[02 Cards/Instants/Abrade\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | foil | 1 | 0.28 | — |
 | [**`mtg:Prismari Charm`**](https://scryfall.com/card/sos/211) | [[02 Cards/Instants/Prismari Charm\|PAGE]] | {U}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.27 | — |
 | [**`mtg:Impractical Joke`**](https://scryfall.com/card/sos/119) | [[02 Cards/Sorceries/Impractical Joke\|PAGE]] | {R} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | foil | 1 | 0.26 | — |
-| [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.25 | — |
+| [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.25 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). One-mana blink plus flashback. |
 | [**`mtg:Shared Roots`**](https://scryfall.com/card/soa/58) | [[02 Cards/Sorceries/Shared Roots\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.25 | — |
 | [**`mtg:Bitter Triumph`**](https://scryfall.com/card/soa/26) | [[02 Cards/Instants/Bitter Triumph\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.22 | — |
 | [**`mtg:Return the Favor`**](https://scryfall.com/card/soa/47) | [[02 Cards/Instants/Return the Favor\|PAGE]] | {R}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.22 | — |
@@ -147,8 +148,8 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Vibrant Outburst`**](https://scryfall.com/card/sos/240) | [[02 Cards/Instants/Vibrant Outburst\|PAGE]] | {U}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.19 | — |
 | [**`mtg:Blazing Firesinger`**](https://scryfall.com/card/sos/109) | [[02 Cards/Creatures/Blazing Firesinger\|PAGE]] | {2}{R} // {2}{R} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.18 | — |
 | [**`mtg:Feed the Swarm`**](https://scryfall.com/card/soa/29) | [[02 Cards/Sorceries/Feed the Swarm\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.18 | — |
-| [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 2 | 0.18 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Essence Scatter or Lofty Denial. |
-| [**`mtg:Sleight of Hand`**](https://scryfall.com/card/soa/22) | [[02 Cards/Sorceries/Sleight of Hand\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.17 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. Weaker than Opt; no forced cut. |
+| [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 2 | 0.18 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
+| [**`mtg:Sleight of Hand`**](https://scryfall.com/card/soa/22) | [[02 Cards/Sorceries/Sleight of Hand\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.17 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Monstrous Rage`**](https://scryfall.com/card/soa/45) | [[02 Cards/Instants/Monstrous Rage\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.16 | — |
 | [**`mtg:Topiary Lecturer`**](https://scryfall.com/card/sos/165) | [[02 Cards/Creatures/Topiary Lecturer\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.16 | — |
 | [**`mtg:Abrade`**](https://scryfall.com/card/soa/37) | [[02 Cards/Instants/Abrade\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.15 | — |
@@ -420,7 +421,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Mage Tower Referee`**](https://scryfall.com/card/sos/249) | [[02 Cards/Creatures/Mage Tower Referee\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.06 | — |
 | [**`mtg:Practiced Scrollsmith`**](https://scryfall.com/card/sos/210) | [[02 Cards/Creatures/Practiced Scrollsmith\|PAGE]] | {R}{R/W}{W} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.10 | — |
 | [**`mtg:Root Manipulation`**](https://scryfall.com/card/sos/222) | [[02 Cards/Sorceries/Root Manipulation\|PAGE]] | {3}{B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.09 | — |
-| [**`mtg:Flow State`**](https://scryfall.com/card/sos/49) | [[02 Cards/Sorceries/Flow State\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 2.24 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Think Twice. |
+| [**`mtg:Flow State`**](https://scryfall.com/card/sos/49) | [[02 Cards/Sorceries/Flow State\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 2.24 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Resonating Lute`**](https://scryfall.com/card/sos/221) | [[02 Cards/Artifacts/Resonating Lute\|PAGE]] | {2}{U}{R} | [[03 Card Types/Artifact\|Artifact]] | Rare | — | 1 | 1.27 | **Box:** Sleeve for the box (rare £1.27). |
 | [**`mtg:Prismatic Ending`**](https://scryfall.com/card/soa/7) | [[02 Cards/Sorceries/Prismatic Ending\|PAGE]] | {X}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.47 | **Zurgo:** Owned on Zurgo sideboard. Suggested cut: Mortify. |
 | [**`mtg:Wilt in the Heat`**](https://scryfall.com/card/sos/243) | [[02 Cards/Instants/Wilt in the Heat\|PAGE]] | {2}{R}{W} | [[03 Card Types/Instant\|Instant]] | Common | foil | 1 | 0.03 | — |
@@ -445,7 +446,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Poisoner's Apprentice`**](https://scryfall.com/card/sos/92) | [[02 Cards/Creatures/Poisoner's Apprentice\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.05 | — |
 | [**`mtg:Environmental Scientist`**](https://scryfall.com/card/sos/147) | [[02 Cards/Creatures/Environmental Scientist\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.08 | — |
 | [**`mtg:The Dawning Archaic`**](https://scryfall.com/card/sos/1) | [[02 Cards/Creatures/The Dawning Archaic\|PAGE]] | {10} | [[03 Card Types/Creature\|Creature]] | Mythic | — | 1 | 1.24 | **Box:** Sleeve for the box (mythic). |
-| [**`mtg:Stock Up`**](https://scryfall.com/card/soa/24) | [[02 Cards/Sorceries/Stock Up\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 1.04 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill — 72/100 so no cut required. If cutting: Think Twice or Winged Words. |
+| [**`mtg:Stock Up`**](https://scryfall.com/card/soa/24) | [[02 Cards/Sorceries/Stock Up\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 1.04 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Snarl Song`**](https://scryfall.com/card/sos/161) | [[02 Cards/Sorceries/Snarl Song\|PAGE]] | {5}{G} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | foil | 1 | 0.10 | — |
 | [**`mtg:Forest`**](https://scryfall.com/card/sos/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.09 | — |
 | [**`mtg:Fractal`**](https://scryfall.com/card/tsos/4) | [[02 Cards/Tokens/Fractal\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |
@@ -490,7 +491,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Molten Note`**](https://scryfall.com/card/sos/204) | [[02 Cards/Sorceries/Molten Note\|PAGE]] | {X}{R}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.07 | — |
 | [**`mtg:Stirring Honormancer`**](https://scryfall.com/card/sos/234) | [[02 Cards/Creatures/Stirring Honormancer\|PAGE]] | {2}{W}{W/B}{B} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.02 | — |
 | [**`mtg:Additive Evolution`**](https://scryfall.com/card/sos/139) | [[02 Cards/Enchantments/Additive Evolution\|PAGE]] | {3}{G}{G} | [[03 Card Types/Enchantment\|Enchantment]] | Uncommon | — | 1 | 0.05 | — |
-| [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Rare | — | 1 | 0.67 | **Maralen:** Owned on Maralen Sideboard. Suggested cut: a Forest. |
+| [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Rare | — | 1 | 0.67 | **Maralen:** Sleeved in the Maralen 100 (cut one FDN 281 Forest). |
 | [**`mtg:Stargaze`**](https://scryfall.com/card/soa/34) | [[02 Cards/Sorceries/Stargaze\|PAGE]] | {X}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.09 | — |
 | [**`mtg:Wander Off`**](https://scryfall.com/card/sos/104) | [[02 Cards/Instants/Wander Off\|PAGE]] | {3}{B} | [[03 Card Types/Instant\|Instant]] | Common | foil | 1 | 0.06 | — |
 | [**`mtg:Swamp`**](https://scryfall.com/card/sos/276) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | foil | 1 | 0.14 | — |
@@ -671,7 +672,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Stand Up for Yourself`**](https://scryfall.com/card/sos/34) | [[02 Cards/Instants/Stand Up for Yourself\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.09 | — |
 | [**`mtg:Forum Necroscribe`**](https://scryfall.com/card/sos/84) | [[02 Cards/Creatures/Forum Necroscribe\|PAGE]] | {5}{B} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.09 | — |
 | [**`mtg:Exhibition Tidecaller`**](https://scryfall.com/card/sos/48) | [[02 Cards/Creatures/Exhibition Tidecaller\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.49 | — |
-| [**`mtg:Sleight of Hand`**](https://scryfall.com/card/soa/22) | [[02 Cards/Sorceries/Sleight of Hand\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.17 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. Weaker than Opt; no forced cut. |
+| [**`mtg:Sleight of Hand`**](https://scryfall.com/card/soa/22) | [[02 Cards/Sorceries/Sleight of Hand\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.17 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Oracle's Restoration`**](https://scryfall.com/card/sos/156) | [[02 Cards/Sorceries/Oracle's Restoration\|PAGE]] | {G} | [[03 Card Types/Sorcery\|Sorcery]] | Common | foil | 1 | 0.06 | — |
 | [**`mtg:Titan's Grave`**](https://scryfall.com/card/sos/266) | [[02 Cards/Lands/Titan's Grave\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.10 | — |
 
@@ -679,24 +680,24 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 
 **16** copies · **16** cards.
 
-| Name | | Mana | Type | Rarity | Foil | Qty | Est. Price (GBP) |
-|------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Hungry Graffalon`**](https://scryfall.com/card/sos/151) | [[02 Cards/Creatures/Hungry Graffalon\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.03 |
-| [**`mtg:Ulna Alley Shopkeep`**](https://scryfall.com/card/sos/103) | [[02 Cards/Creatures/Ulna Alley Shopkeep\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.03 |
-| [**`mtg:Deluge Virtuoso`**](https://scryfall.com/card/sos/42) | [[02 Cards/Creatures/Deluge Virtuoso\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.08 |
-| [**`mtg:Tackle Artist`**](https://scryfall.com/card/sos/133) | [[02 Cards/Creatures/Tackle Artist\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.06 |
-| [**`mtg:Dig Site Inventory`**](https://scryfall.com/card/sos/10) | [[02 Cards/Sorceries/Dig Site Inventory\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Common | — | 1 | 0.06 |
-| [**`mtg:Pursue the Past`**](https://scryfall.com/card/sos/216) | [[02 Cards/Sorceries/Pursue the Past\|PAGE]] | {R}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Common | — | 1 | 0.16 |
-| [**`mtg:Fractal Mascot`**](https://scryfall.com/card/sos/189) | [[02 Cards/Creatures/Fractal Mascot\|PAGE]] | {4}{G}{U} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.06 |
-| [**`mtg:Stress Dream`**](https://scryfall.com/card/sos/235) | [[02 Cards/Instants/Stress Dream\|PAGE]] | {3}{U}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.03 |
-| [**`mtg:Infirmary Healer`**](https://scryfall.com/card/sos/152) | [[02 Cards/Creatures/Infirmary Healer\|PAGE]] | {1}{G} // {X}{G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.09 |
-| [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.25 |
-| [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | [[02 Cards/Enchantments/Comforting Counsel\|PAGE]] | {1}{G} | [[03 Card Types/Enchantment\|Enchantment]] | Rare | — | 1 | 0.18 |
-| [**`mtg:Deduce`**](https://scryfall.com/card/soa/16) | [[02 Cards/Instants/Deduce\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.09 |
-| [**`mtg:Geometer's Arthropod`**](https://scryfall.com/card/sos/300) | [[02 Cards/Creatures/Geometer's Arthropod\|PAGE]] | {G}{U} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 0.50 |
-| [**`mtg:Mountain`**](https://scryfall.com/card/sos/279) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.11 |
-| [**`mtg:Copy`**](https://scryfall.com/card/tsos/1) | [[02 Cards/Tokens/Copy\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — |
-| [**`mtg:Spirit`**](https://scryfall.com/card/tsos/10) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — |
+| Name | | Mana | Type | Rarity | Foil | Qty | Est. Price (GBP) | Note |
+|------|--|------|------|--------|------|-----|------------------|------|
+| [**`mtg:Hungry Graffalon`**](https://scryfall.com/card/sos/151) | [[02 Cards/Creatures/Hungry Graffalon\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.03 | — |
+| [**`mtg:Ulna Alley Shopkeep`**](https://scryfall.com/card/sos/103) | [[02 Cards/Creatures/Ulna Alley Shopkeep\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.03 | — |
+| [**`mtg:Deluge Virtuoso`**](https://scryfall.com/card/sos/42) | [[02 Cards/Creatures/Deluge Virtuoso\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.08 | — |
+| [**`mtg:Tackle Artist`**](https://scryfall.com/card/sos/133) | [[02 Cards/Creatures/Tackle Artist\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.06 | — |
+| [**`mtg:Dig Site Inventory`**](https://scryfall.com/card/sos/10) | [[02 Cards/Sorceries/Dig Site Inventory\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Common | — | 1 | 0.06 | — |
+| [**`mtg:Pursue the Past`**](https://scryfall.com/card/sos/216) | [[02 Cards/Sorceries/Pursue the Past\|PAGE]] | {R}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Common | — | 1 | 0.16 | — |
+| [**`mtg:Fractal Mascot`**](https://scryfall.com/card/sos/189) | [[02 Cards/Creatures/Fractal Mascot\|PAGE]] | {4}{G}{U} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.06 | — |
+| [**`mtg:Stress Dream`**](https://scryfall.com/card/sos/235) | [[02 Cards/Instants/Stress Dream\|PAGE]] | {3}{U}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.03 | — |
+| [**`mtg:Infirmary Healer`**](https://scryfall.com/card/sos/152) | [[02 Cards/Creatures/Infirmary Healer\|PAGE]] | {1}{G} // {X}{G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.09 | — |
+| [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.25 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). One-mana blink plus flashback. |
+| [**`mtg:Comforting Counsel`**](https://scryfall.com/card/sos/143) | [[02 Cards/Enchantments/Comforting Counsel\|PAGE]] | {1}{G} | [[03 Card Types/Enchantment\|Enchantment]] | Rare | — | 1 | 0.18 | — |
+| [**`mtg:Deduce`**](https://scryfall.com/card/soa/16) | [[02 Cards/Instants/Deduce\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.09 | — |
+| [**`mtg:Geometer's Arthropod`**](https://scryfall.com/card/sos/300) | [[02 Cards/Creatures/Geometer's Arthropod\|PAGE]] | {G}{U} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 0.50 | — |
+| [**`mtg:Mountain`**](https://scryfall.com/card/sos/279) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.11 | — |
+| [**`mtg:Copy`**](https://scryfall.com/card/tsos/1) | [[02 Cards/Tokens/Copy\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |
+| [**`mtg:Spirit`**](https://scryfall.com/card/tsos/10) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |
 
 ## Secrets of Strixhaven 14
 
@@ -737,8 +738,8 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Matterbending Mage`**](https://scryfall.com/card/sos/59) | [[02 Cards/Creatures/Matterbending Mage\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.03 | — |
 | [**`mtg:Teacher's Pest`**](https://scryfall.com/card/sos/238) | [[02 Cards/Creatures/Teacher's Pest\|PAGE]] | {B}{G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.11 | — |
 | [**`mtg:Traumatic Critique`**](https://scryfall.com/card/sos/239) | [[02 Cards/Instants/Traumatic Critique\|PAGE]] | {X}{U}{R} | [[03 Card Types/Instant\|Instant]] | Rare | — | 1 | 0.86 | — |
-| [**`mtg:Wisdom of Ages`**](https://scryfall.com/card/sos/71) | [[02 Cards/Sorceries/Wisdom of Ages\|PAGE]] | {4}{U}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.14 | **Kykar:** Owned on the Kykar sideboard (still Box). Not a 72 include — {4}{U}{U}{U} refill. Parked until the list is cheap-spell dense. |
-| [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.18 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Essence Scatter or Lofty Denial. |
+| [**`mtg:Wisdom of Ages`**](https://scryfall.com/card/sos/71) | [[02 Cards/Sorceries/Wisdom of Ages\|PAGE]] | {4}{U}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.14 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). Greedy {4}{U}{U}{U} on 21 lands. |
+| [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.18 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Rancorous Archaic`**](https://scryfall.com/card/sos/2) | [[02 Cards/Creatures/Rancorous Archaic\|PAGE]] | {5} | [[03 Card Types/Creature\|Creature]] | Common | foil | 1 | 0.05 | — |
 | [**`mtg:Plains`**](https://scryfall.com/card/sos/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.19 | — |
 | [**`mtg:Pest`**](https://scryfall.com/card/tsos/9) | [[02 Cards/Tokens/Pest\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |
@@ -761,7 +762,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Spiritcall Enthusiast`**](https://scryfall.com/card/sos/33) | [[02 Cards/Creatures/Spiritcall Enthusiast\|PAGE]] | {2}{W} // {1}{W} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.03 | — |
 | [**`mtg:End of the Hunt`**](https://scryfall.com/card/sos/81) | [[02 Cards/Sorceries/End of the Hunt\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.09 | — |
 | [**`mtg:Shattered Sanctum`**](https://scryfall.com/card/sos/260) | [[02 Cards/Lands/Shattered Sanctum\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Rare | — | 1 | 1.31 | **Box:** Sleeve for the box (rare £1.31). |
-| [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.18 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Essence Scatter or Lofty Denial. |
+| [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.18 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Cost of Brilliance`**](https://scryfall.com/card/sos/77) | [[02 Cards/Sorceries/Cost of Brilliance\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Common | foil | 1 | 0.05 | — |
 | [**`mtg:Island`**](https://scryfall.com/card/sos/275) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | foil | 1 | 0.12 | — |
 | [**`mtg:Inkling`**](https://scryfall.com/card/tsos/7) | [[02 Cards/Tokens/Inkling\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |
@@ -1082,7 +1083,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Pensive Professor`**](https://scryfall.com/card/sos/63) | [[02 Cards/Creatures/Pensive Professor\|PAGE]] | {1}{U}{U} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.41 | — |
 | [**`mtg:Improvisation Capstone`**](https://scryfall.com/card/sos/120) | [[02 Cards/Sorceries/Improvisation Capstone\|PAGE]] | {5}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | Mythic | — | 1 | 9.96 | **Box:** Sleeve for the box (mythic). |
 | [**`mtg:Return the Favor`**](https://scryfall.com/card/soa/47) | [[02 Cards/Instants/Return the Favor\|PAGE]] | {R}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.22 | — |
-| [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 0.32 | **Kykar:** Owned on the Kykar sideboard (still Box). Suggested fill. If cutting: Spectral Sailor or Mocking Sprite. |
+| [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 0.32 | **Kykar:** Sleeved in the Kykar in-hand pile (now in deck). |
 | [**`mtg:Mountain`**](https://scryfall.com/card/sos/278) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.09 | — |
 | [**`mtg:Inkling`**](https://scryfall.com/card/tsos/6) | [[02 Cards/Tokens/Inkling\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |
 | [**`mtg:Spirit`**](https://scryfall.com/card/tsos/10) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |

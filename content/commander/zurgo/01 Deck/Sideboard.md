@@ -8,6 +8,7 @@ group: auto
 legality: commander
 
 # Other / Lower Priority (owned, not in the 100)
+1 Flashback
 1 Mardu Devotee
 1 Prismatic Ending
 1 Kambal, Profiteering Mayor
@@ -135,6 +136,16 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 ### Instants
+> [!info] **`mtg:Flashback`**
+> **83** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:83%"></div></div>
+>
+> [[02 Cards/Instants/Flashback|Open local page →]]
+>
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Instants/Abrade|Abrade]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
+> > - [[02 Cards/Instants/Mortify|Mortify]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+
 > [!info] **`mtg:Deadly Dispute`**
 > **81** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:81%"></div></div>

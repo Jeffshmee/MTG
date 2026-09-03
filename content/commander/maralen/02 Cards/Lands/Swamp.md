@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Swamp](https://cards.scryfall.io/border_crop/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg)
+> ![Swamp](https://cards.scryfall.io/border_crop/front/f/0/f0bfdb9e-318f-4acd-9fbd-41b98a8875d6.jpg)
 >
 > ### Deck Scores
 >
@@ -68,12 +68,12 @@ Printings sleeved in this 100. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg" alt="Swamp FDN 276 · ×3">
-<figcaption>FDN 276 · ×3</figcaption>
-</figure>
-<figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/0/f0bfdb9e-318f-4acd-9fbd-41b98a8875d6.jpg" alt="Swamp TDM 281 · ×2">
 <figcaption>TDM 281 · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg" alt="Swamp FDN 276 · ×1">
+<figcaption>FDN 276 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/d/1dd4d605-02a2-4183-b191-0bca8dfbf962.jpg" alt="Swamp ECL 271 · ×1">
@@ -82,6 +82,14 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/d/fda1dbfa-a57b-4aa8-9993-c8f97aec28bb.jpg" alt="Swamp FDN 287 · ×1">
 <figcaption>FDN 287 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/5/1/51fe930f-2b5a-4b1e-9007-6ee74fb44715.jpg" alt="Swamp SOS 276 foil · ×1">
+<figcaption>SOS 276 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/7/1797d5c7-d3fa-4184-85ae-46db14ddf523.jpg" alt="Swamp SOS 269 · ×1">
+<figcaption>SOS 269 · ×1</figcaption>
 </figure>
 </div>
 
@@ -111,7 +119,7 @@ Printings sleeved in this 100. Infocard uses the most copies.
 >   general: 70
 >   deck_specific: 70
 >   combined: 70
-> scryfall_id: 319bc1f0-ee42-44e5-b08b-735613ded2ba
+> scryfall_id: f0bfdb9e-318f-4acd-9fbd-41b98a8875d6
 > tags:
 >   - card
 >   - main-deck

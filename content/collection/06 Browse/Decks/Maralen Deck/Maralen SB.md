@@ -2,11 +2,10 @@
 
 Copies in **Maralen SB**.
 
-**24** copies · **24** names.
+**23** copies · **23** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.67 |
 | [**`mtg:Evolving Wilds`**](https://scryfall.com/card/fdn/262) | [[02 Cards/Lands/Evolving Wilds\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.08 |
 | [**`mtg:Golgari Guildgate`**](https://scryfall.com/card/fdn/689) | [[02 Cards/Lands/Golgari Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.21 |
 | [**`mtg:Simic Guildgate`**](https://scryfall.com/card/fdn/695) | [[02 Cards/Lands/Simic Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |

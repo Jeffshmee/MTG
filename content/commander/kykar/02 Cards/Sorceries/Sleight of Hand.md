@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Sleight of Hand`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {U}  
 > **Type:** Sorcery  
 >
@@ -47,13 +47,13 @@
 
 ## Deck Role & Rating
 
-Sleight of Hand is a {U} sorcery cantrip. Noncreature, so Kykar triggers. [[02 Cards/Instants/Opt|Opt]] is already in the 73 and is better (instant). This is extra cantrip density, not an Opt replacement. No forced cut.
+Sleight of Hand is a {U} sorcery cantrip. Noncreature, so Kykar triggers. [[02 Cards/Instants/Opt|Opt]] is already in the 80 and is better (instant). This is extra cantrip density, not an Opt replacement. Sleeved into the 80 from the 02/09/2026 haul.
 
 ## Play Patterns & Lines
 
 - Turn 1 if you kept a cantrip-heavy hand.
 - Weaker than Opt — do not cut Opt for this.
-- 73/100 — can enter as a fill.
+- Extra cantrip for Kykar triggers. Do not cut Opt for this.
 
 ## Key Synergies
 
@@ -63,7 +63,7 @@ Sleight of Hand is a {U} sorcery cantrip. Noncreature, so Kykar triggers. [[02 C
 
 ## Anti-synergies / Notes
 
-- Owned extra. Stay on the sideboard until a fill is confirmed. Sorcery speed.
+- Sorcery speed. Weaker than Opt.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Sleight of Hand is a {U} sorcery cantrip. Noncreature, so Kykar triggers. [[02 C
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -94,7 +94,7 @@ Sleight of Hand is a {U} sorcery cantrip. Noncreature, so Kykar triggers. [[02 C
 > scryfall_id: c837c418-2fe9-4ce8-b76d-c37241579a93
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 > ```
 
 *Last evaluated: 2026-09-02*  

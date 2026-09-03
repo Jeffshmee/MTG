@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Harmonized Trio`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {U} // {U}  
 > **Type:** Creature — Merfolk Bard Wizard // Instant  
 > **P/T:** 1/1  
@@ -51,13 +51,13 @@ Brainstorm — [[03 Effects/Draw a Card|Draw three cards]], then put two cards f
 
 ## Deck Role & Rating
 
-Harmonized Trio is a {U} 1/1 that turns into Brainstorm by tapping itself and two others. Kykar's Spirit and the cheap flyers make the tap easy. Brainstorm is a Kykar trigger. Stronger than [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] as a one-drop that also digs. Suggested cut if you cut instead of filling: Spectral Sailor or [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]].
+Harmonized Trio is a {U} 1/1 that turns into Brainstorm by tapping itself and two others. Kykar's Spirit and the cheap flyers make the tap easy. Brainstorm is a Kykar trigger. Stronger than [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] as a one-drop that also digs. Sleeved into the 80 from the 02/09/2026 haul.
 
 ## Play Patterns & Lines
 
 - Cast the creature on one. Tap three (including this) when you want Brainstorm.
 - Kykar Spirits count toward the tap.
-- 73/100 — can enter as a fill.
+- Kykar Spirits count toward the tap.
 
 ## Key Synergies
 
@@ -68,7 +68,7 @@ Harmonized Trio is a {U} 1/1 that turns into Brainstorm by tapping itself and tw
 
 ## Anti-synergies / Notes
 
-- Owned extra. Stay on the sideboard until a fill or named cut is confirmed. Needs two other creatures to prepare.
+- Needs two other creatures to prepare. Dead on an empty board.
 
 ## Related Pages
 
@@ -91,7 +91,7 @@ Harmonized Trio is a {U} 1/1 that turns into Brainstorm by tapping itself and tw
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 92
@@ -99,7 +99,7 @@ Harmonized Trio is a {U} 1/1 that turns into Brainstorm by tapping itself and tw
 > scryfall_id: 617208ff-dd9b-44fd-a740-d3188081e5cc
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 > ```
 
 *Last evaluated: 2026-09-02*  

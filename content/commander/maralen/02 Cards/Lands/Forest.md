@@ -72,10 +72,6 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figcaption>FDN 280 · ×6</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/a/b/ab8affbb-d2a2-436b-bbc2-9e8b6cf0d2c4.jpg" alt="Forest FDN 281 · ×2">
-<figcaption>FDN 281 · ×2</figcaption>
-</figure>
-<figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/b/bbbeb57d-5fa0-4ff7-b5e8-caafc139669b.jpg" alt="Forest FDN 290 · ×1">
 <figcaption>FDN 290 · ×1</figcaption>
 </figure>
@@ -86,6 +82,10 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/4/b460f5f7-c7c9-400c-8419-23d614f45bf9.jpg" alt="Forest ECL 273 · ×1">
 <figcaption>ECL 273 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/1/f169dfb2-e4c8-46e9-8591-e51bb82da082.jpg" alt="Forest SOS 280 · ×1">
+<figcaption>SOS 280 · ×1</figcaption>
 </figure>
 </div>
 

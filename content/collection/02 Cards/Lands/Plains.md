@@ -55,11 +55,11 @@
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>2</td><td>Kykar</td><td>0.05</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Kykar</td><td>0.13</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>1</td><td>Kykar</td><td>0.10</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>1</td><td>Kykar</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>194</td><td>—</td><td>1</td><td>Kykar</td><td>0.29</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>272</td><td>—</td><td>1</td><td>Box</td><td>0.19</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>267</td><td>—</td><td>1</td><td>Box</td><td>0.53</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>267</td><td>—</td><td>1</td><td>Kykar</td><td>0.53</td></tr>
 </tbody>
 </table>
 </div>

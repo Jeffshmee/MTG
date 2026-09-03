@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Spell Pierce`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {U}  
 > **Type:** Instant  
 >
@@ -47,13 +47,13 @@
 
 ## Deck Role & Rating
 
-Spell Pierce is a one-mana tax on noncreature spells. [[02 Cards/Instants/An Offer You Can't Refuse|An Offer You Can't Refuse]] is the only cheap counter in the 73; [[02 Cards/Instants/Counterspell|Counterspell]] is still on the buy list. Point it at a wipe, a tutor, or a rock. Owned extra. Suggested cut if you cut instead of filling: [[02 Cards/Instants/Essence Scatter|Essence Scatter]] or [[02 Cards/Instants/Lofty Denial|Lofty Denial]].
+Spell Pierce is a one-mana tax on noncreature spells. [[02 Cards/Instants/An Offer You Can't Refuse|An Offer You Can't Refuse]] is the other cheap counter in the 80; [[02 Cards/Instants/Counterspell|Counterspell]] is still on the buy list. Point it at a wipe, a tutor, or a rock. Sleeved into the 80 from the 02/09/2026 haul.
 
 ## Play Patterns & Lines
 
 - Hold up {U} against a noncreature that must resolve.
 - Do not point it at a creature — Scatter / bounce already cover that.
-- 73/100 — can enter as a fill.
+- Hold {U} against a spell that must resolve.
 
 ## Key Synergies
 
@@ -64,7 +64,7 @@ Spell Pierce is a one-mana tax on noncreature spells. [[02 Cards/Instants/An Off
 
 ## Anti-synergies / Notes
 
-- Owned extra. Stay on the sideboard until a fill or named cut is confirmed. Does nothing to creatures.
+- Does nothing to creatures. Scatter / bounce cover those.
 
 ## Related Pages
 
@@ -87,7 +87,7 @@ Spell Pierce is a one-mana tax on noncreature spells. [[02 Cards/Instants/An Off
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 82
 >   deck_specific: 86
@@ -95,7 +95,7 @@ Spell Pierce is a one-mana tax on noncreature spells. [[02 Cards/Instants/An Off
 > scryfall_id: bc8f80e2-dd9d-4abc-b44c-fbef4d403e6f
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 > ```
 
 *Last evaluated: 2026-09-02*  

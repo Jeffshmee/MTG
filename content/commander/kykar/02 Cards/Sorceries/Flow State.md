@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Flow State`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{U}  
 > **Type:** Sorcery  
 >
@@ -53,7 +53,7 @@ Flow State is {1}{U} selection that upgrades once [[02 Cards/Instants/Think Twic
 
 - Cast after you have already played an instant and a sorcery for the two-card mode.
 - Triggers Kykar.
-- 73/100 — can enter as a fill.
+- Sleeved into the 80. Cast after you already have an instant and a sorcery in the yard.
 
 ## Key Synergies
 
@@ -63,7 +63,7 @@ Flow State is {1}{U} selection that upgrades once [[02 Cards/Instants/Think Twic
 
 ## Anti-synergies / Notes
 
-- Owned extra. Stay on the sideboard until a fill or named cut is confirmed.
+- One-card mode until the yard has both an instant and a sorcery.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Flow State is {1}{U} selection that upgrades once [[02 Cards/Instants/Think Twic
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 86
@@ -94,7 +94,7 @@ Flow State is {1}{U} selection that upgrades once [[02 Cards/Instants/Think Twic
 > scryfall_id: 47d6093b-b1b6-4956-8bfd-02cce899f832
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 > ```
 
 *Last evaluated: 2026-09-02*  

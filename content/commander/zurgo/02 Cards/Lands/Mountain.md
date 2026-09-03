@@ -69,8 +69,8 @@ Printings sleeved in this 100. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/f/bfa10a88-12e0-4b79-80bb-6f4620277e20.jpg" alt="Mountain TDM 283 · ×2">
-<figcaption>TDM 283 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/b/f/bfa10a88-12e0-4b79-80bb-6f4620277e20.jpg" alt="Mountain TDM 283 · ×1">
+<figcaption>TDM 283 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/3/a/3a3afd00-da06-4a9f-8cd1-7133728e0fdd.jpg" alt="Mountain FDN 288 · ×1">
@@ -83,6 +83,10 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/3/d/3df7c206-97b6-49d7-ba01-7a35fd8c61d9.jpg" alt="Mountain TDM 284 · ×1">
 <figcaption>TDM 284 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.jpg" alt="Mountain SOS 270 · ×1">
+<figcaption>SOS 270 · ×1</figcaption>
 </figure>
 </div>
 

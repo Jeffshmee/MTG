@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:73%"></div></div>
 >
-> ![Essence Scatter](https://cards.scryfall.io/border_crop/front/d/d/dd05c850-f91e-4ffb-b4cc-8418d49dad90.jpg)
+> ![Essence Scatter](https://cards.scryfall.io/border_crop/front/3/2/32840097-0531-4c43-b6a8-e76c17420b04.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@ Essence Scatter is interaction at {1}{U}. Hold it for the spell that would remov
 >   general: 72
 >   deck_specific: 74
 >   combined: 73
-> scryfall_id: dd05c850-f91e-4ffb-b4cc-8418d49dad90
+> scryfall_id: 32840097-0531-4c43-b6a8-e76c17420b04
 > tags:
 >   - card
 >   - main-deck

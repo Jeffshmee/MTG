@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Kykar, Zephyr Awakener
-72 + 1 = 73 cards (target 100)
+79 + 1 = 80 cards (target 100)
 
 ```decklist
 group: auto
@@ -11,6 +11,7 @@ legality: commander
 1 Kykar, Zephyr Awakener
 
 # Creatures
+1 Harmonized Trio
 1 Spectral Sailor
 1 Charming Prince
 1 Harbinger of the Tides
@@ -39,6 +40,7 @@ legality: commander
 1 Into the Flood Maw
 1 Opt
 1 Repeal
+1 Spell Pierce
 1 Unsummon
 1 Blink of an Eye
 1 Dawn's Truce
@@ -51,12 +53,17 @@ legality: commander
 1 Stroke of Midnight
 
 # Sorceries
+1 Daydream
+1 Sleight of Hand
+1 Flow State
+1 Stock Up
 1 Winged Words
 1 Day of Judgment
 1 Rite of Replication
 1 Flood of Tears
 1 River's Rebuke
 1 Turtles in Time
+1 Wisdom of Ages
 
 # Enchantments
 1 Witness Protection
@@ -86,7 +93,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-02*
+*Last synced: 2026-09-02 (SOS sleeves)*
 
 ---
 
@@ -96,6 +103,7 @@ legality: commander
 Each entry links to the local card page and shows the Combined Deck Synergy score.
 
 ### Creatures
+- [[02 Cards/Creatures/Harmonized Trio|Harmonized Trio]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:73%"></div></div>
 - [[02 Cards/Creatures/Charming Prince|Charming Prince]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Harbinger of the Tides|Harbinger of the Tides]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
@@ -125,6 +133,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Instants/Into the Flood Maw|Into the Flood Maw]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Instants/Opt|Opt]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Instants/Repeal|Repeal]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Instants/Spell Pierce|Spell Pierce]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Instants/Unsummon|Unsummon]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Instants/Blink of an Eye|Blink of an Eye]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Instants/Dawn's Truce|Dawn's Truce]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
@@ -137,12 +146,17 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Instants/Stroke of Midnight|Stroke of Midnight]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 
 ### Sorceries
+- [[02 Cards/Sorceries/Daydream|Daydream]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
+- [[02 Cards/Sorceries/Sleight of Hand|Sleight of Hand]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Sorceries/Flow State|Flow State]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Sorceries/Stock Up|Stock Up]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Sorceries/Rite of Replication|Rite of Replication]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Sorceries/Flood of Tears|Flood of Tears]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Sorceries/River's Rebuke|River's Rebuke]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
+- [[02 Cards/Sorceries/Wisdom of Ages|Wisdom of Ages]] **65** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:65%"></div></div>
 
 ### Enchantments
 - [[02 Cards/Enchantments/Witness Protection|Witness Protection]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>

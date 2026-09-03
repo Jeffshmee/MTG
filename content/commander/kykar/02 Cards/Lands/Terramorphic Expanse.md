@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:73%"></div></div>
 >
-> ![Terramorphic Expanse](https://cards.scryfall.io/border_crop/front/9/f/9ff6e014-4811-44df-a7f8-a667a4a01f4f.jpg)
+> ![Terramorphic Expanse](https://cards.scryfall.io/border_crop/front/9/a/9a4c5629-fadd-42b9-850f-9f8586a2ca50.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@ Terramorphic Expanse is a mana source for this Azorius pile. Owned fetch to basi
 >   general: 72
 >   deck_specific: 74
 >   combined: 73
-> scryfall_id: 9ff6e014-4811-44df-a7f8-a667a4a01f4f
+> scryfall_id: 9a4c5629-fadd-42b9-850f-9f8586a2ca50
 > tags:
 >   - card
 >   - main-deck

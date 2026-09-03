@@ -48,13 +48,13 @@ Vantress Visions — Copy target activated or triggered ability you control. You
 
 ## Deck Role & Rating
 
-Virtue of Knowledge ({4}{U}). Permanents entering cause extra triggers. Instant face is a bounce. Doubles bounce ETBs. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. It is not in the owned 65 yet.
+Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a triggered ability of a permanent you control to trigger, it triggers again. That doubles Channeler / Hunter / Cloudblazer / Thassa / Skycoach ETBs, and stacks with [[02 Cards/Creatures/Starfield Vocalist|Starfield Vocalist]] and [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (both ordered). The adventure, Vantress Visions, copies an activated or triggered ability you control. Ordered — not in the 80 until it arrives.
 
 ## Play Patterns & Lines
 
-- Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
-- Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- Enchantment is five mana. Cast when an ETB engine is already in play.
+- Adventure copies Thassa’s end-step blink or a Channeler ETB if you need the copy now.
+- Not in the 80 until it is in hand and committed.
 
 ## Key Synergies
 
@@ -64,7 +64,7 @@ Virtue of Knowledge ({4}{U}). Permanents entering cause extra triggers. Instant 
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Ordered. Stay off current-deck until it is in hand. Five mana on 21 lands.
 
 ## Related Pages
 

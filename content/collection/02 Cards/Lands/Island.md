@@ -47,16 +47,16 @@
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.23</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>5</td><td>Box</td><td>0.09</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>4</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>6</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>280</td><td>—</td><td>1</td><td>Maralen</td><td>0.22</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>273</td><td>—</td><td>1</td><td>Maralen</td><td>0.47</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>4</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>190</td><td>—</td><td>1</td><td>Kykar</td><td>0.09</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>5</td><td>Kykar</td><td>0.08</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>3</td><td>Kykar</td><td>0.08</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>270</td><td>—</td><td>1</td><td>Kykar</td><td>0.07</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>284</td><td>—</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>268</td><td>—</td><td>1</td><td>Box</td><td>0.60</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>foil</td><td>1</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>268</td><td>—</td><td>1</td><td>Kykar</td><td>0.60</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>foil</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
 </tbody>
 </table>

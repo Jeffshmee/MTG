@@ -47,20 +47,20 @@
 <tbody>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>282</td><td>—</td><td>1</td><td>Box</td><td>0.23</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>281</td><td>—</td><td>1</td><td>Box</td><td>0.15</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>276</td><td>—</td><td>4</td><td>Box</td><td>0.10</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>276</td><td>—</td><td>6</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>277</td><td>—</td><td>8</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>1</td><td>Box</td><td>0.24</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>271</td><td>—</td><td>1</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>281</td><td>—</td><td>2</td><td>Maralen</td><td>0.15</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>276</td><td>—</td><td>3</td><td>Maralen</td><td>0.10</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>276</td><td>—</td><td>1</td><td>Maralen</td><td>0.10</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>1</td><td>Maralen</td><td>0.24</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>276</td><td>—</td><td>1</td><td>Zurgo</td><td>0.18</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>282</td><td>—</td><td>1</td><td>Zurgo</td><td>0.23</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>1</td><td>Zurgo</td><td>0.24</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>286</td><td>—</td><td>1</td><td>Zurgo</td><td>0.67</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>191</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>276</td><td>foil</td><td>1</td><td>Box</td><td>0.14</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>269</td><td>—</td><td>1</td><td>Box</td><td>0.52</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>276</td><td>foil</td><td>1</td><td>Maralen</td><td>0.14</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>269</td><td>—</td><td>1</td><td>Maralen</td><td>0.52</td></tr>
 </tbody>
 </table>
 </div>

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Wisdom of Ages`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}{U}{U}{U}  
 > **Type:** Sorcery  
 >
@@ -50,12 +50,12 @@ Return all instant and sorcery cards from your graveyard to your hand. You have 
 
 ## Deck Role & Rating
 
-Wisdom of Ages is a late-game refill at {4}{U}{U}{U}. The 73 is 21 lands, mostly basics — triple U is a keep-or-mulligan problem. [[02 Cards/Instants/Mission Briefing|Mission Briefing]] is already an owned extra for cheaper recursion. Not a 73 include. Parked on the sideboard until the list is cheap-spell dense and the mana base can support UUU.
+Wisdom of Ages is a late-game refill at {4}{U}{U}{U}. The 80 is still 21 lands, mostly basics — triple U is greedy. You sleeved it anyway; hold it until the yard is fat and you have three blue. [[02 Cards/Instants/Mission Briefing|Mission Briefing]] is the cheaper recursion extra still on the sideboard.
 
 ## Play Patterns & Lines
 
-- Do not sleeve into the 73.
-- Only revisit after duals and a denser instant/sorcery suite.
+- Cast only when the yard has several instants and sorceries worth returning.
+- Keep three blue sources. Do not tap out for Kykar the same turn if this is the plan.
 
 ## Key Synergies
 
@@ -66,7 +66,7 @@ Wisdom of Ages is a late-game refill at {4}{U}{U}{U}. The 73 is 21 lands, mostly
 
 ## Anti-synergies / Notes
 
-- Not a 73 include. Stay on the sideboard. {4}{U}{U}{U} on 21 lands.
+- {4}{U}{U}{U} on 21 lands. Exiles itself — one shot.
 
 ## Related Pages
 
@@ -89,7 +89,7 @@ Wisdom of Ages is a late-game refill at {4}{U}{U}{U}. The 73 is 21 lands, mostly
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 70
 >   deck_specific: 62
@@ -97,7 +97,7 @@ Wisdom of Ages is a late-game refill at {4}{U}{U}{U}. The 73 is 21 lands, mostly
 > scryfall_id: b227ef04-33e4-44e8-a357-0ea3dfe5d49b
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 > ```
 
 *Last evaluated: 2026-09-02*  

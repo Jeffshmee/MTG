@@ -12,6 +12,11 @@ configuration:
     - private
     - templates
     - .obsidian
+    - "**/_edhrec_cache"
+    - "**/_edhrec_cache/**"
+    - "**/_rank_data.json"
+    - "**/_rank_scores.json"
+    - "**/_price_cache.json"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

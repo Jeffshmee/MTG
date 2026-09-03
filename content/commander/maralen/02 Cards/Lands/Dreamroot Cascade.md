@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Dreamroot Cascade`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -48,13 +48,13 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control two or m
 
 ## Deck Role & Rating
 
-Dreamroot Cascade is a slow UG dual. [[02 Cards/Lands/Breeding Pool|Breeding Pool]] is already the untapped UG shock. This is the second UG source that comes in untapped from land three on. Suggested cut: a [[02 Cards/Lands/Forest|Forest]] (11 in the 100). Do not cut [[02 Cards/Lands/Opulent Palace|Opulent Palace]] (playtest).
+Dreamroot Cascade is a slow UG dual. [[02 Cards/Lands/Breeding Pool|Breeding Pool]] is already the untapped UG shock. This is the second UG source that comes in untapped from land three on. Sleeved into the 100 for a [[02 Cards/Lands/Forest|Forest]] (now 10). Do not cut [[02 Cards/Lands/Opulent Palace|Opulent Palace]] (playtest).
 
 ## Play Patterns & Lines
 
 - Play as land three-plus so it is untapped.
 - Fixes {U} off a green-heavy draw.
-- Not in the 100 until a named Forest cut is confirmed.
+- Forest count is 10 after this swap.
 
 ## Key Synergies
 
@@ -63,7 +63,7 @@ Dreamroot Cascade is a slow UG dual. [[02 Cards/Lands/Breeding Pool|Breeding Poo
 
 ## Anti-synergies / Notes
 
-- Enters tapped on land one or two. Stay on the sideboard until a Forest is named.
+- Enters tapped on land one or two.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Dreamroot Cascade is a slow UG dual. [[02 Cards/Lands/Breeding Pool|Breeding Poo
 > colors: []
 > color_identity: ["G", "U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 80
@@ -94,7 +94,7 @@ Dreamroot Cascade is a slow UG dual. [[02 Cards/Lands/Breeding Pool|Breeding Poo
 > scryfall_id: ef662b92-5a7f-48c9-bcc1-14b55e091aef
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 > ```
 
 *Last evaluated: 2026-09-02*  

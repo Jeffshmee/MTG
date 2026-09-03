@@ -6,6 +6,11 @@ _junction-restore-*/
 .obsidian
 **/07 Assets/
 **/ZZ-Changes/
+**/08 Assets/
+**/_edhrec_cache/
+**/_rank_data.json
+**/_rank_scores.json
+**/_price_cache.json
 prof
 tsconfig.tsbuildinfo
 .quartz-cache

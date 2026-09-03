@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:66%"></div></div>
 >
-> ![Terramorphic](https://cards.scryfall.io/border_crop/front/9/f/9ff6e014-4811-44df-a7f8-a667a4a01f4f.jpg)
+> ![Terramorphic](https://cards.scryfall.io/border_crop/front/9/a/9a4c5629-fadd-42b9-850f-9f8586a2ca50.jpg)
 >
 > ### Deck Scores
 >
@@ -87,7 +87,7 @@ Terramorphic Expanse is a slow fetch that finds a basic tapped. Savai Triome too
 >   general: 68
 >   deck_specific: 65
 >   combined: 66
-> scryfall_id: 9ff6e014-4811-44df-a7f8-a667a4a01f4f
+> scryfall_id: 9a4c5629-fadd-42b9-850f-9f8586a2ca50
 > tags:
 >   - card
 >   - ordered
