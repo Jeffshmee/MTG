@@ -4,208 +4,86 @@ title: Commander ranking
 
 # Commander ranking
 
-Working page for the **next** 100. Not a deck. Not generated — collection rebuild does not touch `09 Deck Ideas/`.
-
-This page is the scoring contract. Ranked list is from the latest run. Do not create a vault from a row until you name the commander.
-
----
-
-## Existing 100s
-
-Variety is scored against these three. Same identity or same plan is a penalty, not an automatic exclude.
-
-| Deck | Commander | Identity | Plan |
-|------|-----------|----------|------|
-| Maralen | [**`mtg:Maralen, Fae Ascendant`**](https://edhrec.com/commanders/maralen-fae-ascendant) | Sultai (U B G) | Elf / Faerie mill-steal |
-| Zurgo | [**`mtg:Zurgo Stormrender`**](https://edhrec.com/commanders/zurgo-stormrender) | Mardu (R W B) | Go-wide tokens / Mobilize |
-| Kykar | [**`mtg:Kykar, Zephyr Awakener`**](https://edhrec.com/commanders/kykar-zephyr-awakener) | Azorius (W U) | Blink / bounce |
-
-Kykar is being finished. Ordered Kykar singles are **earmarked** and do not count as free for a fourth 100.
-
----
-
-## How a commander is scored
-
-One Combined number, five parts. Raw columns stay on the table so you can ignore the blend.
-
-| Part | Weight | What it measures |
-|------|--------|------------------|
-| **Collection fit** | **30** | Share of that commander’s EDHREC **99** you can sleeve from **unused** cards (land slots; basics as copies) |
-| **Variety** | **30** | New identity and a new plan vs the three 100s above |
-| **EDHREC rank** | **20** | How established the commander is (All bracket, deck count, log scale) |
-| **Next box** | **10** | Missing synergy cards clustered in a Play Booster set you barely have |
-| **Finish cost** | **10** | GBP to buy the missing synergy cards (cheaper is better) |
-
-`Combined = (0.30 × Fit) + (0.30 × Variety) + (0.20 × EDHREC) + (0.10 × Box) + (0.10 × Cheap)`
-
-Each part is 0–100 before weighting.
-
----
-
-## Pool and filters
-
-**In the pool**
-
-- Legendary **creature** you own (a spare if the only copy is already in a 100)
-- Legal commander
-- [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/ltr/192/bard-king-of-dale) is **earmarked** — always scored, even if Azorius overlap with Kykar looks bad on variety
-
-**Out of the pool**
-
-- Maralen, Zurgo, Kykar as “new” commanders
-- Tokens, legendary lands, backgrounds-only
-- Commanders you do not own (no “buy the general, then 80 cards”)
-
-**Not a numeric score — flag only**
-
-- **Cheese / salt.** You play with friends. If the EDHREC pile leans on extra-turn, hard stax, private- tutors-into-combo, or table-hated game changers (Rhystic Study, Smothering Tithe, Cyclonic Rift, Grand Arbiter, Narset), the row stays in the table with a **Cheese** flag. It is not auto-dropped. You decide.
-
----
-
-## What “owned” means for Fit and Cost
-
-A name counts as available if **all** of these are true:
-
-1. It is in the collection (Box, a sideboard, or a spare copy)
-2. Colour identity is legal for that commander
-3. It is **not** the last copy in Maralen, Zurgo, or Kykar
-4. It is **not** on the Kykar ordered list (those are already spoken for)
-
-Lands count the same as spells. Duals, basics, and rocks are just cards in the 99.
-
-**Ideal 99** for Fit = EDHREC High Synergy + Average Deck + land slots (about 36). Basics count as copies (`Plains` ×8), not one name. Named lands that do not fit remaining slots are dropped.
-
-**Fit score** = % of those 99 slots you can sleeve from the unused pool.
-
-**Unused homes (display only, not a fifth weight):** how many unused, identity-legal names in the Box this commander could actually play. That is “give a home to cards I already own,” not only SOS.
-
----
-
-## Variety (0–100)
-
-| Situation | Score |
-|-----------|-------|
-| New identity **and** a plan none of the three 100s do | 90–100 |
-| New identity, overlapping plan (another token deck, another blink deck, another Elf deck) | 50–70 |
-| Same identity as Maralen, Zurgo, or Kykar | 20–40 |
-| Same identity **and** same plan | 0–20 |
-
-Bard is Azorius and doubles tokens — overlap with Kykar (identity) and Zurgo (tokens). He still gets a full row because he is earmarked.
-
----
-
-## EDHREC (0–100)
-
-All bracket, number of decks. Log scale. Thin samples (< ~200 decks) stay in the table with a small-sample note; they are not treated as “rank 1.”
-
----
-
-## Next box (0–100)
-
-For High Synergy cards you do **not** own, use the latest **Play Booster** printing (not Commander decks, Masters, Secret Lair).
-
-You already have volume in Foundations, Secrets of Strixhaven, Tarkir, The Hobbit, Lorwyn Eclipsed.
-
-Score **up** if three or more missing synergy cards share one Play Booster set you have few names from. That set is the “next box” in the row.
-
-Score **down** (and say so) if the holes are Commander staples a box will not hit.
-
----
-
-## Finish cost (0–100)
-
-GBP to buy the missing High Synergy cards, using listed prices (Scryfall / collection GBP). Cheaper finish → higher score. A cheap 60% Fit deck beats a 70% Fit deck that still needs £200 of rares.
-
----
-
-## Kykar earmarked (do not count as free)
-
-Displacer Kitten, Ephemerate, Aetherize, Ghostly Flicker, Archaeomancer, Peregrine Drake, Deadeye Navigator, Reflector Mage, Panharmonicon, Starfield Vocalist, Wizard's Staff, Snap, Cloudshift, Soulherder, Mulldrifter, Teleportation Circle, Counterspell, Ponder, Hallowed Fountain, Mystic Sanctuary, Loran of the Third Path, Venser, Shaper Savant, Deputy of Detention, Skyclave Apparition, Azorius Signet, Talisman of Progress, Swiftfoot Boots, Time Wipe, Restoration Angel, Floodfarm Verge, Glacial Fortress, Port Town, Prairie Stream, Arcane Signet, **Virtue of Knowledge**.
-
----
-
-## Earmarked commander
-
-| Commander | Where it sits | Why it is here |
-|-----------|---------------|----------------|
-| [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/ltr/192/bard-king-of-dale) | Kykar sideboard (owned extra, not in the 80) | You named him. Azorius extra-draw + token doubling. Score him anyway. |
-
----
+The **next** 100. Not a deck. Scoring rules: [[00 - Scoring]]. Do not create a vault from a row until you name the commander.
 
 ## Ranked list
 
-Run **2026-09-02**. 66 owned legendary creatures vs 1027 unused names. Sorted Score high → low. Bard is earmarked and sits at his Score rank, not forced to #1.
+Run **2026-09-03**. 66 owned legendary creatures vs 1027 unused names. Sorted Score high → low. Bard is earmarked and sits at his Score rank, not forced to #1.
 
-Variety uses the **primary** EDHREC tag (and the next two) only — not every theme anyone has ever built. Fit is slots of the EDHREC **99** you can sleeve (63 nonlands + 36 land slots; basics count as copies). A name in **Still buy** may already sit as the last copy in Maralen, Zurgo, or Kykar — it is not free.
+Fit is slots of the EDHREC **99** you can sleeve (63 nonlands + 36 land slots; basics count as copies). A name in **Still buy** may already sit as the last copy in Maralen, Zurgo, or Kykar — it is not free.
 
-| # | Commander | PAGE | Why | Identity | Plan | Decks | Rank | Fit | Unused | Variety | Next box(s) | £ | Score | Cheese |
-|---|-----------|------|-----|----------|------|-------|------|-----|--------|---------|-------------|---|-------|--------|
-| 1 | [**`mtg:Fynn, the Fangbearer`**](https://edhrec.com/commanders/fynn-the-fangbearer) | [[02 Cards/Creatures/Fynn, the Fangbearer\|PAGE]] | [[#1. Fynn, the Fangbearer\|Why]] | {G} | Infect | 16,028 | 115 | 20 | 199 | 95 | [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/KHM\|KHM]] | £213 | 66 | — |
-| 2 | [**`mtg:Halana and Alena, Partners`**](https://edhrec.com/commanders/halana-and-alena-partners) | [[02 Cards/Creatures/Halana and Alena, Partners\|PAGE]] | [[#2. Halana and Alena, Partners\|Why]] | {R}{G} | +1/+1 Counters | 4,371 | 648 | 17 | 344 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] | £322 | 63 | yes |
-| 3 | [**`mtg:Mica, Reader of Ruins`**](https://edhrec.com/commanders/mica-reader-of-ruins) | [[02 Cards/Creatures/Mica, Reader of Ruins\|PAGE]] | [[#3. Mica, Reader of Ruins\|Why]] | {R} | Spellslinger | 1,362 | 1,392 | 24 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/STX\|STX]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] | £361 | 63 | yes |
-| 4 | [**`mtg:Ruby, Daring Tracker`**](https://edhrec.com/commanders/ruby-daring-tracker) | [[02 Cards/Creatures/Ruby, Daring Tracker\|PAGE]] | [[#4. Ruby, Daring Tracker\|Why]] | {R}{G} | Ramp | 4,541 | 624 | 14 | 344 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) | £217 | 62 | yes |
-| 5 | [**`mtg:Tam, Observant Sequencer`**](https://edhrec.com/commanders/tam-observant-sequencer) | [[02 Cards/Creatures/Tam, Observant Sequencer\|PAGE]] | [[#5. Tam, Observant Sequencer\|Why]] | {U}{G} | Lands Matter | 436 | 2,251 | 28 | 360 | 95 | [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/TDM\|TDM]] | £265 | 62 | yes |
-| 6 | [**`mtg:Ramos, Dragon Engine`**](https://edhrec.com/commanders/ramos-dragon-engine) | [[02 Cards/Creatures/Ramos, Dragon Engine\|PAGE]] | [[#6. Ramos, Dragon Engine\|Why]] | {W}{U}{B}{R}{G} | +1/+1 Counters | 12,861 | 166 | 23 | 930 | 95 | [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MOM\|MOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ECL\|ECL]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DMU\|DMU]] [ONE](https://scryfall.com/sets/one) | £182 | 61 | yes |
-| 7 | [**`mtg:Moseo, Vein's New Dean`**](https://edhrec.com/commanders/moseo-veins-new-dean) | [[02 Cards/Creatures/Moseo, Vein's New Dean\|PAGE]] | [[#7. Moseo, Vein's New Dean\|Why]] | {B} | Lifegain | 1,767 | 1,209 | 17 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/WOE\|WOE]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] | £388 | 61 | — |
-| 8 | [**`mtg:Arnyn, Deathbloom Botanist`**](https://edhrec.com/commanders/arnyn-deathbloom-botanist) | [[02 Cards/Creatures/Arnyn, Deathbloom Botanist\|PAGE]] | [[#8. Arnyn, Deathbloom Botanist\|Why]] | {B} | Aristocrats | 662 | 1,929 | 23 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ECL\|ECL]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/SOS\|SOS]] [VOW](https://scryfall.com/sets/vow) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] | £272 | 61 | — |
-| 9 | [**`mtg:Etali, Primal Storm`**](https://edhrec.com/commanders/etali-primal-storm) | [[02 Cards/Creatures/Etali, Primal Storm\|PAGE]] | [[#9. Etali, Primal Storm\|Why]] | {R} | Extra Combats | 2,367 | 1,004 | 12 | 198 | 95 | [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [LTR](https://scryfall.com/sets/ltr) | £436 | 60 | yes |
-| 10 | [**`mtg:Ayli, Eternal Pilgrim`**](https://edhrec.com/commanders/ayli-eternal-pilgrim) | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|PAGE]] | [[#10. Ayli, Eternal Pilgrim\|Why]] | {W}{B} | Lifegain | 1,949 | 1,141 | 29 | 353 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] | £267 | 60 | yes |
-| 11 | [**`mtg:Arcanis the Omnipotent`**](https://edhrec.com/commanders/arcanis-the-omnipotent) | [[02 Cards/Creatures/Arcanis the Omnipotent\|PAGE]] | [[#11. Arcanis the Omnipotent\|Why]] | {U} | Card Draw | 1,894 | 1,158 | 13 | 203 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/STX\|STX]] [MID](https://scryfall.com/sets/mid) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/FIN\|FIN]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | £283 | 60 | yes |
-| 12 | [**`mtg:Ozox, the Clattering King`**](https://edhrec.com/commanders/ozox-the-clattering-king) | [[02 Cards/Creatures/Ozox, the Clattering King\|PAGE]] | [[#12. Ozox, the Clattering King\|Why]] | {B} | Aristocrats | 1,226 | 1,477 | 13 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/M19\|M19]] [VOW](https://scryfall.com/sets/vow) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/THB\|THB]] [ONE](https://scryfall.com/sets/one) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] | £374 | 59 | — |
-| 13 | [**`mtg:Gladiolus Amicitia`**](https://edhrec.com/commanders/gladiolus-amicitia) | [[02 Cards/Creatures/Gladiolus Amicitia\|PAGE]] | [[#13. Gladiolus Amicitia\|Why]] | {R}{G} | Lands Matter | 929 | 1,693 | 13 | 344 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] | £340 | 59 | yes |
-| 14 | [**`mtg:Kalakscion, Hunger Tyrant`**](https://edhrec.com/commanders/kalakscion-hunger-tyrant) | [[02 Cards/Creatures/Kalakscion, Hunger Tyrant\|PAGE]] | [[#14. Kalakscion, Hunger Tyrant\|Why]] | {B} | Voltron | 609 | 2,009 | 16 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FDN\|FDN]] | £300 | 59 | — |
-| 15 | [**`mtg:Abigale, Poet Laureate`**](https://edhrec.com/commanders/abigale-poet-laureate) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | [[#15. Abigale, Poet Laureate\|Why]] | {W}{B} | +1/+1 Counters | 1,465 | 1,341 | 26 | 353 | 95 | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/EOE\|EOE]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/DFT\|DFT]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TLA\|TLA]] | £148 | 58 | yes |
-| 16 | [**`mtg:Sanar, Unfinished Genius`**](https://edhrec.com/commanders/sanar-unfinished-genius) | [[02 Cards/Creatures/Sanar, Unfinished Genius\|PAGE]] | [[#16. Sanar, Unfinished Genius\|Why]] | {U}{R} | Spellslinger | 1,190 | 1,505 | 28 | 359 | 95 | [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [WAR](https://scryfall.com/sets/war) | £354 | 58 | yes |
-| 17 | [**`mtg:Zetalpa, Primal Dawn`**](https://edhrec.com/commanders/zetalpa-primal-dawn) | [[02 Cards/Creatures/Zetalpa, Primal Dawn\|PAGE]] | [[#17. Zetalpa, Primal Dawn\|Why]] | {W} | Equipment | 580 | 2,043 | 10 | 197 | 95 | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) | £300 | 57 | yes |
-| 18 | [**`mtg:Ultros, Obnoxious Octopus`**](https://edhrec.com/commanders/ultros-obnoxious-octopus) | [[02 Cards/Creatures/Ultros, Obnoxious Octopus\|PAGE]] | [[#18. Ultros, Obnoxious Octopus\|Why]] | {U} | Control | 402 | 2,304 | 11 | 203 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) | £248 | 57 | yes |
-| 19 | [**`mtg:Lathril, Blade of the Elves`**](https://edhrec.com/commanders/lathril-blade-of-the-elves) | [[02 Cards/Creatures/Lathril, Blade of the Elves\|PAGE]] | [[#19. Lathril, Blade of the Elves\|Why]] | {B}{G} | Elves | 35,279 | 13 | 18 | 360 | 60 | [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/SOS\|SOS]] | £439 | 56 | — |
-| 20 | [**`mtg:Tatyova, Benthic Druid`**](https://edhrec.com/commanders/tatyova-benthic-druid) | [[02 Cards/Creatures/Tatyova, Benthic Druid\|PAGE]] | [[#20. Tatyova, Benthic Druid\|Why]] | {U}{G} | Lands Matter | 9,262 | 263 | 13 | 360 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [MH2](https://scryfall.com/sets/mh2) | £1385 | 56 | yes |
-| 21 | [**`mtg:Zimone, Paradox Sculptor`**](https://edhrec.com/commanders/zimone-paradox-sculptor) | [[02 Cards/Creatures/Zimone, Paradox Sculptor\|PAGE]] | [[#21. Zimone, Paradox Sculptor\|Why]] | {U}{G} | +1/+1 Counters | 4,004 | 685 | 16 | 360 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/DFT\|DFT]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/SOS\|SOS]] | £405 | 56 | yes |
-| 22 | [**`mtg:Combustion Man`**](https://edhrec.com/commanders/combustion-man) | [[02 Cards/Creatures/Combustion Man\|PAGE]] | [[#22. Combustion Man\|Why]] | {R} | Burn | 824 | 1,779 | 17 | 198 | 95 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/FDN\|FDN]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/BLB\|BLB]] | £542 | 56 | yes |
-| 23 | [**`mtg:Kirol, History Buff`**](https://edhrec.com/commanders/kirol-history-buff) | [[02 Cards/Creatures/Kirol, History Buff\|PAGE]] | [[#23. Kirol, History Buff\|Why]] | {W}{R} | Graveyard | 346 | 2,406 | 25 | 354 | 95 | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BLB\|BLB]] [SNC](https://scryfall.com/sets/snc) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] | £67 | 56 | yes |
-| 24 | [**`mtg:The Dawning Archaic`**](https://edhrec.com/commanders/the-dawning-archaic) | [[02 Cards/Creatures/The Dawning Archaic\|PAGE]] | [[#24. The Dawning Archaic\|Why]] | {C} | Spellslinger | 613 | 2,003 | 4 | 66 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) | £319 | 55 | — |
-| 25 | [**`mtg:Bifur, Melodic Rider`**](https://edhrec.com/commanders/bifur-melodic-rider) | [[02 Cards/Creatures/Bifur, Melodic Rider\|PAGE]] | [[#25. Bifur, Melodic Rider\|Why]] | {W}{R} | Equipment | 406 | 2,297 | 25 | 354 | 95 | [[06 Browse/Sets/HOB\|HOB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TLA\|TLA]] | £350 | 55 | yes |
-| 26 | [**`mtg:Syr Alin, the Lion's Claw`**](https://edhrec.com/commanders/syr-alin-the-lions-claw) | [[02 Cards/Creatures/Syr Alin, the Lion's Claw\|PAGE]] | [[#26. Syr Alin, the Lion's Claw\|Why]] | {W} | Humans † | 48 | 3,862 | 16 | 197 | 95 | [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MOM\|MOM]] [MH2](https://scryfall.com/sets/mh2) [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/FDN\|FDN]] | £158 | 55 | yes |
-| 27 | [**`mtg:Gandalf, Spark Starter`**](https://edhrec.com/commanders/gandalf-spark-starter) | [[02 Cards/Creatures/Gandalf, Spark Starter\|PAGE]] | [[#27. Gandalf, Spark Starter\|Why]] | {R} | unlabeled † | 8 | 5,468 | 27 | 198 | 95 | [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [MID](https://scryfall.com/sets/mid) [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/STX\|STX]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ZNR\|ZNR]] [LTR](https://scryfall.com/sets/ltr) [MH1](https://scryfall.com/sets/mh1) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] | £352 | 55 | yes |
-| 28 | [**`mtg:Lyra Dawnbringer`**](https://edhrec.com/commanders/lyra-dawnbringer) | [[02 Cards/Creatures/Lyra Dawnbringer\|PAGE]] | [[#28. Lyra Dawnbringer\|Why]] | {W} | Angels | 1,545 | 1,296 | 11 | 197 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/KHM\|KHM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ZNR\|ZNR]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] | £373 | 54 | yes |
-| 29 | [**`mtg:Page, Loose Leaf`**](https://edhrec.com/commanders/page-loose-leaf) | [[02 Cards/Creatures/Page, Loose Leaf\|PAGE]] | [[#29. Page, Loose Leaf\|Why]] | {C} | Ramp | 380 | 2,340 | 2 | 66 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] | £354 | 54 | — |
-| 30 | [**`mtg:Toph, the Blind Bandit`**](https://edhrec.com/commanders/toph-the-blind-bandit) | [[02 Cards/Creatures/Toph, the Blind Bandit\|PAGE]] | [[#30. Toph, the Blind Bandit\|Why]] | {G} | +1/+1 Counters | 290 | 2,522 | 16 | 199 | 95 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] | £353 | 54 | — |
-| 31 | [**`mtg:Ashe, Princess of Dalmasca`**](https://edhrec.com/commanders/ashe-princess-of-dalmasca) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | [[#31. Ashe, Princess of Dalmasca\|Why]] | {W} | Artifacts † | 139 | 3,063 | 9 | 197 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DFT\|DFT]] [ONE](https://scryfall.com/sets/one) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FDN\|FDN]] | £313 | 54 | yes |
-| 32 | [**`mtg:Bolg of the North`**](https://edhrec.com/commanders/bolg-of-the-north) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | [[#32. Bolg of the North\|Why]] | {B}{R} | Clones † | 65 | 3,618 | 30 | 341 | 95 | [[06 Browse/Sets/HOB\|HOB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DOM\|DOM]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) | £193 | 54 | yes |
-| 33 | [**`mtg:Nori, Teller of Tales`**](https://edhrec.com/commanders/nori-teller-of-tales) | [[02 Cards/Creatures/Nori, Teller of Tales\|PAGE]] | [[#33. Nori, Teller of Tales\|Why]] | {W}{R} | Dwarves † | 8 | 5,469 | 23 | 354 | 95 | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M19\|M19]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] | £117 | 54 | — |
-| 34 | [**`mtg:Bombur, Gentle Dreamer`**](https://edhrec.com/commanders/bombur-gentle-dreamer) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | [[#34. Bombur, Gentle Dreamer\|Why]] | {R} | Dwarves † | 4 | 6,129 | 27 | 198 | 95 | [[06 Browse/Sets/NEO\|NEO]] [LTR](https://scryfall.com/sets/ltr) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/ELD\|ELD]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] | £223 | 54 | yes |
-| 35 | [**`mtg:Grenzo, Havoc Raiser`**](https://edhrec.com/commanders/grenzo-havoc-raiser) | [[02 Cards/Creatures/Grenzo, Havoc Raiser\|PAGE]] | [[#35. Grenzo, Havoc Raiser\|Why]] | {R} | Forced Combat | 919 | 1,700 | 11 | 198 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] | £296 | 53 | yes |
-| 36 | [**`mtg:Kiora, the Rising Tide`**](https://edhrec.com/commanders/kiora-the-rising-tide) | [[02 Cards/Creatures/Kiora, the Rising Tide\|PAGE]] | [[#36. Kiora, the Rising Tide\|Why]] | {U} | Wheels | 588 | 2,033 | 15 | 203 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/AFR\|AFR]] | £227 | 53 | yes |
-| 37 | [**`mtg:Surrak, the Hunt Caller`**](https://edhrec.com/commanders/surrak-the-hunt-caller) | [[02 Cards/Creatures/Surrak, the Hunt Caller\|PAGE]] | [[#37. Surrak, the Hunt Caller\|Why]] | {G} | Aggro † | 106 | 3,256 | 22 | 199 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TDM\|TDM]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] | £234 | 53 | — |
-| 38 | [**`mtg:Myojin of Night's Reach`**](https://edhrec.com/commanders/myojin-of-nights-reach) | [[02 Cards/Creatures/Myojin of Night's Reach\|PAGE]] | [[#38. Myojin of Night's Reach\|Why]] | {B} | Discard † | 19 | 4,633 | 15 | 198 | 95 | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [WAR](https://scryfall.com/sets/war) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] | £375 | 53 | yes |
-| 39 | [**`mtg:Smaug, the Great Calamity`**](https://edhrec.com/commanders/smaug-the-great-calamity) | [[02 Cards/Creatures/Smaug, the Great Calamity\|PAGE]] | [[#39. Smaug, the Great Calamity\|Why]] | {R} | Burn † | 8 | 5,470 | 18 | 198 | 95 | [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/M20\|M20]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/NEO\|NEO]] | £169 | 53 | yes |
-| 40 | [**`mtg:Gollum, Silent Slinker`**](https://edhrec.com/commanders/gollum-silent-slinker) | [[02 Cards/Creatures/Gollum, Silent Slinker\|PAGE]] | [[#40. Gollum, Silent Slinker\|Why]] | {B} | Control † | 7 | 5,593 | 21 | 198 | 95 | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) | £208 | 53 | yes |
-| 41 | [**`mtg:Lluwen, Exchange Student`**](https://edhrec.com/commanders/lluwen-exchange-student) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | [[#41. Lluwen, Exchange Student\|Why]] | {B}{G} | Tokens | 793 | 1,813 | 26 | 360 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TDM\|TDM]] | £261 | 52 | — |
-| 42 | [**`mtg:Kambal, Profiteering Mayor`**](https://edhrec.com/commanders/kambal-profiteering-mayor) | [[02 Cards/Creatures/Kambal, Profiteering Mayor\|PAGE]] | [[#42. Kambal, Profiteering Mayor\|Why]] | {W}{B} | Tokens | 6,599 | 430 | 11 | 353 | 60 | [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/DMU\|DMU]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/WOE\|WOE]] | £434 | 51 | yes |
-| 43 | [**`mtg:Aziza, Mage Tower Captain`**](https://edhrec.com/commanders/aziza-mage-tower-captain) | [[02 Cards/Creatures/Aziza, Mage Tower Captain\|PAGE]] | [[#43. Aziza, Mage Tower Captain\|Why]] | {W}{R} | Tokens | 2,754 | 904 | 16 | 354 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [SNC](https://scryfall.com/sets/snc) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/STX\|STX]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/KHM\|KHM]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/ZNR\|ZNR]] | £410 | 51 | yes |
-| 44 | [**`mtg:Dion, Bahamut's Dominant`**](https://edhrec.com/commanders/dion-bahamuts-dominant) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | [[#44. Dion, Bahamut's Dominant\|Why]] | {W} | Knights | 2,500 | 965 | 15 | 197 | 60 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/M19\|M19]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] | £317 | 51 | yes |
-| 45 | [**`mtg:High Perfect Morcant`**](https://edhrec.com/commanders/high-perfect-morcant) | [[02 Cards/Creatures/High Perfect Morcant\|PAGE]] | [[#45. High Perfect Morcant\|Why]] | {B}{G} | -1/-1 Counters | 17,348 | 104 | 20 | 360 | 60 | [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] | £427 | 50 | — |
-| 46 | [**`mtg:Katara, the Fearless`**](https://edhrec.com/commanders/katara-the-fearless) | [[02 Cards/Creatures/Katara, the Fearless\|PAGE]] | [[#46. Katara, the Fearless\|Why]] | {W}{U}{G} | Allies | 9,755 | 244 | 15 | 513 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] | £241 | 50 | yes |
-| 47 | [**`mtg:Vnwxt, Verbose Host`**](https://edhrec.com/commanders/vnwxt-verbose-host) | [[02 Cards/Creatures/Vnwxt, Verbose Host\|PAGE]] | [[#47. Vnwxt, Verbose Host\|Why]] | {U} | Card Draw | 7,828 | 337 | 17 | 203 | 60 | [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TLA\|TLA]] [WAR](https://scryfall.com/sets/war) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [LTR](https://scryfall.com/sets/ltr) [MH2](https://scryfall.com/sets/mh2) | £215 | 50 | yes |
-| 48 | [**`mtg:Óin the Brave`**](https://edhrec.com/commanders/oin-the-brave) | [[02 Cards/Creatures/Óin the Brave\|PAGE]] | [[#48. Óin the Brave\|Why]] | {R} | unlabeled † | 2 | 6,514 | 16 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TLA\|TLA]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [ONE](https://scryfall.com/sets/one) | £140 | 50 | — |
-| 49 | [**`mtg:Smaug, Wicked Worm`**](https://edhrec.com/commanders/smaug-wicked-worm) | [[02 Cards/Creatures/Smaug, Wicked Worm\|PAGE]] | [[#49. Smaug, Wicked Worm\|Why]] | {B}{R} | Treasure | 2,595 | 944 | 12 | 341 | 60 | [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/HOB\|HOB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/KHM\|KHM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BLB\|BLB]] | £637 | 49 | yes |
-| 50 | [**`mtg:Ovika, Enigma Goliath`**](https://edhrec.com/commanders/ovika-enigma-goliath) | [[02 Cards/Creatures/Ovika, Enigma Goliath\|PAGE]] | [[#50. Ovika, Enigma Goliath\|Why]] | {U}{R} | Spellslinger | 11,339 | 203 | 14 | 359 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] | £274 | 48 | yes |
-| 51 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://edhrec.com/commanders/lluwen-imperfect-naturalist) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | [[#51. Lluwen, Imperfect Naturalist\|Why]] | {B}{G} | Tokens | 1,874 | 1,166 | 10 | 360 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/M20\|M20]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] | £320 | 48 | — |
-| 52 | [**`mtg:Nita, Forum Conciliator`**](https://edhrec.com/commanders/nita-forum-conciliator) | [[02 Cards/Creatures/Nita, Forum Conciliator\|PAGE]] | [[#52. Nita, Forum Conciliator\|Why]] | {W}{B} | Theft | 375 | 2,352 | 16 | 353 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [MKM](https://scryfall.com/sets/mkm) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | £290 | 48 | yes |
-| 53 | [**`mtg:Queen Allenal of Ruadach`**](https://edhrec.com/commanders/queen-allenal-of-ruadach) | [[02 Cards/Creatures/Queen Allenal of Ruadach\|PAGE]] | [[#53. Queen Allenal of Ruadach\|Why]] | {W}{G} | Tokens | 1,543 | 1,297 | 17 | 343 | 60 | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DOM\|DOM]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] | £259 | 47 | yes |
-| 54 | [**`mtg:Jadzi, Steward of Fate`**](https://edhrec.com/commanders/jadzi-steward-of-fate) | [[02 Cards/Creatures/Jadzi, Steward of Fate\|PAGE]] | [[#54. Jadzi, Steward of Fate\|Why]] | {U} | Blink † | 145 | 3,034 | 18 | 203 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/FIN\|FIN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/EOE\|EOE]] | £302 | 46 | yes |
-| 55 | [**`mtg:Lathliss, Dragon Queen`**](https://edhrec.com/commanders/lathliss-dragon-queen) | [[02 Cards/Creatures/Lathliss, Dragon Queen\|PAGE]] | [[#55. Lathliss, Dragon Queen\|Why]] | {R} | Dragons | 3,828 | 716 | 14 | 198 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] | £420 | 45 | yes |
-| 56 | [**`mtg:Emil, Vastlands Roamer`**](https://edhrec.com/commanders/emil-vastlands-roamer) | [[02 Cards/Creatures/Emil, Vastlands Roamer\|PAGE]] | [[#56. Emil, Vastlands Roamer\|Why]] | {G} | +1/+1 Counters † | 179 | 2,884 | 12 | 199 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/BLB\|BLB]] | £291 | 45 | — |
-| 57 | [**`mtg:Linden, the Steadfast Queen`**](https://edhrec.com/commanders/linden-the-steadfast-queen) | [[02 Cards/Creatures/Linden, the Steadfast Queen\|PAGE]] | [[#57. Linden, the Steadfast Queen\|Why]] | {W} | Lifegain | 781 | 1,822 | 17 | 197 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M21\|M21]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/ZNR\|ZNR]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] | £309 | 44 | yes |
-| 58 | [**`mtg:Orysa, Tide Choreographer`**](https://edhrec.com/commanders/orysa-tide-choreographer) | [[02 Cards/Creatures/Orysa, Tide Choreographer\|PAGE]] | [[#58. Orysa, Tide Choreographer\|Why]] | {U} | Blink † | 65 | 3,617 | 15 | 203 | 60 | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/DMU\|DMU]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/EOE\|EOE]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] | £335 | 44 | yes |
-| 59 | [**`mtg:Ennis, Debate Moderator`**](https://edhrec.com/commanders/ennis-debate-moderator) | [[02 Cards/Creatures/Ennis, Debate Moderator\|PAGE]] | [[#59. Ennis, Debate Moderator\|Why]] | {W} | Blink † | 53 | 3,778 | 13 | 197 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) | £303 | 43 | yes |
-| 60 | [**`mtg:Halsin, Emerald Archdruid`**](https://edhrec.com/commanders/halsin-emerald-archdruid) | [[02 Cards/Creatures/Halsin, Emerald Archdruid\|PAGE]] | [[#60. Halsin, Emerald Archdruid\|Why]] | {G} | Tokens † | 16 | 4,817 | 16 | 199 | 60 | [[06 Browse/Sets/AFR\|AFR]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] | £185 | 43 | — |
-| 61 | [**`mtg:Azula, On the Hunt`**](https://edhrec.com/commanders/azula-on-the-hunt) | [[02 Cards/Creatures/Azula, On the Hunt\|PAGE]] | [[#61. Azula, On the Hunt\|Why]] | {B} | Clues † | 80 | 3,462 | 14 | 198 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BRO\|BRO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] | £310 | 41 | — |
-| 62 | [**`mtg:Gandalf, Wandering Wizard`**](https://edhrec.com/commanders/gandalf-wandering-wizard) | [[02 Cards/Creatures/Gandalf, Wandering Wizard\|PAGE]] | [[#62. Gandalf, Wandering Wizard\|Why]] | {U} | Card Draw † | 25 | 4,438 | 11 | 203 | 60 | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/MOM\|MOM]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [LTR](https://scryfall.com/sets/ltr) | £358 | 41 | yes |
-| 63 | [**`mtg:Beorn, Reluctant Host`**](https://edhrec.com/commanders/beorn-reluctant-host) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | [[#63. Beorn, Reluctant Host\|Why]] | {G} | +1/+1 Counters † | 22 | 4,550 | 23 | 199 | 60 | [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TLA\|TLA]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] | £142 | 40 | — |
-| 64 | [**`mtg:Bilbo Baggins, Burglar`**](https://edhrec.com/commanders/bilbo-baggins-burglar) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | [[#64. Bilbo Baggins, Burglar\|Why]] | {U} | Blink † | 10 | 5,270 | 18 | 203 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/DMU\|DMU]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/THB\|THB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/M21\|M21]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] | £215 | 39 | yes |
-| 65 | [**`mtg:Bard, King of Dale`**](https://edhrec.com/commanders/bard-king-of-dale) \* | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | [[#65. Bard, King of Dale\|Why]] | {W}{U} | Tokens | 2,949 | 865 | 16 | 342 | 15 | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/TDM\|TDM]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [MKM](https://scryfall.com/sets/mkm) | £451 | 37 | yes |
-| 66 | [**`mtg:Urza, Prince of Kroog`**](https://edhrec.com/commanders/urza-prince-of-kroog) | [[02 Cards/Creatures/Urza, Prince of Kroog\|PAGE]] | [[#66. Urza, Prince of Kroog\|Why]] | {W}{U} | Artifacts | 2,458 | 976 | 10 | 342 | 15 | [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] | £307 | 36 | yes |
+<div class="ranking-list">
+
+| # | Commander | PAGE | Why | Identity | Plan | Decks | Rank | Fit | Unused | Variety | Next box(s) | £ | Score |
+|---|-----------|------|-----|----------|------|-------|------|-----|--------|---------|-------------|---|-------|
+| 1 | [**`mtg:Fynn, the Fangbearer`**](https://edhrec.com/commanders/fynn-the-fangbearer) | [[02 Cards/Creatures/Fynn, the Fangbearer\|PAGE]] | [[#1. Fynn, the Fangbearer\|Why]] | {G} | Infect | 16,028 | 115 | 20 | 199 | 95 | [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/KHM\|KHM]] | £213 | 66 |
+| 2 | [**`mtg:Halana and Alena, Partners`**](https://edhrec.com/commanders/halana-and-alena-partners) | [[02 Cards/Creatures/Halana and Alena, Partners\|PAGE]] | [[#2. Halana and Alena, Partners\|Why]] | {R}{G} | +1/+1 Counters | 4,371 | 648 | 17 | 344 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] | £322 | 63 |
+| 3 | [**`mtg:Mica, Reader of Ruins`**](https://edhrec.com/commanders/mica-reader-of-ruins) | [[02 Cards/Creatures/Mica, Reader of Ruins\|PAGE]] | [[#3. Mica, Reader of Ruins\|Why]] | {R} | Spellslinger | 1,362 | 1,392 | 24 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/STX\|STX]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] | £361 | 63 |
+| 4 | [**`mtg:Ruby, Daring Tracker`**](https://edhrec.com/commanders/ruby-daring-tracker) | [[02 Cards/Creatures/Ruby, Daring Tracker\|PAGE]] | [[#4. Ruby, Daring Tracker\|Why]] | {R}{G} | Ramp | 4,541 | 624 | 14 | 344 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) | £217 | 62 |
+| 5 | [**`mtg:Tam, Observant Sequencer`**](https://edhrec.com/commanders/tam-observant-sequencer) | [[02 Cards/Creatures/Tam, Observant Sequencer\|PAGE]] | [[#5. Tam, Observant Sequencer\|Why]] | {U}{G} | Lands Matter | 436 | 2,251 | 28 | 360 | 95 | [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/TDM\|TDM]] | £265 | 62 |
+| 6 | [**`mtg:Ramos, Dragon Engine`**](https://edhrec.com/commanders/ramos-dragon-engine) | [[02 Cards/Creatures/Ramos, Dragon Engine\|PAGE]] | [[#6. Ramos, Dragon Engine\|Why]] | {W}{U}{B}{R}{G} | +1/+1 Counters | 12,861 | 166 | 23 | 930 | 95 | [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MOM\|MOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ECL\|ECL]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DMU\|DMU]] [ONE](https://scryfall.com/sets/one) | £182 | 61 |
+| 7 | [**`mtg:Moseo, Vein's New Dean`**](https://edhrec.com/commanders/moseo-veins-new-dean) | [[02 Cards/Creatures/Moseo, Vein's New Dean\|PAGE]] | [[#7. Moseo, Vein's New Dean\|Why]] | {B} | Lifegain | 1,767 | 1,209 | 17 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/WOE\|WOE]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] | £388 | 61 |
+| 8 | [**`mtg:Arnyn, Deathbloom Botanist`**](https://edhrec.com/commanders/arnyn-deathbloom-botanist) | [[02 Cards/Creatures/Arnyn, Deathbloom Botanist\|PAGE]] | [[#8. Arnyn, Deathbloom Botanist\|Why]] | {B} | Aristocrats | 662 | 1,929 | 23 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ECL\|ECL]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/SOS\|SOS]] [VOW](https://scryfall.com/sets/vow) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] | £272 | 61 |
+| 9 | [**`mtg:Etali, Primal Storm`**](https://edhrec.com/commanders/etali-primal-storm) | [[02 Cards/Creatures/Etali, Primal Storm\|PAGE]] | [[#9. Etali, Primal Storm\|Why]] | {R} | Extra Combats | 2,367 | 1,004 | 12 | 198 | 95 | [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [LTR](https://scryfall.com/sets/ltr) | £436 | 60 |
+| 10 | [**`mtg:Ayli, Eternal Pilgrim`**](https://edhrec.com/commanders/ayli-eternal-pilgrim) | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|PAGE]] | [[#10. Ayli, Eternal Pilgrim\|Why]] | {W}{B} | Lifegain | 1,949 | 1,141 | 29 | 353 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] | £267 | 60 |
+| 11 | [**`mtg:Arcanis the Omnipotent`**](https://edhrec.com/commanders/arcanis-the-omnipotent) | [[02 Cards/Creatures/Arcanis the Omnipotent\|PAGE]] | [[#11. Arcanis the Omnipotent\|Why]] | {U} | Card Draw | 1,894 | 1,158 | 13 | 203 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/STX\|STX]] [MID](https://scryfall.com/sets/mid) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/FIN\|FIN]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | £283 | 60 |
+| 12 | [**`mtg:Ozox, the Clattering King`**](https://edhrec.com/commanders/ozox-the-clattering-king) | [[02 Cards/Creatures/Ozox, the Clattering King\|PAGE]] | [[#12. Ozox, the Clattering King\|Why]] | {B} | Aristocrats | 1,226 | 1,477 | 13 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/M19\|M19]] [VOW](https://scryfall.com/sets/vow) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/THB\|THB]] [ONE](https://scryfall.com/sets/one) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] | £374 | 59 |
+| 13 | [**`mtg:Gladiolus Amicitia`**](https://edhrec.com/commanders/gladiolus-amicitia) | [[02 Cards/Creatures/Gladiolus Amicitia\|PAGE]] | [[#13. Gladiolus Amicitia\|Why]] | {R}{G} | Lands Matter | 929 | 1,693 | 13 | 344 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] | £340 | 59 |
+| 14 | [**`mtg:Kalakscion, Hunger Tyrant`**](https://edhrec.com/commanders/kalakscion-hunger-tyrant) | [[02 Cards/Creatures/Kalakscion, Hunger Tyrant\|PAGE]] | [[#14. Kalakscion, Hunger Tyrant\|Why]] | {B} | Voltron | 609 | 2,009 | 16 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FDN\|FDN]] | £300 | 59 |
+| 15 | [**`mtg:Abigale, Poet Laureate`**](https://edhrec.com/commanders/abigale-poet-laureate) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | [[#15. Abigale, Poet Laureate\|Why]] | {W}{B} | +1/+1 Counters | 1,465 | 1,341 | 26 | 353 | 95 | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/EOE\|EOE]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/DFT\|DFT]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TLA\|TLA]] | £148 | 58 |
+| 16 | [**`mtg:Sanar, Unfinished Genius`**](https://edhrec.com/commanders/sanar-unfinished-genius) | [[02 Cards/Creatures/Sanar, Unfinished Genius\|PAGE]] | [[#16. Sanar, Unfinished Genius\|Why]] | {U}{R} | Spellslinger | 1,190 | 1,505 | 28 | 359 | 95 | [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [WAR](https://scryfall.com/sets/war) | £354 | 58 |
+| 17 | [**`mtg:Zetalpa, Primal Dawn`**](https://edhrec.com/commanders/zetalpa-primal-dawn) | [[02 Cards/Creatures/Zetalpa, Primal Dawn\|PAGE]] | [[#17. Zetalpa, Primal Dawn\|Why]] | {W} | Equipment | 580 | 2,043 | 10 | 197 | 95 | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) | £300 | 57 |
+| 18 | [**`mtg:Ultros, Obnoxious Octopus`**](https://edhrec.com/commanders/ultros-obnoxious-octopus) | [[02 Cards/Creatures/Ultros, Obnoxious Octopus\|PAGE]] | [[#18. Ultros, Obnoxious Octopus\|Why]] | {U} | Control | 402 | 2,304 | 11 | 203 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) | £248 | 57 |
+| 19 | [**`mtg:Lathril, Blade of the Elves`**](https://edhrec.com/commanders/lathril-blade-of-the-elves) | [[02 Cards/Creatures/Lathril, Blade of the Elves\|PAGE]] | [[#19. Lathril, Blade of the Elves\|Why]] | {B}{G} | Elves | 35,279 | 13 | 18 | 360 | 60 | [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/SOS\|SOS]] | £439 | 56 |
+| 20 | [**`mtg:Tatyova, Benthic Druid`**](https://edhrec.com/commanders/tatyova-benthic-druid) | [[02 Cards/Creatures/Tatyova, Benthic Druid\|PAGE]] | [[#20. Tatyova, Benthic Druid\|Why]] | {U}{G} | Lands Matter | 9,262 | 263 | 13 | 360 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [MH2](https://scryfall.com/sets/mh2) | £1385 | 56 |
+| 21 | [**`mtg:Zimone, Paradox Sculptor`**](https://edhrec.com/commanders/zimone-paradox-sculptor) | [[02 Cards/Creatures/Zimone, Paradox Sculptor\|PAGE]] | [[#21. Zimone, Paradox Sculptor\|Why]] | {U}{G} | +1/+1 Counters | 4,004 | 685 | 16 | 360 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/DFT\|DFT]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/SOS\|SOS]] | £405 | 56 |
+| 22 | [**`mtg:Combustion Man`**](https://edhrec.com/commanders/combustion-man) | [[02 Cards/Creatures/Combustion Man\|PAGE]] | [[#22. Combustion Man\|Why]] | {R} | Burn | 824 | 1,779 | 17 | 198 | 95 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/FDN\|FDN]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/BLB\|BLB]] | £542 | 56 |
+| 23 | [**`mtg:Kirol, History Buff`**](https://edhrec.com/commanders/kirol-history-buff) | [[02 Cards/Creatures/Kirol, History Buff\|PAGE]] | [[#23. Kirol, History Buff\|Why]] | {W}{R} | Graveyard | 346 | 2,406 | 25 | 354 | 95 | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BLB\|BLB]] [SNC](https://scryfall.com/sets/snc) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] | £67 | 56 |
+| 24 | [**`mtg:The Dawning Archaic`**](https://edhrec.com/commanders/the-dawning-archaic) | [[02 Cards/Creatures/The Dawning Archaic\|PAGE]] | [[#24. The Dawning Archaic\|Why]] | {C} | Spellslinger | 613 | 2,003 | 4 | 66 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) | £319 | 55 |
+| 25 | [**`mtg:Bifur, Melodic Rider`**](https://edhrec.com/commanders/bifur-melodic-rider) | [[02 Cards/Creatures/Bifur, Melodic Rider\|PAGE]] | [[#25. Bifur, Melodic Rider\|Why]] | {W}{R} | Equipment | 406 | 2,297 | 25 | 354 | 95 | [[06 Browse/Sets/HOB\|HOB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TLA\|TLA]] | £350 | 55 |
+| 26 | [**`mtg:Syr Alin, the Lion's Claw`**](https://edhrec.com/commanders/syr-alin-the-lions-claw) | [[02 Cards/Creatures/Syr Alin, the Lion's Claw\|PAGE]] | [[#26. Syr Alin, the Lion's Claw\|Why]] | {W} | Humans † | 48 | 3,862 | 16 | 197 | 95 | [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MOM\|MOM]] [MH2](https://scryfall.com/sets/mh2) [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/FDN\|FDN]] | £158 | 55 |
+| 27 | [**`mtg:Gandalf, Spark Starter`**](https://edhrec.com/commanders/gandalf-spark-starter) | [[02 Cards/Creatures/Gandalf, Spark Starter\|PAGE]] | [[#27. Gandalf, Spark Starter\|Why]] | {R} | unlabeled † | 8 | 5,468 | 27 | 198 | 95 | [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [MID](https://scryfall.com/sets/mid) [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/STX\|STX]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ZNR\|ZNR]] [LTR](https://scryfall.com/sets/ltr) [MH1](https://scryfall.com/sets/mh1) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] | £352 | 55 |
+| 28 | [**`mtg:Lyra Dawnbringer`**](https://edhrec.com/commanders/lyra-dawnbringer) | [[02 Cards/Creatures/Lyra Dawnbringer\|PAGE]] | [[#28. Lyra Dawnbringer\|Why]] | {W} | Angels | 1,545 | 1,296 | 11 | 197 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/KHM\|KHM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ZNR\|ZNR]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] | £373 | 54 |
+| 29 | [**`mtg:Page, Loose Leaf`**](https://edhrec.com/commanders/page-loose-leaf) | [[02 Cards/Creatures/Page, Loose Leaf\|PAGE]] | [[#29. Page, Loose Leaf\|Why]] | {C} | Ramp | 380 | 2,340 | 2 | 66 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] | £354 | 54 |
+| 30 | [**`mtg:Toph, the Blind Bandit`**](https://edhrec.com/commanders/toph-the-blind-bandit) | [[02 Cards/Creatures/Toph, the Blind Bandit\|PAGE]] | [[#30. Toph, the Blind Bandit\|Why]] | {G} | +1/+1 Counters | 290 | 2,522 | 16 | 199 | 95 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] | £353 | 54 |
+| 31 | [**`mtg:Ashe, Princess of Dalmasca`**](https://edhrec.com/commanders/ashe-princess-of-dalmasca) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | [[#31. Ashe, Princess of Dalmasca\|Why]] | {W} | Artifacts † | 139 | 3,063 | 9 | 197 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DFT\|DFT]] [ONE](https://scryfall.com/sets/one) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FDN\|FDN]] | £313 | 54 |
+| 32 | [**`mtg:Bolg of the North`**](https://edhrec.com/commanders/bolg-of-the-north) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | [[#32. Bolg of the North\|Why]] | {B}{R} | Clones † | 65 | 3,618 | 30 | 341 | 95 | [[06 Browse/Sets/HOB\|HOB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DOM\|DOM]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) | £193 | 54 |
+| 33 | [**`mtg:Nori, Teller of Tales`**](https://edhrec.com/commanders/nori-teller-of-tales) | [[02 Cards/Creatures/Nori, Teller of Tales\|PAGE]] | [[#33. Nori, Teller of Tales\|Why]] | {W}{R} | Dwarves † | 8 | 5,469 | 23 | 354 | 95 | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M19\|M19]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] | £117 | 54 |
+| 34 | [**`mtg:Bombur, Gentle Dreamer`**](https://edhrec.com/commanders/bombur-gentle-dreamer) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | [[#34. Bombur, Gentle Dreamer\|Why]] | {R} | Dwarves † | 4 | 6,129 | 27 | 198 | 95 | [[06 Browse/Sets/NEO\|NEO]] [LTR](https://scryfall.com/sets/ltr) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/ELD\|ELD]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] | £223 | 54 |
+| 35 | [**`mtg:Grenzo, Havoc Raiser`**](https://edhrec.com/commanders/grenzo-havoc-raiser) | [[02 Cards/Creatures/Grenzo, Havoc Raiser\|PAGE]] | [[#35. Grenzo, Havoc Raiser\|Why]] | {R} | Forced Combat | 919 | 1,700 | 11 | 198 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] | £296 | 53 |
+| 36 | [**`mtg:Kiora, the Rising Tide`**](https://edhrec.com/commanders/kiora-the-rising-tide) | [[02 Cards/Creatures/Kiora, the Rising Tide\|PAGE]] | [[#36. Kiora, the Rising Tide\|Why]] | {U} | Wheels | 588 | 2,033 | 15 | 203 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/AFR\|AFR]] | £227 | 53 |
+| 37 | [**`mtg:Surrak, the Hunt Caller`**](https://edhrec.com/commanders/surrak-the-hunt-caller) | [[02 Cards/Creatures/Surrak, the Hunt Caller\|PAGE]] | [[#37. Surrak, the Hunt Caller\|Why]] | {G} | Aggro † | 106 | 3,256 | 22 | 199 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TDM\|TDM]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] | £234 | 53 |
+| 38 | [**`mtg:Myojin of Night's Reach`**](https://edhrec.com/commanders/myojin-of-nights-reach) | [[02 Cards/Creatures/Myojin of Night's Reach\|PAGE]] | [[#38. Myojin of Night's Reach\|Why]] | {B} | Discard † | 19 | 4,633 | 15 | 198 | 95 | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [WAR](https://scryfall.com/sets/war) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] | £375 | 53 |
+| 39 | [**`mtg:Smaug, the Great Calamity`**](https://edhrec.com/commanders/smaug-the-great-calamity) | [[02 Cards/Creatures/Smaug, the Great Calamity\|PAGE]] | [[#39. Smaug, the Great Calamity\|Why]] | {R} | Burn † | 8 | 5,470 | 18 | 198 | 95 | [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/M20\|M20]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/NEO\|NEO]] | £169 | 53 |
+| 40 | [**`mtg:Gollum, Silent Slinker`**](https://edhrec.com/commanders/gollum-silent-slinker) | [[02 Cards/Creatures/Gollum, Silent Slinker\|PAGE]] | [[#40. Gollum, Silent Slinker\|Why]] | {B} | Control † | 7 | 5,593 | 21 | 198 | 95 | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) | £208 | 53 |
+| 41 | [**`mtg:Lluwen, Exchange Student`**](https://edhrec.com/commanders/lluwen-exchange-student) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | [[#41. Lluwen, Exchange Student\|Why]] | {B}{G} | Tokens | 793 | 1,813 | 26 | 360 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TDM\|TDM]] | £261 | 52 |
+| 42 | [**`mtg:Kambal, Profiteering Mayor`**](https://edhrec.com/commanders/kambal-profiteering-mayor) | [[02 Cards/Creatures/Kambal, Profiteering Mayor\|PAGE]] | [[#42. Kambal, Profiteering Mayor\|Why]] | {W}{B} | Tokens | 6,599 | 430 | 11 | 353 | 60 | [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/DMU\|DMU]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/WOE\|WOE]] | £434 | 51 |
+| 43 | [**`mtg:Aziza, Mage Tower Captain`**](https://edhrec.com/commanders/aziza-mage-tower-captain) | [[02 Cards/Creatures/Aziza, Mage Tower Captain\|PAGE]] | [[#43. Aziza, Mage Tower Captain\|Why]] | {W}{R} | Tokens | 2,754 | 904 | 16 | 354 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [SNC](https://scryfall.com/sets/snc) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/STX\|STX]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/KHM\|KHM]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/ZNR\|ZNR]] | £410 | 51 |
+| 44 | [**`mtg:Dion, Bahamut's Dominant`**](https://edhrec.com/commanders/dion-bahamuts-dominant) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | [[#44. Dion, Bahamut's Dominant\|Why]] | {W} | Knights | 2,500 | 965 | 15 | 197 | 60 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/M19\|M19]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] | £317 | 51 |
+| 45 | [**`mtg:High Perfect Morcant`**](https://edhrec.com/commanders/high-perfect-morcant) | [[02 Cards/Creatures/High Perfect Morcant\|PAGE]] | [[#45. High Perfect Morcant\|Why]] | {B}{G} | -1/-1 Counters | 17,348 | 104 | 20 | 360 | 60 | [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] | £427 | 50 |
+| 46 | [**`mtg:Katara, the Fearless`**](https://edhrec.com/commanders/katara-the-fearless) | [[02 Cards/Creatures/Katara, the Fearless\|PAGE]] | [[#46. Katara, the Fearless\|Why]] | {W}{U}{G} | Allies | 9,755 | 244 | 15 | 513 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] | £241 | 50 |
+| 47 | [**`mtg:Vnwxt, Verbose Host`**](https://edhrec.com/commanders/vnwxt-verbose-host) | [[02 Cards/Creatures/Vnwxt, Verbose Host\|PAGE]] | [[#47. Vnwxt, Verbose Host\|Why]] | {U} | Card Draw | 7,828 | 337 | 17 | 203 | 60 | [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TLA\|TLA]] [WAR](https://scryfall.com/sets/war) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [LTR](https://scryfall.com/sets/ltr) [MH2](https://scryfall.com/sets/mh2) | £215 | 50 |
+| 48 | [**`mtg:Óin the Brave`**](https://edhrec.com/commanders/oin-the-brave) | [[02 Cards/Creatures/Óin the Brave\|PAGE]] | [[#48. Óin the Brave\|Why]] | {R} | unlabeled † | 2 | 6,514 | 16 | 198 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TLA\|TLA]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [ONE](https://scryfall.com/sets/one) | £140 | 50 |
+| 49 | [**`mtg:Smaug, Wicked Worm`**](https://edhrec.com/commanders/smaug-wicked-worm) | [[02 Cards/Creatures/Smaug, Wicked Worm\|PAGE]] | [[#49. Smaug, Wicked Worm\|Why]] | {B}{R} | Treasure | 2,595 | 944 | 12 | 341 | 60 | [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/HOB\|HOB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/KHM\|KHM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BLB\|BLB]] | £637 | 49 |
+| 50 | [**`mtg:Ovika, Enigma Goliath`**](https://edhrec.com/commanders/ovika-enigma-goliath) | [[02 Cards/Creatures/Ovika, Enigma Goliath\|PAGE]] | [[#50. Ovika, Enigma Goliath\|Why]] | {U}{R} | Spellslinger | 11,339 | 203 | 14 | 359 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] | £274 | 48 |
+| 51 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://edhrec.com/commanders/lluwen-imperfect-naturalist) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | [[#51. Lluwen, Imperfect Naturalist\|Why]] | {B}{G} | Tokens | 1,874 | 1,166 | 10 | 360 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/M20\|M20]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] | £320 | 48 |
+| 52 | [**`mtg:Nita, Forum Conciliator`**](https://edhrec.com/commanders/nita-forum-conciliator) | [[02 Cards/Creatures/Nita, Forum Conciliator\|PAGE]] | [[#52. Nita, Forum Conciliator\|Why]] | {W}{B} | Theft | 375 | 2,352 | 16 | 353 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [MKM](https://scryfall.com/sets/mkm) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | £290 | 48 |
+| 53 | [**`mtg:Queen Allenal of Ruadach`**](https://edhrec.com/commanders/queen-allenal-of-ruadach) | [[02 Cards/Creatures/Queen Allenal of Ruadach\|PAGE]] | [[#53. Queen Allenal of Ruadach\|Why]] | {W}{G} | Tokens | 1,543 | 1,297 | 17 | 343 | 60 | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DOM\|DOM]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] | £259 | 47 |
+| 54 | [**`mtg:Jadzi, Steward of Fate`**](https://edhrec.com/commanders/jadzi-steward-of-fate) | [[02 Cards/Creatures/Jadzi, Steward of Fate\|PAGE]] | [[#54. Jadzi, Steward of Fate\|Why]] | {U} | Blink † | 145 | 3,034 | 18 | 203 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/FIN\|FIN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/EOE\|EOE]] | £302 | 46 |
+| 55 | [**`mtg:Lathliss, Dragon Queen`**](https://edhrec.com/commanders/lathliss-dragon-queen) | [[02 Cards/Creatures/Lathliss, Dragon Queen\|PAGE]] | [[#55. Lathliss, Dragon Queen\|Why]] | {R} | Dragons | 3,828 | 716 | 14 | 198 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] | £420 | 45 |
+| 56 | [**`mtg:Emil, Vastlands Roamer`**](https://edhrec.com/commanders/emil-vastlands-roamer) | [[02 Cards/Creatures/Emil, Vastlands Roamer\|PAGE]] | [[#56. Emil, Vastlands Roamer\|Why]] | {G} | +1/+1 Counters † | 179 | 2,884 | 12 | 199 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/BLB\|BLB]] | £291 | 45 |
+| 57 | [**`mtg:Linden, the Steadfast Queen`**](https://edhrec.com/commanders/linden-the-steadfast-queen) | [[02 Cards/Creatures/Linden, the Steadfast Queen\|PAGE]] | [[#57. Linden, the Steadfast Queen\|Why]] | {W} | Lifegain | 781 | 1,822 | 17 | 197 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M21\|M21]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/ZNR\|ZNR]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] | £309 | 44 |
+| 58 | [**`mtg:Orysa, Tide Choreographer`**](https://edhrec.com/commanders/orysa-tide-choreographer) | [[02 Cards/Creatures/Orysa, Tide Choreographer\|PAGE]] | [[#58. Orysa, Tide Choreographer\|Why]] | {U} | Blink † | 65 | 3,617 | 15 | 203 | 60 | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/DMU\|DMU]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/EOE\|EOE]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] | £335 | 44 |
+| 59 | [**`mtg:Ennis, Debate Moderator`**](https://edhrec.com/commanders/ennis-debate-moderator) | [[02 Cards/Creatures/Ennis, Debate Moderator\|PAGE]] | [[#59. Ennis, Debate Moderator\|Why]] | {W} | Blink † | 53 | 3,778 | 13 | 197 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) | £303 | 43 |
+| 60 | [**`mtg:Halsin, Emerald Archdruid`**](https://edhrec.com/commanders/halsin-emerald-archdruid) | [[02 Cards/Creatures/Halsin, Emerald Archdruid\|PAGE]] | [[#60. Halsin, Emerald Archdruid\|Why]] | {G} | Tokens † | 16 | 4,817 | 16 | 199 | 60 | [[06 Browse/Sets/AFR\|AFR]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] | £185 | 43 |
+| 61 | [**`mtg:Azula, On the Hunt`**](https://edhrec.com/commanders/azula-on-the-hunt) | [[02 Cards/Creatures/Azula, On the Hunt\|PAGE]] | [[#61. Azula, On the Hunt\|Why]] | {B} | Clues † | 80 | 3,462 | 14 | 198 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BRO\|BRO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] | £310 | 41 |
+| 62 | [**`mtg:Gandalf, Wandering Wizard`**](https://edhrec.com/commanders/gandalf-wandering-wizard) | [[02 Cards/Creatures/Gandalf, Wandering Wizard\|PAGE]] | [[#62. Gandalf, Wandering Wizard\|Why]] | {U} | Card Draw † | 25 | 4,438 | 11 | 203 | 60 | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/MOM\|MOM]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [LTR](https://scryfall.com/sets/ltr) | £358 | 41 |
+| 63 | [**`mtg:Beorn, Reluctant Host`**](https://edhrec.com/commanders/beorn-reluctant-host) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | [[#63. Beorn, Reluctant Host\|Why]] | {G} | +1/+1 Counters † | 22 | 4,550 | 23 | 199 | 60 | [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TLA\|TLA]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] | £142 | 40 |
+| 64 | [**`mtg:Bilbo Baggins, Burglar`**](https://edhrec.com/commanders/bilbo-baggins-burglar) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | [[#64. Bilbo Baggins, Burglar\|Why]] | {U} | Blink † | 10 | 5,270 | 18 | 203 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/DMU\|DMU]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/THB\|THB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/M21\|M21]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] | £215 | 39 |
+| 65 | [**`mtg:Bard, King of Dale`**](https://edhrec.com/commanders/bard-king-of-dale) \* | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | [[#65. Bard, King of Dale\|Why]] | {W}{U} | Tokens | 2,949 | 865 | 16 | 342 | 15 | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/TDM\|TDM]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [MKM](https://scryfall.com/sets/mkm) | £451 | 37 |
+| 66 | [**`mtg:Urza, Prince of Kroog`**](https://edhrec.com/commanders/urza-prince-of-kroog) | [[02 Cards/Creatures/Urza, Prince of Kroog\|PAGE]] | [[#66. Urza, Prince of Kroog\|Why]] | {W}{U} | Artifacts | 2,458 | 976 | 10 | 342 | 15 | [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] | £307 | 36 |
+
+</div>
 
 \* earmarked. † fewer than 200 EDHREC decks — small sample, not a real rank. Why jumps to that commander under [[#Why these ranked]].
 
@@ -216,15 +94,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Fynn, the Fangbearer`**](https://edhrec.com/commanders/fynn-the-fangbearer) · [[#Ranked list|table]]
 
 > [!info] Score 66 · Infect
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 66 | **Variety** | 95 |
-> | **Identity** | {G} | **Plan** | Infect |
-> | **99 owned** | 20% (20/99) | **99 to buy** | 80% (79/99) |
-> | **Unused** | 199 | **Decks** | 16,028 |
-> | **Rank** | 115 | **Finish** | £213 |
-> | **Next box(s)** | [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/KHM\|KHM]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 66 |
+> | **Variety** | 95 |
+> | **Identity** | {G} |
+> | **Plan** | Infect |
+> | **99 owned** | 20% (20/99) |
+> | **99 to buy** | 80% (79/99) |
+> | **Unused** | 199 |
+> | **Decks** | 16,028 |
+> | **Rank** | 115 |
+> | **Finish** | £213 |
+> | **Next box(s)** | [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/KHM\|KHM]] |
 >
 > {G} **Infect**. Poison counters. Small deathtouch bodies and proliferate instead of a normal combat race.
 >
@@ -247,15 +129,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Halana and Alena, Partners`**](https://edhrec.com/commanders/halana-and-alena-partners) · [[#Ranked list|table]]
 
 > [!info] Score 63 · +1/+1 Counters
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 63 | **Variety** | 95 |
-> | **Identity** | {R}{G} | **Plan** | +1/+1 Counters |
-> | **99 owned** | 17% (17/99) | **99 to buy** | 83% (82/99) |
-> | **Unused** | 344 | **Decks** | 4,371 |
-> | **Rank** | 648 | **Finish** | £322 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 63 |
+> | **Variety** | 95 |
+> | **Identity** | {R}{G} |
+> | **Plan** | +1/+1 Counters |
+> | **99 owned** | 17% (17/99) |
+> | **99 to buy** | 83% (82/99) |
+> | **Unused** | 344 |
+> | **Decks** | 4,371 |
+> | **Rank** | 648 |
+> | **Finish** | £322 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] |
 >
 > {R}{G} **+1/+1 Counters**. Stacks +1/+1 counters and cares about the creatures that grow.
 >
@@ -278,15 +164,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Mica, Reader of Ruins`**](https://edhrec.com/commanders/mica-reader-of-ruins) · [[#Ranked list|table]]
 
 > [!info] Score 63 · Spellslinger
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 63 | **Variety** | 95 |
-> | **Identity** | {R} | **Plan** | Spellslinger |
-> | **99 owned** | 24% (24/99) | **99 to buy** | 76% (75/99) |
-> | **Unused** | 198 | **Decks** | 1,362 |
-> | **Rank** | 1,392 | **Finish** | £361 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/STX\|STX]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Jeska's Will`, `mtg:Underworld Breach` |
->
+> | | |
+> |---|---|
+> | **Score** | 63 |
+> | **Variety** | 95 |
+> | **Identity** | {R} |
+> | **Plan** | Spellslinger |
+> | **99 owned** | 24% (24/99) |
+> | **99 to buy** | 76% (75/99) |
+> | **Unused** | 198 |
+> | **Decks** | 1,362 |
+> | **Rank** | 1,392 |
+> | **Finish** | £361 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/STX\|STX]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {R} **Spellslinger**. Casts a high density of instants and sorceries and pays you for each spell.
 >
@@ -309,15 +199,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Ruby, Daring Tracker`**](https://edhrec.com/commanders/ruby-daring-tracker) · [[#Ranked list|table]]
 
 > [!info] Score 62 · Ramp
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 62 | **Variety** | 95 |
-> | **Identity** | {R}{G} | **Plan** | Ramp |
-> | **99 owned** | 14% (14/99) | **99 to buy** | 86% (85/99) |
-> | **Unused** | 344 | **Decks** | 4,541 |
-> | **Rank** | 624 | **Finish** | £217 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 62 |
+> | **Variety** | 95 |
+> | **Identity** | {R}{G} |
+> | **Plan** | Ramp |
+> | **99 owned** | 14% (14/99) |
+> | **99 to buy** | 86% (85/99) |
+> | **Unused** | 344 |
+> | **Decks** | 4,541 |
+> | **Rank** | 624 |
+> | **Finish** | £217 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {R}{G} **Ramp**. Makes extra mana and spends it on big threats.
 >
@@ -342,15 +236,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Tam, Observant Sequencer`**](https://edhrec.com/commanders/tam-observant-sequencer) · [[#Ranked list|table]]
 
 > [!info] Score 62 · Lands Matter
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 62 | **Variety** | 95 |
-> | **Identity** | {U}{G} | **Plan** | Lands Matter |
-> | **99 owned** | 28% (28/99) | **99 to buy** | 72% (71/99) |
-> | **Unused** | 360 | **Decks** | 436 |
-> | **Rank** | 2,251 | **Finish** | £265 |
-> | **Next box(s)** | [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/TDM\|TDM]] | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 62 |
+> | **Variety** | 95 |
+> | **Identity** | {U}{G} |
+> | **Plan** | Lands Matter |
+> | **99 owned** | 28% (28/99) |
+> | **99 to buy** | 72% (71/99) |
+> | **Unused** | 360 |
+> | **Decks** | 436 |
+> | **Rank** | 2,251 |
+> | **Finish** | £265 |
+> | **Next box(s)** | [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/TDM\|TDM]] |
 >
 > {U}{G} **Lands Matter**. Wants extra lands in play or in hand and pays you for landfall-style value.
 >
@@ -371,15 +269,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Ramos, Dragon Engine`**](https://edhrec.com/commanders/ramos-dragon-engine) · [[#Ranked list|table]]
 
 > [!info] Score 61 · +1/+1 Counters
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 61 | **Variety** | 95 |
-> | **Identity** | {W}{U}{B}{R}{G} | **Plan** | +1/+1 Counters |
-> | **99 owned** | 23% (23/99) | **99 to buy** | 77% (76/99) |
-> | **Unused** | 930 | **Decks** | 12,861 |
-> | **Rank** | 166 | **Finish** | £182 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MOM\|MOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ECL\|ECL]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DMU\|DMU]] [ONE](https://scryfall.com/sets/one) | **Cheese** | `mtg:Rhystic Study`, `mtg:Smothering Tithe`, `mtg:Cyclonic Rift`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 61 |
+> | **Variety** | 95 |
+> | **Identity** | {W}{U}{B}{R}{G} |
+> | **Plan** | +1/+1 Counters |
+> | **99 owned** | 23% (23/99) |
+> | **99 to buy** | 77% (76/99) |
+> | **Unused** | 930 |
+> | **Decks** | 12,861 |
+> | **Rank** | 166 |
+> | **Finish** | £182 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MOM\|MOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ECL\|ECL]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DMU\|DMU]] [ONE](https://scryfall.com/sets/one) |
 >
 > {W}{U}{B}{R}{G} **+1/+1 Counters**. Stacks +1/+1 counters and cares about the creatures that grow.
 >
@@ -402,15 +304,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Moseo, Vein's New Dean`**](https://edhrec.com/commanders/moseo-veins-new-dean) · [[#Ranked list|table]]
 
 > [!info] Score 61 · Lifegain
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 61 | **Variety** | 95 |
-> | **Identity** | {B} | **Plan** | Lifegain |
-> | **99 owned** | 17% (17/99) | **99 to buy** | 83% (82/99) |
-> | **Unused** | 198 | **Decks** | 1,767 |
-> | **Rank** | 1,209 | **Finish** | £388 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/WOE\|WOE]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 61 |
+> | **Variety** | 95 |
+> | **Identity** | {B} |
+> | **Plan** | Lifegain |
+> | **99 owned** | 17% (17/99) |
+> | **99 to buy** | 83% (82/99) |
+> | **Unused** | 198 |
+> | **Decks** | 1,767 |
+> | **Rank** | 1,209 |
+> | **Finish** | £388 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/WOE\|WOE]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] |
 >
 > {B} **Lifegain**. Gains life and turns the gap into damage, exile, or a bigger board.
 >
@@ -433,15 +339,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Arnyn, Deathbloom Botanist`**](https://edhrec.com/commanders/arnyn-deathbloom-botanist) · [[#Ranked list|table]]
 
 > [!info] Score 61 · Aristocrats
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 61 | **Variety** | 95 |
-> | **Identity** | {B} | **Plan** | Aristocrats |
-> | **99 owned** | 23% (23/99) | **99 to buy** | 77% (76/99) |
-> | **Unused** | 198 | **Decks** | 662 |
-> | **Rank** | 1,929 | **Finish** | £272 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ECL\|ECL]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/SOS\|SOS]] [VOW](https://scryfall.com/sets/vow) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 61 |
+> | **Variety** | 95 |
+> | **Identity** | {B} |
+> | **Plan** | Aristocrats |
+> | **99 owned** | 23% (23/99) |
+> | **99 to buy** | 77% (76/99) |
+> | **Unused** | 198 |
+> | **Decks** | 662 |
+> | **Rank** | 1,929 |
+> | **Finish** | £272 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ECL\|ECL]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/SOS\|SOS]] [VOW](https://scryfall.com/sets/vow) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {B} **Aristocrats**. Makes and sacrifices creatures for drain, cards, or tokens.
 >
@@ -464,15 +374,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Etali, Primal Storm`**](https://edhrec.com/commanders/etali-primal-storm) · [[#Ranked list|table]]
 
 > [!info] Score 60 · Extra Combats
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 60 | **Variety** | 95 |
-> | **Identity** | {R} | **Plan** | Extra Combats |
-> | **99 owned** | 12% (12/99) | **99 to buy** | 88% (87/99) |
-> | **Unused** | 198 | **Decks** | 2,367 |
-> | **Rank** | 1,004 | **Finish** | £436 |
-> | **Next box(s)** | [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [LTR](https://scryfall.com/sets/ltr) | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 60 |
+> | **Variety** | 95 |
+> | **Identity** | {R} |
+> | **Plan** | Extra Combats |
+> | **99 owned** | 12% (12/99) |
+> | **99 to buy** | 88% (87/99) |
+> | **Unused** | 198 |
+> | **Decks** | 2,367 |
+> | **Rank** | 1,004 |
+> | **Finish** | £436 |
+> | **Next box(s)** | [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [LTR](https://scryfall.com/sets/ltr) |
 >
 > {R} **Extra Combats**. Takes extra combat steps so attackers fire more than once.
 >
@@ -497,15 +411,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Ayli, Eternal Pilgrim`**](https://edhrec.com/commanders/ayli-eternal-pilgrim) · [[#Ranked list|table]]
 
 > [!info] Score 60 · Lifegain
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 60 | **Variety** | 95 |
-> | **Identity** | {W}{B} | **Plan** | Lifegain |
-> | **99 owned** | 29% (29/99) | **99 to buy** | 71% (70/99) |
-> | **Unused** | 353 | **Decks** | 1,949 |
-> | **Rank** | 1,141 | **Finish** | £267 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 60 |
+> | **Variety** | 95 |
+> | **Identity** | {W}{B} |
+> | **Plan** | Lifegain |
+> | **99 owned** | 29% (29/99) |
+> | **99 to buy** | 71% (70/99) |
+> | **Unused** | 353 |
+> | **Decks** | 1,949 |
+> | **Rank** | 1,141 |
+> | **Finish** | £267 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] |
 >
 > {W}{B} **Lifegain**. Gains life and turns the gap into damage, exile, or a bigger board.
 >
@@ -528,15 +446,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Arcanis the Omnipotent`**](https://edhrec.com/commanders/arcanis-the-omnipotent) · [[#Ranked list|table]]
 
 > [!info] Score 60 · Card Draw
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 60 | **Variety** | 95 |
-> | **Identity** | {U} | **Plan** | Card Draw |
-> | **99 owned** | 13% (13/99) | **99 to buy** | 87% (86/99) |
-> | **Unused** | 203 | **Decks** | 1,894 |
-> | **Rank** | 1,158 | **Finish** | £283 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/STX\|STX]] [MID](https://scryfall.com/sets/mid) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/FIN\|FIN]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Thassa's Oracle`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 60 |
+> | **Variety** | 95 |
+> | **Identity** | {U} |
+> | **Plan** | Card Draw |
+> | **99 owned** | 13% (13/99) |
+> | **99 to buy** | 87% (86/99) |
+> | **Unused** | 203 |
+> | **Decks** | 1,894 |
+> | **Rank** | 1,158 |
+> | **Finish** | £283 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/STX\|STX]] [MID](https://scryfall.com/sets/mid) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/FIN\|FIN]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] |
 >
 > {U} **Card Draw**. The commander is a draw engine; the 99 keeps the tank full.
 >
@@ -561,15 +483,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Ozox, the Clattering King`**](https://edhrec.com/commanders/ozox-the-clattering-king) · [[#Ranked list|table]]
 
 > [!info] Score 59 · Aristocrats
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 59 | **Variety** | 95 |
-> | **Identity** | {B} | **Plan** | Aristocrats |
-> | **99 owned** | 13% (13/99) | **99 to buy** | 87% (86/99) |
-> | **Unused** | 198 | **Decks** | 1,226 |
-> | **Rank** | 1,477 | **Finish** | £374 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/M19\|M19]] [VOW](https://scryfall.com/sets/vow) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/THB\|THB]] [ONE](https://scryfall.com/sets/one) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 59 |
+> | **Variety** | 95 |
+> | **Identity** | {B} |
+> | **Plan** | Aristocrats |
+> | **99 owned** | 13% (13/99) |
+> | **99 to buy** | 87% (86/99) |
+> | **Unused** | 198 |
+> | **Decks** | 1,226 |
+> | **Rank** | 1,477 |
+> | **Finish** | £374 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/M19\|M19]] [VOW](https://scryfall.com/sets/vow) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/THB\|THB]] [ONE](https://scryfall.com/sets/one) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] |
 >
 > {B} **Aristocrats**. Makes and sacrifices creatures for drain, cards, or tokens.
 >
@@ -594,15 +520,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Gladiolus Amicitia`**](https://edhrec.com/commanders/gladiolus-amicitia) · [[#Ranked list|table]]
 
 > [!info] Score 59 · Lands Matter
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 59 | **Variety** | 95 |
-> | **Identity** | {R}{G} | **Plan** | Lands Matter |
-> | **99 owned** | 13% (13/99) | **99 to buy** | 87% (86/99) |
-> | **Unused** | 344 | **Decks** | 929 |
-> | **Rank** | 1,693 | **Finish** | £340 |
-> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 59 |
+> | **Variety** | 95 |
+> | **Identity** | {R}{G} |
+> | **Plan** | Lands Matter |
+> | **99 owned** | 13% (13/99) |
+> | **99 to buy** | 87% (86/99) |
+> | **Unused** | 344 |
+> | **Decks** | 929 |
+> | **Rank** | 1,693 |
+> | **Finish** | £340 |
+> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] |
 >
 > {R}{G} **Lands Matter**. Wants extra lands in play or in hand and pays you for landfall-style value.
 >
@@ -627,15 +557,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Kalakscion, Hunger Tyrant`**](https://edhrec.com/commanders/kalakscion-hunger-tyrant) · [[#Ranked list|table]]
 
 > [!info] Score 59 · Voltron
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 59 | **Variety** | 95 |
-> | **Identity** | {B} | **Plan** | Voltron |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 198 | **Decks** | 609 |
-> | **Rank** | 2,009 | **Finish** | £300 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FDN\|FDN]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 59 |
+> | **Variety** | 95 |
+> | **Identity** | {B} |
+> | **Plan** | Voltron |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 198 |
+> | **Decks** | 609 |
+> | **Rank** | 2,009 |
+> | **Finish** | £300 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FDN\|FDN]] |
 >
 > {B} **Voltron**. Piles auras, equipment, or counters onto one attacker.
 >
@@ -656,15 +590,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Abigale, Poet Laureate`**](https://edhrec.com/commanders/abigale-poet-laureate) · [[#Ranked list|table]]
 
 > [!info] Score 58 · +1/+1 Counters
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 58 | **Variety** | 95 |
-> | **Identity** | {W}{B} | **Plan** | +1/+1 Counters |
-> | **99 owned** | 26% (26/99) | **99 to buy** | 74% (73/99) |
-> | **Unused** | 353 | **Decks** | 1,465 |
-> | **Rank** | 1,341 | **Finish** | £148 |
-> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/EOE\|EOE]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/DFT\|DFT]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 58 |
+> | **Variety** | 95 |
+> | **Identity** | {W}{B} |
+> | **Plan** | +1/+1 Counters |
+> | **99 owned** | 26% (26/99) |
+> | **99 to buy** | 74% (73/99) |
+> | **Unused** | 353 |
+> | **Decks** | 1,465 |
+> | **Rank** | 1,341 |
+> | **Finish** | £148 |
+> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/EOE\|EOE]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/DFT\|DFT]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {W}{B} **+1/+1 Counters**. Stacks +1/+1 counters and cares about the creatures that grow.
 >
@@ -685,15 +623,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Sanar, Unfinished Genius`**](https://edhrec.com/commanders/sanar-unfinished-genius) · [[#Ranked list|table]]
 
 > [!info] Score 58 · Spellslinger
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 58 | **Variety** | 95 |
-> | **Identity** | {U}{R} | **Plan** | Spellslinger |
-> | **99 owned** | 28% (28/99) | **99 to buy** | 72% (71/99) |
-> | **Unused** | 359 | **Decks** | 1,190 |
-> | **Rank** | 1,505 | **Finish** | £354 |
-> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [WAR](https://scryfall.com/sets/war) | **Cheese** | `mtg:Jeska's Will`, `mtg:Underworld Breach`, `mtg:Fierce Guardianship`, `mtg:Cyclonic Rift`, `mtg:Rhystic Study` |
->
+> | | |
+> |---|---|
+> | **Score** | 58 |
+> | **Variety** | 95 |
+> | **Identity** | {U}{R} |
+> | **Plan** | Spellslinger |
+> | **99 owned** | 28% (28/99) |
+> | **99 to buy** | 72% (71/99) |
+> | **Unused** | 359 |
+> | **Decks** | 1,190 |
+> | **Rank** | 1,505 |
+> | **Finish** | £354 |
+> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [WAR](https://scryfall.com/sets/war) |
 >
 > {U}{R} **Spellslinger**. Casts a high density of instants and sorceries and pays you for each spell.
 >
@@ -714,15 +656,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Zetalpa, Primal Dawn`**](https://edhrec.com/commanders/zetalpa-primal-dawn) · [[#Ranked list|table]]
 
 > [!info] Score 57 · Equipment
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 57 | **Variety** | 95 |
-> | **Identity** | {W} | **Plan** | Equipment |
-> | **99 owned** | 10% (10/99) | **99 to buy** | 90% (89/99) |
-> | **Unused** | 197 | **Decks** | 580 |
-> | **Rank** | 2,043 | **Finish** | £300 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) | **Cheese** | `mtg:Smothering Tithe`, `mtg:Drannith Magistrate` |
->
+> | | |
+> |---|---|
+> | **Score** | 57 |
+> | **Variety** | 95 |
+> | **Identity** | {W} |
+> | **Plan** | Equipment |
+> | **99 owned** | 10% (10/99) |
+> | **99 to buy** | 90% (89/99) |
+> | **Unused** | 197 |
+> | **Decks** | 580 |
+> | **Rank** | 2,043 |
+> | **Finish** | £300 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) |
 >
 > {W} **Equipment**. Suits up a creature and attacks.
 >
@@ -747,15 +693,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Ultros, Obnoxious Octopus`**](https://edhrec.com/commanders/ultros-obnoxious-octopus) · [[#Ranked list|table]]
 
 > [!info] Score 57 · Control
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 57 | **Variety** | 95 |
-> | **Identity** | {U} | **Plan** | Control |
-> | **99 owned** | 11% (11/99) | **99 to buy** | 89% (88/99) |
-> | **Unused** | 203 | **Decks** | 402 |
-> | **Rank** | 2,304 | **Finish** | £248 |
-> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 57 |
+> | **Variety** | 95 |
+> | **Identity** | {U} |
+> | **Plan** | Control |
+> | **99 owned** | 11% (11/99) |
+> | **99 to buy** | 89% (88/99) |
+> | **Unused** | 203 |
+> | **Decks** | 402 |
+> | **Rank** | 2,304 |
+> | **Finish** | £248 |
+> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {U} **Control**. Answers threats and wins once the board is locked down.
 >
@@ -780,15 +730,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Lathril, Blade of the Elves`**](https://edhrec.com/commanders/lathril-blade-of-the-elves) · [[#Ranked list|table]]
 
 > [!info] Score 56 · Elves
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 56 | **Variety** | 60 |
-> | **Identity** | {B}{G} | **Plan** | Elves |
-> | **99 owned** | 18% (18/99) | **99 to buy** | 82% (81/99) |
-> | **Unused** | 360 | **Decks** | 35,279 |
-> | **Rank** | 13 | **Finish** | £439 |
-> | **Next box(s)** | [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/SOS\|SOS]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 56 |
+> | **Variety** | 60 |
+> | **Identity** | {B}{G} |
+> | **Plan** | Elves |
+> | **99 owned** | 18% (18/99) |
+> | **99 to buy** | 82% (81/99) |
+> | **Unused** | 360 |
+> | **Decks** | 35,279 |
+> | **Rank** | 13 |
+> | **Finish** | £439 |
+> | **Next box(s)** | [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/SOS\|SOS]] |
 >
 > {B}{G} **Elves**. Elf tribal — mana dorks into a wide board. Overlaps Maralen's elf pile.
 >
@@ -811,15 +765,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Tatyova, Benthic Druid`**](https://edhrec.com/commanders/tatyova-benthic-druid) · [[#Ranked list|table]]
 
 > [!info] Score 56 · Lands Matter
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 56 | **Variety** | 95 |
-> | **Identity** | {U}{G} | **Plan** | Lands Matter |
-> | **99 owned** | 13% (13/99) | **99 to buy** | 87% (86/99) |
-> | **Unused** | 360 | **Decks** | 9,262 |
-> | **Rank** | 263 | **Finish** | £1385 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [MH2](https://scryfall.com/sets/mh2) | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 56 |
+> | **Variety** | 95 |
+> | **Identity** | {U}{G} |
+> | **Plan** | Lands Matter |
+> | **99 owned** | 13% (13/99) |
+> | **99 to buy** | 87% (86/99) |
+> | **Unused** | 360 |
+> | **Decks** | 9,262 |
+> | **Rank** | 263 |
+> | **Finish** | £1385 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {U}{G} **Lands Matter**. Wants extra lands in play or in hand and pays you for landfall-style value.
 >
@@ -844,15 +802,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Zimone, Paradox Sculptor`**](https://edhrec.com/commanders/zimone-paradox-sculptor) · [[#Ranked list|table]]
 
 > [!info] Score 56 · +1/+1 Counters
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 56 | **Variety** | 95 |
-> | **Identity** | {U}{G} | **Plan** | +1/+1 Counters |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 360 | **Decks** | 4,004 |
-> | **Rank** | 685 | **Finish** | £405 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/DFT\|DFT]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/SOS\|SOS]] | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 56 |
+> | **Variety** | 95 |
+> | **Identity** | {U}{G} |
+> | **Plan** | +1/+1 Counters |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 360 |
+> | **Decks** | 4,004 |
+> | **Rank** | 685 |
+> | **Finish** | £405 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/DFT\|DFT]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/SOS\|SOS]] |
 >
 > {U}{G} **+1/+1 Counters**. Stacks +1/+1 counters and cares about the creatures that grow.
 >
@@ -875,15 +837,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Combustion Man`**](https://edhrec.com/commanders/combustion-man) · [[#Ranked list|table]]
 
 > [!info] Score 56 · Burn
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 56 | **Variety** | 95 |
-> | **Identity** | {R} | **Plan** | Burn |
-> | **99 owned** | 17% (17/99) | **99 to buy** | 83% (82/99) |
-> | **Unused** | 198 | **Decks** | 824 |
-> | **Rank** | 1,779 | **Finish** | £542 |
-> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/FDN\|FDN]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/BLB\|BLB]] | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 56 |
+> | **Variety** | 95 |
+> | **Identity** | {R} |
+> | **Plan** | Burn |
+> | **99 owned** | 17% (17/99) |
+> | **99 to buy** | 83% (82/99) |
+> | **Unused** | 198 |
+> | **Decks** | 824 |
+> | **Rank** | 1,779 |
+> | **Finish** | £542 |
+> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/FDN\|FDN]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/BLB\|BLB]] |
 >
 > {R} **Burn**. Direct damage to players and creatures.
 >
@@ -906,15 +872,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Kirol, History Buff`**](https://edhrec.com/commanders/kirol-history-buff) · [[#Ranked list|table]]
 
 > [!info] Score 56 · Graveyard
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 56 | **Variety** | 95 |
-> | **Identity** | {W}{R} | **Plan** | Graveyard |
-> | **99 owned** | 25% (25/99) | **99 to buy** | 75% (74/99) |
-> | **Unused** | 354 | **Decks** | 346 |
-> | **Rank** | 2,406 | **Finish** | £67 |
-> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BLB\|BLB]] [SNC](https://scryfall.com/sets/snc) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Jeska's Will`, `mtg:Underworld Breach`, `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 56 |
+> | **Variety** | 95 |
+> | **Identity** | {W}{R} |
+> | **Plan** | Graveyard |
+> | **99 owned** | 25% (25/99) |
+> | **99 to buy** | 75% (74/99) |
+> | **Unused** | 354 |
+> | **Decks** | 346 |
+> | **Rank** | 2,406 |
+> | **Finish** | £67 |
+> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BLB\|BLB]] [SNC](https://scryfall.com/sets/snc) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {W}{R} **Graveyard**. Fills the yard and recasts or flashes things back.
 >
@@ -935,15 +905,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:The Dawning Archaic`**](https://edhrec.com/commanders/the-dawning-archaic) · [[#Ranked list|table]]
 
 > [!info] Score 55 · Spellslinger
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 55 | **Variety** | 95 |
-> | **Identity** | {C} | **Plan** | Spellslinger |
-> | **99 owned** | 4% (4/99) | **99 to buy** | 96% (95/99) |
-> | **Unused** | 66 | **Decks** | 613 |
-> | **Rank** | 2,003 | **Finish** | £319 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 55 |
+> | **Variety** | 95 |
+> | **Identity** | {C} |
+> | **Plan** | Spellslinger |
+> | **99 owned** | 4% (4/99) |
+> | **99 to buy** | 96% (95/99) |
+> | **Unused** | 66 |
+> | **Decks** | 613 |
+> | **Rank** | 2,003 |
+> | **Finish** | £319 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {C} **Spellslinger**. Casts a high density of instants and sorceries and pays you for each spell.
 >
@@ -968,15 +942,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Bifur, Melodic Rider`**](https://edhrec.com/commanders/bifur-melodic-rider) · [[#Ranked list|table]]
 
 > [!info] Score 55 · Equipment
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 55 | **Variety** | 95 |
-> | **Identity** | {W}{R} | **Plan** | Equipment |
-> | **99 owned** | 25% (25/99) | **99 to buy** | 75% (74/99) |
-> | **Unused** | 354 | **Decks** | 406 |
-> | **Rank** | 2,297 | **Finish** | £350 |
-> | **Next box(s)** | [[06 Browse/Sets/HOB\|HOB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Smothering Tithe`, `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 55 |
+> | **Variety** | 95 |
+> | **Identity** | {W}{R} |
+> | **Plan** | Equipment |
+> | **99 owned** | 25% (25/99) |
+> | **99 to buy** | 75% (74/99) |
+> | **Unused** | 354 |
+> | **Decks** | 406 |
+> | **Rank** | 2,297 |
+> | **Finish** | £350 |
+> | **Next box(s)** | [[06 Browse/Sets/HOB\|HOB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {W}{R} **Equipment**. Suits up a creature and attacks.
 >
@@ -999,15 +977,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Syr Alin, the Lion's Claw`**](https://edhrec.com/commanders/syr-alin-the-lions-claw) · [[#Ranked list|table]]
 
 > [!info] Score 55 · Humans
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 55 | **Variety** | 95 |
-> | **Identity** | {W} | **Plan** | Humans |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 197 | **Decks** | 48 |
-> | **Rank** | 3,862 | **Finish** | £158 |
-> | **Next box(s)** | [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MOM\|MOM]] [MH2](https://scryfall.com/sets/mh2) [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/FDN\|FDN]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 55 |
+> | **Variety** | 95 |
+> | **Identity** | {W} |
+> | **Plan** | Humans |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 197 |
+> | **Decks** | 48 |
+> | **Rank** | 3,862 |
+> | **Finish** | £158 |
+> | **Next box(s)** | [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MOM\|MOM]] [MH2](https://scryfall.com/sets/mh2) [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/FDN\|FDN]] |
 >
 > {W} **Humans**. Human tribal.
 >
@@ -1032,15 +1014,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Gandalf, Spark Starter`**](https://edhrec.com/commanders/gandalf-spark-starter) · [[#Ranked list|table]]
 
 > [!info] Score 55 · unlabeled
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 55 | **Variety** | 95 |
-> | **Identity** | {R} | **Plan** | unlabeled |
-> | **99 owned** | 27% (27/99) | **99 to buy** | 73% (72/99) |
-> | **Unused** | 198 | **Decks** | 8 |
-> | **Rank** | 5,468 | **Finish** | £352 |
-> | **Next box(s)** | [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [MID](https://scryfall.com/sets/mid) [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/STX\|STX]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ZNR\|ZNR]] [LTR](https://scryfall.com/sets/ltr) [MH1](https://scryfall.com/sets/mh1) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 55 |
+> | **Variety** | 95 |
+> | **Identity** | {R} |
+> | **Plan** | unlabeled |
+> | **99 owned** | 27% (27/99) |
+> | **99 to buy** | 73% (72/99) |
+> | **Unused** | 198 |
+> | **Decks** | 8 |
+> | **Rank** | 5,468 |
+> | **Finish** | £352 |
+> | **Next box(s)** | [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [MID](https://scryfall.com/sets/mid) [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/STX\|STX]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ZNR\|ZNR]] [LTR](https://scryfall.com/sets/ltr) [MH1](https://scryfall.com/sets/mh1) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] |
 >
 > {R} **unlabeled**. Too few EDHREC decks to pin a theme.
 >
@@ -1063,15 +1049,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Lyra Dawnbringer`**](https://edhrec.com/commanders/lyra-dawnbringer) · [[#Ranked list|table]]
 
 > [!info] Score 54 · Angels
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 54 | **Variety** | 95 |
-> | **Identity** | {W} | **Plan** | Angels |
-> | **99 owned** | 11% (11/99) | **99 to buy** | 89% (88/99) |
-> | **Unused** | 197 | **Decks** | 1,545 |
-> | **Rank** | 1,296 | **Finish** | £373 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/KHM\|KHM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ZNR\|ZNR]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 54 |
+> | **Variety** | 95 |
+> | **Identity** | {W} |
+> | **Plan** | Angels |
+> | **99 owned** | 11% (11/99) |
+> | **99 to buy** | 89% (88/99) |
+> | **Unused** | 197 |
+> | **Decks** | 1,545 |
+> | **Rank** | 1,296 |
+> | **Finish** | £373 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/KHM\|KHM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ZNR\|ZNR]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {W} **Angels**. Angel tribal, usually flying and lifelink.
 >
@@ -1096,15 +1086,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Page, Loose Leaf`**](https://edhrec.com/commanders/page-loose-leaf) · [[#Ranked list|table]]
 
 > [!info] Score 54 · Ramp
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 54 | **Variety** | 95 |
-> | **Identity** | {C} | **Plan** | Ramp |
-> | **99 owned** | 2% (2/99) | **99 to buy** | 98% (97/99) |
-> | **Unused** | 66 | **Decks** | 380 |
-> | **Rank** | 2,340 | **Finish** | £354 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 54 |
+> | **Variety** | 95 |
+> | **Identity** | {C} |
+> | **Plan** | Ramp |
+> | **99 owned** | 2% (2/99) |
+> | **99 to buy** | 98% (97/99) |
+> | **Unused** | 66 |
+> | **Decks** | 380 |
+> | **Rank** | 2,340 |
+> | **Finish** | £354 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] |
 >
 > {C} **Ramp**. Makes extra mana and spends it on big threats.
 >
@@ -1129,15 +1123,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Toph, the Blind Bandit`**](https://edhrec.com/commanders/toph-the-blind-bandit) · [[#Ranked list|table]]
 
 > [!info] Score 54 · +1/+1 Counters
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 54 | **Variety** | 95 |
-> | **Identity** | {G} | **Plan** | +1/+1 Counters |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 199 | **Decks** | 290 |
-> | **Rank** | 2,522 | **Finish** | £353 |
-> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 54 |
+> | **Variety** | 95 |
+> | **Identity** | {G} |
+> | **Plan** | +1/+1 Counters |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 199 |
+> | **Decks** | 290 |
+> | **Rank** | 2,522 |
+> | **Finish** | £353 |
+> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] |
 >
 > {G} **+1/+1 Counters**. Stacks +1/+1 counters and cares about the creatures that grow.
 >
@@ -1160,15 +1158,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Ashe, Princess of Dalmasca`**](https://edhrec.com/commanders/ashe-princess-of-dalmasca) · [[#Ranked list|table]]
 
 > [!info] Score 54 · Artifacts
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 54 | **Variety** | 95 |
-> | **Identity** | {W} | **Plan** | Artifacts |
-> | **99 owned** | 9% (9/99) | **99 to buy** | 91% (90/99) |
-> | **Unused** | 197 | **Decks** | 139 |
-> | **Rank** | 3,063 | **Finish** | £313 |
-> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DFT\|DFT]] [ONE](https://scryfall.com/sets/one) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FDN\|FDN]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 54 |
+> | **Variety** | 95 |
+> | **Identity** | {W} |
+> | **Plan** | Artifacts |
+> | **99 owned** | 9% (9/99) |
+> | **99 to buy** | 91% (90/99) |
+> | **Unused** | 197 |
+> | **Decks** | 139 |
+> | **Rank** | 3,063 |
+> | **Finish** | £313 |
+> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DFT\|DFT]] [ONE](https://scryfall.com/sets/one) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FDN\|FDN]] |
 >
 > {W} **Artifacts**. Artifact ramp, bodies, and payoffs.
 >
@@ -1195,15 +1197,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Bolg of the North`**](https://edhrec.com/commanders/bolg-of-the-north) · [[#Ranked list|table]]
 
 > [!info] Score 54 · Clones
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 54 | **Variety** | 95 |
-> | **Identity** | {B}{R} | **Plan** | Clones |
-> | **99 owned** | 30% (30/99) | **99 to buy** | 70% (69/99) |
-> | **Unused** | 341 | **Decks** | 65 |
-> | **Rank** | 3,618 | **Finish** | £193 |
-> | **Next box(s)** | [[06 Browse/Sets/HOB\|HOB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DOM\|DOM]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 54 |
+> | **Variety** | 95 |
+> | **Identity** | {B}{R} |
+> | **Plan** | Clones |
+> | **99 owned** | 30% (30/99) |
+> | **99 to buy** | 70% (69/99) |
+> | **Unused** | 341 |
+> | **Decks** | 65 |
+> | **Rank** | 3,618 |
+> | **Finish** | £193 |
+> | **Next box(s)** | [[06 Browse/Sets/HOB\|HOB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DOM\|DOM]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {B}{R} **Clones**. Copies creatures (yours or theirs) and plays the best body on the table.
 >
@@ -1228,15 +1234,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Nori, Teller of Tales`**](https://edhrec.com/commanders/nori-teller-of-tales) · [[#Ranked list|table]]
 
 > [!info] Score 54 · Dwarves
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 54 | **Variety** | 95 |
-> | **Identity** | {W}{R} | **Plan** | Dwarves |
-> | **99 owned** | 23% (23/99) | **99 to buy** | 77% (76/99) |
-> | **Unused** | 354 | **Decks** | 8 |
-> | **Rank** | 5,469 | **Finish** | £117 |
-> | **Next box(s)** | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M19\|M19]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 54 |
+> | **Variety** | 95 |
+> | **Identity** | {W}{R} |
+> | **Plan** | Dwarves |
+> | **99 owned** | 23% (23/99) |
+> | **99 to buy** | 77% (76/99) |
+> | **Unused** | 354 |
+> | **Decks** | 8 |
+> | **Rank** | 5,469 |
+> | **Finish** | £117 |
+> | **Next box(s)** | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M19\|M19]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {W}{R} **Dwarves**. Dwarf tribal.
 >
@@ -1261,15 +1271,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Bombur, Gentle Dreamer`**](https://edhrec.com/commanders/bombur-gentle-dreamer) · [[#Ranked list|table]]
 
 > [!info] Score 54 · Dwarves
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 54 | **Variety** | 95 |
-> | **Identity** | {R} | **Plan** | Dwarves |
-> | **99 owned** | 27% (27/99) | **99 to buy** | 73% (72/99) |
-> | **Unused** | 198 | **Decks** | 4 |
-> | **Rank** | 6,129 | **Finish** | £223 |
-> | **Next box(s)** | [[06 Browse/Sets/NEO\|NEO]] [LTR](https://scryfall.com/sets/ltr) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/ELD\|ELD]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 54 |
+> | **Variety** | 95 |
+> | **Identity** | {R} |
+> | **Plan** | Dwarves |
+> | **99 owned** | 27% (27/99) |
+> | **99 to buy** | 73% (72/99) |
+> | **Unused** | 198 |
+> | **Decks** | 4 |
+> | **Rank** | 6,129 |
+> | **Finish** | £223 |
+> | **Next box(s)** | [[06 Browse/Sets/NEO\|NEO]] [LTR](https://scryfall.com/sets/ltr) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/ELD\|ELD]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {R} **Dwarves**. Dwarf tribal.
 >
@@ -1294,15 +1308,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Grenzo, Havoc Raiser`**](https://edhrec.com/commanders/grenzo-havoc-raiser) · [[#Ranked list|table]]
 
 > [!info] Score 53 · Forced Combat
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 53 | **Variety** | 95 |
-> | **Identity** | {R} | **Plan** | Forced Combat |
-> | **99 owned** | 11% (11/99) | **99 to buy** | 89% (88/99) |
-> | **Unused** | 198 | **Decks** | 919 |
-> | **Rank** | 1,700 | **Finish** | £296 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] | **Cheese** | `mtg:Jeska's Will`, `mtg:Underworld Breach` |
->
+> | | |
+> |---|---|
+> | **Score** | 53 |
+> | **Variety** | 95 |
+> | **Identity** | {R} |
+> | **Plan** | Forced Combat |
+> | **99 owned** | 11% (11/99) |
+> | **99 to buy** | 89% (88/99) |
+> | **Unused** | 198 |
+> | **Decks** | 919 |
+> | **Rank** | 1,700 |
+> | **Finish** | £296 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] |
 >
 > {R} **Forced Combat**. Makes opponents attack and punishes the combat step.
 >
@@ -1327,15 +1345,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Kiora, the Rising Tide`**](https://edhrec.com/commanders/kiora-the-rising-tide) · [[#Ranked list|table]]
 
 > [!info] Score 53 · Wheels
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 53 | **Variety** | 95 |
-> | **Identity** | {U} | **Plan** | Wheels |
-> | **99 owned** | 15% (15/99) | **99 to buy** | 85% (84/99) |
-> | **Unused** | 203 | **Decks** | 588 |
-> | **Rank** | 2,033 | **Finish** | £227 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/AFR\|AFR]] | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Fierce Guardianship`, `mtg:Thassa's Oracle`, `mtg:Narset, Parter of Veils` |
->
+> | | |
+> |---|---|
+> | **Score** | 53 |
+> | **Variety** | 95 |
+> | **Identity** | {U} |
+> | **Plan** | Wheels |
+> | **99 owned** | 15% (15/99) |
+> | **99 to buy** | 85% (84/99) |
+> | **Unused** | 203 |
+> | **Decks** | 588 |
+> | **Rank** | 2,033 |
+> | **Finish** | £227 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/AFR\|AFR]] |
 >
 > {U} **Wheels**. Draw-and-discard in a loop for storm, reanimate, or discard payoffs.
 >
@@ -1358,15 +1380,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Surrak, the Hunt Caller`**](https://edhrec.com/commanders/surrak-the-hunt-caller) · [[#Ranked list|table]]
 
 > [!info] Score 53 · Aggro
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 53 | **Variety** | 95 |
-> | **Identity** | {G} | **Plan** | Aggro |
-> | **99 owned** | 22% (22/99) | **99 to buy** | 78% (77/99) |
-> | **Unused** | 199 | **Decks** | 106 |
-> | **Rank** | 3,256 | **Finish** | £234 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TDM\|TDM]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 53 |
+> | **Variety** | 95 |
+> | **Identity** | {G} |
+> | **Plan** | Aggro |
+> | **99 owned** | 22% (22/99) |
+> | **99 to buy** | 78% (77/99) |
+> | **Unused** | 199 |
+> | **Decks** | 106 |
+> | **Rank** | 3,256 |
+> | **Finish** | £234 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TDM\|TDM]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] |
 >
 > {G} **Aggro**. Hits the table early and keeps attacking.
 >
@@ -1391,15 +1417,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Myojin of Night's Reach`**](https://edhrec.com/commanders/myojin-of-nights-reach) · [[#Ranked list|table]]
 
 > [!info] Score 53 · Discard
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 53 | **Variety** | 95 |
-> | **Identity** | {B} | **Plan** | Discard |
-> | **99 owned** | 15% (15/99) | **99 to buy** | 85% (84/99) |
-> | **Unused** | 198 | **Decks** | 19 |
-> | **Rank** | 4,633 | **Finish** | £375 |
-> | **Next box(s)** | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [WAR](https://scryfall.com/sets/war) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] | **Cheese** | `mtg:Opposition Agent` |
->
+> | | |
+> |---|---|
+> | **Score** | 53 |
+> | **Variety** | 95 |
+> | **Identity** | {B} |
+> | **Plan** | Discard |
+> | **99 owned** | 15% (15/99) |
+> | **99 to buy** | 85% (84/99) |
+> | **Unused** | 198 |
+> | **Decks** | 19 |
+> | **Rank** | 4,633 |
+> | **Finish** | £375 |
+> | **Next box(s)** | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [WAR](https://scryfall.com/sets/war) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] |
 >
 > {B} **Discard**. Forces opponents to discard and pays you for the empty hands.
 >
@@ -1424,15 +1454,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Smaug, the Great Calamity`**](https://edhrec.com/commanders/smaug-the-great-calamity) · [[#Ranked list|table]]
 
 > [!info] Score 53 · Burn
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 53 | **Variety** | 95 |
-> | **Identity** | {R} | **Plan** | Burn |
-> | **99 owned** | 18% (18/99) | **99 to buy** | 82% (81/99) |
-> | **Unused** | 198 | **Decks** | 8 |
-> | **Rank** | 5,470 | **Finish** | £169 |
-> | **Next box(s)** | [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/M20\|M20]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/NEO\|NEO]] | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 53 |
+> | **Variety** | 95 |
+> | **Identity** | {R} |
+> | **Plan** | Burn |
+> | **99 owned** | 18% (18/99) |
+> | **99 to buy** | 82% (81/99) |
+> | **Unused** | 198 |
+> | **Decks** | 8 |
+> | **Rank** | 5,470 |
+> | **Finish** | £169 |
+> | **Next box(s)** | [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/M20\|M20]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {R} **Burn**. Direct damage to players and creatures.
 >
@@ -1455,15 +1489,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Gollum, Silent Slinker`**](https://edhrec.com/commanders/gollum-silent-slinker) · [[#Ranked list|table]]
 
 > [!info] Score 53 · Control
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 53 | **Variety** | 95 |
-> | **Identity** | {B} | **Plan** | Control |
-> | **99 owned** | 21% (21/99) | **99 to buy** | 79% (78/99) |
-> | **Unused** | 198 | **Decks** | 7 |
-> | **Rank** | 5,593 | **Finish** | £208 |
-> | **Next box(s)** | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) | **Cheese** | `mtg:Opposition Agent` |
->
+> | | |
+> |---|---|
+> | **Score** | 53 |
+> | **Variety** | 95 |
+> | **Identity** | {B} |
+> | **Plan** | Control |
+> | **99 owned** | 21% (21/99) |
+> | **99 to buy** | 79% (78/99) |
+> | **Unused** | 198 |
+> | **Decks** | 7 |
+> | **Rank** | 5,593 |
+> | **Finish** | £208 |
+> | **Next box(s)** | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {B} **Control**. Answers threats and wins once the board is locked down.
 >
@@ -1486,15 +1524,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Lluwen, Exchange Student`**](https://edhrec.com/commanders/lluwen-exchange-student) · [[#Ranked list|table]]
 
 > [!info] Score 52 · Tokens
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 52 | **Variety** | 60 |
-> | **Identity** | {B}{G} | **Plan** | Tokens |
-> | **99 owned** | 26% (26/99) | **99 to buy** | 74% (73/99) |
-> | **Unused** | 360 | **Decks** | 793 |
-> | **Rank** | 1,813 | **Finish** | £261 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TDM\|TDM]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 52 |
+> | **Variety** | 60 |
+> | **Identity** | {B}{G} |
+> | **Plan** | Tokens |
+> | **99 owned** | 26% (26/99) |
+> | **99 to buy** | 74% (73/99) |
+> | **Unused** | 360 |
+> | **Decks** | 793 |
+> | **Rank** | 1,813 |
+> | **Finish** | £261 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/TDM\|TDM]] |
 >
 > {B}{G} **Tokens**. Goes wide with creature tokens. Overlaps Zurgo if that is the main plan.
 >
@@ -1515,15 +1557,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Kambal, Profiteering Mayor`**](https://edhrec.com/commanders/kambal-profiteering-mayor) · [[#Ranked list|table]]
 
 > [!info] Score 51 · Tokens
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 51 | **Variety** | 60 |
-> | **Identity** | {W}{B} | **Plan** | Tokens |
-> | **99 owned** | 11% (11/99) | **99 to buy** | 89% (88/99) |
-> | **Unused** | 353 | **Decks** | 6,599 |
-> | **Rank** | 430 | **Finish** | £434 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/DMU\|DMU]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/WOE\|WOE]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 51 |
+> | **Variety** | 60 |
+> | **Identity** | {W}{B} |
+> | **Plan** | Tokens |
+> | **99 owned** | 11% (11/99) |
+> | **99 to buy** | 89% (88/99) |
+> | **Unused** | 353 |
+> | **Decks** | 6,599 |
+> | **Rank** | 430 |
+> | **Finish** | £434 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/DMU\|DMU]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/WOE\|WOE]] |
 >
 > {W}{B} **Tokens**. Goes wide with creature tokens. Overlaps Zurgo if that is the main plan.
 >
@@ -1548,15 +1594,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Aziza, Mage Tower Captain`**](https://edhrec.com/commanders/aziza-mage-tower-captain) · [[#Ranked list|table]]
 
 > [!info] Score 51 · Tokens
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 51 | **Variety** | 60 |
-> | **Identity** | {W}{R} | **Plan** | Tokens |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 354 | **Decks** | 2,754 |
-> | **Rank** | 904 | **Finish** | £410 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [SNC](https://scryfall.com/sets/snc) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/STX\|STX]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/KHM\|KHM]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/ZNR\|ZNR]] | **Cheese** | `mtg:Jeska's Will`, `mtg:Smothering Tithe`, `mtg:Underworld Breach` |
->
+> | | |
+> |---|---|
+> | **Score** | 51 |
+> | **Variety** | 60 |
+> | **Identity** | {W}{R} |
+> | **Plan** | Tokens |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 354 |
+> | **Decks** | 2,754 |
+> | **Rank** | 904 |
+> | **Finish** | £410 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [SNC](https://scryfall.com/sets/snc) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/STX\|STX]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/KHM\|KHM]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/ZNR\|ZNR]] |
 >
 > {W}{R} **Tokens**. Goes wide with creature tokens. Overlaps Zurgo if that is the main plan.
 >
@@ -1579,15 +1629,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Dion, Bahamut's Dominant`**](https://edhrec.com/commanders/dion-bahamuts-dominant) · [[#Ranked list|table]]
 
 > [!info] Score 51 · Knights
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 51 | **Variety** | 60 |
-> | **Identity** | {W} | **Plan** | Knights |
-> | **99 owned** | 15% (15/99) | **99 to buy** | 85% (84/99) |
-> | **Unused** | 197 | **Decks** | 2,500 |
-> | **Rank** | 965 | **Finish** | £317 |
-> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/M19\|M19]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 51 |
+> | **Variety** | 60 |
+> | **Identity** | {W} |
+> | **Plan** | Knights |
+> | **99 owned** | 15% (15/99) |
+> | **99 to buy** | 85% (84/99) |
+> | **Unused** | 197 |
+> | **Decks** | 2,500 |
+> | **Rank** | 965 |
+> | **Finish** | £317 |
+> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/M19\|M19]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DSK\|DSK]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {W} **Knights**. Knight tribal.
 >
@@ -1608,15 +1662,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:High Perfect Morcant`**](https://edhrec.com/commanders/high-perfect-morcant) · [[#Ranked list|table]]
 
 > [!info] Score 50 · -1/-1 Counters
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 50 | **Variety** | 60 |
-> | **Identity** | {B}{G} | **Plan** | -1/-1 Counters |
-> | **99 owned** | 20% (20/99) | **99 to buy** | 80% (79/99) |
-> | **Unused** | 360 | **Decks** | 17,348 |
-> | **Rank** | 104 | **Finish** | £427 |
-> | **Next box(s)** | [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 50 |
+> | **Variety** | 60 |
+> | **Identity** | {B}{G} |
+> | **Plan** | -1/-1 Counters |
+> | **99 owned** | 20% (20/99) |
+> | **99 to buy** | 80% (79/99) |
+> | **Unused** | 360 |
+> | **Decks** | 17,348 |
+> | **Rank** | 104 |
+> | **Finish** | £427 |
+> | **Next box(s)** | [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TDM\|TDM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] |
 >
 > {B}{G} **-1/-1 Counters**. Spreads -1/-1 counters and wins from the shrinking board.
 >
@@ -1639,15 +1697,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Katara, the Fearless`**](https://edhrec.com/commanders/katara-the-fearless) · [[#Ranked list|table]]
 
 > [!info] Score 50 · Allies
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 50 | **Variety** | 60 |
-> | **Identity** | {W}{U}{G} | **Plan** | Allies |
-> | **99 owned** | 15% (15/99) | **99 to buy** | 85% (84/99) |
-> | **Unused** | 513 | **Decks** | 9,755 |
-> | **Rank** | 244 | **Finish** | £241 |
-> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] | **Cheese** | `mtg:Fierce Guardianship`, `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 50 |
+> | **Variety** | 60 |
+> | **Identity** | {W}{U}{G} |
+> | **Plan** | Allies |
+> | **99 owned** | 15% (15/99) |
+> | **99 to buy** | 85% (84/99) |
+> | **Unused** | 513 |
+> | **Decks** | 9,755 |
+> | **Rank** | 244 |
+> | **Finish** | £241 |
+> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] |
 >
 > {W}{U}{G} **Allies**. Ally tribal; they buff each other as more allies enter.
 >
@@ -1670,15 +1732,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Vnwxt, Verbose Host`**](https://edhrec.com/commanders/vnwxt-verbose-host) · [[#Ranked list|table]]
 
 > [!info] Score 50 · Card Draw
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 50 | **Variety** | 60 |
-> | **Identity** | {U} | **Plan** | Card Draw |
-> | **99 owned** | 17% (17/99) | **99 to buy** | 83% (82/99) |
-> | **Unused** | 203 | **Decks** | 7,828 |
-> | **Rank** | 337 | **Finish** | £215 |
-> | **Next box(s)** | [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TLA\|TLA]] [WAR](https://scryfall.com/sets/war) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [LTR](https://scryfall.com/sets/ltr) [MH2](https://scryfall.com/sets/mh2) | **Cheese** | `mtg:Rhystic Study`, `mtg:Cyclonic Rift`, `mtg:Thassa's Oracle`, `mtg:Fierce Guardianship`, `mtg:Narset, Parter of Veils` |
->
+> | | |
+> |---|---|
+> | **Score** | 50 |
+> | **Variety** | 60 |
+> | **Identity** | {U} |
+> | **Plan** | Card Draw |
+> | **99 owned** | 17% (17/99) |
+> | **99 to buy** | 83% (82/99) |
+> | **Unused** | 203 |
+> | **Decks** | 7,828 |
+> | **Rank** | 337 |
+> | **Finish** | £215 |
+> | **Next box(s)** | [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TLA\|TLA]] [WAR](https://scryfall.com/sets/war) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [LTR](https://scryfall.com/sets/ltr) [MH2](https://scryfall.com/sets/mh2) |
 >
 > {U} **Card Draw**. The commander is a draw engine; the 99 keeps the tank full.
 >
@@ -1701,15 +1767,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Óin the Brave`**](https://edhrec.com/commanders/oin-the-brave) · [[#Ranked list|table]]
 
 > [!info] Score 50 · unlabeled
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 50 | **Variety** | 95 |
-> | **Identity** | {R} | **Plan** | unlabeled |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 198 | **Decks** | 2 |
-> | **Rank** | 6,514 | **Finish** | £140 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TLA\|TLA]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [ONE](https://scryfall.com/sets/one) | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 50 |
+> | **Variety** | 95 |
+> | **Identity** | {R} |
+> | **Plan** | unlabeled |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 198 |
+> | **Decks** | 2 |
+> | **Rank** | 6,514 |
+> | **Finish** | £140 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TLA\|TLA]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [ONE](https://scryfall.com/sets/one) |
 >
 > {R} **unlabeled**. Too few EDHREC decks to pin a theme.
 >
@@ -1732,15 +1802,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Smaug, Wicked Worm`**](https://edhrec.com/commanders/smaug-wicked-worm) · [[#Ranked list|table]]
 
 > [!info] Score 49 · Treasure
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 49 | **Variety** | 60 |
-> | **Identity** | {B}{R} | **Plan** | Treasure |
-> | **99 owned** | 12% (12/99) | **99 to buy** | 88% (87/99) |
-> | **Unused** | 341 | **Decks** | 2,595 |
-> | **Rank** | 944 | **Finish** | £637 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/HOB\|HOB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/KHM\|KHM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BLB\|BLB]] | **Cheese** | `mtg:Jeska's Will`, `mtg:Underworld Breach` |
->
+> | | |
+> |---|---|
+> | **Score** | 49 |
+> | **Variety** | 60 |
+> | **Identity** | {B}{R} |
+> | **Plan** | Treasure |
+> | **99 owned** | 12% (12/99) |
+> | **99 to buy** | 88% (87/99) |
+> | **Unused** | 341 |
+> | **Decks** | 2,595 |
+> | **Rank** | 944 |
+> | **Finish** | £637 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/HOB\|HOB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/KHM\|KHM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BLB\|BLB]] |
 >
 > {B}{R} **Treasure**. Makes Treasure tokens and spends them on big spells or dragons.
 >
@@ -1765,15 +1839,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Ovika, Enigma Goliath`**](https://edhrec.com/commanders/ovika-enigma-goliath) · [[#Ranked list|table]]
 
 > [!info] Score 48 · Spellslinger
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 48 | **Variety** | 60 |
-> | **Identity** | {U}{R} | **Plan** | Spellslinger |
-> | **99 owned** | 14% (14/99) | **99 to buy** | 86% (85/99) |
-> | **Unused** | 359 | **Decks** | 11,339 |
-> | **Rank** | 203 | **Finish** | £274 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] | **Cheese** | `mtg:Jeska's Will`, `mtg:Rhystic Study`, `mtg:Cyclonic Rift`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 48 |
+> | **Variety** | 60 |
+> | **Identity** | {U}{R} |
+> | **Plan** | Spellslinger |
+> | **99 owned** | 14% (14/99) |
+> | **99 to buy** | 86% (85/99) |
+> | **Unused** | 359 |
+> | **Decks** | 11,339 |
+> | **Rank** | 203 |
+> | **Finish** | £274 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] |
 >
 > {U}{R} **Spellslinger**. Casts a high density of instants and sorceries and pays you for each spell.
 >
@@ -1798,15 +1876,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Lluwen, Imperfect Naturalist`**](https://edhrec.com/commanders/lluwen-imperfect-naturalist) · [[#Ranked list|table]]
 
 > [!info] Score 48 · Tokens
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 48 | **Variety** | 60 |
-> | **Identity** | {B}{G} | **Plan** | Tokens |
-> | **99 owned** | 10% (10/99) | **99 to buy** | 90% (89/99) |
-> | **Unused** | 360 | **Decks** | 1,874 |
-> | **Rank** | 1,166 | **Finish** | £320 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/M20\|M20]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 48 |
+> | **Variety** | 60 |
+> | **Identity** | {B}{G} |
+> | **Plan** | Tokens |
+> | **99 owned** | 10% (10/99) |
+> | **99 to buy** | 90% (89/99) |
+> | **Unused** | 360 |
+> | **Decks** | 1,874 |
+> | **Rank** | 1,166 |
+> | **Finish** | £320 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/M20\|M20]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] |
 >
 > {B}{G} **Tokens**. Goes wide with creature tokens. Overlaps Zurgo if that is the main plan.
 >
@@ -1831,15 +1913,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Nita, Forum Conciliator`**](https://edhrec.com/commanders/nita-forum-conciliator) · [[#Ranked list|table]]
 
 > [!info] Score 48 · Theft
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 48 | **Variety** | 60 |
-> | **Identity** | {W}{B} | **Plan** | Theft |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 353 | **Decks** | 375 |
-> | **Rank** | 2,352 | **Finish** | £290 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [MKM](https://scryfall.com/sets/mkm) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | **Cheese** | `mtg:Opposition Agent`, `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 48 |
+> | **Variety** | 60 |
+> | **Identity** | {W}{B} |
+> | **Plan** | Theft |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 353 |
+> | **Decks** | 375 |
+> | **Rank** | 2,352 |
+> | **Finish** | £290 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [MKM](https://scryfall.com/sets/mkm) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] |
 >
 > {W}{B} **Theft**. Steals opponents' cards. Overlaps Maralen's mill-steal lane if that is the main plan.
 >
@@ -1862,15 +1948,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Queen Allenal of Ruadach`**](https://edhrec.com/commanders/queen-allenal-of-ruadach) · [[#Ranked list|table]]
 
 > [!info] Score 47 · Tokens
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 47 | **Variety** | 60 |
-> | **Identity** | {W}{G} | **Plan** | Tokens |
-> | **99 owned** | 17% (17/99) | **99 to buy** | 83% (82/99) |
-> | **Unused** | 343 | **Decks** | 1,543 |
-> | **Rank** | 1,297 | **Finish** | £259 |
-> | **Next box(s)** | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DOM\|DOM]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 47 |
+> | **Variety** | 60 |
+> | **Identity** | {W}{G} |
+> | **Plan** | Tokens |
+> | **99 owned** | 17% (17/99) |
+> | **99 to buy** | 83% (82/99) |
+> | **Unused** | 343 |
+> | **Decks** | 1,543 |
+> | **Rank** | 1,297 |
+> | **Finish** | £259 |
+> | **Next box(s)** | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DOM\|DOM]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {W}{G} **Tokens**. Goes wide with creature tokens. Overlaps Zurgo if that is the main plan.
 >
@@ -1893,15 +1983,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Jadzi, Steward of Fate`**](https://edhrec.com/commanders/jadzi-steward-of-fate) · [[#Ranked list|table]]
 
 > [!info] Score 46 · Blink
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 46 | **Variety** | 60 |
-> | **Identity** | {U} | **Plan** | Blink |
-> | **99 owned** | 18% (18/99) | **99 to buy** | 82% (81/99) |
-> | **Unused** | 203 | **Decks** | 145 |
-> | **Rank** | 3,034 | **Finish** | £302 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/FIN\|FIN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/EOE\|EOE]] | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Fierce Guardianship`, `mtg:Rhystic Study` |
->
+> | | |
+> |---|---|
+> | **Score** | 46 |
+> | **Variety** | 60 |
+> | **Identity** | {U} |
+> | **Plan** | Blink |
+> | **99 owned** | 18% (18/99) |
+> | **99 to buy** | 82% (81/99) |
+> | **Unused** | 203 |
+> | **Decks** | 145 |
+> | **Rank** | 3,034 |
+> | **Finish** | £302 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/FIN\|FIN]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/EOE\|EOE]] |
 >
 > {U} **Blink**. Enters-the-battlefield value by flickering creatures. Overlaps Kykar.
 >
@@ -1924,15 +2018,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Lathliss, Dragon Queen`**](https://edhrec.com/commanders/lathliss-dragon-queen) · [[#Ranked list|table]]
 
 > [!info] Score 45 · Dragons
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 45 | **Variety** | 60 |
-> | **Identity** | {R} | **Plan** | Dragons |
-> | **99 owned** | 14% (14/99) | **99 to buy** | 86% (85/99) |
-> | **Unused** | 198 | **Decks** | 3,828 |
-> | **Rank** | 716 | **Finish** | £420 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Jeska's Will` |
->
+> | | |
+> |---|---|
+> | **Score** | 45 |
+> | **Variety** | 60 |
+> | **Identity** | {R} |
+> | **Plan** | Dragons |
+> | **99 owned** | 14% (14/99) |
+> | **99 to buy** | 86% (85/99) |
+> | **Unused** | 198 |
+> | **Decks** | 3,828 |
+> | **Rank** | 716 |
+> | **Finish** | £420 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DMU\|DMU]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {R} **Dragons**. Dragon tribal.
 >
@@ -1957,15 +2055,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Emil, Vastlands Roamer`**](https://edhrec.com/commanders/emil-vastlands-roamer) · [[#Ranked list|table]]
 
 > [!info] Score 45 · +1/+1 Counters
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 45 | **Variety** | 60 |
-> | **Identity** | {G} | **Plan** | +1/+1 Counters |
-> | **99 owned** | 12% (12/99) | **99 to buy** | 88% (87/99) |
-> | **Unused** | 199 | **Decks** | 179 |
-> | **Rank** | 2,884 | **Finish** | £291 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/BLB\|BLB]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 45 |
+> | **Variety** | 60 |
+> | **Identity** | {G} |
+> | **Plan** | +1/+1 Counters |
+> | **99 owned** | 12% (12/99) |
+> | **99 to buy** | 88% (87/99) |
+> | **Unused** | 199 |
+> | **Decks** | 179 |
+> | **Rank** | 2,884 |
+> | **Finish** | £291 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/BLB\|BLB]] |
 >
 > {G} **+1/+1 Counters**. Stacks +1/+1 counters and cares about the creatures that grow.
 >
@@ -1992,15 +2094,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Linden, the Steadfast Queen`**](https://edhrec.com/commanders/linden-the-steadfast-queen) · [[#Ranked list|table]]
 
 > [!info] Score 44 · Lifegain
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 44 | **Variety** | 60 |
-> | **Identity** | {W} | **Plan** | Lifegain |
-> | **99 owned** | 17% (17/99) | **99 to buy** | 83% (82/99) |
-> | **Unused** | 197 | **Decks** | 781 |
-> | **Rank** | 1,822 | **Finish** | £309 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M21\|M21]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/ZNR\|ZNR]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 44 |
+> | **Variety** | 60 |
+> | **Identity** | {W} |
+> | **Plan** | Lifegain |
+> | **99 owned** | 17% (17/99) |
+> | **99 to buy** | 83% (82/99) |
+> | **Unused** | 197 |
+> | **Decks** | 781 |
+> | **Rank** | 1,822 |
+> | **Finish** | £309 |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M21\|M21]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/ZNR\|ZNR]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {W} **Lifegain**. Gains life and turns the gap into damage, exile, or a bigger board.
 >
@@ -2023,15 +2129,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Orysa, Tide Choreographer`**](https://edhrec.com/commanders/orysa-tide-choreographer) · [[#Ranked list|table]]
 
 > [!info] Score 44 · Blink
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 44 | **Variety** | 60 |
-> | **Identity** | {U} | **Plan** | Blink |
-> | **99 owned** | 15% (15/99) | **99 to buy** | 85% (84/99) |
-> | **Unused** | 203 | **Decks** | 65 |
-> | **Rank** | 3,617 | **Finish** | £335 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/DMU\|DMU]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/EOE\|EOE]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Thassa's Oracle`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 44 |
+> | **Variety** | 60 |
+> | **Identity** | {U} |
+> | **Plan** | Blink |
+> | **99 owned** | 15% (15/99) |
+> | **99 to buy** | 85% (84/99) |
+> | **Unused** | 203 |
+> | **Decks** | 65 |
+> | **Rank** | 3,617 |
+> | **Finish** | £335 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/THB\|THB]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/DMU\|DMU]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/EOE\|EOE]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {U} **Blink**. Enters-the-battlefield value by flickering creatures. Overlaps Kykar.
 >
@@ -2056,15 +2166,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Ennis, Debate Moderator`**](https://edhrec.com/commanders/ennis-debate-moderator) · [[#Ranked list|table]]
 
 > [!info] Score 43 · Blink
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 43 | **Variety** | 60 |
-> | **Identity** | {W} | **Plan** | Blink |
-> | **99 owned** | 13% (13/99) | **99 to buy** | 87% (86/99) |
-> | **Unused** | 197 | **Decks** | 53 |
-> | **Rank** | 3,778 | **Finish** | £303 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) | **Cheese** | `mtg:Smothering Tithe` |
->
+> | | |
+> |---|---|
+> | **Score** | 43 |
+> | **Variety** | 60 |
+> | **Identity** | {W} |
+> | **Plan** | Blink |
+> | **99 owned** | 13% (13/99) |
+> | **99 to buy** | 87% (86/99) |
+> | **Unused** | 197 |
+> | **Decks** | 53 |
+> | **Rank** | 3,778 |
+> | **Finish** | £303 |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [LTR](https://scryfall.com/sets/ltr) |
 >
 > {W} **Blink**. Enters-the-battlefield value by flickering creatures. Overlaps Kykar.
 >
@@ -2091,15 +2205,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Halsin, Emerald Archdruid`**](https://edhrec.com/commanders/halsin-emerald-archdruid) · [[#Ranked list|table]]
 
 > [!info] Score 43 · Tokens
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 43 | **Variety** | 60 |
-> | **Identity** | {G} | **Plan** | Tokens |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 199 | **Decks** | 16 |
-> | **Rank** | 4,817 | **Finish** | £185 |
-> | **Next box(s)** | [[06 Browse/Sets/AFR\|AFR]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 43 |
+> | **Variety** | 60 |
+> | **Identity** | {G} |
+> | **Plan** | Tokens |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 199 |
+> | **Decks** | 16 |
+> | **Rank** | 4,817 |
+> | **Finish** | £185 |
+> | **Next box(s)** | [[06 Browse/Sets/AFR\|AFR]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ELD\|ELD]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {G} **Tokens**. Goes wide with creature tokens. Overlaps Zurgo if that is the main plan.
 >
@@ -2122,15 +2240,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Azula, On the Hunt`**](https://edhrec.com/commanders/azula-on-the-hunt) · [[#Ranked list|table]]
 
 > [!info] Score 41 · Clues
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 41 | **Variety** | 60 |
-> | **Identity** | {B} | **Plan** | Clues |
-> | **99 owned** | 14% (14/99) | **99 to buy** | 86% (85/99) |
-> | **Unused** | 198 | **Decks** | 80 |
-> | **Rank** | 3,462 | **Finish** | £310 |
-> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BRO\|BRO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 41 |
+> | **Variety** | 60 |
+> | **Identity** | {B} |
+> | **Plan** | Clues |
+> | **99 owned** | 14% (14/99) |
+> | **99 to buy** | 86% (85/99) |
+> | **Unused** | 198 |
+> | **Decks** | 80 |
+> | **Rank** | 3,462 |
+> | **Finish** | £310 |
+> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BRO\|BRO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {B} **Clues**. Investigate / Clue tokens for cards and artifact payoffs.
 >
@@ -2157,15 +2279,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Gandalf, Wandering Wizard`**](https://edhrec.com/commanders/gandalf-wandering-wizard) · [[#Ranked list|table]]
 
 > [!info] Score 41 · Card Draw
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 41 | **Variety** | 60 |
-> | **Identity** | {U} | **Plan** | Card Draw |
-> | **99 owned** | 11% (11/99) | **99 to buy** | 89% (88/99) |
-> | **Unused** | 203 | **Decks** | 25 |
-> | **Rank** | 4,438 | **Finish** | £358 |
-> | **Next box(s)** | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/MOM\|MOM]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [LTR](https://scryfall.com/sets/ltr) | **Cheese** | `mtg:Rhystic Study`, `mtg:Fierce Guardianship`, `mtg:Thassa's Oracle`, `mtg:Cyclonic Rift`, `mtg:Narset, Parter of Veils` |
->
+> | | |
+> |---|---|
+> | **Score** | 41 |
+> | **Variety** | 60 |
+> | **Identity** | {U} |
+> | **Plan** | Card Draw |
+> | **99 owned** | 11% (11/99) |
+> | **99 to buy** | 89% (88/99) |
+> | **Unused** | 203 |
+> | **Decks** | 25 |
+> | **Rank** | 4,438 |
+> | **Finish** | £358 |
+> | **Next box(s)** | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/MOM\|MOM]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [LTR](https://scryfall.com/sets/ltr) |
 >
 > {U} **Card Draw**. The commander is a draw engine; the 99 keeps the tank full.
 >
@@ -2192,15 +2318,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Beorn, Reluctant Host`**](https://edhrec.com/commanders/beorn-reluctant-host) · [[#Ranked list|table]]
 
 > [!info] Score 40 · +1/+1 Counters
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 40 | **Variety** | 60 |
-> | **Identity** | {G} | **Plan** | +1/+1 Counters |
-> | **99 owned** | 23% (23/99) | **99 to buy** | 77% (76/99) |
-> | **Unused** | 199 | **Decks** | 22 |
-> | **Rank** | 4,550 | **Finish** | £142 |
-> | **Next box(s)** | [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TLA\|TLA]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] | **Cheese** | — |
->
+> | | |
+> |---|---|
+> | **Score** | 40 |
+> | **Variety** | 60 |
+> | **Identity** | {G} |
+> | **Plan** | +1/+1 Counters |
+> | **99 owned** | 23% (23/99) |
+> | **99 to buy** | 77% (76/99) |
+> | **Unused** | 199 |
+> | **Decks** | 22 |
+> | **Rank** | 4,550 |
+> | **Finish** | £142 |
+> | **Next box(s)** | [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TLA\|TLA]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/OTJ\|OTJ]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WOE\|WOE]] |
 >
 > {G} **+1/+1 Counters**. Stacks +1/+1 counters and cares about the creatures that grow.
 >
@@ -2223,15 +2353,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Bilbo Baggins, Burglar`**](https://edhrec.com/commanders/bilbo-baggins-burglar) · [[#Ranked list|table]]
 
 > [!info] Score 39 · Blink
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 39 | **Variety** | 60 |
-> | **Identity** | {U} | **Plan** | Blink |
-> | **99 owned** | 18% (18/99) | **99 to buy** | 82% (81/99) |
-> | **Unused** | 203 | **Decks** | 10 |
-> | **Rank** | 5,270 | **Finish** | £215 |
-> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/DMU\|DMU]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/THB\|THB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/M21\|M21]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] | **Cheese** | `mtg:Cyclonic Rift` |
->
+> | | |
+> |---|---|
+> | **Score** | 39 |
+> | **Variety** | 60 |
+> | **Identity** | {U} |
+> | **Plan** | Blink |
+> | **99 owned** | 18% (18/99) |
+> | **99 to buy** | 82% (81/99) |
+> | **Unused** | 203 |
+> | **Decks** | 10 |
+> | **Rank** | 5,270 |
+> | **Finish** | £215 |
+> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/DMU\|DMU]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/THB\|THB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/M21\|M21]] [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LCI\|LCI]] |
 >
 > {U} **Blink**. Enters-the-battlefield value by flickering creatures. Overlaps Kykar.
 >
@@ -2254,15 +2388,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Bard, King of Dale`**](https://edhrec.com/commanders/bard-king-of-dale) · [[#Ranked list|table]]
 
 > [!info] Score 37 · Tokens
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 37 | **Variety** | 15 |
-> | **Identity** | {W}{U} | **Plan** | Tokens |
-> | **99 owned** | 16% (16/99) | **99 to buy** | 84% (83/99) |
-> | **Unused** | 342 | **Decks** | 2,949 |
-> | **Rank** | 865 | **Finish** | £451 |
-> | **Next box(s)** | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/TDM\|TDM]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [MKM](https://scryfall.com/sets/mkm) | **Cheese** | `mtg:Smothering Tithe`, `mtg:Rhystic Study`, `mtg:Cyclonic Rift`, `mtg:Fierce Guardianship`, `mtg:Grand Arbiter Augustin IV` |
->
+> | | |
+> |---|---|
+> | **Score** | 37 |
+> | **Variety** | 15 |
+> | **Identity** | {W}{U} |
+> | **Plan** | Tokens |
+> | **99 owned** | 16% (16/99) |
+> | **99 to buy** | 84% (83/99) |
+> | **Unused** | 342 |
+> | **Decks** | 2,949 |
+> | **Rank** | 865 |
+> | **Finish** | £451 |
+> | **Next box(s)** | [LTR](https://scryfall.com/sets/ltr) [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [WAR](https://scryfall.com/sets/war) [[06 Browse/Sets/TDM\|TDM]] [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [MKM](https://scryfall.com/sets/mkm) |
 >
 > {W}{U} **Tokens**. Goes wide with creature tokens. Overlaps Zurgo if that is the main plan.
 >
@@ -2287,15 +2425,19 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 [**`mtg:Urza, Prince of Kroog`**](https://edhrec.com/commanders/urza-prince-of-kroog) · [[#Ranked list|table]]
 
 > [!info] Score 36 · Artifacts
-> | | | | |
-> |---|---|---|---|
-> | **Score** | 36 | **Variety** | 15 |
-> | **Identity** | {W}{U} | **Plan** | Artifacts |
-> | **99 owned** | 10% (10/99) | **99 to buy** | 90% (89/99) |
-> | **Unused** | 342 | **Decks** | 2,458 |
-> | **Rank** | 976 | **Finish** | £307 |
-> | **Next box(s)** | [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] | **Cheese** | `mtg:Cyclonic Rift`, `mtg:Rhystic Study`, `mtg:Smothering Tithe`, `mtg:Fierce Guardianship` |
->
+> | | |
+> |---|---|
+> | **Score** | 36 |
+> | **Variety** | 15 |
+> | **Identity** | {W}{U} |
+> | **Plan** | Artifacts |
+> | **99 owned** | 10% (10/99) |
+> | **99 to buy** | 90% (89/99) |
+> | **Unused** | 342 |
+> | **Decks** | 2,458 |
+> | **Rank** | 976 |
+> | **Finish** | £307 |
+> | **Next box(s)** | [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [ONE](https://scryfall.com/sets/one) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] |
 >
 > {W}{U} **Artifacts**. Artifact ramp, bodies, and payoffs.
 >
@@ -2317,12 +2459,5 @@ Variety uses the **primary** EDHREC tag (and the next two) only — not every th
 
 ---
 
-## After you pick one
+Scoring: [[00 - Scoring]]. Confirm the commander in chat before running `mtg-deck-skill-builder`.
 
-1. Confirm the commander in chat (or scratch).
-2. Then, and only then, run `mtg-deck-skill-builder` for a new vault.
-3. Do not treat this page as inventory. Binders stay until that commit.
-
----
-
-*Contract written: 2026-09-02. Ranking filled: 2026-09-02.*

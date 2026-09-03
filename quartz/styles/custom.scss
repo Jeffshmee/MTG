@@ -923,43 +923,154 @@ body[data-slug^="collection/"] {
   grid-template-columns: 1fr;
 }
 
+/* Ranking why infobox: stats float left, plan stays in a BFC on the right.
+   Do not use grid-row span — extra implicit rows were the empty well under
+   both columns. Quartz .callout-content is already display:grid (fold). */
 .callout[data-callout="info"] .callout-content:has(> table):has(> p),
 .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) {
-  display: grid !important;
-  grid-template-columns: minmax(18rem, 0.95fr) minmax(16rem, 1.05fr);
-  gap: 0.4rem 1.5rem;
-  align-items: start;
+  display: block !important;
+  overflow: auto;
+  height: auto;
+  min-height: 0;
+  grid-template-rows: none;
+  padding-bottom: 0.35rem;
 }
 
 .callout[data-callout="info"] .callout-content:has(> table):has(> p) > table:first-of-type,
 .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > .table-container:first-of-type {
-  grid-column: 1;
-  grid-row: 1 / span 30;
-  width: 100%;
+  float: left;
+  width: 50%;
+  max-width: 38rem;
+  margin: 0 1.15rem 0.2rem 0;
+}
+
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > .table-container:first-of-type > table {
   margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
-.callout[data-callout="info"] .callout-content:has(> table):has(> p) > :not(table),
-.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > :not(.table-container) {
-  grid-column: 2;
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) > p,
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > p {
+  overflow: hidden;
+  margin: 0.28em 0;
 }
 
-@media (max-width: 1200px) {
-  .callout[data-callout="info"] .callout-content:has(> table):has(> p),
-  .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) {
-    grid-template-columns: 1fr;
-  }
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) > p:empty,
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > p:empty,
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) > p:has(> br:only-child),
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > p:has(> br:only-child) {
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 0;
+}
 
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) table thead,
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) table thead {
+  display: none;
+}
+
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) table th,
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) table td,
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) table th,
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) table td {
+  min-width: 0;
+  padding: 0.18em 0.5em;
+  line-height: 1.35;
+}
+
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) table td:first-child,
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) table td:first-child {
+  white-space: nowrap;
+  width: 1%;
+}
+
+.callout[data-callout="info"] .callout-content:has(> table):has(> p) table tr:last-child td:nth-child(n + 3),
+.callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) table tr:last-child td:nth-child(n + 3) {
+  display: none;
+}
+
+@media (max-width: 800px) {
   .callout[data-callout="info"] .callout-content:has(> table):has(> p) > table:first-of-type,
-  .callout[data-callout="info"] .callout-content:has(> table):has(> p) > :not(table),
-  .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > .table-container:first-of-type,
-  .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > :not(.table-container) {
-    grid-column: 1;
-    grid-row: auto;
+  .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > .table-container:first-of-type {
+    float: none;
+    width: 100%;
+    max-width: none;
+    margin: 0 0 0.6rem 0;
   }
 }
 
 .popover-inner .callout[data-callout="info"] .callout-content:has(> table):has(> p),
 .popover-inner .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) {
-  grid-template-columns: 1fr;
+  display: block !important;
+}
+
+.popover-inner .callout[data-callout="info"] .callout-content:has(> table):has(> p) > table:first-of-type,
+.popover-inner .callout[data-callout="info"] .callout-content:has(> .table-container):has(> p) > .table-container:first-of-type {
+  float: none;
+  width: 100%;
+  max-width: none;
+  margin: 0 0 0.6rem 0;
+}
+
+/* Commander ranking: horizontal scroll + hide spare columns on a phone */
+body[data-slug*="commander-ranking"] .ranking-list {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+  margin-inline: -0.25rem;
+}
+
+body[data-slug*="commander-ranking"] .ranking-list table {
+  font-size: 0.9rem;
+}
+
+body[data-slug*="commander-ranking"] .ranking-list th,
+body[data-slug*="commander-ranking"] .ranking-list td {
+  white-space: nowrap;
+}
+
+body[data-slug*="commander-ranking"] .ranking-list td:nth-child(2) {
+  white-space: normal;
+  max-width: 11rem;
+}
+
+@media (max-width: 800px) {
+  body[data-slug*="commander-ranking"] article {
+    font-size: 0.95rem;
+  }
+
+  body[data-slug*="commander-ranking"] .ranking-list table {
+    font-size: 0.82rem;
+  }
+
+  /* PAGE, Decks, Unused, Variety, Next box(s) */
+  body[data-slug*="commander-ranking"] .ranking-list th:nth-child(3),
+  body[data-slug*="commander-ranking"] .ranking-list td:nth-child(3),
+  body[data-slug*="commander-ranking"] .ranking-list th:nth-child(7),
+  body[data-slug*="commander-ranking"] .ranking-list td:nth-child(7),
+  body[data-slug*="commander-ranking"] .ranking-list th:nth-child(10),
+  body[data-slug*="commander-ranking"] .ranking-list td:nth-child(10),
+  body[data-slug*="commander-ranking"] .ranking-list th:nth-child(11),
+  body[data-slug*="commander-ranking"] .ranking-list td:nth-child(11),
+  body[data-slug*="commander-ranking"] .ranking-list th:nth-child(12),
+  body[data-slug*="commander-ranking"] .ranking-list td:nth-child(12) {
+    display: none;
+  }
+
+  body[data-slug*="commander-ranking"] .callout[data-callout="info"] .callout-content table {
+    font-size: 0.78rem;
+  }
+
+  body[data-slug*="commander-ranking"] .callout[data-callout="info"] .callout-content .table-container > table {
+    margin: 0;
+    padding: 0;
+  }
+
+  body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content,
+  body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content {
+    font-size: 0.85rem;
+    overflow-wrap: anywhere;
+  }
 }
