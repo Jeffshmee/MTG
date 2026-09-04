@@ -1,0 +1,48 @@
+name: Trade or sell offer
+description: You have a card from the wishlist and want to trade or sell it.
+title: "Offer: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this if you own a card on the [Card Wishlist](https://jeffshmee.github.io/MTG/collection/07-trades/02-card-wishlist/card-wishlist) and want to trade or sell it.
+  - type: input
+    id: card
+    attributes:
+      label: Card
+      description: Name as it appears on the wishlist.
+      placeholder: Cabal Coffers
+    validations:
+      required: true
+  - type: input
+    id: qty
+    attributes:
+      label: How many you have
+      placeholder: "1"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Trade or cash
+      options:
+        - Trade
+        - Cash
+        - Either
+    validations:
+      required: true
+  - type: textarea
+    id: asking
+    attributes:
+      label: What you want / price
+      description: Cards you want from Jeff, or a price in GBP.
+      placeholder: "Leaf-Crowned Visionary, or £15"
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: How to reach you
+      description: Discord, email, or other.
+    validations:
+      required: true

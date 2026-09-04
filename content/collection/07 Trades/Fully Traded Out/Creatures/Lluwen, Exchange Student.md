@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Elf\|Elf]] · [[04 Creature Types/Druid\|Druid]] |
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[07 Traded Out/01 - Trades Summary/Trades Summary\|Traded Out]] |
+| **Where** | [[07 Trades/01 - Trades Summary/Trades Summary\|Traded Out]] |
 
 </div>
 
@@ -63,7 +63,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[07 Traded Out/01 - Trades Summary/Trades Summary|Trades Summary]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Druid|Druid]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Legendary|Legendary]] · [[07 Traded Out/01 - Trades Summary/Trades Summary|Traded Out]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[07 Trades/01 - Trades Summary/Trades Summary|Trades Summary]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Druid|Druid]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Legendary|Legendary]] · [[07 Trades/01 - Trades Summary/Trades Summary|Traded Out]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 

@@ -4,7 +4,7 @@ title: Collection
 
 # Collection
 
-**1,840** cards · **1,159** names · **1,321** printings · ~**£666** listed
+**1,850** cards · **1,169** names · **1,331** printings · ~**£686** listed
 
 Source: `08 Assets/Manabox Master Sheet.csv`. Rebuild after editing the master or dropping an arrival CSV.
 
@@ -16,14 +16,14 @@ Source: `08 Assets/Manabox Master Sheet.csv`. Rebuild after editing the master o
 
 | Slice | Names | Copies |
 |-------|-------|--------|
-| White | 159 | 213 |
-| Blue | 174 | 223 |
+| White | 161 | 215 |
+| Blue | 180 | 229 |
 | Black | 142 | 188 |
 | Red | 140 | 188 |
-| Green | 154 | 231 |
-| Multi | 175 | 231 |
-| Colourless | 69 | 95 |
-| Lands | 95 | 285 |
+| Green | 153 | 230 |
+| Multi | 175 | 230 |
+| Colourless | 71 | 98 |
+| Lands | 96 | 286 |
 | Tokens | 51 | 186 |
 
 ---
@@ -32,9 +32,9 @@ Source: `08 Assets/Manabox Master Sheet.csv`. Rebuild after editing the master o
 
 | | |
 |--|--|
-| **Indexes** | [[02 Cards/Lands/01 - Summary\|Lands]] · [[02 Cards/Tokens/01 - Summary\|Tokens]] · [[07 Traded Out/01 - Trades Summary/Trades Summary\|Trades Summary]] · [[01 Catalogue/Catalogue\|Catalogue]] |
+| **Indexes** | [[02 Cards/Lands/01 - Summary\|Lands]] · [[02 Cards/Tokens/01 - Summary\|Tokens]] · [[07 Trades/01 - Trades Summary/Trades Summary\|Trades Summary]] · [[07 Trades/02 - Card Wishlist/Card Wishlist\|Card Wishlist]] · [[01 Catalogue/Catalogue\|Catalogue]] |
 | **Card type** | [[03 Card Types/Artifact\|Artifact]] · [[03 Card Types/Battle\|Battle]] · [[03 Card Types/Creature\|Creature]] · [[03 Card Types/Enchantment\|Enchantment]] · [[03 Card Types/Instant\|Instant]] · [[03 Card Types/Kindred\|Kindred]] · [[03 Card Types/Land\|Land]] · [[03 Card Types/Planeswalker\|Planeswalker]] · [[03 Card Types/Sorcery\|Sorcery]] · [[03 Card Types/Token\|Token]] |
-| **Land type** | [[06 Browse/Land Types/Duals\|Duals]] · [[06 Browse/Land Types/Cave\|Cave]] · [[06 Browse/Land Types/Forest\|Forest]] · [[06 Browse/Land Types/Gate\|Gate]] · [[06 Browse/Land Types/Island\|Island]] · [[06 Browse/Land Types/Mountain\|Mountain]] · [[06 Browse/Land Types/Plains\|Plains]] · [[06 Browse/Land Types/Swamp\|Swamp]] · [[06 Browse/Land Types/Town\|Town]] |
+| **Land type** | [[06 Browse/Land Types/Duals\|Duals]] · [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] · [[06 Browse/Land Types/Cave\|Cave]] · [[06 Browse/Land Types/Forest\|Forest]] · [[06 Browse/Land Types/Gate\|Gate]] · [[06 Browse/Land Types/Island\|Island]] · [[06 Browse/Land Types/Mountain\|Mountain]] · [[06 Browse/Land Types/Plains\|Plains]] · [[06 Browse/Land Types/Swamp\|Swamp]] · [[06 Browse/Land Types/Town\|Town]] |
 | **Colour** | [[05 Colours/White\|White]] · [[05 Colours/Blue\|Blue]] · [[05 Colours/Black\|Black]] · [[05 Colours/Red\|Red]] · [[05 Colours/Green\|Green]] · [[05 Colours/Multi\|Multi]] · [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] · [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] · [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] · [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] · [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] · [[06 Browse/Mana Costs/Mana (5)\|Mana (5)]] · [[06 Browse/Mana Costs/Mana (6)\|Mana (6)]] · [[06 Browse/Mana Costs/Mana (7)\|Mana (7)]] · [[06 Browse/Mana Costs/Mana (8)\|Mana (8)]] · [[06 Browse/Mana Costs/Mana (10)\|Mana (10)]] · [[06 Browse/Mana Costs/Mana (11)\|Mana (11)]] |
 | **Rarity** | [[06 Browse/Rarities/1 Common\|Common]] · [[06 Browse/Rarities/2 Uncommon\|Uncommon]] · [[06 Browse/Rarities/3 Rare\|Rare]] · [[06 Browse/Rarities/4 Mythic\|Mythic]] · [[06 Browse/Rarities/5 Special\|Special]] |

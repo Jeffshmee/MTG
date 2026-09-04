@@ -17,6 +17,7 @@
 |----------|-------|
 | **Card type** | [[03 Card Types/Land\|Land]] |
 | **Creature type** | — |
+| **Land type** | [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
 | **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
@@ -66,7 +67,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Legendary Lands|Legendary Lands]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]]
 
 ---
 

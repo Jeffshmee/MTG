@@ -1074,3 +1074,10 @@ body[data-slug*="commander-ranking"] .ranking-list td:nth-child(2) {
     overflow-wrap: anywhere;
   }
 }
+
+// Wishlist MageCards paste: click selects the whole block for copy.
+.magecards-paste pre,
+.magecards-paste code {
+  user-select: all;
+  -webkit-user-select: all;
+}

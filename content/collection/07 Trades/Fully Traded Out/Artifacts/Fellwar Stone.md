@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[07 Traded Out/01 - Trades Summary/Trades Summary\|Traded Out]] |
+| **Where** | [[07 Trades/01 - Trades Summary/Trades Summary\|Traded Out]] |
 
 </div>
 
@@ -63,7 +63,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[07 Traded Out/01 - Trades Summary/Trades Summary|Trades Summary]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[07 Traded Out/01 - Trades Summary/Trades Summary|Traded Out]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[07 Trades/01 - Trades Summary/Trades Summary|Trades Summary]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[07 Trades/01 - Trades Summary/Trades Summary|Traded Out]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
 
 ---
 
