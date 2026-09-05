@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ghostly Flicker`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{U}  
 > **Type:** Instant  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:91%"></div></div>
 >
-> ![Ghostly Flicker](https://cards.scryfall.io/border_crop/front/d/c/dc143ba3-2a58-4980-9fa0-a05a9e9ed082.jpg)
+> ![Ghostly Flicker](https://cards.scryfall.io/border_crop/front/8/c/8cf1402d-6506-4c33-b069-700741a6df81.jpg)
 >
 > ### Deck Scores
 >
@@ -48,11 +48,11 @@
 
 ## Deck Role & Rating
 
-Flicker blinks two artifacts, creatures, and/or lands you control. Fair: Channeler plus a land, or Hunter plus Solemn. Infinite: Flicker Archaeomancer and Drake; Archaeomancer returns Flicker; Drake pays. Not in the owned 65. Buy-rank 4.
+Flicker blinks two artifacts, creatures, and/or lands you control. Fair: Channeler plus a land, or Hunter plus Solemn. Infinite: Flicker Archaeomancer and Drake; Archaeomancer returns Flicker; Drake pays. In the 100 (The List KHC-39). Drake is still ordered.
 
 ## Play Patterns & Lines
 
-- Not in the owned 65. Buy the combo four in one basket (Flicker, Archaeomancer, Drake, Deadeye).
+- In hand. Archaeomancer and Deadeye are already in the 100. Drake is still ordered.
 - Two-card: Deadeye soulbond Drake, {1}{U} flicker Drake, untap five, net mana, repeat. Dump into Channeler (bounce) or Mulldrifter (draw).
 - Three-card: Flicker Archaeomancer and Drake. Archaeomancer returns Flicker. Same dump.
 - Fair: Drake is five mana of untap; Flicker is two permanents; Archaeomancer is Unsummon / Roil from the yard. Play them without the loop.
@@ -67,7 +67,6 @@ Flicker blinks two artifacts, creatures, and/or lands you control. Fair: Channel
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
 - Kykar's blink is delayed. Do not block with the blinked creature; it is gone until end of turn.
 
 ## Related Pages
@@ -91,15 +90,15 @@ Flicker blinks two artifacts, creatures, and/or lands you control. Fair: Channel
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 94
 >   combined: 91
-> scryfall_id: dc143ba3-2a58-4980-9fa0-a05a9e9ed082
+> scryfall_id: 8cf1402d-6506-4c33-b069-700741a6df81
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - instant
 > ```
 

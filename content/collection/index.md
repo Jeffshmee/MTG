@@ -4,7 +4,7 @@ title: Collection
 
 # Collection
 
-**1,926** cards · **1,189** names · **1,378** printings · ~**£738** listed
+**1,934** cards · **1,192** names · **1,386** printings · ~**£742** listed
 
 Source: `08 Assets/Manabox Master Sheet.csv`. Rebuild after editing the master or dropping an arrival CSV.
 
@@ -17,13 +17,13 @@ Source: `08 Assets/Manabox Master Sheet.csv`. Rebuild after editing the master o
 | Slice | Names | Copies |
 |-------|-------|--------|
 | White | 166 | 220 |
-| Blue | 182 | 231 |
+| Blue | 184 | 233 |
 | Black | 143 | 189 |
 | Red | 141 | 189 |
 | Green | 155 | 232 |
-| Multi | 178 | 235 |
+| Multi | 179 | 236 |
 | Colourless | 72 | 99 |
-| Lands | 99 | 321 |
+| Lands | 99 | 326 |
 | Tokens | 53 | 210 |
 
 ---

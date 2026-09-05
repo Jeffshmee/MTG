@@ -2,12 +2,13 @@
 
 Card type: Sorcery.
 
-**235** copies · **167** names.
+**236** copies · **168** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Ancestral Anger`**](https://scryfall.com/card/sos/106) | [[02 Cards/Sorceries/Ancestral Anger\|PAGE]] | {R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.08 |
 | [**`mtg:Boltwave`**](https://scryfall.com/card/fdn/79) | [[02 Cards/Sorceries/Boltwave\|PAGE]] | {R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.03 |
+| [**`mtg:Boomerang Basics`**](https://scryfall.com/card/tla/46) | [[02 Cards/Sorceries/Boomerang Basics\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.92 |
 | [**`mtg:Bushwhack`**](https://scryfall.com/card/fdn/215) | [[02 Cards/Sorceries/Bushwhack\|PAGE]] | {G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.20 |
 | [**`mtg:Crash Through`**](https://scryfall.com/card/fdn/620) | [[02 Cards/Sorceries/Crash Through\|PAGE]] | {R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.25 |

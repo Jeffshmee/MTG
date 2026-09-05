@@ -1076,8 +1076,80 @@ body[data-slug*="commander-ranking"] .ranking-list td:nth-child(2) {
   body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content,
   body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content {
     font-size: 0.85rem;
-    overflow-wrap: anywhere;
   }
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"]:not(.is-collapsed),
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"]:not(.is-collapsed) {
+  display: flex !important;
+  flex-direction: column !important;
+  max-height: 22rem;
+  overflow: hidden;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"]:not(.is-collapsed) > .callout-content,
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"]:not(.is-collapsed) > .callout-content {
+  display: block !important;
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: hidden;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .sleeve-table-scroll,
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .sleeve-table-scroll {
+  max-height: 18rem;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content .table-container,
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content .table-container {
+  overflow: visible;
+  margin: 0;
+  padding: 0;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content table,
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content table {
+  font-size: 0.85rem;
+  width: 100%;
+  margin: 0;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content th,
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content td,
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content th,
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content td {
+  padding: 0.18em 0.55em;
+  vertical-align: top;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content td:nth-child(2),
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content td:nth-child(2) {
+  white-space: nowrap;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content td:nth-child(4),
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content td:nth-child(4) {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content thead th,
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="success"] .callout-content thead th {
+  background: #1e4a24;
+}
+
+body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-content thead th {
+  background: #4a4a4a;
 }
 
 // Wishlist MageCards paste: click selects the whole block for copy.
@@ -1085,4 +1157,55 @@ body[data-slug*="commander-ranking"] .ranking-list td:nth-child(2) {
 .magecards-paste code {
   user-select: all;
   -webkit-user-select: all;
+}
+
+// Folder index: compact A–Z table instead of Quartz's date + H3 list.
+.page-listing {
+  margin-top: 1.1rem;
+}
+
+.page-listing .table-container > table.folder-index-table {
+  margin: 0;
+  padding: 0;
+}
+
+.folder-index-table th,
+.folder-index-table td {
+  min-width: 0;
+  padding: 0.28em 0.7em;
+  line-height: 1.35;
+  font-size: 0.95rem;
+  vertical-align: middle;
+}
+
+.folder-index-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: #2a2a2a;
+}
+
+.folder-index-table tbody tr:hover td {
+  background: #2a2a2a;
+}
+
+.folder-index-table tr.is-folder td:first-child {
+  font-weight: 600;
+}
+
+.folder-index-table td:first-child {
+  min-width: 12rem;
+}
+
+.folder-index-table .folder-index-cost {
+  white-space: nowrap;
+}
+
+.folder-index-table .folder-index-qty {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.popover-inner .folder-index-table {
+  font-size: 0.88rem;
 }

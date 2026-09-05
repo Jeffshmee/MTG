@@ -2,7 +2,7 @@
 
 Creature type: Wizard.
 
-**79** copies · **56** names.
+**80** copies · **57** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -30,6 +30,7 @@ Creature type: Wizard.
 | [**`mtg:Cloudkin Seer`**](https://scryfall.com/card/clu/82) | [[02 Cards/Creatures/Cloudkin Seer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |
 | [**`mtg:Crackling Cyclops`**](https://scryfall.com/card/fdn/83) | [[02 Cards/Creatures/Crackling Cyclops\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cyclops\|Cyclops]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.15 |
 | [**`mtg:Deluge Virtuoso`**](https://scryfall.com/card/sos/42) | [[02 Cards/Creatures/Deluge Virtuoso\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.16 |
+| [**`mtg:Deputy of Detention`**](https://scryfall.com/card/rna/165) | [[02 Cards/Creatures/Deputy of Detention\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Dragonologist`**](https://scryfall.com/card/tdm/295) | [[02 Cards/Creatures/Dragonologist\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.45 |
 | [**`mtg:Encouraging Aviator`**](https://scryfall.com/card/sos/46) | [[02 Cards/Creatures/Encouraging Aviator\|PAGE]] | {2}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.12 |
 | [**`mtg:Harnesser of Storms`**](https://scryfall.com/card/blb/137) | [[02 Cards/Creatures/Harnesser of Storms\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Otter\|Otter]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |

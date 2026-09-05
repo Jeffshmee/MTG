@@ -2,7 +2,7 @@
 
 Card type: Creature.
 
-**813** copies · **606** names.
+**814** copies · **607** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -47,7 +47,7 @@ Card type: Creature.
 | [**`mtg:Sacred Cat`**](https://scryfall.com/card/akh/27) | [[02 Cards/Creatures/Sacred Cat\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.58 |
 | [**`mtg:Savannah Lions`**](https://scryfall.com/card/fdn/146) | [[02 Cards/Creatures/Savannah Lions\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.08 |
 | [**`mtg:Soulbright Seeker`**](https://scryfall.com/card/ecl/157) | [[02 Cards/Creatures/Soulbright Seeker\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.04 |
-| [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.42 |
+| [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.40 |
 | [**`mtg:Stromkirk Noble`**](https://scryfall.com/card/fdn/632) | [[02 Cards/Creatures/Stromkirk Noble\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.19 |
 | [**`mtg:Studious First-Year`**](https://scryfall.com/card/sos/162) | [[02 Cards/Creatures/Studious First-Year\|PAGE]] | {G} // {1}{G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bear\|Bear]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.26 |
 | [**`mtg:Virulent Emissary`**](https://scryfall.com/card/ecl/202) | [[02 Cards/Creatures/Virulent Emissary\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Assassin\|Assassin]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 1.72 |
@@ -238,6 +238,7 @@ Card type: Creature.
 | [**`mtg:Cult Healer`**](https://scryfall.com/card/dsk/2) | [[02 Cards/Creatures/Cult Healer\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Doctor\|Doctor]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Dalkovan Packbeasts`**](https://scryfall.com/card/tdm/7) | [[02 Cards/Creatures/Dalkovan Packbeasts\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Ox\|Ox]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Deluge Virtuoso`**](https://scryfall.com/card/sos/42) | [[02 Cards/Creatures/Deluge Virtuoso\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.16 |
+| [**`mtg:Deputy of Detention`**](https://scryfall.com/card/rna/165) | [[02 Cards/Creatures/Deputy of Detention\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Dragonologist`**](https://scryfall.com/card/tdm/295) | [[02 Cards/Creatures/Dragonologist\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.45 |
 | [**`mtg:Draugr Thought-Thief`**](https://scryfall.com/card/khm/55) | [[02 Cards/Creatures/Draugr Thought-Thief\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Dreadwing Scavenger`**](https://scryfall.com/card/fdn/118) | [[02 Cards/Creatures/Dreadwing Scavenger\|PAGE]] | {1}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Nightmare\|Nightmare]] [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.14 |

@@ -18,6 +18,7 @@ How the next 100 is scored. The ranked list is [[01 - Commander Ranking]]. Colle
 - [[#Finish cost]]
 - [[#Kykar earmarked]]
 - [[#Earmarked commander]]
+- [[#Unowned watch]]
 - [[#After you pick one]]
 
 ---
@@ -42,7 +43,7 @@ One Combined number, five parts. Raw columns stay on the table so you can ignore
 
 | Part | Weight | What it measures |
 |------|--------|------------------|
-| **Collection fit** | **30** | Share of that commander’s EDHREC **99** you can sleeve from **unused** cards (land slots; basics as copies) |
+| **Collection fit** | **30** | Share of that commander’s **line 99** you can sleeve from **unused** cards (land slots; basics as copies) |
 | **Variety** | **30** | New identity and a new plan vs the three 100s above |
 | **EDHREC rank** | **20** | How established the commander is (All bracket, deck count, log scale) |
 | **Next box** | **10** | Missing synergy cards clustered in a Play Booster set you barely have |
@@ -66,7 +67,7 @@ Each part is 0–100 before weighting.
 
 - Maralen, Zurgo, Kykar as “new” commanders
 - Tokens, legendary lands, backgrounds-only
-- Commanders you do not own (no “buy the general, then 80 cards”)
+- Commanders you do not own — they do **not** enter the ranked pool. A separate **Unowned watch** table is for generals you may buy. Fit is still the 99 from unused paper; you still have to buy the commander.
 
 ---
 
@@ -81,7 +82,7 @@ A name counts as available if **all** of these are true:
 
 Lands count the same as spells. Duals, basics, and rocks are just cards in the 99.
 
-**Ideal 99** for Fit = EDHREC High Synergy + Average Deck + land slots (about 36). Basics count as copies (`Plains` ×8), not one name. Named lands that do not fit remaining slots are dropped.
+**Ideal 99** for Fit = the cards that make **that commander’s line** best, scored the same way a real 100 is scored: **General** (curve, category, mana efficiency, raw power) and **Deck-Specific** (commander text, win condition, tribal/keyword match, EDHREC synergy), Combined = `(0.4 × General) + (0.6 × Deck-Specific)`. EDHREC High Synergy and type lists are the candidate pool and a **soft** type mix — not a dump-in order. Unused identity-legal paper is in the pool, so an owned bomb (Regal Caracal in Cats) is scored even if it is not first on EDHREC’s creature list. Type counts may bend so a line-critical card beats a generic staple. Basics count as copies (`Plains` ×8), not one name. Named lands that do not fit remaining slots are dropped.
 
 **Fit score** = % of those 99 slots you can sleeve from the unused pool.
 
@@ -137,6 +138,14 @@ Displacer Kitten, Ephemerate, Aetherize, Ghostly Flicker, Archaeomancer, Peregri
 | Commander | Where it sits | Why it is here |
 |-----------|---------------|----------------|
 | [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/ltr/192/bard-king-of-dale) | Kykar sideboard (owned extra, not in the 80) | You named him. Azorius extra-draw + token doubling. Score him anyway. |
+
+---
+
+## Unowned watch
+
+Arahbo, the First Fang is already in the owned ranked list (mono-white Cats: go-wide tokens, lifegain into Ajani's Pridemate, go-tall Skyknight Squire, recur with Restoration Seminar / Helping Hand). The line wants a general that **opens green** so more of the tribe and ramp fit.
+
+[**`mtg:Arahbo, Roar of the World`**](https://edhrec.com/commanders/arahbo-roar-of-the-world) is the classic Cat commander (Selesnya). Eminence pumps a Cat each combat; First Fang stays in the 99 as the token engine. Not owned — watch table only. If you later buy him, he leaves that table and enters the ranked pool on the next rescore.
 
 ---
 

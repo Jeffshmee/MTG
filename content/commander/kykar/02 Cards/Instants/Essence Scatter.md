@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Essence Scatter`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{U}  
 > **Type:** Instant  
 >
@@ -86,7 +86,7 @@ Essence Scatter is interaction at {1}{U}. Hold it for the spell that would remov
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 72
 >   deck_specific: 74
@@ -94,7 +94,7 @@ Essence Scatter is interaction at {1}{U}. Hold it for the spell that would remov
 > scryfall_id: 32840097-0531-4c43-b6a8-e76c17420b04
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - instant
 > ```
 

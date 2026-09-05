@@ -34,6 +34,7 @@
 | 02/09/2026 | Booster haul |
 | 04/09/2026 | MageCards · MTG_Factory |
 | 04/09/2026 | MageCards · Axion_Now |
+| 05/09/2026 | MageCards · MtgGambit |
 
 </div>
 
@@ -42,7 +43,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>37</div>
+<div class="synergy-score-num"><span>Copies</span>39</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -68,6 +69,8 @@
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>271</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
 <tr><td>The Lord of the Rings: Tales of Middle-earth (<code>LTR</code>)</td><td>267</td><td>foil</td><td>1</td><td>Maralen</td><td>0.16</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>282</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.11</td></tr>
+<tr><td>Magic Origins (<code>ORI</code>)</td><td>263</td><td>foil</td><td>1</td><td>Box</td><td>0.26</td></tr>
+<tr><td>Throne of Eldraine (<code>ELD</code>)</td><td>258</td><td>foil</td><td>1</td><td>Box</td><td>0.17</td></tr>
 </tbody>
 </table>
 </div>
@@ -120,6 +123,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>ECL 276 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/e/4/e4f184c5-4f3c-4aea-afa1-f0903d3cc71a.jpg" alt="Swamp ELD 258 · ×1">
+<figcaption>ELD 258 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/6/f/6f23a73a-522b-40cf-a14b-ffdf47a24c01.jpg" alt="Swamp FDN 286 · ×1">
 <figcaption>FDN 286 · ×1</figcaption>
 </figure>
@@ -130,6 +137,10 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/d/8/d86cd8fb-4ba7-4311-b0f3-b06fa112eda5.jpg" alt="Swamp LTR 267 · ×1">
 <figcaption>LTR 267 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/a/6/a63b7238-ebdc-4dd8-b799-1ca33c14163b.jpg" alt="Swamp ORI 263 · ×1">
+<figcaption>ORI 263 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/7/1797d5c7-d3fa-4184-85ae-46db14ddf523.jpg" alt="Swamp SOS 269 · ×1">
@@ -151,7 +162,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ORI|Magic Origins]] · [[06 Browse/Sets/ELD|Throne of Eldraine]]
 
 ---
 
@@ -164,7 +175,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Swamp"
 > scryfall_id: 13505c15-14e0-4200-82bd-fb9bce949e68
-> quantity: 37
+> quantity: 39
 > tags:
 >   - card
 >   - collection

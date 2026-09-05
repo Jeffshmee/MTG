@@ -1,5 +1,7 @@
 document.addEventListener("nav", () => {
-  const tables = document.querySelectorAll<HTMLTableElement>("article table, .markdown-rendered table")
+  const tables = document.querySelectorAll<HTMLTableElement>(
+    "article table, .markdown-rendered table, .page-listing table, table.folder-index-table",
+  )
   for (const table of tables) {
     const headRow = table.tHead?.rows[0] ?? table.querySelector("tr")
     if (!headRow || table.dataset.sortReady === "true") {
@@ -19,11 +21,39 @@ document.addEventListener("nav", () => {
       })
     })
     const manaCol = headers.findIndex((th) => /^\s*mana\s*$/i.test(th.textContent ?? ""))
+    const typeCol = headers.findIndex((th) => isTypeHeader(th.textContent ?? ""))
     if (manaCol >= 0) {
       sortTable(table, manaCol, "asc")
+    } else if (typeCol >= 0) {
+      sortTable(table, typeCol, "asc")
     }
   }
 })
+
+const TYPE_BUCKETS: [string, number][] = [
+  ["creature", 0],
+  ["planeswalker", 1],
+  ["instant", 2],
+  ["sorcery", 3],
+  ["enchantment", 4],
+  ["artifact", 5],
+  ["battle", 6],
+  ["land", 7],
+]
+
+function isTypeHeader(text: string): boolean {
+  return /^(card\s*type|creature\s*type|type)$/i.test(text.trim())
+}
+
+function typeBucketKey(value: string): string {
+  const lower = value.toLowerCase()
+  for (const [name, n] of TYPE_BUCKETS) {
+    if (lower.startsWith(name) || new RegExp(`\\b${name}\\b`).test(lower)) {
+      return `${n}-${value}`
+    }
+  }
+  return `8-${value}`
+}
 
 function sortTable(table: HTMLTableElement, col: number, force?: "asc" | "desc") {
   const tbody = table.tBodies[0]
@@ -42,14 +72,25 @@ function sortTable(table: HTMLTableElement, col: number, force?: "asc" | "desc")
   th.dataset.sort = next
   const rows = [...tbody.rows]
   const dir = next === "asc" ? 1 : -1
-  rows.sort((a, b) => dir * cmp(cellValue(a.cells[col]), cellValue(b.cells[col])))
+  const typeCol = isTypeHeader(th.textContent ?? "")
+  rows.sort((a, b) => {
+    const av = cellValue(a.cells[col])
+    const bv = cellValue(b.cells[col])
+    if (typeCol) {
+      return dir * typeBucketKey(av).localeCompare(typeBucketKey(bv), undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
+    return dir * cmp(av, bv)
+  })
   for (const row of rows) {
     tbody.append(row)
   }
 }
 
 function cellValue(cell: HTMLTableCellElement | undefined): string {
-  return (cell?.textContent ?? "").trim()
+  return (cell?.dataset.sort ?? cell?.textContent ?? "").trim()
 }
 
 function cmp(a: string, b: string): number {

@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
+| **Where** | [[06 Browse/Box\|Box]] |
 
 </div>
 
@@ -44,16 +44,11 @@
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>153</td><td>—</td><td>1</td><td>Box</td><td>0.04</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>47</td><td>—</td><td>1</td><td>Box</td><td>0.05</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>47</td><td>—</td><td>1</td><td>Kykar</td><td>0.05</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>47</td><td>—</td><td>2</td><td>Box</td><td>0.05</td></tr>
 </tbody>
 </table>
 </div>
 </div>
-
-## In decks
-
-- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -72,7 +67,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/Blue|Blue]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/Blue|Blue]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 

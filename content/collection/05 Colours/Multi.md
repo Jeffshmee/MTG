@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**235** copies · **178** names.
+**236** copies · **179** names.
 
 ```decklist
 group: auto
@@ -32,6 +32,7 @@ legality: commander
 2 Colossus of the Blood Age
 1 Consuming Aberration
 1 Cuboid Colony
+1 Deputy of Detention
 1 Dreadwing Scavenger
 1 Drogskol Reaver
 1 Dryad Militant

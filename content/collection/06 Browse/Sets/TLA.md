@@ -2,7 +2,7 @@
 
 Set `TLA`. Qty here is copies of this name from this set.
 
-**31** copies · **30** names.
+**32** copies · **31** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,6 +10,7 @@ Set `TLA`. Qty here is copies of this name from this set.
 | [**`mtg:Meditation Pools`**](https://scryfall.com/card/tla/272) | [[02 Cards/Lands/Meditation Pools\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.07 |
 | [**`mtg:Rumble Arena`**](https://scryfall.com/card/tla/277) | [[02 Cards/Lands/Rumble Arena\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.06 |
 | [**`mtg:Secret Tunnel`**](https://scryfall.com/card/tla/278) | [[02 Cards/Lands/Secret Tunnel\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Cave\|Cave]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 1.73 |
+| [**`mtg:Boomerang Basics`**](https://scryfall.com/card/tla/46) | [[02 Cards/Sorceries/Boomerang Basics\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.92 |
 | [**`mtg:Northern Air Temple`**](https://scryfall.com/card/tla/111) | [[02 Cards/Enchantments/Northern Air Temple\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:Pillar Launch`**](https://scryfall.com/card/tla/189) | [[02 Cards/Instants/Pillar Launch\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Accumulate Wisdom`**](https://scryfall.com/card/tla/44) | [[02 Cards/Instants/Accumulate Wisdom\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.37 |

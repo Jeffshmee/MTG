@@ -2,7 +2,7 @@
 
 Rarity: uncommon.
 
-**492** copies · **389** names.
+**493** copies · **390** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -17,6 +17,7 @@ Rarity: uncommon.
 | [**`mtg:Skycoach Waypoint`**](https://scryfall.com/card/sos/261) | [[02 Cards/Lands/Skycoach Waypoint\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.09 |
 | [**`mtg:An Offer You Can't Refuse`**](https://scryfall.com/card/fdn/160) | [[02 Cards/Instants/An Offer You Can't Refuse\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.29 |
 | [**`mtg:Boltwave`**](https://scryfall.com/card/fdn/79) | [[02 Cards/Sorceries/Boltwave\|PAGE]] | {R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.03 |
+| [**`mtg:Boomerang Basics`**](https://scryfall.com/card/tla/46) | [[02 Cards/Sorceries/Boomerang Basics\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.92 |
 | [**`mtg:Dawn-Blessed Pennant`**](https://scryfall.com/card/ecl/254) | [[02 Cards/Artifacts/Dawn-Blessed Pennant\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.60 |
 | [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.25 |
 | [**`mtg:Deathmark`**](https://scryfall.com/card/fdn/601) | [[02 Cards/Sorceries/Deathmark\|PAGE]] | {B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
@@ -60,7 +61,7 @@ Rarity: uncommon.
 | [**`mtg:Soul-Guide Lantern`**](https://scryfall.com/card/eoc/143) | [[02 Cards/Artifacts/Soul-Guide Lantern\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
 | [**`mtg:Soulbright Seeker`**](https://scryfall.com/card/ecl/157) | [[02 Cards/Creatures/Soulbright Seeker\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.04 |
 | [**`mtg:Spectral Denial`**](https://scryfall.com/card/tdm/58) | [[02 Cards/Instants/Spectral Denial\|PAGE]] | {X}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
-| [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.42 |
+| [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.40 |
 | [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.36 |
 | [**`mtg:Swords to Plowshares`**](https://scryfall.com/card/soc/179) | [[02 Cards/Instants/Swords to Plowshares\|PAGE]] | {W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 1.78 |
 | [**`mtg:Vampiric Rites`**](https://scryfall.com/card/fdn/615) | [[02 Cards/Enchantments/Vampiric Rites\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.18 |

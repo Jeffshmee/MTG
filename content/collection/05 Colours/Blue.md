@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**231** copies · **182** names.
+**233** copies · **184** names.
 
 ```decklist
 group: auto
@@ -129,6 +129,7 @@ legality: commander
 1 Flashfreeze
 1 Fractal Anomaly
 1 Fractalize
+1 Ghostly Flicker
 2 Homesickness
 1 Illusionist's Gambit
 1 Into the Flood Maw
@@ -159,6 +160,7 @@ legality: commander
 1 Unsummon
 
 # Sorceries
+1 Boomerang Basics
 1 Chart a Course
 1 Distant Melody
 1 Echocasting Symposium

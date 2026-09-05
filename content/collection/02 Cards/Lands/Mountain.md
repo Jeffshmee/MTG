@@ -31,6 +31,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 05/09/2026 | MageCards · MtgGambit |
 
 </div>
 
@@ -39,23 +40,23 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>27</div>
+<div class="synergy-score-num"><span>Copies</span>28</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Bloomburrow (<code>BLB</code>)</td><td>275</td><td>—</td><td>1</td><td>Box</td><td>0.21</td></tr>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>284</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>284</td><td>—</td><td>2</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>283</td><td>—</td><td>2</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>278</td><td>—</td><td>8</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>279</td><td>—</td><td>8</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>283</td><td>—</td><td>1</td><td>Zurgo</td><td>0.10</td></tr>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>284</td><td>—</td><td>1</td><td>Zurgo</td><td>0.10</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>289</td><td>—</td><td>1</td><td>Zurgo</td><td>0.17</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>288</td><td>—</td><td>1</td><td>Zurgo</td><td>0.17</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>279</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>270</td><td>—</td><td>1</td><td>Zurgo</td><td>0.47</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>278</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Core Set 2019 (<code>M19</code>)</td><td>276</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.11</td></tr>
 </tbody>
 </table>
 </div>
@@ -99,6 +100,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>FDN 289 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/b/bb4004c8-c3d9-494e-a257-6d8443cbf1b7.jpg" alt="Mountain M19 276 · ×1">
+<figcaption>M19 276 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.jpg" alt="Mountain SOS 270 · ×1">
 <figcaption>SOS 270 · ×1</figcaption>
 </figure>
@@ -114,7 +119,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Mountain|Mountain]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Mountain|Mountain]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/M19|Core Set 2019]]
 
 ---
 
@@ -127,7 +132,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Mountain"
 > scryfall_id: 279df7e2-2a3b-464a-a7df-e91da28e3a8c
-> quantity: 27
+> quantity: 28
 > tags:
 >   - card
 >   - collection

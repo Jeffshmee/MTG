@@ -100,6 +100,10 @@ export function pipsFromString(value: string): Element[] {
   return splitPips(value).filter((node): node is Element => node.type === "element")
 }
 
+export function costNodes(value: string): ElementContent[] {
+  return splitPips(value)
+}
+
 function splitPips(value: string): ElementContent[] {
   if (!value.includes("{")) {
     return [{ type: "text", value }]

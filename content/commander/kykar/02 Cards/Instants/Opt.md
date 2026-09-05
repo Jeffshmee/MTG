@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Opt`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {U}  
 > **Type:** Instant  
 >
@@ -88,7 +88,7 @@ Opt is a cantrip or refill at {U}. Noncreature, so [[02 Cards/Creatures/Kykar, Z
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Scry"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 86
 >   deck_specific: 92
@@ -96,7 +96,7 @@ Opt is a cantrip or refill at {U}. Noncreature, so [[02 Cards/Creatures/Kykar, Z
 > scryfall_id: 58d26b54-0093-4e90-a2b1-b57c64340f9c
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - instant
 > ```
 

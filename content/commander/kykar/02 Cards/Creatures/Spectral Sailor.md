@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Spectral Sailor`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {U}  
 > **Type:** Creature — Spirit Pirate  
 > **P/T:** 1/1  
@@ -90,7 +90,7 @@ Spectral Sailor is an ETB draw body at {U}. Blink it with [[02 Cards/Creatures/K
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Flying", "Flash"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 72
 >   deck_specific: 74
@@ -98,7 +98,7 @@ Spectral Sailor is an ETB draw body at {U}. Blink it with [[02 Cards/Creatures/K
 > scryfall_id: 03a49535-c5f3-4a6f-b333-7ac7bffdc9ae
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

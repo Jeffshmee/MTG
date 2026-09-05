@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Deputy of Detention`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}{U}  
 > **Type:** Creature — Vedalken Wizard  
 > **P/T:** 1/3  
@@ -49,13 +49,13 @@
 
 ## Deck Role & Rating
 
-Deputy of Detention is an ETB at {1}{W}{U}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). ETB exile a permanent and every same-name copy that player controls. Token-pile wipe. It is not in the owned 65 yet.
+Deputy of Detention is an ETB at {1}{W}{U}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). ETB exile a permanent and every same-name copy that player controls. Token-pile wipe. In the 100.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- In the 100. Cut Spectral Sailor to the sideboard.
 
 ## Key Synergies
 
@@ -65,7 +65,6 @@ Deputy of Detention is an ETB at {1}{W}{U}. Blink it: [[02 Cards/Creatures/Kykar
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
 
 ## Related Pages
 
@@ -88,7 +87,7 @@ Deputy of Detention is an ETB at {1}{W}{U}. Blink it: [[02 Cards/Creatures/Kykar
 > colors: ["U", "W"]
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 95
@@ -96,7 +95,7 @@ Deputy of Detention is an ETB at {1}{W}{U}. Blink it: [[02 Cards/Creatures/Kykar
 > scryfall_id: 7e362055-78a1-48fa-a4ef-6cf7e0b21b14
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

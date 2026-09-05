@@ -8,7 +8,7 @@ Play order, blink-target priority, and bounce-the-engine live on [[06 Strategy/P
 
 ---
 
-## 1. Combo — Deadeye / Drake (primary, not in hand yet)
+## 1. Combo — Deadeye / Drake (primary; Drake still ordered)
 
 **How it wins:** infinite mana, then dump into bounce or draw until the table is empty or you have lethal flyers.
 
@@ -22,7 +22,7 @@ Play order, blink-target priority, and bounce-the-engine live on [[06 Strategy/P
 
 Commander still has to draw both, cast both, and not get stopped. That is the interaction window — hold [[02 Cards/Instants/An Offer You Can't Refuse|Offer]]. Felidar / Saheeli is a different combo; leave it off.
 
-Buy ranks: Flicker 4, Archaeomancer 5, Drake 6, Deadeye 7.
+Deadeye, Archaeomancer, and Flicker are in the 100. Drake is still ordered.
 
 ---
 
@@ -36,7 +36,7 @@ Buy ranks: Flicker 4, Archaeomancer 5, Drake 6, Deadeye 7.
 - Exile until leaves: [[02 Cards/Enchantments/Stormplain Detainment|Stormplain Detainment]], [[02 Cards/Enchantments/Stasis Snare|Stasis Snare]], [[02 Cards/Creatures/Kitesail Larcenist|Kitesail Larcenist]] (Treasure overlay)
 - Mass: [[02 Cards/Sorceries/River's Rebuke|River's Rebuke]], [[02 Cards/Sorceries/Flood of Tears|Flood of Tears]], [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]]
 
-**Pending:** [[02 Cards/Instants/Aetherize|Aetherize]] (instant attack wipe), [[02 Cards/Creatures/Reflector Mage|Reflector Mage]] (bounce + name-lock), [[02 Cards/Creatures/Deputy of Detention|Deputy of Detention]] (name exile).
+**Live:** [[02 Cards/Instants/Aetherize|Aetherize]] (instant attack wipe), [[02 Cards/Creatures/Reflector Mage|Reflector Mage]] (bounce + name-lock), [[02 Cards/Creatures/Deputy of Detention|Deputy of Detention]] (name exile), [[02 Cards/Instants/Ghostly Flicker|Ghostly Flicker]] (blink two; three-card loop with Archaeomancer once Drake arrives).
 
 Point spot bounce at the **engine**.
 

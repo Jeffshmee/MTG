@@ -11,7 +11,10 @@ legality: commander
 1 Cryptic Caves
 1 Hidden Grotto
 1 Divine Resilience
+1 Opt
+1 Spectral Sailor
 1 Chart a Course
+1 Essence Scatter
 1 Fog Bank
 1 Mission Briefing
 1 Run Away Together
@@ -67,12 +70,10 @@ legality: commander
 1 Thought Vessel
 1 Wall of Omens
 1 Circuit Mender
-1 Deputy of Detention
 1 Eerie Interlude
 1 Exclusion Mage
 1 Frantic Search
 1 Generous Gift
-1 Ghostly Flicker
 1 Ghostly Prison
 1 Hydroelectric Specimen
 1 Man-o'-War
@@ -101,7 +102,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/sideboard.md`*
-*Last synced: 2026-09-04*
+*Last synced: 2026-09-05*
 
 ---
 
@@ -113,6 +114,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 **Status key:** 🟢 Owned · 🟡 Ordered · ⚪ Wishlist
 
 ### Creatures
+> [!info] **`mtg:Spectral Sailor`**
+> **73** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:73%"></div></div>
+>
+> [[02 Cards/Creatures/Spectral Sailor|Open local page →]]
+>
+> *Stay in sideboard / already cut — no main-deck swap suggested.*
+
 > [!info] **`mtg:Dour Port-Mage`**
 > **91** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:91%"></div></div>
@@ -172,17 +181,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > [[02 Cards/Creatures/Cloudkin Seer|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Deputy of Detention`**
-> **91** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:91%"></div></div>
->
-> [[02 Cards/Creatures/Deputy of Detention|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Empyrean Eagle`**
 > **75** / 100 · 🟢 Owned
@@ -379,6 +377,22 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 ### Instants
+> [!info] **`mtg:Opt`**
+> **90** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:90%"></div></div>
+>
+> [[02 Cards/Instants/Opt|Open local page →]]
+>
+> *Stay in sideboard / already cut — no main-deck swap suggested.*
+
+> [!info] **`mtg:Essence Scatter`**
+> **73** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:73%"></div></div>
+>
+> [[02 Cards/Instants/Essence Scatter|Open local page →]]
+>
+> *Stay in sideboard / already cut — no main-deck swap suggested.*
+
 > [!info] **`mtg:Cloudshift`**
 > **89** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:89%"></div></div>
@@ -559,17 +573,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Instants/Generous Gift|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
-> [!info] **`mtg:Ghostly Flicker`**
-> **91** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:91%"></div></div>
->
-> [[02 Cards/Instants/Ghostly Flicker|Open local page →]]
 >
 > > [!note]- Possible Cuts
 > > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>

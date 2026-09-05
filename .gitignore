@@ -10,6 +10,7 @@ _junction-restore-*/
 **/_edhrec_cache/
 **/_rank_data.json
 **/_rank_scores.json
+**/_rank_unowned.json
 **/_price_cache.json
 prof
 tsconfig.tsbuildinfo

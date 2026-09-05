@@ -2,7 +2,7 @@
 
 Card type: Instant.
 
-**257** copies · **175** names.
+**258** copies · **176** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -27,7 +27,7 @@ Card type: Instant.
 | [**`mtg:Masterful Flourish`**](https://scryfall.com/card/sos/89) | [[02 Cards/Instants/Masterful Flourish\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.12 |
 | [**`mtg:Might of the Meek`**](https://scryfall.com/card/blb/144) | [[02 Cards/Instants/Might of the Meek\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.14 |
 | [**`mtg:Monstrous Rage`**](https://scryfall.com/card/soa/45) | [[02 Cards/Instants/Monstrous Rage\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.16 |
-| [**`mtg:Opt`**](https://scryfall.com/card/fdn/512) | [[02 Cards/Instants/Opt\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.39 |
+| [**`mtg:Opt`**](https://scryfall.com/card/fdn/512) | [[02 Cards/Instants/Opt\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.40 |
 | [**`mtg:Pillar Launch`**](https://scryfall.com/card/tla/189) | [[02 Cards/Instants/Pillar Launch\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Repeal`**](https://scryfall.com/card/c15/104) | [[02 Cards/Instants/Repeal\|PAGE]] | {X}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.24 |
 | [**`mtg:Royal Treatment`**](https://scryfall.com/card/soa/56) | [[02 Cards/Instants/Royal Treatment\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
@@ -124,6 +124,7 @@ Card type: Instant.
 | [**`mtg:Faebloom Trick`**](https://scryfall.com/card/fdn/38) | [[02 Cards/Instants/Faebloom Trick\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.12 |
 | [**`mtg:Fiery Annihilation`**](https://scryfall.com/card/fdn/86) | [[02 Cards/Instants/Fiery Annihilation\|PAGE]] | {2}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.14 |
 | [**`mtg:Foolish Fate`**](https://scryfall.com/card/sos/83) | [[02 Cards/Instants/Foolish Fate\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
+| [**`mtg:Ghostly Flicker`**](https://scryfall.com/card/plst/KHC-39) | [[02 Cards/Instants/Ghostly Flicker\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.32 |
 | [**`mtg:Goblin Surprise`**](https://scryfall.com/card/fdn/200) | [[02 Cards/Instants/Goblin Surprise\|PAGE]] | {2}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Hero's Downfall`**](https://scryfall.com/card/fdn/175) | [[02 Cards/Instants/Hero's Downfall\|PAGE]] | {1}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.20 |
 | [**`mtg:Make a Stand`**](https://scryfall.com/card/cmr/32) | [[02 Cards/Instants/Make a Stand\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |

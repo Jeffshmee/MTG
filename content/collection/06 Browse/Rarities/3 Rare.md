@@ -2,7 +2,7 @@
 
 Rarity: rare.
 
-**260** copies · **235** names.
+**261** copies · **236** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -114,6 +114,7 @@ Rarity: rare.
 | [**`mtg:Cauldron of Essence`**](https://scryfall.com/card/sos/179) | [[02 Cards/Artifacts/Cauldron of Essence\|PAGE]] | {1}{B}{G} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 2.73 |
 | [**`mtg:Circle of Dreams Druid`**](https://scryfall.com/card/afr/176) | [[02 Cards/Creatures/Circle of Dreams Druid\|PAGE]] | {G}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 9.21 |
 | [**`mtg:Cultivator's Caravan`**](https://scryfall.com/card/drc/127) | [[02 Cards/Artifacts/Cultivator's Caravan\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
+| [**`mtg:Deputy of Detention`**](https://scryfall.com/card/rna/165) | [[02 Cards/Creatures/Deputy of Detention\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Dictate of Kruphix`**](https://scryfall.com/card/fdn/587) | [[02 Cards/Enchantments/Dictate of Kruphix\|PAGE]] | {1}{U}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.42 |
 | [**`mtg:Dina's Guidance`**](https://scryfall.com/card/sos/184) | [[02 Cards/Instants/Dina's Guidance\|PAGE]] | {1}{B}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.67 |
 | [**`mtg:Dragonologist`**](https://scryfall.com/card/tdm/295) | [[02 Cards/Creatures/Dragonologist\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.45 |

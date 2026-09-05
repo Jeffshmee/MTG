@@ -2,7 +2,7 @@
 
 Cards whose mana value is 1.
 
-**192** copies · **126** names.
+**193** copies · **127** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,6 +13,7 @@ Cards whose mana value is 1.
 | [**`mtg:Basilisk Collar`**](https://scryfall.com/card/fdn/669) | [[02 Cards/Artifacts/Basilisk Collar\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 3.17 |
 | [**`mtg:Bear Trap`**](https://scryfall.com/card/dsk/243) | [[02 Cards/Artifacts/Bear Trap\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.05 |
 | [**`mtg:Boltwave`**](https://scryfall.com/card/fdn/79) | [[02 Cards/Sorceries/Boltwave\|PAGE]] | {R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.03 |
+| [**`mtg:Boomerang Basics`**](https://scryfall.com/card/tla/46) | [[02 Cards/Sorceries/Boomerang Basics\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.92 |
 | [**`mtg:Brave-Kin Duo`**](https://scryfall.com/card/blb/3) | [[02 Cards/Creatures/Brave-Kin Duo\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rabbit\|Rabbit]] [[04 Creature Types/Mouse\|Mouse]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.05 |
 | [**`mtg:Brightfield Glider`**](https://scryfall.com/card/dft/4) | [[02 Cards/Creatures/Brightfield Glider\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Possum\|Possum]] [[04 Creature Types/Mount\|Mount]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.02 |
 | [**`mtg:Burrog Banemaker`**](https://scryfall.com/card/sos/75) | [[02 Cards/Creatures/Burrog Banemaker\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
@@ -86,7 +87,7 @@ Cards whose mana value is 1.
 | [**`mtg:Nasty Little Rabbit`**](https://scryfall.com/card/hob/130) | [[02 Cards/Creatures/Nasty Little Rabbit\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rabbit\|Rabbit]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.02 |
 | [**`mtg:Nighthowl Pursuer`**](https://scryfall.com/card/hob/78) | [[02 Cards/Creatures/Nighthowl Pursuer\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.04 |
 | [**`mtg:Northern Air Temple`**](https://scryfall.com/card/tla/111) | [[02 Cards/Enchantments/Northern Air Temple\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
-| [**`mtg:Opt`**](https://scryfall.com/card/fdn/512) | [[02 Cards/Instants/Opt\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.39 |
+| [**`mtg:Opt`**](https://scryfall.com/card/fdn/512) | [[02 Cards/Instants/Opt\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.40 |
 | [**`mtg:Oracle's Restoration`**](https://scryfall.com/card/sos/156) | [[02 Cards/Sorceries/Oracle's Restoration\|PAGE]] | {G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.20 |
 | [**`mtg:Pillar Launch`**](https://scryfall.com/card/tla/189) | [[02 Cards/Instants/Pillar Launch\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Point the Way`**](https://scryfall.com/card/dft/175) | [[02 Cards/Enchantments/Point the Way\|PAGE]] | {G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
@@ -109,7 +110,7 @@ Cards whose mana value is 1.
 | [**`mtg:Soul-Guide Lantern`**](https://scryfall.com/card/eoc/143) | [[02 Cards/Artifacts/Soul-Guide Lantern\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
 | [**`mtg:Soulbright Seeker`**](https://scryfall.com/card/ecl/157) | [[02 Cards/Creatures/Soulbright Seeker\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.04 |
 | [**`mtg:Spectral Denial`**](https://scryfall.com/card/tdm/58) | [[02 Cards/Instants/Spectral Denial\|PAGE]] | {X}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
-| [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.42 |
+| [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.40 |
 | [**`mtg:Spell Pierce`**](https://scryfall.com/card/soa/23) | [[02 Cards/Instants/Spell Pierce\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.36 |
 | [**`mtg:Stab`**](https://scryfall.com/card/fdn/71) | [[02 Cards/Instants/Stab\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.10 |
 | [**`mtg:Stir Up Trouble`**](https://scryfall.com/card/hob/84) | [[02 Cards/Sorceries/Stir Up Trouble\|PAGE]] | {B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |

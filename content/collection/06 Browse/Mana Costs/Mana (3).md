@@ -2,7 +2,7 @@
 
 Cards whose mana value is 3.
 
-**344** copies · **269** names.
+**346** copies · **271** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -55,6 +55,7 @@ Cards whose mana value is 3.
 | [**`mtg:Cultivator's Caravan`**](https://scryfall.com/card/drc/127) | [[02 Cards/Artifacts/Cultivator's Caravan\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Dalkovan Packbeasts`**](https://scryfall.com/card/tdm/7) | [[02 Cards/Creatures/Dalkovan Packbeasts\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Ox\|Ox]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Deluge Virtuoso`**](https://scryfall.com/card/sos/42) | [[02 Cards/Creatures/Deluge Virtuoso\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.16 |
+| [**`mtg:Deputy of Detention`**](https://scryfall.com/card/rna/165) | [[02 Cards/Creatures/Deputy of Detention\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Dictate of Kruphix`**](https://scryfall.com/card/fdn/587) | [[02 Cards/Enchantments/Dictate of Kruphix\|PAGE]] | {1}{U}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.42 |
 | [**`mtg:Dina's Guidance`**](https://scryfall.com/card/sos/184) | [[02 Cards/Instants/Dina's Guidance\|PAGE]] | {1}{B}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.67 |
 | [**`mtg:Diresight`**](https://scryfall.com/card/blb/91) | [[02 Cards/Sorceries/Diresight\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
@@ -89,6 +90,7 @@ Cards whose mana value is 3.
 | [**`mtg:Garruk's Uprising`**](https://scryfall.com/card/ecc/109) | [[02 Cards/Enchantments/Garruk's Uprising\|PAGE]] | {2}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.47 |
 | [**`mtg:Gateway Sneak`**](https://scryfall.com/card/fdn/592) | [[02 Cards/Creatures/Gateway Sneak\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.19 |
 | [**`mtg:Genesis Wave`**](https://scryfall.com/card/ltc/245) | [[02 Cards/Sorceries/Genesis Wave\|PAGE]] | {X}{G}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
+| [**`mtg:Ghostly Flicker`**](https://scryfall.com/card/plst/KHC-39) | [[02 Cards/Instants/Ghostly Flicker\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.32 |
 | [**`mtg:Giant Cindermaw`**](https://scryfall.com/card/fdn/624) | [[02 Cards/Creatures/Giant Cindermaw\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
 | [**`mtg:Gix, Yawgmoth Praetor`**](https://scryfall.com/card/tdc/181) | [[02 Cards/Creatures/Gix, Yawgmoth Praetor\|PAGE]] | {1}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Praetor\|Praetor]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.11 |
 | [**`mtg:Glamermite`**](https://scryfall.com/card/ecl/50) | [[02 Cards/Creatures/Glamermite\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.04 |

@@ -2,7 +2,7 @@
 
 Foil copies only. Qty on this page is foil, not the name's total.
 
-**128** copies · **84** names.
+**133** copies · **85** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,15 +11,16 @@ Foil copies only. Qty on this page is foil, not the name's total.
 | [**`mtg:Elf`**](https://scryfall.com/card/thob/8) | [[02 Cards/Tokens/Elf\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.00 |
 | [**`mtg:Faerie`**](https://scryfall.com/card/tecl/5) | [[02 Cards/Tokens/Faerie\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.00 |
 | [**`mtg:Fields of Strife`**](https://scryfall.com/card/sos/255) | [[02 Cards/Lands/Fields of Strife\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.05 |
-| [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 13 | 2.72 |
+| [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 14 | 2.90 |
 | [**`mtg:Goblin`**](https://scryfall.com/card/ttdm/12) | [[02 Cards/Tokens/Goblin\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.00 |
 | [**`mtg:Hallowed Fountain`**](https://scryfall.com/card/ecl/265) | [[02 Cards/Lands/Hallowed Fountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 6.78 |
-| [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 12 | 2.31 |
+| [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 13 | 2.45 |
 | [**`mtg:Jungle Hollow`**](https://scryfall.com/card/fdn/263) | [[02 Cards/Lands/Jungle Hollow\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.05 |
 | [**`mtg:Mirkwood`**](https://scryfall.com/card/hob/188) | [[02 Cards/Lands/Mirkwood\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.04 |
+| [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.11 |
 | [**`mtg:Paradox Gardens`**](https://scryfall.com/card/sos/258) | [[02 Cards/Lands/Paradox Gardens\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.04 |
 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.41 |
-| [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 9 | 1.19 |
+| [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 11 | 1.62 |
 | [**`mtg:Terramorphic Expanse`**](https://scryfall.com/card/sos/265) | [[02 Cards/Lands/Terramorphic Expanse\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.10 |
 | [**`mtg:Titan's Grave`**](https://scryfall.com/card/sos/266) | [[02 Cards/Lands/Titan's Grave\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.06 |
 | [**`mtg:Tranquil Cove`**](https://scryfall.com/card/fdn/270) | [[02 Cards/Lands/Tranquil Cove\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.11 |

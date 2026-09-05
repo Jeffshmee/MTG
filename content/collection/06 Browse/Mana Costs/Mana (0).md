@@ -2,7 +2,7 @@
 
 Cards whose mana value is 0.
 
-**530** copies · **151** names.
+**535** copies · **151** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -58,7 +58,7 @@ Cards whose mana value is 0.
 | [**`mtg:Fish`**](https://scryfall.com/card/tfdn/10) | [[02 Cards/Tokens/Fish\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.14 |
 | [**`mtg:Floodfarm Verge`**](https://scryfall.com/card/dsk/259) | [[02 Cards/Lands/Floodfarm Verge\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.64 |
 | [**`mtg:Food`**](https://scryfall.com/card/tfdn/22) | [[02 Cards/Tokens/Food\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.07 |
-| [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 39 | 5.50 |
+| [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 40 | 5.68 |
 | [**`mtg:Forum of Amity`**](https://scryfall.com/card/sos/256) | [[02 Cards/Lands/Forum of Amity\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.18 |
 | [**`mtg:Fractal`**](https://scryfall.com/card/tsos/4) | [[02 Cards/Tokens/Fractal\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 10 | 0.00 |
 | [**`mtg:Goblin`**](https://scryfall.com/card/ttdm/12) | [[02 Cards/Tokens/Goblin\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 25 | 2.95 |
@@ -75,7 +75,7 @@ Cards whose mana value is 0.
 | [**`mtg:Inkling`**](https://scryfall.com/card/tsos/7) | [[02 Cards/Tokens/Inkling\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 8 | 0.00 |
 | [**`mtg:Insect`**](https://scryfall.com/card/tfdn/21) | [[02 Cards/Tokens/Insect\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.16 |
 | [**`mtg:Iron Hills`**](https://scryfall.com/card/hob/185) | [[02 Cards/Lands/Iron Hills\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.04 |
-| [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 38 | 5.84 |
+| [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 39 | 5.98 |
 | [**`mtg:Isolated Chapel`**](https://scryfall.com/card/soc/382) | [[02 Cards/Lands/Isolated Chapel\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.44 |
 | [**`mtg:Izzet Guildgate`**](https://scryfall.com/card/fdn/691) | [[02 Cards/Lands/Izzet Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
 | [**`mtg:Jungle Hollow`**](https://scryfall.com/card/fdn/263) | [[02 Cards/Lands/Jungle Hollow\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.24 |
@@ -86,7 +86,7 @@ Cards whose mana value is 0.
 | [**`mtg:Meditation Pools`**](https://scryfall.com/card/tla/272) | [[02 Cards/Lands/Meditation Pools\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.07 |
 | [**`mtg:Mirkwood`**](https://scryfall.com/card/hob/188) | [[02 Cards/Lands/Mirkwood\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.04 |
 | [**`mtg:Monk`**](https://scryfall.com/card/ttdm/3) | [[02 Cards/Tokens/Monk\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.30 |
-| [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 27 | 3.24 |
+| [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 28 | 3.35 |
 | [**`mtg:Myr`**](https://scryfall.com/card/tmh1/19) | [[02 Cards/Tokens/Myr\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.24 |
 | [**`mtg:Mystic Sanctuary`**](https://scryfall.com/card/soc/388) | [[02 Cards/Lands/Mystic Sanctuary\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.97 |
 | [**`mtg:Ninja`**](https://scryfall.com/card/tfdn/12) | [[02 Cards/Tokens/Ninja\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.25 |
@@ -126,7 +126,7 @@ Cards whose mana value is 0.
 | [**`mtg:Soldier`**](https://scryfall.com/card/tfdn/6) | [[02 Cards/Tokens/Soldier\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 6 | 0.72 |
 | [**`mtg:Spectacle Summit`**](https://scryfall.com/card/sos/262) | [[02 Cards/Lands/Spectacle Summit\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.08 |
 | [**`mtg:Spirit`**](https://scryfall.com/card/tsos/11) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 20 | 0.99 |
-| [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 37 | 5.80 |
+| [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 39 | 6.23 |
 | [**`mtg:Swiftwater Cliffs`**](https://scryfall.com/card/fdn/268) | [[02 Cards/Lands/Swiftwater Cliffs\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.13 |
 | [**`mtg:Temple of Abandon`**](https://scryfall.com/card/tdc/400) | [[02 Cards/Lands/Temple of Abandon\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {R}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.17 |
 | [**`mtg:Temple of Deceit`**](https://scryfall.com/card/fdn/697) | [[02 Cards/Lands/Temple of Deceit\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.19 |
