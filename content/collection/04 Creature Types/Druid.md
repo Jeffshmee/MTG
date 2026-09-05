@@ -2,7 +2,7 @@
 
 Creature type: Druid.
 
-**67** copies · **44** names.
+**68** copies · **45** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,6 +11,7 @@ Creature type: Druid.
 | [**`mtg:Elvish Mystic`**](https://scryfall.com/card/soc/266) | [[02 Cards/Creatures/Elvish Mystic\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.58 |
 | [**`mtg:Fyndhorn Elves`**](https://scryfall.com/card/cmr/678) | [[02 Cards/Creatures/Fyndhorn Elves\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 4.21 |
 | [**`mtg:Llanowar Elves`**](https://scryfall.com/card/fdn/227) | [[02 Cards/Creatures/Llanowar Elves\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 8 | 3.64 |
+| [**`mtg:Bloom Tender`**](https://scryfall.com/card/ecl/166) | [[02 Cards/Creatures/Bloom Tender\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 9.57 |
 | [**`mtg:Druid of the Cowl`**](https://scryfall.com/card/fdn/554) | [[02 Cards/Creatures/Druid of the Cowl\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 1.68 |
 | [**`mtg:Elfhame Druid`**](https://scryfall.com/card/dom/159) | [[02 Cards/Creatures/Elfhame Druid\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.18 |
 | [**`mtg:Environmental Scientist`**](https://scryfall.com/card/sos/147) | [[02 Cards/Creatures/Environmental Scientist\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |

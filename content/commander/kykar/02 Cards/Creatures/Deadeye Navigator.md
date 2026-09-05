@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Deadeye Navigator`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}{U}{U}  
 > **Type:** Creature — Spirit  
 > **P/T:** 5/5  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
-> ![Deadeye Navigator](https://cards.scryfall.io/border_crop/front/4/f/4f0791b5-fdb4-4378-8fd3-7e7367ffc05c.jpg)
+> ![Deadeye Navigator](https://cards.scryfall.io/border_crop/front/4/d/4dbd3c6d-bae8-435f-927e-810c1723edae.jpg)
 >
 > ### Deck Scores
 >
@@ -95,15 +95,15 @@ Deadeye is the two-card infinite with [[02 Cards/Creatures/Peregrine Drake|Pereg
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Soulbond"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 94
 >   combined: 90
-> scryfall_id: 4f0791b5-fdb4-4378-8fd3-7e7367ffc05c
+> scryfall_id: 4dbd3c6d-bae8-435f-927e-810c1723edae
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 04/09/2026 | MageCards · Axion_Now |
 
 </div>
 
@@ -38,13 +39,14 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>3</div>
+<div class="synergy-score-num"><span>Copies</span>7</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Lorwyn Eclipsed Tokens (<code>TECL</code>)</td><td>4</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
 <tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>8</td><td>—</td><td>2</td><td>Box</td><td>—</td></tr>
+<tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>8</td><td>foil</td><td>4</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
 </div>
@@ -56,8 +58,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/7/6/761c7c31-c6c5-44e2-a845-f590542b6eda.jpg" alt="Elf THOB 8 · ×2">
-<figcaption>THOB 8 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/7/6/761c7c31-c6c5-44e2-a845-f590542b6eda.jpg" alt="Elf THOB 8 · ×6">
+<figcaption>THOB 8 · ×6</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/3/9/39b36f22-21f9-44fe-8a49-bdc859503342.jpg" alt="Elf TECL 4 · ×1">
@@ -67,7 +69,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TECL|Lorwyn Eclipsed Tokens]] · [[06 Browse/Sets/THOB|The Hobbit Tokens]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TECL|Lorwyn Eclipsed Tokens]] · [[06 Browse/Sets/THOB|The Hobbit Tokens]]
 
 ---
 
@@ -80,7 +82,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Creature — Elf"
 > scryfall_id: 761c7c31-c6c5-44e2-a845-f590542b6eda
-> quantity: 3
+> quantity: 7
 > tags:
 >   - card
 >   - collection

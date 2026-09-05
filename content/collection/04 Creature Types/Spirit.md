@@ -2,7 +2,7 @@
 
 Creature type: Spirit.
 
-**23** copies · **15** names.
+**24** copies · **16** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -19,5 +19,6 @@ Creature type: Spirit.
 | [**`mtg:Apothecary Geist`**](https://scryfall.com/card/inr/10) | [[02 Cards/Creatures/Apothecary Geist\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.07 |
 | [**`mtg:Summoned Dromedary`**](https://scryfall.com/card/sos/37) | [[02 Cards/Creatures/Summoned Dromedary\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Camel\|Camel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
 | [**`mtg:Neriv, Crackling Vanguard`**](https://scryfall.com/card/tdc/6) | [[02 Cards/Creatures/Neriv, Crackling Vanguard\|PAGE]] | {2}{R}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.50 |
+| [**`mtg:Deadeye Navigator`**](https://scryfall.com/card/sld/902) | [[02 Cards/Creatures/Deadeye Navigator\|PAGE]] | {4}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 2.40 |
 | [**`mtg:Drogskol Reaver`**](https://scryfall.com/card/fdn/655) | [[02 Cards/Creatures/Drogskol Reaver\|PAGE]] | {5}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.32 |
 | [**`mtg:Myojin of Night's Reach`**](https://scryfall.com/card/fdn/610) | [[02 Cards/Creatures/Myojin of Night's Reach\|PAGE]] | {5}{B}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 1 | 0.27 |

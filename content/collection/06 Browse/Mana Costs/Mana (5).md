@@ -2,7 +2,7 @@
 
 Cards whose mana value is 5.
 
-**131** copies · **97** names.
+**133** copies · **98** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -37,6 +37,7 @@ Cards whose mana value is 5.
 | [**`mtg:Embrace the Paradox`**](https://scryfall.com/card/sos/186) | [[02 Cards/Instants/Embrace the Paradox\|PAGE]] | {3}{G}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.27 |
 | [**`mtg:Emeritus of Ideation`**](https://scryfall.com/card/sos/45) | [[02 Cards/Creatures/Emeritus of Ideation\|PAGE]] | {3}{U}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 7.18 |
 | [**`mtg:Esgaroth Garrison`**](https://scryfall.com/card/hob/13) | [[02 Cards/Creatures/Esgaroth Garrison\|PAGE]] | {4}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.06 |
+| [**`mtg:Essence Drain`**](https://scryfall.com/card/m13/93) | [[02 Cards/Sorceries/Essence Drain\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Fate of the Sun-Cryst`**](https://scryfall.com/card/fin/19) | [[02 Cards/Instants/Fate of the Sun-Cryst\|PAGE]] | {4}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Fractal Tender`**](https://scryfall.com/card/sos/190) | [[02 Cards/Creatures/Fractal Tender\|PAGE]] | {3}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
 | [**`mtg:Gandalf, Wandering Wizard`**](https://scryfall.com/card/hob/41) | [[02 Cards/Creatures/Gandalf, Wandering Wizard\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
@@ -62,7 +63,7 @@ Cards whose mana value is 5.
 | [**`mtg:Luminous Rebuke`**](https://scryfall.com/card/fdn/20) | [[02 Cards/Instants/Luminous Rebuke\|PAGE]] | {4}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
 | [**`mtg:Lyra Dawnbringer`**](https://scryfall.com/card/fdn/707) | [[02 Cards/Creatures/Lyra Dawnbringer\|PAGE]] | {3}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 1.28 |
 | [**`mtg:Mammoth Bellow`**](https://scryfall.com/card/tdm/205) | [[02 Cards/Sorceries/Mammoth Bellow\|PAGE]] | {2}{G}{U}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
-| [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.66 |
+| [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 1.15 |
 | [**`mtg:Merrow Skyswimmer`**](https://scryfall.com/card/ecl/234) | [[02 Cards/Creatures/Merrow Skyswimmer\|PAGE]] | {3}{W/U}{W/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Muse's Encouragement`**](https://scryfall.com/card/sos/61) | [[02 Cards/Instants/Muse's Encouragement\|PAGE]] | {4}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.12 |
 | [**`mtg:Neriv, Crackling Vanguard`**](https://scryfall.com/card/tdc/6) | [[02 Cards/Creatures/Neriv, Crackling Vanguard\|PAGE]] | {2}{R}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.50 |

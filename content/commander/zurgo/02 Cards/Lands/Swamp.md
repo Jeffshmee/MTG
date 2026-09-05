@@ -81,8 +81,8 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figcaption>FDN 287 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/a/c/ac885eb7-9dae-4c48-b45c-97ef9c62c99e.jpg" alt="Swamp TDM 282 · ×1">
-<figcaption>TDM 282 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/a/c/ac885eb7-9dae-4c48-b45c-97ef9c62c99e.jpg" alt="Swamp TDM 282 foil · ×1">
+<figcaption>TDM 282 foil · ×1</figcaption>
 </figure>
 </div>
 

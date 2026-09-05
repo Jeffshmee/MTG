@@ -2,7 +2,7 @@
 
 Mono-black cards ({B} only). Lands and tokens are listed separately.
 
-**188** copies · **142** names.
+**189** copies · **143** names.
 
 ```decklist
 group: auto
@@ -130,6 +130,7 @@ legality: commander
 1 Duress
 1 Eliminate the Competition
 1 End of the Hunt
+1 Essence Drain
 1 Exsanguinate
 2 Feed the Swarm
 2 Pilfer

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Reflector Mage`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}{U}  
 > **Type:** Creature — Human Wizard  
 > **P/T:** 2/3  
@@ -91,7 +91,7 @@ Reflector Mage ETB-bounces an opponent creature and name-locks it until your nex
 > colors: ["U", "W"]
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 96
@@ -99,7 +99,7 @@ Reflector Mage ETB-bounces an opponent creature and name-locks it until your nex
 > scryfall_id: 9473fe01-83f6-4432-ab01-f7953d2ca904
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

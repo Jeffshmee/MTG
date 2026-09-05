@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Wardens of the Cycle`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard Deck  
 > **Mana Cost:** {1}{B}{G}{G}  
 > **Type:** Creature — Elf Warlock  
 > **P/T:** 3/4  
@@ -95,7 +95,7 @@ Wardens of the Cycle is a four-mana Elf that, at your end step, draws (and loses
 > colors: [B, G]
 > color_identity: [B, G]
 > keywords: ["Morbid"]
-> status: Main Deck
+> status: Sideboard Deck
 > scores:
 >   general: 74
 >   deck_specific: 76
@@ -103,7 +103,7 @@ Wardens of the Cycle is a four-mana Elf that, at your end step, draws (and loses
 > scryfall_id: 83ea9b2c-5723-4eff-88ac-6669975939e3
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

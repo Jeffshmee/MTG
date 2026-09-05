@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**215** copies · **161** names.
+**220** copies · **166** names.
 
 ```decklist
 group: auto
@@ -67,6 +67,7 @@ legality: commander
 2 Lake-town Lookout
 1 Lake-town Toymaker
 1 Linden, the Steadfast Queen
+1 Loran of the Third Path
 1 Lyra Dawnbringer
 1 Mentor of the Meek
 1 Moonlit Lamenter
@@ -107,6 +108,9 @@ legality: commander
 2 Wanderbrine Trapper
 1 Warren Elder
 1 Zetalpa, Primal Dawn
+
+# Planeswalkers
+1 Ajani, Caller of the Pride
 
 # Instants
 3 Ajani's Response
@@ -156,6 +160,7 @@ legality: commander
 1 Requisition Raid
 
 # Enchantments
+1 Airbender Ascension
 1 Angelic Destiny
 1 Banishing Light
 3 Celebrate the Mountain-king
@@ -169,7 +174,9 @@ legality: commander
 1 Spiral into Solitude
 2 Stasis Snare
 2 Stormplain Detainment
+1 Super-Soldier Serum
 1 Teeming Dragonstorm
+1 Teleportation Circle
 1 Tocasia's Welcome
 1 Trapped in the Screen
 2 Twinblade Blessing

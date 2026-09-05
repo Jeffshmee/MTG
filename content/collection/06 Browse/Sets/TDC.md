@@ -2,7 +2,7 @@
 
 Set `TDC`. Qty here is copies of this name from this set.
 
-**81** copies · **70** names.
+**82** copies · **71** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -23,6 +23,7 @@ Set `TDC`. Qty here is copies of this name from this set.
 | [**`mtg:Tempt with Vengeance`**](https://scryfall.com/card/tdc/239) | [[02 Cards/Sorceries/Tempt with Vengeance\|PAGE]] | {X}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.27 |
 | [**`mtg:Wayfarer's Bauble`**](https://scryfall.com/card/tdc/335) | [[02 Cards/Artifacts/Wayfarer's Bauble\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.22 |
 | [**`mtg:Ainok Strike Leader`**](https://scryfall.com/card/tdc/11) | [[02 Cards/Creatures/Ainok Strike Leader\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dog\|Dog]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.38 |
+| [**`mtg:Azorius Signet`**](https://scryfall.com/card/tdc/312) | [[02 Cards/Artifacts/Azorius Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
 | [**`mtg:Bitter Triumph`**](https://scryfall.com/card/tdc/173) | [[02 Cards/Instants/Bitter Triumph\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 1.46 |
 | [**`mtg:Blade of Selves`**](https://scryfall.com/card/tdc/313) | [[02 Cards/Artifacts/Blade of Selves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 4.80 |
 | [**`mtg:Deadly Dispute`**](https://scryfall.com/card/tdc/177) | [[02 Cards/Instants/Deadly Dispute\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.49 |

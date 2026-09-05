@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Aetherize`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{U}  
 > **Type:** Instant  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:95%"></div></div>
 >
-> ![Aetherize](https://cards.scryfall.io/border_crop/front/1/e/1e5530fc-0291-4a17-b048-c5d24e6f51d8.jpg)
+> ![Aetherize](https://cards.scryfall.io/border_crop/front/a/0/a022eacd-1cdd-42d7-8a4c-88e8a6527144.jpg)
 >
 > ### Deck Scores
 >
@@ -90,15 +90,15 @@ Aetherize returns all attacking creatures to hand at instant speed. Tokens cease
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 90
 >   deck_specific: 98
 >   combined: 95
-> scryfall_id: 1e5530fc-0291-4a17-b048-c5d24e6f51d8
+> scryfall_id: a022eacd-1cdd-42d7-8a4c-88e8a6527144
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - instant
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Loran of the Third Path`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{W}  
 > **Type:** Legendary Creature — Human Artificer  
 > **P/T:** 2/1  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
-> ![Loran of the Third Path](https://cards.scryfall.io/border_crop/front/9/e/9e83a0ef-4fea-45ba-86c0-130d6687f7fe.jpg)
+> ![Loran of the Third Path](https://cards.scryfall.io/border_crop/front/6/4/647e6b32-c755-4700-b151-6a174dbb2bd0.jpg)
 >
 > ### Deck Scores
 >
@@ -92,15 +92,15 @@ Loran of the Third Path is an ETB draw body at {2}{W}. Blink it with [[02 Cards/
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Vigilance"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 88
 >   deck_specific: 90
 >   combined: 89
-> scryfall_id: 9e83a0ef-4fea-45ba-86c0-130d6687f7fe
+> scryfall_id: 647e6b32-c755-4700-b151-6a174dbb2bd0
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

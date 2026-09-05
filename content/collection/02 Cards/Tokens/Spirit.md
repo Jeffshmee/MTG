@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 04/09/2026 | MageCards · Axion_Now |
 
 </div>
 
@@ -38,7 +39,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>16</div>
+<div class="synergy-score-num"><span>Copies</span>20</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -47,7 +48,7 @@
 <tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>7</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
 <tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>9</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
 <tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>6</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
-<tr><td>Tarkir: Dragonstorm Commander Tokens (<code>TTDC</code>)</td><td>6</td><td>—</td><td>2</td><td>Box</td><td>0.14</td></tr>
+<tr><td>Tarkir: Dragonstorm Commander Tokens (<code>TTDC</code>)</td><td>6</td><td>—</td><td>6</td><td>Box</td><td>0.14</td></tr>
 <tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>11</td><td>—</td><td>7</td><td>Box</td><td>—</td></tr>
 <tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>10</td><td>—</td><td>3</td><td>Box</td><td>—</td></tr>
 </tbody>
@@ -65,12 +66,12 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>TSOS 11 · ×7</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/8/7/877f7ddb-ed70-41a0-b845-d9bf8ac65f9b.jpg" alt="Spirit TSOS 10 · ×3">
-<figcaption>TSOS 10 · ×3</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/6/3/639b70ba-a421-47aa-b356-3b261444e79a.jpg" alt="Spirit TTDC 6 · ×6">
+<figcaption>TTDC 6 · ×6</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/6/3/639b70ba-a421-47aa-b356-3b261444e79a.jpg" alt="Spirit TTDC 6 · ×2">
-<figcaption>TTDC 6 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/8/7/877f7ddb-ed70-41a0-b845-d9bf8ac65f9b.jpg" alt="Spirit TSOS 10 · ×3">
+<figcaption>TSOS 10 · ×3</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/2/f22410b3-5c0b-4282-9b0b-5ba61229b6e7.jpg" alt="Spirit TTDM 6 · ×1">
@@ -105,7 +106,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Creature — Spirit"
 > scryfall_id: d0f3bd3d-08cf-4783-ae31-03770c8be69c
-> quantity: 16
+> quantity: 20
 > tags:
 >   - card
 >   - collection

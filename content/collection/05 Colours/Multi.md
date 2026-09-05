@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**230** copies · **175** names.
+**235** copies · **178** names.
 
 ```decklist
 group: auto
@@ -20,7 +20,7 @@ legality: commander
 1 Bard, King of Dale
 1 Bifur, Melodic Rider
 1 Bloodbraid Elf
-1 Boggart Cursecrafter
+2 Boggart Cursecrafter
 3 Bogwater Lumaret
 1 Bolg of the North
 1 Bone-Cairn Butcher
@@ -36,6 +36,7 @@ legality: commander
 1 Drogskol Reaver
 1 Dryad Militant
 1 Earth Rumble Wrestlers
+1 Eclipsed Boggart
 1 Eclipsed Elf
 1 Elas il-Kor, Sadistic Pilgrim
 3 Elemental Mascot
@@ -70,7 +71,7 @@ legality: commander
 1 Lilysplash Mentor
 1 Lluwen, Imperfect Naturalist
 1 Maraleaf Pixie
-2 Maralen, Fae Ascendant
+3 Maralen, Fae Ascendant
 1 Merrow Skyswimmer
 1 Mirkwood Nurturer
 2 Monastery Messenger
@@ -90,6 +91,7 @@ legality: commander
 1 Practiced Scrollsmith
 3 Pterafractyl
 1 Queen Allenal of Ruadach
+1 Reflector Mage
 2 Reputable Merchant
 2 Ruby, Daring Tracker
 1 Sanar, Unfinished Genius // Wild Idea
@@ -115,6 +117,7 @@ legality: commander
 1 Temur Tawnyback
 1 Teysa Karlov
 1 Thalisse, Reverent Medium
+1 Thorin Oakenshield
 1 Thranduil, Sindarin Liege // Silvan Rally
 1 Trygon Predator
 1 Twinflame Travelers

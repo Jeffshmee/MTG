@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**229** copies · **180** names.
+**231** copies · **182** names.
 
 ```decklist
 group: auto
@@ -25,6 +25,7 @@ legality: commander
 1 Cloud of Faeries
 1 Cloudkin Seer
 1 Constrictor Sage
+1 Deadeye Navigator
 2 Deluge Virtuoso
 1 Dirgur Island Dragon // Skimming Strike
 1 Diversion Unit
@@ -108,6 +109,7 @@ legality: commander
 
 # Instants
 1 Accumulate Wisdom
+1 Aetherize
 1 An Offer You Can't Refuse
 3 Banishing Betrayal
 1 Blink of an Eye

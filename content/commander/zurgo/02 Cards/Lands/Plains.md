@@ -81,8 +81,8 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figcaption>FDN 282 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/7/a/7a0f9892-89cd-46ff-bc87-114e175cb575.jpg" alt="Plains FDN 283 · ×1">
-<figcaption>FDN 283 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/7/a/7a0f9892-89cd-46ff-bc87-114e175cb575.jpg" alt="Plains FDN 283 foil · ×1">
+<figcaption>FDN 283 foil · ×1</figcaption>
 </figure>
 </div>
 

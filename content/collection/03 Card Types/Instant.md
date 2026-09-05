@@ -2,7 +2,7 @@
 
 Card type: Instant.
 
-**256** copies · **174** names.
+**257** copies · **175** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -147,6 +147,7 @@ Card type: Instant.
 | [**`mtg:Velvetwing Butterflies`**](https://scryfall.com/card/hob/30) | [[02 Cards/Creatures/Velvetwing Butterflies\|PAGE]] | {2}{W} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Insect\|Insect]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Wail of War`**](https://scryfall.com/card/tdm/98) | [[02 Cards/Instants/Wail of War\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
 | [**`mtg:Will of the Mardu`**](https://scryfall.com/card/tdc/17) | [[02 Cards/Instants/Will of the Mardu\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.06 |
+| [**`mtg:Aetherize`**](https://scryfall.com/card/znc/23) | [[02 Cards/Instants/Aetherize\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.52 |
 | [**`mtg:Appeal to Eirdu`**](https://scryfall.com/card/ecl/5) | [[02 Cards/Instants/Appeal to Eirdu\|PAGE]] | {3}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Bake into a Pie`**](https://scryfall.com/card/fdn/169) | [[02 Cards/Instants/Bake into a Pie\|PAGE]] | {2}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.14 |
 | [**`mtg:Bolt Bend`**](https://scryfall.com/card/fdn/619) | [[02 Cards/Instants/Bolt Bend\|PAGE]] | {3}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.62 |

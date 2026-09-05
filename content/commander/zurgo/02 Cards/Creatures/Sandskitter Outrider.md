@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Sandskitter Outrider`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard
 > **Mana Cost:** {3}{B}  
 > **Type:** Creature — Goblin Soldier  
 > **P/T:** 2/1  
@@ -93,7 +93,7 @@ Sandskitter is a four-mana 2/1 with menace that endures 2 — counters on itself
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Menace", "Endure"]
-> status: Main Deck
+> status: Sideboard Deck
 > scores:
 >   general: 72
 >   deck_specific: 78
@@ -101,7 +101,7 @@ Sandskitter is a four-mana 2/1 with menace that endures 2 — counters on itself
 > scryfall_id: 1c4bfebe-f10f-44bd-9368-33e273ba5a55
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

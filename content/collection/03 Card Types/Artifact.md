@@ -2,7 +2,7 @@
 
 Card type: Artifact.
 
-**113** copies · **89** names.
+**114** copies · **90** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -20,6 +20,7 @@ Card type: Artifact.
 | [**`mtg:Wayfarer's Bauble`**](https://scryfall.com/card/tdc/335) | [[02 Cards/Artifacts/Wayfarer's Bauble\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.22 |
 | [**`mtg:Abzan Monument`**](https://scryfall.com/card/tdm/238) | [[02 Cards/Artifacts/Abzan Monument\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
 | [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 1.03 |
+| [**`mtg:Azorius Signet`**](https://scryfall.com/card/tdc/312) | [[02 Cards/Artifacts/Azorius Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
 | [**`mtg:Bark of Doran`**](https://scryfall.com/card/ecl/6) | [[02 Cards/Artifacts/Bark of Doran\|PAGE]] | {1}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Baseball Bat`**](https://scryfall.com/card/dsk/209) | [[02 Cards/Artifacts/Baseball Bat\|PAGE]] | {G}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Blade of Selves`**](https://scryfall.com/card/tdc/313) | [[02 Cards/Artifacts/Blade of Selves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 4.80 |

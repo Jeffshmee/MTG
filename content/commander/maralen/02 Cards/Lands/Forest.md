@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:71%"></div></div>
 >
-> ![Forest](https://cards.scryfall.io/border_crop/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg)
+> ![Forest](https://cards.scryfall.io/border_crop/front/f/f/ff4c78b4-7178-4a60-ba22-086fb18146df.jpg)
 >
 > ### Deck Scores
 >
@@ -68,12 +68,16 @@ Printings sleeved in this 100. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg" alt="Forest FDN 280 · ×6">
-<figcaption>FDN 280 · ×6</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/f/f/ff4c78b4-7178-4a60-ba22-086fb18146df.jpg" alt="Forest MH3 308 foil · ×2">
+<figcaption>MH3 308 foil · ×2</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/b/bbbeb57d-5fa0-4ff7-b5e8-caafc139669b.jpg" alt="Forest FDN 290 · ×1">
-<figcaption>FDN 290 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/c/5/c52038c8-5bba-4d8e-845f-30af44300acc.jpg" alt="Forest FIN 308 foil · ×2">
+<figcaption>FIN 308 foil · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/b/bbbeb57d-5fa0-4ff7-b5e8-caafc139669b.jpg" alt="Forest FDN 290 foil · ×1">
+<figcaption>FDN 290 foil · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/1/117ab60a-b888-4585-b0c6-769d387069f7.jpg" alt="Forest FDN 291 · ×1">
@@ -86,6 +90,14 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/1/f169dfb2-e4c8-46e9-8591-e51bb82da082.jpg" alt="Forest SOS 280 · ×1">
 <figcaption>SOS 280 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/e/c/ecd6d8fb-780c-446c-a8bf-93386b22fe95.jpg" alt="Forest WOE 266 foil · ×1">
+<figcaption>WOE 266 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/8/1/8100bceb-ffba-487a-bb45-4fe2a156a8dc.jpg" alt="Forest TDM 285 foil · ×1">
+<figcaption>TDM 285 foil · ×1</figcaption>
 </figure>
 </div>
 
@@ -115,7 +127,7 @@ Printings sleeved in this 100. Infocard uses the most copies.
 >   general: 70
 >   deck_specific: 72
 >   combined: 71
-> scryfall_id: d232fcc2-12f6-401a-b1aa-ddff11cb9378
+> scryfall_id: ff4c78b4-7178-4a60-ba22-086fb18146df
 > tags:
 >   - card
 >   - main-deck

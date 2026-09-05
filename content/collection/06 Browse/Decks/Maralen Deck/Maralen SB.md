@@ -2,7 +2,7 @@
 
 Copies in **Maralen SB**.
 
-**23** copies · **23** names.
+**24** copies · **24** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -27,5 +27,6 @@ Copies in **Maralen SB**.
 | [**`mtg:Llanowar Visionary`**](https://scryfall.com/card/m21/193) | [[02 Cards/Creatures/Llanowar Visionary\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.16 |
 | [**`mtg:Tajuru Snarecaster`**](https://scryfall.com/card/znr/210) | [[02 Cards/Creatures/Tajuru Snarecaster\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Elvish Regrower`**](https://scryfall.com/card/fdn/104) | [[02 Cards/Creatures/Elvish Regrower\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.09 |
+| [**`mtg:Wardens of the Cycle`**](https://scryfall.com/card/fdn/125) | [[02 Cards/Creatures/Wardens of the Cycle\|PAGE]] | {1}{B}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.08 |
 | [**`mtg:Illusion Spinners`**](https://scryfall.com/card/ecl/55) | [[02 Cards/Creatures/Illusion Spinners\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.04 |
 | [**`mtg:Springmantle Cleric`**](https://scryfall.com/card/znr/205) | [[02 Cards/Creatures/Springmantle Cleric\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |

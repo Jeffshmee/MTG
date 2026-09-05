@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Kykar, Zephyr Awakener
-87 + 1 = 88 cards (target 100)
+99 + 1 = 100 cards
 
 ```decklist
 group: auto
@@ -36,6 +36,10 @@ legality: commander
 1 Cloudblazer
 1 Emeritus of Ideation
 1 Shipwreck Dowser
+1 Deadeye Navigator
+1 Reflector Mage
+1 Loran of the Third Path
+1 Selfless Spirit
 
 # Instants
 1 An Offer You Can't Refuse
@@ -54,6 +58,7 @@ legality: commander
 1 Snap
 1 Think Twice
 1 Stroke of Midnight
+1 Aetherize
 
 # Sorceries
 1 Daydream
@@ -70,12 +75,14 @@ legality: commander
 1 Wisdom of Ages
 
 # Enchantments
-1 Witness Protection
 1 Enchanted River's Grasp
 1 Imprisoned in the Moon
 1 Stasis Snare
 1 Stormplain Detainment
 1 Tocasia's Welcome
+1 Teleportation Circle
+1 Airbender Ascension
+1 Witness Protection
 
 # Artifacts
 1 Sol Ring
@@ -85,23 +92,27 @@ legality: commander
 1 Talisman of Progress
 1 Wizard's Staff
 1 Panharmonicon
+1 Azorius Signet
 
 # Lands
 1 Azorius Guildgate
 1 Command Tower
 1 Demolition Field
 1 Evolving Wilds
-8 Island
+9 Island
 6 Plains
 1 Temple of Enlightenment
 1 Terramorphic Expanse
 1 Tranquil Cove
+1 Hallowed Fountain
+1 Floodfarm Verge
+1 Mystic Sanctuary
 ```
 
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-03 (MageCards 49736 arrivals)*
+*Last synced: 2026-09-04 (sleeved 100)*
 
 ---
 
@@ -137,6 +148,10 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Emeritus of Ideation|Emeritus of Ideation]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Shipwreck Dowser|Shipwreck Dowser]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
+- [[02 Cards/Creatures/Deadeye Navigator|Deadeye Navigator]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
+- [[02 Cards/Creatures/Reflector Mage|Reflector Mage]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
+- [[02 Cards/Creatures/Loran of the Third Path|Loran of the Third Path]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
+- [[02 Cards/Creatures/Selfless Spirit|Selfless Spirit]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 
 ### Instants
 - [[02 Cards/Instants/An Offer You Can't Refuse|An Offer You Can't Refuse]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
@@ -155,6 +170,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Instants/Snap|Snap]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Instants/Stroke of Midnight|Stroke of Midnight]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Instants/Aetherize|Aetherize]] **95** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:95%"></div></div>
 
 ### Sorceries
 - [[02 Cards/Sorceries/Daydream|Daydream]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
@@ -171,12 +187,14 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Sorceries/Wisdom of Ages|Wisdom of Ages]] **65** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:65%"></div></div>
 
 ### Enchantments
-- [[02 Cards/Enchantments/Witness Protection|Witness Protection]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Enchantments/Enchanted River's Grasp|Enchanted River's Grasp]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Enchantments/Imprisoned in the Moon|Imprisoned in the Moon]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Enchantments/Stasis Snare|Stasis Snare]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
 - [[02 Cards/Enchantments/Stormplain Detainment|Stormplain Detainment]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Enchantments/Tocasia's Welcome|Tocasia's Welcome]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Enchantments/Teleportation Circle|Teleportation Circle]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Enchantments/Airbender Ascension|Airbender Ascension]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
+- [[02 Cards/Enchantments/Witness Protection|Witness Protection]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 
 ### Artifacts
 - [[02 Cards/Artifacts/Sol Ring|Sol Ring]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
@@ -186,6 +204,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Artifacts/Talisman of Progress|Talisman of Progress]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Wizard's Staff|Wizard's Staff]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
+- [[02 Cards/Artifacts/Azorius Signet|Azorius Signet]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 
 ### Lands
 - [[02 Cards/Lands/Azorius Guildgate|Azorius Guildgate]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
@@ -197,3 +216,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Lands/Temple of Enlightenment|Temple of Enlightenment]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Terramorphic Expanse|Terramorphic Expanse]] **73** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:73%"></div></div>
 - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
+- [[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
+- [[02 Cards/Lands/Floodfarm Verge|Floodfarm Verge]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Lands/Mystic Sanctuary|Mystic Sanctuary]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>

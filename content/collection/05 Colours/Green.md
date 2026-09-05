@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**230** copies · **153** names.
+**232** copies · **155** names.
 
 ```decklist
 group: auto
@@ -20,6 +20,7 @@ legality: commander
 1 Beastrider Vanguard
 1 Bejeweled Warg
 2 Beorn, Reluctant Host // Till and Tend
+1 Bloom Tender
 1 Brambleguard Veteran
 1 Cackling Prowler
 1 Cautious Survivor
@@ -32,6 +33,7 @@ legality: commander
 4 Druid of the Cowl
 1 Dusyut Earthcarver
 4 Dwynen's Elite
+1 Dwynen, Gilt-Leaf Daen
 1 Elfhame Druid
 1 Elves of Deep Shadow
 4 Elvish Archdruid

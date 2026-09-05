@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Human\|Human]] · [[04 Creature Types/Advisor\|Advisor]] |
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] |
+| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
 
 </div>
 
@@ -43,7 +43,7 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Outlaws of Thunder Junction (<code>OTJ</code>)</td><td>211</td><td>—</td><td>1</td><td>Zurgo SB</td><td>3.85</td></tr>
+<tr><td>Outlaws of Thunder Junction (<code>OTJ</code>)</td><td>211</td><td>—</td><td>1</td><td>Zurgo</td><td>3.85</td></tr>
 </tbody>
 </table>
 </div>
@@ -51,7 +51,7 @@
 
 ## In decks
 
-- [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo — Sideboard]]
+- [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -66,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Human|Human]] · [[04 Creature Types/Advisor|Advisor]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo SB]] · [[06 Browse/Sets/OTJ|Outlaws of Thunder Junction]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Human|Human]] · [[04 Creature Types/Advisor|Advisor]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/OTJ|Outlaws of Thunder Junction]]
 
 ---
 

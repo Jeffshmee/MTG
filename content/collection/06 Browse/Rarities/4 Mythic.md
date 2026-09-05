@@ -2,14 +2,16 @@
 
 Rarity: mythic.
 
-**41** copies · **40** names.
+**43** copies · **42** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Maze's End`**](https://scryfall.com/card/rvr/465) | [[02 Cards/Lands/Maze's End\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 3.70 |
 | [**`mtg:Dragonmaster Outcast`**](https://scryfall.com/card/tdc/211) | [[02 Cards/Creatures/Dragonmaster Outcast\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.33 |
 | [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 17.03 |
+| [**`mtg:Bloom Tender`**](https://scryfall.com/card/ecl/166) | [[02 Cards/Creatures/Bloom Tender\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 9.57 |
 | [**`mtg:Finale of Revelation`**](https://scryfall.com/card/fdn/589) | [[02 Cards/Sorceries/Finale of Revelation\|PAGE]] | {X}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
+| [**`mtg:Ajani, Caller of the Pride`**](https://scryfall.com/card/m14/1) | [[02 Cards/Planeswalkers/Ajani, Caller of the Pride\|PAGE]] | {1}{W}{W} | [[03 Card Types/Planeswalker\|Planeswalker]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 2.64 |
 | [**`mtg:Elrond, Moon-Reader`**](https://scryfall.com/card/hob/36) | [[02 Cards/Creatures/Elrond, Moon-Reader\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.86 |
 | [**`mtg:Emeritus of Truce`**](https://scryfall.com/card/sos/13) | [[02 Cards/Creatures/Emeritus of Truce\|PAGE]] | {1}{W}{W} // {W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.29 |
 | [**`mtg:Gix, Yawgmoth Praetor`**](https://scryfall.com/card/tdc/181) | [[02 Cards/Creatures/Gix, Yawgmoth Praetor\|PAGE]] | {1}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Praetor\|Praetor]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.11 |

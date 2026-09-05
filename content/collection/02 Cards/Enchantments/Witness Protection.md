@@ -44,7 +44,7 @@
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>168</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>168</td><td>—</td><td>1</td><td>Kykar</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>168</td><td>—</td><td>1</td><td>Kykar</td><td>0.10</td></tr>
 </tbody>
 </table>
 </div>

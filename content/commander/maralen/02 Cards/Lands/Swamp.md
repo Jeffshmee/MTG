@@ -68,16 +68,8 @@ Printings sleeved in this 100. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/f/0/f0bfdb9e-318f-4acd-9fbd-41b98a8875d6.jpg" alt="Swamp TDM 281 · ×2">
-<figcaption>TDM 281 · ×2</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg" alt="Swamp FDN 276 · ×1">
-<figcaption>FDN 276 · ×1</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/1/d/1dd4d605-02a2-4183-b191-0bca8dfbf962.jpg" alt="Swamp ECL 271 · ×1">
-<figcaption>ECL 271 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/f/0/f0bfdb9e-318f-4acd-9fbd-41b98a8875d6.jpg" alt="Swamp TDM 281 · ×1">
+<figcaption>TDM 281 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/d/fda1dbfa-a57b-4aa8-9993-c8f97aec28bb.jpg" alt="Swamp FDN 287 · ×1">
@@ -90,6 +82,18 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/7/1797d5c7-d3fa-4184-85ae-46db14ddf523.jpg" alt="Swamp SOS 269 · ×1">
 <figcaption>SOS 269 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/1/11093e3f-092e-49d9-aef9-b9855b040bf2.jpg" alt="Swamp STX 371 foil · ×1">
+<figcaption>STX 371 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/c/b/cbd95de0-702a-4b88-a1cc-981cf1d9673e.jpg" alt="Swamp DSK 282 foil · ×1">
+<figcaption>DSK 282 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/8/d86cd8fb-4ba7-4311-b0f3-b06fa112eda5.jpg" alt="Swamp LTR 267 foil · ×1">
+<figcaption>LTR 267 foil · ×1</figcaption>
 </figure>
 </div>
 

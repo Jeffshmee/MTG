@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Floodfarm Verge`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -87,7 +87,7 @@ Floodfarm Verge is a mana source for this Azorius pile. Verge. Untapped with Isl
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 84
@@ -95,7 +95,7 @@ Floodfarm Verge is a mana source for this Azorius pile. Verge. Untapped with Isl
 > scryfall_id: d53ed0db-1199-44b3-8eda-8189dfcf53d1
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

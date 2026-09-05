@@ -19,7 +19,7 @@ legality: commander
 1 Mindblade Render
 1 Shocking Sharpshooter
 1 Adeline, Resplendent Cathar
-1 Anafenza, Unyielding Lineage
+1 Danitha, Benalia's Hope
 1 Anim Pakal, Thousandth Moon
 1 Aron, Benalia's Ruin
 1 Boggart Mischief
@@ -39,7 +39,7 @@ legality: commander
 1 Hero of Bladehold
 1 Jazal Goldmane
 1 Ogre Battledriver
-1 Sandskitter Outrider
+1 Kambal, Profiteering Mayor
 1 Teysa Karlov
 1 Angel of Invention
 1 Neriv, Crackling Vanguard
@@ -135,7 +135,7 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Creatures/Mindblade Render|Mindblade Render]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Creatures/Shocking Sharpshooter|Shocking Sharpshooter]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
-- [[02 Cards/Creatures/Anafenza, Unyielding Lineage|Anafenza, Unyielding Lineage]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
+- [[02 Cards/Creatures/Danitha, Benalia's Hope|Danitha, Benalia's Hope]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Anim Pakal, Thousandth Moon|Anim Pakal, Thousandth Moon]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Aron, Benalia's Ruin|Aron, Benalia's Ruin]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Creatures/Dalkovan Packbeasts|Dalkovan Packbeasts]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
@@ -155,7 +155,7 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Creatures/Hero of Bladehold|Hero of Bladehold]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Jazal Goldmane|Jazal Goldmane]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Ogre Battledriver|Ogre Battledriver]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
-- [[02 Cards/Creatures/Sandskitter Outrider|Sandskitter Outrider]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
+- [[02 Cards/Creatures/Kambal, Profiteering Mayor|Kambal, Profiteering Mayor]] **74** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:74%"></div></div>
 - [[02 Cards/Creatures/Teysa Karlov|Teysa Karlov]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Angel of Invention|Angel of Invention]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Neriv, Crackling Vanguard|Neriv, Crackling Vanguard]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>

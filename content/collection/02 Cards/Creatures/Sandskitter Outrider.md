@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Goblin\|Goblin]] · [[04 Creature Types/Soldier\|Soldier]] |
 | **Colour** | [[05 Colours/Black\|Black]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] |
 
 </div>
 
@@ -43,7 +43,7 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>89</td><td>—</td><td>1</td><td>Zurgo</td><td>0.05</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>89</td><td>—</td><td>1</td><td>Zurgo SB</td><td>0.05</td></tr>
 </tbody>
 </table>
 </div>
@@ -51,7 +51,7 @@
 
 ## In decks
 
-- [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
+- [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo — Sideboard]]
 
 ### Arts in this Collection
 
@@ -66,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Goblin|Goblin]] · [[04 Creature Types/Soldier|Soldier]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Goblin|Goblin]] · [[04 Creature Types/Soldier|Soldier]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo SB]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]]
 
 ---
 

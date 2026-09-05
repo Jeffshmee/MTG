@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:72%"></div></div>
 >
-> ![Island](https://cards.scryfall.io/border_crop/front/2/3/23635e40-d040-40b7-8b98-90ed362aa028.jpg)
+> ![Island](https://cards.scryfall.io/border_crop/front/c/6/c6aa89a8-3584-4906-b9a9-41ef2f021f8e.jpg)
 >
 > ### Deck Scores
 >
@@ -70,28 +70,36 @@ Printings sleeved in this 100. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/2/3/23635e40-d040-40b7-8b98-90ed362aa028.jpg" alt="Island FDN 275 · ×3">
-<figcaption>FDN 275 · ×3</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/f/d/fd1b9e7c-09d0-4907-9f48-34289f3cd2cc.jpg" alt="Island SOS 275 foil · ×1">
+<figcaption>SOS 275 foil · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/c/6/c6aa89a8-3584-4906-b9a9-41ef2f021f8e.jpg" alt="Island HOB 190 · ×1">
 <figcaption>HOB 190 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/0/b0da67fb-1cb2-4105-ab5c-b7c680b8116c.jpg" alt="Island ECL 270 · ×1">
-<figcaption>ECL 270 · ×1</figcaption>
-</figure>
-<figure>
 <img src="https://cards.scryfall.io/border_crop/front/8/8/886eae6e-ced2-4d94-96fa-9bb5385b06f4.jpg" alt="Island FDN 284 · ×1">
 <figcaption>FDN 284 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/f/d/fd1b9e7c-09d0-4907-9f48-34289f3cd2cc.jpg" alt="Island SOS 275 foil · ×1">
-<figcaption>SOS 275 foil · ×1</figcaption>
-</figure>
-<figure>
 <img src="https://cards.scryfall.io/border_crop/front/9/3/937250fe-bcad-4ff8-9406-286a69db7e0a.jpg" alt="Island SOS 268 · ×1">
 <figcaption>SOS 268 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/9/b92ec9f6-a56d-40c6-aee2-7d5e1524c985.jpg" alt="Island FIN 297 foil · ×2">
+<figcaption>FIN 297 foil · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/c/1cb1ac28-ee04-4892-97ea-2cfdebbafcad.jpg" alt="Island MH3 305 foil · ×1">
+<figcaption>MH3 305 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/2/0/2039d727-3bb6-4a76-89ca-159ecf10cad8.jpg" alt="Island MOM 284 foil · ×1">
+<figcaption>MOM 284 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg" alt="Island ONE 263 foil · ×1">
+<figcaption>ONE 263 foil · ×1</figcaption>
 </figure>
 </div>
 
@@ -121,7 +129,7 @@ Printings sleeved in this 100. Infocard uses the most copies.
 >   general: 70
 >   deck_specific: 74
 >   combined: 72
-> scryfall_id: 23635e40-d040-40b7-8b98-90ed362aa028
+> scryfall_id: c6aa89a8-3584-4906-b9a9-41ef2f021f8e
 > tags:
 >   - card
 >   - main-deck

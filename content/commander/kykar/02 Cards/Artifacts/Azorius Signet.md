@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Azorius Signet`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}  
 > **Type:** Artifact  
 >
@@ -86,7 +86,7 @@ Azorius Signet is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 84
@@ -94,7 +94,7 @@ Azorius Signet is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|
 > scryfall_id: 41c50b99-4a29-4bef-8d41-c548c8a61dac
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

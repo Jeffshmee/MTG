@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mystic Sanctuary`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land — Island  
 >
@@ -91,7 +91,7 @@ Mystic Sanctuary is a mana source for this Azorius pile. Island that puts an ins
 > colors: []
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 90
@@ -99,7 +99,7 @@ Mystic Sanctuary is a mana source for this Azorius pile. Island that puts an ins
 > scryfall_id: 4cd86997-d7b9-4b5b-9488-11f5c679e4d3
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Teleportation Circle`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{W}  
 > **Type:** Enchantment  
 >
@@ -90,7 +90,7 @@ Teleportation Circle blinks a creature you control ({3}{W}). That is instant or 
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -98,7 +98,7 @@ Teleportation Circle blinks a creature you control ({3}{W}). That is instant or 
 > scryfall_id: 90140bc0-4a9c-4422-b07c-3400c7ccde56
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

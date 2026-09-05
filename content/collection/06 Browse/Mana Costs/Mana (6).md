@@ -2,7 +2,7 @@
 
 Cards whose mana value is 6.
 
-**62** copies · **51** names.
+**63** copies · **52** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -17,6 +17,7 @@ Cards whose mana value is 6.
 | [**`mtg:Canyon Crawler`**](https://scryfall.com/card/tla/90) | [[02 Cards/Creatures/Canyon Crawler\|PAGE]] | {4}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spider\|Spider]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.08 |
 | [**`mtg:Colossus of the Blood Age`**](https://scryfall.com/card/sos/181) | [[02 Cards/Creatures/Colossus of the Blood Age\|PAGE]] | {4}{R}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.18 |
 | [**`mtg:Confiscate`**](https://scryfall.com/card/fdn/709) | [[02 Cards/Enchantments/Confiscate\|PAGE]] | {4}{U}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
+| [**`mtg:Deadeye Navigator`**](https://scryfall.com/card/sld/902) | [[02 Cards/Creatures/Deadeye Navigator\|PAGE]] | {4}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 2.40 |
 | [**`mtg:Defibrillating Current`**](https://scryfall.com/card/tdm/177) | [[02 Cards/Sorceries/Defibrillating Current\|PAGE]] | {2/R}{2/W}{2/B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.06 |
 | [**`mtg:Dirgur Island Dragon`**](https://scryfall.com/card/tdm/40) | [[02 Cards/Creatures/Dirgur Island Dragon\|PAGE]] | {5}{U} // {1}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.06 |
 | [**`mtg:Dusyut Earthcarver`**](https://scryfall.com/card/tdm/141) | [[02 Cards/Creatures/Dusyut Earthcarver\|PAGE]] | {5}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elephant\|Elephant]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.02 |

@@ -74,10 +74,6 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figcaption>TDM 278 · ×2</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/1/2/12cff32a-a365-43ee-a196-8ce32b3bb9fd.jpg" alt="Plains TDM 277 · ×1">
-<figcaption>TDM 277 · ×1</figcaption>
-</figure>
-<figure>
 <img src="https://cards.scryfall.io/border_crop/front/4/e/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3.jpg" alt="Plains FDN 272 · ×1">
 <figcaption>FDN 272 · ×1</figcaption>
 </figure>
@@ -88,6 +84,10 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg" alt="Plains SOS 267 · ×1">
 <figcaption>SOS 267 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/7/a/7a0f9892-89cd-46ff-bc87-114e175cb575.jpg" alt="Plains FDN 283 · ×1">
+<figcaption>FDN 283 · ×1</figcaption>
 </figure>
 </div>
 

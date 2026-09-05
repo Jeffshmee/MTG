@@ -2,7 +2,7 @@
 
 Copies in **Zurgo SB**.
 
-**26** copies · **26** names.
+**27** copies · **27** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -17,7 +17,7 @@ Copies in **Zurgo SB**.
 | [**`mtg:Goblin Negotiation`**](https://scryfall.com/card/fdn/88) | [[02 Cards/Sorceries/Goblin Negotiation\|PAGE]] | {X}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
 | [**`mtg:Grenzo, Havoc Raiser`**](https://scryfall.com/card/tdc/216) | [[02 Cards/Creatures/Grenzo, Havoc Raiser\|PAGE]] | {R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
 | [**`mtg:Shadow Summoning`**](https://scryfall.com/card/tdc/101) | [[02 Cards/Sorceries/Shadow Summoning\|PAGE]] | {W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
-| [**`mtg:Kambal, Profiteering Mayor`**](https://scryfall.com/card/otj/211) | [[02 Cards/Creatures/Kambal, Profiteering Mayor\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.85 |
+| [**`mtg:Anafenza, Unyielding Lineage`**](https://scryfall.com/card/tdm/2) | [[02 Cards/Creatures/Anafenza, Unyielding Lineage\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
 | [**`mtg:Nightblade Brigade`**](https://scryfall.com/card/tdm/85) | [[02 Cards/Creatures/Nightblade Brigade\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Perforating Artist`**](https://scryfall.com/card/fdn/124) | [[02 Cards/Creatures/Perforating Artist\|PAGE]] | {1}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Devil\|Devil]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
 | [**`mtg:Thunder of Unity`**](https://scryfall.com/card/tdm/231) | [[02 Cards/Enchantments/Thunder of Unity\|PAGE]] | {R}{W}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.14 |
@@ -29,6 +29,7 @@ Copies in **Zurgo SB**.
 | [**`mtg:Emeria Angel`**](https://scryfall.com/card/tdc/114) | [[02 Cards/Creatures/Emeria Angel\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.36 |
 | [**`mtg:Ironwill Forger`**](https://scryfall.com/card/tdc/13) | [[02 Cards/Creatures/Ironwill Forger\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.40 |
 | [**`mtg:Redcap Gutter-Dweller`**](https://scryfall.com/card/fdn/631) | [[02 Cards/Creatures/Redcap Gutter-Dweller\|PAGE]] | {2}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.13 |
+| [**`mtg:Sandskitter Outrider`**](https://scryfall.com/card/tdm/89) | [[02 Cards/Creatures/Sandskitter Outrider\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
 | [**`mtg:Eliminate the Competition`**](https://scryfall.com/card/tdc/179) | [[02 Cards/Sorceries/Eliminate the Competition\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.14 |
 | [**`mtg:Goldlust Triad`**](https://scryfall.com/card/tdc/34) | [[02 Cards/Creatures/Goldlust Triad\|PAGE]] | {4}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 7.12 |
 | [**`mtg:Legion Loyalty`**](https://scryfall.com/card/tdc/122) | [[02 Cards/Enchantments/Legion Loyalty\|PAGE]] | {6}{W}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 1 | 0.32 |

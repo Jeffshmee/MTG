@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Anafenza, Unyielding Lineage`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard
 > **Mana Cost:** {2}{W}  
 > **Type:** Legendary Creature — Spirit Soldier  
 > **P/T:** 2/2  
@@ -98,7 +98,7 @@ Anafenza is a flash first-strike answer that sometimes makes a body, not a token
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["First strike", "Flash", "Endure"]
-> status: Main Deck
+> status: Sideboard Deck
 > scores:
 >   general: 78
 >   deck_specific: 75
@@ -106,7 +106,7 @@ Anafenza is a flash first-strike answer that sometimes makes a body, not a token
 > scryfall_id: 29957f49-9a6b-42f6-b2fb-b48f653ab725
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

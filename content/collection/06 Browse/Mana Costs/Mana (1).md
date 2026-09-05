@@ -2,7 +2,7 @@
 
 Cards whose mana value is 1.
 
-**191** copies · **125** names.
+**192** copies · **126** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -55,6 +55,7 @@ Cards whose mana value is 1.
 | [**`mtg:Fleeting Effigy`**](https://scryfall.com/card/tdm/108) | [[02 Cards/Creatures/Fleeting Effigy\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.06 |
 | [**`mtg:Fractal Anomaly`**](https://scryfall.com/card/sos/50) | [[02 Cards/Instants/Fractal Anomaly\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.10 |
 | [**`mtg:Fractalize`**](https://scryfall.com/card/sos/51) | [[02 Cards/Instants/Fractalize\|PAGE]] | {X}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.10 |
+| [**`mtg:Frenzied Goblin`**](https://scryfall.com/card/fdn/199) | [[02 Cards/Creatures/Frenzied Goblin\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
 | [**`mtg:Fyndhorn Elves`**](https://scryfall.com/card/cmr/678) | [[02 Cards/Creatures/Fyndhorn Elves\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 4.21 |
 | [**`mtg:Ghitu Lavarunner`**](https://scryfall.com/card/fdn/623) | [[02 Cards/Creatures/Ghitu Lavarunner\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
 | [**`mtg:Giant Growth`**](https://scryfall.com/card/fdn/223) | [[02 Cards/Instants/Giant Growth\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.16 |
@@ -129,5 +130,5 @@ Cards whose mana value is 1.
 | [**`mtg:Wild Hypothesis`**](https://scryfall.com/card/sos/167) | [[02 Cards/Sorceries/Wild Hypothesis\|PAGE]] | {X}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.12 |
 | [**`mtg:Wild Ride`**](https://scryfall.com/card/tdm/132) | [[02 Cards/Sorceries/Wild Ride\|PAGE]] | {R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.11 |
 | [**`mtg:Wildwood Scourge`**](https://scryfall.com/card/fdn/236) | [[02 Cards/Creatures/Wildwood Scourge\|PAGE]] | {X}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Hydra\|Hydra]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
-| [**`mtg:Witness Protection`**](https://scryfall.com/card/fdn/168) | [[02 Cards/Enchantments/Witness Protection\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.19 |
+| [**`mtg:Witness Protection`**](https://scryfall.com/card/fdn/168) | [[02 Cards/Enchantments/Witness Protection\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.20 |
 | [**`mtg:Worthy Cost`**](https://scryfall.com/card/tdm/99) | [[02 Cards/Sorceries/Worthy Cost\|PAGE]] | {B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.20 |

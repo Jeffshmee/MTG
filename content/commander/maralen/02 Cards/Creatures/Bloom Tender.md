@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Bloom Tender`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 1/1  
@@ -93,7 +93,7 @@ Bloom Tender is a two-mana Elf that taps for colors, not for creature count. Onc
 > colors: [G]
 > color_identity: [G]
 > keywords: ["Vivid"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 90
 >   deck_specific: 88
@@ -101,7 +101,7 @@ Bloom Tender is a two-mana Elf that taps for colors, not for creature count. Onc
 > scryfall_id: ba86688d-18f0-4b5c-a797-42bf125a6c9f
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

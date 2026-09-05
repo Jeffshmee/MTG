@@ -2,11 +2,12 @@
 
 Cards whose mana value is 4.
 
-**214** copies · **164** names.
+**217** copies · **167** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Aberrant Manawurm`**](https://scryfall.com/card/sos/138) | [[02 Cards/Creatures/Aberrant Manawurm\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wurm\|Wurm]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
+| [**`mtg:Aetherize`**](https://scryfall.com/card/znc/23) | [[02 Cards/Instants/Aetherize\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.52 |
 | [**`mtg:Alela, Cunning Conqueror`**](https://scryfall.com/card/woc/3) | [[02 Cards/Creatures/Alela, Cunning Conqueror\|PAGE]] | {2}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 8.77 |
 | [**`mtg:Angel of Finality`**](https://scryfall.com/card/fdn/136) | [[02 Cards/Creatures/Angel of Finality\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.10 |
 | [**`mtg:Angelic Destiny`**](https://scryfall.com/card/soc/134) | [[02 Cards/Enchantments/Angelic Destiny\|PAGE]] | {2}{W}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.37 |
@@ -56,6 +57,7 @@ Cards whose mana value is 4.
 | [**`mtg:Dream Seizer`**](https://scryfall.com/card/ecl/101) | [[02 Cards/Creatures/Dream Seizer\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Driver of the Dead`**](https://scryfall.com/card/fdn/605) | [[02 Cards/Creatures/Driver of the Dead\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |
 | [**`mtg:Dwarven Shortsword`**](https://scryfall.com/card/hob/10) | [[02 Cards/Artifacts/Dwarven Shortsword\|PAGE]] | {3}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.07 |
+| [**`mtg:Dwynen, Gilt-Leaf Daen`**](https://scryfall.com/card/fdn/217) | [[02 Cards/Creatures/Dwynen, Gilt-Leaf Daen\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.16 |
 | [**`mtg:Eager Glyphmage`**](https://scryfall.com/card/sos/11) | [[02 Cards/Creatures/Eager Glyphmage\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.08 |
 | [**`mtg:Earth Rumble Wrestlers`**](https://scryfall.com/card/tla/218) | [[02 Cards/Creatures/Earth Rumble Wrestlers\|PAGE]] | {3}{R/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] [[04 Creature Types/Performer\|Performer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Earthbending Lesson`**](https://scryfall.com/card/tla/176) | [[02 Cards/Sorceries/Earthbending Lesson\|PAGE]] | {3}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |
@@ -142,6 +144,7 @@ Cards whose mana value is 4.
 | [**`mtg:Tackle Artist`**](https://scryfall.com/card/sos/133) | [[02 Cards/Creatures/Tackle Artist\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.12 |
 | [**`mtg:Tam, Observant Sequencer`**](https://scryfall.com/card/sos/237) | [[02 Cards/Creatures/Tam, Observant Sequencer\|PAGE]] | {2}{G}{U} // {G}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Gorgon\|Gorgon]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.13 |
 | [**`mtg:Teeming Dragonstorm`**](https://scryfall.com/card/tdm/30) | [[02 Cards/Enchantments/Teeming Dragonstorm\|PAGE]] | {3}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |
+| [**`mtg:Teleportation Circle`**](https://scryfall.com/card/afr/39) | [[02 Cards/Enchantments/Teleportation Circle\|PAGE]] | {3}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 7.88 |
 | [**`mtg:Temporal Cleansing`**](https://scryfall.com/card/ecl/78) | [[02 Cards/Sorceries/Temporal Cleansing\|PAGE]] | {3}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
 | [**`mtg:Teysa Karlov`**](https://scryfall.com/card/cmm/688) | [[02 Cards/Creatures/Teysa Karlov\|PAGE]] | {2}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.39 |
 | [**`mtg:Thassa, Deep-Dwelling`**](https://scryfall.com/card/thb/261) | [[02 Cards/Creatures/Thassa, Deep-Dwelling\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/God\|God]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 20.25 |

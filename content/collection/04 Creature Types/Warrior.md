@@ -2,7 +2,7 @@
 
 Creature type: Warrior.
 
-**47** copies · **34** names.
+**48** copies · **35** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -30,6 +30,7 @@ Creature type: Warrior.
 | [**`mtg:Arashin Sunshield`**](https://scryfall.com/card/tdm/3) | [[02 Cards/Creatures/Arashin Sunshield\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Beetleback Chief`**](https://scryfall.com/card/tdc/205) | [[02 Cards/Creatures/Beetleback Chief\|PAGE]] | {2}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.40 |
 | [**`mtg:Champions of the Perfect`**](https://scryfall.com/card/ecl/171) | [[02 Cards/Creatures/Champions of the Perfect\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.04 |
+| [**`mtg:Dwynen, Gilt-Leaf Daen`**](https://scryfall.com/card/fdn/217) | [[02 Cards/Creatures/Dwynen, Gilt-Leaf Daen\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.16 |
 | [**`mtg:Earth Rumble Wrestlers`**](https://scryfall.com/card/tla/218) | [[02 Cards/Creatures/Earth Rumble Wrestlers\|PAGE]] | {3}{R/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] [[04 Creature Types/Performer\|Performer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Jazal Goldmane`**](https://scryfall.com/card/fdn/497) | [[02 Cards/Creatures/Jazal Goldmane\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.29 |
 | [**`mtg:Ogre Battledriver`**](https://scryfall.com/card/tdc/227) | [[02 Cards/Creatures/Ogre Battledriver\|PAGE]] | {2}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Ogre\|Ogre]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.21 |

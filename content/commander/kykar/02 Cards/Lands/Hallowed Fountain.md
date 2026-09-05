@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Hallowed Fountain`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land — Plains Island  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> ![Hallowed Fountain](https://cards.scryfall.io/border_crop/front/b/7/b7285986-7e08-4969-86ef-452dc5bfdd9f.jpg)
+> ![Hallowed Fountain](https://cards.scryfall.io/border_crop/front/e/0/e056b55f-82ed-4fe0-ab0c-bb20fa4a218a.jpg)
 >
 > ### Deck Scores
 >
@@ -89,15 +89,15 @@ Hallowed Fountain is a mana source for this Azorius pile. Shock. Best Azorius du
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 92
 >   deck_specific: 86
 >   combined: 88
-> scryfall_id: b7285986-7e08-4969-86ef-452dc5bfdd9f
+> scryfall_id: e056b55f-82ed-4fe0-ab0c-bb20fa4a218a
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

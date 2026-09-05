@@ -5,7 +5,7 @@
 > **Mana Cost:** {B}{R}
 > **Type:** Creature — Goblin Warlock
 >
-> ![Boggart Cursecrafter](https://cards.scryfall.io/border_crop/front/a/9/a942f56d-69ee-4151-baae-9a718ff6e7b6.jpg)
+> ![Boggart Cursecrafter](https://cards.scryfall.io/border_crop/front/b/0/b0b67eb9-0d88-4f2c-8063-e8bedfa78556.jpg)
 
 <div class="collection-side-tables">
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 03/09/2026 | MageCards · rah_wares |
+| 04/09/2026 | MageCards · MangoOverload |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>331</td><td>foil</td><td>1</td><td>Box</td><td>0.22</td></tr>
+<tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>206</td><td>—</td><td>1</td><td>Box</td><td>0.20</td></tr>
 </tbody>
 </table>
 </div>
@@ -54,6 +56,10 @@
 Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/0/b0b67eb9-0d88-4f2c-8063-e8bedfa78556.jpg" alt="Boggart Cursecrafter ECL 206 · ×1">
+<figcaption>ECL 206 · ×1</figcaption>
+</figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/9/a942f56d-69ee-4151-baae-9a718ff6e7b6.jpg" alt="Boggart Cursecrafter ECL 331 · ×1">
 <figcaption>ECL 331 · ×1</figcaption>
@@ -74,8 +80,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: "{B}{R}"
 > cmc: 2
 > type: "Creature — Goblin Warlock"
-> scryfall_id: a942f56d-69ee-4151-baae-9a718ff6e7b6
-> quantity: 1
+> scryfall_id: b0b67eb9-0d88-4f2c-8063-e8bedfa78556
+> quantity: 2
 > tags:
 >   - card
 >   - collection

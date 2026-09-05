@@ -2,7 +2,7 @@
 
 Set `TLA`. Qty here is copies of this name from this set.
 
-**30** copies · **29** names.
+**31** copies · **30** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,6 +13,7 @@ Set `TLA`. Qty here is copies of this name from this set.
 | [**`mtg:Northern Air Temple`**](https://scryfall.com/card/tla/111) | [[02 Cards/Enchantments/Northern Air Temple\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:Pillar Launch`**](https://scryfall.com/card/tla/189) | [[02 Cards/Instants/Pillar Launch\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Accumulate Wisdom`**](https://scryfall.com/card/tla/44) | [[02 Cards/Instants/Accumulate Wisdom\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.37 |
+| [**`mtg:Airbender Ascension`**](https://scryfall.com/card/tla/6) | [[02 Cards/Enchantments/Airbender Ascension\|PAGE]] | {1}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.13 |
 | [**`mtg:Azula Always Lies`**](https://scryfall.com/card/tla/84) | [[02 Cards/Instants/Azula Always Lies\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Forecasting Fortune Teller`**](https://scryfall.com/card/tla/51) | [[02 Cards/Creatures/Forecasting Fortune Teller\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Advisor\|Advisor]] [[04 Creature Types/Ally\|Ally]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Kyoshi Battle Fan`**](https://scryfall.com/card/tla/257) | [[02 Cards/Artifacts/Kyoshi Battle Fan\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |

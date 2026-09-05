@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**98** copies · **71** names.
+**99** copies · **72** names.
 
 ```decklist
 group: auto
@@ -42,6 +42,7 @@ legality: commander
 # Artifacts
 1 Abzan Monument
 2 Arcane Signet
+1 Azorius Signet
 1 Basilisk Collar
 1 Bear Trap
 2 Blade of Selves

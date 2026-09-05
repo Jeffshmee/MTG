@@ -2,7 +2,7 @@
 
 Card type: Sorcery.
 
-**234** copies · **166** names.
+**235** copies · **167** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -143,6 +143,7 @@ Card type: Sorcery.
 | [**`mtg:Beorn, Reluctant Host`**](https://scryfall.com/card/hob/118) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | {4}{G} // {1}{G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Bear\|Bear]] [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.04 |
 | [**`mtg:Disruptive Stormbrood`**](https://scryfall.com/card/tdm/178) | [[02 Cards/Creatures/Disruptive Stormbrood\|PAGE]] | {4}{G} // {1}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.10 |
 | [**`mtg:Eliminate the Competition`**](https://scryfall.com/card/tdc/179) | [[02 Cards/Sorceries/Eliminate the Competition\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.14 |
+| [**`mtg:Essence Drain`**](https://scryfall.com/card/m13/93) | [[02 Cards/Sorceries/Essence Drain\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 6.43 |
 | [**`mtg:Incinerating Blast`**](https://scryfall.com/card/fdn/90) | [[02 Cards/Sorceries/Incinerating Blast\|PAGE]] | {4}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.06 |
 | [**`mtg:Mammoth Bellow`**](https://scryfall.com/card/tdm/205) | [[02 Cards/Sorceries/Mammoth Bellow\|PAGE]] | {2}{G}{U}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |

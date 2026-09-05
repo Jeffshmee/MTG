@@ -51,7 +51,7 @@ legality: commander
 1 Lathril, Blade of the Elves
 1 Shessra, Death's Whisper
 1 Thranduil, Sindarin Liege
-1 Wardens of the Cycle
+1 Bloom Tender
 
 # Instants
 1 Assassin's Trophy
@@ -155,7 +155,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Shessra, Death's Whisper|Shessra, Death's Whisper]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>
 - [[02 Cards/Creatures/Thranduil, Sindarin Liege|Thranduil, Sindarin Liege]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
-- [[02 Cards/Creatures/Wardens of the Cycle|Wardens of the Cycle]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
+- [[02 Cards/Creatures/Bloom Tender|Bloom Tender]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
 
 ### Instants

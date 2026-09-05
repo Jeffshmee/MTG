@@ -12,6 +12,7 @@ legality: commander
 1 Veil of Summer
 1 Confounding Riddle
 1 Aid from the Cowl
+1 Wardens of the Cycle
 
 # Recent Cuts
 1 Evolving Wilds
@@ -37,7 +38,6 @@ legality: commander
 1 Springmantle Cleric
 
 # Ordered
-1 Bloom Tender
 
 # Wishlist
 1 Bitterblossom
@@ -54,7 +54,7 @@ legality: commander
 ```
 
 *Source: `maralen-fae/07 Assets/sideboard.md`*
-*Last synced: 2026-08-30*
+*Last synced: 2026-09-04*
 
 ---
 
@@ -194,14 +194,13 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
-> [!info] **`mtg:Bloom Tender`**
-> **89** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:89%"></div></div>
+> [!info] **`mtg:Wardens of the Cycle`**
+> **75** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:75%"></div></div>
 >
-> [[02 Cards/Creatures/Bloom Tender|Open local page →]]
+> [[02 Cards/Creatures/Wardens of the Cycle|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Wardens of the Cycle|Wardens of the Cycle]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Urborg Elf`**
 > **85** / 100 · ⚪ Wishlist

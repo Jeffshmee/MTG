@@ -2,7 +2,7 @@
 
 Creature type: Wizard.
 
-**78** copies · **55** names.
+**79** copies · **56** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -37,6 +37,7 @@ Creature type: Wizard.
 | [**`mtg:Matterbending Mage`**](https://scryfall.com/card/sos/59) | [[02 Cards/Creatures/Matterbending Mage\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Pensive Professor`**](https://scryfall.com/card/sos/63) | [[02 Cards/Creatures/Pensive Professor\|PAGE]] | {1}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.41 |
 | [**`mtg:Redoubled Stormsinger`**](https://scryfall.com/card/soc/251) | [[02 Cards/Creatures/Redoubled Stormsinger\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
+| [**`mtg:Reflector Mage`**](https://scryfall.com/card/ogw/157) | [[02 Cards/Creatures/Reflector Mage\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.42 |
 | [**`mtg:Tempest Angler`**](https://scryfall.com/card/blb/235) | [[02 Cards/Creatures/Tempest Angler\|PAGE]] | {1}{U/R}{U/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Otter\|Otter]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Textbook Tabulator`**](https://scryfall.com/card/sos/70) | [[02 Cards/Creatures/Textbook Tabulator\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.10 |
 | [**`mtg:Unsparing Boltcaster`**](https://scryfall.com/card/tdm/130) | [[02 Cards/Creatures/Unsparing Boltcaster\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Ogre\|Ogre]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.12 |

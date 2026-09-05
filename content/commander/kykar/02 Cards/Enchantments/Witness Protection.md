@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Witness Protection`**
 >
-> **Status:** Main Deck  
+> **Status:** Main Deck
 > **Mana Cost:** {U}  
 > **Type:** Enchantment — Aura  
 >
@@ -86,7 +86,7 @@ Witness Protection ({U}). Owned. Turns a threat into a 1/1 Citizen and strips ab
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Enchant"]
-> status: Main Deck
+> status: Main Deck Deck
 > scores:
 >   general: 76
 >   deck_specific: 82

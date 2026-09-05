@@ -2,7 +2,7 @@
 
 Set `HOB`. Qty here is copies of this name from this set.
 
-**115** copies · **83** names.
+**116** copies · **84** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -38,6 +38,7 @@ Set `HOB`. Qty here is copies of this name from this set.
 | [**`mtg:Smaug's Fury`**](https://scryfall.com/card/hob/111) | [[02 Cards/Instants/Smaug's Fury\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Stone by Sunlight`**](https://scryfall.com/card/hob/27) | [[02 Cards/Instants/Stone by Sunlight\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
 | [**`mtg:The Eagles Are Coming!`**](https://scryfall.com/card/hob/12) | [[02 Cards/Instants/The Eagles Are Coming!\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.31 |
+| [**`mtg:Thorin Oakenshield`**](https://scryfall.com/card/hob/165) | [[02 Cards/Creatures/Thorin Oakenshield\|PAGE]] | {R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Vow to Erebor`**](https://scryfall.com/card/hob/31) | [[02 Cards/Instants/Vow to Erebor\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Warg Tactics`**](https://scryfall.com/card/hob/139) | [[02 Cards/Instants/Warg Tactics\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
 | [**`mtg:Wargling`**](https://scryfall.com/card/hob/140) | [[02 Cards/Creatures/Wargling\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.04 |

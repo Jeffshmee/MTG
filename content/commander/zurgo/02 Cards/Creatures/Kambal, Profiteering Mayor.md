@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Kambal, Profiteering Mayor`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck
 > **Mana Cost:** {1}{W}{B}  
 > **Type:** Legendary Creature — Human Advisor  
 > **P/T:** 2/4
@@ -51,7 +51,7 @@ Whenever one or more tokens you control enter, each [[03 Effects/Opponent Loses 
 
 ## Deck Role & Rating
 
-Kambal is a three-mana 2/4 that taxes your own token waves and copies an opponent’s token pile once a turn. The drain is **grouped**: one trigger per batch, not per token, so [[02 Cards/Creatures/Dalkovan Packbeasts|Packbeasts]] Mobilize 3 is 1 life each opponent, not 3. [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]] and [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas]] already ping per creature, cheaper. The copy ability is a token-table hate bear — tapped copies of whatever they made, not Warriors you can Mobilize with. He does not fill the Zurgo-theft protection hole. Combined 74 is below Sandskitter / Anafenza / Stormbeacon, so he is **not** a default 100. Keep him sleeved on the sideboard and bring him in against token engines. Conditional take-outs live on [[06 Strategy/Play Patterns|Play Patterns]].
+Kambal is a three-mana 2/4 that taxes your own token waves and copies an opponent’s token pile once a turn. The drain is **grouped**: one trigger per batch, not per token, so [[02 Cards/Creatures/Dalkovan Packbeasts|Packbeasts]] Mobilize 3 is 1 life each opponent, not 3. [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]] and [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas]] already ping per creature, cheaper. The copy ability is a token-table hate bear — tapped copies of whatever they made, not Warriors you can Mobilize with. He does not fill the Zurgo-theft protection hole. Combined 74 sat under Sandskitter; you cut Sandskitter for him anyway. Drain is still worse than Tremors/Elas. In the owned 100.
 
 ## Play Patterns & Lines
 
@@ -73,7 +73,7 @@ Kambal is a three-mana 2/4 that taxes your own token waves and copies an opponen
 - Grouped trigger. A wide single event is underpaid compared with Tremors / Elas / Sharpshooter.
 - Opponent copies enter tapped and off-type. [[02 Cards/Enchantments/Boggart Mischief|Boggart Mischief]] and [[02 Cards/Creatures/Ainok Strike Leader|Ainok Strike Leader]] miss them unless they happen to be Goblins or Warriors.
 - Redundant with the drain already in the 100. Does not cover Zurgo theft.
-- Owned. Stay on the sideboard as a **matchup sleeve**, not a default include. He is legendary; only one copy.
+- In the owned 100 (cut Sandskitter). He is legendary; only one copy.
 - Copies of flying Spirits can block flying. Copies of haste / attacking tokens do not block the combat they were created for.
 
 ## Related Pages
@@ -97,7 +97,7 @@ Kambal is a three-mana 2/4 that taxes your own token waves and copies an opponen
 > colors: [W, B]
 > color_identity: [W, B]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 72
@@ -105,7 +105,7 @@ Kambal is a three-mana 2/4 that taxes your own token waves and copies an opponen
 > scryfall_id: d53a775d-5898-41a8-b404-9b7d4721c6ba
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 >   - legendary
 >   - orzhov

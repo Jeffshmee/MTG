@@ -2,7 +2,7 @@
 
 Mono-red cards ({R} only). Lands and tokens are listed separately.
 
-**188** copies · **140** names.
+**189** copies · **141** names.
 
 ```decklist
 group: auto
@@ -34,6 +34,7 @@ legality: commander
 1 Firebrand Archer
 2 Flame-Chain Mauler
 1 Fleeting Effigy
+1 Frenzied Goblin
 1 Gandalf, Spark Starter
 2 Ghitu Lavarunner
 1 Giant Cindermaw

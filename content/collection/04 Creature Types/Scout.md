@@ -2,7 +2,7 @@
 
 Creature type: Scout.
 
-**19** copies · **14** names.
+**20** copies · **15** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -14,6 +14,7 @@ Creature type: Scout.
 | [**`mtg:Keen-Eyed Curator`**](https://scryfall.com/card/blb/181) | [[02 Cards/Creatures/Keen-Eyed Curator\|PAGE]] | {G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Raccoon\|Raccoon]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.46 |
 | [**`mtg:Lys Alana Informant`**](https://scryfall.com/card/ecl/181) | [[02 Cards/Creatures/Lys Alana Informant\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.10 |
 | [**`mtg:Ruby, Daring Tracker`**](https://scryfall.com/card/fdn/245) | [[02 Cards/Creatures/Ruby, Daring Tracker\|PAGE]] | {R}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.22 |
+| [**`mtg:Eclipsed Boggart`**](https://scryfall.com/card/ecl/335) | [[02 Cards/Creatures/Eclipsed Boggart\|PAGE]] | {B/R}{B/R}{B/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |
 | [**`mtg:Eclipsed Elf`**](https://scryfall.com/card/ecl/218) | [[02 Cards/Creatures/Eclipsed Elf\|PAGE]] | {B/G}{B/G}{B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Llanowar Envoy`**](https://scryfall.com/card/dom/169) | [[02 Cards/Creatures/Llanowar Envoy\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Wood Elves`**](https://scryfall.com/card/hob/142) | [[02 Cards/Creatures/Wood Elves\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |

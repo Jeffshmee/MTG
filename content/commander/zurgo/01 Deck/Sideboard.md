@@ -11,11 +11,12 @@ legality: commander
 1 Flashback
 1 Mardu Devotee
 1 Prismatic Ending
-1 Kambal, Profiteering Mayor
 1 Mardu Banner
 1 Kimoyo Beads
 
 # Recent Cuts (from main deck)
+1 Anafenza, Unyielding Lineage
+1 Sandskitter Outrider
 1 Canyon Slough
 1 Goblin-town
 1 Temple of Silence
@@ -51,17 +52,21 @@ Pending / ordered cards and recent cuts. Each entry is a mini-Infocard.
 **Status key:** 🟢 Owned · 🟡 Ordered · ⚪ Wishlist
 
 ### Creatures
-> [!info] **`mtg:Kambal, Profiteering Mayor`**
-> **74** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:74%"></div></div>
+> [!info] **`mtg:Anafenza, Unyielding Lineage`**
+> **76** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:76%"></div></div>
 >
-> [[02 Cards/Creatures/Kambal, Profiteering Mayor|Open local page →]]
+> [[02 Cards/Creatures/Anafenza, Unyielding Lineage|Open local page →]]
 >
-> > [!note]- Matchup sleeve (token decks)
-> > Default 100: stay on the sideboard. Sleeve in vs a token engine (Mark's Spirits). See [[06 Strategy/Play Patterns|Play Patterns]].
-> > - [[02 Cards/Creatures/Sandskitter Outrider|Sandskitter Outrider]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-> > - [[02 Cards/Sorceries/Hour of Reckoning|Hour of Reckoning]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
-> > - [[02 Cards/Creatures/Myr Battlesphere|Myr Battlesphere]] **83** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:83%"></div></div>
+> *Stay in sideboard / already cut — no main-deck swap suggested.*
+
+> [!info] **`mtg:Sandskitter Outrider`**
+> **76** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:76%"></div></div>
+>
+> [[02 Cards/Creatures/Sandskitter Outrider|Open local page →]]
+>
+> *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Mardu Devotee`**
 > **76** / 100 · 🟢 Owned

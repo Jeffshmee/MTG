@@ -2,7 +2,7 @@
 
 Creature type: Human.
 
-**131** copies · **108** names.
+**133** copies · **110** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -61,6 +61,7 @@ Creature type: Human.
 | [**`mtg:Kin-Tree Nurturer`**](https://scryfall.com/card/tdm/83) | [[02 Cards/Creatures/Kin-Tree Nurturer\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Kitesail Larcenist`**](https://scryfall.com/card/lci/61) | [[02 Cards/Creatures/Kitesail Larcenist\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.60 |
 | [**`mtg:Linden, the Steadfast Queen`**](https://scryfall.com/card/fdn/577) | [[02 Cards/Creatures/Linden, the Steadfast Queen\|PAGE]] | {W}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |
+| [**`mtg:Loran of the Third Path`**](https://scryfall.com/card/blc/143) | [[02 Cards/Creatures/Loran of the Third Path\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.67 |
 | [**`mtg:Matterbending Mage`**](https://scryfall.com/card/sos/59) | [[02 Cards/Creatures/Matterbending Mage\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Mentor of the Meek`**](https://scryfall.com/card/inr/34) | [[02 Cards/Creatures/Mentor of the Meek\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.20 |
 | [**`mtg:Morbid Opportunist`**](https://scryfall.com/card/soc/219) | [[02 Cards/Creatures/Morbid Opportunist\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.22 |
@@ -70,6 +71,7 @@ Creature type: Human.
 | [**`mtg:Patient Instructor`**](https://scryfall.com/card/hob/162) | [[02 Cards/Creatures/Patient Instructor\|PAGE]] | {2}{W/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Pensive Professor`**](https://scryfall.com/card/sos/63) | [[02 Cards/Creatures/Pensive Professor\|PAGE]] | {1}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.41 |
 | [**`mtg:Poised Practitioner`**](https://scryfall.com/card/tdm/18) | [[02 Cards/Creatures/Poised Practitioner\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Monk\|Monk]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
+| [**`mtg:Reflector Mage`**](https://scryfall.com/card/ogw/157) | [[02 Cards/Creatures/Reflector Mage\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.42 |
 | [**`mtg:Sage of the Fang`**](https://scryfall.com/card/tdm/155) | [[02 Cards/Creatures/Sage of the Fang\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Snooping Page`**](https://scryfall.com/card/sos/227) | [[02 Cards/Creatures/Snooping Page\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Stalwart Successor`**](https://scryfall.com/card/tdm/227) | [[02 Cards/Creatures/Stalwart Successor\|PAGE]] | {1}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |

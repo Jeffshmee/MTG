@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Elf\|Elf]] · [[04 Creature Types/Warlock\|Warlock]] |
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen SB\|Maralen SB]] |
 
 </div>
 
@@ -44,7 +44,7 @@
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>125</td><td>—</td><td>1</td><td>Box</td><td>0.08</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>125</td><td>—</td><td>1</td><td>Maralen</td><td>0.08</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>125</td><td>—</td><td>1</td><td>Maralen SB</td><td>0.08</td></tr>
 </tbody>
 </table>
 </div>
@@ -52,7 +52,7 @@
 
 ## In decks
 
-- [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
+- [[06 Browse/Decks/Maralen Deck/Maralen SB|Maralen — Sideboard]]
 
 ### Arts in this Collection
 
@@ -67,7 +67,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Warlock|Warlock]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/FDN|Foundations]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Warlock|Warlock]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen SB|Maralen SB]] · [[06 Browse/Sets/FDN|Foundations]]
 
 ---
 
