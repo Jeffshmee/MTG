@@ -4,7 +4,7 @@ title: Collection
 
 # Collection
 
-**1,850** cards · **1,169** names · **1,331** printings · ~**£686** listed
+**1,926** cards · **1,189** names · **1,378** printings · ~**£738** listed
 
 Source: `08 Assets/Manabox Master Sheet.csv`. Rebuild after editing the master or dropping an arrival CSV.
 
@@ -16,15 +16,15 @@ Source: `08 Assets/Manabox Master Sheet.csv`. Rebuild after editing the master o
 
 | Slice | Names | Copies |
 |-------|-------|--------|
-| White | 161 | 215 |
-| Blue | 180 | 229 |
-| Black | 142 | 188 |
-| Red | 140 | 188 |
-| Green | 153 | 230 |
-| Multi | 175 | 230 |
-| Colourless | 71 | 98 |
-| Lands | 96 | 286 |
-| Tokens | 51 | 186 |
+| White | 166 | 220 |
+| Blue | 182 | 231 |
+| Black | 143 | 189 |
+| Red | 141 | 189 |
+| Green | 155 | 232 |
+| Multi | 178 | 235 |
+| Colourless | 72 | 99 |
+| Lands | 99 | 321 |
+| Tokens | 53 | 210 |
 
 ---
 
@@ -39,7 +39,7 @@ Source: `08 Assets/Manabox Master Sheet.csv`. Rebuild after editing the master o
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] · [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] · [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] · [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] · [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] · [[06 Browse/Mana Costs/Mana (5)\|Mana (5)]] · [[06 Browse/Mana Costs/Mana (6)\|Mana (6)]] · [[06 Browse/Mana Costs/Mana (7)\|Mana (7)]] · [[06 Browse/Mana Costs/Mana (8)\|Mana (8)]] · [[06 Browse/Mana Costs/Mana (10)\|Mana (10)]] · [[06 Browse/Mana Costs/Mana (11)\|Mana (11)]] |
 | **Rarity** | [[06 Browse/Rarities/1 Common\|Common]] · [[06 Browse/Rarities/2 Uncommon\|Uncommon]] · [[06 Browse/Rarities/3 Rare\|Rare]] · [[06 Browse/Rarities/4 Mythic\|Mythic]] · [[06 Browse/Rarities/5 Special\|Special]] |
 | **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Maralen Deck/Maralen SB\|Maralen SB]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
-| **Other** | [[09 Deck Ideas/01 - Commander Ranking\|Commander ranking]] · [[09 Deck Ideas/00 - Scoring\|Scoring]] · [[06 Browse/50 Most Recent\|50 Most Recent]] · [[06 Browse/Sets/01 - Sets Summary\|Sets]] · [[06 Browse/Cost\|Cost]] · [[06 Browse/Legendary\|Legendary]] · [[06 Browse/Foil\|Foil]] · [[06 Browse/Booster Hauls/01 - Hauls Summary\|Booster Hauls]] |
+| **Other** | [[09 Deck Ideas/01 - Commander Ranking\|Commander ranking]] · [[09 Deck Ideas/00 - Scoring\|Scoring]] · [[06 Browse/50 Most Recent\|50 Most Recent]] · [[06 Browse/Sets/01 - Sets Summary\|Sets]] · [[06 Browse/Cost\|Cost]] · [[06 Browse/Legendary\|Legendary]] · [[06 Browse/Foil\|Foil]] · [[06 Browse/Booster Hauls/01 - Hauls Summary\|Booster Hauls]] · [[06 Browse/Singles Purchases/01 - Purchases Summary\|Singles Purchases]] |
 
 Colour pages are spells only (no lands, no tokens). Colourless is empty colour, not colour identity.
 

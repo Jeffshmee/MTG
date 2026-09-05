@@ -905,6 +905,11 @@ body[data-slug^="collection/"] {
   min-width: 0;
 }
 
+.collection-side-tables > div {
+  min-width: 0;
+  overflow-x: auto;
+}
+
 .collection-side-tables h2 {
   margin-top: 0;
 }
