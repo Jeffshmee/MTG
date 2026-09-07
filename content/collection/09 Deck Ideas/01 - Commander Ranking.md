@@ -189,7 +189,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Counterspell` | {U}{U} | Instant | £2.68 |
 > | `mtg:Esper Charm` | {W}{U}{B} | Instant | £0.21 |
 > | `mtg:Growth Spiral` | {G}{U} | Instant | £0.28 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Inspiring Call` | {2}{G} | Instant | £0.59 |
 > | `mtg:Jund Charm` | {B}{R}{G} | Instant | £0.31 |
 > | `mtg:Naya Charm` | {R}{G}{W} | Instant | £0.26 |
@@ -218,9 +218,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Inspirit, Flagship Vessel` | {U}{R}{W} | Artifact — Spacecraft | £0.78 |
 > | `mtg:Ozolith, the Shattered Spire` | {1}{G} | Artifact | £3.46 |
 > | `mtg:Solar Array` | {3} | Artifact | £0.22 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:The Ozolith` | {1} | Artifact | £35.48 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Invasion of Alara` | {W}{U}{B}{R}{G} | Battle — Siege | £0.21 |
 > | `mtg:Arcane Sanctum` | — | Land | £0.47 |
 > | `mtg:Crumbling Necropolis` | — | Land | £0.18 |
@@ -356,18 +356,18 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Inkmoth Nexus` | — | Land | £7.17 |
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Mirrex` | — | Land — Sphere | £0.93 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Pendelhaven` | — | Land | £2.35 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Shifting Woodland` | — | Land | £4.80 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
 > | `mtg:The Hunter Maze` | — | Land — Sphere | £0.03 |
 > | `mtg:Tranquil Thicket` | — | Land | £0.12 |
 > | `mtg:War Room` | — | Land | £2.79 |
-> | `mtg:Yavimaya, Cradle of Growth` | — | Land | £9.63 |
+> | `mtg:Yavimaya, Cradle of Growth` 🟡 | — | Land | £9.63 |
 >
 > </div>
 
@@ -452,7 +452,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Tyrant's Familiar` | {5}{R}{R} | Creature — Dragon | £0.76 |
 > | `mtg:Xenagos, God of Revels` | {3}{R}{G} | Creature — God | £6.01 |
 > | `mtg:Domri, Anarch of Bolas` | {1}{R}{G} | Planeswalker — Domri | £0.33 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Lightning Bolt` | {R} | Instant | £1.73 |
 > | `mtg:Natural Reclamation` | {4}{G} | Instant | £0.12 |
 > | `mtg:Return of the Wildspeaker` | {4}{G} | Instant | £1.04 |
@@ -462,14 +462,14 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Hunting Wilds` | {3}{G} | Sorcery | £0.41 |
 > | `mtg:Map the Frontier` | {3}{G} | Sorcery | £0.16 |
 > | `mtg:Migration Path` | {3}{G} | Sorcery | £0.28 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Path of the Animist` | {3}{G} | Sorcery | £0.27 |
 > | `mtg:Ranger's Path` | {3}{G} | Sorcery | £0.32 |
 > | `mtg:Reach the Horizon` | {3}{G} | Sorcery | £0.10 |
 > | `mtg:Skyshroud Claim` | {3}{G} | Sorcery | £1.08 |
 > | `mtg:Stump Stomp` | {1}{R/G} | Sorcery | £0.32 |
 > | `mtg:Tempt with Discovery` | {3}{G} | Sorcery | £1.17 |
-> | `mtg:Three Visits` | {1}{G} | Sorcery | £4.11 |
+> | `mtg:Three Visits` 🟡 | {1}{G} | Sorcery | £4.11 |
 > | `mtg:Vastwood Surge` | {3}{G} | Sorcery | £0.14 |
 > | `mtg:Bitter Work` | {1}{R}{G} | Enchantment | £0.15 |
 > | `mtg:Encroaching Dragonstorm` | {3}{G} | Enchantment | £0.10 |
@@ -495,10 +495,10 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Karplusan Forest` | — | Land | £0.72 |
 > | `mtg:Kessig Wolf Run` | — | Land | £0.27 |
 > | `mtg:Mossfire Valley` | — | Land | £0.18 |
-> | `mtg:Mosswort Bridge` | — | Land | £0.34 |
+> | `mtg:Mosswort Bridge` 🟡 | — | Land | £0.34 |
 > | `mtg:Pit of Offerings` | — | Land — Cave | £0.17 |
 > | `mtg:Rockfall Vale` | — | Land | £2.07 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Rootbound Crag` | — | Land | £0.30 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Sheltered Thicket` | — | Land — Mountain Forest | £0.16 |
@@ -593,7 +593,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Domri, Anarch of Bolas` | {1}{R}{G} | Planeswalker — Domri | £0.33 |
 > | `mtg:Archdruid's Charm` | {G}{G}{G} | Instant | £4.82 |
 > | `mtg:Gaea's Gift` | {1}{G} | Instant | £0.85 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Hunter's Insight` | {2}{G} | Instant | £0.24 |
 > | `mtg:Inscription of Abundance` | {1}{G} | Instant | £0.28 |
 > | `mtg:Inspiring Call` | {2}{G} | Instant | £0.59 |
@@ -602,9 +602,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Strength of Will` | {1}{G} | Instant | £0.50 |
 > | `mtg:Domri's Ambush` | {R}{G} | Sorcery | £0.12 |
 > | `mtg:Last Night Together` | {3}{R}{G} | Sorcery | £0.28 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Stump Stomp` | {1}{R/G} | Sorcery | £0.32 |
-> | `mtg:Three Visits` | {1}{G} | Sorcery | £4.11 |
+> | `mtg:Three Visits` 🟡 | {1}{G} | Sorcery | £4.11 |
 > | `mtg:Aggravated Assault` | {2}{R} | Enchantment | £14.86 |
 > | `mtg:Branching Evolution` | {2}{G} | Enchantment | £5.45 |
 > | `mtg:Fight Rigging` | {2}{G} | Enchantment | £0.48 |
@@ -619,11 +619,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Tribute to the World Tree` | {G}{G}{G} | Enchantment | £10.14 |
 > | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Ozolith, the Shattered Spire` | {1}{G} | Artifact | £3.46 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:Sword of Feast and Famine` | {3} | Artifact — Equipment | £21.77 |
 > | `mtg:The Ozolith` | {1} | Artifact | £35.48 |
 > | `mtg:Cinder Glade` | — | Land — Mountain Forest | £0.21 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Exotic Orchard` | — | Land | — |
 > | `mtg:Game Trail` | — | Land | £0.19 |
 > | `mtg:Gruul Turf` | — | Land | £0.15 |
@@ -632,13 +632,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Kessig Wolf Run` | — | Land | £0.27 |
 > | `mtg:Llanowar Reborn` | — | Land | £0.12 |
 > | `mtg:Mossfire Valley` | — | Land | £0.18 |
-> | `mtg:Mosswort Bridge` | — | Land | £0.34 |
+> | `mtg:Mosswort Bridge` 🟡 | — | Land | £0.34 |
 > | `mtg:Nesting Grounds` | — | Land | £0.13 |
-> | `mtg:Opal Palace` | — | Land | £0.14 |
+> | `mtg:Opal Palace` 🟡 | — | Land | £0.14 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Raging Ravine` | — | Land | £0.14 |
 > | `mtg:Rockfall Vale` | — | Land | £2.07 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Rootbound Crag` | — | Land | £0.30 |
 > | `mtg:Spire Garden` | — | Land | £3.92 |
 > | `mtg:Stomping Ground` | — | Land — Mountain Forest | — |
@@ -751,8 +751,8 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Patriar's Seal` | {3} | Artifact | £3.92 |
 > | `mtg:Sapphire Medallion` | {2} | Artifact | £4.57 |
 > | `mtg:Sting, the Glinting Dagger` | {2} | Artifact — Equipment | £1.61 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Thousand-Year Elixir` | {3} | Artifact | £11.18 |
 > | `mtg:Academy Ruins` | — | Land | £5.24 |
 > | `mtg:Castle Vantress` | — | Land | £0.35 |
@@ -765,7 +765,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Minamo, School at Water's Edge` | — | Land | £26.14 |
 > | `mtg:Mistrise Village` | — | Land | £5.97 |
 > | `mtg:Misty Rainforest` | — | Land | £21.63 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
@@ -774,7 +774,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Remote Isle` | — | Land | £0.13 |
 > | `mtg:Riptide Laboratory` | — | Land | £0.35 |
 > | `mtg:Rivendell` | — | Land | £1.12 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Seat of the Synod` | — | Land | £0.72 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
 > | `mtg:Terrain Generator` | — | Land | £1.71 |
@@ -889,26 +889,26 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Tormented Hero` | {B} | Creature — Human Warrior | £0.11 |
 > | `mtg:Whiskervale Forerunner` | {3}{W} | Creature — Mouse Bard | £0.20 |
 > | `mtg:Yathan Tombguard` | {2}{B} | Creature — Human Warrior | £0.11 |
-> | `mtg:Anguished Unmaking` | {1}{W}{B} | Instant | £1.68 |
+> | `mtg:Anguished Unmaking` 🟡 | {1}{W}{B} | Instant | £1.68 |
 > | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Damning Verdict` | {3}{W}{W} | Sorcery | £4.76 |
 > | `mtg:Honor` | {W} | Sorcery | £0.18 |
-> | `mtg:Practiced Offense` | {2}{W} | Sorcery | £0.71 |
+> | `mtg:Practiced Offense` 🟡 | {2}{W} | Sorcery | £0.71 |
 > | `mtg:Glasswing Grace` | {3}{W/B}{W/B} | Enchantment — Aura | £0.19 |
 > | `mtg:Leader's Talent` | {1}{W} | Enchantment — Class | £0.33 |
 > | `mtg:Together Forever` | {W}{W} | Enchantment | £0.12 |
 > | `mtg:The Ozolith` | {1} | Artifact | £35.48 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Bleachbone Verge` | — | Land | £8.01 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Caves of Koilos` | — | Land | £0.85 |
 > | `mtg:Desolate Mire` | — | Land | £0.22 |
 > | `mtg:Eclipsed Steppe` | — | Land — Plains Swamp | £2.43 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Fetid Heath` | — | Land | £0.51 |
 > | `mtg:Godless Shrine` | — | Land — Plains Swamp | — |
 > | `mtg:Hall of Oracles` | — | Land | £0.15 |
-> | `mtg:Isolated Chapel` | — | Land | £0.47 |
+> | `mtg:Isolated Chapel` 🟡 | — | Land | £0.47 |
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Shineshadow Snarl` | — | Land | £0.24 |
@@ -916,7 +916,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Turbulent Moor` | — | Land — Plains Swamp | £5.13 |
 > | `mtg:Umbral Expanse` | — | Land — Plains Swamp | £0.50 |
 > | `mtg:Vault of Champions` | — | Land | £13.55 |
-> | `mtg:Vault of the Archangel` | — | Land | £1.52 |
+> | `mtg:Vault of the Archangel` 🟡 | — | Land | £1.52 |
 >
 > </div>
 
@@ -1010,7 +1010,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Counterspell` | {U}{U} | Instant | £2.68 |
 > | `mtg:Experimental Augury` | {1}{U} | Instant | £0.23 |
 > | `mtg:Growth Spiral` | {G}{U} | Instant | £0.28 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Inspiring Call` | {2}{G} | Instant | £0.59 |
 > | `mtg:Mutational Advantage` | {1}{G}{U} | Instant | £8.19 |
 > | `mtg:Ripples of Potential` | {1}{U} | Instant | £2.85 |
@@ -1050,7 +1050,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Overflowing Basin` | — | Land | £0.19 |
 > | `mtg:Rejuvenating Springs` | — | Land | £3.52 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Simic Growth Chamber` | — | Land | £0.32 |
 > | `mtg:Vineglimmer Snarl` | — | Land | £0.17 |
 > | `mtg:Willowrush Verge` | — | Land | £5.74 |
@@ -1184,7 +1184,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Great Furnace` | — | Land | £2.10 |
 > | `mtg:Inventors' Fair` | — | Land | £8.90 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Secluded Starforge` | — | Land | £0.25 |
@@ -1258,11 +1258,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Accursed Marauder` | {1}{B} | Creature — Zombie Warrior | £0.28 |
 > | `mtg:Avenger of the Fallen` | {2}{B} | Creature — Human Warrior | £0.33 |
 > | `mtg:Ayara, First of Locthwain` | {B}{B}{B} | Creature — Elf Noble | £6.12 |
-> | `mtg:Bitterbloom Bearer` | {B}{B} | Creature — Faerie Rogue | £15.04 |
-> | `mtg:Blood Artist` | {1}{B} | Creature — Vampire | £2.09 |
-> | `mtg:Bloodghast` | {B}{B} | Creature — Vampire Spirit | £1.01 |
+> | `mtg:Bitterbloom Bearer` 🟡 | {B}{B} | Creature — Faerie Rogue | £15.04 |
+> | `mtg:Blood Artist` 🟡 | {1}{B} | Creature — Vampire | £2.09 |
+> | `mtg:Bloodghast` 🟡 | {B}{B} | Creature — Vampire Spirit | £1.01 |
 > | `mtg:Carrier Thrall` | {1}{B} | Creature — Vampire | £0.05 |
-> | `mtg:Carrion Feeder` | {B} | Creature — Zombie | £2.61 |
+> | `mtg:Carrion Feeder` 🟡 | {B} | Creature — Zombie | £2.61 |
 > | `mtg:Endrek Sahr, Master Breeder` | {4}{B} | Creature — Human Wizard | £1.06 |
 > | `mtg:Fleshbag Marauder` | {2}{B} | Creature — Zombie Warrior | £0.16 |
 > | `mtg:Greedy Freebooter` | {B} | Creature — Human Pirate | £0.25 |
@@ -1270,64 +1270,64 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Morbid Opportunist` | {2}{B} | Creature — Human Rogue | £0.22 |
 > | `mtg:Nether Traitor` | {B}{B} | Creature — Spirit | £0.97 |
 > | `mtg:Nine-Lives Familiar` | {1}{B}{B} | Creature — Cat | £1.22 |
-> | `mtg:Ophiomancer` | {2}{B} | Creature — Human Shaman | £0.95 |
+> | `mtg:Ophiomancer` 🟡 | {2}{B} | Creature — Human Shaman | £0.95 |
 > | `mtg:Pawn of Ulamog` 🟡 | {1}{B}{B} | Creature — Vampire Shaman | £0.94 |
-> | `mtg:Pitiless Plunderer` | {3}{B} | Creature — Human Pirate | £3.16 |
-> | `mtg:Priest of Forgotten Gods` | {1}{B} | Creature — Human Cleric | £0.67 |
+> | `mtg:Pitiless Plunderer` 🟡 | {3}{B} | Creature — Human Pirate | £3.16 |
+> | `mtg:Priest of Forgotten Gods` 🟡 | {1}{B} | Creature — Human Cleric | £0.67 |
 > | `mtg:Rat King, Pale Piper` | {3}{B} | Creature — Rat Avatar | £0.28 |
 > | `mtg:Reassembling Skeleton` 🟡 | {1}{B} | Creature — Skeleton Warrior | £0.20 |
 > | `mtg:Sephiroth, Fabled SOLDIER` | {2}{B} | Creature — Human Avatar Soldier | £24.36 |
 > | `mtg:Shambling Ghast` | {B} | Creature — Zombie | £0.84 |
-> | `mtg:Sifter of Skulls` | {3}{B} | Creature — Eldrazi | £0.54 |
+> | `mtg:Sifter of Skulls` 🟡 | {3}{B} | Creature — Eldrazi | £0.54 |
 > | `mtg:Silversmote Ghoul` | {2}{B} | Creature — Zombie Vampire | £0.30 |
 > | `mtg:Slaughter Specialist` | {1}{B} | Creature — Vampire Warrior | £0.57 |
 > | `mtg:Starscape Cleric` | {1}{B} | Creature — Bat Cleric | £1.32 |
 > | `mtg:Umbral Collar Zealot` | {1}{B} | Creature — Human Cleric | £0.37 |
-> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Warren Soultrader` | {2}{B} | Creature — Zombie Goblin Wizard | £12.28 |
-> | `mtg:Woe Strider` | {2}{B} | Creature — Horror | £0.18 |
+> | `mtg:Woe Strider` 🟡 | {2}{B} | Creature — Horror | £0.18 |
 > | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Lolth, Spider Queen` | {3}{B}{B} | Planeswalker — Lolth | £5.24 |
 > | `mtg:Corrupted Conviction` | {B} | Instant | £0.29 |
 > | `mtg:Dark Ritual` | {B} | Instant | £7.63 |
 > | `mtg:Plumb the Forbidden` | {1}{B} | Instant | £0.39 |
-> | `mtg:Village Rites` | {B} | Instant | £0.30 |
+> | `mtg:Village Rites` 🟡 | {B} | Instant | £0.30 |
 > | `mtg:Night's Whisper` | {1}{B} | Sorcery | £1.42 |
-> | `mtg:Reanimate` | {B} | Sorcery | £7.86 |
-> | `mtg:Victimize` | {2}{B} | Sorcery | £0.68 |
-> | `mtg:Bastion of Remembrance` | {2}{B} | Enchantment | £0.51 |
-> | `mtg:Bitterblossom` | {1}{B} | Enchantment — Faerie | £19.05 |
+> | `mtg:Reanimate` 🟡 | {B} | Sorcery | £7.86 |
+> | `mtg:Victimize` 🟡 | {2}{B} | Sorcery | £0.68 |
+> | `mtg:Bastion of Remembrance` 🟡 | {2}{B} | Enchantment | £0.51 |
+> | `mtg:Bitterblossom` 🟡 | {1}{B} | Enchantment — Faerie | £19.05 |
 > | `mtg:Blight Mound` | {2}{B} | Enchantment | £0.65 |
 > | `mtg:Dark Prophecy` | {B}{B}{B} | Enchantment | £5.73 |
 > | `mtg:Dictate of Erebos` | {3}{B}{B} | Enchantment | £13.54 |
 > | `mtg:Dreadhorde Invasion` | {1}{B} | Enchantment | £0.47 |
 > | `mtg:Grave Pact` | {1}{B}{B}{B} | Enchantment | £19.98 |
 > | `mtg:Grave Venerations` | {3}{B} | Enchantment | £1.02 |
-> | `mtg:Phyrexian Reclamation` | {B} | Enchantment | £2.43 |
+> | `mtg:Phyrexian Reclamation` 🟡 | {B} | Enchantment | £2.43 |
 > | `mtg:The Meathook Massacre` | {X}{B}{B} | Enchantment | £22.23 |
 > | `mtg:Ashnod's Altar` | {3} | Artifact | £11.75 |
 > | `mtg:Bontu's Monument` | {3} | Artifact | £3.14 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Tarrian's Journal` | {1}{B} | Artifact — Book | £0.64 |
 > | `mtg:Barren Moor` | — | Land | £0.17 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Cabal Coffers` | — | Land | £15.04 |
 > | `mtg:Cabal Stronghold` | — | Land | £8.08 |
 > | `mtg:Castle Locthwain` | — | Land | £3.19 |
 > | `mtg:Crypt of Agadeem` | — | Land | £2.67 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
-> | `mtg:High Market` | — | Land | £0.64 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
+> | `mtg:High Market` 🟡 | — | Land | £0.64 |
 > | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Phyrexian Tower` | — | Land | £24.29 |
+> | `mtg:Phyrexian Tower` 🟡 | — | Land | £24.29 |
 > | `mtg:Realm of Koh` | — | Land | £0.26 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
-> | `mtg:Takenuma, Abandoned Mire` | — | Land | £8.36 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
+> | `mtg:Takenuma, Abandoned Mire` 🟡 | — | Land | £8.36 |
 > | `mtg:Urborg, Tomb of Yawgmoth` | — | Land | £31.16 |
 > | `mtg:War Room` | — | Land | £2.79 |
-> | `mtg:Westvale Abbey` | — | Land | £1.46 |
+> | `mtg:Westvale Abbey` 🟡 | — | Land | £1.46 |
 > | `mtg:Witch's Cottage` | — | Land — Swamp | £0.65 |
 >
 > </div>
@@ -1425,16 +1425,16 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Eureka Moment` | {2}{G}{U} | Instant | £0.12 |
 > | `mtg:Frantic Search` | {2}{U} | Instant | £0.98 |
 > | `mtg:Growth Spiral` | {G}{U} | Instant | £0.28 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Planar Genesis` | {G}{U} | Instant | £0.32 |
 > | `mtg:Broken Bond` | {1}{G} | Sorcery | £0.27 |
 > | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
 > | `mtg:Lessons from Life` | {2}{G}{U} | Sorcery | £0.16 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Scale the Heights` | {2}{G} | Sorcery | £0.08 |
 > | `mtg:Sylvan Scrying` | {1}{G} | Sorcery | £0.22 |
-> | `mtg:Three Visits` | {1}{G} | Sorcery | £4.11 |
+> | `mtg:Three Visits` 🟡 | {1}{G} | Sorcery | £4.11 |
 > | `mtg:Urban Evolution` | {3}{G}{U} | Sorcery | £0.15 |
 > | `mtg:Druid Class` | {1}{G} | Enchantment — Class | £1.46 |
 > | `mtg:Exploration` | {G} | Enchantment | £24.08 |
@@ -1448,7 +1448,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Boseiju, Who Endures` | — | Land | £35.74 |
 > | `mtg:Breeding Pool` | — | Land — Forest Island | — |
 > | `mtg:Dreamroot Cascade` | — | Land | £0.67 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Flooded Grove` | — | Land | £0.32 |
 > | `mtg:Guildless Commons` | — | Land | £1.98 |
 > | `mtg:Hedge Maze` | — | Land — Forest Island | £11.06 |
@@ -1565,9 +1565,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Stony-Voiced Goblins` | {1}{B} | Creature — Goblin Bard | £0.03 |
 > | `mtg:The Great Goblin` | {1}{B/R}{B/R} | Creature — Goblin Noble | £0.37 |
 > | `mtg:Underfoot Underdogs` | {2}{R} | Creature — Goblin Warrior | £0.04 |
-> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Chaos Warp` | {2}{R} | Instant | — |
-> | `mtg:Village Rites` | {B} | Instant | £0.30 |
+> | `mtg:Village Rites` 🟡 | {B} | Instant | £0.30 |
 > | `mtg:Assault on Osgiliath` | {X}{R}{R}{R} | Sorcery | £0.43 |
 > | `mtg:Foray of Orcs` | {3}{R} | Sorcery | £0.07 |
 > | `mtg:Gathering of Darkness` | {3}{B} | Sorcery | £0.07 |
@@ -1582,7 +1582,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Grave Pact` | {1}{B}{B}{B} | Enchantment | £19.98 |
 > | `mtg:Impact Tremors` | {1}{R} | Enchantment | — |
 > | `mtg:March from the Black Gate` | {1}{B} | Enchantment | £0.11 |
-> | `mtg:Phyrexian Reclamation` | {B} | Enchantment | £2.43 |
+> | `mtg:Phyrexian Reclamation` 🟡 | {B} | Enchantment | £2.43 |
 > | `mtg:Shared Animosity` | {2}{R} | Enchantment | £2.43 |
 > | `mtg:Ashnod's Altar` | {3} | Artifact | £11.75 |
 > | `mtg:Crude Bent Blade` | {2}{B} | Artifact — Equipment | £0.04 |
@@ -1592,13 +1592,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Boiling Rock Prison` | — | Land | £0.08 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
 > | `mtg:Dragonskull Summit` | — | Land | £0.63 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Graven Cairns` | — | Land | £3.21 |
 > | `mtg:Hell's Kitchen` | — | Land | £0.04 |
-> | `mtg:High Market` | — | Land | £0.64 |
+> | `mtg:High Market` 🟡 | — | Land | £0.64 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
 > | `mtg:Mount Doom` | — | Land | £6.25 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Rakdos Carnarium` | — | Land | £0.21 |
 > | `mtg:Riveteers Overlook` | — | Land | £0.16 |
@@ -1700,16 +1700,16 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Counterspell` | {U}{U} | Instant | £2.68 |
 > | `mtg:Growth Spiral` | {G}{U} | Instant | £0.28 |
 > | `mtg:Harrow` | {2}{G} | Instant | £0.22 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Negate` | {1}{U} | Instant | £0.06 |
 > | `mtg:Broken Bond` | {1}{G} | Sorcery | £0.27 |
 > | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
 > | `mtg:Kodama's Reach` | {2}{G} | Sorcery — Arcane | £1.15 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Sylvan Scrying` | {1}{G} | Sorcery | £0.22 |
 > | `mtg:Tempt with Discovery` | {3}{G} | Sorcery | £1.17 |
-> | `mtg:Three Visits` | {1}{G} | Sorcery | £4.11 |
+> | `mtg:Three Visits` 🟡 | {1}{G} | Sorcery | £4.11 |
 > | `mtg:Urban Evolution` | {3}{G}{U} | Sorcery | £0.15 |
 > | `mtg:Druid Class` | {1}{G} | Enchantment — Class | £1.46 |
 > | `mtg:Exploration` | {G} | Enchantment | £24.08 |
@@ -1720,20 +1720,20 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Trade Routes` | {1}{U} | Enchantment | £1.47 |
 > | `mtg:Zendikar's Roil` | {3}{G}{G} | Enchantment | £0.85 |
 > | `mtg:Crucible of Worlds` | {3} | Artifact | £18.11 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Arid Archway` | — | Land — Desert | £0.50 |
 > | `mtg:Bant Panorama` | — | Land | £0.24 |
 > | `mtg:Blighted Woodland` | — | Land | £0.22 |
 > | `mtg:Breeding Pool` | — | Land — Forest Island | — |
 > | `mtg:Brokers Hideout` | — | Land | £0.63 |
 > | `mtg:Dreamroot Cascade` | — | Land | £0.67 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Flooded Grove` | — | Land | £0.32 |
 > | `mtg:Ghost Quarter` | — | Land | £0.61 |
 > | `mtg:Ghost Town` | — | Land | £1.49 |
 > | `mtg:Guildless Commons` | — | Land | £1.98 |
 > | `mtg:Hinterland Harbor` | — | Land | £0.28 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Oboro, Palace in the Clouds` | — | Land | £13.50 |
 > | `mtg:Rejuvenating Springs` | — | Land | £3.52 |
@@ -1984,9 +1984,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mind Stone` | {2} | Artifact | — |
 > | `mtg:Sensei's Divining Top` | {1} | Artifact | £21.33 |
 > | `mtg:Strionic Resonator` | {2} | Artifact | £6.32 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:The Fire Crystal` | {2}{R}{R} | Artifact | £3.61 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Thran Dynamo` | {4} | Artifact | £2.01 |
 > | `mtg:Whispersilk Cloak` | {3} | Artifact — Equipment | £1.12 |
 > | `mtg:Worn Powerstone` | {3} | Artifact | £0.17 |
@@ -1994,7 +1994,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
 > | `mtg:Castle Embereth` | — | Land | £0.24 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
 > | `mtg:Crystal Vein` | — | Land | £6.32 |
 > | `mtg:Desert of the Fervent` | — | Land — Desert | £0.15 |
@@ -2003,11 +2003,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Hall of the Bandit Lord` | — | Land | £6.58 |
 > | `mtg:Hanweir Battlements` | — | Land | £1.21 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Plaza of Heroes` | — | Land | £3.11 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Shinka, the Bloodsoaked Keep` | — | Land | £9.77 |
 > | `mtg:Smoldering Crater` | — | Land | £0.16 |
@@ -2074,7 +2074,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | --- | --- | --- | ---: |
 > | `mtg:Ayara, First of Locthwain` | {B}{B}{B} | Creature — Elf Noble | £6.12 |
 > | `mtg:Barrowgoyf` | {2}{B} | Creature — Lhurgoyf | — |
-> | `mtg:Blood Artist` | {1}{B} | Creature — Vampire | £2.09 |
+> | `mtg:Blood Artist` 🟡 | {1}{B} | Creature — Vampire | £2.09 |
 > | `mtg:Bloodthirsty Conqueror` | {3}{B}{B} | Creature — Vampire Knight | £24.89 |
 > | `mtg:Creeping Bloodsucker` | {1}{B} | Creature — Vampire | £4.17 |
 > | `mtg:Crypt Ghast` | {3}{B} | Creature — Spirit | £10.26 |
@@ -2082,7 +2082,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Disciple of Bolas` | {3}{B} | Creature — Human Wizard | £0.37 |
 > | `mtg:Disciple of Griselbrand` | {1}{B} | Creature — Human Cleric | £0.16 |
 > | `mtg:Dread Presence` | {3}{B} | Creature — Nightmare | £1.66 |
-> | `mtg:Enduring Tenacity` | {2}{B}{B} | Creature — Snake Glimmer | £9.64 |
+> | `mtg:Enduring Tenacity` 🟡 | {2}{B}{B} | Creature — Snake Glimmer | £9.64 |
 > | `mtg:Grave Researcher` | {2}{B} | Creature — Troll Warlock | £2.15 |
 > | `mtg:Gray Merchant of Asphodel` | {3}{B}{B} | Creature — Zombie | £1.73 |
 > | `mtg:Gumdrop Poisoner` | {2}{B} | Creature — Human Warlock | £0.22 |
@@ -2103,28 +2103,28 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Twilight Prophet` | {2}{B}{B} | Creature — Vampire Cleric | £1.34 |
 > | `mtg:Umbral Collar Zealot` | {1}{B} | Creature — Human Cleric | £0.37 |
 > | `mtg:Veinwitch Coven` | {2}{B} | Creature — Vampire Warlock | £0.28 |
-> | `mtg:Vito, Thorn of the Dusk Rose` | {2}{B} | Creature — Vampire Cleric | £6.95 |
+> | `mtg:Vito, Thorn of the Dusk Rose` 🟡 | {2}{B} | Creature — Vampire Cleric | £6.95 |
 > | `mtg:Witch of the Moors` | {3}{B}{B} | Creature — Human Warlock | £0.38 |
 > | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Ob Nixilis of the Black Oath` | {3}{B}{B} | Planeswalker — Nixilis | £0.40 |
 > | `mtg:Archenemy's Charm` | {B}{B}{B} | Instant | £0.86 |
 > | `mtg:Consuming Corruption` | {B}{B} | Instant | £0.16 |
 > | `mtg:Reckoner's Bargain` | {1}{B} | Instant | £1.45 |
-> | `mtg:Village Rites` | {B} | Instant | £0.30 |
+> | `mtg:Village Rites` 🟡 | {B} | Instant | £0.30 |
 > | `mtg:Buried Alive` | {2}{B} | Sorcery | £1.01 |
 > | `mtg:Persist` | {1}{B} | Sorcery | £1.39 |
-> | `mtg:Reanimate` | {B} | Sorcery | £7.86 |
-> | `mtg:Victimize` | {2}{B} | Sorcery | £0.68 |
+> | `mtg:Reanimate` 🟡 | {B} | Sorcery | £7.86 |
+> | `mtg:Victimize` 🟡 | {2}{B} | Sorcery | £0.68 |
 > | `mtg:Withering Curse` | {1}{B}{B} | Sorcery | £1.69 |
 > | `mtg:Animate Dead` | {1}{B} | Enchantment — Aura | £5.32 |
-> | `mtg:Bastion of Remembrance` | {2}{B} | Enchantment | £0.51 |
+> | `mtg:Bastion of Remembrance` 🟡 | {2}{B} | Enchantment | £0.51 |
 > | `mtg:Black Market Connections` | {2}{B} | Enchantment | £9.56 |
 > | `mtg:Blight Mound` | {2}{B} | Enchantment | £0.65 |
-> | `mtg:Phyrexian Arena` | {1}{B}{B} | Enchantment | £3.37 |
+> | `mtg:Phyrexian Arena` 🟡 | {1}{B}{B} | Enchantment | £3.37 |
 > | `mtg:Ripples of Undeath` | {1}{B} | Enchantment | £5.37 |
 > | `mtg:Sanguine Bond` | {3}{B}{B} | Enchantment | £3.89 |
 > | `mtg:Whip of Erebos` | {2}{B}{B} | Enchantment | £6.15 |
-> | `mtg:Aetherflux Reservoir` | {4} | Artifact | £12.26 |
+> | `mtg:Aetherflux Reservoir` 🟡 | {4} | Artifact | £12.26 |
 > | `mtg:Bontu's Monument` | {3} | Artifact | £3.14 |
 > | `mtg:Demon's Horn` | {2} | Artifact | £0.47 |
 > | `mtg:Pristine Talisman` | {3} | Artifact | £0.16 |
@@ -2133,25 +2133,25 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Trading Post` | {4} | Artifact | £0.23 |
 > | `mtg:Accursed Duneyard` | — | Land | £0.84 |
 > | `mtg:Barren Moor` | — | Land | £0.17 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Cabal Coffers` | — | Land | £15.04 |
 > | `mtg:Cabal Stronghold` | — | Land | £8.08 |
 > | `mtg:Castle Locthwain` | — | Land | £3.19 |
 > | `mtg:Crypt of Agadeem` | — | Land | £2.67 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
-> | `mtg:High Market` | — | Land | £0.64 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
+> | `mtg:High Market` 🟡 | — | Land | £0.64 |
 > | `mtg:Maestros Theater` | — | Land | £0.20 |
 > | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Phyrexian Tower` | — | Land | £24.29 |
-> | `mtg:Radiant Fountain` | — | Land | £0.31 |
+> | `mtg:Phyrexian Tower` 🟡 | — | Land | £24.29 |
+> | `mtg:Radiant Fountain` 🟡 | — | Land | £0.31 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Riveteers Overlook` | — | Land | £0.16 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Spymaster's Vault` | — | Land | £1.02 |
 > | `mtg:Susur Secundi, Void Altar` | — | Land — Planet | £4.53 |
-> | `mtg:Takenuma, Abandoned Mire` | — | Land | £8.36 |
+> | `mtg:Takenuma, Abandoned Mire` 🟡 | — | Land | £8.36 |
 > | `mtg:Urborg, Tomb of Yawgmoth` | — | Land | £31.16 |
 > | `mtg:Urza's Cave` | — | Land — Urza's Cave | £1.10 |
 > | `mtg:War Room` | — | Land | £2.79 |
@@ -2213,8 +2213,8 @@ Why jumps to that commander under [[#Why these unowned]].
 > | Card Name | Mana Pips | Card Type | Est Cost (GBP) |
 > | --- | --- | --- | ---: |
 > | `mtg:Ayara, First of Locthwain` | {B}{B}{B} | Creature — Elf Noble | £6.12 |
-> | `mtg:Blood Artist` | {1}{B} | Creature — Vampire | £2.09 |
-> | `mtg:Carrion Feeder` | {B} | Creature — Zombie | £2.61 |
+> | `mtg:Blood Artist` 🟡 | {1}{B} | Creature — Vampire | £2.09 |
+> | `mtg:Carrion Feeder` 🟡 | {B} | Creature — Zombie | £2.61 |
 > | `mtg:Champion of Stray Souls` | {4}{B}{B} | Creature — Skeleton Warrior | £0.23 |
 > | `mtg:Clattering Augur` | {1}{B} | Creature — Skeleton Shaman | £0.11 |
 > | `mtg:Cult Conscript` | {B} | Creature — Skeleton Warrior | £0.18 |
@@ -2230,33 +2230,33 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Marionette Apprentice` | {1}{B} | Creature — Human Artificer | £1.09 |
 > | `mtg:Paragon of Open Graves` | {3}{B} | Creature — Skeleton Warrior | £0.16 |
 > | `mtg:Persistent Specimen` | {B} | Creature — Skeleton | £0.12 |
-> | `mtg:Pitiless Plunderer` | {3}{B} | Creature — Human Pirate | £3.16 |
+> | `mtg:Pitiless Plunderer` 🟡 | {3}{B} | Creature — Human Pirate | £3.16 |
 > | `mtg:Reassembling Skeleton` 🟡 | {1}{B} | Creature — Skeleton Warrior | £0.20 |
 > | `mtg:Sanitarium Skeleton` | {B} | Creature — Skeleton | £0.06 |
 > | `mtg:Skeleton Crew` | {3}{B} | Creature — Skeleton Pirate | £0.30 |
 > | `mtg:Tenacious Dead` | {B} | Creature — Skeleton Warrior | £0.16 |
 > | `mtg:Tinybones, the Pickpocket` | {B} | Creature — Skeleton Rogue | £3.93 |
 > | `mtg:Underworld Sentinel` | {3}{B}{B} | Creature — Skeleton Soldier | £0.32 |
-> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Warren Soultrader` | {2}{B} | Creature — Zombie Goblin Wizard | £12.28 |
 > | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Corrupted Conviction` | {B} | Instant | £0.29 |
 > | `mtg:Dark Ritual` | {B} | Instant | £7.63 |
 > | `mtg:Eviscerator's Insight` | {1}{B} | Instant | £0.23 |
 > | `mtg:Nasty End` | {1}{B} | Instant | £0.09 |
-> | `mtg:Village Rites` | {B} | Instant | £0.30 |
+> | `mtg:Village Rites` 🟡 | {B} | Instant | £0.30 |
 > | `mtg:Bone Shards` | {B} | Sorcery | £0.21 |
 > | `mtg:Bone Splinters` | {B} | Sorcery | £0.07 |
 > | `mtg:Diabolic Intent` | {1}{B} | Sorcery | £10.39 |
 > | `mtg:Final Vengeance` | {B} | Sorcery | £0.09 |
-> | `mtg:Reanimate` | {B} | Sorcery | £7.86 |
-> | `mtg:Bastion of Remembrance` | {2}{B} | Enchantment | £0.51 |
+> | `mtg:Reanimate` 🟡 | {B} | Sorcery | £7.86 |
+> | `mtg:Bastion of Remembrance` 🟡 | {2}{B} | Enchantment | £0.51 |
 > | `mtg:Case of the Stashed Skeleton` | {1}{B} | Enchantment — Case | £0.39 |
 > | `mtg:Corpses of the Lost` | {2}{B} | Enchantment | £0.28 |
 > | `mtg:Dark Prophecy` | {B}{B}{B} | Enchantment | £5.73 |
 > | `mtg:Funeral Room` | {2}{B} | Enchantment — Room | £3.60 |
 > | `mtg:Grave Pact` | {1}{B}{B}{B} | Enchantment | £19.98 |
-> | `mtg:Phyrexian Reclamation` | {B} | Enchantment | £2.43 |
+> | `mtg:Phyrexian Reclamation` 🟡 | {B} | Enchantment | £2.43 |
 > | `mtg:The Sibsig Ceremony` | {B}{B}{B} | Enchantment | £0.21 |
 > | `mtg:Altar of Dementia` | {2} | Artifact | £11.16 |
 > | `mtg:Altar of the Wretched` | {2}{B} | Artifact | £0.66 |
@@ -2271,23 +2271,23 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Tarrian's Journal` | {1}{B} | Artifact — Book | £0.64 |
 > | `mtg:Visage of Dread` | {1}{B} | Artifact | £0.05 |
 > | `mtg:Accursed Duneyard` | — | Land | £0.84 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
 > | `mtg:Cabal Coffers` | — | Land | £15.04 |
 > | `mtg:Cabal Stronghold` | — | Land | £8.08 |
 > | `mtg:Castle Locthwain` | — | Land | £3.19 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
-> | `mtg:High Market` | — | Land | £0.64 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
+> | `mtg:High Market` 🟡 | — | Land | £0.64 |
 > | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Phyrexian Tower` | — | Land | £24.29 |
+> | `mtg:Phyrexian Tower` 🟡 | — | Land | £24.29 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Spawning Pool` | — | Land | £0.28 |
 > | `mtg:Spymaster's Vault` | — | Land | £1.02 |
 > | `mtg:Susur Secundi, Void Altar` | — | Land — Planet | £4.53 |
-> | `mtg:Takenuma, Abandoned Mire` | — | Land | £8.36 |
+> | `mtg:Takenuma, Abandoned Mire` 🟡 | — | Land | £8.36 |
 > | `mtg:Urborg, Tomb of Yawgmoth` | — | Land | £31.16 |
 > | `mtg:Urza's Cave` | — | Land — Urza's Cave | £1.10 |
 > | `mtg:Urza's Saga` | — | Land — Urza's Saga | £33.60 |
@@ -2385,16 +2385,16 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Wayward Swordtooth` | {2}{G} | Creature — Dinosaur | £2.81 |
 > | `mtg:Zell Dincht` | {2}{R} | Creature — Human Monk | £0.22 |
 > | `mtg:Harrow` | {2}{G} | Instant | £0.22 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Call the Mountain Chocobo` | {3}{R} | Sorcery | £0.03 |
 > | `mtg:Choco-Comet` | {X}{R}{R} | Sorcery | £0.09 |
 > | `mtg:Chocobo Kick` | {1}{G} | Sorcery | £0.08 |
 > | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Sylvan Scrying` | {1}{G} | Sorcery | £0.22 |
 > | `mtg:Tempt with Discovery` | {3}{G} | Sorcery | £1.17 |
-> | `mtg:Three Visits` | {1}{G} | Sorcery | £4.11 |
+> | `mtg:Three Visits` 🟡 | {1}{G} | Sorcery | £4.11 |
 > | `mtg:Druid Class` | {1}{G} | Enchantment — Class | £1.46 |
 > | `mtg:Exploration` | {G} | Enchantment | £24.08 |
 > | `mtg:Retreat to Kazandu` | {2}{G} | Enchantment | £0.22 |
@@ -2413,11 +2413,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Commercial District` | — | Land — Mountain Forest | £7.21 |
 > | `mtg:Dark Depths` | — | Land | £1.70 |
 > | `mtg:Echoing Deeps` | — | Land — Cave | £0.48 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Gongaga, Reactor Town` | — | Land — Town | £0.06 |
 > | `mtg:Gruul Turf` | — | Land | £0.15 |
 > | `mtg:Highland Forest` | — | Land — Mountain Forest | £0.28 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Rootbound Crag` | — | Land | £0.30 |
 > | `mtg:Sheltered Thicket` | — | Land — Mountain Forest | £0.16 |
 > | `mtg:Shifting Woodland` | — | Land | £4.80 |
@@ -2430,7 +2430,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Valakut, the Molten Pinnacle` | — | Land | £7.15 |
 > | `mtg:Vesuva` | — | Land | £2.71 |
 > | `mtg:Wooded Ridgeline` | — | Land — Mountain Forest | £0.19 |
-> | `mtg:Yavimaya, Cradle of Growth` | — | Land | £9.63 |
+> | `mtg:Yavimaya, Cradle of Growth` 🟡 | — | Land | £9.63 |
 > | `mtg:Zanarkand, Ancient Metropolis` | {4}{G}{G} | Land — Town | £0.36 |
 >
 > </div>
@@ -2494,82 +2494,82 @@ Why jumps to that commander under [[#Why these unowned]].
 >
 > | Card Name | Mana Pips | Card Type | Est Cost (GBP) |
 > | --- | --- | --- | ---: |
-> | `mtg:Adeline, Resplendent Cathar` | {1}{W}{W} | Creature — Human Knight | £2.96 |
-> | `mtg:Bartolomé del Presidio` | {W}{B} | Creature — Vampire Knight | £0.19 |
-> | `mtg:Bitterbloom Bearer` | {B}{B} | Creature — Faerie Rogue | £15.04 |
-> | `mtg:Blood Artist` | {1}{B} | Creature — Vampire | £2.09 |
-> | `mtg:Bloodghast` | {B}{B} | Creature — Vampire Spirit | £1.01 |
-> | `mtg:Carrion Feeder` | {B} | Creature — Zombie | £2.61 |
+> | `mtg:Adeline, Resplendent Cathar` 🟡 | {1}{W}{W} | Creature — Human Knight | £2.96 |
+> | `mtg:Bartolomé del Presidio` 🟡 | {W}{B} | Creature — Vampire Knight | £0.19 |
+> | `mtg:Bitterbloom Bearer` 🟡 | {B}{B} | Creature — Faerie Rogue | £15.04 |
+> | `mtg:Blood Artist` 🟡 | {1}{B} | Creature — Vampire | £2.09 |
+> | `mtg:Bloodghast` 🟡 | {B}{B} | Creature — Vampire Spirit | £1.01 |
+> | `mtg:Carrion Feeder` 🟡 | {B} | Creature — Zombie | £2.61 |
 > | `mtg:Cruel Celebrant` | {W}{B} | Creature — Vampire | £1.35 |
-> | `mtg:Doomed Traveler` | {W} | Creature — Human Soldier | £0.14 |
-> | `mtg:Elas il-Kor, Sadistic Pilgrim` | {W}{B} | Creature — Phyrexian Kor Cleric | £1.02 |
-> | `mtg:Enduring Tenacity` | {2}{B}{B} | Creature — Snake Glimmer | £9.64 |
-> | `mtg:Hunted Witness` | {W} | Creature — Human | £0.13 |
-> | `mtg:Jadar, Ghoulcaller of Nephalia` | {1}{B} | Creature — Human Wizard | £1.54 |
-> | `mtg:Kambal, Consul of Allocation` | {1}{W}{B} | Creature — Human Advisor | £5.22 |
-> | `mtg:Karlov of the Ghost Council` | {W}{B} | Creature — Spirit Advisor | £9.09 |
-> | `mtg:Ophiomancer` | {2}{B} | Creature — Human Shaman | £0.95 |
+> | `mtg:Doomed Traveler` 🟡 | {W} | Creature — Human Soldier | £0.14 |
+> | `mtg:Elas il-Kor, Sadistic Pilgrim` 🟡 | {W}{B} | Creature — Phyrexian Kor Cleric | £1.02 |
+> | `mtg:Enduring Tenacity` 🟡 | {2}{B}{B} | Creature — Snake Glimmer | £9.64 |
+> | `mtg:Hunted Witness` 🟡 | {W} | Creature — Human | £0.13 |
+> | `mtg:Jadar, Ghoulcaller of Nephalia` 🟡 | {1}{B} | Creature — Human Wizard | £1.54 |
+> | `mtg:Kambal, Consul of Allocation` 🟡 | {1}{W}{B} | Creature — Human Advisor | £5.22 |
+> | `mtg:Karlov of the Ghost Council` 🟡 | {W}{B} | Creature — Spirit Advisor | £9.09 |
+> | `mtg:Ophiomancer` 🟡 | {2}{B} | Creature — Human Shaman | £0.95 |
 > | `mtg:Pawn of Ulamog` 🟡 | {1}{B}{B} | Creature — Vampire Shaman | £0.94 |
-> | `mtg:Pitiless Plunderer` | {3}{B} | Creature — Human Pirate | £3.16 |
-> | `mtg:Priest of Forgotten Gods` | {1}{B} | Creature — Human Cleric | £0.67 |
+> | `mtg:Pitiless Plunderer` 🟡 | {3}{B} | Creature — Human Pirate | £3.16 |
+> | `mtg:Priest of Forgotten Gods` 🟡 | {1}{B} | Creature — Human Cleric | £0.67 |
 > | `mtg:Reassembling Skeleton` 🟡 | {1}{B} | Creature — Skeleton Warrior | £0.20 |
-> | `mtg:Rhox Faithmender` | {3}{W} | Creature — Rhino Monk | £1.71 |
-> | `mtg:Serra Ascendant` | {W} | Creature — Human Monk | £20.23 |
-> | `mtg:Sifter of Skulls` | {3}{B} | Creature — Eldrazi | £0.54 |
+> | `mtg:Rhox Faithmender` 🟡 | {3}{W} | Creature — Rhino Monk | £1.71 |
+> | `mtg:Serra Ascendant` 🟡 | {W} | Creature — Human Monk | £20.23 |
+> | `mtg:Sifter of Skulls` 🟡 | {3}{B} | Creature — Eldrazi | £0.54 |
 > | `mtg:Soul Warden` 🟡 | {W} | Creature — Human Cleric | £1.86 |
-> | `mtg:Soul's Attendant` | {W} | Creature — Human Cleric | £4.16 |
-> | `mtg:Speaker of the Heavens` | {W} | Creature — Human Cleric | £0.72 |
+> | `mtg:Soul's Attendant` 🟡 | {W} | Creature — Human Cleric | £4.16 |
+> | `mtg:Speaker of the Heavens` 🟡 | {W} | Creature — Human Cleric | £0.72 |
 > | `mtg:Suture Priest` 🟡 | {1}{W} | Creature — Phyrexian Cleric | £2.98 |
-> | `mtg:Teysa, Orzhov Scion` | {1}{W}{B} | Creature — Human Advisor | £1.34 |
-> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
-> | `mtg:Vito, Thorn of the Dusk Rose` | {2}{B} | Creature — Vampire Cleric | £6.95 |
-> | `mtg:Woe Strider` | {2}{B} | Creature — Horror | £0.18 |
-> | `mtg:Yahenni, Undying Partisan` | {2}{B} | Creature — Aetherborn Vampire | £0.23 |
+> | `mtg:Teysa, Orzhov Scion` 🟡 | {1}{W}{B} | Creature — Human Advisor | £1.34 |
+> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Vito, Thorn of the Dusk Rose` 🟡 | {2}{B} | Creature — Vampire Cleric | £6.95 |
+> | `mtg:Woe Strider` 🟡 | {2}{B} | Creature — Horror | £0.18 |
+> | `mtg:Yahenni, Undying Partisan` 🟡 | {2}{B} | Creature — Aetherborn Vampire | £0.23 |
 > | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
-> | `mtg:Anguished Unmaking` | {1}{W}{B} | Instant | £1.68 |
-> | `mtg:Despark` | {W}{B} | Instant | £0.34 |
+> | `mtg:Anguished Unmaking` 🟡 | {1}{W}{B} | Instant | £1.68 |
+> | `mtg:Despark` 🟡 | {W}{B} | Instant | £0.34 |
 > | `mtg:Generous Gift` | {2}{W} | Instant | £0.77 |
-> | `mtg:Village Rites` | {B} | Instant | £0.30 |
-> | `mtg:Damn` | {B}{B} | Sorcery | £1.66 |
-> | `mtg:Debt to the Deathless` | {X}{W}{W}{B}{B} | Sorcery | — |
-> | `mtg:Lingering Souls` | {2}{W} | Sorcery | £0.12 |
-> | `mtg:Reanimate` | {B} | Sorcery | £7.86 |
-> | `mtg:Toxic Deluge` | {2}{B} | Sorcery | £4.11 |
-> | `mtg:Victimize` | {2}{B} | Sorcery | £0.68 |
-> | `mtg:Authority of the Consuls` | {W} | Enchantment | £3.91 |
-> | `mtg:Bastion of Remembrance` | {2}{B} | Enchantment | £0.51 |
-> | `mtg:Bitterblossom` | {1}{B} | Enchantment — Faerie | £19.05 |
-> | `mtg:Blind Obedience` | {1}{W} | Enchantment | £3.26 |
-> | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
-> | `mtg:Cleric Class` | {W} | Enchantment — Class | £2.42 |
-> | `mtg:Hidden Stockpile` | {W}{B} | Enchantment | £0.15 |
-> | `mtg:Phyrexian Arena` | {1}{B}{B} | Enchantment | £3.37 |
-> | `mtg:Phyrexian Reclamation` | {B} | Enchantment | £2.43 |
-> | `mtg:Aetherflux Reservoir` | {4} | Artifact | £12.26 |
+> | `mtg:Village Rites` 🟡 | {B} | Instant | £0.30 |
+> | `mtg:Damn` 🟡 | {B}{B} | Sorcery | £1.66 |
+> | `mtg:Debt to the Deathless` 🟡 | {X}{W}{W}{B}{B} | Sorcery | — |
+> | `mtg:Lingering Souls` 🟡 | {2}{W} | Sorcery | £0.12 |
+> | `mtg:Reanimate` 🟡 | {B} | Sorcery | £7.86 |
+> | `mtg:Toxic Deluge` 🟡 | {2}{B} | Sorcery | £4.11 |
+> | `mtg:Victimize` 🟡 | {2}{B} | Sorcery | £0.68 |
+> | `mtg:Authority of the Consuls` 🟡 | {W} | Enchantment | £3.91 |
+> | `mtg:Bastion of Remembrance` 🟡 | {2}{B} | Enchantment | £0.51 |
+> | `mtg:Bitterblossom` 🟡 | {1}{B} | Enchantment — Faerie | £19.05 |
+> | `mtg:Blind Obedience` 🟡 | {1}{W} | Enchantment | £3.26 |
+> | `mtg:Caretaker's Talent` 🟡 | {2}{W} | Enchantment — Class | £7.19 |
+> | `mtg:Cleric Class` 🟡 | {W} | Enchantment — Class | £2.42 |
+> | `mtg:Hidden Stockpile` 🟡 | {W}{B} | Enchantment | £0.15 |
+> | `mtg:Phyrexian Arena` 🟡 | {1}{B}{B} | Enchantment | £3.37 |
+> | `mtg:Phyrexian Reclamation` 🟡 | {B} | Enchantment | £2.43 |
+> | `mtg:Aetherflux Reservoir` 🟡 | {4} | Artifact | £12.26 |
 > | `mtg:Ashnod's Altar` | {3} | Artifact | £11.75 |
 > | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
-> | `mtg:Well of Lost Dreams` | {4} | Artifact | £1.30 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
-> | `mtg:Hall of Heliod's Generosity` | — | Land | £8.38 |
-> | `mtg:High Market` | — | Land | £0.64 |
-> | `mtg:Isolated Chapel` | — | Land | £0.47 |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
+> | `mtg:Well of Lost Dreams` 🟡 | {4} | Artifact | £1.30 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
+> | `mtg:Hall of Heliod's Generosity` 🟡 | — | Land | £8.38 |
+> | `mtg:High Market` 🟡 | — | Land | £0.64 |
+> | `mtg:Isolated Chapel` 🟡 | — | Land | £0.47 |
 > | `mtg:Marsh Flats` | — | Land | £21.40 |
 > | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
-> | `mtg:Phyrexian Tower` | — | Land | £24.29 |
-> | `mtg:Radiant Fountain` | — | Land | £0.31 |
-> | `mtg:Restless Fortress` | — | Land | £0.59 |
-> | `mtg:Shambling Vent` | — | Land | £0.25 |
-> | `mtg:Silent Clearing` | — | Land | £3.63 |
-> | `mtg:Starlit Sanctum` | — | Land | £0.28 |
-> | `mtg:Takenuma, Abandoned Mire` | — | Land | £8.36 |
-> | `mtg:Vault of the Archangel` | — | Land | £1.52 |
-> | `mtg:Westvale Abbey` | — | Land | £1.46 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
+> | `mtg:Phyrexian Tower` 🟡 | — | Land | £24.29 |
+> | `mtg:Radiant Fountain` 🟡 | — | Land | £0.31 |
+> | `mtg:Restless Fortress` 🟡 | — | Land | £0.59 |
+> | `mtg:Shambling Vent` 🟡 | — | Land | £0.25 |
+> | `mtg:Silent Clearing` 🟡 | — | Land | £3.63 |
+> | `mtg:Starlit Sanctum` 🟡 | — | Land | £0.28 |
+> | `mtg:Takenuma, Abandoned Mire` 🟡 | — | Land | £8.36 |
+> | `mtg:Vault of the Archangel` 🟡 | — | Land | £1.52 |
+> | `mtg:Westvale Abbey` 🟡 | — | Land | £1.46 |
 >
 > </div>
 
@@ -2693,18 +2693,18 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Castle Vantress` | — | Land | £0.35 |
 > | `mtg:Cephalid Coliseum` | — | Land | £0.26 |
 > | `mtg:Conduit Pylons` | — | Land — Desert | £0.20 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Drownyard Temple` | — | Land | £0.17 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Geier Reach Sanitarium` | — | Land | £1.94 |
 > | `mtg:Lonely Sandbar` | — | Land | £0.10 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Remote Isle` | — | Land | £0.13 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Sunken Palace` | — | Land — Cave | £0.64 |
 > | `mtg:Urza's Cave` | — | Land — Urza's Cave | £1.10 |
 >
@@ -2764,20 +2764,20 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Codsworth, Handy Helper` | {2}{W} | Creature — Robot | £20.87 |
 > | `mtg:Danitha Capashen, Paragon` | {2}{W} | Creature — Human Knight | £0.27 |
 > | `mtg:Gold Myr` | {2} | Creature — Myr | £0.53 |
-> | `mtg:Knight of the White Orchid` | {W}{W} | Creature — Human Knight | £1.56 |
-> | `mtg:Lion Sash` | {1}{W} | Creature — Equipment Cat | £1.54 |
+> | `mtg:Knight of the White Orchid` 🟡 | {W}{W} | Creature — Human Knight | £1.56 |
+> | `mtg:Lion Sash` 🟡 | {1}{W} | Creature — Equipment Cat | £1.54 |
 > | `mtg:Loyal Warhound` | {1}{W} | Creature — Dog | £0.54 |
 > | `mtg:Odric, Lunarch Marshal` | {3}{W} | Creature — Human Soldier | £0.29 |
 > | `mtg:Palladium Myr` | {3} | Creature — Myr | £0.71 |
 > | `mtg:Puresteel Paladin` | {W}{W} | Creature — Human Knight | £1.04 |
-> | `mtg:Solemn Simulacrum` | {4} | Creature — Golem | £0.23 |
+> | `mtg:Solemn Simulacrum` 🟡 | {4} | Creature — Golem | £0.23 |
 > | `mtg:Sram, Senior Edificer` | {1}{W} | Creature — Dwarf Advisor | £0.69 |
 > | `mtg:Stoneforge Mystic` | {1}{W} | Creature — Kor Artificer | £15.41 |
 > | `mtg:Gods Willing` | {W} | Instant | £0.18 |
 > | `mtg:Sejiri Shelter` | {1}{W} | Instant | £1.68 |
 > | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Teferi's Protection` | {2}{W} | Instant | £31.39 |
-> | `mtg:Farewell` | {4}{W}{W} | Sorcery | £3.75 |
+> | `mtg:Farewell` 🟡 | {4}{W}{W} | Sorcery | £3.75 |
 > | `mtg:Open the Armory` | {1}{W} | Sorcery | £1.87 |
 > | `mtg:Secret Rendezvous` | {1}{W}{W} | Sorcery | £0.13 |
 > | `mtg:Shatter the Sky` | {2}{W}{W} | Sorcery | £0.17 |
@@ -2789,7 +2789,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Pariah` | {2}{W} | Enchantment — Aura | £0.81 |
 > | `mtg:Rune of Sustenance` | {1}{W} | Enchantment — Aura Rune | £0.35 |
 > | `mtg:Shardmage's Rescue` | {W} | Enchantment — Aura | £0.17 |
-> | `mtg:Sheltered by Ghosts` | {1}{W} | Enchantment — Aura | £1.52 |
+> | `mtg:Sheltered by Ghosts` 🟡 | {1}{W} | Enchantment — Aura | £1.52 |
 > | `mtg:Sigarda's Aid` | {W} | Enchantment | £13.75 |
 > | `mtg:Smuggler's Share` | {2}{W} | Enchantment | £7.57 |
 > | `mtg:Solid Footing` | {W} | Enchantment — Aura | £0.14 |
@@ -2812,7 +2812,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Plate Armor` | {2}{W} | Artifact — Equipment | £0.11 |
 > | `mtg:Shadowspear` | {1} | Artifact — Equipment | £21.00 |
 > | `mtg:Strata Scythe` | {3} | Artifact — Equipment | £0.38 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:Sword of Feast and Famine` | {3} | Artifact — Equipment | £21.77 |
 > | `mtg:Sword of Fire and Ice` | {3} | Artifact — Equipment | £22.67 |
 > | `mtg:Sword of Forge and Frontier` | {3} | Artifact — Equipment | £6.12 |
@@ -2823,12 +2823,12 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
 > | `mtg:Cathedral of War` | — | Land | £0.85 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Desert of the True` | — | Land — Desert | £0.17 |
 > | `mtg:Drifting Meadow` | — | Land | £0.08 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
 > | `mtg:Field of Ruin` | — | Land | £0.17 |
 > | `mtg:Guildless Commons` | — | Land | £1.98 |
 > | `mtg:Homeward Path` | — | Land | £8.19 |
@@ -2836,10 +2836,10 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Karoo` | — | Land | £0.34 |
 > | `mtg:Lotus Field` | — | Land | £2.21 |
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
@@ -2961,19 +2961,19 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
 > | `mtg:Castle Vantress` | — | Land | £0.35 |
 > | `mtg:Coral Atoll` | — | Land | £0.30 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Halimar Depths` | — | Land | £0.50 |
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Lonely Sandbar` | — | Land | £0.10 |
 > | `mtg:Minamo, School at Water's Edge` | — | Land | £26.14 |
 > | `mtg:Mistrise Village` | — | Land | £5.97 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rivendell` | — | Land | £1.12 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Sunken Palace` | — | Land — Cave | £0.64 |
 > | `mtg:Talon Gates of Madara` | — | Land — Gate | £30.49 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
@@ -3214,7 +3214,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Beast Within` | {2}{G} | Instant | £0.62 |
 > | `mtg:Elven Ambush` | {3}{G} | Instant | £6.57 |
 > | `mtg:Galadhrim Ambush` | {3}{G} | Instant | £5.12 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Windswift Slice` | {2}{G} | Instant | £1.01 |
 > | `mtg:Bounty of Skemfar` | {2}{G} | Sorcery | £0.19 |
 > | `mtg:Elvish Promenade` | {3}{G} | Sorcery — Elf | £4.34 |
@@ -3229,27 +3229,27 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Morcant's Eyes` | {1}{G} | Enchantment — Elf | £0.13 |
 > | `mtg:Prowess of the Fair` | {1}{B} | Enchantment — Elf | £0.91 |
 > | `mtg:Staff of Domination` | {3} | Artifact | £8.25 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Castle Garenbrig` | — | Land | £4.61 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Darkbore Pathway` | — | Land | £4.87 |
 > | `mtg:Deathcap Glade` | — | Land | £1.60 |
 > | `mtg:Foul Orchard` | — | Land | £0.20 |
 > | `mtg:Gilt-Leaf Palace` | — | Land | £3.76 |
 > | `mtg:Golgari Rot Farm` | — | Land | £0.14 |
 > | `mtg:Llanowar Wastes` | — | Land | £0.91 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Necroblossom Snarl` | — | Land | £0.39 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Overgrown Tomb` | — | Land — Swamp Forest | — |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
-> | `mtg:Secluded Courtyard` | — | Land | £0.20 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
+> | `mtg:Secluded Courtyard` 🟡 | — | Land | £0.20 |
 > | `mtg:Skemfar Elderhall` | — | Land | £0.13 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Twilight Mire` | — | Land | £0.53 |
-> | `mtg:Unclaimed Territory` | — | Land | £0.21 |
+> | `mtg:Unclaimed Territory` 🟡 | — | Land | £0.21 |
 > | `mtg:Undergrowth Stadium` | — | Land | £4.11 |
 > | `mtg:Wirewood Lodge` | — | Land | £5.66 |
 > | `mtg:Woodland Cemetery` | — | Land | £0.70 |
@@ -3363,7 +3363,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Orcrist, Goblin-cleaver` | {3} | Artifact — Equipment | £7.73 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Sting, Bilbo's Sword` | {2} | Artifact — Equipment | £0.19 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:Sword of Fire and Ice` | {3} | Artifact — Equipment | £22.67 |
 > | `mtg:The Arkenstone` | {5} | Artifact | £5.85 |
 > | `mtg:The Black Arrow` | {3} | Artifact — Equipment | £0.03 |
@@ -3382,10 +3382,10 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Rugged Prairie` 🟡 | — | Land | £0.32 |
 > | `mtg:Rustvale Bridge` | — | Land | £0.16 |
-> | `mtg:Secluded Courtyard` | — | Land | £0.20 |
+> | `mtg:Secluded Courtyard` 🟡 | — | Land | £0.20 |
 > | `mtg:Sundown Pass` | — | Land | £1.37 |
 > | `mtg:The Grey Havens` | — | Land | £0.13 |
 > | `mtg:The Lonely Mountain` | — | Land — Mountain | £0.38 |
@@ -3500,7 +3500,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Spell Satchel` | {2} | Artifact | £0.10 |
 > | `mtg:Stonespeaker Crystal` | {4} | Artifact | £0.35 |
 > | `mtg:Sword of Wealth and Power` | {3} | Artifact — Equipment | £10.33 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Thran Dynamo` | {4} | Artifact | £2.01 |
 > | `mtg:Worn Powerstone` | {3} | Artifact | £0.17 |
 > | `mtg:Arid Archway` | — | Land — Desert | £0.50 |
@@ -3515,7 +3515,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mirrorpool` | — | Land | £2.04 |
 > | `mtg:Planar Nexus` | — | Land | £6.89 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Sanctum of Ugin` | — | Land | £1.38 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Shrine of the Forsaken Gods` | — | Land | £0.29 |
@@ -3606,7 +3606,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Guardian Scalelord` | {4}{W} | Creature — Dragon | £0.30 |
 > | `mtg:Hardened Academic` | {R}{W} | Creature — Bird Cleric | £0.46 |
 > | `mtg:Joshua, Phoenix's Dominant` | {1}{R}{W} | Creature — Human Noble Wizard | £0.82 |
-> | `mtg:Lion Sash` | {1}{W} | Creature — Equipment Cat | £1.54 |
+> | `mtg:Lion Sash` 🟡 | {1}{W} | Creature — Equipment Cat | £1.54 |
 > | `mtg:Lorehold Archivist` | {1}{R}{W} | Creature — Dwarf Artificer | £0.22 |
 > | `mtg:Millikin` | {2} | Creature — Construct | £0.15 |
 > | `mtg:Quintorius, Loremaster` | {3}{R}{W} | Creature — Elephant Cleric | £0.09 |
@@ -3633,8 +3633,8 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Daydream` | {W} | Sorcery | £0.25 |
 > | `mtg:Faithless Looting` | {R} | Sorcery | £0.58 |
 > | `mtg:Homestead Courage` | {W} | Sorcery | £0.15 |
-> | `mtg:Practiced Offense` | {2}{W} | Sorcery | £0.71 |
-> | `mtg:Sevinne's Reclamation` | {2}{W} | Sorcery | £0.30 |
+> | `mtg:Practiced Offense` 🟡 | {2}{W} | Sorcery | £0.71 |
+> | `mtg:Sevinne's Reclamation` 🟡 | {2}{W} | Sorcery | £0.30 |
 > | `mtg:Shenanigans` | {1}{R} | Sorcery | £0.18 |
 > | `mtg:Strike It Rich` | {R} | Sorcery | £0.89 |
 > | `mtg:Advanced Reconstruction` | {3}{R} | Enchantment — Class | £0.53 |
@@ -3647,15 +3647,15 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Matzalantli, the Great Door` | {3} | Artifact | £1.66 |
 > | `mtg:Perpetual Timepiece` | {2} | Artifact | £0.17 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Battlefield Forge` | — | Land | £0.36 |
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
 > | `mtg:Clifftop Retreat` | — | Land | £0.22 |
 > | `mtg:Drownyard Temple` | — | Land | £0.17 |
 > | `mtg:Eden, Seat of the Sanctum` | — | Land — Town | £0.08 |
 > | `mtg:Elegant Parlor` | — | Land — Mountain Plains | £8.18 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Glittering Massif` | — | Land — Mountain Plains | £0.18 |
 > | `mtg:Hall of Oracles` | — | Land | £0.15 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
@@ -3730,7 +3730,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | --- | --- | --- | ---: |
 > | `mtg:Acclaimed Contender` | {2}{W} | Creature — Human Knight | £0.20 |
 > | `mtg:Accorder Paladin` | {1}{W} | Creature — Human Knight | £0.12 |
-> | `mtg:Adeline, Resplendent Cathar` | {1}{W}{W} | Creature — Human Knight | £2.96 |
+> | `mtg:Adeline, Resplendent Cathar` 🟡 | {1}{W}{W} | Creature — Human Knight | £2.96 |
 > | `mtg:Ardenvale Paladin` | {3}{W} | Creature — Human Knight | £0.03 |
 > | `mtg:Ardenvale Tactician` | {1}{W}{W} | Creature — Human Knight | £0.07 |
 > | `mtg:Basri's Lieutenant` | {3}{W} | Creature — Human Knight | £0.22 |
@@ -3747,7 +3747,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Keeper of the Accord` | {3}{W} | Creature — Human Soldier | £0.43 |
 > | `mtg:Knight Exemplar` | {1}{W}{W} | Creature — Human Knight | £2.59 |
 > | `mtg:Knight of the New Coalition` | {3}{W} | Creature — Human Knight | £0.03 |
-> | `mtg:Knight of the White Orchid` | {W}{W} | Creature — Human Knight | £1.56 |
+> | `mtg:Knight of the White Orchid` 🟡 | {W}{W} | Creature — Human Knight | £1.56 |
 > | `mtg:Kongming, "Sleeping Dragon"` | {2}{W}{W} | Creature — Human Advisor | £0.13 |
 > | `mtg:Mirran Crusader` | {1}{W}{W} | Creature — Human Knight | £0.48 |
 > | `mtg:Prava of the Steel Legion` | {2}{W} | Creature — Cat Soldier | £0.24 |
@@ -3763,14 +3763,14 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Worthy Knight` | {1}{W} | Creature — Human Knight | £0.29 |
 > | `mtg:Basri Ket` | {1}{W}{W} | Planeswalker — Basri | £1.03 |
 > | `mtg:Elspeth, Sun's Champion` | {4}{W}{W} | Planeswalker — Elspeth | £1.18 |
-> | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
+> | `mtg:Akroma's Will` 🟡 | {3}{W} | Instant | £11.77 |
 > | `mtg:Path to Exile` | {W} | Instant | £1.16 |
 > | `mtg:Raise the Alarm` | {1}{W} | Instant | £0.06 |
 > | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
-> | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
+> | `mtg:Unbreakable Formation` 🟡 | {2}{W} | Instant | £0.50 |
 > | `mtg:Your Temple Is Under Attack` | {2}{W} | Instant | £0.53 |
 > | `mtg:Martial Coup` | {X}{W}{W} | Sorcery | £0.18 |
-> | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
+> | `mtg:Caretaker's Talent` 🟡 | {2}{W} | Enchantment — Class | £7.19 |
 > | `mtg:Chivalric Alliance` | {1}{W} | Enchantment | £14.66 |
 > | `mtg:Glorious Anthem` | {1}{W}{W} | Enchantment | £0.21 |
 > | `mtg:History of Benalia` | {1}{W}{W} | Enchantment — Saga | £0.67 |
@@ -3783,24 +3783,24 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:The Circle of Loyalty` | {4}{W}{W} | Artifact | £0.39 |
 > | `mtg:Blighted Steppe` | — | Land | £0.15 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Desert of the True` | — | Land — Desert | £0.17 |
 > | `mtg:Drifting Meadow` | — | Land | £0.08 |
-> | `mtg:Eiganjo, Seat of the Empire` | — | Land | £5.55 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
-> | `mtg:Hall of Heliod's Generosity` | — | Land | £8.38 |
+> | `mtg:Eiganjo, Seat of the Empire` 🟡 | — | Land | £5.55 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
+> | `mtg:Hall of Heliod's Generosity` 🟡 | — | Land | £8.38 |
 > | `mtg:Idyllic Grange` | — | Land — Plains | £0.24 |
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Karoo` | — | Land | £0.34 |
 > | `mtg:Memorial to Glory` | — | Land | £0.09 |
 > | `mtg:Mistveil Plains` | — | Land — Plains | £0.16 |
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Pit of Offerings` | — | Land — Cave | £0.17 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
 > | `mtg:The Fair Basilica` | — | Land — Sphere | £0.13 |
 > | `mtg:War Room` | — | Land | £2.79 |
@@ -3911,7 +3911,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ruby Medallion` | {2} | Artifact | £8.95 |
 > | `mtg:Shadowspear` | {1} | Artifact — Equipment | £21.00 |
 > | `mtg:Strionic Resonator` | {2} | Artifact | £6.32 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:Sword of Feast and Famine` | {3} | Artifact — Equipment | £21.77 |
 > | `mtg:Sword of the Animist` | {2} | Artifact — Equipment | £4.68 |
 > | `mtg:The Fire Crystal` | {2}{R}{R} | Artifact | £3.61 |
@@ -3924,17 +3924,17 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
 > | `mtg:Castle Embereth` | — | Land | £0.24 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
 > | `mtg:Fire Nation Palace` | — | Land | £1.18 |
 > | `mtg:Forgotten Cave` | — | Land | £0.14 |
 > | `mtg:Inventors' Fair` | — | Land | £8.90 |
 > | `mtg:Maze of Ith` | — | Land | £6.79 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Shinka, the Bloodsoaked Keep` | — | Land | £9.77 |
 > | `mtg:Spinerock Knoll` | — | Land | £1.14 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
@@ -4048,7 +4048,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:The Eternity Elevator` | {5} | Artifact — Spacecraft | £1.13 |
 > | `mtg:The Irencrag` | {2} | Artifact | £0.46 |
 > | `mtg:The Mightstone and Weakstone` | {5} | Artifact — Powerstone | £3.05 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Thran Dynamo` | {4} | Artifact | £2.01 |
 > | `mtg:Unstable Obelisk` | {3} | Artifact | £0.06 |
 > | `mtg:Ur-Golem's Eye` | {4} | Artifact | £0.28 |
@@ -4061,14 +4061,14 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Capital City` | — | Land — Town | £0.13 |
 > | `mtg:Conduit Pylons` | — | Land — Desert | £0.20 |
 > | `mtg:Crystal Grotto` | — | Land | £0.18 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Eden, Seat of the Sanctum` | — | Land — Town | £0.08 |
 > | `mtg:Eldrazi Temple` | — | Land | £2.60 |
 > | `mtg:Gallifrey Council Chamber` | — | Land | £0.16 |
 > | `mtg:Mirrorpool` | — | Land | £2.04 |
 > | `mtg:Ominous Cemetery` | — | Land | £0.19 |
 > | `mtg:Planar Nexus` | — | Land | £6.89 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Sanctum of Ugin` | — | Land | £1.38 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Shrine of the Forsaken Gods` | — | Land | £0.29 |
@@ -4164,7 +4164,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Kogla, the Titan Ape` | {3}{G}{G}{G} | Creature — Ape | £2.88 |
 > | `mtg:Outcaster Trailblazer` | {2}{G} | Creature — Human Druid | £1.23 |
 > | `mtg:Pelt Collector` | {G} | Creature — Elf Warrior | £0.44 |
-> | `mtg:Prowling Serpopard` | {1}{G}{G} | Creature — Cat Snake | £1.41 |
+> | `mtg:Prowling Serpopard` 🟡 | {1}{G}{G} | Creature — Cat Snake | £1.41 |
 > | `mtg:Questing Beast` | {2}{G}{G} | Creature — Beast | £2.61 |
 > | `mtg:Raucous Audience` | {1}{G} | Creature — Human Citizen | £0.09 |
 > | `mtg:Scavenging Ooze` | {1}{G} | Creature — Ooze | £0.18 |
@@ -4177,7 +4177,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Nissa, Who Shakes the World` | {3}{G}{G} | Planeswalker — Nissa | £1.67 |
 > | `mtg:Archdruid's Charm` | {G}{G}{G} | Instant | £4.82 |
 > | `mtg:Biosynthic Burst` | {1}{G} | Instant | £0.09 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Hunter's Insight` | {2}{G} | Instant | £0.24 |
 > | `mtg:Inscription of Abundance` | {1}{G} | Instant | £0.28 |
 > | `mtg:Inspiring Call` | {2}{G} | Instant | £0.59 |
@@ -4187,7 +4187,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Bridgeworks Battle` | {2}{G} | Sorcery | £0.85 |
 > | `mtg:Felling Blow` | {2}{G} | Sorcery | £0.09 |
 > | `mtg:Finale of Devastation` | {X}{G}{G} | Sorcery | £21.45 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Savage Punch` | {1}{G} | Sorcery | £0.09 |
 > | `mtg:Triumph of the Hordes` | {2}{G}{G} | Sorcery | — |
 > | `mtg:Garruk's Uprising` | {2}{G} | Enchantment | £0.52 |
@@ -4197,22 +4197,22 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Rancor` | {G} | Enchantment — Aura | £0.92 |
 > | `mtg:Tribute to the World Tree` | {G}{G}{G} | Enchantment | £10.14 |
 > | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:The Thanos-Copter` | {6} | Artifact — Vehicle | £0.82 |
 > | `mtg:Blighted Woodland` | — | Land | £0.22 |
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
 > | `mtg:Boseiju, Who Endures` | — | Land | £35.74 |
 > | `mtg:Castle Garenbrig` | — | Land | £4.61 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Desert of the Indomitable` | — | Land — Desert | £0.16 |
 > | `mtg:Evendo, Waking Haven` | — | Land — Planet | £12.10 |
 > | `mtg:Lair of the Hydra` | — | Land | £0.37 |
-> | `mtg:Mosswort Bridge` | — | Land | £0.34 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Mosswort Bridge` 🟡 | — | Land | £0.34 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Shifting Woodland` | — | Land | £4.80 |
 > | `mtg:Slippery Karst` | — | Land | £0.14 |
@@ -4358,7 +4358,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Sunhome, Fortress of the Legion` | — | Land | £0.14 |
 > | `mtg:The Grey Havens` | — | Land | £0.13 |
 > | `mtg:Treasure Vault` | — | Land | £1.71 |
-> | `mtg:Unclaimed Territory` | — | Land | £0.21 |
+> | `mtg:Unclaimed Territory` 🟡 | — | Land | £0.21 |
 > | `mtg:Vibrant Cityscape` | — | Land | £0.12 |
 >
 > </div>
@@ -4469,14 +4469,14 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Key to the City` | {2} | Artifact | £0.22 |
 > | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:Whispersilk Cloak` | {3} | Artifact — Equipment | £1.12 |
 > | `mtg:Access Tunnel` | — | Land | £0.44 |
 > | `mtg:Amonkhet Raceway` | — | Land | £0.20 |
 > | `mtg:Arena of Glory` | — | Land | £8.83 |
 > | `mtg:Blinkmoth Nexus` | — | Land | £1.32 |
 > | `mtg:Castle Embereth` | — | Land | £0.24 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Den of the Bugbear` | — | Land | £1.91 |
 > | `mtg:Dwarven Mine` | — | Land — Mountain | £0.23 |
 > | `mtg:Forgotten Cave` | — | Land | £0.14 |
@@ -4484,16 +4484,16 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Hanweir Battlements` | — | Land | £1.21 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
 > | `mtg:Muraganda Raceway` | — | Land | £0.66 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Smoldering Spires` | — | Land | £0.18 |
 > | `mtg:Sokenzan, Crucible of Defiance` | — | Land | £2.11 |
 > | `mtg:Spinerock Knoll` | — | Land | £1.14 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Urza's Saga` | — | Land — Urza's Saga | £33.60 |
 > | `mtg:Valakut, the Molten Pinnacle` | — | Land | £7.15 |
 > | `mtg:War Room` | — | Land | £2.79 |
@@ -4581,7 +4581,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Fungal Fortitude` | {1}{B} | Enchantment — Aura | £0.12 |
 > | `mtg:Kaya's Ghostform` | {B} | Enchantment — Aura | £1.16 |
 > | `mtg:Phyresis` | {1}{B} | Enchantment — Aura | £0.85 |
-> | `mtg:Phyrexian Arena` | {1}{B}{B} | Enchantment | £3.37 |
+> | `mtg:Phyrexian Arena` 🟡 | {1}{B}{B} | Enchantment | £3.37 |
 > | `mtg:Shade's Form` | {1}{B}{B} | Enchantment — Aura | £0.23 |
 > | `mtg:Altar of the Wretched` | {2}{B} | Artifact | £0.66 |
 > | `mtg:Blackblade Reforged` | {2} | Artifact — Equipment | £1.05 |
@@ -4603,27 +4603,27 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Prowler's Helm` | {2} | Artifact — Equipment | £0.79 |
 > | `mtg:Shadowspear` | {1} | Artifact — Equipment | £21.00 |
 > | `mtg:Strata Scythe` | {3} | Artifact — Equipment | £0.38 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:Sword of the Animist` | {2} | Artifact — Equipment | £4.68 |
 > | `mtg:Sword of Vengeance` | {3} | Artifact — Equipment | £0.46 |
 > | `mtg:Thran Power Suit` | {2} | Artifact — Equipment | £0.49 |
 > | `mtg:Trailblazer's Boots` | {2} | Artifact — Equipment | £0.98 |
 > | `mtg:Whispersilk Cloak` | {3} | Artifact — Equipment | £1.12 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
 > | `mtg:Cabal Coffers` | — | Land | £15.04 |
 > | `mtg:Cabal Stronghold` | — | Land | £8.08 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Minas Morgul, Dark Fortress` | — | Land | £12.27 |
 > | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
-> | `mtg:Phyrexian Tower` | — | Land | £24.29 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
+> | `mtg:Phyrexian Tower` 🟡 | — | Land | £24.29 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Shizo, Death's Storehouse` | — | Land | £18.87 |
 > | `mtg:Susur Secundi, Void Altar` | — | Land — Planet | £4.53 |
-> | `mtg:Takenuma, Abandoned Mire` | — | Land | £8.36 |
+> | `mtg:Takenuma, Abandoned Mire` 🟡 | — | Land | £8.36 |
 > | `mtg:The Black Gate` | — | Land — Gate | £8.89 |
 > | `mtg:Tyrite Sanctum` | — | Land | £2.06 |
 > | `mtg:Urborg, Tomb of Yawgmoth` | — | Land | £31.16 |
@@ -4746,11 +4746,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Sting, Bilbo's Sword` | {2} | Artifact — Equipment | £0.19 |
 > | `mtg:The Reaver Cleaver` | {2}{R} | Artifact — Equipment | £14.16 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Ancient Den` | — | Land | £1.34 |
 > | `mtg:Axgard Armory` | — | Land | £0.22 |
 > | `mtg:Battlefield Forge` | — | Land | £0.36 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Clifftop Retreat` | — | Land | £0.22 |
 > | `mtg:Dragon-Cursed Halls` | — | Land | £6.97 |
 > | `mtg:Dwarven Mine` | — | Land — Mountain | £0.23 |
@@ -4763,13 +4763,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Radiant Summit` | — | Land — Mountain Plains | £0.27 |
 > | `mtg:Rugged Prairie` 🟡 | — | Land | £0.32 |
 > | `mtg:Sacred Foundry` | — | Land — Mountain Plains | — |
-> | `mtg:Secluded Courtyard` | — | Land | £0.20 |
+> | `mtg:Secluded Courtyard` 🟡 | — | Land | £0.20 |
 > | `mtg:Shinka, the Bloodsoaked Keep` | — | Land | £9.77 |
 > | `mtg:Spectator Seating` | — | Land | £5.37 |
 > | `mtg:Sundown Pass` | — | Land | £1.37 |
 > | `mtg:The Lonely Mountain` | — | Land — Mountain | £0.38 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
-> | `mtg:Unclaimed Territory` | — | Land | £0.21 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
+> | `mtg:Unclaimed Territory` 🟡 | — | Land | £0.21 |
 >
 > </div>
 
@@ -4855,7 +4855,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Nissa, Who Shakes the World` | {3}{G}{G} | Planeswalker — Nissa | £1.67 |
 > | `mtg:Awakening of Vitu-Ghazi` | {3}{G}{G} | Instant | £0.18 |
 > | `mtg:Cycle of Renewal` | {2}{G} | Instant — Lesson | £0.10 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Inspiring Call` | {2}{G} | Instant | £0.59 |
 > | `mtg:Rocky Rebuke` | {1}{G} | Instant | £0.09 |
 > | `mtg:Bumi's Feast Lecture` | {1}{G} | Sorcery — Lesson | £0.34 |
@@ -4866,7 +4866,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Emergent Sequence` | {1}{G} | Sorcery | £0.17 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
 > | `mtg:Fangs of Kalonia` | {1}{G} | Sorcery | £0.14 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Rockalanche` | {2}{G} | Sorcery — Lesson | £0.06 |
 > | `mtg:Seismic Sense` | {G} | Sorcery — Lesson | £0.11 |
 > | `mtg:Branching Evolution` | {2}{G} | Enchantment | £5.45 |
@@ -4890,23 +4890,23 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Boseiju, Who Endures` | — | Land | £35.74 |
 > | `mtg:Darksteel Citadel` | — | Land | £0.98 |
 > | `mtg:Evendo, Waking Haven` | — | Land — Planet | £12.10 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Hidden Nursery` | — | Land — Cave | £0.05 |
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Lair of the Hydra` | — | Land | £0.37 |
 > | `mtg:Llanowar Reborn` | — | Land | £0.12 |
-> | `mtg:Mosswort Bridge` | — | Land | £0.34 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Mosswort Bridge` 🟡 | — | Land | £0.34 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nesting Grounds` | — | Land | £0.13 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Shifting Woodland` | — | Land | £4.80 |
 > | `mtg:Soulstone Sanctuary` | — | Land | £1.16 |
 > | `mtg:Treetop Village` | — | Land | £0.28 |
 > | `mtg:Urza's Cave` | — | Land — Urza's Cave | £1.10 |
 > | `mtg:Vibrant Cityscape` | — | Land | £0.12 |
-> | `mtg:Yavimaya, Cradle of Growth` | — | Land | £9.63 |
+> | `mtg:Yavimaya, Cradle of Growth` 🟡 | — | Land | £9.63 |
 >
 > </div>
 
@@ -4989,7 +4989,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Segovian Angel` | {W} | Creature — Angel | £0.26 |
 > | `mtg:Sephara, Sky's Blade` | {4}{W}{W}{W} | Creature — Angel | £2.23 |
 > | `mtg:Serra Paragon` | {2}{W}{W} | Creature — Angel | £0.61 |
-> | `mtg:Speaker of the Heavens` | {W} | Creature — Human Cleric | £0.72 |
+> | `mtg:Speaker of the Heavens` 🟡 | {W} | Creature — Human Cleric | £0.72 |
 > | `mtg:Sunblast Angel` | {4}{W}{W} | Creature — Angel | £0.53 |
 > | `mtg:Thraben Watcher` | {2}{W}{W} | Creature — Angel | £0.26 |
 > | `mtg:Valkyrie Harbinger` | {4}{W}{W} | Creature — Angel Cleric | £2.61 |
@@ -4997,7 +4997,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Youthful Valkyrie` 🟡 | {1}{W} | Creature — Angel | £0.25 |
 > | `mtg:Archangel Elspeth` | {2}{W}{W} | Planeswalker — Elspeth | £2.44 |
 > | `mtg:Serra the Benevolent` | {2}{W}{W} | Planeswalker — Serra | £4.37 |
-> | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
+> | `mtg:Akroma's Will` 🟡 | {3}{W} | Instant | £11.77 |
 > | `mtg:Invoke the Divine` | {2}{W} | Instant | £0.10 |
 > | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Teferi's Protection` | {2}{W} | Instant | £31.39 |
@@ -5005,45 +5005,45 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Entreat the Angels` | {X}{X}{W}{W}{W} | Sorcery | £0.51 |
 > | `mtg:Starnheim Unleashed` | {2}{W}{W} | Sorcery | £1.55 |
 > | `mtg:Angelic Accord` | {3}{W} | Enchantment | £0.89 |
-> | `mtg:Authority of the Consuls` | {W} | Enchantment | £3.91 |
-> | `mtg:Cleric Class` | {W} | Enchantment — Class | £2.42 |
+> | `mtg:Authority of the Consuls` 🟡 | {W} | Enchantment | £3.91 |
+> | `mtg:Cleric Class` 🟡 | {W} | Enchantment — Class | £2.42 |
 > | `mtg:Court of Grace` | {2}{W}{W} | Enchantment | £1.47 |
 > | `mtg:Dawn of Hope` | {1}{W} | Enchantment | £0.37 |
 > | `mtg:Land Tax` | {W} | Enchantment | £10.11 |
 > | `mtg:Leyline of Hope` 🟡 | {2}{W}{W} | Enchantment | £0.46 |
 > | `mtg:Luminarch Ascension` | {1}{W} | Enchantment | £7.88 |
 > | `mtg:Sigarda's Splendor` | {2}{W}{W} | Enchantment | £0.40 |
-> | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
+> | `mtg:Herald's Horn` 🟡 | {3} | Artifact | £3.96 |
 > | `mtg:Moonsilver Spear` | {4} | Artifact — Equipment | £0.32 |
 > | `mtg:Pearl Medallion` | {2} | Artifact | £3.14 |
 > | `mtg:The Book of Exalted Deeds` | {W}{W}{W} | Artifact — Book | £5.87 |
 > | `mtg:The Wind Crystal` | {2}{W}{W} | Artifact | £3.36 |
 > | `mtg:Urza's Incubator` | {3} | Artifact | £13.23 |
-> | `mtg:Well of Lost Dreams` | {4} | Artifact | £1.30 |
+> | `mtg:Well of Lost Dreams` 🟡 | {4} | Artifact | £1.30 |
 > | `mtg:Invasion of Dominaria` | {2}{W} | Battle — Siege | £0.09 |
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
 > | `mtg:Drifting Meadow` | — | Land | £0.08 |
-> | `mtg:Eiganjo, Seat of the Empire` | — | Land | £5.55 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
+> | `mtg:Eiganjo, Seat of the Empire` 🟡 | — | Land | £5.55 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
 > | `mtg:Idyllic Grange` | — | Land — Plains | £0.24 |
 > | `mtg:Kabira Crossroads` | — | Land | £0.57 |
 > | `mtg:Karoo` | — | Land | £0.34 |
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:New Benalia` | — | Land | £0.11 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Radiant Fountain` | — | Land | £0.31 |
+> | `mtg:Radiant Fountain` 🟡 | — | Land | £0.31 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
 > | `mtg:Seraph Sanctuary` | — | Land | £1.48 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:War Room` | — | Land | £2.79 |
 > | `mtg:Windbrisk Heights` | — | Land | £0.21 |
 >
@@ -5110,7 +5110,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Foundry Inspector` | {3} | Creature — Construct | £0.16 |
 > | `mtg:Gold Myr` | {2} | Creature — Myr | £0.53 |
 > | `mtg:Jhoira's Familiar` | {4} | Creature — Bird | £0.87 |
-> | `mtg:Lion Sash` | {1}{W} | Creature — Equipment Cat | £1.54 |
+> | `mtg:Lion Sash` 🟡 | {1}{W} | Creature — Equipment Cat | £1.54 |
 > | `mtg:Myr Retriever` | {2} | Creature — Myr | £1.16 |
 > | `mtg:Oswald Fiddlebender` | {1}{W} | Creature — Gnome Artificer | £1.72 |
 > | `mtg:Puresteel Paladin` | {W}{W} | Creature — Human Knight | £1.04 |
@@ -5150,7 +5150,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Pearl Medallion` | {2} | Artifact | £3.14 |
 > | `mtg:Sculpting Steel` | {3} | Artifact | £0.98 |
 > | `mtg:Shadowspear` | {1} | Artifact — Equipment | £21.00 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:Sword of Feast and Famine` | {3} | Artifact — Equipment | £21.77 |
 > | `mtg:Sword of Fire and Ice` | {3} | Artifact — Equipment | £22.67 |
 > | `mtg:Sword of the Animist` | {2} | Artifact — Equipment | £4.68 |
@@ -5163,22 +5163,22 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Adagia, Windswept Bastion` | — | Land — Planet | £4.84 |
 > | `mtg:Ancient Den` | — | Land | £1.34 |
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
 > | `mtg:Darksteel Citadel` | — | Land | £0.98 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Eiganjo Castle` | — | Land | £6.40 |
-> | `mtg:Eiganjo, Seat of the Empire` | — | Land | £5.55 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
+> | `mtg:Eiganjo, Seat of the Empire` 🟡 | — | Land | £5.55 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
 > | `mtg:Fomori Vault` | — | Land | £8.02 |
 > | `mtg:Idyllic Grange` | — | Land — Plains | £0.24 |
 > | `mtg:Inventors' Fair` | — | Land | £8.90 |
 > | `mtg:Ishgard, the Holy See` | {3}{W}{W} | Land — Town | £0.92 |
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Power Depot` | — | Land | £0.27 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scene of the Crime` | — | Land — Clue | £0.22 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
@@ -5305,11 +5305,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Blazemire Verge` | — | Land | £7.76 |
 > | `mtg:Blood Crypt` | — | Land — Swamp Mountain | — |
 > | `mtg:Bloodstained Mire` | — | Land | £14.79 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Dark Fortress` | — | Land | £2.86 |
 > | `mtg:Dragonskull Summit` | — | Land | £0.63 |
 > | `mtg:Exotic Orchard` | — | Land | — |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Fountainport` | — | Land | £2.94 |
 > | `mtg:Great Furnace` | — | Land | £2.10 |
 > | `mtg:Haunted Ridge` | — | Land | £5.74 |
@@ -5430,7 +5430,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Nissa Revane` | {2}{G}{G} | Planeswalker — Nissa | £2.19 |
 > | `mtg:Elven Ambush` | {3}{G} | Instant | £6.57 |
 > | `mtg:Galadhrim Ambush` | {3}{G} | Instant | £5.12 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Naturalize` | {1}{G} | Instant | £0.06 |
 > | `mtg:Return to Nature` | {1}{G} | Instant | £0.19 |
 > | `mtg:Windswift Slice` | {2}{G} | Instant | £1.01 |
@@ -5450,16 +5450,16 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Castle Garenbrig` | — | Land | £4.61 |
 > | `mtg:Hidden Nursery` | — | Land — Cave | £0.05 |
 > | `mtg:Llanowar Reborn` | — | Land | £0.12 |
-> | `mtg:Mosswort Bridge` | — | Land | £0.34 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Mosswort Bridge` 🟡 | — | Land | £0.34 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
-> | `mtg:Secluded Courtyard` | — | Land | £0.20 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
+> | `mtg:Secluded Courtyard` 🟡 | — | Land | £0.20 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Tranquil Thicket` | — | Land | £0.12 |
 > | `mtg:Wirewood Lodge` | — | Land | £5.66 |
 >
@@ -5566,7 +5566,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Blitzball` | {3} | Artifact | £0.05 |
 > | `mtg:Bonder's Ornament` | {3} | Artifact | £0.75 |
 > | `mtg:Brass's Tunnel-Grinder` | {2}{R} | Artifact | £2.41 |
-> | `mtg:Chronicle of Victory` | {6} | Artifact | £16.63 |
+> | `mtg:Chronicle of Victory` 🟡 | {6} | Artifact | £16.63 |
 > | `mtg:Commander's Sphere` | {3} | Artifact | £0.18 |
 > | `mtg:Coveted Jewel` | {6} | Artifact | £0.16 |
 > | `mtg:Fire Diamond` | {2} | Artifact | £0.25 |
@@ -5589,13 +5589,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Haunted Fengraf` | — | Land | £0.25 |
 > | `mtg:Holdout Settlement` | — | Land | £0.27 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Opal Palace` | — | Land | £0.14 |
+> | `mtg:Opal Palace` 🟡 | — | Land | £0.14 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Study Hall` | — | Land | £0.11 |
 > | `mtg:Surveillance Room` | — | Land | £0.09 |
 > | `mtg:Survivors' Encampment` | — | Land — Desert | £0.43 |
 > | `mtg:The Autonomous Furnace` | — | Land — Sphere | £0.14 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Tocasia's Dig Site` | — | Land | £0.19 |
 > | `mtg:Vibrant Cityscape` | — | Land | £0.12 |
 > | `mtg:War Room` | — | Land | £2.79 |
@@ -5698,7 +5698,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Airbending Lesson` | {2}{W} | Instant — Lesson | £0.11 |
 > | `mtg:Allies at Last` | {2}{G} | Instant | £0.13 |
 > | `mtg:Counterspell` | {U}{U} | Instant | £2.68 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:It'll Quench Ya!` | {1}{U} | Instant — Lesson | £0.12 |
 > | `mtg:Join Shields` | {3}{G}{W} | Instant | £0.09 |
 > | `mtg:Path to Exile` | {W} | Instant | £1.16 |
@@ -5716,23 +5716,23 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Waterbender Ascension` | {1}{U} | Enchantment | £0.48 |
 > | `mtg:Bender's Waterskin` | {3} | Artifact | £0.72 |
 > | `mtg:Panharmonicon` | {4} | Artifact | £4.94 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Agna Qel'a` | — | Land | £1.26 |
 > | `mtg:Ally Encampment` | — | Land | £0.47 |
 > | `mtg:Ba Sing Se` | — | Land | £4.58 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
-> | `mtg:Gavony Township` | — | Land | £4.01 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
+> | `mtg:Gavony Township` 🟡 | — | Land | £4.01 |
 > | `mtg:Glacial Fortress` 🟡 | — | Land | £0.22 |
 > | `mtg:Jasmine Dragon Tea Shop` | — | Land | £0.32 |
 > | `mtg:Kyoshi Village` | — | Land | £0.13 |
 > | `mtg:North Pole Gates` | — | Land | £0.04 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Secluded Courtyard` | — | Land | £0.20 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Secluded Courtyard` 🟡 | — | Land | £0.20 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Thriving Heath` | — | Land | £0.16 |
 > | `mtg:Thriving Isle` | — | Land | £0.10 |
-> | `mtg:Unclaimed Territory` | — | Land | £0.21 |
+> | `mtg:Unclaimed Territory` 🟡 | — | Land | £0.21 |
 > | `mtg:White Lotus Hideout` | — | Land | £0.09 |
 >
 > </div>
@@ -5808,26 +5808,26 @@ Why jumps to that commander under [[#Why these unowned]].
 >
 > | Card Name | Mana Pips | Card Type | Est Cost (GBP) |
 > | --- | --- | --- | ---: |
-> | `mtg:Adorned Pouncer` | {1}{W} | Creature — Cat | £0.54 |
+> | `mtg:Adorned Pouncer` 🟡 | {1}{W} | Creature — Cat | £0.54 |
 > | `mtg:Alms Collector` | {3}{W} | Creature — Cat Cleric | £0.76 |
 > | `mtg:Arcbound Mouser` | {W} | Creature — Cat | £0.16 |
 > | `mtg:Basri's Acolyte` | {2}{W}{W} | Creature — Cat Cleric | £0.07 |
 > | `mtg:Bounding Felidar` | {5}{W} | Creature — Cat Beast Mount | £0.08 |
-> | `mtg:Brimaz, King of Oreskos` | {1}{W}{W} | Creature — Cat Soldier | £4.97 |
+> | `mtg:Brimaz, King of Oreskos` 🟡 | {1}{W}{W} | Creature — Cat Soldier | £4.97 |
 > | `mtg:Cubwarden` | {3}{W} | Creature — Cat | £0.29 |
 > | `mtg:Enlightened Ascetic` | {1}{W} | Creature — Cat Monk | £0.14 |
 > | `mtg:Felidar Sovereign` | {4}{W}{W} | Creature — Cat Beast | £1.20 |
 > | `mtg:Gloryheath Lynx` | {1}{W} | Creature — Cat Mount | £0.11 |
-> | `mtg:Healer of the Pride` | {3}{W} | Creature — Cat Cleric | £0.32 |
-> | `mtg:Helpful Hunter` | {1}{W} | Creature — Cat | £0.13 |
-> | `mtg:Jazal Goldmane` | {2}{W}{W} | Creature — Cat Warrior | £0.14 |
+> | `mtg:Healer of the Pride` 🟡 | {3}{W} | Creature — Cat Cleric | £0.32 |
+> | `mtg:Helpful Hunter` 🟡 | {1}{W} | Creature — Cat | £0.13 |
+> | `mtg:Jazal Goldmane` 🟡 | {2}{W}{W} | Creature — Cat Warrior | £0.14 |
 > | `mtg:King of the Pride` 🟡 | {2}{W} | Creature — Cat | £0.22 |
 > | `mtg:Kutzil's Flanker` | {2}{W} | Creature — Cat Warrior | £0.43 |
 > | `mtg:Leonin Vanguard` | {W} | Creature — Cat Soldier | £0.19 |
-> | `mtg:Leonin Warleader` | {2}{W}{W} | Creature — Cat Soldier | £3.14 |
-> | `mtg:Lion Sash` | {1}{W} | Creature — Equipment Cat | £1.54 |
+> | `mtg:Leonin Warleader` 🟡 | {2}{W}{W} | Creature — Cat Soldier | £3.14 |
+> | `mtg:Lion Sash` 🟡 | {1}{W} | Creature — Equipment Cat | £1.54 |
 > | `mtg:Lionheart Glimmer` | {3}{W}{W} | Creature — Cat Glimmer | £0.04 |
-> | `mtg:Ocelot Pride` | {W} | Creature — Cat | £33.91 |
+> | `mtg:Ocelot Pride` 🟡 | {W} | Creature — Cat | £33.91 |
 > | `mtg:Oreskos Explorer` | {1}{W} | Creature — Cat Scout | £0.18 |
 > | `mtg:Prava of the Steel Legion` | {2}{W} | Creature — Cat Soldier | £0.24 |
 > | `mtg:Qala, Ajani's Pridemate` | {3}{W} | Creature — Cat Warrior | £0.30 |
@@ -5836,39 +5836,39 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Trained Caracal` | {W} | Creature — Cat | £0.13 |
 > | `mtg:Whitemane Lion` | {1}{W} | Creature — Cat | £0.11 |
 > | `mtg:Ajani, Adversary of Tyrants` | {2}{W}{W} | Planeswalker — Ajani | £1.10 |
-> | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
-> | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
-> | `mtg:White Sun's Zenith` | {X}{W}{W}{W} | Instant | £0.19 |
-> | `mtg:Practiced Offense` | {2}{W} | Sorcery | £0.71 |
-> | `mtg:Restoration Seminar` | {5}{W}{W} | Sorcery — Lesson | £1.97 |
-> | `mtg:Split Up` | {1}{W}{W} | Sorcery | £1.54 |
-> | `mtg:Ajani's Welcome` | {W} | Enchantment | £1.79 |
-> | `mtg:Authority of the Consuls` | {W} | Enchantment | £3.91 |
-> | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
+> | `mtg:Akroma's Will` 🟡 | {3}{W} | Instant | £11.77 |
+> | `mtg:Unbreakable Formation` 🟡 | {2}{W} | Instant | £0.50 |
+> | `mtg:White Sun's Zenith` 🟡 | {X}{W}{W}{W} | Instant | £0.19 |
+> | `mtg:Practiced Offense` 🟡 | {2}{W} | Sorcery | £0.71 |
+> | `mtg:Restoration Seminar` 🟡 | {5}{W}{W} | Sorcery — Lesson | £1.97 |
+> | `mtg:Split Up` 🟡 | {1}{W}{W} | Sorcery | £1.54 |
+> | `mtg:Ajani's Welcome` 🟡 | {W} | Enchantment | £1.79 |
+> | `mtg:Authority of the Consuls` 🟡 | {W} | Enchantment | £3.91 |
+> | `mtg:Caretaker's Talent` 🟡 | {2}{W} | Enchantment — Class | £7.19 |
 > | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
-> | `mtg:Sheltered by Ghosts` | {1}{W} | Enchantment — Aura | £1.52 |
-> | `mtg:Banner of Kinship` | {5} | Artifact | £5.21 |
-> | `mtg:Chronicle of Victory` | {6} | Artifact | £16.63 |
+> | `mtg:Sheltered by Ghosts` 🟡 | {1}{W} | Enchantment — Aura | £1.52 |
+> | `mtg:Banner of Kinship` 🟡 | {5} | Artifact | £5.21 |
+> | `mtg:Chronicle of Victory` 🟡 | {6} | Artifact | £16.63 |
 > | `mtg:Firdoch Core` 🟡 | {3} | Artifact — Shapeshifter | £0.13 |
-> | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
-> | `mtg:Animal Sanctuary` | — | Land | £1.16 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
-> | `mtg:Eiganjo, Seat of the Empire` | — | Land | £5.55 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
+> | `mtg:Herald's Horn` 🟡 | {3} | Artifact | £3.96 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
+> | `mtg:Animal Sanctuary` 🟡 | — | Land | £1.16 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
+> | `mtg:Eiganjo, Seat of the Empire` 🟡 | — | Land | £5.55 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
 > | `mtg:Fountainport` | — | Land | £2.94 |
 > | `mtg:Idyllic Grange` | — | Land — Plains | £0.24 |
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:War Room` | — | Land | £2.79 |
 > | `mtg:Windbrisk Heights` | — | Land | £0.21 |
 >
@@ -5927,7 +5927,7 @@ Why jumps to that commander under [[#Why these unowned]].
 >
 > | Card Name | Mana Pips | Card Type | Est Cost (GBP) |
 > | --- | --- | --- | ---: |
-> | `mtg:Adeline, Resplendent Cathar` | {1}{W}{W} | Creature — Human Knight | £2.96 |
+> | `mtg:Adeline, Resplendent Cathar` 🟡 | {1}{W}{W} | Creature — Human Knight | £2.96 |
 > | `mtg:Agate Instigator` | {1}{R} | Creature — Lizard Rogue | — |
 > | `mtg:Cosmogrand Zenith` | {2}{W} | Creature — Human Soldier | £6.16 |
 > | `mtg:Molten Gatekeeper` | {2}{R} | Creature — Golem | £0.18 |
@@ -5974,7 +5974,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Tempt with Bunnies` | {2}{W} | Sorcery | — |
 > | `mtg:Tempt with Vengeance` | {X}{R} | Sorcery | £0.35 |
 > | `mtg:Anointed Procession` | {3}{W} | Enchantment | £28.35 |
-> | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
+> | `mtg:Caretaker's Talent` 🟡 | {2}{W} | Enchantment — Class | £7.19 |
 > | `mtg:Impact Tremors` | {1}{R} | Enchantment | — |
 > | `mtg:Prosperous Partnership` | {1}{R}{W} | Enchantment | £8.82 |
 > | `mtg:Warleader's Call` | {1}{R}{W} | Enchantment | £4.42 |
@@ -5983,15 +5983,15 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Primal Amulet` | {4} | Artifact | £6.75 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Twinning Staff` | {3} | Artifact | £13.22 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Arid Mesa` | — | Land | £22.72 |
 > | `mtg:Battlefield Forge` | — | Land | £0.36 |
 > | `mtg:Boros Garrison` | — | Land | £0.27 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
 > | `mtg:Clifftop Retreat` | — | Land | £0.22 |
 > | `mtg:Elegant Parlor` | — | Land — Mountain Plains | £8.18 |
 > | `mtg:Exotic Orchard` | — | Land | — |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Fountainport` | — | Land | £2.94 |
 > | `mtg:Furycalm Snarl` | — | Land | £0.21 |
 > | `mtg:Glittering Massif` | — | Land — Mountain Plains | £0.18 |
@@ -6127,7 +6127,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ash Barrens` | — | Land | £0.08 |
 > | `mtg:Barren Moor` | — | Land | £0.17 |
 > | `mtg:Blast Zone` | — | Land | £0.27 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Cabal Coffers` | — | Land | £15.04 |
 > | `mtg:Cabal Stronghold` | — | Land | £8.08 |
 > | `mtg:Castle Locthwain` | — | Land | £3.19 |
@@ -6140,13 +6140,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:HELIOS One` | — | Land | £0.44 |
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Mirrex` | — | Land — Sphere | £0.93 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Polluted Mire` | — | Land | £0.11 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Secluded Starforge` | — | Land | £0.25 |
 > | `mtg:Strip Mine` | — | Land | — |
-> | `mtg:Takenuma, Abandoned Mire` | — | Land | £8.36 |
+> | `mtg:Takenuma, Abandoned Mire` 🟡 | — | Land | £8.36 |
 > | `mtg:The Gold Saucer` | — | Land — Town | £0.15 |
 > | `mtg:Wasteland` | — | Land | £19.36 |
 > | `mtg:Witch's Cottage` | — | Land — Swamp | £0.65 |
@@ -6280,7 +6280,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Gemstone Caverns` | — | Land | £31.94 |
 > | `mtg:Great Furnace` | — | Land | £2.10 |
 > | `mtg:Ramunap Ruins` | — | Land — Desert | £0.51 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Sokenzan, Crucible of Defiance` | — | Land | £2.11 |
 > | `mtg:Strip Mine` | — | Land | — |
@@ -6383,7 +6383,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Dreadhorde Invasion` | {1}{B} | Enchantment | £0.47 |
 > | `mtg:Exquisite Blood` | {4}{B} | Enchantment | £25.37 |
 > | `mtg:Intermediate Chirography` | {1}{B} | Enchantment — Class | £0.26 |
-> | `mtg:Phyrexian Arena` | {1}{B}{B} | Enchantment | £3.37 |
+> | `mtg:Phyrexian Arena` 🟡 | {1}{B}{B} | Enchantment | £3.37 |
 > | `mtg:Anchovy & Banana Pizza` | {2}{B}{B} | Artifact — Food | £0.09 |
 > | `mtg:Bumbleflower's Sharepot` | {2} | Artifact | £0.09 |
 > | `mtg:Campfire` | {1} | Artifact | £2.50 |
@@ -6398,9 +6398,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Springleaf Drum` | {1} | Artifact | £0.27 |
 > | `mtg:Staff of Compleation` | {3} | Artifact | £3.51 |
-> | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
+> | `mtg:Swiftfoot Boots` 🟡 | {2} | Artifact — Equipment | — |
 > | `mtg:Sword of Truth and Justice` | {3} | Artifact — Equipment | £21.67 |
-> | `mtg:Well of Lost Dreams` | {4} | Artifact | £1.30 |
+> | `mtg:Well of Lost Dreams` 🟡 | {4} | Artifact | £1.30 |
 > | `mtg:Well-Worn Spatula` | {1} | Artifact — Equipment | £0.02 |
 > | `mtg:Whispersilk Cloak` | {3} | Artifact — Equipment | £1.12 |
 > | `mtg:Avishkar Raceway` | — | Land | £0.09 |
@@ -6419,7 +6419,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Piranha Marsh` | — | Land | £0.09 |
 > | `mtg:Promising Vein` | — | Land — Cave | £0.11 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Surveillance Room` | — | Land | £0.09 |
 > | `mtg:Vibrant Cityscape` | — | Land | £0.12 |
 > | `mtg:Zoetic Cavern` | — | Land | £0.12 |
@@ -6535,7 +6535,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ruby Medallion` | {2} | Artifact | £8.95 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Sky Diamond` | {2} | Artifact | £0.16 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Thran Dynamo` | {4} | Artifact | £2.01 |
 > | `mtg:Worn Powerstone` | {3} | Artifact | £0.17 |
 > | `mtg:Invasion of Segovia` | {2}{U} | Battle — Siege | £0.43 |
@@ -6546,7 +6546,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ferrous Lake` | — | Land | £0.28 |
 > | `mtg:Frostboil Snarl` | — | Land | £0.17 |
 > | `mtg:Izzet Boilerworks` | — | Land | £0.23 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Riverglide Pathway` | — | Land | £3.86 |
@@ -6557,7 +6557,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Stormcarved Coast` | — | Land | £1.45 |
 > | `mtg:Sulfur Falls` | — | Land | £0.25 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Training Center` | — | Land | £14.44 |
 > | `mtg:Urza's Saga` | — | Land — Urza's Saga | £33.60 |
 > | `mtg:Volatile Fault` | — | Land — Cave | £0.11 |
@@ -6614,7 +6614,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | --- | --- | --- | ---: |
 > | `mtg:Acclaimed Contender` | {2}{W} | Creature — Human Knight | £0.20 |
 > | `mtg:Adelbert Steiner` | {1}{W} | Creature — Human Knight | £0.12 |
-> | `mtg:Adeline, Resplendent Cathar` | {1}{W}{W} | Creature — Human Knight | £2.96 |
+> | `mtg:Adeline, Resplendent Cathar` 🟡 | {1}{W}{W} | Creature — Human Knight | £2.96 |
 > | `mtg:Basri's Lieutenant` | {3}{W} | Creature — Human Knight | £0.22 |
 > | `mtg:Battle Angels of Tyr` | {2}{W}{W} | Creature — Angel Knight | £24.71 |
 > | `mtg:Benalish Marshal` | {W}{W}{W} | Creature — Human Knight | £0.35 |
@@ -6630,7 +6630,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Kinsbaile Cavalier` | {3}{W} | Creature — Kithkin Knight | £3.42 |
 > | `mtg:Knight Exemplar` | {1}{W}{W} | Creature — Human Knight | £2.59 |
 > | `mtg:Knight of the New Coalition` | {3}{W} | Creature — Human Knight | £0.03 |
-> | `mtg:Knight of the White Orchid` | {W}{W} | Creature — Human Knight | £1.56 |
+> | `mtg:Knight of the White Orchid` 🟡 | {W}{W} | Creature — Human Knight | £1.56 |
 > | `mtg:Mirran Crusader` | {1}{W}{W} | Creature — Human Knight | £0.48 |
 > | `mtg:Moonshaker Cavalry` | {5}{W}{W}{W} | Creature — Spirit Knight | £4.82 |
 > | `mtg:Paladin Danse, Steel Maverick` | {2}{W} | Creature — Synth Knight | £0.29 |
@@ -6647,13 +6647,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:White Orchid Phantom` | {W}{W} | Creature — Spirit Knight | £0.27 |
 > | `mtg:Worthy Knight` | {1}{W} | Creature — Human Knight | £0.29 |
 > | `mtg:Gideon, Ally of Zendikar` | {2}{W}{W} | Planeswalker — Gideon | £1.06 |
-> | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
+> | `mtg:Akroma's Will` 🟡 | {3}{W} | Instant | £11.77 |
 > | `mtg:Battle Menu` | {1}{W} | Instant | £0.10 |
 > | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
-> | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
+> | `mtg:Unbreakable Formation` 🟡 | {2}{W} | Instant | £0.50 |
 > | `mtg:Call the Cavalry` | {3}{W} | Sorcery | £0.12 |
 > | `mtg:Righteous Confluence` | {3}{W}{W} | Sorcery | £0.16 |
-> | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
+> | `mtg:Caretaker's Talent` 🟡 | {2}{W} | Enchantment — Class | £7.19 |
 > | `mtg:Chivalric Alliance` | {1}{W} | Enchantment | £14.66 |
 > | `mtg:Flowering of the White Tree` | {W}{W} | Enchantment | £5.69 |
 > | `mtg:History of Benalia` | {1}{W}{W} | Enchantment — Saga | £0.67 |
@@ -6662,9 +6662,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Sigarda's Aid` | {W} | Enchantment | £13.75 |
 > | `mtg:Tocasia's Welcome` | {2}{W} | Enchantment | £0.81 |
 > | `mtg:Virtue of Loyalty` | {3}{W}{W} | Enchantment | £5.17 |
-> | `mtg:Chronicle of Victory` | {6} | Artifact | £16.63 |
+> | `mtg:Chronicle of Victory` 🟡 | {6} | Artifact | £16.63 |
 > | `mtg:Dragoon's Lance` | {1}{W} | Artifact — Equipment | £0.09 |
-> | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
+> | `mtg:Herald's Horn` 🟡 | {3} | Artifact | £3.96 |
 > | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Paladin's Arms` | {2}{W} | Artifact — Equipment | £0.03 |
 > | `mtg:Pearl Medallion` | {2} | Artifact | £3.14 |
@@ -6672,28 +6672,28 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:The Circle of Loyalty` | {4}{W}{W} | Artifact | £0.39 |
 > | `mtg:Vanquisher's Banner` | {5} | Artifact | £3.99 |
 > | `mtg:Invasion of Belenon` | {2}{W} | Battle — Siege | £0.04 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Adagia, Windswept Bastion` | — | Land — Planet | £4.84 |
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Eiganjo Castle` | — | Land | £6.40 |
-> | `mtg:Eiganjo, Seat of the Empire` | — | Land | £5.55 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
+> | `mtg:Eiganjo, Seat of the Empire` 🟡 | — | Land | £5.55 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
 > | `mtg:Idyllic Grange` | — | Land — Plains | £0.24 |
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
 > | `mtg:Mistveil Plains` | — | Land — Plains | £0.16 |
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:War Room` | — | Land | £2.79 |
 > | `mtg:Windbrisk Heights` | — | Land | £0.21 |
 >
@@ -6775,15 +6775,15 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Gonti, Lord of Luxury` | {2}{B}{B} | Creature — Aetherborn Rogue | £0.16 |
 > | `mtg:Gonti, Night Minister` | {2}{B}{B} | Creature — Aetherborn Rogue | £0.57 |
 > | `mtg:Intellect Devourer` | {3}{B} | Creature — Horror | £0.23 |
-> | `mtg:Jadar, Ghoulcaller of Nephalia` | {1}{B} | Creature — Human Wizard | £1.54 |
+> | `mtg:Jadar, Ghoulcaller of Nephalia` 🟡 | {1}{B} | Creature — Human Wizard | £1.54 |
 > | `mtg:Kambal, Profiteering Mayor` | {1}{W}{B} | Creature — Human Advisor | £4.15 |
 > | `mtg:Lotho, Corrupt Shirriff` | {W}{B} | Creature — Halfling Rogue | £7.94 |
 > | `mtg:Monastery Mentor` | {2}{W} | Creature — Human Monk | £1.23 |
 > | `mtg:Morbid Opportunist` | {2}{B} | Creature — Human Rogue | £0.22 |
 > | `mtg:Nashi, Moon Sage's Scion` | {1}{B}{B} | Creature — Rat Ninja | £2.07 |
-> | `mtg:Ophiomancer` | {2}{B} | Creature — Human Shaman | £0.95 |
+> | `mtg:Ophiomancer` 🟡 | {2}{B} | Creature — Human Shaman | £0.95 |
 > | `mtg:Opposition Agent` | {2}{B} | Creature — Human Rogue | £20.26 |
-> | `mtg:Pitiless Plunderer` | {3}{B} | Creature — Human Pirate | £3.16 |
+> | `mtg:Pitiless Plunderer` 🟡 | {3}{B} | Creature — Human Pirate | £3.16 |
 > | `mtg:Rev, Tithe Extractor` | {3}{B} | Creature — Human Rogue | — |
 > | `mtg:Sedgemoor Witch` | {2}{B} | Creature — Human Warlock | £3.18 |
 > | `mtg:Silverquill, the Disputant` | {2}{W}{B} | Creature — Elder Dragon | £1.31 |
@@ -6791,9 +6791,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Thieving Varmint` | {1}{B} | Creature — Varmint | £2.97 |
 > | `mtg:Tinybones, Bauble Burglar` | {1}{B} | Creature — Skeleton Rogue | £0.51 |
 > | `mtg:Tinybones, the Pickpocket` | {B} | Creature — Skeleton Rogue | £3.93 |
-> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Abstruse Appropriation` | {2}{W}{B} | Instant | £0.16 |
-> | `mtg:Anguished Unmaking` | {1}{W}{B} | Instant | £1.68 |
+> | `mtg:Anguished Unmaking` 🟡 | {1}{W}{B} | Instant | £1.68 |
 > | `mtg:Erode` | {W} | Instant | £6.48 |
 > | `mtg:Grand Crescendo` | {X}{W}{W} | Instant | £3.46 |
 > | `mtg:Outrageous Robbery` | {X}{B}{B} | Instant | £0.45 |
@@ -6815,24 +6815,24 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mind Stone` | {2} | Artifact | — |
 > | `mtg:Mindcrank` | {2} | Artifact | £7.06 |
 > | `mtg:Realmbreaker, the Invasion Tree` | {3} | Artifact | £0.35 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Arid Mesa` | — | Land | £22.72 |
 > | `mtg:Bleachbone Verge` | — | Land | £8.01 |
 > | `mtg:Bloodstained Mire` | — | Land | £14.79 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Dalkovan Encampment` | — | Land | £0.46 |
 > | `mtg:Eclipsed Steppe` | — | Land — Plains Swamp | £2.43 |
 > | `mtg:Exotic Orchard` | — | Land | — |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Fetid Heath` | — | Land | £0.51 |
 > | `mtg:Flooded Strand` | — | Land | £13.29 |
 > | `mtg:Godless Shrine` | — | Land — Plains Swamp | — |
-> | `mtg:Isolated Chapel` | — | Land | £0.47 |
+> | `mtg:Isolated Chapel` 🟡 | — | Land | £0.47 |
 > | `mtg:Marsh Flats` | — | Land | £21.40 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
-> | `mtg:Phyrexian Tower` | — | Land | £24.29 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
+> | `mtg:Phyrexian Tower` 🟡 | — | Land | £24.29 |
 > | `mtg:Shadowy Backstreet` | — | Land — Plains Swamp | £9.95 |
-> | `mtg:Silent Clearing` | — | Land | £3.63 |
+> | `mtg:Silent Clearing` 🟡 | — | Land | £3.63 |
 > | `mtg:Spymaster's Vault` | — | Land | £1.02 |
 >
 > </div>
@@ -6934,7 +6934,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Flourishing Strike` | {1}{G} | Instant | £0.09 |
 > | `mtg:Galadhrim Ambush` | {3}{G} | Instant | £5.12 |
 > | `mtg:Grim Affliction` | {2}{B} | Instant | £0.34 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Unforgiving Aim` | {2}{G} | Instant | £0.05 |
 > | `mtg:Elvish Promenade` | {3}{G} | Sorcery — Elf | £4.34 |
 > | `mtg:Trystan's Command` | {4}{B}{G} | Sorcery — Elf | £0.21 |
@@ -6947,8 +6947,8 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Nest of Scarabs` | {2}{B} | Enchantment | £3.40 |
 > | `mtg:Prowess of the Fair` | {1}{B} | Enchantment — Elf | £0.91 |
 > | `mtg:Contagion Clasp` | {2} | Artifact | £0.22 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Deathcap Glade` | — | Land | £1.60 |
 > | `mtg:Evendo, Waking Haven` | — | Land — Planet | £12.10 |
 > | `mtg:Gilt-Leaf Palace` | — | Land | £3.76 |
@@ -6959,19 +6959,19 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Necroblossom Snarl` | — | Land | £0.39 |
 > | `mtg:Overgrown Tomb` | — | Land — Swamp Forest | — |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Secluded Courtyard` | — | Land | £0.20 |
+> | `mtg:Secluded Courtyard` 🟡 | — | Land | £0.20 |
 > | `mtg:Skemfar Elderhall` | — | Land | £0.13 |
 > | `mtg:Tainted Wood` | — | Land | £0.30 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Twilight Mire` | — | Land | £0.53 |
-> | `mtg:Unclaimed Territory` | — | Land | £0.21 |
+> | `mtg:Unclaimed Territory` 🟡 | — | Land | £0.21 |
 > | `mtg:Undergrowth Stadium` | — | Land | £4.11 |
 > | `mtg:Verdant Catacombs` | — | Land | £20.26 |
 > | `mtg:Vernal Fen` | — | Land — Swamp Forest | £0.50 |
 > | `mtg:Wastewood Verge` | — | Land | £7.51 |
 > | `mtg:Wirewood Lodge` | — | Land | £5.66 |
 > | `mtg:Woodland Cemetery` | — | Land | £0.70 |
-> | `mtg:Yavimaya, Cradle of Growth` | — | Land | £9.63 |
+> | `mtg:Yavimaya, Cradle of Growth` 🟡 | — | Land | £9.63 |
 >
 > </div>
 
@@ -7083,27 +7083,27 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Aether Syphon` | {1}{U}{U} | Artifact | £0.09 |
 > | `mtg:Racers' Scoreboard` | {4} | Artifact | £0.11 |
 > | `mtg:Starting Column` | {3} | Artifact | £0.05 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Agna Qel'a` | — | Land | £1.26 |
 > | `mtg:Amonkhet Raceway` | — | Land | £0.20 |
 > | `mtg:Avishkar Raceway` | — | Land | £0.09 |
 > | `mtg:Castle Vantress` | — | Land | £0.35 |
 > | `mtg:Cephalid Coliseum` | — | Land | £0.26 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Desert of the Mindful` | — | Land — Desert | £0.16 |
 > | `mtg:Geier Reach Sanitarium` | — | Land | £1.94 |
 > | `mtg:Lonely Sandbar` | — | Land | £0.10 |
 > | `mtg:Mikokoro, Center of the Sea` | — | Land | £4.00 |
 > | `mtg:Mistrise Village` | — | Land | £5.97 |
 > | `mtg:Muraganda Raceway` | — | Land | £0.66 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Remote Isle` | — | Land | £0.13 |
 > | `mtg:Rivendell` | — | Land | £1.12 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
 > | `mtg:Terrain Generator` | — | Land | £1.71 |
@@ -7202,7 +7202,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Grapple with the Past` | {1}{G} | Instant | £0.09 |
 > | `mtg:Grisly Salvage` | {B}{G} | Instant | £0.16 |
 > | `mtg:Harrow` | {2}{G} | Instant | £0.22 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Pile On` | {3}{B} | Instant | £0.23 |
 > | `mtg:Roiling Regrowth` | {2}{G} | Instant | £0.20 |
 > | `mtg:Dread Return` | {2}{B}{B} | Sorcery | £0.26 |
@@ -7228,23 +7228,23 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Argoth, Sanctum of Nature` | — | Land | £0.97 |
 > | `mtg:Ash Barrens` | — | Land | £0.08 |
 > | `mtg:Barren Moor` | — | Land | £0.17 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Dakmor Salvage` | — | Land | £0.18 |
 > | `mtg:Drownyard Temple` | — | Land | £0.17 |
 > | `mtg:Echoing Deeps` | — | Land — Cave | £0.48 |
 > | `mtg:Eden, Seat of the Sanctum` | — | Land — Town | £0.08 |
 > | `mtg:Escape Tunnel` | — | Land | £0.11 |
 > | `mtg:Eumidian Hatchery` | — | Land | £0.87 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Festering Thicket` | — | Land — Swamp Forest | £0.22 |
 > | `mtg:Kishla Village` | — | Land | £0.19 |
 > | `mtg:Lotus Field` | — | Land | £2.21 |
 > | `mtg:Memorial to Folly` | — | Land | £0.17 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Petrified Field` | — | Land | £3.17 |
 > | `mtg:Riveteers Overlook` | — | Land | £0.16 |
 > | `mtg:Shifting Woodland` | — | Land | £4.80 |
-> | `mtg:Takenuma, Abandoned Mire` | — | Land | £8.36 |
+> | `mtg:Takenuma, Abandoned Mire` 🟡 | — | Land | £8.36 |
 > | `mtg:Tranquil Thicket` | — | Land | £0.12 |
 > | `mtg:Underground Mortuary` | — | Land — Swamp Forest | £13.17 |
 > | `mtg:Urza's Cave` | — | Land — Urza's Cave | £1.10 |
@@ -7317,7 +7317,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Children of Korlis` | {W} | Creature — Human Rebel Cleric | £0.16 |
 > | `mtg:Curious Farm Animals` | {W} | Creature — Boar Elk Bird Ox | £0.12 |
 > | `mtg:Dauntless Bodyguard` | {W} | Creature — Human Knight | £0.11 |
-> | `mtg:Doomed Traveler` | {W} | Creature — Human Soldier | £0.14 |
+> | `mtg:Doomed Traveler` 🟡 | {W} | Creature — Human Soldier | £0.14 |
 > | `mtg:Enduring Innocence` | {1}{W}{W} | Creature — Sheep Glimmer | £3.65 |
 > | `mtg:Kami of False Hope` | {W} | Creature — Spirit | £0.47 |
 > | `mtg:Karmic Guide` | {3}{W}{W} | Creature — Angel Spirit | £0.28 |
@@ -7341,9 +7341,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ascend from Avernus` | {X}{W}{W}{W} | Sorcery | £3.40 |
 > | `mtg:Dewdrop Cure` | {2}{W} | Sorcery | £0.15 |
 > | `mtg:Raise the Past` | {2}{W}{W} | Sorcery | £0.88 |
-> | `mtg:Sevinne's Reclamation` | {2}{W} | Sorcery | £0.30 |
+> | `mtg:Sevinne's Reclamation` 🟡 | {2}{W} | Sorcery | £0.30 |
 > | `mtg:Battle of Hoover Dam` | {3}{W} | Enchantment | £0.24 |
-> | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
+> | `mtg:Caretaker's Talent` 🟡 | {2}{W} | Enchantment — Class | £7.19 |
 > | `mtg:Fanatical Devotion` | {2}{W} | Enchantment | £0.50 |
 > | `mtg:Field of Souls` | {2}{W}{W} | Enchantment | £0.19 |
 > | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
@@ -7363,24 +7363,24 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Spawning Pit` | {2} | Artifact | — |
 > | `mtg:Weatherlight Compleated` | {2} | Artifact — Vehicle | £0.70 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Accursed Duneyard` | — | Land | £0.84 |
 > | `mtg:Adagia, Windswept Bastion` | — | Land — Planet | £4.84 |
 > | `mtg:Arid Mesa` | — | Land | £22.72 |
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Flooded Strand` | — | Land | £13.29 |
 > | `mtg:Fountainport` | — | Land | £2.94 |
-> | `mtg:Hall of Heliod's Generosity` | — | Land | £8.38 |
-> | `mtg:High Market` | — | Land | £0.64 |
+> | `mtg:Hall of Heliod's Generosity` 🟡 | — | Land | £8.38 |
+> | `mtg:High Market` 🟡 | — | Land | £0.64 |
 > | `mtg:Idyllic Grange` | — | Land — Plains | £0.24 |
 > | `mtg:Lazotep Quarry` | — | Land — Desert | £6.03 |
 > | `mtg:Lotus Field` | — | Land | £2.21 |
 > | `mtg:Mistveil Plains` | — | Land — Plains | £0.16 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Prismatic Vista` | — | Land | £26.53 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Urza's Saga` | — | Land — Urza's Saga | £33.60 |
@@ -7502,7 +7502,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
 > | `mtg:Castle Embereth` | — | Land | £0.24 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Den of the Bugbear` | — | Land | £1.91 |
 > | `mtg:Desert of the Fervent` | — | Land — Desert | £0.15 |
 > | `mtg:Dwarven Mine` | — | Land — Mountain | £0.23 |
@@ -7512,7 +7512,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Forgotten Cave` | — | Land | £0.14 |
 > | `mtg:Memorial to War` | — | Land | £0.12 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Ominous Cemetery` | — | Land | £0.19 |
 > | `mtg:Ramunap Ruins` | — | Land — Desert | £0.51 |
@@ -7579,7 +7579,7 @@ Why jumps to that commander under [[#Why these unowned]].
 >
 > | Card Name | Mana Pips | Card Type | Est Cost (GBP) |
 > | --- | --- | --- | ---: |
-> | `mtg:Adeline, Resplendent Cathar` | {1}{W}{W} | Creature — Human Knight | £2.96 |
+> | `mtg:Adeline, Resplendent Cathar` 🟡 | {1}{W}{W} | Creature — Human Knight | £2.96 |
 > | `mtg:Arasta of the Endless Web` | {2}{G}{G} | Creature — Spider | £0.33 |
 > | `mtg:Brigid, Clachan's Heart` | {2}{W} | Creature — Kithkin Warrior | £0.46 |
 > | `mtg:Burrowguard Mentor` | {G}{W} | Creature — Rabbit Soldier | £0.11 |
@@ -7610,7 +7610,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Aura Mutation` | {G}{W} | Instant | £1.69 |
 > | `mtg:Druid's Deliverance` | {1}{G} | Instant | £0.22 |
 > | `mtg:Grand Crescendo` | {X}{W}{W} | Instant | £3.46 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:March of the Multitudes` | {X}{G}{W}{W} | Instant | £0.77 |
 > | `mtg:Path to Exile` | {W} | Instant | £1.16 |
 > | `mtg:Raise the Alarm` | {1}{W} | Instant | £0.06 |
@@ -7626,7 +7626,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Anointed Procession` | {3}{W} | Enchantment | £28.35 |
 > | `mtg:Awakening Zone` | {2}{G} | Enchantment | £0.33 |
 > | `mtg:Battle for Bretagard` | {1}{G}{W} | Enchantment — Saga | £0.17 |
-> | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
+> | `mtg:Caretaker's Talent` 🟡 | {2}{W} | Enchantment — Class | £7.19 |
 > | `mtg:Divine Visitation` | {3}{W}{W} | Enchantment | £0.50 |
 > | `mtg:Growing Ranks` | {2}{G/W}{G/W} | Enchantment | £0.42 |
 > | `mtg:Growing Rites of Itlimoc` | {2}{G} | Enchantment | £5.30 |
@@ -7642,22 +7642,22 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Thousand Moons Smithy` | {2}{W}{W} | Artifact | £1.16 |
 > | `mtg:Botanical Plaza` | — | Land | £0.09 |
-> | `mtg:Canopy Vista` | — | Land — Forest Plains | £0.21 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Fortified Village` | — | Land | £0.22 |
+> | `mtg:Canopy Vista` 🟡 | — | Land — Forest Plains | £0.21 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Fortified Village` 🟡 | — | Land | £0.22 |
 > | `mtg:Fountainport` | — | Land | £2.94 |
-> | `mtg:Graypelt Refuge` | — | Land | £0.16 |
+> | `mtg:Graypelt Refuge` 🟡 | — | Land | £0.16 |
 > | `mtg:Grove of the Guardian` | — | Land | £0.17 |
 > | `mtg:Hushwood Verge` | — | Land | £4.74 |
 > | `mtg:Khalni Garden` | — | Land | £2.09 |
 > | `mtg:Overgrown Farmland` 🟡 | — | Land | £3.10 |
 > | `mtg:Radiant Grove` | — | Land — Forest Plains | £0.19 |
 > | `mtg:Restless Prairie` | — | Land | £0.26 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
-> | `mtg:Selesnya Sanctuary` | — | Land | £0.12 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
+> | `mtg:Selesnya Sanctuary` 🟡 | — | Land | £0.12 |
 > | `mtg:Sungrass Prairie` | — | Land | £0.17 |
 > | `mtg:Sunpetal Grove` 🟡 | — | Land | £0.31 |
-> | `mtg:Temple Garden` | — | Land — Forest Plains | — |
+> | `mtg:Temple Garden` 🟡 | — | Land — Forest Plains | — |
 > | `mtg:Tranquil Expanse` | — | Land | £0.10 |
 > | `mtg:Vitu-Ghazi, the City-Tree` | — | Land | £0.10 |
 > | `mtg:Windbrisk Heights` | — | Land | £0.21 |
@@ -7759,7 +7759,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Druid's Deliverance` | {1}{G} | Instant | £0.22 |
 > | `mtg:Fog` | {G} | Instant | £0.31 |
 > | `mtg:Fungal Rebirth` | {2}{G} | Instant | £0.14 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Pawpatch Formation` | {1}{G} | Instant | £0.45 |
 > | `mtg:Return of the Wildspeaker` | {4}{G} | Instant | £1.04 |
 > | `mtg:Second Harvest` | {2}{G}{G} | Instant | £1.44 |
@@ -7787,7 +7787,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Heap Gate` | — | Land — Gate | £0.66 |
 > | `mtg:Khalni Garden` | — | Land | £2.09 |
 > | `mtg:Llanowar Reborn` | — | Land | £0.12 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Naya Panorama` | — | Land | £0.23 |
 > | `mtg:Nephalia Academy` | — | Land | £0.22 |
 > | `mtg:Oakhollow Village` | — | Land | £0.39 |
@@ -7797,7 +7797,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Shire Terrace` | — | Land | £0.08 |
 > | `mtg:Tectonic Edge` | — | Land | £0.25 |
 > | `mtg:The Shire` | — | Land | £1.44 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Treasure Vault` | — | Land | £1.71 |
 > | `mtg:Turntimber Grove` | — | Land | £0.03 |
 >
@@ -7904,7 +7904,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Dragon's Hoard` | {3} | Artifact | £0.52 |
 > | `mtg:Dragonstorm Globe` | {3} | Artifact | £0.14 |
 > | `mtg:Hazoret's Monument` | {3} | Artifact | £1.29 |
-> | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
+> | `mtg:Herald's Horn` 🟡 | {3} | Artifact | £3.96 |
 > | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Mox Jasper` | {0} | Artifact | £7.49 |
 > | `mtg:Orb of Dragonkind` | {1}{R} | Artifact | £1.48 |
@@ -7914,7 +7914,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Arena of Glory` | — | Land | £8.83 |
 > | `mtg:Bonders' Enclave` | — | Land | £0.52 |
 > | `mtg:Castle Embereth` | — | Land | £0.24 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
 > | `mtg:Crucible of the Spirit Dragon` | — | Land | £0.47 |
 > | `mtg:Desert of the Fervent` | — | Land — Desert | £0.15 |
@@ -7924,17 +7924,17 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Haven of the Spirit Dragon` | — | Land | £0.77 |
 > | `mtg:Maelstrom of the Spirit Dragon` | — | Land | £1.12 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Smoldering Crater` | — | Land | £0.16 |
 > | `mtg:Spinerock Knoll` | — | Land | £1.14 |
 > | `mtg:Temple of the Dragon Queen` | — | Land | £0.28 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Valakut, the Molten Pinnacle` | — | Land | £7.15 |
 > | `mtg:War Room` | — | Land | £2.79 |
 >
@@ -8012,7 +8012,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Tireless Provisioner` | {2}{G} | Creature — Elf Scout | £2.42 |
 > | `mtg:Wayward Swordtooth` | {2}{G} | Creature — Dinosaur | £2.81 |
 > | `mtg:Archdruid's Charm` | {G}{G}{G} | Instant | £4.82 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Inspiring Call` | {2}{G} | Instant | £0.59 |
 > | `mtg:Khalni Ambush` | {2}{G} | Instant | £0.38 |
 > | `mtg:Vastwood Fortification` | {G} | Instant | £0.21 |
@@ -8024,7 +8024,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Fangs of Kalonia` | {1}{G} | Sorcery | £0.14 |
 > | `mtg:Farseek` | {1}{G} | Sorcery | £0.61 |
 > | `mtg:Kodama's Reach` | {2}{G} | Sorcery — Arcane | £1.15 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Reap and Sow` | {3}{G} | Sorcery | £0.19 |
 > | `mtg:Scale the Heights` | {2}{G} | Sorcery | £0.08 |
 > | `mtg:Sylvan Scrying` | {1}{G} | Sorcery | £0.22 |
@@ -8063,7 +8063,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Lair of the Hydra` | — | Land | £0.37 |
 > | `mtg:Llanowar Reborn` | — | Land | £0.12 |
-> | `mtg:Mosswort Bridge` | — | Land | £0.34 |
+> | `mtg:Mosswort Bridge` 🟡 | — | Land | £0.34 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Sapseep Forest` | — | Land — Forest | £0.24 |
@@ -8137,7 +8137,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Deekah, Fractal Theorist` | {4}{U} | Creature — Human Wizard | £0.29 |
 > | `mtg:Dirgur Focusmage` | {2}{U} | Creature — Djinn Monk | £0.35 |
 > | `mtg:Displacer Kitten` 🟡 | {3}{U} | Creature — Cat Beast | £21.93 |
-> | `mtg:Dour Port-Mage` | {1}{U} | Creature — Frog Wizard | £2.28 |
+> | `mtg:Dour Port-Mage` 🟡 | {1}{U} | Creature — Frog Wizard | £2.28 |
 > | `mtg:Dreamtide Whale` | {2}{U} | Creature — Whale | £2.86 |
 > | `mtg:Flux Channeler` | {2}{U} | Creature — Human Wizard | £2.24 |
 > | `mtg:Herald of Secret Streams` | {3}{U} | Creature — Merfolk Warrior | £6.37 |
@@ -8188,7 +8188,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Rimefire Torque` | {1}{U} | Artifact | £0.20 |
 > | `mtg:The Eternity Elevator` | {5} | Artifact — Spacecraft | £1.13 |
 > | `mtg:The Ozolith` | {1} | Artifact | £35.48 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Thran Dynamo` | {4} | Artifact | £2.01 |
 > | `mtg:Worn Powerstone` | {3} | Artifact | £0.17 |
 > | `mtg:Academy Ruins` | — | Land | £5.24 |
@@ -8199,7 +8199,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Lonely Sandbar` | — | Land | £0.10 |
 > | `mtg:Mistrise Village` | — | Land | £5.97 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
@@ -8209,7 +8209,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Sunken Palace` | — | Land — Cave | £0.64 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
 > | `mtg:Terrain Generator` | — | Land | £1.71 |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
 > | `mtg:Tolaria West` | — | Land | £1.04 |
 > | `mtg:Urza's Cave` | — | Land — Urza's Cave | £1.10 |
 > | `mtg:Urza's Saga` | — | Land — Urza's Saga | £33.60 |
@@ -8324,7 +8324,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Sapphire Medallion` | {2} | Artifact | £4.57 |
 > | `mtg:Sensei's Divining Top` | {1} | Artifact | £21.33 |
 > | `mtg:Sky Diamond` | {2} | Artifact | £0.16 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
 > | `mtg:Thran Dynamo` | {4} | Artifact | £2.01 |
 > | `mtg:Waterbending Scroll` | {1}{U} | Artifact | £0.14 |
 > | `mtg:Academy Ruins` | — | Land | £5.24 |
@@ -8338,7 +8338,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Inventors' Fair` | — | Land | £8.90 |
 > | `mtg:Minamo, School at Water's Edge` | — | Land | £26.14 |
 > | `mtg:Mishra's Workshop` | — | Land | — |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
@@ -8409,7 +8409,7 @@ Why jumps to that commander under [[#Why these unowned]].
 >
 > | Card Name | Mana Pips | Card Type | Est Cost (GBP) |
 > | --- | --- | --- | ---: |
-> | `mtg:Adeline, Resplendent Cathar` | {1}{W}{W} | Creature — Human Knight | £2.96 |
+> | `mtg:Adeline, Resplendent Cathar` 🟡 | {1}{W}{W} | Creature — Human Knight | £2.96 |
 > | `mtg:Aerith Gainsborough` | {2}{W} | Creature — Human Cleric | £1.45 |
 > | `mtg:Archangel of Thune` | {3}{W}{W} | Creature — Angel | £33.81 |
 > | `mtg:Auriok Champion` | {W}{W} | Creature — Human Cleric | £5.31 |
@@ -8428,13 +8428,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Lifecreed Duo` | {1}{W} | Creature — Bat Bird | £0.09 |
 > | `mtg:MJ, Rising Star` | {2}{W} | Creature — Human Performer | £0.17 |
 > | `mtg:Nykthos Paragon` | {4}{W}{W} | Creature — Human Soldier | £0.32 |
-> | `mtg:Ocelot Pride` | {W} | Creature — Cat | £33.91 |
+> | `mtg:Ocelot Pride` 🟡 | {W} | Creature — Cat | £33.91 |
 > | `mtg:Qala, Ajani's Pridemate` | {3}{W} | Creature — Cat Warrior | £0.30 |
 > | `mtg:Resplendent Angel` | {1}{W}{W} | Creature — Angel | £4.96 |
 > | `mtg:Righteous Valkyrie` | {2}{W} | Creature — Angel Cleric | £4.48 |
 > | `mtg:Soul Warden` 🟡 | {W} | Creature — Human Cleric | £1.86 |
-> | `mtg:Soul's Attendant` | {W} | Creature — Human Cleric | £4.16 |
-> | `mtg:Speaker of the Heavens` | {W} | Creature — Human Cleric | £0.72 |
+> | `mtg:Soul's Attendant` 🟡 | {W} | Creature — Human Cleric | £4.16 |
+> | `mtg:Speaker of the Heavens` 🟡 | {W} | Creature — Human Cleric | £0.72 |
 > | `mtg:Sunscorch Regent` | {3}{W}{W} | Creature — Dragon | £0.37 |
 > | `mtg:Suture Priest` 🟡 | {1}{W} | Creature — Phyrexian Cleric | £2.98 |
 > | `mtg:The Gaffer` | {2}{W} | Creature — Halfling Peasant | £7.54 |
@@ -8445,15 +8445,15 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Elspeth, Sun's Champion` | {4}{W}{W} | Planeswalker — Elspeth | £1.18 |
 > | `mtg:Rally for the Throne` | {2}{W} | Instant | £0.09 |
 > | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
-> | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
+> | `mtg:Unbreakable Formation` 🟡 | {2}{W} | Instant | £0.50 |
 > | `mtg:Fumigate` | {3}{W}{W} | Sorcery | £0.16 |
 > | `mtg:Martial Coup` | {X}{W}{W} | Sorcery | £0.18 |
-> | `mtg:Practiced Offense` | {2}{W} | Sorcery | £0.71 |
+> | `mtg:Practiced Offense` 🟡 | {2}{W} | Sorcery | £0.71 |
 > | `mtg:White Sun's Twilight` | {X}{W}{W} | Sorcery | £1.18 |
-> | `mtg:Ajani's Welcome` | {W} | Enchantment | £1.79 |
+> | `mtg:Ajani's Welcome` 🟡 | {W} | Enchantment | £1.79 |
 > | `mtg:Angelic Accord` | {3}{W} | Enchantment | £0.89 |
-> | `mtg:Authority of the Consuls` | {W} | Enchantment | £3.91 |
-> | `mtg:Cleric Class` | {W} | Enchantment — Class | £2.42 |
+> | `mtg:Authority of the Consuls` 🟡 | {W} | Enchantment | £3.91 |
+> | `mtg:Cleric Class` 🟡 | {W} | Enchantment — Class | £2.42 |
 > | `mtg:Dawn of Hope` | {1}{W} | Enchantment | £0.37 |
 > | `mtg:Griffin Aerie` | {1}{W} | Enchantment | £0.09 |
 > | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
@@ -8462,30 +8462,30 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Light of Promise` | {2}{W} | Enchantment — Aura | £0.21 |
 > | `mtg:March of the Canonized` | {X}{W}{W} | Enchantment | £0.50 |
 > | `mtg:Path of Bravery` | {2}{W} | Enchantment | £0.24 |
-> | `mtg:Aetherflux Reservoir` | {4} | Artifact | £12.26 |
+> | `mtg:Aetherflux Reservoir` 🟡 | {4} | Artifact | £12.26 |
 > | `mtg:Cosmos Elixir` | {4} | Artifact | £2.01 |
 > | `mtg:Oketra's Monument` | {3} | Artifact | £2.75 |
 > | `mtg:Pristine Talisman` | {3} | Artifact | £0.16 |
 > | `mtg:The Book of Exalted Deeds` | {W}{W}{W} | Artifact — Book | £5.87 |
-> | `mtg:Well of Lost Dreams` | {4} | Artifact | £1.30 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Well of Lost Dreams` 🟡 | {4} | Artifact | £1.30 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Blighted Steppe` | — | Land | £0.15 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Drifting Meadow` | — | Land | £0.08 |
-> | `mtg:Eiganjo, Seat of the Empire` | — | Land | £5.55 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
-> | `mtg:Hall of Heliod's Generosity` | — | Land | £8.38 |
+> | `mtg:Eiganjo, Seat of the Empire` 🟡 | — | Land | £5.55 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
+> | `mtg:Hall of Heliod's Generosity` 🟡 | — | Land | £8.38 |
 > | `mtg:Idyllic Grange` | — | Land — Plains | £0.24 |
 > | `mtg:Kabira Crossroads` | — | Land | £0.57 |
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
 > | `mtg:Mistveil Plains` | — | Land — Plains | £0.16 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Radiant Fountain` | — | Land | £0.31 |
+> | `mtg:Radiant Fountain` 🟡 | — | Land | £0.31 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
 > | `mtg:Seraph Sanctuary` | — | Land | £1.48 |
 > | `mtg:Temple of the False God` | — | Land | £0.18 |
@@ -8555,7 +8555,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Deadeye Navigator` | {4}{U}{U} | Creature — Spirit | £1.52 |
 > | `mtg:Detective of the Month` | {2}{U} | Creature — Human Detective | £0.29 |
 > | `mtg:Displacer Kitten` 🟡 | {3}{U} | Creature — Cat Beast | £21.93 |
-> | `mtg:Dour Port-Mage` | {1}{U} | Creature — Frog Wizard | £2.28 |
+> | `mtg:Dour Port-Mage` 🟡 | {1}{U} | Creature — Frog Wizard | £2.28 |
 > | `mtg:Dream Stalker` | {1}{U} | Creature — Illusion | £0.11 |
 > | `mtg:Emrakul's Messenger` | {1}{U} | Creature — Eldrazi Faerie Rogue | £0.18 |
 > | `mtg:Ethereal Investigator` | {3}{U} | Creature — Spirit | £0.29 |
@@ -8568,7 +8568,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Nadir Kraken` | {1}{U}{U} | Creature — Kraken | £0.17 |
 > | `mtg:Peregrine Drake` | {4}{U} | Creature — Drake | £0.16 |
 > | `mtg:Psychosis Crawler` | {5} | Creature — Phyrexian Horror | £0.47 |
-> | `mtg:Solemn Simulacrum` | {4} | Creature — Golem | £0.23 |
+> | `mtg:Solemn Simulacrum` 🟡 | {4} | Creature — Golem | £0.23 |
 > | `mtg:Starfield Vocalist` | {3}{U} | Creature — Human Bard | £1.26 |
 > | `mtg:Thassa, Deep-Dwelling` | {3}{U} | Creature — God | £19.91 |
 > | `mtg:The Watcher in the Water` | {3}{U}{U} | Creature — Kraken | £1.45 |
@@ -8607,20 +8607,20 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Agna Qel'a` | — | Land | £1.26 |
 > | `mtg:Castle Vantress` | — | Land | £0.35 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Halimar Depths` | — | Land | £0.50 |
 > | `mtg:Hall of Storm Giants` | — | Land | £0.74 |
 > | `mtg:Lonely Sandbar` | — | Land | £0.10 |
 > | `mtg:Mistrise Village` | — | Land | £5.97 |
 > | `mtg:Misty Rainforest` | — | Land | £21.63 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Riptide Laboratory` | — | Land | £0.35 |
 > | `mtg:Rivendell` | — | Land | £1.12 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scalding Tarn` | — | Land | £23.20 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Seat of the Synod` | — | Land | £0.72 |
@@ -8697,7 +8697,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Barrin, Tolarian Archmage` | {1}{U}{U} | Creature — Human Wizard | £0.27 |
 > | `mtg:Captain of Umbar` | {2}{U} | Creature — Human Pirate | £0.38 |
 > | `mtg:Displacer Kitten` 🟡 | {3}{U} | Creature — Cat Beast | £21.93 |
-> | `mtg:Dour Port-Mage` | {1}{U} | Creature — Frog Wizard | £2.28 |
+> | `mtg:Dour Port-Mage` 🟡 | {1}{U} | Creature — Frog Wizard | £2.28 |
 > | `mtg:Grey Havens Navigator` | {2}{U} | Creature — Elf Pilot | £0.10 |
 > | `mtg:H.E.R.B.I.E. Scout Unit` | {4} | Creature — Robot Scout | £0.14 |
 > | `mtg:Ithilien Kingfisher` | {2}{U} | Creature — Bird | £0.19 |
@@ -8708,7 +8708,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Nimrodel Watcher` | {1}{U} | Creature — Elf Scout | £0.18 |
 > | `mtg:Ninja of the Deep Hours` | {3}{U} | Creature — Human Ninja | £1.43 |
 > | `mtg:Peregrine Drake` | {4}{U} | Creature — Drake | £0.16 |
-> | `mtg:Solemn Simulacrum` | {4} | Creature — Golem | £0.23 |
+> | `mtg:Solemn Simulacrum` 🟡 | {4} | Creature — Golem | £0.23 |
 > | `mtg:Thassa, Deep-Dwelling` | {3}{U} | Creature — God | £19.91 |
 > | `mtg:Thassa, God of the Sea` | {2}{U} | Creature — God | £3.07 |
 > | `mtg:Willow-Wind` | {4}{U} | Creature — Elemental | £0.72 |
@@ -8759,7 +8759,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Promising Vein` | — | Land — Cave | £0.11 |
-> | `mtg:Radiant Fountain` | — | Land | £0.31 |
+> | `mtg:Radiant Fountain` 🟡 | — | Land | £0.31 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Remote Isle` | — | Land | £0.13 |
 > | `mtg:Sanctum of Eternity` | — | Land | £6.65 |
@@ -8864,7 +8864,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Foul Play` | {1}{B} | Sorcery | £0.04 |
 > | `mtg:Agent of the Iron Throne` | {2}{B} | Enchantment — Background | £0.58 |
 > | `mtg:Obsessive Pursuit` | {1}{B} | Enchantment | £0.39 |
-> | `mtg:Phyrexian Arena` | {1}{B}{B} | Enchantment | £3.37 |
+> | `mtg:Phyrexian Arena` 🟡 | {1}{B}{B} | Enchantment | £3.37 |
 > | `mtg:Underhanded Designs` | {1}{B} | Enchantment | £0.17 |
 > | `mtg:Collector's Vault` | {2} | Artifact | £0.39 |
 > | `mtg:Commander's Sphere` | {3} | Artifact | £0.18 |
@@ -8885,7 +8885,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:The Fire Nation Drill` | {2}{B}{B} | Artifact — Vehicle | £0.16 |
 > | `mtg:Tundra Tank` | {2}{B} | Artifact — Vehicle | £0.06 |
 > | `mtg:Barren Moor` | — | Land | £0.17 |
-> | `mtg:Bojuka Bog` | — | Land | £1.35 |
+> | `mtg:Bojuka Bog` 🟡 | — | Land | £1.35 |
 > | `mtg:Buried Ruin` | — | Land | £0.36 |
 > | `mtg:Cabal Coffers` | — | Land | £15.04 |
 > | `mtg:Cabal Stronghold` | — | Land | £8.08 |
@@ -8893,12 +8893,12 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Darksteel Citadel` | — | Land | £0.98 |
 > | `mtg:Havengul Laboratory` | — | Land | £0.44 |
 > | `mtg:Midgar, City of Mako` | {2}{B} | Land — Town | £1.75 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Phyrexian Tower` | — | Land | £24.29 |
+> | `mtg:Phyrexian Tower` 🟡 | — | Land | £24.29 |
 > | `mtg:Realm of Koh` | — | Land | £0.26 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Shizo, Death's Storehouse` | — | Land | £18.87 |
 > | `mtg:Treasure Vault` | — | Land | £1.71 |
 > | `mtg:Urborg, Tomb of Yawgmoth` | — | Land | £31.16 |
@@ -9001,14 +9001,14 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Wilson, Refined Grizzly` | {1}{G} | Creature — Bear Warrior | £0.19 |
 > | `mtg:Archdruid's Charm` | {G}{G}{G} | Instant | £4.82 |
 > | `mtg:Gaea's Gift` | {1}{G} | Instant | £0.85 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
 > | `mtg:Khalni Ambush` | {2}{G} | Instant | £0.38 |
 > | `mtg:Return of the Wildspeaker` | {4}{G} | Instant | £1.04 |
 > | `mtg:Bridgeworks Battle` | {2}{G} | Sorcery | £0.85 |
 > | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Ent's Fury` | {1}{G} | Sorcery | £0.05 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Ranger's Path` | {3}{G} | Sorcery | £0.32 |
 > | `mtg:Skyshroud Claim` | {3}{G} | Sorcery | £1.08 |
 > | `mtg:Titania's Command` | {4}{G}{G} | Sorcery | £0.66 |
@@ -9033,11 +9033,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Desert of the Indomitable` | — | Land — Desert | £0.16 |
 > | `mtg:Fertile Thicket` | — | Land | £0.03 |
 > | `mtg:Hidden Nursery` | — | Land — Cave | £0.05 |
-> | `mtg:Mosswort Bridge` | — | Land | £0.34 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Mosswort Bridge` 🟡 | — | Land | £0.34 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Slippery Karst` | — | Land | £0.14 |
 > | `mtg:The Hunter Maze` | — | Land — Sphere | £0.03 |
@@ -9112,12 +9112,12 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Flickerwisp` | {1}{W}{W} | Creature — Elemental | £0.21 |
 > | `mtg:Gilraen, Dúnedain Protector` | {2}{W} | Creature — Human Noble | £0.60 |
 > | `mtg:Guardian of Ghirapur` | {2}{W} | Creature — Angel | £0.32 |
-> | `mtg:Helpful Hunter` | {1}{W} | Creature — Cat | £0.13 |
+> | `mtg:Helpful Hunter` 🟡 | {1}{W} | Creature — Cat | £0.13 |
 > | `mtg:Inspiring Overseer` | {2}{W} | Creature — Angel Cleric | £0.22 |
 > | `mtg:Karmic Guide` | {3}{W}{W} | Creature — Angel Spirit | £0.28 |
-> | `mtg:Knight of the White Orchid` | {W}{W} | Creature — Human Knight | £1.56 |
+> | `mtg:Knight of the White Orchid` 🟡 | {W}{W} | Creature — Human Knight | £1.56 |
 > | `mtg:Kor Cartographer` | {3}{W} | Creature — Kor Scout | £0.11 |
-> | `mtg:Lion Sash` | {1}{W} | Creature — Equipment Cat | £1.54 |
+> | `mtg:Lion Sash` 🟡 | {1}{W} | Creature — Equipment Cat | £1.54 |
 > | `mtg:Loran of the Third Path` | {2}{W} | Creature — Human Artificer | £3.32 |
 > | `mtg:Loyal Warhound` | {1}{W} | Creature — Dog | £0.54 |
 > | `mtg:Luminous Broodmoth` | {2}{W}{W} | Creature — Insect | £1.74 |
@@ -9128,7 +9128,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Reverent Hoplite` | {4}{W} | Creature — Human Soldier | £0.17 |
 > | `mtg:Rumor Gatherer` | {1}{W}{W} | Creature — Elf Wizard | £0.47 |
 > | `mtg:Skyclave Apparition` 🟡 | {1}{W}{W} | Creature — Kor Spirit | £0.28 |
-> | `mtg:Solemn Simulacrum` | {4} | Creature — Golem | £0.23 |
+> | `mtg:Solemn Simulacrum` 🟡 | {4} | Creature — Golem | £0.23 |
 > | `mtg:Spirited Companion` | {1}{W} | Creature — Dog | £0.25 |
 > | `mtg:Wall of Omens` | {1}{W} | Creature — Wall | £0.18 |
 > | `mtg:Witch Enchanter` | {3}{W} | Creature — Human Warlock | £3.47 |
@@ -9157,24 +9157,24 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Conjurer's Closet` | {5} | Artifact | £2.47 |
 > | `mtg:Panharmonicon` | {4} | Artifact | £4.94 |
 > | `mtg:The Ooze` | {2} | Artifact | £4.36 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Command Beacon` | — | Land | £6.58 |
-> | `mtg:Demolition Field` | — | Land | £0.22 |
+> | `mtg:Demolition Field` 🟡 | — | Land | £0.22 |
 > | `mtg:Desert of the True` | — | Land — Desert | £0.17 |
 > | `mtg:Drifting Meadow` | — | Land | £0.08 |
-> | `mtg:Eiganjo, Seat of the Empire` | — | Land | £5.55 |
-> | `mtg:Emeria, the Sky Ruin` | — | Land | £3.79 |
+> | `mtg:Eiganjo, Seat of the Empire` 🟡 | — | Land | £5.55 |
+> | `mtg:Emeria, the Sky Ruin` 🟡 | — | Land | £3.79 |
 > | `mtg:Endless Sands` | — | Land — Desert | £0.30 |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Idyllic Grange` | — | Land — Plains | £0.24 |
 > | `mtg:Lotus Field` | — | Land | £2.21 |
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
 > | `mtg:Mistveil Plains` | — | Land — Plains | £0.16 |
-> | `mtg:Myriad Landscape` | — | Land | £0.21 |
+> | `mtg:Myriad Landscape` 🟡 | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
 > | `mtg:Talon Gates of Madara` | — | Land — Gate | £30.49 |
@@ -9240,7 +9240,7 @@ Why jumps to that commander under [[#Why these unowned]].
 >
 > | Card Name | Mana Pips | Card Type | Est Cost (GBP) |
 > | --- | --- | --- | ---: |
-> | `mtg:Adeline, Resplendent Cathar` | {1}{W}{W} | Creature — Human Knight | £2.96 |
+> | `mtg:Adeline, Resplendent Cathar` 🟡 | {1}{W}{W} | Creature — Human Knight | £2.96 |
 > | `mtg:Alandra, Sky Dreamer` | {2}{U}{U} | Creature — Merfolk Wizard | £4.06 |
 > | `mtg:Bard, Heir of Girion` | {2}{W}{U} | Creature — Human Archer | £8.64 |
 > | `mtg:Bilbo, Luckwearer` | {1}{U} | Creature — Halfling Rogue | £0.04 |
@@ -9280,7 +9280,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Preordain` | {U} | Sorcery | £0.97 |
 > | `mtg:Tempt with Bunnies` | {2}{W} | Sorcery | — |
 > | `mtg:Anointed Procession` | {3}{W} | Enchantment | £28.35 |
-> | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
+> | `mtg:Caretaker's Talent` 🟡 | {2}{W} | Enchantment — Class | £7.19 |
 > | `mtg:Monologue Tax` | {2}{W} | Enchantment | £0.88 |
 > | `mtg:Ominous Seas` | {1}{U} | Enchantment | £1.26 |
 > | `mtg:Rhystic Study` | {2}{U} | Enchantment | £36.46 |
@@ -9295,22 +9295,22 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Idol of Oblivion` | {2} | Artifact | £1.34 |
 > | `mtg:Shorikai, Genesis Engine` | {2}{W}{U} | Artifact — Vehicle | £2.35 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
-> | `mtg:Thought Vessel` | {2} | Artifact | — |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
+> | `mtg:Thought Vessel` 🟡 | {2} | Artifact | — |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
 > | `mtg:Adagia, Windswept Bastion` | — | Land — Planet | £4.84 |
 > | `mtg:Adarkar Wastes` | — | Land | £0.41 |
 > | `mtg:Agna Qel'a` | — | Land | £1.26 |
-> | `mtg:Castle Ardenvale` | — | Land | £0.20 |
-> | `mtg:Deserted Beach` | — | Land | £3.72 |
+> | `mtg:Castle Ardenvale` 🟡 | — | Land | £0.20 |
+> | `mtg:Deserted Beach` 🟡 | — | Land | £3.72 |
 > | `mtg:Exotic Orchard` | — | Land | — |
-> | `mtg:Fabled Passage` | — | Land | £1.02 |
+> | `mtg:Fabled Passage` 🟡 | — | Land | £1.02 |
 > | `mtg:Flooded Strand` | — | Land | £13.29 |
 > | `mtg:Floodfarm Verge` | — | Land | £7.58 |
 > | `mtg:Fountainport` | — | Land | £2.94 |
 > | `mtg:Glacial Fortress` 🟡 | — | Land | £0.22 |
 > | `mtg:Gleaming Bastion` | — | Land | £2.48 |
 > | `mtg:Hallowed Fountain` 🟡 | — | Land — Plains Island | — |
-> | `mtg:Irrigated Farmland` | — | Land — Plains Island | £0.16 |
+> | `mtg:Irrigated Farmland` 🟡 | — | Land — Plains Island | £0.16 |
 > | `mtg:Lake-town` | — | Land | £0.03 |
 > | `mtg:Meticulous Archive` | — | Land — Plains Island | £11.23 |
 > | `mtg:Mikokoro, Center of the Sea` | — | Land | £4.00 |
@@ -9394,7 +9394,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Phyrexian Metamorph` | {3}{U/P} | Creature — Phyrexian Shapeshifter | £1.91 |
 > | `mtg:Sai, Master Thopterist` | {2}{U} | Creature — Human Artificer | £0.40 |
 > | `mtg:Silver Myr` | {2} | Creature — Myr | £0.22 |
-> | `mtg:Solemn Simulacrum` | {4} | Creature — Golem | £0.23 |
+> | `mtg:Solemn Simulacrum` 🟡 | {4} | Creature — Golem | £0.23 |
 > | `mtg:Steel Overseer` | {2} | Creature — Construct | £0.34 |
 > | `mtg:Thought Monitor` | {6}{U} | Creature — Construct | £0.67 |
 > | `mtg:Unctus, Grand Metatect` | {1}{U}{U} | Creature — Phyrexian Vedalken | £0.39 |
@@ -9536,74 +9536,74 @@ Why jumps to that commander under [[#Why these unowned]].
 >
 > | Card Name | Mana Pips | Card Type | Est Cost (GBP) |
 > | --- | --- | --- | ---: |
-> | `mtg:Adorned Pouncer` | {1}{W} | Creature — Cat | £0.54 |
-> | `mtg:Brimaz, King of Oreskos` | {1}{W}{W} | Creature — Cat Soldier | £4.97 |
-> | `mtg:Bronzehide Lion` | {G}{W} | Creature — Cat | £0.35 |
-> | `mtg:Feline Sovereign` | {2}{G} | Creature — Cat | £0.78 |
-> | `mtg:Fleecemane Lion` | {G}{W} | Creature — Cat | £0.26 |
-> | `mtg:Healer of the Pride` | {3}{W} | Creature — Cat Cleric | £0.32 |
-> | `mtg:Helpful Hunter` | {1}{W} | Creature — Cat | £0.13 |
-> | `mtg:Hungry Lynx` | {1}{G} | Creature — Cat | £3.27 |
-> | `mtg:Jazal Goldmane` | {2}{W}{W} | Creature — Cat Warrior | £0.14 |
-> | `mtg:Jedit Ojanen of Efrava` | {3}{G}{G}{G} | Creature — Cat Warrior | £0.34 |
-> | `mtg:Kaheera, the Orphanguard` | {1}{G/W}{G/W} | Creature — Cat Beast | £0.51 |
+> | `mtg:Adorned Pouncer` 🟡 | {1}{W} | Creature — Cat | £0.54 |
+> | `mtg:Brimaz, King of Oreskos` 🟡 | {1}{W}{W} | Creature — Cat Soldier | £4.97 |
+> | `mtg:Bronzehide Lion` 🟡 | {G}{W} | Creature — Cat | £0.35 |
+> | `mtg:Feline Sovereign` 🟡 | {2}{G} | Creature — Cat | £0.78 |
+> | `mtg:Fleecemane Lion` 🟡 | {G}{W} | Creature — Cat | £0.26 |
+> | `mtg:Healer of the Pride` 🟡 | {3}{W} | Creature — Cat Cleric | £0.32 |
+> | `mtg:Helpful Hunter` 🟡 | {1}{W} | Creature — Cat | £0.13 |
+> | `mtg:Hungry Lynx` 🟡 | {1}{G} | Creature — Cat | £3.27 |
+> | `mtg:Jazal Goldmane` 🟡 | {2}{W}{W} | Creature — Cat Warrior | £0.14 |
+> | `mtg:Jedit Ojanen of Efrava` 🟡 | {3}{G}{G}{G} | Creature — Cat Warrior | £0.34 |
+> | `mtg:Kaheera, the Orphanguard` 🟡 | {1}{G/W}{G/W} | Creature — Cat Beast | £0.51 |
 > | `mtg:Keeper of Fables` 🟡 | {3}{G}{G} | Creature — Cat | £0.19 |
 > | `mtg:King of the Pride` 🟡 | {2}{W} | Creature — Cat | £0.22 |
-> | `mtg:Kutzil, Malamet Exemplar` | {1}{G}{W} | Creature — Cat Warrior | £2.39 |
-> | `mtg:Leonin Warleader` | {2}{W}{W} | Creature — Cat Soldier | £3.14 |
-> | `mtg:Lion Sash` | {1}{W} | Creature — Equipment Cat | £1.54 |
-> | `mtg:Mirri, Weatherlight Duelist` | {1}{G}{W} | Creature — Cat Warrior | £2.74 |
-> | `mtg:Ocelot Pride` | {W} | Creature — Cat | £33.91 |
-> | `mtg:Pride Sovereign` | {2}{G} | Creature — Cat | £1.91 |
-> | `mtg:Prowling Serpopard` | {1}{G}{G} | Creature — Cat Snake | £1.41 |
-> | `mtg:Qasali Pridemage` | {G}{W} | Creature — Cat Wizard | £0.14 |
-> | `mtg:Qasali Slingers` | {4}{G} | Creature — Cat Warrior | £6.71 |
+> | `mtg:Kutzil, Malamet Exemplar` 🟡 | {1}{G}{W} | Creature — Cat Warrior | £2.39 |
+> | `mtg:Leonin Warleader` 🟡 | {2}{W}{W} | Creature — Cat Soldier | £3.14 |
+> | `mtg:Lion Sash` 🟡 | {1}{W} | Creature — Equipment Cat | £1.54 |
+> | `mtg:Mirri, Weatherlight Duelist` 🟡 | {1}{G}{W} | Creature — Cat Warrior | £2.74 |
+> | `mtg:Ocelot Pride` 🟡 | {W} | Creature — Cat | £33.91 |
+> | `mtg:Pride Sovereign` 🟡 | {2}{G} | Creature — Cat | £1.91 |
+> | `mtg:Prowling Serpopard` 🟡 | {1}{G}{G} | Creature — Cat Snake | £1.41 |
+> | `mtg:Qasali Pridemage` 🟡 | {G}{W} | Creature — Cat Wizard | £0.14 |
+> | `mtg:Qasali Slingers` 🟡 | {4}{G} | Creature — Cat Warrior | £6.71 |
 > | `mtg:Skyknight Squire` 🟡 | {1}{W} | Creature — Cat Scout | £0.31 |
-> | `mtg:Sovereign Okinec Ahau` | {2}{G}{W} | Creature — Cat Noble | £2.27 |
-> | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
-> | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
-> | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
-> | `mtg:White Sun's Zenith` | {X}{W}{W}{W} | Instant | £0.19 |
+> | `mtg:Sovereign Okinec Ahau` 🟡 | {2}{G}{W} | Creature — Cat Noble | £2.27 |
+> | `mtg:Akroma's Will` 🟡 | {3}{W} | Instant | £11.77 |
+> | `mtg:Heroic Intervention` 🟡 | {1}{G} | Instant | £11.46 |
+> | `mtg:Unbreakable Formation` 🟡 | {2}{W} | Instant | £0.50 |
+> | `mtg:White Sun's Zenith` 🟡 | {X}{W}{W}{W} | Instant | £0.19 |
 > | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
-> | `mtg:Germination Practicum` | {3}{G}{G} | Sorcery — Lesson | £5.72 |
-> | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
-> | `mtg:Practiced Offense` | {2}{W} | Sorcery | £0.71 |
-> | `mtg:Restoration Seminar` | {5}{W}{W} | Sorcery — Lesson | £1.97 |
-> | `mtg:Split Up` | {1}{W}{W} | Sorcery | £1.54 |
-> | `mtg:Three Visits` | {1}{G} | Sorcery | £4.11 |
-> | `mtg:Ajani's Welcome` | {W} | Enchantment | £1.79 |
-> | `mtg:Authority of the Consuls` | {W} | Enchantment | £3.91 |
-> | `mtg:Beastmaster Ascension` | {2}{G} | Enchantment | £3.48 |
+> | `mtg:Germination Practicum` 🟡 | {3}{G}{G} | Sorcery — Lesson | £5.72 |
+> | `mtg:Nature's Lore` 🟡 | {1}{G} | Sorcery | £2.21 |
+> | `mtg:Practiced Offense` 🟡 | {2}{W} | Sorcery | £0.71 |
+> | `mtg:Restoration Seminar` 🟡 | {5}{W}{W} | Sorcery — Lesson | £1.97 |
+> | `mtg:Split Up` 🟡 | {1}{W}{W} | Sorcery | £1.54 |
+> | `mtg:Three Visits` 🟡 | {1}{G} | Sorcery | £4.11 |
+> | `mtg:Ajani's Welcome` 🟡 | {W} | Enchantment | £1.79 |
+> | `mtg:Authority of the Consuls` 🟡 | {W} | Enchantment | £3.91 |
+> | `mtg:Beastmaster Ascension` 🟡 | {2}{G} | Enchantment | £3.48 |
 > | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
-> | `mtg:Mirari's Wake` | {3}{G}{W} | Enchantment | £3.52 |
-> | `mtg:Sheltered by Ghosts` | {1}{W} | Enchantment — Aura | £1.52 |
-> | `mtg:Banner of Kinship` | {5} | Artifact | £5.21 |
-> | `mtg:Chronicle of Victory` | {6} | Artifact | £16.63 |
+> | `mtg:Mirari's Wake` 🟡 | {3}{G}{W} | Enchantment | £3.52 |
+> | `mtg:Sheltered by Ghosts` 🟡 | {1}{W} | Enchantment — Aura | £1.52 |
+> | `mtg:Banner of Kinship` 🟡 | {5} | Artifact | £5.21 |
+> | `mtg:Chronicle of Victory` 🟡 | {6} | Artifact | £16.63 |
 > | `mtg:Firdoch Core` 🟡 | {3} | Artifact — Shapeshifter | £0.13 |
-> | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
-> | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
-> | `mtg:Animal Sanctuary` | — | Land | £1.16 |
-> | `mtg:Bountiful Promenade` | — | Land | £5.36 |
-> | `mtg:Branchloft Pathway` | — | Land | £2.74 |
-> | `mtg:Canopy Vista` | — | Land — Forest Plains | £0.21 |
-> | `mtg:Cavern of Souls` | — | Land | £35.41 |
-> | `mtg:Fortified Village` | — | Land | £0.22 |
-> | `mtg:Gavony Township` | — | Land | £4.01 |
-> | `mtg:Graypelt Refuge` | — | Land | £0.16 |
-> | `mtg:Krosan Verge` | — | Land | £0.17 |
-> | `mtg:Mosswort Bridge` | — | Land | £0.34 |
-> | `mtg:Opal Palace` | — | Land | £0.14 |
+> | `mtg:Herald's Horn` 🟡 | {3} | Artifact | £3.96 |
+> | `mtg:Abandoned Air Temple` 🟡 | — | Land | £6.58 |
+> | `mtg:Animal Sanctuary` 🟡 | — | Land | £1.16 |
+> | `mtg:Bountiful Promenade` 🟡 | — | Land | £5.36 |
+> | `mtg:Branchloft Pathway` 🟡 | — | Land | £2.74 |
+> | `mtg:Canopy Vista` 🟡 | — | Land — Forest Plains | £0.21 |
+> | `mtg:Cavern of Souls` 🟡 | — | Land | £35.41 |
+> | `mtg:Fortified Village` 🟡 | — | Land | £0.22 |
+> | `mtg:Gavony Township` 🟡 | — | Land | £4.01 |
+> | `mtg:Graypelt Refuge` 🟡 | — | Land | £0.16 |
+> | `mtg:Krosan Verge` 🟡 | — | Land | £0.17 |
+> | `mtg:Mosswort Bridge` 🟡 | — | Land | £0.34 |
+> | `mtg:Opal Palace` 🟡 | — | Land | £0.14 |
 > | `mtg:Overgrown Farmland` 🟡 | — | Land | £3.10 |
 > | `mtg:Path of Ancestry` 🟡 | — | Land | — |
-> | `mtg:Rogue's Passage` | — | Land | £0.95 |
-> | `mtg:Secluded Courtyard` | — | Land | £0.20 |
-> | `mtg:Selesnya Sanctuary` | — | Land | £0.12 |
+> | `mtg:Rogue's Passage` 🟡 | — | Land | £0.95 |
+> | `mtg:Secluded Courtyard` 🟡 | — | Land | £0.20 |
+> | `mtg:Selesnya Sanctuary` 🟡 | — | Land | £0.12 |
 > | `mtg:Sunpetal Grove` 🟡 | — | Land | £0.31 |
-> | `mtg:Temple Garden` | — | Land — Forest Plains | — |
-> | `mtg:Three Tree City` | — | Land | £16.62 |
-> | `mtg:Unclaimed Territory` | — | Land | £0.21 |
+> | `mtg:Temple Garden` 🟡 | — | Land — Forest Plains | — |
+> | `mtg:Three Tree City` 🟡 | — | Land | £16.62 |
+> | `mtg:Unclaimed Territory` 🟡 | — | Land | £0.21 |
 > | `mtg:Windswept Heath` | — | Land | £9.20 |
-> | `mtg:Yavimaya, Cradle of Growth` | — | Land | £9.63 |
+> | `mtg:Yavimaya, Cradle of Growth` 🟡 | — | Land | £9.63 |
 >
 > </div>
 
