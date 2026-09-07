@@ -1209,3 +1209,32 @@ body[data-slug*="commander-ranking"] .callout[data-callout="quote"] .callout-con
 .popover-inner .folder-index-table {
   font-size: 0.88rem;
 }
+
+// Home + /hot landing: Hot Pages table for Mark / Jack.
+body[data-slug=""],
+body[data-slug="index"],
+body[data-slug="hot"] {
+  .center article .table-container > table {
+    width: 100%;
+  }
+
+  .center article .table-container td:first-child {
+    white-space: nowrap;
+    font-weight: 600;
+  }
+
+  .center article .table-container td:nth-child(2) {
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@media (max-width: 799px) {
+  body[data-slug=""],
+  body[data-slug="index"],
+  body[data-slug="hot"] {
+    .center article .table-container td:first-child {
+      white-space: normal;
+    }
+  }
+}
