@@ -2,7 +2,7 @@
 
 Creature type: Elf.
 
-**117** copies · **74** names.
+**118** copies · **75** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -74,6 +74,7 @@ Creature type: Elf.
 | [**`mtg:High Perfect Morcant`**](https://scryfall.com/card/ecl/229) | [[02 Cards/Creatures/High Perfect Morcant\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 3.33 |
 | [**`mtg:Lathril, Blade of the Elves`**](https://scryfall.com/card/fdn/242) | [[02 Cards/Creatures/Lathril, Blade of the Elves\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 2.10 |
 | [**`mtg:Shessra, Death's Whisper`**](https://scryfall.com/card/afr/345) | [[02 Cards/Creatures/Shessra, Death's Whisper\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.15 |
+| [**`mtg:Thranduil's Company`**](https://scryfall.com/card/hob/168) | [[02 Cards/Creatures/Thranduil's Company\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.30 |
 | [**`mtg:Thranduil, Sindarin Liege`**](https://scryfall.com/card/hob/166) | [[02 Cards/Creatures/Thranduil, Sindarin Liege\|PAGE]] | {2}{G/U}{G/U} // {1}{G/U}{G/U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |
 | [**`mtg:Wardens of the Cycle`**](https://scryfall.com/card/fdn/125) | [[02 Cards/Creatures/Wardens of the Cycle\|PAGE]] | {1}{B}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.16 |
 | [**`mtg:Wilt-Leaf Liege`**](https://scryfall.com/card/fdn/668) | [[02 Cards/Creatures/Wilt-Leaf Liege\|PAGE]] | {1}{G/W}{G/W}{G/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |

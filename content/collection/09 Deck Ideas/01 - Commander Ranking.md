@@ -8,82 +8,82 @@ The **next** 100. Not a deck. Scoring rules: [[00 - Scoring]]. Do not create a v
 
 ## Ranked list
 
-Run **2026-09-05**. 68 owned legendary creatures vs 1037 unused names. Sorted Score high → low. Bard is earmarked and sits at his Score rank, not forced to #1.
+Run **2026-09-07**. 68 owned legendary creatures vs 1037 unused names. Sorted Score high → low. Bard is earmarked and sits at his Score rank, not forced to #1.
 
-Fit is slots of the **line 99** you can sleeve (63 nonlands + 36 land slots; Combined = 0.4×General + 0.6×Deck-Specific; EDHREC type mix is a guide). A name in **Still buy** may already sit as the last copy in Maralen, Zurgo, or Kykar — it is not free.
+Fit is slots of the **line 99** you can sleeve (63 nonlands + 36 land slots; Combined = 0.4×General + 0.6×Deck-Specific; EDHREC type mix is a guide). A name in **Still buy** may already sit as the last copy in Maralen, Zurgo, or Kykar — it is not free. 🟡 = on [[06 Browse/Outstanding Orders/Outstanding Orders|Outstanding Orders]] (purchased, not in hand).
 
 <div class="ranking-list">
 
 | # | Commander | PAGE | Why | Identity | Plan | Decks | Rank | Fit | Unused | Variety | Next box(s) | £ | Score |
 |---|-----------|------|-----|----------|------|-------|------|-----|--------|---------|-------------|---|-------|
-| 1 | [**`mtg:Ramos, Dragon Engine`**](https://edhrec.com/commanders/ramos-dragon-engine) | [[02 Cards/Creatures/Ramos, Dragon Engine\|PAGE]] | [[#1. Ramos, Dragon Engine\|Why]] | {W}{U}{B}{R}{G} | +1/+1 counters | 12,861 | 166 | 37 | 939 | 95 | [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) | £161 | 69 |
-| 2 | [**`mtg:Fynn, the Fangbearer`**](https://edhrec.com/commanders/fynn-the-fangbearer) | [[02 Cards/Creatures/Fynn, the Fangbearer\|PAGE]] | [[#2. Fynn, the Fangbearer\|Why]] | {G} | Infect | 16,028 | 115 | 22 | 199 | 95 | [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ZNR\|ZNR]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M19\|M19]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/LCI\|LCI]] | £195 | 67 |
+| 1 | [**`mtg:Ramos, Dragon Engine`**](https://edhrec.com/commanders/ramos-dragon-engine) | [[02 Cards/Creatures/Ramos, Dragon Engine\|PAGE]] | [[#1. Ramos, Dragon Engine\|Why]] | {W}{U}{B}{R}{G} | +1/+1 counters | 12,861 | 166 | 37 | 939 | 95 | [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) | £161 | 69 |
+| 2 | [**`mtg:Fynn, the Fangbearer`**](https://edhrec.com/commanders/fynn-the-fangbearer) | [[02 Cards/Creatures/Fynn, the Fangbearer\|PAGE]] | [[#2. Fynn, the Fangbearer\|Why]] | {G} | Infect | 16,028 | 115 | 22 | 199 | 95 | [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ZNR\|ZNR]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/LCI\|LCI]] | £195 | 67 |
 | 3 | [**`mtg:Ruby, Daring Tracker`**](https://edhrec.com/commanders/ruby-daring-tracker) | [[02 Cards/Creatures/Ruby, Daring Tracker\|PAGE]] | [[#3. Ruby, Daring Tracker\|Why]] | {R}{G} | Gruul stompy | 4,541 | 624 | 15 | 345 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/ZNR\|ZNR]] | £143 | 63 |
-| 4 | [**`mtg:Halana and Alena, Partners`**](https://edhrec.com/commanders/halana-and-alena-partners) | [[02 Cards/Creatures/Halana and Alena, Partners\|PAGE]] | [[#4. Halana and Alena, Partners\|Why]] | {R}{G} | +1/+1 beatdown | 4,371 | 648 | 19 | 345 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/MOM\|MOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DSK\|DSK]] | £271 | 63 |
-| 5 | [**`mtg:Arcanis the Omnipotent`**](https://edhrec.com/commanders/arcanis-the-omnipotent) | [[02 Cards/Creatures/Arcanis the Omnipotent\|PAGE]] | [[#5. Arcanis the Omnipotent\|Why]] | {U} | Tap-draw wizards | 1,894 | 1,158 | 22 | 204 | 95 | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DOM\|DOM]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/WAR\|WAR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | £366 | 63 |
+| 4 | [**`mtg:Halana and Alena, Partners`**](https://edhrec.com/commanders/halana-and-alena-partners) | [[02 Cards/Creatures/Halana and Alena, Partners\|PAGE]] | [[#4. Halana and Alena, Partners\|Why]] | {R}{G} | +1/+1 beatdown | 4,371 | 648 | 19 | 345 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DSK\|DSK]] | £271 | 63 |
+| 5 | [**`mtg:Arcanis the Omnipotent`**](https://edhrec.com/commanders/arcanis-the-omnipotent) | [[02 Cards/Creatures/Arcanis the Omnipotent\|PAGE]] | [[#5. Arcanis the Omnipotent\|Why]] | {U} | Tap-draw wizards | 1,894 | 1,158 | 22 | 204 | 95 | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DOM\|DOM]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | £366 | 63 |
 | 6 | [**`mtg:Abigale, Poet Laureate`**](https://edhrec.com/commanders/abigale-poet-laureate) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | [[#6. Abigale, Poet Laureate\|Why]] | {W}{B} | +1/+1 verses | 1,465 | 1,341 | 41 | 357 | 95 | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] | £128 | 63 |
 | 7 | [**`mtg:Zimone, Paradox Sculptor`**](https://edhrec.com/commanders/zimone-paradox-sculptor) | [[02 Cards/Creatures/Zimone, Paradox Sculptor\|PAGE]] | [[#7. Zimone, Paradox Sculptor\|Why]] | {U}{G} | Double counters | 4,004 | 685 | 17 | 361 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [RIX](https://scryfall.com/sets/rix) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) | £308 | 62 |
-| 8 | [**`mtg:Mica, Reader of Ruins`**](https://edhrec.com/commanders/mica-reader-of-ruins) | [[02 Cards/Creatures/Mica, Reader of Ruins\|PAGE]] | [[#8. Mica, Reader of Ruins\|Why]] | {R} | Spellslinger copy | 1,362 | 1,392 | 23 | 199 | 95 | [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/KHM\|KHM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/TLA\|TLA]] | £322 | 62 |
-| 9 | [**`mtg:Arnyn, Deathbloom Botanist`**](https://edhrec.com/commanders/arnyn-deathbloom-botanist) | [[02 Cards/Creatures/Arnyn, Deathbloom Botanist\|PAGE]] | [[#9. Arnyn, Deathbloom Botanist\|Why]] | {B} | 1-power aristocrats | 662 | 1,929 | 25 | 200 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FDN\|FDN]] [MH1](https://scryfall.com/sets/mh1) [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] | £346 | 62 |
-| 10 | [**`mtg:Tam, Observant Sequencer`**](https://edhrec.com/commanders/tam-observant-sequencer) | [[02 Cards/Creatures/Tam, Observant Sequencer\|PAGE]] | [[#10. Tam, Observant Sequencer\|Why]] | {U}{G} | Landfall prepare | 436 | 2,251 | 32 | 361 | 95 | [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/OTJ\|OTJ]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | £219 | 62 |
-| 11 | [**`mtg:Bolg of the North`**](https://edhrec.com/commanders/bolg-of-the-north) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | [[#11. Bolg of the North\|Why]] | {B}{R} | Sac amass † | 65 | 3,618 | 36 | 346 | 95 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] | £147 | 62 |
-| 12 | [**`mtg:Tatyova, Benthic Druid`**](https://edhrec.com/commanders/tatyova-benthic-druid) | [[02 Cards/Creatures/Tatyova, Benthic Druid\|PAGE]] | [[#12. Tatyova, Benthic Druid\|Why]] | {U}{G} | Landfall draw | 9,262 | 263 | 24 | 361 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [MH1](https://scryfall.com/sets/mh1) [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/SOS\|SOS]] | £235 | 61 |
-| 13 | [**`mtg:Sanar, Unfinished Genius`**](https://edhrec.com/commanders/sanar-unfinished-genius) | [[02 Cards/Creatures/Sanar, Unfinished Genius\|PAGE]] | [[#13. Sanar, Unfinished Genius\|Why]] | {U}{R} | Izzet spells | 1,190 | 1,505 | 35 | 361 | 95 | [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FIN\|FIN]] [XLN](https://scryfall.com/sets/xln) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TDM\|TDM]] | £236 | 61 |
+| 8 | [**`mtg:Mica, Reader of Ruins`**](https://edhrec.com/commanders/mica-reader-of-ruins) | [[02 Cards/Creatures/Mica, Reader of Ruins\|PAGE]] | [[#8. Mica, Reader of Ruins\|Why]] | {R} | Spellslinger copy | 1,362 | 1,392 | 23 | 199 | 95 | [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/KHM\|KHM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/TLA\|TLA]] | £322 | 62 |
+| 9 | [**`mtg:Arnyn, Deathbloom Botanist`**](https://edhrec.com/commanders/arnyn-deathbloom-botanist) | [[02 Cards/Creatures/Arnyn, Deathbloom Botanist\|PAGE]] | [[#9. Arnyn, Deathbloom Botanist\|Why]] | {B} | 1-power aristocrats | 662 | 1,929 | 25 | 200 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH1\|MH1]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] | £346 | 62 |
+| 10 | [**`mtg:Tam, Observant Sequencer`**](https://edhrec.com/commanders/tam-observant-sequencer) | [[02 Cards/Creatures/Tam, Observant Sequencer\|PAGE]] | [[#10. Tam, Observant Sequencer\|Why]] | {U}{G} | Landfall prepare | 436 | 2,251 | 32 | 361 | 95 | [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] | £219 | 62 |
+| 11 | [**`mtg:Bolg of the North`**](https://edhrec.com/commanders/bolg-of-the-north) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | [[#11. Bolg of the North\|Why]] | {B}{R} | Sac amass † | 65 | 3,618 | 36 | 346 | 95 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] | £147 | 62 |
+| 12 | [**`mtg:Tatyova, Benthic Druid`**](https://edhrec.com/commanders/tatyova-benthic-druid) | [[02 Cards/Creatures/Tatyova, Benthic Druid\|PAGE]] | [[#12. Tatyova, Benthic Druid\|Why]] | {U}{G} | Landfall draw | 9,262 | 263 | 24 | 361 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH1\|MH1]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/SOS\|SOS]] | £235 | 61 |
+| 13 | [**`mtg:Sanar, Unfinished Genius`**](https://edhrec.com/commanders/sanar-unfinished-genius) | [[02 Cards/Creatures/Sanar, Unfinished Genius\|PAGE]] | [[#13. Sanar, Unfinished Genius\|Why]] | {U}{R} | Izzet spells | 1,190 | 1,505 | 35 | 361 | 95 | [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FIN\|FIN]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/TDM\|TDM]] | £236 | 61 |
 | 14 | [**`mtg:Etali, Primal Storm`**](https://edhrec.com/commanders/etali-primal-storm) | [[02 Cards/Creatures/Etali, Primal Storm\|PAGE]] | [[#14. Etali, Primal Storm\|Why]] | {R} | Extra combats | 2,367 | 1,004 | 12 | 199 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] | £385 | 60 |
 | 15 | [**`mtg:Moseo, Vein's New Dean`**](https://edhrec.com/commanders/moseo-veins-new-dean) | [[02 Cards/Creatures/Moseo, Vein's New Dean\|PAGE]] | [[#15. Moseo, Vein's New Dean\|Why]] | {B} | Lifegain reanimate | 1,767 | 1,209 | 14 | 200 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/DMU\|DMU]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] | £398 | 60 |
-| 16 | [**`mtg:Ozox, the Clattering King`**](https://edhrec.com/commanders/ozox-the-clattering-king) | [[02 Cards/Creatures/Ozox, the Clattering King\|PAGE]] | [[#16. Ozox, the Clattering King\|Why]] | {B} | Skeleton reanimate | 1,226 | 1,477 | 17 | 200 | 95 | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/LTR\|LTR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] | £397 | 60 |
-| 17 | [**`mtg:Gladiolus Amicitia`**](https://edhrec.com/commanders/gladiolus-amicitia) | [[02 Cards/Creatures/Gladiolus Amicitia\|PAGE]] | [[#17. Gladiolus Amicitia\|Why]] | {R}{G} | Landfall combat | 929 | 1,693 | 16 | 345 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) | £330 | 60 |
-| 18 | [**`mtg:Ayli, Eternal Pilgrim`**](https://edhrec.com/commanders/ayli-eternal-pilgrim) | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|PAGE]] | [[#18. Ayli, Eternal Pilgrim\|Why]] | {W}{B} | Lifegain aristocrats | 1,949 | 1,141 | 23 | 357 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/WOE\|WOE]] | £271 | 58 |
+| 16 | [**`mtg:Ozox, the Clattering King`**](https://edhrec.com/commanders/ozox-the-clattering-king) | [[02 Cards/Creatures/Ozox, the Clattering King\|PAGE]] | [[#16. Ozox, the Clattering King\|Why]] | {B} | Skeleton reanimate | 1,226 | 1,477 | 17 | 200 | 95 | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] | £397 | 60 |
+| 17 | [**`mtg:Gladiolus Amicitia`**](https://edhrec.com/commanders/gladiolus-amicitia) | [[02 Cards/Creatures/Gladiolus Amicitia\|PAGE]] | [[#17. Gladiolus Amicitia\|Why]] | {R}{G} | Landfall combat | 929 | 1,693 | 16 | 345 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) | £330 | 60 |
+| 18 | [**`mtg:Ayli, Eternal Pilgrim`**](https://edhrec.com/commanders/ayli-eternal-pilgrim) | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|PAGE]] | [[#18. Ayli, Eternal Pilgrim\|Why]] | {W}{B} | Lifegain aristocrats | 1,949 | 1,141 | 23 | 357 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/WOE\|WOE]] | £271 | 58 |
 | 19 | [**`mtg:Kiora, the Rising Tide`**](https://edhrec.com/commanders/kiora-the-rising-tide) | [[02 Cards/Creatures/Kiora, the Rising Tide\|PAGE]] | [[#19. Kiora, the Rising Tide\|Why]] | {U} | Threshold octopus | 588 | 2,033 | 32 | 204 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/BLB\|BLB]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FIN\|FIN]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] | £192 | 58 |
 | 20 | [**`mtg:Zetalpa, Primal Dawn`**](https://edhrec.com/commanders/zetalpa-primal-dawn) | [[02 Cards/Creatures/Zetalpa, Primal Dawn\|PAGE]] | [[#20. Zetalpa, Primal Dawn\|Why]] | {W} | Keyword Voltron | 580 | 2,043 | 12 | 200 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/DSK\|DSK]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] | £371 | 58 |
-| 21 | [**`mtg:Ultros, Obnoxious Octopus`**](https://edhrec.com/commanders/ultros-obnoxious-octopus) | [[02 Cards/Creatures/Ultros, Obnoxious Octopus\|PAGE]] | [[#21. Ultros, Obnoxious Octopus\|Why]] | {U} | Big-mana stun | 402 | 2,304 | 16 | 204 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/MH3\|MH3]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) | £285 | 58 |
-| 22 | [**`mtg:Bombur, Gentle Dreamer`**](https://edhrec.com/commanders/bombur-gentle-dreamer) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | [[#22. Bombur, Gentle Dreamer\|Why]] | {R} | Storied untap † | 4 | 6,129 | 39 | 199 | 95 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [SNC](https://scryfall.com/sets/snc) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/MOM\|MOM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] | £201 | 58 |
+| 21 | [**`mtg:Ultros, Obnoxious Octopus`**](https://edhrec.com/commanders/ultros-obnoxious-octopus) | [[02 Cards/Creatures/Ultros, Obnoxious Octopus\|PAGE]] | [[#21. Ultros, Obnoxious Octopus\|Why]] | {U} | Big-mana stun | 402 | 2,304 | 16 | 204 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) | £285 | 58 |
+| 22 | [**`mtg:Bombur, Gentle Dreamer`**](https://edhrec.com/commanders/bombur-gentle-dreamer) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | [[#22. Bombur, Gentle Dreamer\|Why]] | {R} | Storied untap † | 4 | 6,129 | 39 | 199 | 95 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [SNC](https://scryfall.com/sets/snc) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/MOM\|MOM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] | £201 | 58 |
 | 23 | [**`mtg:Lathril, Blade of the Elves`**](https://edhrec.com/commanders/lathril-blade-of-the-elves) | [[02 Cards/Creatures/Lathril, Blade of the Elves\|PAGE]] | [[#23. Lathril, Blade of the Elves\|Why]] | {B}{G} | Elf drain | 35,279 | 13 | 21 | 361 | 60 | [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ELD\|ELD]] | £343 | 57 |
 | 24 | [**`mtg:Thorin Oakenshield`**](https://edhrec.com/commanders/thorin-oakenshield) | [[02 Cards/Creatures/Thorin Oakenshield\|PAGE]] | [[#24. Thorin Oakenshield\|Why]] | {W}{R} | Storied equipment | 833 | 1,775 | 27 | 359 | 95 | [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] | £281 | 57 |
 | 25 | [**`mtg:The Dawning Archaic`**](https://edhrec.com/commanders/the-dawning-archaic) | [[02 Cards/Creatures/The Dawning Archaic\|PAGE]] | [[#25. The Dawning Archaic\|Why]] | {C} | Colorless spells | 613 | 2,003 | 8 | 66 | 95 | [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/TDM\|TDM]] [XLN](https://scryfall.com/sets/xln) | £249 | 57 |
-| 26 | [**`mtg:Kirol, History Buff`**](https://edhrec.com/commanders/kirol-history-buff) | [[02 Cards/Creatures/Kirol, History Buff\|PAGE]] | [[#26. Kirol, History Buff\|Why]] | {W}{R} | Graveyard counters | 346 | 2,406 | 30 | 359 | 95 | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/STX\|STX]] [MID](https://scryfall.com/sets/mid) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/TLA\|TLA]] | £124 | 57 |
+| 26 | [**`mtg:Kirol, History Buff`**](https://edhrec.com/commanders/kirol-history-buff) | [[02 Cards/Creatures/Kirol, History Buff\|PAGE]] | [[#26. Kirol, History Buff\|Why]] | {W}{R} | Graveyard counters | 346 | 2,406 | 30 | 359 | 95 | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/STX\|STX]] [MID](https://scryfall.com/sets/mid) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/TLA\|TLA]] | £124 | 57 |
 | 27 | [**`mtg:Syr Alin, the Lion's Claw`**](https://edhrec.com/commanders/syr-alin-the-lions-claw) | [[02 Cards/Creatures/Syr Alin, the Lion's Claw\|PAGE]] | [[#27. Syr Alin, the Lion's Claw\|Why]] | {W} | Go-wide anthem † | 48 | 3,862 | 22 | 200 | 95 | [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/M19\|M19]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MH3\|MH3]] | £149 | 57 |
 | 28 | [**`mtg:Combustion Man`**](https://edhrec.com/commanders/combustion-man) | [[02 Cards/Creatures/Combustion Man\|PAGE]] | [[#28. Combustion Man\|Why]] | {R} | Forced burn | 824 | 1,779 | 16 | 199 | 95 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [MH2](https://scryfall.com/sets/mh2) | £539 | 56 |
 | 29 | [**`mtg:Page, Loose Leaf`**](https://edhrec.com/commanders/page-loose-leaf) | [[02 Cards/Creatures/Page, Loose Leaf\|PAGE]] | [[#29. Page, Loose Leaf\|Why]] | {C} | Colorless rituals | 380 | 2,340 | 7 | 66 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FIN\|FIN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LTR\|LTR]] | £198 | 56 |
-| 30 | [**`mtg:Surrak, the Hunt Caller`**](https://edhrec.com/commanders/surrak-the-hunt-caller) | [[02 Cards/Creatures/Surrak, the Hunt Caller\|PAGE]] | [[#30. Surrak, the Hunt Caller\|Why]] | {G} | Formidable aggro † | 106 | 3,256 | 33 | 199 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/WAR\|WAR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] | £200 | 56 |
+| 30 | [**`mtg:Surrak, the Hunt Caller`**](https://edhrec.com/commanders/surrak-the-hunt-caller) | [[02 Cards/Creatures/Surrak, the Hunt Caller\|PAGE]] | [[#30. Surrak, the Hunt Caller\|Why]] | {G} | Formidable aggro † | 106 | 3,256 | 33 | 199 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] | £200 | 56 |
 | 31 | [**`mtg:Nori, Teller of Tales`**](https://edhrec.com/commanders/nori-teller-of-tales) | [[02 Cards/Creatures/Nori, Teller of Tales\|PAGE]] | [[#31. Nori, Teller of Tales\|Why]] | {W}{R} | First-strike dwarves † | 8 | 5,469 | 28 | 359 | 95 | [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FIN\|FIN]] | £103 | 56 |
 | 32 | [**`mtg:Grenzo, Havoc Raiser`**](https://edhrec.com/commanders/grenzo-havoc-raiser) | [[02 Cards/Creatures/Grenzo, Havoc Raiser\|PAGE]] | [[#32. Grenzo, Havoc Raiser\|Why]] | {R} | Goad combat | 919 | 1,700 | 17 | 199 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DFT\|DFT]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [MH2](https://scryfall.com/sets/mh2) | £268 | 55 |
 | 33 | [**`mtg:Kalakscion, Hunger Tyrant`**](https://edhrec.com/commanders/kalakscion-hunger-tyrant) | [[02 Cards/Creatures/Kalakscion, Hunger Tyrant\|PAGE]] | [[#33. Kalakscion, Hunger Tyrant\|Why]] | {B} | Crocodile Voltron | 609 | 2,009 | 20 | 200 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] | £319 | 55 |
 | 34 | [**`mtg:Bifur, Melodic Rider`**](https://edhrec.com/commanders/bifur-melodic-rider) | [[02 Cards/Creatures/Bifur, Melodic Rider\|PAGE]] | [[#34. Bifur, Melodic Rider\|Why]] | {W}{R} | Dwarf extra triggers | 406 | 2,297 | 24 | 359 | 95 | [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/SOS\|SOS]] | £309 | 55 |
 | 35 | [**`mtg:Toph, the Blind Bandit`**](https://edhrec.com/commanders/toph-the-blind-bandit) | [[02 Cards/Creatures/Toph, the Blind Bandit\|PAGE]] | [[#35. Toph, the Blind Bandit\|Why]] | {G} | Earthbend counters | 290 | 2,522 | 19 | 199 | 95 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] | £337 | 55 |
-| 36 | [**`mtg:Lyra Dawnbringer`**](https://edhrec.com/commanders/lyra-dawnbringer) | [[02 Cards/Creatures/Lyra Dawnbringer\|PAGE]] | [[#36. Lyra Dawnbringer\|Why]] | {W} | Angel tribal | 1,545 | 1,296 | 14 | 200 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/AFR\|AFR]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MOM\|MOM]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/M20\|M20]] [MH2](https://scryfall.com/sets/mh2) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] | £387 | 54 |
-| 37 | [**`mtg:Ashe, Princess of Dalmasca`**](https://edhrec.com/commanders/ashe-princess-of-dalmasca) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | [[#37. Ashe, Princess of Dalmasca\|Why]] | {W} | Attack for artifacts † | 139 | 3,063 | 10 | 200 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] | £395 | 54 |
-| 38 | [**`mtg:Smaug, Wicked Worm`**](https://edhrec.com/commanders/smaug-wicked-worm) | [[02 Cards/Creatures/Smaug, Wicked Worm\|PAGE]] | [[#38. Smaug, Wicked Worm\|Why]] | {B}{R} | Treasure draw | 2,595 | 944 | 25 | 346 | 60 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] | £455 | 53 |
+| 36 | [**`mtg:Lyra Dawnbringer`**](https://edhrec.com/commanders/lyra-dawnbringer) | [[02 Cards/Creatures/Lyra Dawnbringer\|PAGE]] | [[#36. Lyra Dawnbringer\|Why]] | {W} | Angel tribal | 1,545 | 1,296 | 14 | 200 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/AFR\|AFR]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/M20\|M20]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] | £387 | 54 |
+| 37 | [**`mtg:Ashe, Princess of Dalmasca`**](https://edhrec.com/commanders/ashe-princess-of-dalmasca) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | [[#37. Ashe, Princess of Dalmasca\|Why]] | {W} | Attack for artifacts † | 139 | 3,063 | 10 | 200 | 95 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] | £395 | 54 |
+| 38 | [**`mtg:Smaug, Wicked Worm`**](https://edhrec.com/commanders/smaug-wicked-worm) | [[02 Cards/Creatures/Smaug, Wicked Worm\|PAGE]] | [[#38. Smaug, Wicked Worm\|Why]] | {B}{R} | Treasure draw | 2,595 | 944 | 25 | 346 | 60 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] | £455 | 53 |
 | 39 | [**`mtg:Dwynen, Gilt-Leaf Daen`**](https://edhrec.com/commanders/dwynen-gilt-leaf-daen) | [[02 Cards/Creatures/Dwynen, Gilt-Leaf Daen\|PAGE]] | [[#39. Dwynen, Gilt-Leaf Daen\|Why]] | {G} | Elf anthem | 373 | 2,356 | 35 | 199 | 60 | [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DMU\|DMU]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ECL\|ECL]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/M19\|M19]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] | £271 | 53 |
 | 40 | [**`mtg:Óin the Brave`**](https://edhrec.com/commanders/oin-the-brave) | [[02 Cards/Creatures/Óin the Brave\|PAGE]] | [[#40. Óin the Brave\|Why]] | {R} | Storied loot † | 2 | 6,514 | 25 | 199 | 95 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/FIN\|FIN]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ECL\|ECL]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/BLB\|BLB]] | £187 | 53 |
 | 41 | [**`mtg:Katara, the Fearless`**](https://edhrec.com/commanders/katara-the-fearless) | [[02 Cards/Creatures/Katara, the Fearless\|PAGE]] | [[#41. Katara, the Fearless\|Why]] | {W}{U}{G} | Ally double triggers | 9,755 | 244 | 21 | 517 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] | £163 | 52 |
-| 42 | [**`mtg:Arahbo, the First Fang`**](https://edhrec.com/commanders/arahbo-the-first-fang) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | [[#42. Arahbo, the First Fang\|Why]] | {W} | Cats | 3,404 | 773 | 36 | 200 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/M21\|M21]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LTR\|LTR]] | £228 | 52 |
-| 43 | [**`mtg:Aziza, Mage Tower Captain`**](https://edhrec.com/commanders/aziza-mage-tower-captain) | [[02 Cards/Creatures/Aziza, Mage Tower Captain\|PAGE]] | [[#43. Aziza, Mage Tower Captain\|Why]] | {W}{R} | Convoke copy | 2,754 | 904 | 17 | 359 | 60 | [[06 Browse/Sets/MH3\|MH3]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] | £263 | 52 |
-| 44 | [**`mtg:Myojin of Night's Reach`**](https://edhrec.com/commanders/myojin-of-nights-reach) | [[02 Cards/Creatures/Myojin of Night's Reach\|PAGE]] | [[#44. Myojin of Night's Reach\|Why]] | {B} | Discard lock † | 19 | 4,633 | 13 | 200 | 95 | [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MOM\|MOM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/OTJ\|OTJ]] | £256 | 52 |
-| 45 | [**`mtg:Gandalf, Spark Starter`**](https://edhrec.com/commanders/gandalf-spark-starter) | [[02 Cards/Creatures/Gandalf, Spark Starter\|PAGE]] | [[#45. Gandalf, Spark Starter\|Why]] | {R} | ETB pings † | 8 | 5,468 | 25 | 199 | 95 | [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DSK\|DSK]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] | £291 | 52 |
-| 46 | [**`mtg:Gollum, Silent Slinker`**](https://edhrec.com/commanders/gollum-silent-slinker) | [[02 Cards/Creatures/Gollum, Silent Slinker\|PAGE]] | [[#46. Gollum, Silent Slinker\|Why]] | {B} | Menace value † | 7 | 5,593 | 26 | 200 | 95 | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [MH1](https://scryfall.com/sets/mh1) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] | £136 | 52 |
+| 42 | [**`mtg:Arahbo, the First Fang`**](https://edhrec.com/commanders/arahbo-the-first-fang) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | [[#42. Arahbo, the First Fang\|Why]] | {W} | Cats | 3,404 | 773 | 36 | 200 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LTR\|LTR]] | £228 | 52 |
+| 43 | [**`mtg:Aziza, Mage Tower Captain`**](https://edhrec.com/commanders/aziza-mage-tower-captain) | [[02 Cards/Creatures/Aziza, Mage Tower Captain\|PAGE]] | [[#43. Aziza, Mage Tower Captain\|Why]] | {W}{R} | Convoke copy | 2,754 | 904 | 17 | 359 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] | £263 | 52 |
+| 44 | [**`mtg:Myojin of Night's Reach`**](https://edhrec.com/commanders/myojin-of-nights-reach) | [[02 Cards/Creatures/Myojin of Night's Reach\|PAGE]] | [[#44. Myojin of Night's Reach\|Why]] | {B} | Discard lock † | 19 | 4,633 | 13 | 200 | 95 | [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MOM\|MOM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DMU\|DMU]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/OTJ\|OTJ]] | £256 | 52 |
+| 45 | [**`mtg:Gandalf, Spark Starter`**](https://edhrec.com/commanders/gandalf-spark-starter) | [[02 Cards/Creatures/Gandalf, Spark Starter\|PAGE]] | [[#45. Gandalf, Spark Starter\|Why]] | {R} | ETB pings † | 8 | 5,468 | 25 | 199 | 95 | [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] | £291 | 52 |
+| 46 | [**`mtg:Gollum, Silent Slinker`**](https://edhrec.com/commanders/gollum-silent-slinker) | [[02 Cards/Creatures/Gollum, Silent Slinker\|PAGE]] | [[#46. Gollum, Silent Slinker\|Why]] | {B} | Menace value † | 7 | 5,593 | 26 | 200 | 95 | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH1\|MH1]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] | £136 | 52 |
 | 47 | [**`mtg:Ovika, Enigma Goliath`**](https://edhrec.com/commanders/ovika-enigma-goliath) | [[02 Cards/Creatures/Ovika, Enigma Goliath\|PAGE]] | [[#47. Ovika, Enigma Goliath\|Why]] | {U}{R} | Noncreature tokens | 11,339 | 203 | 24 | 361 | 60 | [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/ECL\|ECL]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ZNR\|ZNR]] | £215 | 51 |
 | 48 | [**`mtg:Dion, Bahamut's Dominant`**](https://edhrec.com/commanders/dion-bahamuts-dominant) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | [[#48. Dion, Bahamut's Dominant\|Why]] | {W} | Knights into Dragon | 2,500 | 965 | 15 | 200 | 60 | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] | £293 | 51 |
-| 49 | [**`mtg:Nita, Forum Conciliator`**](https://edhrec.com/commanders/nita-forum-conciliator) | [[02 Cards/Creatures/Nita, Forum Conciliator\|PAGE]] | [[#49. Nita, Forum Conciliator\|Why]] | {W}{B} | Steal and pump | 375 | 2,352 | 26 | 357 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] [MH1](https://scryfall.com/sets/mh1) | £279 | 51 |
+| 49 | [**`mtg:Nita, Forum Conciliator`**](https://edhrec.com/commanders/nita-forum-conciliator) | [[02 Cards/Creatures/Nita, Forum Conciliator\|PAGE]] | [[#49. Nita, Forum Conciliator\|Why]] | {W}{B} | Steal and pump | 375 | 2,352 | 26 | 357 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/MH1\|MH1]] | £279 | 51 |
 | 50 | [**`mtg:High Perfect Morcant`**](https://edhrec.com/commanders/high-perfect-morcant) | [[02 Cards/Creatures/High Perfect Morcant\|PAGE]] | [[#50. High Perfect Morcant\|Why]] | {B}{G} | Elf blight | 17,348 | 104 | 20 | 361 | 60 | [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/KHM\|KHM]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/SOS\|SOS]] | £370 | 50 |
-| 51 | [**`mtg:Vnwxt, Verbose Host`**](https://edhrec.com/commanders/vnwxt-verbose-host) | [[02 Cards/Creatures/Vnwxt, Verbose Host\|PAGE]] | [[#51. Vnwxt, Verbose Host\|Why]] | {U} | Max-speed draw | 7,828 | 337 | 17 | 204 | 60 | [[06 Browse/Sets/DFT\|DFT]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/LCI\|LCI]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) | £265 | 50 |
-| 52 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://edhrec.com/commanders/lluwen-imperfect-naturalist) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | [[#52. Lluwen, Imperfect Naturalist\|Why]] | {B}{G} | Yard worms | 1,874 | 1,166 | 13 | 361 | 60 | [[06 Browse/Sets/MH3\|MH3]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ONE\|ONE]] [MH2](https://scryfall.com/sets/mh2) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] | £223 | 50 |
-| 53 | [**`mtg:Anafenza, Unyielding Lineage`**](https://edhrec.com/commanders/anafenza-unyielding-lineage) | [[02 Cards/Creatures/Anafenza, Unyielding Lineage\|PAGE]] | [[#53. Anafenza, Unyielding Lineage\|Why]] | {W} | Endure aristocrats | 346 | 2,410 | 20 | 200 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ONE\|ONE]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TLA\|TLA]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] | £344 | 49 |
+| 51 | [**`mtg:Vnwxt, Verbose Host`**](https://edhrec.com/commanders/vnwxt-verbose-host) | [[02 Cards/Creatures/Vnwxt, Verbose Host\|PAGE]] | [[#51. Vnwxt, Verbose Host\|Why]] | {U} | Max-speed draw | 7,828 | 337 | 17 | 204 | 60 | [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/LCI\|LCI]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) | £265 | 50 |
+| 52 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://edhrec.com/commanders/lluwen-imperfect-naturalist) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | [[#52. Lluwen, Imperfect Naturalist\|Why]] | {B}{G} | Yard worms | 1,874 | 1,166 | 13 | 361 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ONE\|ONE]] [MH2](https://scryfall.com/sets/mh2) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] | £223 | 50 |
+| 53 | [**`mtg:Anafenza, Unyielding Lineage`**](https://edhrec.com/commanders/anafenza-unyielding-lineage) | [[02 Cards/Creatures/Anafenza, Unyielding Lineage\|PAGE]] | [[#53. Anafenza, Unyielding Lineage\|Why]] | {W} | Endure aristocrats | 346 | 2,410 | 20 | 200 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/TLA\|TLA]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] | £344 | 49 |
 | 54 | [**`mtg:Smaug, the Great Calamity`**](https://edhrec.com/commanders/smaug-the-great-calamity) | [[02 Cards/Creatures/Smaug, the Great Calamity\|PAGE]] | [[#54. Smaug, the Great Calamity\|Why]] | {R} | Dragon burn † | 8 | 5,470 | 23 | 199 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] | £183 | 49 |
-| 55 | [**`mtg:Queen Allenal of Ruadach`**](https://edhrec.com/commanders/queen-allenal-of-ruadach) | [[02 Cards/Creatures/Queen Allenal of Ruadach\|PAGE]] | [[#55. Queen Allenal of Ruadach\|Why]] | {W}{G} | Extra soldiers | 1,543 | 1,297 | 17 | 346 | 60 | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/WOE\|WOE]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] | £215 | 47 |
+| 55 | [**`mtg:Queen Allenal of Ruadach`**](https://edhrec.com/commanders/queen-allenal-of-ruadach) | [[02 Cards/Creatures/Queen Allenal of Ruadach\|PAGE]] | [[#55. Queen Allenal of Ruadach\|Why]] | {W}{G} | Extra soldiers | 1,543 | 1,297 | 17 | 346 | 60 | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] | £215 | 47 |
 | 56 | [**`mtg:Halsin, Emerald Archdruid`**](https://edhrec.com/commanders/halsin-emerald-archdruid) | [[02 Cards/Creatures/Halsin, Emerald Archdruid\|PAGE]] | [[#56. Halsin, Emerald Archdruid\|Why]] | {G} | Token bears † | 16 | 4,817 | 29 | 199 | 60 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/TDM\|TDM]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] [XLN](https://scryfall.com/sets/xln) | £159 | 47 |
 | 57 | [**`mtg:Lathliss, Dragon Queen`**](https://edhrec.com/commanders/lathliss-dragon-queen) | [[02 Cards/Creatures/Lathliss, Dragon Queen\|PAGE]] | [[#57. Lathliss, Dragon Queen\|Why]] | {R} | Dragon tokens | 3,828 | 716 | 16 | 199 | 60 | [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] | £402 | 46 |
-| 58 | [**`mtg:Emil, Vastlands Roamer`**](https://edhrec.com/commanders/emil-vastlands-roamer) | [[02 Cards/Creatures/Emil, Vastlands Roamer\|PAGE]] | [[#58. Emil, Vastlands Roamer\|Why]] | {G} | Named-land fractal † | 179 | 2,884 | 13 | 199 | 60 | [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ELD\|ELD]] | £283 | 46 |
+| 58 | [**`mtg:Emil, Vastlands Roamer`**](https://edhrec.com/commanders/emil-vastlands-roamer) | [[02 Cards/Creatures/Emil, Vastlands Roamer\|PAGE]] | [[#58. Emil, Vastlands Roamer\|Why]] | {G} | Named-land fractal † | 179 | 2,884 | 13 | 199 | 60 | [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ELD\|ELD]] | £283 | 46 |
 | 59 | [**`mtg:Jadzi, Steward of Fate`**](https://edhrec.com/commanders/jadzi-steward-of-fate) | [[02 Cards/Creatures/Jadzi, Steward of Fate\|PAGE]] | [[#59. Jadzi, Steward of Fate\|Why]] | {U} | Prepare fractals † | 145 | 3,034 | 15 | 204 | 60 | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/BLB\|BLB]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] | £286 | 46 |
-| 60 | [**`mtg:Gandalf, Wandering Wizard`**](https://edhrec.com/commanders/gandalf-wandering-wizard) | [[02 Cards/Creatures/Gandalf, Wandering Wizard\|PAGE]] | [[#60. Gandalf, Wandering Wizard\|Why]] | {U} | Pay-draw bounce † | 25 | 4,438 | 27 | 204 | 60 | [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/NEO\|NEO]] | £360 | 46 |
+| 60 | [**`mtg:Gandalf, Wandering Wizard`**](https://edhrec.com/commanders/gandalf-wandering-wizard) | [[02 Cards/Creatures/Gandalf, Wandering Wizard\|PAGE]] | [[#60. Gandalf, Wandering Wizard\|Why]] | {U} | Pay-draw bounce † | 25 | 4,438 | 27 | 204 | 60 | [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/NEO\|NEO]] | £360 | 46 |
 | 61 | [**`mtg:Linden, the Steadfast Queen`**](https://edhrec.com/commanders/linden-the-steadfast-queen) | [[02 Cards/Creatures/Linden, the Steadfast Queen\|PAGE]] | [[#61. Linden, the Steadfast Queen\|Why]] | {W} | Attack lifegain | 781 | 1,822 | 17 | 200 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/FIN\|FIN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/SOS\|SOS]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/NEO\|NEO]] | £263 | 44 |
-| 62 | [**`mtg:Orysa, Tide Choreographer`**](https://edhrec.com/commanders/orysa-tide-choreographer) | [[02 Cards/Creatures/Orysa, Tide Choreographer\|PAGE]] | [[#62. Orysa, Tide Choreographer\|Why]] | {U} | Toughness draw † | 65 | 3,617 | 16 | 204 | 60 | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/THB\|THB]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DMU\|DMU]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/TDM\|TDM]] | £372 | 44 |
+| 62 | [**`mtg:Orysa, Tide Choreographer`**](https://edhrec.com/commanders/orysa-tide-choreographer) | [[02 Cards/Creatures/Orysa, Tide Choreographer\|PAGE]] | [[#62. Orysa, Tide Choreographer\|Why]] | {U} | Toughness draw † | 65 | 3,617 | 16 | 204 | 60 | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/THB\|THB]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/TDM\|TDM]] | £372 | 44 |
 | 63 | [**`mtg:Bilbo Baggins, Burglar`**](https://edhrec.com/commanders/bilbo-baggins-burglar) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | [[#63. Bilbo Baggins, Burglar\|Why]] | {U} | ETB cantrip † | 10 | 5,270 | 24 | 204 | 60 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/M21\|M21]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/OTJ\|OTJ]] | £189 | 44 |
-| 64 | [**`mtg:Azula, On the Hunt`**](https://edhrec.com/commanders/azula-on-the-hunt) | [[02 Cards/Creatures/Azula, On the Hunt\|PAGE]] | [[#64. Azula, On the Hunt\|Why]] | {B} | Clue value † | 80 | 3,462 | 19 | 200 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LTR\|LTR]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] | £234 | 42 |
-| 65 | [**`mtg:Beorn, Reluctant Host`**](https://edhrec.com/commanders/beorn-reluctant-host) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | [[#65. Beorn, Reluctant Host\|Why]] | {G} | Bear lands † | 22 | 4,550 | 30 | 199 | 60 | [[06 Browse/Sets/HOB\|HOB]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] | £215 | 42 |
-| 66 | [**`mtg:Ennis, Debate Moderator`**](https://edhrec.com/commanders/ennis-debate-moderator) | [[02 Cards/Creatures/Ennis, Debate Moderator\|PAGE]] | [[#66. Ennis, Debate Moderator\|Why]] | {W} | Self-blink counters † | 53 | 3,778 | 15 | 200 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/ELD\|ELD]] [MH2](https://scryfall.com/sets/mh2) | £217 | 39 |
-| 67 | [**`mtg:Bard, King of Dale`**](https://edhrec.com/commanders/bard-king-of-dale) \* | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | [[#67. Bard, King of Dale\|Why]] | {W}{U} | Token draw double | 2,949 | 865 | 17 | 346 | 15 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/NEO\|NEO]] | £472 | 38 |
-| 68 | [**`mtg:Urza, Prince of Kroog`**](https://edhrec.com/commanders/urza-prince-of-kroog) | [[02 Cards/Creatures/Urza, Prince of Kroog\|PAGE]] | [[#68. Urza, Prince of Kroog\|Why]] | {W}{U} | Artifact soldiers | 2,458 | 976 | 9 | 346 | 15 | [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DOM\|DOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DFT\|DFT]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] | £295 | 35 |
+| 64 | [**`mtg:Azula, On the Hunt`**](https://edhrec.com/commanders/azula-on-the-hunt) | [[02 Cards/Creatures/Azula, On the Hunt\|PAGE]] | [[#64. Azula, On the Hunt\|Why]] | {B} | Clue value † | 80 | 3,462 | 19 | 200 | 60 | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LTR\|LTR]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] | £234 | 42 |
+| 65 | [**`mtg:Beorn, Reluctant Host`**](https://edhrec.com/commanders/beorn-reluctant-host) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | [[#65. Beorn, Reluctant Host\|Why]] | {G} | Bear lands † | 22 | 4,550 | 30 | 199 | 60 | [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] | £215 | 42 |
+| 66 | [**`mtg:Ennis, Debate Moderator`**](https://edhrec.com/commanders/ennis-debate-moderator) | [[02 Cards/Creatures/Ennis, Debate Moderator\|PAGE]] | [[#66. Ennis, Debate Moderator\|Why]] | {W} | Self-blink counters † | 53 | 3,778 | 15 | 200 | 60 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/ELD\|ELD]] [MH2](https://scryfall.com/sets/mh2) | £217 | 39 |
+| 67 | [**`mtg:Bard, King of Dale`**](https://edhrec.com/commanders/bard-king-of-dale) \* | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | [[#67. Bard, King of Dale\|Why]] | {W}{U} | Token draw double | 2,949 | 865 | 17 | 346 | 15 | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/NEO\|NEO]] | £472 | 38 |
+| 68 | [**`mtg:Urza, Prince of Kroog`**](https://edhrec.com/commanders/urza-prince-of-kroog) | [[02 Cards/Creatures/Urza, Prince of Kroog\|PAGE]] | [[#68. Urza, Prince of Kroog\|Why]] | {W}{U} | Artifact soldiers | 2,458 | 976 | 9 | 346 | 15 | [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] | £295 | 35 |
 
 </div>
 
@@ -97,7 +97,7 @@ Generals you do **not** own. Same Fit math as the ranked list (unused paper vs t
 
 | # | Commander | PAGE | Why | Identity | Plan | Decks | Rank | Fit | Unused | Variety | Next box(s) | £ | Score |
 |---|-----------|------|-----|----------|------|-------|------|-----|--------|---------|-------------|---|-------|
-| 1 | [**`mtg:Arahbo, Roar of the World`**](https://edhrec.com/commanders/arahbo-roar-of-the-world) | — | [[#U1. Arahbo, Roar of the World\|Why]] | {W}{G} | Cats | 11,602 | 200 | 31 | 346 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MH3\|MH3]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) | £249 | 63 |
+| 1 | [**`mtg:Arahbo, Roar of the World`**](https://edhrec.com/commanders/arahbo-roar-of-the-world) | — | [[#U1. Arahbo, Roar of the World\|Why]] | {W}{G} | Cats | 11,602 | 200 | 31 | 346 | 95 | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) | £249 | 63 |
 
 </div>
 
@@ -122,7 +122,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 12,861 |
 > | **Rank** | 166 |
 > | **Finish** | £161 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {W}{U}{B}{R}{G} **+1/+1 counters**. Five-color counters on Ramos. Cast multicolored spells so Ramos stacks +1/+1, then dump five counters for {W}{W}{U}{U}{B}{B}{R}{R}{G}{G} into a haymaker (Villainous Wealth, Torment of Hailfire, Genesis Wave, Ruinous Ultimatum). Proliferate and counter-doublers (Deepglow Skate, Corpsejack Menace, Hardened Scales, The Ozolith, Inspiring Call) keep the engine live. Fixing is the real cost: triomes, shocks, Command Tower, Chromatic Lantern, Birds of Paradise. Prefer two-and-three-color spells over monocolor so every cast feeds Ramos. Protection (Swiftfoot Boots, Heroic Intervention) stops the commander from eating removal before the dump.
 >
@@ -195,9 +195,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Naya Charm` | {R}{G}{W} | Instant | £0.26 |
 > | `mtg:Revitalizing Repast` | {B/G} | Instant | £1.22 |
 > | `mtg:Sultai Charm` | {B}{G}{U} | Instant | £0.16 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Void Rend` | {W}{U}{B} | Instant | £0.69 |
-> | `mtg:Cultivate` | {2}{G} | Sorcery | £0.37 |
+> | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Explosive Vegetation` | {3}{G} | Sorcery | £0.18 |
 > | `mtg:Farseek` | {1}{G} | Sorcery | £0.61 |
 > | `mtg:Kodama's Reach` | {2}{G} | Sorcery — Arcane | £1.15 |
@@ -210,7 +210,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Rhythm of the Wild` | {1}{R}{G} | Enchantment | £3.04 |
 > | `mtg:Simic Ascendancy` | {G}{U} | Enchantment | £0.44 |
 > | `mtg:Terrasymbiosis` | {2}{G} | Enchantment | £9.66 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Chromatic Lantern` | {3} | Artifact | — |
 > | `mtg:Door to Nothingness` | {5} | Artifact | £0.38 |
 > | `mtg:Dragonstorm Globe` | {3} | Artifact | £0.14 |
@@ -251,7 +251,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 16,028 |
 > | **Rank** | 115 |
 > | **Finish** | £195 |
-> | **Next box(s)** | [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ZNR\|ZNR]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M19\|M19]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/LCI\|LCI]] |
+> | **Next box(s)** | [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ZNR\|ZNR]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/LCI\|LCI]] |
 >
 > {G} **Infect**. Green infect — deathtouch bodies turn every point of combat damage into two poison. Play cheap deathtouch (Ambush Viper, Moss Viper, Gnarlwood Dryad, Sedge Scorpion, Deadly Recluse, Fang of Shigeki, Wasteland Viper) and give them evasion or extra hits (Rancor, Trollied, Questing Beast, Ohran Frostfang). Proliferate (Evolution Sage, Contagion Clasp, Karn's Bastion, Thirsting Roots, Pollenbright Druid, Bloated Contaminator, Planewide Celebration) finishes from 2–4 poison. Pump Fynn himself only when the table is open; otherwise swarm. Bite Down and fight spells double as removal that still uses deathtouch. Ramp is dorks, not eight-mana haymakers.
 >
@@ -526,7 +526,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 4,371 |
 > | **Rank** | 648 |
 > | **Finish** | £271 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/MOM\|MOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DSK\|DSK]] |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DSK\|DSK]] |
 >
 > {R}{G} **+1/+1 beatdown**. Gruul combat — at each combat Halana and Alena dump their power as +1/+1 and haste onto another creature. Grow the pair (Hardened Scales, Branching Evolution, The Ozolith, Innkeeper's Talent) so the pump is 6–10, then suit the pumped body with trample and protection (Rancor, Sword of Feast and Famine, Swiftfoot Boots). Extra combats (Aggravated Assault, Combat Celebrant, Moraug, Fury of Akoum) fire the trigger again. Fight and bite (Bite Down, Hunter's Insight) are removal that still uses the huge creature. Ramp into the 4-drop commander, then never miss a combat.
 >
@@ -617,7 +617,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Rhythm of the Wild` | {1}{R}{G} | Enchantment | £3.04 |
 > | `mtg:Terrasymbiosis` | {2}{G} | Enchantment | £9.66 |
 > | `mtg:Tribute to the World Tree` | {G}{G}{G} | Enchantment | £10.14 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Ozolith, the Shattered Spire` | {1}{G} | Artifact | £3.46 |
 > | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
 > | `mtg:Sword of Feast and Famine` | {3} | Artifact — Equipment | £21.77 |
@@ -664,7 +664,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 1,894 |
 > | **Rank** | 1,158 |
 > | **Finish** | £366 |
-> | **Next box(s)** | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DOM\|DOM]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/WAR\|WAR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] |
+> | **Next box(s)** | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DOM\|DOM]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] |
 >
 > {U} **Tap-draw wizards**. {T}: draw three. Bounce himself to recast. The line is untap (Illusionist's Bracers, Thousand-Year Elixir, Training Grounds, Magewright's Stone, Pemmin's Aura, Freed from the Real) so you draw 6–9 a turn, plus Wizard tribal payoffs (Azami, Lady of Scrolls, Patron Wizard, Naban, Naru Meha). Reliquary Tower. Cheap counters to protect the tap. This is not a generic mono-blue control list with Arcanis as a 6-drop — if you cannot untap him, the card is a bad Consecrated Sphinx.
 >
@@ -744,7 +744,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Teferi's Ageless Insight` | {2}{U}{U} | Enchantment | £2.92 |
 > | `mtg:Training Grounds` | {U} | Enchantment | £3.88 |
 > | `mtg:Wizard Class` | {U} | Enchantment — Class | £1.35 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Decanter of Endless Water` | {3} | Artifact | £2.25 |
 > | `mtg:Illusionist's Bracers` | {2} | Artifact — Equipment | £3.72 |
 > | `mtg:Mind Stone` | {2} | Artifact | — |
@@ -885,12 +885,12 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Phalanx Leader` | {W}{W} | Creature — Human Soldier | £0.09 |
 > | `mtg:Shaile, Dean of Radiance` | {1}{W} | Creature — Bird Cleric | £0.16 |
 > | `mtg:Stirring Hopesinger` | {2}{W} | Creature — Bird Bard | £0.28 |
-> | `mtg:Sun Titan` | {4}{W}{W} | Creature — Giant | £0.27 |
+> | `mtg:Sun Titan` 🟡 | {4}{W}{W} | Creature — Giant | £0.27 |
 > | `mtg:Tormented Hero` | {B} | Creature — Human Warrior | £0.11 |
 > | `mtg:Whiskervale Forerunner` | {3}{W} | Creature — Mouse Bard | £0.20 |
 > | `mtg:Yathan Tombguard` | {2}{B} | Creature — Human Warrior | £0.11 |
 > | `mtg:Anguished Unmaking` | {1}{W}{B} | Instant | £1.68 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Damning Verdict` | {3}{W}{W} | Sorcery | £4.76 |
 > | `mtg:Honor` | {W} | Sorcery | £0.18 |
 > | `mtg:Practiced Offense` | {2}{W} | Sorcery | £0.71 |
@@ -910,7 +910,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Hall of Oracles` | — | Land | £0.15 |
 > | `mtg:Isolated Chapel` | — | Land | £0.47 |
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Shineshadow Snarl` | — | Land | £0.24 |
 > | `mtg:Tainted Field` | — | Land | £0.53 |
 > | `mtg:Turbulent Moor` | — | Land — Plains Swamp | £5.13 |
@@ -1075,7 +1075,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 1,362 |
 > | **Rank** | 1,392 |
 > | **Finish** | £322 |
-> | **Next box(s)** | [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/KHM\|KHM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/TLA\|TLA]] |
+> | **Next box(s)** | [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/EOE\|EOE]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/KHM\|KHM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {R} **Spellslinger copy**. Red spellslinger that copies instants and sorceries by sacrificing an artifact. Run cheap rocks and Treasures (Sol Ring, Ruby Medallion, Professional Face-Breaker, Storm-Kiln Artist, Big Score, Unexpected Windfall) as copy fodder, then a density of burn, ritual, and card-advantage spells (Lightning Bolt, Guttersnipe, Electrodominance, Reckless Impulse, Wrenn's Resolve, Light Up the Stage). Mizzix's Mastery and Past in Flames recast the yard. The copy trigger is the win — do not dilute with vanilla creatures. A couple of artifact creatures that make mana or Treasures are the only bodies besides Mica.
 >
@@ -1159,7 +1159,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Wrenn's Resolve` | {1}{R} | Sorcery | £1.62 |
 > | `mtg:Alchemist's Talent` | {3}{R} | Enchantment — Class | £7.84 |
 > | `mtg:Weapons Manufacturing` | {1}{R} | Enchantment | £2.30 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Brass's Tunnel-Grinder` | {2}{R} | Artifact | £2.41 |
 > | `mtg:Cursed Recording` | {2}{R}{R} | Artifact | £0.15 |
 > | `mtg:Ichor Wellspring` | {2} | Artifact | £0.66 |
@@ -1212,7 +1212,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 662 |
 > | **Rank** | 1,929 |
 > | **Finish** | £346 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FDN\|FDN]] [MH1](https://scryfall.com/sets/mh1) [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH1\|MH1]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TLA\|TLA]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {B} **1-power aristocrats**. Mono-black drain on 1-power/1-toughness deaths. Flood 1/1 tokens (Nested Ghoul, Bitterblossom, Dreadhorde Invasion, Slaughter Specialist, Ophiomancer) and sacrifice them (Viscera Seer, Ashnod's Altar, Carrion Feeder, Village Rites) so Arnyn hits for 2 life each time. Blood Artist, Zulaport Cutthroat, and Bastion of Remembrance multiply the drain. Keep the creatures actually 1 power — giant demons miss the trigger. Recur with Reanimate, Phyrexian Reclamation, and Gravepact-style locks if the table tries to wipe the tokens.
 >
@@ -1271,11 +1271,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Nether Traitor` | {B}{B} | Creature — Spirit | £0.97 |
 > | `mtg:Nine-Lives Familiar` | {1}{B}{B} | Creature — Cat | £1.22 |
 > | `mtg:Ophiomancer` | {2}{B} | Creature — Human Shaman | £0.95 |
-> | `mtg:Pawn of Ulamog` | {1}{B}{B} | Creature — Vampire Shaman | £0.94 |
+> | `mtg:Pawn of Ulamog` 🟡 | {1}{B}{B} | Creature — Vampire Shaman | £0.94 |
 > | `mtg:Pitiless Plunderer` | {3}{B} | Creature — Human Pirate | £3.16 |
 > | `mtg:Priest of Forgotten Gods` | {1}{B} | Creature — Human Cleric | £0.67 |
 > | `mtg:Rat King, Pale Piper` | {3}{B} | Creature — Rat Avatar | £0.28 |
-> | `mtg:Reassembling Skeleton` | {1}{B} | Creature — Skeleton Warrior | £0.20 |
+> | `mtg:Reassembling Skeleton` 🟡 | {1}{B} | Creature — Skeleton Warrior | £0.20 |
 > | `mtg:Sephiroth, Fabled SOLDIER` | {2}{B} | Creature — Human Avatar Soldier | £24.36 |
 > | `mtg:Shambling Ghast` | {B} | Creature — Zombie | £0.84 |
 > | `mtg:Sifter of Skulls` | {3}{B} | Creature — Eldrazi | £0.54 |
@@ -1286,7 +1286,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Warren Soultrader` | {2}{B} | Creature — Zombie Goblin Wizard | £12.28 |
 > | `mtg:Woe Strider` | {2}{B} | Creature — Horror | £0.18 |
-> | `mtg:Zulaport Cutthroat` | {1}{B} | Creature — Human Rogue Ally | £1.26 |
+> | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Lolth, Spider Queen` | {3}{B}{B} | Planeswalker — Lolth | £5.24 |
 > | `mtg:Corrupted Conviction` | {B} | Instant | £0.29 |
 > | `mtg:Dark Ritual` | {B} | Instant | £7.63 |
@@ -1317,7 +1317,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Crypt of Agadeem` | — | Land | £2.67 |
 > | `mtg:Demolition Field` | — | Land | £0.22 |
 > | `mtg:High Market` | — | Land | £0.64 |
-> | `mtg:Mortuary Mire` | — | Land | £0.21 |
+> | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Phyrexian Tower` | — | Land | £24.29 |
@@ -1349,7 +1349,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 436 |
 > | **Rank** | 2,251 |
 > | **Finish** | £219 |
-> | **Next box(s)** | [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/OTJ\|OTJ]] [MH1](https://scryfall.com/sets/mh1) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] |
+> | **Next box(s)** | [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] |
 >
 > {U}{G} **Landfall prepare**. Landfall prepares Tam; Deep Sight draws and gains 1. The line is extra lands (Growth Spiral, Explore, Cultivate, Azusa, Dryad of the Ilysian Grove, Oracle of Mul Daya) so you prepare every turn and copy Deep Sight for two cards. Simic landfall payoffs (Tatyova in the 99, Tireless Provisioner, Lotus Cobra, Scute Swarm, Avenger of Zendikar) turn the same lands into the win. This is Tatyova-lite with a prepared cantrip — keep the spell count honest so Deep Sight copies matter, but the engine is lands.
 >
@@ -1428,7 +1428,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
 > | `mtg:Planar Genesis` | {G}{U} | Instant | £0.32 |
 > | `mtg:Broken Bond` | {1}{G} | Sorcery | £0.27 |
-> | `mtg:Cultivate` | {2}{G} | Sorcery | £0.37 |
+> | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
 > | `mtg:Lessons from Life` | {2}{G}{U} | Sorcery | £0.16 |
 > | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
@@ -1485,7 +1485,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 65 |
 > | **Rank** | 3,618 |
 > | **Finish** | £147 |
-> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] |
+> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] |
 >
 > {B}{R} **Sac amass**. ETB: sac a creature, Bolg fights, excess damage amasses Goblins. The line is sacrifice fodder (tokens, Reassembling Skeleton, Viscera Seer) and blink/reanimate so Bolg's ETB fires again (Conjurer's Closet is off-color — use sac-and-return, Mimic Vat, Whip of Erebos, Persist). Amass wants the Army to live; anthems and Menace finish. Goblin token makers (Krenko, Mob Boss, Goblin Instigator, Legion Warboss) both feed the sac and grow the Army. This is not a clone deck despite the EDHREC tag — it is sac, fight, amass.
 >
@@ -1558,7 +1558,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Krenko, Tin Street Kingpin` | {2}{R} | Creature — Goblin | £1.74 |
 > | `mtg:Legion Warboss` | {2}{R} | Creature — Goblin Soldier | £0.34 |
 > | `mtg:Moria Marauder` | {R}{R} | Creature — Goblin Warrior | £0.52 |
-> | `mtg:Reassembling Skeleton` | {1}{B} | Creature — Skeleton Warrior | £0.20 |
+> | `mtg:Reassembling Skeleton` 🟡 | {1}{B} | Creature — Skeleton Warrior | £0.20 |
 > | `mtg:Siege-Gang Commander` | {3}{R}{R} | Creature — Goblin | £0.16 |
 > | `mtg:Skirk Prospector` | {R} | Creature — Goblin | £0.16 |
 > | `mtg:Sling-Gang Lieutenant` | {3}{B} | Creature — Goblin | £0.23 |
@@ -1586,7 +1586,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Shared Animosity` | {2}{R} | Enchantment | £2.43 |
 > | `mtg:Ashnod's Altar` | {3} | Artifact | £11.75 |
 > | `mtg:Crude Bent Blade` | {2}{B} | Artifact — Equipment | £0.04 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Barad-dûr` | — | Land | £0.90 |
 > | `mtg:Bloodstained Mire` | — | Land | £14.79 |
 > | `mtg:Boiling Rock Prison` | — | Land | £0.08 |
@@ -1599,7 +1599,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
 > | `mtg:Mount Doom` | — | Land | £6.25 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Rakdos Carnarium` | — | Land | £0.21 |
 > | `mtg:Riveteers Overlook` | — | Land | £0.16 |
 > | `mtg:Smoldering Marsh` | — | Land — Swamp Mountain | £0.25 |
@@ -1625,7 +1625,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 9,262 |
 > | **Rank** | 263 |
 > | **Finish** | £235 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [MH1](https://scryfall.com/sets/mh1) [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/SOS\|SOS]] |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MH1\|MH1]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/SOS\|SOS]] |
 >
 > {U}{G} **Landfall draw**. Every landfall: gain 1, draw 1. The line is extra lands per turn (Azusa, Exploration, Dryad of the Ilysian Grove, Oracle of Mul Daya, Azusa's cousins, Growth Spiral, Explore, Cultivate, Nature's Lore) and bounce lands (Simic Growth Chamber, Guildless Commons) to replay landfall. Crucible / Ramunap plus fetches. Win with Laboratory Maniac / Jace, or with a huge board from the extra land drops (Avenger of Zendikar, Rampaging Baloths, Scute Swarm). Keep Tatyova alive. This is a lands-matter value deck, not a counterspell control deck that happens to run 38 forests.
 >
@@ -1703,7 +1703,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
 > | `mtg:Negate` | {1}{U} | Instant | £0.06 |
 > | `mtg:Broken Bond` | {1}{G} | Sorcery | £0.27 |
-> | `mtg:Cultivate` | {2}{G} | Sorcery | £0.37 |
+> | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
 > | `mtg:Kodama's Reach` | {2}{G} | Sorcery — Arcane | £1.15 |
 > | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
@@ -1763,7 +1763,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 1,190 |
 > | **Rank** | 1,505 |
 > | **Finish** | £236 |
-> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FIN\|FIN]] [XLN](https://scryfall.com/sets/xln) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TDM\|TDM]] |
+> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FIN\|FIN]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/TDM\|TDM]] |
 >
 > {U}{R} **Izzet spells**. Sanar enters prepared, taps for a Treasure if you've cast an instant or sorcery, and Wild Idea tutors a spell. The line is spell density (cantrips, rituals, copy) so the Treasure is on every turn, then spend Treasures on a copied haymaker. Guttersnipe, Storm-Kiln Artist, Young Pyromancer, and Talrand pay you for the spells. The prepared copy of Sanar is extra Treasure. Do not splash a creature-combat deck — every nonland should cast or pay you for casting. Wild Idea is the tutor; protect it with cheap counters.
 >
@@ -1852,7 +1852,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Artist's Talent` | {1}{R} | Enchantment — Class | £6.31 |
 > | `mtg:Case of the Ransacked Lab` | {2}{U} | Enchantment — Case | £0.58 |
 > | `mtg:Mystic Remora` | {U} | Enchantment | £10.22 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Izzet Signet` | {2} | Artifact | £0.42 |
 > | `mtg:Primal Amulet` | {4} | Artifact | £6.75 |
 > | `mtg:Arid Mesa` | — | Land | £22.72 |
@@ -1980,7 +1980,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Cursed Mirror` | {2}{R} | Artifact | £0.43 |
 > | `mtg:Fire Diamond` | {2} | Artifact | £0.25 |
 > | `mtg:Helm of the Host` | {4} | Artifact — Equipment | £3.57 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Mind Stone` | {2} | Artifact | — |
 > | `mtg:Sensei's Divining Top` | {1} | Artifact | £21.33 |
 > | `mtg:Strionic Resonator` | {2} | Artifact | £6.32 |
@@ -2105,7 +2105,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Veinwitch Coven` | {2}{B} | Creature — Vampire Warlock | £0.28 |
 > | `mtg:Vito, Thorn of the Dusk Rose` | {2}{B} | Creature — Vampire Cleric | £6.95 |
 > | `mtg:Witch of the Moors` | {3}{B}{B} | Creature — Human Warlock | £0.38 |
-> | `mtg:Zulaport Cutthroat` | {1}{B} | Creature — Human Rogue Ally | £1.26 |
+> | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Ob Nixilis of the Black Oath` | {3}{B}{B} | Planeswalker — Nixilis | £0.40 |
 > | `mtg:Archenemy's Charm` | {B}{B}{B} | Instant | £0.86 |
 > | `mtg:Consuming Corruption` | {B}{B} | Instant | £0.16 |
@@ -2141,7 +2141,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Demolition Field` | — | Land | £0.22 |
 > | `mtg:High Market` | — | Land | £0.64 |
 > | `mtg:Maestros Theater` | — | Land | £0.20 |
-> | `mtg:Mortuary Mire` | — | Land | £0.21 |
+> | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Phyrexian Tower` | — | Land | £24.29 |
@@ -2177,7 +2177,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 1,226 |
 > | **Rank** | 1,477 |
 > | **Finish** | £397 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/LTR\|LTR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] |
 >
 > {B} **Skeleton reanimate**. Ozox dies on purpose. Jumblebones comes in, and when Jumblebones leaves you get Ozox back to hand. The line is sacrifice outlets (Viscera Seer, Ashnod's Altar, Carrion Feeder, Altar of Dementia) plus leave-the-battlefield on Jumblebones (further sacs, blink-to-grave, board wipes you cause) to loop the commander. Aristocrat drains (Blood Artist, Zulaport Cutthroat, Bastion of Remembrance) turn each loop into damage. Reanimate and Unearth effects keep the skeleton theme honest. Do not play a generic demon reanimator — the card is a two-body loop, not Gray Merchant once.
 >
@@ -2231,7 +2231,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Paragon of Open Graves` | {3}{B} | Creature — Skeleton Warrior | £0.16 |
 > | `mtg:Persistent Specimen` | {B} | Creature — Skeleton | £0.12 |
 > | `mtg:Pitiless Plunderer` | {3}{B} | Creature — Human Pirate | £3.16 |
-> | `mtg:Reassembling Skeleton` | {1}{B} | Creature — Skeleton Warrior | £0.20 |
+> | `mtg:Reassembling Skeleton` 🟡 | {1}{B} | Creature — Skeleton Warrior | £0.20 |
 > | `mtg:Sanitarium Skeleton` | {B} | Creature — Skeleton | £0.06 |
 > | `mtg:Skeleton Crew` | {3}{B} | Creature — Skeleton Pirate | £0.30 |
 > | `mtg:Tenacious Dead` | {B} | Creature — Skeleton Warrior | £0.16 |
@@ -2239,7 +2239,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Underworld Sentinel` | {3}{B}{B} | Creature — Skeleton Soldier | £0.32 |
 > | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Warren Soultrader` | {2}{B} | Creature — Zombie Goblin Wizard | £12.28 |
-> | `mtg:Zulaport Cutthroat` | {1}{B} | Creature — Human Rogue Ally | £1.26 |
+> | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Corrupted Conviction` | {B} | Instant | £0.29 |
 > | `mtg:Dark Ritual` | {B} | Instant | £7.63 |
 > | `mtg:Eviscerator's Insight` | {1}{B} | Instant | £0.23 |
@@ -2278,10 +2278,10 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Castle Locthwain` | — | Land | £3.19 |
 > | `mtg:Cavern of Souls` | — | Land | £35.41 |
 > | `mtg:High Market` | — | Land | £0.64 |
-> | `mtg:Mortuary Mire` | — | Land | £0.21 |
+> | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Phyrexian Tower` | — | Land | £24.29 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Spawning Pool` | — | Land | £0.28 |
@@ -2314,7 +2314,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 929 |
 > | **Rank** | 1,693 |
 > | **Finish** | £330 |
-> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) |
+> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/NEO\|NEO]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {R}{G} **Landfall combat**. ETB fetches a land, then every landfall pumps another creature +2/+2 and trample. The line is extra lands (Azusa, Oracle of Mul Daya, Exploration, Dryad of the Ilysian Grove, Cultivate, Nature's Lore, Three Visits, Harrow, Springbloom Druid) and a trampler that can eat the pump (Ruby, Questing Beast, a land-creature). Crucible of Worlds / Ramunap Excavator plus fetchables replay landfall. Keep the pumped creature alive (Heroic Intervention, wrap in trample). This is not a lands-in-the-yard combo deck — it is combat with three landfalls a turn.
 >
@@ -2377,7 +2377,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Springbloom Druid` | {2}{G} | Creature — Elf Druid | £0.47 |
 > | `mtg:Springheart Nantuko` | {1}{G} | Creature — Insect Monk | £3.59 |
 > | `mtg:Tannuk, Memorial Ensign` | {1}{R}{G} | Creature — Kavu Pilot | £0.60 |
-> | `mtg:Tifa Lockhart` | {1}{G} | Creature — Human Monk | £1.72 |
+> | `mtg:Tifa Lockhart` 🟡 | {1}{G} | Creature — Human Monk | £1.72 |
 > | `mtg:Tireless Provisioner` | {2}{G} | Creature — Elf Scout | £2.42 |
 > | `mtg:Tireless Tracker` | {2}{G} | Creature — Human Scout | £0.23 |
 > | `mtg:Traveling Chocobo` | {2}{G} | Creature — Bird | £15.68 |
@@ -2389,7 +2389,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Call the Mountain Chocobo` | {3}{R} | Sorcery | £0.03 |
 > | `mtg:Choco-Comet` | {X}{R}{R} | Sorcery | £0.09 |
 > | `mtg:Chocobo Kick` | {1}{G} | Sorcery | £0.08 |
-> | `mtg:Cultivate` | {2}{G} | Sorcery | £0.37 |
+> | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
 > | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Sylvan Scrying` | {1}{G} | Sorcery | £0.22 |
@@ -2452,7 +2452,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 1,949 |
 > | **Rank** | 1,141 |
 > | **Finish** | £271 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/WOE\|WOE]] |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/WOE\|WOE]] |
 >
 > {W}{B} **Lifegain aristocrats**. Orzhov aristocrats — the identity is cheap sac fodder, not random clerics. Ayli is the only card that sacs a creature for life equal to its toughness ({1}) and, once you are +10, for an exile ({1}{W}{B}). Viscera Seer scries, Carrion Feeder grows, Ashnod's Altar makes mana, Village Rites draws, Hidden Stockpile scries and makes a Servo: none of those pay toughness in life. Without disposable bodies those activations eat your Soul Warden and the deck stalls. Token engines are the fuel, several deep so you hit one: Ophiomancer (deathtouch Snake each upkeep), Bitterbloom Bearer and Bitterblossom (Faerie each upkeep), Jadar (decayed Zombie each end step), Lingering Souls / Elspeth, Sun's Champion / Castle Ardenvale (piles of 1/1s), Reassembling Skeleton and Bloodghast (the same body every turn), Infestation Sage and Resolute Reinforcements (two bodies for two mana). Pawn of Ulamog and Sifter of Skulls replace a nontoken you just sacced; Teysa, Orzhov Scion turns black deaths into Spirits. Soul Warden, Soul's Attendant, Hinterland Sanctifier, and Authority of the Consuls gain life when those tokens enter, so +10 comes from ETBs, not from sacing your engines. Then Ayli exiles a nonland for a 1/1. Death payoffs (Zulaport Cutthroat, Cruel Celebrant, Bastion of Remembrance, Blood Artist) drain on every sac. Close with Aetherflux Reservoir or Vito / Sanguine Bond. Recur the engines with Sun Titan and Phyrexian Reclamation.
 >
@@ -2509,23 +2509,23 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Kambal, Consul of Allocation` | {1}{W}{B} | Creature — Human Advisor | £5.22 |
 > | `mtg:Karlov of the Ghost Council` | {W}{B} | Creature — Spirit Advisor | £9.09 |
 > | `mtg:Ophiomancer` | {2}{B} | Creature — Human Shaman | £0.95 |
-> | `mtg:Pawn of Ulamog` | {1}{B}{B} | Creature — Vampire Shaman | £0.94 |
+> | `mtg:Pawn of Ulamog` 🟡 | {1}{B}{B} | Creature — Vampire Shaman | £0.94 |
 > | `mtg:Pitiless Plunderer` | {3}{B} | Creature — Human Pirate | £3.16 |
 > | `mtg:Priest of Forgotten Gods` | {1}{B} | Creature — Human Cleric | £0.67 |
-> | `mtg:Reassembling Skeleton` | {1}{B} | Creature — Skeleton Warrior | £0.20 |
+> | `mtg:Reassembling Skeleton` 🟡 | {1}{B} | Creature — Skeleton Warrior | £0.20 |
 > | `mtg:Rhox Faithmender` | {3}{W} | Creature — Rhino Monk | £1.71 |
 > | `mtg:Serra Ascendant` | {W} | Creature — Human Monk | £20.23 |
 > | `mtg:Sifter of Skulls` | {3}{B} | Creature — Eldrazi | £0.54 |
-> | `mtg:Soul Warden` | {W} | Creature — Human Cleric | £1.86 |
+> | `mtg:Soul Warden` 🟡 | {W} | Creature — Human Cleric | £1.86 |
 > | `mtg:Soul's Attendant` | {W} | Creature — Human Cleric | £4.16 |
 > | `mtg:Speaker of the Heavens` | {W} | Creature — Human Cleric | £0.72 |
-> | `mtg:Suture Priest` | {1}{W} | Creature — Phyrexian Cleric | £2.98 |
+> | `mtg:Suture Priest` 🟡 | {1}{W} | Creature — Phyrexian Cleric | £2.98 |
 > | `mtg:Teysa, Orzhov Scion` | {1}{W}{B} | Creature — Human Advisor | £1.34 |
 > | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Vito, Thorn of the Dusk Rose` | {2}{B} | Creature — Vampire Cleric | £6.95 |
 > | `mtg:Woe Strider` | {2}{B} | Creature — Horror | £0.18 |
 > | `mtg:Yahenni, Undying Partisan` | {2}{B} | Creature — Aetherborn Vampire | £0.23 |
-> | `mtg:Zulaport Cutthroat` | {1}{B} | Creature — Human Rogue Ally | £1.26 |
+> | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Anguished Unmaking` | {1}{W}{B} | Instant | £1.68 |
 > | `mtg:Despark` | {W}{B} | Instant | £0.34 |
 > | `mtg:Generous Gift` | {2}{W} | Instant | £0.77 |
@@ -2547,7 +2547,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Phyrexian Reclamation` | {B} | Enchantment | £2.43 |
 > | `mtg:Aetherflux Reservoir` | {4} | Artifact | £12.26 |
 > | `mtg:Ashnod's Altar` | {3} | Artifact | £11.75 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
 > | `mtg:Well of Lost Dreams` | {4} | Artifact | £1.30 |
 > | `mtg:Bojuka Bog` | — | Land | £1.35 |
@@ -2559,7 +2559,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:High Market` | — | Land | £0.64 |
 > | `mtg:Isolated Chapel` | — | Land | £0.47 |
 > | `mtg:Marsh Flats` | — | Land | £21.40 |
-> | `mtg:Mortuary Mire` | — | Land | £0.21 |
+> | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Phyrexian Tower` | — | Land | £24.29 |
 > | `mtg:Radiant Fountain` | — | Land | £0.31 |
@@ -2775,7 +2775,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Stoneforge Mystic` | {1}{W} | Creature — Kor Artificer | £15.41 |
 > | `mtg:Gods Willing` | {W} | Instant | £0.18 |
 > | `mtg:Sejiri Shelter` | {1}{W} | Instant | £1.68 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Teferi's Protection` | {2}{W} | Instant | £31.39 |
 > | `mtg:Farewell` | {4}{W}{W} | Sorcery | £3.75 |
 > | `mtg:Open the Armory` | {1}{W} | Sorcery | £1.87 |
@@ -2794,7 +2794,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Smuggler's Share` | {2}{W} | Enchantment | £7.57 |
 > | `mtg:Solid Footing` | {W} | Enchantment — Aura | £0.14 |
 > | `mtg:Spirit Mantle` | {1}{W} | Enchantment — Aura | £0.42 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Blackblade Reforged` | {2} | Artifact — Equipment | £1.05 |
 > | `mtg:Champion's Helm` | {3} | Artifact — Equipment | £1.23 |
 > | `mtg:Colossus Hammer` | {1} | Artifact — Equipment | £1.47 |
@@ -2803,7 +2803,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Hedron Matrix` | {4} | Artifact — Equipment | £0.13 |
 > | `mtg:Inquisitor's Flail` | {2} | Artifact — Equipment | £0.59 |
 > | `mtg:Lavaspur Boots` | {1} | Artifact — Equipment | £1.08 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Loxodon Warhammer` | {3} | Artifact — Equipment | £0.54 |
 > | `mtg:Mask of Avacyn` | {2} | Artifact — Equipment | £0.80 |
 > | `mtg:Mask of Memory` | {2} | Artifact — Equipment | £0.25 |
@@ -2866,7 +2866,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 402 |
 > | **Rank** | 2,304 |
 > | **Finish** | £285 |
-> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/MH3\|MH3]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) |
+> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {U} **Big-mana stun**. Noncreature spells: at 4 mana spent, stun a creature; at 8, eight +1/+1 on Ultros. The line is ramp into X-spells and 4+ MV noncreatures (Sink into Stupor is cheap — pair with Expropriate-budget, Treasure Cruise after delving, Breach the Multiverse off-color; stay blue: Flow of Knowledge, Temporal Manipulation-budget extras, Rise from the Tides, Storm of Saruman, Aetherize as interaction that still counts). Rocks (Sol Ring, Thran Dynamo, Mind Stone) make the 4-mana clause trivial. Win by stunning the board then connecting with a huge Ultros, or with a copied extra-turn/draw spell. Creatures are few.
 >
@@ -2949,7 +2949,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Rhystic Study` | {2}{U} | Enchantment | £36.46 |
 > | `mtg:Shark Typhoon` | {5}{U} | Enchantment | £1.27 |
 > | `mtg:Verity Circle` | {2}{U} | Enchantment | £0.43 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Astrologian's Planisphere` | {1}{U} | Artifact — Equipment | £0.22 |
 > | `mtg:Ether` | {3}{U} | Artifact | £0.07 |
 > | `mtg:Everflowing Chalice` | {0} | Artifact | £0.23 |
@@ -3003,7 +3003,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 4 |
 > | **Rank** | 6,129 |
 > | **Finish** | £201 |
-> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [SNC](https://scryfall.com/sets/snc) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/MOM\|MOM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/FIN\|FIN]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] |
+> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [SNC](https://scryfall.com/sets/snc) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/MOM\|MOM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {R} **Storied untap**. Doesn't untap unless Storied is on. The line is turn Storied on by turn three (rocks, cheap legendaries, Sagas: The Elder Dragon War, Fable of the Mirror-Breaker, The Reaver Cleaver, three artifacts) so Bombur actually untaps, then use him as a dwarf engine with the rest of the dwarf package. If Storied is off, the commander is a vanilla tapped body — every deck choice should make Storied easy. Dwarf payoffs and treasure (Magda) once he's awake.
 >
@@ -3083,7 +3083,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Vandalblast` | {R} | Sorcery | £1.07 |
 > | `mtg:Fable of the Mirror-Breaker` | {2}{R} | Enchantment — Saga | £7.62 |
 > | `mtg:Impact Tremors` | {1}{R} | Enchantment | — |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Brass's Tunnel-Grinder` | {2}{R} | Artifact | £2.41 |
 > | `mtg:Brotherhood Regalia` | {2} | Artifact — Equipment | £7.52 |
 > | `mtg:Candy Trail` | {1} | Artifact — Food Clue | £2.04 |
@@ -3093,7 +3093,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Instant Ramen` | {2} | Artifact — Food | £0.09 |
 > | `mtg:Krark-Clan Ironworks` | {4} | Artifact | £8.53 |
 > | `mtg:Lembas` | {2} | Artifact — Food | £1.33 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Loki's Scepter` | {2}{R} | Artifact | £3.45 |
 > | `mtg:Melded Moxite` | {1}{R} | Artifact | £0.16 |
 > | `mtg:Mind Stone` | {2} | Artifact | — |
@@ -3243,7 +3243,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
 > | `mtg:Overgrown Tomb` | — | Land — Swamp Forest | — |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Secluded Courtyard` | — | Land | £0.20 |
 > | `mtg:Skemfar Elderhall` | — | Land | £0.13 |
@@ -3358,7 +3358,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Diamond Pick-Axe` | {R} | Artifact — Equipment | £0.38 |
 > | `mtg:Dwarven Mattock` | {2} | Artifact — Equipment | £0.03 |
 > | `mtg:Hammer of Nazahn` | {4} | Artifact — Equipment | £9.60 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Mask of Memory` | {2} | Artifact — Equipment | £0.25 |
 > | `mtg:Orcrist, Goblin-cleaver` | {3} | Artifact — Equipment | £7.73 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
@@ -3381,9 +3381,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
-> | `mtg:Rugged Prairie` | — | Land | £0.32 |
+> | `mtg:Rugged Prairie` 🟡 | — | Land | £0.32 |
 > | `mtg:Rustvale Bridge` | — | Land | £0.16 |
 > | `mtg:Secluded Courtyard` | — | Land | £0.20 |
 > | `mtg:Sundown Pass` | — | Land | £1.37 |
@@ -3550,7 +3550,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 346 |
 > | **Rank** | 2,406 |
 > | **Finish** | £124 |
-> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/STX\|STX]] [MID](https://scryfall.com/sets/mid) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/TLA\|TLA]] |
+> | **Next box(s)** | [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/STX\|STX]] [MID](https://scryfall.com/sets/mid) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {W}{R} **Graveyard counters**. Whenever cards leave the graveyard, Kirol prepares; Pack a Punch mills, then two +1/+1 and trample. The line is exile-from-yard and return-from-yard (Helping Hand, Sevinne's Reclamation, Animate Dead is off-color — Boros: Sevinne, Underworld Breach-budget, Paladin Class, Sun Titan, Teshar, Ancestor's Prophet, Scrapwork Mutt, Cathartic Reunion loot into recast) so the prepare trigger is on every turn. Then copy Pack a Punch for a 4-counter trampler. Boros recursion and artifact-in-yard loops beat a random aggro pile. Lightning Greaves on the pumped body.
 >
@@ -3616,7 +3616,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Spirit of Resilience` | {2}{R} | Creature — Spirit Warrior | £0.22 |
 > | `mtg:Squee, Goblin Nabob` | {2}{R} | Creature — Goblin | £0.18 |
 > | `mtg:Stirring Hopesinger` | {2}{W} | Creature — Bird Bard | £0.28 |
-> | `mtg:Sun Titan` | {4}{W}{W} | Creature — Giant | £0.27 |
+> | `mtg:Sun Titan` 🟡 | {4}{W}{W} | Creature — Giant | £0.27 |
 > | `mtg:Tersa Lightshatter` | {2}{R} | Creature — Orc Wizard | £0.73 |
 > | `mtg:Teshar, Ancestor's Apostle` | {3}{W} | Creature — Bird Cleric | £0.16 |
 > | `mtg:Venerable Warsinger` | {1}{R}{W} | Creature — Spirit Cleric | £0.16 |
@@ -3626,7 +3626,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Deflecting Swat` | {2}{R} | Instant | £52.07 |
 > | `mtg:Electric Revelation` | {2}{R} | Instant | £0.21 |
 > | `mtg:Laughing Mad` | {2}{R} | Instant | £0.09 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Angelfire Ignition` | {1}{R}{W} | Sorcery | £0.38 |
 > | `mtg:Antiquities on the Loose` | {1}{W}{W} | Sorcery | £0.12 |
 > | `mtg:Cathartic Reunion` | {1}{R} | Sorcery | £0.10 |
@@ -3644,7 +3644,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Bag of Holding` | {1} | Artifact | £0.15 |
 > | `mtg:Brass's Tunnel-Grinder` | {2}{R} | Artifact | £2.41 |
 > | `mtg:Currency Converter` | {1} | Artifact | £0.83 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Matzalantli, the Great Door` | {3} | Artifact | £1.66 |
 > | `mtg:Perpetual Timepiece` | {2} | Artifact | £0.17 |
 > | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
@@ -3662,7 +3662,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mistveil Plains` | — | Land — Plains | £0.16 |
 > | `mtg:Pit of Offerings` | — | Land — Cave | £0.17 |
 > | `mtg:Radiant Summit` | — | Land — Mountain Plains | £0.27 |
-> | `mtg:Rugged Prairie` | — | Land | £0.32 |
+> | `mtg:Rugged Prairie` 🟡 | — | Land | £0.32 |
 > | `mtg:Sundown Pass` | — | Land | £1.37 |
 > | `mtg:Sunscorched Divide` | — | Land | £0.21 |
 > | `mtg:Turbulent Steppe` | — | Land — Mountain Plains | £4.43 |
@@ -3766,7 +3766,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
 > | `mtg:Path to Exile` | {W} | Instant | £1.16 |
 > | `mtg:Raise the Alarm` | {1}{W} | Instant | £0.06 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
 > | `mtg:Your Temple Is Under Attack` | {2}{W} | Instant | £0.53 |
 > | `mtg:Martial Coup` | {X}{W}{W} | Sorcery | £0.18 |
@@ -3775,7 +3775,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Glorious Anthem` | {1}{W}{W} | Enchantment | £0.21 |
 > | `mtg:History of Benalia` | {1}{W}{W} | Enchantment — Saga | £0.67 |
 > | `mtg:Honor of the Pure` | {1}{W} | Enchantment | £0.50 |
-> | `mtg:Intangible Virtue` | {1}{W} | Enchantment | £0.16 |
+> | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
 > | `mtg:Paladin Class` | {W} | Enchantment — Class | £0.42 |
 > | `mtg:Spear of Heliod` | {1}{W}{W} | Enchantment | £0.70 |
 > | `mtg:Horn of Gondor` | {3} | Artifact | £1.18 |
@@ -3798,7 +3798,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Pit of Offerings` | — | Land — Cave | £0.17 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
@@ -3906,7 +3906,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Hammer of Nazahn` | {4} | Artifact — Equipment | £9.60 |
 > | `mtg:Helm of the Host` | {4} | Artifact — Equipment | £3.57 |
 > | `mtg:Lavaspur Boots` | {1} | Artifact — Equipment | £1.08 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Mithril Coat` | {3} | Artifact — Equipment | £15.69 |
 > | `mtg:Ruby Medallion` | {2} | Artifact | £8.95 |
 > | `mtg:Shadowspear` | {1} | Artifact — Equipment | £21.00 |
@@ -4101,7 +4101,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 106 |
 > | **Rank** | 3,256 |
 > | **Finish** | £200 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/WAR\|WAR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {G} **Formidable aggro**. If the team has 8 power, something gains haste. The line is a dense 3–5 drop curve of 4-power bodies (Questing Beast, Pelt Collector into counters, Steel Leaf Champion, Old-Growth Troll) so Formidable is on from turn four. Pump (Rancor, Invigorating Hot Spring, Triumph of the Hordes as a closer) and extra attacks. Ramp dorks count toward the 8 power. Do not stall on 6-mana value creatures that miss the haste window. Fight spells keep the board clear for the attack.
 >
@@ -4196,7 +4196,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Meltstrider's Resolve` | {G} | Enchantment — Aura | £0.22 |
 > | `mtg:Rancor` | {G} | Enchantment — Aura | £0.92 |
 > | `mtg:Tribute to the World Tree` | {G}{G}{G} | Enchantment | £10.14 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
 > | `mtg:The Thanos-Copter` | {6} | Artifact — Vehicle | £0.82 |
 > | `mtg:Blighted Woodland` | — | Land | £0.22 |
@@ -4321,7 +4321,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Disenchant` | {1}{W} | Instant | £0.07 |
 > | `mtg:Expedite` | {R} | Instant | £0.22 |
 > | `mtg:Mana Tithe` | {W} | Instant | £0.34 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Thraben Charm` | {1}{W} | Instant | £0.43 |
 > | `mtg:Dwarven Reinforcements` | {3}{R} | Sorcery | £0.07 |
 > | `mtg:Blacksmith's Talent` | {R} | Enchantment — Class | £0.14 |
@@ -4336,7 +4336,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Gimli's Axe` | {2}{R} | Artifact — Equipment | £0.09 |
 > | `mtg:Hammer of Nazahn` | {4} | Artifact — Equipment | £9.60 |
 > | `mtg:Haunted Cloak` | {3} | Artifact — Equipment | £0.10 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Ancient Den` | — | Land | £1.34 |
 > | `mtg:Ash Barrens` | — | Land | £0.08 |
@@ -4349,7 +4349,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Escape Tunnel` | — | Land | £0.11 |
 > | `mtg:Forge of Heroes` | — | Land | £0.16 |
 > | `mtg:Great Furnace` | — | Land | £2.10 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Remote Farm` | — | Land | £0.65 |
 > | `mtg:Rustvale Bridge` | — | Land | £0.16 |
 > | `mtg:Sandstone Needle` | — | Land | £4.34 |
@@ -4467,7 +4467,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Sticky Fingers` | {R} | Enchantment — Aura | £0.21 |
 > | `mtg:Bloodthirsty Blade` | {2} | Artifact — Equipment | £0.16 |
 > | `mtg:Key to the City` | {2} | Artifact | £0.22 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Swiftfoot Boots` | {2} | Artifact — Equipment | — |
 > | `mtg:Whispersilk Cloak` | {3} | Artifact — Equipment | £1.12 |
@@ -4486,7 +4486,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Muraganda Raceway` | — | Land | £0.66 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
 > | `mtg:Smoldering Spires` | — | Land | £0.18 |
@@ -4595,7 +4595,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Lashwrithe` | {4} | Artifact — Equipment | £0.41 |
 > | `mtg:Lavaspur Boots` | {1} | Artifact — Equipment | £1.08 |
 > | `mtg:Leyline Axe` | {4} | Artifact — Equipment | £1.73 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Loxodon Warhammer` | {3} | Artifact — Equipment | £0.54 |
 > | `mtg:Mask of Griselbrand` | {1}{B}{B} | Artifact — Equipment | £0.34 |
 > | `mtg:Mithril Coat` | {3} | Artifact — Equipment | £15.69 |
@@ -4616,7 +4616,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Command Beacon` | — | Land | £6.58 |
 > | `mtg:Demolition Field` | — | Land | £0.22 |
 > | `mtg:Minas Morgul, Dark Fortress` | — | Land | £12.27 |
-> | `mtg:Mortuary Mire` | — | Land | £0.21 |
+> | `mtg:Mortuary Mire` 🟡 | — | Land | £0.21 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Phyrexian Tower` | — | Land | £24.29 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
@@ -4741,7 +4741,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Dwarven Hammer` | {2}{R} | Artifact — Equipment | £0.11 |
 > | `mtg:Dwarven Mattock` | {2} | Artifact — Equipment | £0.03 |
 > | `mtg:Hammer of Nazahn` | {4} | Artifact — Equipment | £9.60 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Orcrist, Goblin-cleaver` | {3} | Artifact — Equipment | £7.73 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
 > | `mtg:Sting, Bilbo's Sword` | {2} | Artifact — Equipment | £0.19 |
@@ -4759,9 +4759,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Great Hall of the Citadel` | — | Land | £0.10 |
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Radiant Summit` | — | Land — Mountain Plains | £0.27 |
-> | `mtg:Rugged Prairie` | — | Land | £0.32 |
+> | `mtg:Rugged Prairie` 🟡 | — | Land | £0.32 |
 > | `mtg:Sacred Foundry` | — | Land — Mountain Plains | — |
 > | `mtg:Secluded Courtyard` | — | Land | £0.20 |
 > | `mtg:Shinka, the Bloodsoaked Keep` | — | Land | £9.77 |
@@ -4860,7 +4860,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Rocky Rebuke` | {1}{G} | Instant | £0.09 |
 > | `mtg:Bumi's Feast Lecture` | {1}{G} | Sorcery — Lesson | £0.34 |
 > | `mtg:Cracked Earth Technique` | {4}{G} | Sorcery — Lesson | £0.90 |
-> | `mtg:Cultivate` | {2}{G} | Sorcery | £0.37 |
+> | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Earth Rumble` | {3}{G} | Sorcery | £0.12 |
 > | `mtg:Earthen Arms` | {1}{G} | Sorcery | £0.08 |
 > | `mtg:Emergent Sequence` | {1}{G} | Sorcery | £0.17 |
@@ -4927,7 +4927,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 1,545 |
 > | **Rank** | 1,296 |
 > | **Finish** | £387 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/AFR\|AFR]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MOM\|MOM]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/M20\|M20]] [MH2](https://scryfall.com/sets/mh2) [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/AFR\|AFR]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/M20\|M20]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {W} **Angel tribal**. Angels get +1/+1 and lifelink; Lyra has flying, first strike, lifelink. The line is Angel density (Bishop of Wings, Giada, Font of Hope, Resplendent Angel, Righteous Valkyrie, Enduring Angel, Youthful Valkyrie, Angel of Vitality, Sephara, Sky's Blade) plus lifegain payoffs that still serve Angels (Ajani's Pridemate, Speaker of the Heavens, Cleric Class). Token Angels (Sigarda's Splendor, Elspeth) count. Ramp is white rocks and Land Tax, not green. Do not splash Soldiers or Cats — the anthem only hits Angels.
 >
@@ -4977,7 +4977,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Enduring Angel` | {2}{W}{W}{W} | Creature — Angel | £1.05 |
 > | `mtg:Exemplar of Light` | {2}{W}{W} | Creature — Angel | £0.59 |
 > | `mtg:Firemane Commando` | {3}{W} | Creature — Angel Soldier | £0.97 |
-> | `mtg:Giada, Font of Hope` | {1}{W} | Creature — Angel | £0.50 |
+> | `mtg:Giada, Font of Hope` 🟡 | {1}{W} | Creature — Angel | £0.50 |
 > | `mtg:Gisela, the Broken Blade` | {2}{W}{W} | Creature — Angel Horror | £14.10 |
 > | `mtg:Herald of War` | {3}{W}{W} | Creature — Angel | £2.39 |
 > | `mtg:Holy Cow` | {2}{W} | Creature — Ox Angel | £0.07 |
@@ -4994,12 +4994,12 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Thraben Watcher` | {2}{W}{W} | Creature — Angel | £0.26 |
 > | `mtg:Valkyrie Harbinger` | {4}{W}{W} | Creature — Angel Cleric | £2.61 |
 > | `mtg:Wojek Investigator` | {2}{W} | Creature — Angel Detective | £0.02 |
-> | `mtg:Youthful Valkyrie` | {1}{W} | Creature — Angel | £0.25 |
+> | `mtg:Youthful Valkyrie` 🟡 | {1}{W} | Creature — Angel | £0.25 |
 > | `mtg:Archangel Elspeth` | {2}{W}{W} | Planeswalker — Elspeth | £2.44 |
 > | `mtg:Serra the Benevolent` | {2}{W}{W} | Planeswalker — Serra | £4.37 |
 > | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
 > | `mtg:Invoke the Divine` | {2}{W} | Instant | £0.10 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Teferi's Protection` | {2}{W} | Instant | £31.39 |
 > | `mtg:Decree of Justice` | {X}{X}{2}{W}{W} | Sorcery | £0.14 |
 > | `mtg:Entreat the Angels` | {X}{X}{W}{W}{W} | Sorcery | £0.51 |
@@ -5010,7 +5010,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Court of Grace` | {2}{W}{W} | Enchantment | £1.47 |
 > | `mtg:Dawn of Hope` | {1}{W} | Enchantment | £0.37 |
 > | `mtg:Land Tax` | {W} | Enchantment | £10.11 |
-> | `mtg:Leyline of Hope` | {2}{W}{W} | Enchantment | £0.46 |
+> | `mtg:Leyline of Hope` 🟡 | {2}{W}{W} | Enchantment | £0.46 |
 > | `mtg:Luminarch Ascension` | {1}{W} | Enchantment | £7.88 |
 > | `mtg:Sigarda's Splendor` | {2}{W}{W} | Enchantment | £0.40 |
 > | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
@@ -5036,7 +5036,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:New Benalia` | — | Land | £0.11 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Radiant Fountain` | — | Land | £0.31 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
@@ -5066,7 +5066,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 139 |
 > | **Rank** | 3,063 |
 > | **Finish** | £395 |
-> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] |
+> | **Next box(s)** | [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ELD\|ELD]] |
 >
 > {W} **Attack for artifacts**. Attacks, look at five, take an artifact. The line is connect-Ashe (equipment for evasion, extra combats are thin in white so use vigilance and unblockable lands) plus an artifact density worth finding (Sol Ring, Lightning Greaves, Mind Stone, Worn Powerstone, Portal to Phyrexia-budget, Nettlecyst, Mystic Forge, Sculpting Steel, Mirrorworks). Historic/artifact payoffs (Forensic Gadgeteer off-color; white: Teshar, Urza's Saga if owned, Oswald Fiddlebender, Inventors' Fair). Do not play a Knights deck that happens to own a Sol Ring — every creature should find or be an artifact.
 >
@@ -5121,7 +5121,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Éowyn, Lady of Rohan` | {2}{W} | Creature — Human Noble | £0.05 |
 > | `mtg:The Aetherspark` | {4} | Planeswalker — Equipment | £12.73 |
 > | `mtg:Dispatch` | {W} | Instant | £0.22 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Open the Armory` | {1}{W} | Sorcery | £1.87 |
 > | `mtg:Forge Anew` | {2}{W} | Enchantment | £3.04 |
 > | `mtg:Sidequest: Catch a Fish` | {2}{W} | Enchantment | £0.08 |
@@ -5139,7 +5139,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Genji Glove` | {5} | Artifact — Equipment | £4.80 |
 > | `mtg:Hammer of Nazahn` | {4} | Artifact — Equipment | £9.60 |
 > | `mtg:Hero's Blade` | {2} | Artifact — Equipment | £0.19 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Machinist's Arsenal` | {4}{W} | Artifact — Equipment | £0.29 |
 > | `mtg:Maul of the Skyclaves` | {2}{W} | Artifact — Equipment | £0.24 |
 > | `mtg:Mind Stone` | {2} | Artifact | — |
@@ -5158,7 +5158,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Thousand Moons Smithy` | {2}{W}{W} | Artifact | £1.16 |
 > | `mtg:Thran Power Suit` | {2} | Artifact — Equipment | £0.49 |
 > | `mtg:Whispersilk Cloak` | {3} | Artifact — Equipment | £1.12 |
-> | `mtg:White Auracite` | {2}{W}{W} | Artifact | £0.03 |
+> | `mtg:White Auracite` 🟡 | {2}{W}{W} | Artifact | £0.03 |
 > | `mtg:Worn Powerstone` | {3} | Artifact | £0.17 |
 > | `mtg:Adagia, Windswept Bastion` | — | Land — Planet | £4.84 |
 > | `mtg:Ancient Den` | — | Land | £1.34 |
@@ -5207,7 +5207,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 2,595 |
 > | **Rank** | 944 |
 > | **Finish** | £455 |
-> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] |
+> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/MH3\|MH3]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/OTJ\|OTJ]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/KHM\|KHM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/DSK\|DSK]] |
 >
 > {B}{R} **Treasure draw**. ETB treasures equal to opponents' artifacts; spells cast with Treasure draw and lose 1. The line is make Treasures (Dockside is banned-ish; use Professional Face-Breaker, Grim Hireling, Deadly Dispute, Big Score, Unexpected Windfall, Goldspan Dragon, Xorn, Smothering Tithe is white) and spend them on every spell so Smaug draws you a card each time. Artifact density on opponents is a bonus, not the plan — you make your own Treasures. Drain the 1 life with Blood Artist or just race. Dragons are splash, not the trunk.
 >
@@ -5294,7 +5294,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Spiteful Banditry` | {X}{R}{R} | Enchantment | £6.34 |
 > | `mtg:Sticky Fingers` | {R} | Enchantment — Aura | £0.21 |
 > | `mtg:There and Back Again` | {3}{R}{R} | Enchantment — Saga | £3.09 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Coin of Mastery` | {4} | Artifact | £0.91 |
 > | `mtg:Dragon's Hoard` | {3} | Artifact | £0.52 |
 > | `mtg:Glittering Stockpile` | {2}{R} | Artifact — Treasure | £0.19 |
@@ -5454,7 +5454,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Secluded Courtyard` | — | Land | £0.20 |
@@ -5561,7 +5561,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Fable of the Mirror-Breaker` | {2}{R} | Enchantment — Saga | £7.62 |
 > | `mtg:Impact Tremors` | {1}{R} | Enchantment | — |
 > | `mtg:Alhammarret's Archive` | {5} | Artifact | £9.40 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Bender's Waterskin` | {3} | Artifact | £0.72 |
 > | `mtg:Blitzball` | {3} | Artifact | £0.05 |
 > | `mtg:Bonder's Ornament` | {3} | Artifact | £0.75 |
@@ -5571,7 +5571,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Coveted Jewel` | {6} | Artifact | £0.16 |
 > | `mtg:Fire Diamond` | {2} | Artifact | £0.25 |
 > | `mtg:Hazoret's Monument` | {3} | Artifact | £1.29 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Lunatic Pandora` | {1} | Artifact | £0.04 |
 > | `mtg:Mind Stone` | {2} | Artifact | — |
 > | `mtg:Monument to Endurance` | {3} | Artifact | £15.11 |
@@ -5590,7 +5590,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Holdout Settlement` | — | Land | £0.27 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
 > | `mtg:Opal Palace` | — | Land | £0.14 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Study Hall` | — | Land | £0.11 |
 > | `mtg:Surveillance Room` | — | Land | £0.09 |
 > | `mtg:Survivors' Encampment` | — | Land — Desert | £0.43 |
@@ -5702,7 +5702,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:It'll Quench Ya!` | {1}{U} | Instant — Lesson | £0.12 |
 > | `mtg:Join Shields` | {3}{G}{W} | Instant | £0.09 |
 > | `mtg:Path to Exile` | {W} | Instant | £1.16 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Avatar's Wrath` | {2}{W}{W} | Sorcery | £3.32 |
 > | `mtg:Match the Odds` | {2}{G} | Sorcery — Lesson | £0.32 |
 > | `mtg:Spirit Water Revival` | {1}{U}{U} | Sorcery | £0.43 |
@@ -5722,12 +5722,12 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ba Sing Se` | — | Land | £4.58 |
 > | `mtg:Cavern of Souls` | — | Land | £35.41 |
 > | `mtg:Gavony Township` | — | Land | £4.01 |
-> | `mtg:Glacial Fortress` | — | Land | £0.22 |
+> | `mtg:Glacial Fortress` 🟡 | — | Land | £0.22 |
 > | `mtg:Jasmine Dragon Tea Shop` | — | Land | £0.32 |
 > | `mtg:Kyoshi Village` | — | Land | £0.13 |
 > | `mtg:North Pole Gates` | — | Land | £0.04 |
 > | `mtg:Oran-Rief, the Vastwood` | — | Land | £0.36 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Secluded Courtyard` | — | Land | £0.20 |
 > | `mtg:Three Tree City` | — | Land | £16.62 |
 > | `mtg:Thriving Heath` | — | Land | £0.16 |
@@ -5754,7 +5754,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 3,404 |
 > | **Rank** | 773 |
 > | **Finish** | £228 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/M21\|M21]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LTR\|LTR]] |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/LTR\|LTR]] |
 >
 > {W} **Cats**. Cat tribal — go-wide Cats, build lifegain for going tall with Ajani's Pridemate (Authority of the Consuls, Soul Sisters, Healer of the Pride). Create tokens with Prideful Parent, Leonin Warleader, Ajani, Caller of the Pride, and Felidar Retreat; Regal Caracal is the anthem-plus-two-Cats bomb. Go tall with Skyknight Squire as tokens enter, compound with Patchwork Banner / Firdoch Core / King of the Pride. Restoration Seminar and Helping Hand recur keystones from the graveyard. Claws Out protects the board. Split Up and Sheltered by Ghosts are the interaction that still serves the tribe.
 >
@@ -5821,7 +5821,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Healer of the Pride` | {3}{W} | Creature — Cat Cleric | £0.32 |
 > | `mtg:Helpful Hunter` | {1}{W} | Creature — Cat | £0.13 |
 > | `mtg:Jazal Goldmane` | {2}{W}{W} | Creature — Cat Warrior | £0.14 |
-> | `mtg:King of the Pride` | {2}{W} | Creature — Cat | £0.22 |
+> | `mtg:King of the Pride` 🟡 | {2}{W} | Creature — Cat | £0.22 |
 > | `mtg:Kutzil's Flanker` | {2}{W} | Creature — Cat Warrior | £0.43 |
 > | `mtg:Leonin Vanguard` | {W} | Creature — Cat Soldier | £0.19 |
 > | `mtg:Leonin Warleader` | {2}{W}{W} | Creature — Cat Soldier | £3.14 |
@@ -5832,7 +5832,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Prava of the Steel Legion` | {2}{W} | Creature — Cat Soldier | £0.24 |
 > | `mtg:Qala, Ajani's Pridemate` | {3}{W} | Creature — Cat Warrior | £0.30 |
 > | `mtg:Skyhunter Strike Force` | {2}{W} | Creature — Cat Knight | £3.20 |
-> | `mtg:Skyknight Squire` | {1}{W} | Creature — Cat Scout | £0.31 |
+> | `mtg:Skyknight Squire` 🟡 | {1}{W} | Creature — Cat Scout | £0.31 |
 > | `mtg:Trained Caracal` | {W} | Creature — Cat | £0.13 |
 > | `mtg:Whitemane Lion` | {1}{W} | Creature — Cat | £0.11 |
 > | `mtg:Ajani, Adversary of Tyrants` | {2}{W}{W} | Planeswalker — Ajani | £1.10 |
@@ -5845,11 +5845,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ajani's Welcome` | {W} | Enchantment | £1.79 |
 > | `mtg:Authority of the Consuls` | {W} | Enchantment | £3.91 |
 > | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
-> | `mtg:Intangible Virtue` | {1}{W} | Enchantment | £0.16 |
+> | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
 > | `mtg:Sheltered by Ghosts` | {1}{W} | Enchantment — Aura | £1.52 |
 > | `mtg:Banner of Kinship` | {5} | Artifact | £5.21 |
 > | `mtg:Chronicle of Victory` | {6} | Artifact | £16.63 |
-> | `mtg:Firdoch Core` | {3} | Artifact — Shapeshifter | £0.13 |
+> | `mtg:Firdoch Core` 🟡 | {3} | Artifact — Shapeshifter | £0.13 |
 > | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
 > | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
 > | `mtg:Animal Sanctuary` | — | Land | £1.16 |
@@ -5863,7 +5863,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Secluded Steppe` | — | Land | £0.19 |
@@ -5891,7 +5891,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 2,754 |
 > | **Rank** | 904 |
 > | **Finish** | £263 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/SOS\|SOS]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/DFT\|DFT]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/TLA\|TLA]] |
 >
 > {W}{R} **Convoke copy**. Cast an instant or sorcery, tap three creatures, copy it. The line is go-wide tokens (Young Pyromancer, Monastery Mentor, Raise the Alarm, Legion's Landing, Adeline, Impact Tremors, Third Path Iconoclast) so the three-tap is free, plus a spell density worth copying (Boros Charm, Lightning Bolt, Big Score, Jeska's Will, Wear // Tear, Heliod's Intervention). Token doublers (Anointed Procession, Parallel Lives is green — white: Anointed Procession, Ojer Taq) make the tap trivial. This overlaps Zurgo on tokens; the difference is the copied spells are the win, not Mobilize combat.
 >
@@ -5951,7 +5951,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Raise the Alarm` | {1}{W} | Instant | £0.06 |
 > | `mtg:Secure the Wastes` | {X}{W} | Instant | £2.39 |
 > | `mtg:Seething Song` | {2}{R} | Instant | £6.46 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:To Arms!` | {1}{W} | Instant | £0.17 |
 > | `mtg:Unexpected Windfall` | {2}{R}{R} | Instant | £2.91 |
 > | `mtg:Wear` | {1}{R} | Instant | £1.28 |
@@ -5978,7 +5978,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Impact Tremors` | {1}{R} | Enchantment | — |
 > | `mtg:Prosperous Partnership` | {1}{R}{W} | Enchantment | £8.82 |
 > | `mtg:Warleader's Call` | {1}{R}{W} | Enchantment | £4.42 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Idol of Oblivion` | {2} | Artifact | £1.34 |
 > | `mtg:Primal Amulet` | {4} | Artifact | £6.75 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
@@ -5999,7 +5999,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Lindblum, Industrial Regency` | {2}{R} | Land — Town | £1.60 |
 > | `mtg:Needleverge Pathway` | — | Land | £3.61 |
 > | `mtg:Radiant Summit` | — | Land — Mountain Plains | £0.27 |
-> | `mtg:Rugged Prairie` | — | Land | £0.32 |
+> | `mtg:Rugged Prairie` 🟡 | — | Land | £0.32 |
 > | `mtg:Sacred Foundry` | — | Land — Mountain Plains | — |
 > | `mtg:Sokenzan, Crucible of Defiance` | — | Land | £2.11 |
 > | `mtg:Spectator Seating` | — | Land | £5.37 |
@@ -6029,7 +6029,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 19 |
 > | **Rank** | 4,633 |
 > | **Finish** | £256 |
-> | **Next box(s)** | [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MOM\|MOM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DMU\|DMU]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/OTJ\|OTJ]] |
+> | **Next box(s)** | [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/MOM\|MOM]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DMU\|DMU]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/OTJ\|OTJ]] |
 >
 > {B} **Discard lock**. 8-mana: strip every opponent's hand when you spend the divinity counter. The line is ramp into Myojin (Cabal Coffers, Crypt Ghast, Jet Medallion, Dark Ritual, Cabal Ritual, Nirkana Revenant) and discard payoffs so the empty hands hurt forever (Waste Not, Rankle, Tinybones, Oppression, Bottomless Pit, Necrogen Mists, Liliana of the Veil). Recast Myojin (eternalize no; use Conjurer's Closet off-color — black: Command Beacon, Crystal Chipper, deadeye is blue) via bounce-to-hand effects and recast. This is a discard stax deck, not a 8-drop Voltron.
 >
@@ -6170,7 +6170,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 8 |
 > | **Rank** | 5,468 |
 > | **Finish** | £291 |
-> | **Next box(s)** | [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DSK\|DSK]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] |
+> | **Next box(s)** | [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/AFR\|AFR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/NEO\|NEO]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH3\|MH3]] |
 >
 > {R} **ETB pings**. ETB: 3 damage divided. The line is recast / copy the ETB (Panharmonicon is colorless and on, Dualcaster Mage, Heat Shimmer, Twinflame, Conjurer's Closet off-color — red: Restoration is white; use Daretti, Scrap Savant, Feldon of the Third Path, Mimic Vat, Whip is black). Extra ETB means 6–9 to the face or to blockers. Burn backup (Lightning Bolt, Comet Storm) closes. Ramp into the 6-drop. This is a ping-value red deck, not a Wizard tribal and not extra combats.
 >
@@ -6262,10 +6262,10 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Leyline of Resonance` | {2}{R}{R} | Enchantment | £0.45 |
 > | `mtg:Mechanized Warfare` | {1}{R}{R} | Enchantment | £0.42 |
 > | `mtg:War Cadence` | {2}{R} | Enchantment | £0.47 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Hazoret's Monument` | {3} | Artifact | £1.29 |
 > | `mtg:Key to the City` | {2} | Artifact | £0.22 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Mask of Memory` | {2} | Artifact — Equipment | £0.25 |
 > | `mtg:Mimic Vat` | {3} | Artifact | £0.35 |
 > | `mtg:Mirror Box` | {3} | Artifact | £2.01 |
@@ -6306,7 +6306,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 7 |
 > | **Rank** | 5,593 |
 > | **Finish** | £136 |
-> | **Next box(s)** | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [MH1](https://scryfall.com/sets/mh1) [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] |
+> | **Next box(s)** | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/MH1\|MH1]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/OTJ\|OTJ]] |
 >
 > {B} **Menace value**. Menace body; adventure Meager Meal puts a +1/+1 and gains 2 life. The line is cast the adventure first, then the creature, then recast from exile-adventure patterns (Wandering Archaic off-color; black: recursion of Gollum, persist, and a Voltron/menace combat package). Lifegain from the adventure feeds drain (Marauding Blight-Priest, Vito) if you go that way; otherwise play him as a cheap menace attacker with equipment and deathtouch. Keep the curve low — this commander is a 4-drop with a 2-mana adventure, not a 7-mana demon deck.
 >
@@ -6392,7 +6392,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Fishing Gear` | {3} | Artifact — Equipment | £5.43 |
 > | `mtg:Giant's Skewer` | {1}{B} | Artifact — Equipment | £0.11 |
 > | `mtg:Instant Ramen` | {2} | Artifact — Food | £0.09 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Mask of Griselbrand` | {1}{B}{B} | Artifact — Equipment | £0.34 |
 > | `mtg:Shadowspear` | {1} | Artifact — Equipment | £21.00 |
 > | `mtg:Skullclamp` | {1} | Artifact — Equipment | £4.70 |
@@ -6416,7 +6416,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Karn's Bastion` | — | Land | £1.99 |
 > | `mtg:Nesting Grounds` | — | Land | £0.13 |
 > | `mtg:Night Market` | — | Land | £0.09 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Piranha Marsh` | — | Land | £0.09 |
 > | `mtg:Promising Vein` | — | Land — Cave | £0.11 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
@@ -6522,7 +6522,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Shared Animosity` | {2}{R} | Enchantment | £2.43 |
 > | `mtg:Shark Typhoon` | {5}{U} | Enchantment | £1.27 |
 > | `mtg:Sorcerer Class` | {U}{R} | Enchantment — Class | £2.00 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Ashnod's Altar` | {3} | Artifact | £11.75 |
 > | `mtg:Commander's Sphere` | {3} | Artifact | £0.18 |
 > | `mtg:Decanter of Endless Water` | {3} | Artifact | £2.25 |
@@ -6649,7 +6649,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Gideon, Ally of Zendikar` | {2}{W}{W} | Planeswalker — Gideon | £1.06 |
 > | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
 > | `mtg:Battle Menu` | {1}{W} | Instant | £0.10 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
 > | `mtg:Call the Cavalry` | {3}{W} | Sorcery | £0.12 |
 > | `mtg:Righteous Confluence` | {3}{W}{W} | Sorcery | £0.16 |
@@ -6665,7 +6665,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Chronicle of Victory` | {6} | Artifact | £16.63 |
 > | `mtg:Dragoon's Lance` | {1}{W} | Artifact — Equipment | £0.09 |
 > | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Paladin's Arms` | {2}{W} | Artifact — Equipment | £0.03 |
 > | `mtg:Pearl Medallion` | {2} | Artifact | £3.14 |
 > | `mtg:Sigiled Sword of Valeron` | {3} | Artifact — Equipment | £0.21 |
@@ -6687,7 +6687,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
@@ -6716,7 +6716,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 375 |
 > | **Rank** | 2,352 |
 > | **Finish** | £279 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] [MH1](https://scryfall.com/sets/mh1) |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/STX\|STX]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/MH1\|MH1]] |
 >
 > {W}{B} **Steal and pump**. Cast a spell you don't own: +1/+1 on each creature. Sac a creature: exile an instant/sorcery from an opponent's yard and cast it. The line is mill the table / fill their yards (Codex Shredder, Mesmeric Orb, Undercity Informer, Mindcrank) and theft (Gonti, Nightveil Specter, Thief of Sanity, Brainstealer Dragon, Opposition Agent, Praetor's Grasp) so you actually cast spells you don't own. Token fodder for the sac ability. Overlaps Maralen's mill-steal — variety penalty already applied. Do not play a generic Orzhov aristocrats list that never casts an opponent's card.
 >
@@ -6798,7 +6798,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Grand Crescendo` | {X}{W}{W} | Instant | £3.46 |
 > | `mtg:Outrageous Robbery` | {X}{B}{B} | Instant | £0.45 |
 > | `mtg:Reprieve` | {1}{W} | Instant | £0.58 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Cruelclaw's Heist` | {B}{B} | Sorcery | £0.33 |
 > | `mtg:Damning Verdict` | {3}{W}{W} | Sorcery | £4.76 |
 > | `mtg:Praetor's Grasp` | {1}{B}{B} | Sorcery | £6.60 |
@@ -6807,10 +6807,10 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Court of Locthwain` | {2}{B}{B} | Enchantment | £4.57 |
 > | `mtg:Cunning Rhetoric` | {2}{B} | Enchantment | £1.54 |
 > | `mtg:Altar of the Brood` | {1} | Artifact | £4.89 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Chaos Wand` | {3} | Artifact | £0.16 |
 > | `mtg:Codex Shredder` | {1} | Artifact | £0.10 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Mesmeric Orb` | {2} | Artifact | £10.27 |
 > | `mtg:Mind Stone` | {2} | Artifact | — |
 > | `mtg:Mindcrank` | {2} | Artifact | £7.06 |
@@ -6958,7 +6958,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Llanowar Wastes` | — | Land | £0.91 |
 > | `mtg:Necroblossom Snarl` | — | Land | £0.39 |
 > | `mtg:Overgrown Tomb` | — | Land — Swamp Forest | — |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Secluded Courtyard` | — | Land | £0.20 |
 > | `mtg:Skemfar Elderhall` | — | Land | £0.13 |
 > | `mtg:Tainted Wood` | — | Land | £0.30 |
@@ -6992,7 +6992,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 7,828 |
 > | **Rank** | 337 |
 > | **Finish** | £265 |
-> | **Next box(s)** | [[06 Browse/Sets/DFT\|DFT]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/LCI\|LCI]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) |
+> | **Next box(s)** | [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/OTJ\|OTJ]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/LCI\|LCI]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {U} **Max-speed draw**. No max hand size; at max speed, every draw is two. Speed rises when opponents lose life. The line is force life loss (pokes, Painful Quandary is off-color; blue: inquisitive, curiosity on a hitter, Faerie Mastermind, Peer into the Abyss is black — stay blue: Curious Obsession, Bets on a 1/1 unblockable, Psychic Corrosion mill as backup) plus draw-seven engines (Teferi's Ageless Insight, Thought Vessel, Reliquary Tower, Blue Sun's Zenith, Pull from Tomorrow, Windfall). Once max speed is on, cantrips are broken. Wheels (Windfall, Whispering Madness) refill. This is a draw deck that needs a life-loss plan, not a bounce-control deck.
 >
@@ -7129,7 +7129,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 1,874 |
 > | **Rank** | 1,166 |
 > | **Finish** | £223 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ONE\|ONE]] [MH2](https://scryfall.com/sets/mh2) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ONE\|ONE]] [MH2](https://scryfall.com/sets/mh2) [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/LCI\|LCI]] |
 >
 > {B}{G} **Yard worms**. ETB mill 4; tap and discard a land: worms equal to lands in the yard. The line is mill yourself, put lands in the yard (Life from the Loam, Splendid Reclamation, Ramunap Excavator, Springbloom Druid, Harrow, Winding Way, Grisly Salvage, Satyr Wayfinder), then tap Lluwen for a wide Worm board. Anthems and sacrifice drains (Poison-Tip Archer, Zulaport Cutthroat) finish. This is a lands-in-yard token deck, not an Elf deck and not a generic Golgari pile.
 >
@@ -7193,7 +7193,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Umbral Collar Zealot` | {1}{B} | Creature — Human Cleric | £0.37 |
 > | `mtg:Uurg, Spawn of Turg` | {B}{B}{G} | Creature — Frog Beast | £0.19 |
 > | `mtg:Wight of the Reliquary` | {B}{G} | Creature — Zombie Knight | £0.64 |
-> | `mtg:Zulaport Cutthroat` | {1}{B} | Creature — Human Rogue Ally | £1.26 |
+> | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Grist, the Hunger Tide` | {1}{B}{G} | Planeswalker — Grist | £0.84 |
 > | `mtg:Tyvar, Jubilant Brawler` | {1}{B}{G} | Planeswalker — Tyvar | £1.67 |
 > | `mtg:Assassin's Trophy` | {B}{G} | Instant | £0.98 |
@@ -7269,7 +7269,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 346 |
 > | **Rank** | 2,410 |
 > | **Finish** | £344 |
-> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ONE\|ONE]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/TLA\|TLA]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] |
+> | **Next box(s)** | [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/TLA\|TLA]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/DSK\|DSK]] [VOW](https://scryfall.com/sets/vow) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/ELD\|ELD]] [[06 Browse/Sets/EOE\|EOE]] |
 >
 > {W} **Endure aristocrats**. Flash, first strike. Another nontoken dies: endure 2 (two +1/+1 or a 2/2 Spirit). The line is sacrifice nontokens (Viscera Seer, Attrition, Palantír is off; white: High Market, Martyr's Cause, Selfless Spirit, Priest of Forgotten Gods is WB) and a nontoken creature density so the endure trigger is on. Then pick counters or Spirits based on the board — go-wide Spirits into anthems, or go-tall Anafenza. Do not play a token-only deck: tokens dying miss the trigger. Recur the nontokens (Sun Titan, Helping Hand).
 >
@@ -7330,13 +7330,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Rumor Gatherer` | {1}{W}{W} | Creature — Elf Wizard | £0.47 |
 > | `mtg:Selfless Savior` | {W} | Creature — Dog | £0.35 |
 > | `mtg:Selfless Spirit` | {1}{W} | Creature — Spirit Cleric | £0.61 |
-> | `mtg:Sun Titan` | {4}{W}{W} | Creature — Giant | £0.27 |
+> | `mtg:Sun Titan` 🟡 | {4}{W}{W} | Creature — Giant | £0.27 |
 > | `mtg:Vesperlark` | {2}{W} | Creature — Elemental | £0.23 |
 > | `mtg:Welcoming Vampire` | {2}{W} | Creature — Vampire | £2.76 |
 > | `mtg:Westfold Rider` | {1}{W} | Creature — Human Knight | £0.11 |
 > | `mtg:Elspeth, Storm Slayer` | {3}{W}{W} | Planeswalker — Elspeth | £23.26 |
 > | `mtg:Flare of Fortitude` | {2}{W}{W} | Instant | £3.35 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Teferi's Protection` | {2}{W} | Instant | £31.39 |
 > | `mtg:Ascend from Avernus` | {X}{W}{W}{W} | Sorcery | £3.40 |
 > | `mtg:Dewdrop Cure` | {2}{W} | Sorcery | £0.15 |
@@ -7346,7 +7346,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Caretaker's Talent` | {2}{W} | Enchantment — Class | £7.19 |
 > | `mtg:Fanatical Devotion` | {2}{W} | Enchantment | £0.50 |
 > | `mtg:Field of Souls` | {2}{W}{W} | Enchantment | £0.19 |
-> | `mtg:Intangible Virtue` | {1}{W} | Enchantment | £0.16 |
+> | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
 > | `mtg:Martyr's Cause` | {2}{W} | Enchantment | £0.73 |
 > | `mtg:Smile at Death` | {3}{W}{W} | Enchantment | £1.98 |
 > | `mtg:Spirit Bonds` | {1}{W} | Enchantment | £0.52 |
@@ -7356,7 +7356,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ashnod's Altar` | {3} | Artifact | £11.75 |
 > | `mtg:Hourglass of the Lost` | {2}{W} | Artifact | £0.78 |
 > | `mtg:Idol of Oblivion` | {2} | Artifact | £1.34 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Norn's Wellspring` | {1}{W} | Artifact | £0.20 |
 > | `mtg:Pearl Medallion` | {2} | Artifact | £3.14 |
 > | `mtg:Phyrexian Altar` | {3} | Artifact | £35.58 |
@@ -7488,7 +7488,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Shiny Impetus` | {2}{R} | Enchantment — Aura | £0.18 |
 > | `mtg:The First Eruption` | {2}{R} | Enchantment — Saga | £0.12 |
 > | `mtg:There and Back Again` | {3}{R}{R} | Enchantment — Saga | £3.09 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Carnelian Orb of Dragonkind` | {2}{R} | Artifact | £0.28 |
 > | `mtg:Dragon's Hoard` | {3} | Artifact | £0.52 |
 > | `mtg:Everflowing Chalice` | {0} | Artifact | £0.23 |
@@ -7543,7 +7543,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 1,543 |
 > | **Rank** | 1,297 |
 > | **Finish** | £215 |
-> | **Next box(s)** | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/WOE\|WOE]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] |
+> | **Next box(s)** | [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/LCI\|LCI]] [SNC](https://scryfall.com/sets/snc) [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/KHM\|KHM]] [[06 Browse/Sets/GRN\|GRN]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/DSK\|DSK]] |
 >
 > {W}{G} **Extra soldiers**. P/T = number of creatures. Token spells make an extra 1/1 Soldier. The line is token density (March of the Multitudes, Secure the Wastes, Second Harvest, Anointed Procession, Parallel Lives, Scute Swarm, Mondrak, Glorybringer is off; Selesnya: Rhys the Redeemed, Jaheira, Trostani, Divine Visitation) so Allenal is a 10/10 that still makes extra Soldiers. Anthems. Overlaps Zurgo on tokens — the difference is Selesnya populate, not Mobilize. Do not play a +1/+1 counter deck that never makes a token.
 >
@@ -7619,7 +7619,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Secure the Wastes` | {X}{W} | Instant | £2.39 |
 > | `mtg:Selesnya Charm` | {G}{W} | Instant | £0.37 |
 > | `mtg:Sundering Growth` | {G/W}{G/W} | Instant | £0.22 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Audience with Trostani` | {2}{G} | Sorcery | £0.16 |
 > | `mtg:Camaraderie` | {4}{G}{W} | Sorcery | £0.35 |
 > | `mtg:Martial Coup` | {X}{W}{W} | Sorcery | £0.18 |
@@ -7631,7 +7631,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Growing Ranks` | {2}{G/W}{G/W} | Enchantment | £0.42 |
 > | `mtg:Growing Rites of Itlimoc` | {2}{G} | Enchantment | £5.30 |
 > | `mtg:Inspiring Leader` | {2}{W} | Enchantment — Background | £0.41 |
-> | `mtg:Intangible Virtue` | {1}{W} | Enchantment | £0.16 |
+> | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
 > | `mtg:Parallel Lives` | {3}{G} | Enchantment | £18.13 |
 > | `mtg:Presence of Gond` | {2}{G} | Enchantment — Aura | £0.16 |
 > | `mtg:Strength of the Harvest` | {2}{G/W} | Enchantment — Aura | £0.27 |
@@ -7650,13 +7650,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Grove of the Guardian` | — | Land | £0.17 |
 > | `mtg:Hushwood Verge` | — | Land | £4.74 |
 > | `mtg:Khalni Garden` | — | Land | £2.09 |
-> | `mtg:Overgrown Farmland` | — | Land | £3.10 |
+> | `mtg:Overgrown Farmland` 🟡 | — | Land | £3.10 |
 > | `mtg:Radiant Grove` | — | Land — Forest Plains | £0.19 |
 > | `mtg:Restless Prairie` | — | Land | £0.26 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Selesnya Sanctuary` | — | Land | £0.12 |
 > | `mtg:Sungrass Prairie` | — | Land | £0.17 |
-> | `mtg:Sunpetal Grove` | — | Land | £0.31 |
+> | `mtg:Sunpetal Grove` 🟡 | — | Land | £0.31 |
 > | `mtg:Temple Garden` | — | Land — Forest Plains | — |
 > | `mtg:Tranquil Expanse` | — | Land | £0.10 |
 > | `mtg:Vitu-Ghazi, the City-Tree` | — | Land | £0.10 |
@@ -7791,7 +7791,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Naya Panorama` | — | Land | £0.23 |
 > | `mtg:Nephalia Academy` | — | Land | £0.22 |
 > | `mtg:Oakhollow Village` | — | Land | £0.39 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reflecting Pool` | — | Land | £10.34 |
 > | `mtg:Rushwood Grove` | — | Land | £0.29 |
 > | `mtg:Shire Terrace` | — | Land | £0.08 |
@@ -7905,7 +7905,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Dragonstorm Globe` | {3} | Artifact | £0.14 |
 > | `mtg:Hazoret's Monument` | {3} | Artifact | £1.29 |
 > | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Mox Jasper` | {0} | Artifact | £7.49 |
 > | `mtg:Orb of Dragonkind` | {1}{R} | Artifact | £1.48 |
 > | `mtg:Ruby Medallion` | {2} | Artifact | £8.95 |
@@ -7926,7 +7926,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mines of Moria` | — | Land | £1.32 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
@@ -7957,7 +7957,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 179 |
 > | **Rank** | 2,884 |
 > | **Finish** | £283 |
-> | **Next box(s)** | [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ELD\|ELD]] |
+> | **Next box(s)** | [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/M20\|M20]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/ELD\|ELD]] |
 >
 > {G} **Named-land fractal**. Trample on counter-creatures; tap 4G: a 0/0 Fractal with counters equal to differently named lands. The line is a diverse land suite (duals, utility, basics of both types, Field of the Dead if owned, Cabal is off) so X is 8–12, plus Hardened Scales / The Ozolith to grow the Fractals. This is a lands + counters deck, not Elf tribal. Ramp that puts differently named lands (Farseek, Nature's Lore, into shocks and temples) is the engine.
 >
@@ -8018,7 +8018,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Vastwood Fortification` | {G} | Instant | £0.21 |
 > | `mtg:Bala Ged Recovery` | {2}{G} | Sorcery | £4.52 |
 > | `mtg:Bridgeworks Battle` | {2}{G} | Sorcery | £0.85 |
-> | `mtg:Cultivate` | {2}{G} | Sorcery | £0.37 |
+> | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Disorienting Choice` | {3}{G} | Sorcery | £0.39 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
 > | `mtg:Fangs of Kalonia` | {1}{G} | Sorcery | £0.14 |
@@ -8136,7 +8136,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Curiosity Crafter` | {3}{U} | Creature — Bird Wizard | £0.35 |
 > | `mtg:Deekah, Fractal Theorist` | {4}{U} | Creature — Human Wizard | £0.29 |
 > | `mtg:Dirgur Focusmage` | {2}{U} | Creature — Djinn Monk | £0.35 |
-> | `mtg:Displacer Kitten` | {3}{U} | Creature — Cat Beast | £21.93 |
+> | `mtg:Displacer Kitten` 🟡 | {3}{U} | Creature — Cat Beast | £21.93 |
 > | `mtg:Dour Port-Mage` | {1}{U} | Creature — Frog Wizard | £2.28 |
 > | `mtg:Dreamtide Whale` | {2}{U} | Creature — Whale | £2.86 |
 > | `mtg:Flux Channeler` | {2}{U} | Creature — Human Wizard | £2.24 |
@@ -8175,7 +8175,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Wave Goodbye` | {2}{U}{U} | Sorcery | £0.85 |
 > | `mtg:Inexorable Tide` | {3}{U}{U} | Enchantment | £1.66 |
 > | `mtg:Search for Azcanta` | {1}{U} | Enchantment | £1.40 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Astral Cornucopia` | {X}{X}{X} | Artifact | £0.19 |
 > | `mtg:Brass Infiniscope` | {4} | Artifact | £0.33 |
 > | `mtg:Conjurer's Closet` | {5} | Artifact | £2.47 |
@@ -8235,7 +8235,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 25 |
 > | **Rank** | 4,438 |
 > | **Finish** | £360 |
-> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/NEO\|NEO]] |
+> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {U} **Pay-draw bounce**. Ward {3}. {6}: shuffle him into the library, draw three. The line is recast Gandalf (he shuffles to library, so cheap wizards that tutor or bounce-cast, High Tide, Dramatic Reversal off-color wait Dramatic is UR; mono-blue: Palinchron no, use High Tide + rocks to activate twice, plus Wizard tribal draw). Treat the activate as a 6-mana Ancestral that puts the commander back to be recast. Wizard payoffs (Azami). This is a draw-engine wizard, not a blink deck.
 >
@@ -8432,11 +8432,11 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Qala, Ajani's Pridemate` | {3}{W} | Creature — Cat Warrior | £0.30 |
 > | `mtg:Resplendent Angel` | {1}{W}{W} | Creature — Angel | £4.96 |
 > | `mtg:Righteous Valkyrie` | {2}{W} | Creature — Angel Cleric | £4.48 |
-> | `mtg:Soul Warden` | {W} | Creature — Human Cleric | £1.86 |
+> | `mtg:Soul Warden` 🟡 | {W} | Creature — Human Cleric | £1.86 |
 > | `mtg:Soul's Attendant` | {W} | Creature — Human Cleric | £4.16 |
 > | `mtg:Speaker of the Heavens` | {W} | Creature — Human Cleric | £0.72 |
 > | `mtg:Sunscorch Regent` | {3}{W}{W} | Creature — Dragon | £0.37 |
-> | `mtg:Suture Priest` | {1}{W} | Creature — Phyrexian Cleric | £2.98 |
+> | `mtg:Suture Priest` 🟡 | {1}{W} | Creature — Phyrexian Cleric | £2.98 |
 > | `mtg:The Gaffer` | {2}{W} | Creature — Halfling Peasant | £7.54 |
 > | `mtg:Twinblade Paladin` | {3}{W} | Creature — Human Knight | £0.83 |
 > | `mtg:Voice of the Blessed` | {W}{W} | Creature — Spirit Cleric | £2.17 |
@@ -8444,7 +8444,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Basri Ket` | {1}{W}{W} | Planeswalker — Basri | £1.03 |
 > | `mtg:Elspeth, Sun's Champion` | {4}{W}{W} | Planeswalker — Elspeth | £1.18 |
 > | `mtg:Rally for the Throne` | {2}{W} | Instant | £0.09 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
 > | `mtg:Fumigate` | {3}{W}{W} | Sorcery | £0.16 |
 > | `mtg:Martial Coup` | {X}{W}{W} | Sorcery | £0.18 |
@@ -8456,9 +8456,9 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Cleric Class` | {W} | Enchantment — Class | £2.42 |
 > | `mtg:Dawn of Hope` | {1}{W} | Enchantment | £0.37 |
 > | `mtg:Griffin Aerie` | {1}{W} | Enchantment | £0.09 |
-> | `mtg:Intangible Virtue` | {1}{W} | Enchantment | £0.16 |
+> | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
 > | `mtg:Legion's Landing` | {W} | Enchantment | £2.24 |
-> | `mtg:Leyline of Hope` | {2}{W}{W} | Enchantment | £0.46 |
+> | `mtg:Leyline of Hope` 🟡 | {2}{W}{W} | Enchantment | £0.46 |
 > | `mtg:Light of Promise` | {2}{W} | Enchantment — Aura | £0.21 |
 > | `mtg:March of the Canonized` | {X}{W}{W} | Enchantment | £0.50 |
 > | `mtg:Path of Bravery` | {2}{W} | Enchantment | £0.24 |
@@ -8482,7 +8482,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mistveil Plains` | — | Land — Plains | £0.16 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Radiant Fountain` | — | Land | £0.31 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
@@ -8511,7 +8511,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 65 |
 > | **Rank** | 3,617 |
 > | **Finish** | £372 |
-> | **Next box(s)** | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/THB\|THB]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DMU\|DMU]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/TDM\|TDM]] |
+> | **Next box(s)** | [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/THB\|THB]] [XLN](https://scryfall.com/sets/xln) [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DMU\|DMU]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/TDM\|TDM]] |
 >
 > {U} **Toughness draw**. Costs {3} less if your creatures have total toughness 10+; ETB draw 2. The line is high-toughness bodies and walls (Wall of Omens, Overgrown Battlement is green; mono-blue: Wall of Denial, Hover Barrier, Fog Bank, Guard Gomazoa, Towering-Wall style) so Orysa is a 2-mana draw-two, then blink her. Overlaps Kykar on blink. Do not play a 1/1 faerie deck — toughness is the cost reduction.
 >
@@ -8554,7 +8554,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Cloud of Faeries` | {1}{U} | Creature — Faerie | £0.27 |
 > | `mtg:Deadeye Navigator` | {4}{U}{U} | Creature — Spirit | £1.52 |
 > | `mtg:Detective of the Month` | {2}{U} | Creature — Human Detective | £0.29 |
-> | `mtg:Displacer Kitten` | {3}{U} | Creature — Cat Beast | £21.93 |
+> | `mtg:Displacer Kitten` 🟡 | {3}{U} | Creature — Cat Beast | £21.93 |
 > | `mtg:Dour Port-Mage` | {1}{U} | Creature — Frog Wizard | £2.28 |
 > | `mtg:Dream Stalker` | {1}{U} | Creature — Illusion | £0.11 |
 > | `mtg:Emrakul's Messenger` | {1}{U} | Creature — Eldrazi Faerie Rogue | £0.18 |
@@ -8564,7 +8564,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Hover Barrier` | {2}{U} | Creature — Illusion Wall | £0.45 |
 > | `mtg:Laboratory Maniac` | {2}{U} | Creature — Human Wizard | £0.62 |
 > | `mtg:Minn, Wily Illusionist` | {1}{U}{U} | Creature — Gnome Wizard | £8.42 |
-> | `mtg:Mulldrifter` | {4}{U} | Creature — Elemental | £0.30 |
+> | `mtg:Mulldrifter` 🟡 | {4}{U} | Creature — Elemental | £0.30 |
 > | `mtg:Nadir Kraken` | {1}{U}{U} | Creature — Kraken | £0.17 |
 > | `mtg:Peregrine Drake` | {4}{U} | Creature — Drake | £0.16 |
 > | `mtg:Psychosis Crawler` | {5} | Creature — Phyrexian Horror | £0.47 |
@@ -8696,7 +8696,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Archaeomancer` | {2}{U}{U} | Creature — Human Wizard | £0.33 |
 > | `mtg:Barrin, Tolarian Archmage` | {1}{U}{U} | Creature — Human Wizard | £0.27 |
 > | `mtg:Captain of Umbar` | {2}{U} | Creature — Human Pirate | £0.38 |
-> | `mtg:Displacer Kitten` | {3}{U} | Creature — Cat Beast | £21.93 |
+> | `mtg:Displacer Kitten` 🟡 | {3}{U} | Creature — Cat Beast | £21.93 |
 > | `mtg:Dour Port-Mage` | {1}{U} | Creature — Frog Wizard | £2.28 |
 > | `mtg:Grey Havens Navigator` | {2}{U} | Creature — Elf Pilot | £0.10 |
 > | `mtg:H.E.R.B.I.E. Scout Unit` | {4} | Creature — Robot Scout | £0.14 |
@@ -8757,7 +8757,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mystic Sanctuary` | — | Land — Island | £0.99 |
 > | `mtg:Night Market` | — | Land | £0.09 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Promising Vein` | — | Land — Cave | £0.11 |
 > | `mtg:Radiant Fountain` | — | Land | £0.31 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
@@ -8787,7 +8787,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 80 |
 > | **Rank** | 3,462 |
 > | **Finish** | £234 |
-> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LTR\|LTR]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] |
+> | **Next box(s)** | [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/FIN\|FIN]] [[06 Browse/Sets/EOE\|EOE]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/LTR\|LTR]] [MID](https://scryfall.com/sets/mid) [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/ELD\|ELD]] |
 >
 > {B} **Clue value**. Attacks: lose 1, make a Clue. Firebending 2 is red mana she can't spend in identity — treat it as combat-only. The line is Clue / investigate payoffs (Academy Manufactor, James, Philosopher's Stone, Tamiyo's Journal, Inspiring Statuary, Forensic Gadgeteer is blue; black: Deadly Dispute, Costly Plunder, Tireless Tracker is green) plus extra attacks so she makes two Clues. Artifact sacrifice for cards. Lifeloss is a bug; offset with lifegain or just race. This is a Clue-artifact deck, not a firebending spellslinger.
 >
@@ -8873,7 +8873,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Idol of Oblivion` | {2} | Artifact | £1.34 |
 > | `mtg:Inspiring Statuary` | {3} | Artifact | £0.27 |
 > | `mtg:Krark-Clan Ironworks` | {4} | Artifact | £8.53 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Magnifying Glass` | {3} | Artifact | £0.02 |
 > | `mtg:Mind Stone` | {2} | Artifact | — |
 > | `mtg:Nettlecyst` | {3} | Artifact — Equipment | £1.73 |
@@ -8895,7 +8895,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Midgar, City of Mako` | {2}{B} | Land — Town | £1.75 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Phyrexian Tower` | — | Land | £24.29 |
 > | `mtg:Realm of Koh` | — | Land | £0.26 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
@@ -8926,7 +8926,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 22 |
 > | **Rank** | 4,550 |
 > | **Finish** | £215 |
-> | **Next box(s)** | [[06 Browse/Sets/HOB\|HOB]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] |
+> | **Next box(s)** | [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/BRO\|BRO]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/WAR\|WAR]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/ZNR\|ZNR]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/WOE\|WOE]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/ELD\|ELD]] |
 >
 > {G} **Bear lands**. Trample body; adventure Till and Tend: extra land drop. The line is extra lands (the adventure, Exploration, Azusa, Dryad of the Ilysian Grove) and Bear tribal if you have Bears (Beorn the Fierce, Ayula, Queen Among Bears, Werebear, Runeclaw Bear is bad — prefer lords and land-creatures). Cast the adventure first. Landfall +1/+1 (Beorn's Hospitality if owned). This is a ramp-bear, not a generic stompy deck that never plays the extra land.
 >
@@ -9005,7 +9005,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Khalni Ambush` | {2}{G} | Instant | £0.38 |
 > | `mtg:Return of the Wildspeaker` | {4}{G} | Instant | £1.04 |
 > | `mtg:Bridgeworks Battle` | {2}{G} | Sorcery | £0.85 |
-> | `mtg:Cultivate` | {2}{G} | Sorcery | £0.37 |
+> | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Ent's Fury` | {1}{G} | Sorcery | £0.05 |
 > | `mtg:Explore` | {1}{G} | Sorcery | £0.21 |
 > | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
@@ -9063,7 +9063,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 53 |
 > | **Rank** | 3,778 |
 > | **Finish** | £217 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/ELD\|ELD]] [MH2](https://scryfall.com/sets/mh2) |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/MOM\|MOM]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/RNA\|RNA]] [[06 Browse/Sets/ELD\|ELD]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {W} **Self-blink counters**. ETB: exile another creature, return at end step. End step: if anything was exiled this turn, +1/+1 on Ennis. The line is ETB creatures worth blinking (Solemn Simulacrum, Inspiring Overseer, Spirited Companion, Skyclave Apparition, Restoration Angel, Wall of Omens, Cloudshift, Ephemerate, Teleportation Circle) so you get the value and the counter. Overlaps Kykar on blink — variety penalty already applied. Still the correct line: Ennis is a blink engine that grows. Do not play a vanilla weenie deck.
 >
@@ -9107,7 +9107,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Claim Jumper` | {2}{W} | Creature — Rabbit Mercenary | £0.28 |
 > | `mtg:Distinguished Conjurer` | {1}{W} | Creature — Human Wizard | £0.09 |
 > | `mtg:Enduring Innocence` | {1}{W}{W} | Creature — Sheep Glimmer | £3.65 |
-> | `mtg:Felidar Guardian` | {3}{W} | Creature — Cat Beast | £1.28 |
+> | `mtg:Felidar Guardian` 🟡 | {3}{W} | Creature — Cat Beast | £1.28 |
 > | `mtg:Fiend Hunter` | {1}{W}{W} | Creature — Human Cleric | £0.21 |
 > | `mtg:Flickerwisp` | {1}{W}{W} | Creature — Elemental | £0.21 |
 > | `mtg:Gilraen, Dúnedain Protector` | {2}{W} | Creature — Human Noble | £0.60 |
@@ -9124,16 +9124,16 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Metastatic Evangel` | {1}{W} | Creature — Phyrexian Human Cleric | £0.30 |
 > | `mtg:Phelia, Exuberant Shepherd` | {1}{W} | Creature — Dog | £5.66 |
 > | `mtg:Priest of Ancient Lore` | {2}{W} | Creature — Dwarf Cleric | £0.20 |
-> | `mtg:Restoration Angel` | {3}{W} | Creature — Angel | £0.40 |
+> | `mtg:Restoration Angel` 🟡 | {3}{W} | Creature — Angel | £0.40 |
 > | `mtg:Reverent Hoplite` | {4}{W} | Creature — Human Soldier | £0.17 |
 > | `mtg:Rumor Gatherer` | {1}{W}{W} | Creature — Elf Wizard | £0.47 |
-> | `mtg:Skyclave Apparition` | {1}{W}{W} | Creature — Kor Spirit | £0.28 |
+> | `mtg:Skyclave Apparition` 🟡 | {1}{W}{W} | Creature — Kor Spirit | £0.28 |
 > | `mtg:Solemn Simulacrum` | {4} | Creature — Golem | £0.23 |
 > | `mtg:Spirited Companion` | {1}{W} | Creature — Dog | £0.25 |
 > | `mtg:Wall of Omens` | {1}{W} | Creature — Wall | £0.18 |
 > | `mtg:Witch Enchanter` | {3}{W} | Creature — Human Warlock | £3.47 |
 > | `mtg:Acrobatic Maneuver` | {2}{W} | Instant | £0.12 |
-> | `mtg:Cloudshift` | {W} | Instant | £1.79 |
+> | `mtg:Cloudshift` 🟡 | {W} | Instant | £1.79 |
 > | `mtg:Eerie Interlude` | {2}{W} | Instant | £5.47 |
 > | `mtg:Ephemerate` | {W} | Instant | £4.47 |
 > | `mtg:Flicker of Fate` | {1}{W} | Instant | £0.16 |
@@ -9146,7 +9146,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Scrollshift` | {2}{W} | Instant | £0.22 |
 > | `mtg:Semester's End` | {3}{W} | Instant | £0.66 |
 > | `mtg:Slip On the Ring` | {1}{W} | Instant | £0.10 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Another Round` | {X}{X}{2}{W} | Sorcery | £0.34 |
 > | `mtg:Daydream` | {W} | Sorcery | £0.25 |
 > | `mtg:Airbender Ascension` | {1}{W} | Enchantment | £1.14 |
@@ -9172,7 +9172,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Mistveil Plains` | — | Land — Plains | £0.16 |
 > | `mtg:Myriad Landscape` | — | Land | £0.21 |
 > | `mtg:Nykthos, Shrine to Nyx` | — | Land | £31.26 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Scavenger Grounds` | — | Land — Desert | £0.20 |
@@ -9202,7 +9202,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 2,949 |
 > | **Rank** | 865 |
 > | **Finish** | £472 |
-> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/NEO\|NEO]] |
+> | **Next box(s)** | [[06 Browse/Sets/LTR\|LTR]] [[06 Browse/Sets/HOB\|HOB]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/MH3\|MH3]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/TDM\|TDM]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {W}{U} **Token draw double**. Extra cards after the first draw, and double tokens. Earmarked Azorius — overlaps Kykar on identity and Zurgo on tokens. The honest line is still token doubling plus extra draw: Anointed Procession / Mondrak / Parallel Lives is green; Azorius: Mondrak is W, Anointed Procession is W, Ojer Taq is W, plus cantrips that trigger the extra draw (Brainstorm, Ponder, Rhystic Study, Teferi's Ageless Insight). Token makers (Secure the Wastes, Hanged Executioner, Shark Typhoon, Talrand, Skyclave Apparition). Do not build Kykar blink 2.0 — Bard never blinks; he doubles tokens and draws.
 >
@@ -9275,7 +9275,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Reprieve` | {1}{W} | Instant | £0.58 |
 > | `mtg:Secure the Wastes` | {X}{W} | Instant | £2.39 |
 > | `mtg:Sound the Trumpets` | {1}{U}{U} | Instant | £0.04 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Ponder` | {U} | Sorcery | £2.65 |
 > | `mtg:Preordain` | {U} | Sorcery | £0.97 |
 > | `mtg:Tempt with Bunnies` | {2}{W} | Sorcery | — |
@@ -9289,7 +9289,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Smuggler's Share` | {2}{W} | Enchantment | £7.57 |
 > | `mtg:Teferi's Ageless Insight` | {2}{U}{U} | Enchantment | £2.92 |
 > | `mtg:The Mountain-king's Return` | {2}{W} | Enchantment — Saga | £0.06 |
-> | `mtg:Arcane Signet` | {2} | Artifact | £0.41 |
+> | `mtg:Arcane Signet` 🟡 | {2} | Artifact | £0.41 |
 > | `mtg:Great Gilded Boat` | {2}{U} | Artifact — Vehicle | £0.05 |
 > | `mtg:Horn of Gondor` | {3} | Artifact | £1.18 |
 > | `mtg:Idol of Oblivion` | {2} | Artifact | £1.34 |
@@ -9307,17 +9307,17 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Flooded Strand` | — | Land | £13.29 |
 > | `mtg:Floodfarm Verge` | — | Land | £7.58 |
 > | `mtg:Fountainport` | — | Land | £2.94 |
-> | `mtg:Glacial Fortress` | — | Land | £0.22 |
+> | `mtg:Glacial Fortress` 🟡 | — | Land | £0.22 |
 > | `mtg:Gleaming Bastion` | — | Land | £2.48 |
-> | `mtg:Hallowed Fountain` | — | Land — Plains Island | — |
+> | `mtg:Hallowed Fountain` 🟡 | — | Land — Plains Island | — |
 > | `mtg:Irrigated Farmland` | — | Land — Plains Island | £0.16 |
 > | `mtg:Lake-town` | — | Land | £0.03 |
 > | `mtg:Meticulous Archive` | — | Land — Plains Island | £11.23 |
 > | `mtg:Mikokoro, Center of the Sea` | — | Land | £4.00 |
 > | `mtg:Minas Tirith` | — | Land | £4.42 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
-> | `mtg:Port Town` | — | Land | £0.16 |
-> | `mtg:Prairie Stream` | — | Land — Plains Island | £0.18 |
+> | `mtg:Port Town` 🟡 | — | Land | £0.16 |
+> | `mtg:Prairie Stream` 🟡 | — | Land — Plains Island | £0.18 |
 > | `mtg:Reliquary Tower` | — | Land | £2.57 |
 > | `mtg:Rivendell` | — | Land | £1.12 |
 > | `mtg:Sea of Clouds` | — | Land | £15.57 |
@@ -9342,7 +9342,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 2,458 |
 > | **Rank** | 976 |
 > | **Finish** | £295 |
-> | **Next box(s)** | [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DOM\|DOM]] [MKM](https://scryfall.com/sets/mkm) [[06 Browse/Sets/DFT\|DFT]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] |
+> | **Next box(s)** | [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {W}{U} **Artifact soldiers**. Artifact creatures +2/+2. {6}: copy an artifact as a 1/1 Soldier. The line is artifact-creature density (Chief of the Foundry, Steel Overseer, Foundry Inspector, Ornithopter of Paradise, Stonecoil Serpent, Ancient Den / Seat of the Synod, Nettlecyst, Master of Etherium) so the anthem is real, then copy Sol Ring / a value artifact into a Soldier. Overlaps Kykar on Azorius — variety penalty already applied. Still not a blink deck: it is artifact creatures and copies. Sai, Master Thopterist and Urza, Lord Protector's cousins if owned.
 >
@@ -9403,7 +9403,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Counterspell` | {U}{U} | Instant | £2.68 |
 > | `mtg:Dispatch` | {W} | Instant | £0.22 |
 > | `mtg:Stern Lesson` | {2}{U} | Instant | £0.11 |
-> | `mtg:Swords to Plowshares` | {W} | Instant | £1.74 |
+> | `mtg:Swords to Plowshares` 🟡 | {W} | Instant | £1.74 |
 > | `mtg:Three Steps Ahead` | {U} | Instant | £4.48 |
 > | `mtg:Urza's Command` | {2}{U}{U} | Instant | £0.26 |
 > | `mtg:Whir of Invention` | {X}{U}{U}{U} | Instant | £4.09 |
@@ -9422,7 +9422,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Forsaken Monument` | {5} | Artifact | £2.78 |
 > | `mtg:Heartstone` | {3} | Artifact | £1.32 |
 > | `mtg:Idol of Oblivion` | {2} | Artifact | £1.34 |
-> | `mtg:Lightning Greaves` | {2} | Artifact — Equipment | £3.64 |
+> | `mtg:Lightning Greaves` 🟡 | {2} | Artifact — Equipment | £3.64 |
 > | `mtg:Liquimetal Torque` | {2} | Artifact | £2.11 |
 > | `mtg:Luck Bobblehead` | {3} | Artifact — Bobblehead | £2.18 |
 > | `mtg:Mystic Forge` | {4} | Artifact | £2.01 |
@@ -9449,7 +9449,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Monumental Henge` | — | Land | £0.42 |
 > | `mtg:Otawara, Soaring City` | — | Land | £19.81 |
 > | `mtg:Power Depot` | — | Land | £0.27 |
-> | `mtg:Razortide Bridge` | — | Land | £0.17 |
+> | `mtg:Razortide Bridge` 🟡 | — | Land | £0.17 |
 > | `mtg:Seat of the Synod` | — | Land | £0.72 |
 > | `mtg:Spire of Industry` | — | Land | £0.18 |
 > | `mtg:The Mycosynth Gardens` | — | Land — Sphere | £0.50 |
@@ -9484,7 +9484,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Decks** | 11,602 |
 > | **Rank** | 200 |
 > | **Finish** | £249 |
-> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MH3\|MH3]] [MH1](https://scryfall.com/sets/mh1) [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) |
+> | **Next box(s)** | [[06 Browse/Sets/FDN\|FDN]] [[06 Browse/Sets/SOS\|SOS]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/M21\|M21]] [[06 Browse/Sets/ECL\|ECL]] [[06 Browse/Sets/M19\|M19]] [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/NEO\|NEO]] [[06 Browse/Sets/DSK\|DSK]] [[06 Browse/Sets/THB\|THB]] [[06 Browse/Sets/TLA\|TLA]] [[06 Browse/Sets/BLB\|BLB]] [[06 Browse/Sets/ZNR\|ZNR]] [MH2](https://scryfall.com/sets/mh2) |
 >
 > {W}{G} **Cats**. Cat tribal in Selesnya — same go-wide tokens + lifegain + go-tall line as mono-white, with green opening the rest of the tribe. Arahbo, the First Fang sits in the 99 as the nontoken-Cat token engine; Eminence pumps one Cat each combat. Regal Caracal, Feline Sovereign, Mirri, Weatherlight Duelist, Qasali Slingers, and King of the Pride are the tribal bombs. Lifegain (Authority of the Consuls, Felidar Retreat) feeds Ajani's Pridemate; tokens feed Skyknight Squire. Germination Practicum and green ramp (Cultivate, Nature's Lore) keep the curve honest. Restoration Seminar and Helping Hand bring back First Fang, Regal Caracal, and Pridemate. Heroic Intervention and Claws Out protect the wide board; anthems (Patchwork Banner, Firdoch Core, Mirari's Wake, Beastmaster Ascension) turn the tokens into the win.
 >
@@ -9547,8 +9547,8 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Jazal Goldmane` | {2}{W}{W} | Creature — Cat Warrior | £0.14 |
 > | `mtg:Jedit Ojanen of Efrava` | {3}{G}{G}{G} | Creature — Cat Warrior | £0.34 |
 > | `mtg:Kaheera, the Orphanguard` | {1}{G/W}{G/W} | Creature — Cat Beast | £0.51 |
-> | `mtg:Keeper of Fables` | {3}{G}{G} | Creature — Cat | £0.19 |
-> | `mtg:King of the Pride` | {2}{W} | Creature — Cat | £0.22 |
+> | `mtg:Keeper of Fables` 🟡 | {3}{G}{G} | Creature — Cat | £0.19 |
+> | `mtg:King of the Pride` 🟡 | {2}{W} | Creature — Cat | £0.22 |
 > | `mtg:Kutzil, Malamet Exemplar` | {1}{G}{W} | Creature — Cat Warrior | £2.39 |
 > | `mtg:Leonin Warleader` | {2}{W}{W} | Creature — Cat Soldier | £3.14 |
 > | `mtg:Lion Sash` | {1}{W} | Creature — Equipment Cat | £1.54 |
@@ -9558,13 +9558,13 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Prowling Serpopard` | {1}{G}{G} | Creature — Cat Snake | £1.41 |
 > | `mtg:Qasali Pridemage` | {G}{W} | Creature — Cat Wizard | £0.14 |
 > | `mtg:Qasali Slingers` | {4}{G} | Creature — Cat Warrior | £6.71 |
-> | `mtg:Skyknight Squire` | {1}{W} | Creature — Cat Scout | £0.31 |
+> | `mtg:Skyknight Squire` 🟡 | {1}{W} | Creature — Cat Scout | £0.31 |
 > | `mtg:Sovereign Okinec Ahau` | {2}{G}{W} | Creature — Cat Noble | £2.27 |
 > | `mtg:Akroma's Will` | {3}{W} | Instant | £11.77 |
 > | `mtg:Heroic Intervention` | {1}{G} | Instant | £11.46 |
 > | `mtg:Unbreakable Formation` | {2}{W} | Instant | £0.50 |
 > | `mtg:White Sun's Zenith` | {X}{W}{W}{W} | Instant | £0.19 |
-> | `mtg:Cultivate` | {2}{G} | Sorcery | £0.37 |
+> | `mtg:Cultivate` 🟡 | {2}{G} | Sorcery | £0.37 |
 > | `mtg:Germination Practicum` | {3}{G}{G} | Sorcery — Lesson | £5.72 |
 > | `mtg:Nature's Lore` | {1}{G} | Sorcery | £2.21 |
 > | `mtg:Practiced Offense` | {2}{W} | Sorcery | £0.71 |
@@ -9574,12 +9574,12 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ajani's Welcome` | {W} | Enchantment | £1.79 |
 > | `mtg:Authority of the Consuls` | {W} | Enchantment | £3.91 |
 > | `mtg:Beastmaster Ascension` | {2}{G} | Enchantment | £3.48 |
-> | `mtg:Intangible Virtue` | {1}{W} | Enchantment | £0.16 |
+> | `mtg:Intangible Virtue` 🟡 | {1}{W} | Enchantment | £0.16 |
 > | `mtg:Mirari's Wake` | {3}{G}{W} | Enchantment | £3.52 |
 > | `mtg:Sheltered by Ghosts` | {1}{W} | Enchantment — Aura | £1.52 |
 > | `mtg:Banner of Kinship` | {5} | Artifact | £5.21 |
 > | `mtg:Chronicle of Victory` | {6} | Artifact | £16.63 |
-> | `mtg:Firdoch Core` | {3} | Artifact — Shapeshifter | £0.13 |
+> | `mtg:Firdoch Core` 🟡 | {3} | Artifact — Shapeshifter | £0.13 |
 > | `mtg:Herald's Horn` | {3} | Artifact | £3.96 |
 > | `mtg:Abandoned Air Temple` | — | Land | £6.58 |
 > | `mtg:Animal Sanctuary` | — | Land | £1.16 |
@@ -9593,12 +9593,12 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Krosan Verge` | — | Land | £0.17 |
 > | `mtg:Mosswort Bridge` | — | Land | £0.34 |
 > | `mtg:Opal Palace` | — | Land | £0.14 |
-> | `mtg:Overgrown Farmland` | — | Land | £3.10 |
-> | `mtg:Path of Ancestry` | — | Land | — |
+> | `mtg:Overgrown Farmland` 🟡 | — | Land | £3.10 |
+> | `mtg:Path of Ancestry` 🟡 | — | Land | — |
 > | `mtg:Rogue's Passage` | — | Land | £0.95 |
 > | `mtg:Secluded Courtyard` | — | Land | £0.20 |
 > | `mtg:Selesnya Sanctuary` | — | Land | £0.12 |
-> | `mtg:Sunpetal Grove` | — | Land | £0.31 |
+> | `mtg:Sunpetal Grove` 🟡 | — | Land | £0.31 |
 > | `mtg:Temple Garden` | — | Land — Forest Plains | — |
 > | `mtg:Three Tree City` | — | Land | £16.62 |
 > | `mtg:Unclaimed Territory` | — | Land | £0.21 |

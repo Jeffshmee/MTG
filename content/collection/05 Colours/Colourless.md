@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**99** copies · **72** names.
+**104** copies · **76** names.
 
 ```decklist
 group: auto
@@ -41,6 +41,7 @@ legality: commander
 
 # Artifacts
 1 Abzan Monument
+1 Arc Reactor
 2 Arcane Signet
 1 Azorius Signet
 1 Basilisk Collar
@@ -49,11 +50,14 @@ legality: commander
 1 Cultivator's Caravan
 4 Dawn-Blessed Pennant
 1 Diary of Dreams
+1 Dwarven Mattock
+1 Excalibur II
 1 Expedition Map
 1 Feldon's Cane
 1 Firdoch Core
 1 Fireshrieker
 1 Fishing Pole
+1 Fountainport Bell
 2 Giant's Boulder
 1 Gilded Lotus
 1 Goldvein Pick
@@ -75,7 +79,7 @@ legality: commander
 1 Ravenous Amulet
 1 Skullclamp
 1 Skybox Ferry
-4 Sol Ring
+5 Sol Ring
 1 Sorcerous Spyglass
 1 Soul-Guide Lantern
 1 Stalactite Dagger

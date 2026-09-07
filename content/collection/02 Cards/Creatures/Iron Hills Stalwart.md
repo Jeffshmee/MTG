@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 07/09/2026 | MageCards · avm4474 |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>102</td><td>—</td><td>2</td><td>Box</td><td>0.02</td></tr>
+<tr><td>The Hobbit (<code>HOB</code>)</td><td>102</td><td>foil</td><td>1</td><td>Box</td><td>0.02</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,14 +57,14 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/4/6/46daa9ac-0ac7-4df9-b9d2-e03ab5b56c72.jpg" alt="Iron Hills Stalwart HOB 102 · ×2">
-<figcaption>HOB 102 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/4/6/46daa9ac-0ac7-4df9-b9d2-e03ab5b56c72.jpg" alt="Iron Hills Stalwart HOB 102 · ×3">
+<figcaption>HOB 102 · ×3</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Dwarf|Dwarf]] · [[04 Creature Types/Warrior|Warrior]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (5)|Mana (5)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/HOB|The Hobbit]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Dwarf|Dwarf]] · [[04 Creature Types/Warrior|Warrior]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (5)|Mana (5)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/HOB|The Hobbit]]
 
 ---
 
@@ -75,7 +77,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 5
 > type: "Creature — Dwarf Warrior"
 > scryfall_id: 46daa9ac-0ac7-4df9-b9d2-e03ab5b56c72
-> quantity: 2
+> quantity: 3
 > tags:
 >   - card
 >   - collection

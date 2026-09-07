@@ -2,7 +2,7 @@
 
 Card type: Artifact.
 
-**114** copies · **90** names.
+**120** copies · **95** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,12 +10,14 @@ Card type: Artifact.
 | [**`mtg:Bear Trap`**](https://scryfall.com/card/dsk/243) | [[02 Cards/Artifacts/Bear Trap\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.05 |
 | [**`mtg:Clockwork Percussionist`**](https://scryfall.com/card/dsk/130) | [[02 Cards/Creatures/Clockwork Percussionist\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Monkey\|Monkey]] [[04 Creature Types/Toy\|Toy]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.12 |
 | [**`mtg:Dawn-Blessed Pennant`**](https://scryfall.com/card/ecl/254) | [[02 Cards/Artifacts/Dawn-Blessed Pennant\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.60 |
+| [**`mtg:Excalibur II`**](https://scryfall.com/card/fin/257) | [[02 Cards/Artifacts/Excalibur II\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.38 |
 | [**`mtg:Expedition Map`**](https://scryfall.com/card/m3c/292) | [[02 Cards/Artifacts/Expedition Map\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 1.28 |
 | [**`mtg:Feldon's Cane`**](https://scryfall.com/card/fdn/673) | [[02 Cards/Artifacts/Feldon's Cane\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.20 |
 | [**`mtg:Fishing Pole`**](https://scryfall.com/card/fdn/128) | [[02 Cards/Artifacts/Fishing Pole\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.10 |
+| [**`mtg:Fountainport Bell`**](https://scryfall.com/card/blb/245) | [[02 Cards/Artifacts/Fountainport Bell\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.12 |
 | [**`mtg:Giant's Boulder`**](https://scryfall.com/card/hob/173) | [[02 Cards/Artifacts/Giant's Boulder\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.20 |
 | [**`mtg:Skullclamp`**](https://scryfall.com/card/tdc/103) | [[02 Cards/Artifacts/Skullclamp\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 5.26 |
-| [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 7.33 |
+| [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 5 | 8.60 |
 | [**`mtg:Soul-Guide Lantern`**](https://scryfall.com/card/eoc/143) | [[02 Cards/Artifacts/Soul-Guide Lantern\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
 | [**`mtg:Wayfarer's Bauble`**](https://scryfall.com/card/tdc/335) | [[02 Cards/Artifacts/Wayfarer's Bauble\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.22 |
 | [**`mtg:Abzan Monument`**](https://scryfall.com/card/tdm/238) | [[02 Cards/Artifacts/Abzan Monument\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
@@ -30,6 +32,7 @@ Card type: Artifact.
 | [**`mtg:Diary of Dreams`**](https://scryfall.com/card/sos/248) | [[02 Cards/Artifacts/Diary of Dreams\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Diversion Unit`**](https://scryfall.com/card/dft/41) | [[02 Cards/Creatures/Diversion Unit\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Robot\|Robot]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
 | [**`mtg:Dragonbroods' Relic`**](https://scryfall.com/card/tdm/140) | [[02 Cards/Artifacts/Dragonbroods' Relic\|PAGE]] | {1}{G} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
+| [**`mtg:Dwarven Mattock`**](https://scryfall.com/card/hob/172) | [[02 Cards/Artifacts/Dwarven Mattock\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Embermouth Sentinel`**](https://scryfall.com/card/tdm/242) | [[02 Cards/Creatures/Embermouth Sentinel\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Chimera\|Chimera]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Foraging Wickermaw`**](https://scryfall.com/card/ecl/256) | [[02 Cards/Creatures/Foraging Wickermaw\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Scarecrow\|Scarecrow]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Goblin Plate Mail`**](https://scryfall.com/card/hob/157) | [[02 Cards/Artifacts/Goblin Plate Mail\|PAGE]] | {1}{B/R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
@@ -83,6 +86,8 @@ Card type: Artifact.
 | [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 10.47 |
 | [**`mtg:Resonating Lute`**](https://scryfall.com/card/sos/221) | [[02 Cards/Artifacts/Resonating Lute\|PAGE]] | {2}{U}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.27 |
 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
+| [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | {2}{W}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
+| [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
 | [**`mtg:Boulderborn Dragon`**](https://scryfall.com/card/tdm/239) | [[02 Cards/Creatures/Boulderborn Dragon\|PAGE]] | {5} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.13 |
 | [**`mtg:Gilded Lotus`**](https://scryfall.com/card/blc/271) | [[02 Cards/Artifacts/Gilded Lotus\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
 | [**`mtg:Pyromancer's Goggles`**](https://scryfall.com/card/fdn/677) | [[02 Cards/Artifacts/Pyromancer's Goggles\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.57 |

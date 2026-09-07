@@ -2,7 +2,7 @@
 
 Set `BLB`. Qty here is copies of this name from this set.
 
-**40** copies · **40** names.
+**41** copies · **41** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -12,6 +12,7 @@ Set `BLB`. Qty here is copies of this name from this set.
 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.45 |
 | [**`mtg:Three Tree City`**](https://scryfall.com/card/blb/260) | [[02 Cards/Lands/Three Tree City\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 16.59 |
 | [**`mtg:Brave-Kin Duo`**](https://scryfall.com/card/blb/3) | [[02 Cards/Creatures/Brave-Kin Duo\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rabbit\|Rabbit]] [[04 Creature Types/Mouse\|Mouse]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.05 |
+| [**`mtg:Fountainport Bell`**](https://scryfall.com/card/blb/245) | [[02 Cards/Artifacts/Fountainport Bell\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.12 |
 | [**`mtg:Into the Flood Maw`**](https://scryfall.com/card/blb/52) | [[02 Cards/Instants/Into the Flood Maw\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 1.33 |
 | [**`mtg:Might of the Meek`**](https://scryfall.com/card/blb/144) | [[02 Cards/Instants/Might of the Meek\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.14 |
 | [**`mtg:Scavenger's Talent`**](https://scryfall.com/card/blb/111) | [[02 Cards/Enchantments/Scavenger's Talent\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.82 |

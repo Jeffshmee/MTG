@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Peregrine Drake`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {4}{U}  
 > **Type:** Creature — Drake  
 > **P/T:** 2/3  
@@ -51,11 +51,11 @@
 
 ## Deck Role & Rating
 
-Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Flicker + Archaeomancer (three-card). Fair use: blink him with Skycoach or Thassa for a burst of mana into Channeler. Not in the owned 65. Buy-rank 6.
+Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Flicker + Archaeomancer (three-card). Fair use: blink him with Skycoach or Thassa for a burst of mana into Channeler. In hand on the sideboard. Completes Deadeye — sleeve when a cut is named.
 
 ## Play Patterns & Lines
 
-- Not in the owned 65. Buy the combo four in one basket (Flicker, Archaeomancer, Drake, Deadeye).
+- In hand. Archaeomancer, Deadeye, and Flicker are in the 100. Drake completes both loops — sleeve when a cut is named.
 - Two-card: Deadeye soulbond Drake, {1}{U} flicker Drake, untap five, net mana, repeat. Dump into Channeler (bounce) or Mulldrifter (draw).
 - Three-card: Flicker Archaeomancer and Drake. Archaeomancer returns Flicker. Same dump.
 - Fair: Drake is five mana of untap; Flicker is two permanents; Archaeomancer is Unsummon / Roil from the yard. Play them without the loop.
@@ -70,7 +70,6 @@ Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Fl
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
 
 ## Related Pages
 
@@ -93,7 +92,7 @@ Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Fl
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Flying"]
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 82
 >   deck_specific: 94
@@ -101,7 +100,7 @@ Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Fl
 > scryfall_id: 611c8fa2-b53f-483b-9efa-759ac59dc30f
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - creature
 > ```
 

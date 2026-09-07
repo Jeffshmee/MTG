@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**232** copies · **155** names.
+**233** copies · **156** names.
 
 ```decklist
 group: auto
@@ -122,6 +122,7 @@ legality: commander
 3 Broken Wings
 2 Burrog Barrage
 2 Efflorescence
+1 Get a Leg Up
 3 Giant Growth
 2 Glorious Decay
 2 Heritage Reclamation

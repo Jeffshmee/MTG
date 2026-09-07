@@ -13,6 +13,7 @@ legality: commander
 1 Confounding Riddle
 1 Aid from the Cowl
 1 Wardens of the Cycle
+1 Counterspell
 
 # Recent Cuts
 1 Evolving Wilds
@@ -41,7 +42,6 @@ legality: commander
 
 # Wishlist
 1 Bitterblossom
-1 Counterspell
 1 Nature's Lore
 1 Three Visits
 1 Urborg Elf
@@ -54,7 +54,7 @@ legality: commander
 ```
 
 *Source: `maralen-fae/07 Assets/sideboard.md`*
-*Last synced: 2026-09-04*
+*Last synced: 2026-09-07*
 
 ---
 
@@ -256,12 +256,15 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 > > - [[02 Cards/Instants/Negate|Negate]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
 
 > [!info] **`mtg:Counterspell`**
-> **79** / 100 · ⚪ Wishlist
+> **79** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:79%"></div></div>
 >
 > [[02 Cards/Instants/Counterspell|Open local page →]]
 >
-> *Stay in sideboard / wishlist — not purchased.*
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Instants/Negate|Negate]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> > - [[02 Cards/Sorceries/Origin of Metalbending|Origin of Metalbending]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
+> > - [[02 Cards/Creatures/Shessra, Death's Whisper|Shessra, Death's Whisper]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
 
 ### Sorceries
 > [!info] **`mtg:Sign in Blood`**

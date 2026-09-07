@@ -2,16 +2,40 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**302** copies · **50** names.
+**245** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
+| 07/09/2026 | [**`mtg:Adelbert Steiner`**](https://scryfall.com/card/fin/3) | [[02 Cards/Creatures/Adelbert Steiner\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Angel of Finality`**](https://scryfall.com/card/fdn/136) | [[02 Cards/Creatures/Angel of Finality\|PAGE]] | 2 |
+| 07/09/2026 | [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Balin, Loremaster`**](https://scryfall.com/card/hob/87) | [[02 Cards/Creatures/Balin, Loremaster\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Counterspell`**](https://scryfall.com/card/cmm/81) | [[02 Cards/Instants/Counterspell\|PAGE]] | 2 |
+| 07/09/2026 | [**`mtg:Dwarven Mattock`**](https://scryfall.com/card/hob/172) | [[02 Cards/Artifacts/Dwarven Mattock\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Ephemerate`**](https://scryfall.com/card/mar/44) | [[02 Cards/Instants/Ephemerate\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Excalibur II`**](https://scryfall.com/card/fin/257) | [[02 Cards/Artifacts/Excalibur II\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Fountainport Bell`**](https://scryfall.com/card/blb/245) | [[02 Cards/Artifacts/Fountainport Bell\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Frozen in Ice`**](https://scryfall.com/card/msh/54) | [[02 Cards/Enchantments/Frozen in Ice\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Get a Leg Up`**](https://scryfall.com/card/mkm/161) | [[02 Cards/Instants/Get a Leg Up\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Iron Hills`**](https://scryfall.com/card/hob/185) | [[02 Cards/Lands/Iron Hills\|PAGE]] | 2 |
+| 07/09/2026 | [**`mtg:Iron Hills Stalwart`**](https://scryfall.com/card/hob/102) | [[02 Cards/Creatures/Iron Hills Stalwart\|PAGE]] | 3 |
+| 07/09/2026 | [**`mtg:Lightning Strike`**](https://scryfall.com/card/dft/136) | [[02 Cards/Instants/Lightning Strike\|PAGE]] | 2 |
+| 07/09/2026 | [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | 29 |
+| 07/09/2026 | [**`mtg:Peregrine Drake`**](https://scryfall.com/card/dmr/65) | [[02 Cards/Creatures/Peregrine Drake\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Sanguine Syphoner`**](https://scryfall.com/card/fdn/68) | [[02 Cards/Creatures/Sanguine Syphoner\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | 5 |
+| 07/09/2026 | [**`mtg:Soulherder`**](https://scryfall.com/card/mh1/214) | [[02 Cards/Creatures/Soulherder\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | 5 |
+| 07/09/2026 | [**`mtg:Spider Manifestation`**](https://scryfall.com/card/spm/148) | [[02 Cards/Creatures/Spider Manifestation\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:The Lonely Mountain`**](https://scryfall.com/card/hob/187) | [[02 Cards/Lands/The Lonely Mountain\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Thranduil's Company`**](https://scryfall.com/card/hob/168) | [[02 Cards/Creatures/Thranduil's Company\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:Virtue of Knowledge`**](https://scryfall.com/card/woe/279) | [[02 Cards/Enchantments/Virtue of Knowledge\|PAGE]] | 1 |
+| 07/09/2026 | [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | 1 |
 | 05/09/2026 | [**`mtg:Boomerang Basics`**](https://scryfall.com/card/tla/46) | [[02 Cards/Sorceries/Boomerang Basics\|PAGE]] | 1 |
 | 05/09/2026 | [**`mtg:Deputy of Detention`**](https://scryfall.com/card/rna/165) | [[02 Cards/Creatures/Deputy of Detention\|PAGE]] | 1 |
 | 05/09/2026 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | 40 |
 | 05/09/2026 | [**`mtg:Ghostly Flicker`**](https://scryfall.com/card/plst/KHC-39) | [[02 Cards/Instants/Ghostly Flicker\|PAGE]] | 1 |
 | 05/09/2026 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | 39 |
-| 05/09/2026 | [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | 28 |
 | 05/09/2026 | [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | 39 |
 | 04/09/2026 | [**`mtg:Aetherize`**](https://scryfall.com/card/znc/23) | [[02 Cards/Instants/Aetherize\|PAGE]] | 1 |
 | 04/09/2026 | [**`mtg:Airbender Ascension`**](https://scryfall.com/card/tla/6) | [[02 Cards/Enchantments/Airbender Ascension\|PAGE]] | 1 |
@@ -32,27 +56,3 @@ The 50 names most recently added to the collection. Cards with no recorded date 
 | 04/09/2026 | [**`mtg:Goblin`**](https://scryfall.com/card/ttdm/12) | [[02 Cards/Tokens/Goblin\|PAGE]] | 25 |
 | 04/09/2026 | [**`mtg:Hallowed Fountain`**](https://scryfall.com/card/ecl/265) | [[02 Cards/Lands/Hallowed Fountain\|PAGE]] | 1 |
 | 04/09/2026 | [**`mtg:Loran of the Third Path`**](https://scryfall.com/card/blc/143) | [[02 Cards/Creatures/Loran of the Third Path\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | 3 |
-| 04/09/2026 | [**`mtg:Myr`**](https://scryfall.com/card/tmh1/19) | [[02 Cards/Tokens/Myr\|PAGE]] | 3 |
-| 04/09/2026 | [**`mtg:Mystic Sanctuary`**](https://scryfall.com/card/soc/388) | [[02 Cards/Lands/Mystic Sanctuary\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Pentavite`**](https://scryfall.com/card/tcm2/13) | [[02 Cards/Tokens/Pentavite\|PAGE]] | 2 |
-| 04/09/2026 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | 30 |
-| 04/09/2026 | [**`mtg:Reflector Mage`**](https://scryfall.com/card/ogw/157) | [[02 Cards/Creatures/Reflector Mage\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Spirit`**](https://scryfall.com/card/tsos/11) | [[02 Cards/Tokens/Spirit\|PAGE]] | 20 |
-| 04/09/2026 | [**`mtg:Super-Soldier Serum`**](https://scryfall.com/card/msh/38) | [[02 Cards/Enchantments/Super-Soldier Serum\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Teleportation Circle`**](https://scryfall.com/card/afr/39) | [[02 Cards/Enchantments/Teleportation Circle\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Thorin Oakenshield`**](https://scryfall.com/card/hob/165) | [[02 Cards/Creatures/Thorin Oakenshield\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Treasure`**](https://scryfall.com/card/tsos/12) | [[02 Cards/Tokens/Treasure\|PAGE]] | 19 |
-| 03/09/2026 | [**`mtg:Arahbo, the First Fang`**](https://scryfall.com/card/fdn/2) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Archaeomancer`**](https://scryfall.com/card/uma/45) | [[02 Cards/Creatures/Archaeomancer\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Danitha, Benalia's Hope`**](https://scryfall.com/card/dmu/15) | [[02 Cards/Creatures/Danitha, Benalia's Hope\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | 2 |
-| 03/09/2026 | [**`mtg:Ponder`**](https://scryfall.com/card/tdc/159) | [[02 Cards/Sorceries/Ponder\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Savage Lands`**](https://scryfall.com/card/cmm/1025) | [[02 Cards/Lands/Savage Lands\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Scour for Scrap`**](https://scryfall.com/card/eoe/73) | [[02 Cards/Instants/Scour for Scrap\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Snap`**](https://scryfall.com/card/dds/10) | [[02 Cards/Instants/Snap\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Starfield Vocalist`**](https://scryfall.com/card/eoe/78) | [[02 Cards/Creatures/Starfield Vocalist\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/prm/86132) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Talisman of Progress`**](https://scryfall.com/card/msc/221) | [[02 Cards/Artifacts/Talisman of Progress\|PAGE]] | 1 |
-| 03/09/2026 | [**`mtg:Wizard's Staff`**](https://scryfall.com/card/hob/59) | [[02 Cards/Artifacts/Wizard's Staff\|PAGE]] | 1 |

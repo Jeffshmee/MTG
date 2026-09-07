@@ -2,7 +2,7 @@
 
 Card type: Instant.
 
-**258** copies · **176** names.
+**264** copies · **180** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -15,9 +15,11 @@ Card type: Instant.
 | [**`mtg:Dive Down`**](https://scryfall.com/card/fdn/588) | [[02 Cards/Instants/Dive Down\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
 | [**`mtg:Divergent Equation`**](https://scryfall.com/card/sos/43) | [[02 Cards/Instants/Divergent Equation\|PAGE]] | {X}{X}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.12 |
 | [**`mtg:Divine Resilience`**](https://scryfall.com/card/fdn/10) | [[02 Cards/Instants/Divine Resilience\|PAGE]] | {W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.32 |
+| [**`mtg:Ephemerate`**](https://scryfall.com/card/mar/44) | [[02 Cards/Instants/Ephemerate\|PAGE]] | {W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 4.30 |
 | [**`mtg:Flashback`**](https://scryfall.com/card/sos/115) | [[02 Cards/Instants/Flashback\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 4.11 |
 | [**`mtg:Fractal Anomaly`**](https://scryfall.com/card/sos/50) | [[02 Cards/Instants/Fractal Anomaly\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.10 |
 | [**`mtg:Fractalize`**](https://scryfall.com/card/sos/51) | [[02 Cards/Instants/Fractalize\|PAGE]] | {X}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.10 |
+| [**`mtg:Get a Leg Up`**](https://scryfall.com/card/mkm/161) | [[02 Cards/Instants/Get a Leg Up\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.18 |
 | [**`mtg:Giant Growth`**](https://scryfall.com/card/fdn/223) | [[02 Cards/Instants/Giant Growth\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.16 |
 | [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Bard\|Bard]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.32 |
 | [**`mtg:Interjection`**](https://scryfall.com/card/sos/22) | [[02 Cards/Instants/Interjection\|PAGE]] | {W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.12 |
@@ -53,6 +55,7 @@ Card type: Instant.
 | [**`mtg:Burrog Barrage`**](https://scryfall.com/card/sos/141) | [[02 Cards/Instants/Burrog Barrage\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.18 |
 | [**`mtg:Call to Heel`**](https://scryfall.com/card/bbd/114) | [[02 Cards/Instants/Call to Heel\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Choreographed Sparks`**](https://scryfall.com/card/sos/111) | [[02 Cards/Instants/Choreographed Sparks\|PAGE]] | {R}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
+| [**`mtg:Counterspell`**](https://scryfall.com/card/cmm/81) | [[02 Cards/Instants/Counterspell\|PAGE]] | {U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 3.05 |
 | [**`mtg:Dawn's Truce`**](https://scryfall.com/card/blb/9) | [[02 Cards/Instants/Dawn's Truce\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 8.13 |
 | [**`mtg:Deadly Dispute`**](https://scryfall.com/card/tdc/177) | [[02 Cards/Instants/Deadly Dispute\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.49 |
 | [**`mtg:Deduce`**](https://scryfall.com/card/soa/16) | [[02 Cards/Instants/Deduce\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
@@ -71,7 +74,7 @@ Card type: Instant.
 | [**`mtg:Just the Wind`**](https://scryfall.com/card/uma/60) | [[02 Cards/Instants/Just the Wind\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Last Gasp`**](https://scryfall.com/card/sos/86) | [[02 Cards/Instants/Last Gasp\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.06 |
 | [**`mtg:Lightfoot Technique`**](https://scryfall.com/card/tdm/14) | [[02 Cards/Instants/Lightfoot Technique\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.10 |
-| [**`mtg:Lightning Strike`**](https://scryfall.com/card/tla/146) | [[02 Cards/Instants/Lightning Strike\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
+| [**`mtg:Lightning Strike`**](https://scryfall.com/card/dft/136) | [[02 Cards/Instants/Lightning Strike\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.11 |
 | [**`mtg:Lofty Denial`**](https://scryfall.com/card/m21/56) | [[02 Cards/Instants/Lofty Denial\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |
 | [**`mtg:Lorehold Charm`**](https://scryfall.com/card/sos/200) | [[02 Cards/Instants/Lorehold Charm\|PAGE]] | {R}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
 | [**`mtg:Lumaret's Favor`**](https://scryfall.com/card/sos/153) | [[02 Cards/Instants/Lumaret's Favor\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.10 |
@@ -178,6 +181,7 @@ Card type: Instant.
 | [**`mtg:Purging Stormbrood`**](https://scryfall.com/card/tdm/213) | [[02 Cards/Creatures/Purging Stormbrood\|PAGE]] | {4}{B} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.08 |
 | [**`mtg:Stress Dream`**](https://scryfall.com/card/sos/235) | [[02 Cards/Instants/Stress Dream\|PAGE]] | {3}{U}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Unexpected Assistance`**](https://scryfall.com/card/ecl/80) | [[02 Cards/Instants/Unexpected Assistance\|PAGE]] | {3}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
+| [**`mtg:Virtue of Knowledge`**](https://scryfall.com/card/woe/279) | [[02 Cards/Enchantments/Virtue of Knowledge\|PAGE]] | {4}{U} // {1}{U} | [[03 Card Types/Instant\|Instant]] [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 4.60 |
 | [**`mtg:Dirgur Island Dragon`**](https://scryfall.com/card/tdm/40) | [[02 Cards/Creatures/Dirgur Island Dragon\|PAGE]] | {5}{U} // {1}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.06 |
 | [**`mtg:Homesickness`**](https://scryfall.com/card/sos/53) | [[02 Cards/Instants/Homesickness\|PAGE]] | {4}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.10 |
 | [**`mtg:Kin-Tree Severance`**](https://scryfall.com/card/tdm/200) | [[02 Cards/Instants/Kin-Tree Severance\|PAGE]] | {2/W}{2/B}{2/G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.04 |

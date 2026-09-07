@@ -31,6 +31,7 @@
 |------|-------|
 | 21/08/2026 | Ordered to owned |
 | 24/08/2026 | Traded to Mark for Leaf-Crowned Visionary |
+| 07/09/2026 | MageCards · Milk |
 
 </div>
 
@@ -39,7 +40,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>4</div>
+<div class="synergy-score-num"><span>Copies</span>5</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -47,6 +48,7 @@
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>305</td><td>foil</td><td>2</td><td>Box</td><td>2.08</td></tr>
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>305</td><td>—</td><td>1</td><td>Zurgo</td><td>1.01</td></tr>
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>305</td><td>foil</td><td>1</td><td>Kykar</td><td>2.16</td></tr>
+<tr><td>Bloomburrow Commander (<code>BLC</code>)</td><td>129</td><td>—</td><td>1</td><td>Box</td><td>1.27</td></tr>
 </tbody>
 </table>
 </div>
@@ -66,11 +68,15 @@ Printings in the collection. Infocard uses the most copies.
 <img src="https://cards.scryfall.io/border_crop/front/1/9/19911e6e-7c35-4281-b31c-266382f052cc.jpg" alt="Sol Ring M3C 305 · ×4">
 <figcaption>M3C 305 · ×4</figcaption>
 </figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/f/fff440c0-7e6a-46c2-9989-f1b5af20fd44.jpg" alt="Sol Ring BLC 129 · ×1">
+<figcaption>BLC 129 · ×1</figcaption>
+</figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]] · [[06 Browse/Sets/BLC|Bloomburrow Commander]]
 
 ---
 
@@ -83,7 +89,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 1
 > type: "Artifact"
 > scryfall_id: 19911e6e-7c35-4281-b31c-266382f052cc
-> quantity: 4
+> quantity: 5
 > tags:
 >   - artifact
 >   - card

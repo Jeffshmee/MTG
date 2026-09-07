@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**236** copies · **179** names.
+**239** copies · **182** names.
 
 ```decklist
 group: auto
@@ -102,7 +102,9 @@ legality: commander
 1 Shessra, Death's Whisper
 2 Smaug, Wicked Worm
 1 Snooping Page
+1 Soulherder
 1 Spectacular Skywhale
+1 Spider Manifestation
 2 Spirit Mascot
 3 Stadium Tidalmage
 1 Stalwart Successor
@@ -119,6 +121,7 @@ legality: commander
 1 Teysa Karlov
 1 Thalisse, Reverent Medium
 1 Thorin Oakenshield
+1 Thranduil's Company
 1 Thranduil, Sindarin Liege // Silvan Rally
 1 Trygon Predator
 1 Twinflame Travelers

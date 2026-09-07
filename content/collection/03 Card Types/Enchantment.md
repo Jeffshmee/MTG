@@ -2,7 +2,7 @@
 
 Card type: Enchantment.
 
-**81** copies · **71** names.
+**83** copies · **73** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -32,6 +32,7 @@ Card type: Enchantment.
 | [**`mtg:Down, Down to Goblin-town`**](https://scryfall.com/card/hob/65) | [[02 Cards/Enchantments/Down, Down to Goblin-town\|PAGE]] | {2}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.15 |
 | [**`mtg:Dwindle`**](https://scryfall.com/card/m19/53) | [[02 Cards/Enchantments/Dwindle\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Enchanted River's Grasp`**](https://scryfall.com/card/hob/39) | [[02 Cards/Enchantments/Enchanted River's Grasp\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
+| [**`mtg:Frozen in Ice`**](https://scryfall.com/card/msh/54) | [[02 Cards/Enchantments/Frozen in Ice\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
 | [**`mtg:Garruk's Uprising`**](https://scryfall.com/card/ecc/109) | [[02 Cards/Enchantments/Garruk's Uprising\|PAGE]] | {2}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.47 |
 | [**`mtg:Imprisoned in the Moon`**](https://scryfall.com/card/inr/69) | [[02 Cards/Enchantments/Imprisoned in the Moon\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |
 | [**`mtg:Mardu Ascendancy`**](https://scryfall.com/card/ktk/185) | [[02 Cards/Enchantments/Mardu Ascendancy\|PAGE]] | {R}{W}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.31 |
@@ -72,6 +73,7 @@ Card type: Enchantment.
 | [**`mtg:Gratuitous Violence`**](https://scryfall.com/card/afc/127) | [[02 Cards/Enchantments/Gratuitous Violence\|PAGE]] | {2}{R}{R}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
 | [**`mtg:Illusory Gains`**](https://scryfall.com/card/dtk/59) | [[02 Cards/Enchantments/Illusory Gains\|PAGE]] | {3}{U}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.09 |
 | [**`mtg:Raiding Schemes`**](https://scryfall.com/card/ecl/239) | [[02 Cards/Enchantments/Raiding Schemes\|PAGE]] | {3}{R}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.42 |
+| [**`mtg:Virtue of Knowledge`**](https://scryfall.com/card/woe/279) | [[02 Cards/Enchantments/Virtue of Knowledge\|PAGE]] | {4}{U} // {1}{U} | [[03 Card Types/Instant\|Instant]] [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 4.60 |
 | [**`mtg:Bottomless Pool`**](https://scryfall.com/card/dsk/43) | [[02 Cards/Enchantments/Bottomless Pool\|PAGE]] | {U} // {4}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
 | [**`mtg:Confiscate`**](https://scryfall.com/card/fdn/709) | [[02 Cards/Enchantments/Confiscate\|PAGE]] | {4}{U}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
 | [**`mtg:Thousand-Year Storm`**](https://scryfall.com/card/fdn/248) | [[02 Cards/Enchantments/Thousand-Year Storm\|PAGE]] | {4}{U}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.49 |

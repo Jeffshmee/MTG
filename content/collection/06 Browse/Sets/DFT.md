@@ -2,7 +2,7 @@
 
 Set `DFT`. Qty here is copies of this name from this set.
 
-**28** copies · **28** names.
+**29** copies · **29** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -19,6 +19,7 @@ Set `DFT`. Qty here is copies of this name from this set.
 | [**`mtg:Cloudspire Coordinator`**](https://scryfall.com/card/dft/196) | [[02 Cards/Creatures/Cloudspire Coordinator\|PAGE]] | {R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Pilot\|Pilot]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
 | [**`mtg:Diversion Unit`**](https://scryfall.com/card/dft/41) | [[02 Cards/Creatures/Diversion Unit\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Robot\|Robot]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
 | [**`mtg:Gilded Ghoda`**](https://scryfall.com/card/dft/130) | [[02 Cards/Creatures/Gilded Ghoda\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Horse\|Horse]] [[04 Creature Types/Mount\|Mount]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
+| [**`mtg:Lightning Strike`**](https://scryfall.com/card/dft/136) | [[02 Cards/Instants/Lightning Strike\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Midnight Mangler`**](https://scryfall.com/card/dft/50) | [[02 Cards/Artifacts/Midnight Mangler\|PAGE]] | {1}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Skystreak Engineer`**](https://scryfall.com/card/dft/61) | [[02 Cards/Creatures/Skystreak Engineer\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Pilot\|Pilot]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
 | [**`mtg:Spectral Interference`**](https://scryfall.com/card/dft/63) | [[02 Cards/Instants/Spectral Interference\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |

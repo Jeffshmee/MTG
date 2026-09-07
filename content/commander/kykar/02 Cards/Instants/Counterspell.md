@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Counterspell`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {U}{U}  
 > **Type:** Instant  
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Counterspell is interaction at {U}{U}. Hold it for the spell that would remove [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or stop a Deadeye turn. Noncreature, so Kykar blinks or makes a Spirit. Hard counter. Hold up after you have islands. It is not in the owned 65 yet.
+Counterspell is interaction at {U}{U}. Hold it for the spell that would remove [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or stop a Deadeye turn. Noncreature, so Kykar blinks or makes a Spirit. Hard counter. Hold up after you have islands. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,6 @@ Counterspell is interaction at {U}{U}. Hold it for the spell that would remove [
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
 
 ## Related Pages
 
@@ -86,15 +85,15 @@ Counterspell is interaction at {U}{U}. Hold it for the spell that would remove [
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 90
 >   deck_specific: 84
 >   combined: 86
-> scryfall_id: 4f616706-ec97-4923-bb1e-11a69fbaa1f8
+> scryfall_id: 8493131c-0a7b-4be6-a8a2-0b425f4f67fb
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - instant
 > ```
 

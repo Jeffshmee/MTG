@@ -2,7 +2,7 @@
 
 Legendary cards in the collection.
 
-**129** copies · **110** names.
+**132** copies · **113** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,7 +10,9 @@ Legendary cards in the collection.
 | [**`mtg:Darkstar`**](https://scryfall.com/card/tfin/20) | [[02 Cards/Tokens/Darkstar\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.39 |
 | [**`mtg:Three Tree City`**](https://scryfall.com/card/blb/260) | [[02 Cards/Lands/Three Tree City\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 16.59 |
 | [**`mtg:Yavimaya, Cradle of Growth`**](https://scryfall.com/card/m3c/409) | [[02 Cards/Lands/Yavimaya, Cradle of Growth\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 9.76 |
+| [**`mtg:Excalibur II`**](https://scryfall.com/card/fin/257) | [[02 Cards/Artifacts/Excalibur II\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.38 |
 | [**`mtg:Northern Air Temple`**](https://scryfall.com/card/tla/111) | [[02 Cards/Enchantments/Northern Air Temple\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
+| [**`mtg:Adelbert Steiner`**](https://scryfall.com/card/fin/3) | [[02 Cards/Creatures/Adelbert Steiner\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
 | [**`mtg:Ayli, Eternal Pilgrim`**](https://scryfall.com/card/fdn/652) | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kor\|Kor]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Aziza, Mage Tower Captain`**](https://scryfall.com/card/sos/174) | [[02 Cards/Creatures/Aziza, Mage Tower Captain\|PAGE]] | {R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |
 | [**`mtg:Belladonna Took`**](https://scryfall.com/card/hob/214) | [[02 Cards/Creatures/Belladonna Took\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.90 |
@@ -87,6 +89,7 @@ Legendary cards in the collection.
 | [**`mtg:Urza, Prince of Kroog`**](https://scryfall.com/card/bro/226) | [[02 Cards/Creatures/Urza, Prince of Kroog\|PAGE]] | {2}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.32 |
 | [**`mtg:Vivien, Arkbow Ranger`**](https://scryfall.com/card/m20/199) | [[02 Cards/Planeswalkers/Vivien, Arkbow Ranger\|PAGE]] | {1}{G}{G}{G} | [[03 Card Types/Planeswalker\|Planeswalker]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.77 |
 | [**`mtg:Zimone, Paradox Sculptor`**](https://scryfall.com/card/fdn/351) | [[02 Cards/Creatures/Zimone, Paradox Sculptor\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 3.01 |
+| [**`mtg:Balin, Loremaster`**](https://scryfall.com/card/hob/87) | [[02 Cards/Creatures/Balin, Loremaster\|PAGE]] | {3}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.23 |
 | [**`mtg:Beorn, Reluctant Host`**](https://scryfall.com/card/hob/118) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | {4}{G} // {1}{G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Bear\|Bear]] [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.04 |
 | [**`mtg:Bolg of the North`**](https://scryfall.com/card/hob/148) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | {3}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.07 |
 | [**`mtg:Combustion Man`**](https://scryfall.com/card/tla/127) | [[02 Cards/Creatures/Combustion Man\|PAGE]] | {3}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Assassin\|Assassin]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.07 |

@@ -2,7 +2,7 @@
 
 Mono-red cards ({R} only). Lands and tokens are listed separately.
 
-**189** copies · **141** names.
+**192** copies · **142** names.
 
 ```decklist
 group: auto
@@ -10,6 +10,7 @@ legality: commander
 
 # Creatures
 2 Axgard Cavalry
+1 Balin, Loremaster
 1 Ball Lightning
 1 Battlesong Berserker
 1 Bedhead Beastie
@@ -52,7 +53,7 @@ legality: commander
 3 Heartfire Immolator
 1 Hoarding Dragon
 1 Invasion of Karsus // Refraction Elemental
-2 Iron Hills Stalwart
+3 Iron Hills Stalwart
 1 Item Shopkeep
 2 Jeskai Devotee
 1 Kindlespark Duo
@@ -104,7 +105,7 @@ legality: commander
 1 Goblin Surprise
 2 Heated Argument
 1 Hidetsugu's Second Rite
-1 Lightning Strike
+2 Lightning Strike
 1 Might of the Meek
 1 Monstrous Rage
 1 Pinecone Strike

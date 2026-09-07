@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**326** copies · **99** names.
+**329** copies · **100** names.
 
 ```decklist
 group: auto
@@ -51,7 +51,7 @@ legality: commander
 1 Hallowed Fountain
 1 Hidden Grotto
 1 Hobbit Hole
-1 Iron Hills
+2 Iron Hills
 39 Island
 1 Isolated Chapel
 1 Izzet Guildgate
@@ -59,7 +59,7 @@ legality: commander
 1 Maze's End
 1 Meditation Pools
 1 Mirkwood
-28 Mountain
+29 Mountain
 1 Mystic Sanctuary
 1 Nomad Outpost
 4 Opulent Palace
@@ -100,6 +100,7 @@ legality: commander
 2 Temple of Silence
 2 Temple of Triumph
 4 Terramorphic Expanse
+1 The Lonely Mountain
 4 Thornwood Falls
 1 Three Tree City
 4 Titan's Grave

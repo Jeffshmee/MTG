@@ -5,7 +5,7 @@
 > **Mana Cost:** {1}{R}
 > **Type:** Instant
 >
-> ![Lightning Strike](https://cards.scryfall.io/border_crop/front/5/7/5787b0e0-9469-4a6d-8b81-c992628e28c0.jpg)
+> ![Lightning Strike](https://cards.scryfall.io/border_crop/front/3/0/30077b49-b825-4dbb-a0c7-f3992f647df0.jpg)
 
 <div class="collection-side-tables">
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 07/09/2026 | MageCards · TommyNom |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Avatar: The Last Airbender (<code>TLA</code>)</td><td>146</td><td>—</td><td>1</td><td>Box</td><td>0.02</td></tr>
+<tr><td>Aetherdrift (<code>DFT</code>)</td><td>136</td><td>foil</td><td>1</td><td>Box</td><td>0.09</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,6 +57,10 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/0/30077b49-b825-4dbb-a0c7-f3992f647df0.jpg" alt="Lightning Strike DFT 136 · ×1">
+<figcaption>DFT 136 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/5/7/5787b0e0-9469-4a6d-8b81-c992628e28c0.jpg" alt="Lightning Strike TLA 146 · ×1">
 <figcaption>TLA 146 · ×1</figcaption>
 </figure>
@@ -62,7 +68,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/Red|Red]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/DFT|Aetherdrift]]
 
 ---
 
@@ -74,8 +80,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: "{1}{R}"
 > cmc: 2
 > type: "Instant"
-> scryfall_id: 5787b0e0-9469-4a6d-8b81-c992628e28c0
-> quantity: 1
+> scryfall_id: 30077b49-b825-4dbb-a0c7-f3992f647df0
+> quantity: 2
 > tags:
 >   - card
 >   - collection

@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**233** copies · **184** names.
+**239** copies · **188** names.
 
 ```decklist
 group: auto
@@ -77,6 +77,7 @@ legality: commander
 1 Omenspeaker
 1 Orysa, Tide Choreographer
 1 Pensive Professor
+1 Peregrine Drake
 1 Scion of Oona
 1 Scourge of Fleets
 1 Shinestriker
@@ -87,7 +88,7 @@ legality: commander
 2 Skycoach Conductor // All Aboard
 1 Skyskipper Duo
 1 Skystreak Engineer
-4 Spectral Sailor
+5 Spectral Sailor
 2 Spellbook Seeker // Careful Study
 1 Spellstutter Sprite
 1 Sphinx of the Final Word
@@ -118,6 +119,7 @@ legality: commander
 3 Chase Inspiration
 1 Confounding Riddle
 1 Confusticate and Bebother
+2 Counterspell
 1 Deduce
 1 Disdainful Stroke
 1 Dive Down
@@ -158,6 +160,7 @@ legality: commander
 1 Uneasy Partings
 1 Unexpected Assistance
 1 Unsummon
+1 Virtue of Knowledge // Vantress Visions
 
 # Sorceries
 1 Boomerang Basics
@@ -190,6 +193,7 @@ legality: commander
 1 Dictate of Kruphix
 1 Dwindle
 1 Enchanted River's Grasp
+1 Frozen in Ice
 1 Illusory Gains
 1 Imprisoned in the Moon
 1 Leyline of Anticipation

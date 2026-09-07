@@ -2,7 +2,7 @@
 
 Creature type: Soldier.
 
-**41** copies · **32** names.
+**42** copies · **33** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -32,6 +32,7 @@ Creature type: Soldier.
 | [**`mtg:Dragonback Lancer`**](https://scryfall.com/card/tdm/9) | [[02 Cards/Creatures/Dragonback Lancer\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |
 | [**`mtg:Goldnight Commander`**](https://scryfall.com/card/tdc/117) | [[02 Cards/Creatures/Goldnight Commander\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.17 |
 | [**`mtg:Sandskitter Outrider`**](https://scryfall.com/card/tdm/89) | [[02 Cards/Creatures/Sandskitter Outrider\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
+| [**`mtg:Thranduil's Company`**](https://scryfall.com/card/hob/168) | [[02 Cards/Creatures/Thranduil's Company\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.30 |
 | [**`mtg:Veteran Guardmouse`**](https://scryfall.com/card/blb/237) | [[02 Cards/Creatures/Veteran Guardmouse\|PAGE]] | {3}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Mouse\|Mouse]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
 | [**`mtg:Bolg of the North`**](https://scryfall.com/card/hob/148) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | {3}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.07 |
 | [**`mtg:Eagle of the Great Shelf`**](https://scryfall.com/card/hob/11) | [[02 Cards/Creatures/Eagle of the Great Shelf\|PAGE]] | {4}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |

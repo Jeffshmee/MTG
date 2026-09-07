@@ -2,7 +2,7 @@
 
 Mono-black cards ({B} only). Lands and tokens are listed separately.
 
-**189** copies · **143** names.
+**190** copies · **144** names.
 
 ```decklist
 group: auto
@@ -70,6 +70,7 @@ legality: commander
 1 Ravening Warg
 1 Rhovanion Rampager
 1 Sandskitter Outrider
+1 Sanguine Syphoner
 1 Scathing Shadelock // Venomous Words
 1 Scheming Silvertongue // Sign in Blood
 1 Shambling Cie'th

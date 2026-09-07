@@ -2,7 +2,7 @@
 
 Creature type: Warlock.
 
-**47** copies · **29** names.
+**48** copies · **30** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,6 +11,7 @@ Creature type: Warlock.
 | [**`mtg:Lecturing Scornmage`**](https://scryfall.com/card/sos/87) | [[02 Cards/Creatures/Lecturing Scornmage\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/206) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.42 |
 | [**`mtg:Leech Collector`**](https://scryfall.com/card/sos/88) | [[02 Cards/Creatures/Leech Collector\|PAGE]] | {1}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
+| [**`mtg:Sanguine Syphoner`**](https://scryfall.com/card/fdn/68) | [[02 Cards/Creatures/Sanguine Syphoner\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Scheming Silvertongue`**](https://scryfall.com/card/sos/99) | [[02 Cards/Creatures/Scheming Silvertongue\|PAGE]] | {1}{B} // {B}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.87 |
 | [**`mtg:Shattered Acolyte`**](https://scryfall.com/card/sos/31) | [[02 Cards/Creatures/Shattered Acolyte\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.28 |
 | [**`mtg:Vengeful Bloodwitch`**](https://scryfall.com/card/fdn/76) | [[02 Cards/Creatures/Vengeful Bloodwitch\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 5 | 0.90 |

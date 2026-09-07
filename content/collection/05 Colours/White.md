@@ -2,20 +2,21 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**220** copies · **166** names.
+**224** copies · **169** names.
 
 ```decklist
 group: auto
 legality: commander
 
 # Creatures
+1 Adelbert Steiner
 1 Adeline, Resplendent Cathar
 1 Adept Watershaper
 1 Ainok Strike Leader
 5 Ajani's Pridemate
 1 Ajani's Sunstriker
 1 Anafenza, Unyielding Lineage
-1 Angel of Finality
+2 Angel of Finality
 1 Angel of Invention
 1 Angel of Vitality
 1 Apothecary Geist
@@ -120,6 +121,7 @@ legality: commander
 1 Disenchant
 2 Divine Resilience
 3 Duty Beyond Death
+1 Ephemerate
 1 Fate of the Sun-Cryst
 1 Grand Crescendo
 3 Interjection
@@ -185,5 +187,6 @@ legality: commander
 1 Bark of Doran
 1 Dwarven Shortsword
 1 Stormbeacon Blade
+1 White Auracite
 
 ```

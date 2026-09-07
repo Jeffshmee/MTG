@@ -2,12 +2,13 @@
 
 Rarity: mythic.
 
-**43** copies · **42** names.
+**45** copies · **44** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Maze's End`**](https://scryfall.com/card/rvr/465) | [[02 Cards/Lands/Maze's End\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 3.70 |
 | [**`mtg:Dragonmaster Outcast`**](https://scryfall.com/card/tdc/211) | [[02 Cards/Creatures/Dragonmaster Outcast\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.33 |
+| [**`mtg:Ephemerate`**](https://scryfall.com/card/mar/44) | [[02 Cards/Instants/Ephemerate\|PAGE]] | {W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 4.30 |
 | [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 17.03 |
 | [**`mtg:Bloom Tender`**](https://scryfall.com/card/ecl/166) | [[02 Cards/Creatures/Bloom Tender\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 9.57 |
 | [**`mtg:Finale of Revelation`**](https://scryfall.com/card/fdn/589) | [[02 Cards/Sorceries/Finale of Revelation\|PAGE]] | {X}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
@@ -36,6 +37,7 @@ Rarity: mythic.
 | [**`mtg:Lyra Dawnbringer`**](https://scryfall.com/card/fdn/707) | [[02 Cards/Creatures/Lyra Dawnbringer\|PAGE]] | {3}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 1.28 |
 | [**`mtg:Neriv, Crackling Vanguard`**](https://scryfall.com/card/tdc/6) | [[02 Cards/Creatures/Neriv, Crackling Vanguard\|PAGE]] | {2}{R}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.50 |
 | [**`mtg:Pyromancer's Goggles`**](https://scryfall.com/card/fdn/677) | [[02 Cards/Artifacts/Pyromancer's Goggles\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.57 |
+| [**`mtg:Virtue of Knowledge`**](https://scryfall.com/card/woe/279) | [[02 Cards/Enchantments/Virtue of Knowledge\|PAGE]] | {4}{U} // {1}{U} | [[03 Card Types/Instant\|Instant]] [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 4.60 |
 | [**`mtg:Aurelia, the Warleader`**](https://scryfall.com/card/fdn/651) | [[02 Cards/Creatures/Aurelia, the Warleader\|PAGE]] | {2}{R}{R}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 4.43 |
 | [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | {4}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 2.50 |
 | [**`mtg:Echocasting Symposium`**](https://scryfall.com/card/sos/44) | [[02 Cards/Sorceries/Echocasting Symposium\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 1.94 |

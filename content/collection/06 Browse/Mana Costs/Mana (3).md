@@ -2,7 +2,7 @@
 
 Cards whose mana value is 3.
 
-**346** copies · **271** names.
+**348** copies · **273** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -87,6 +87,7 @@ Cards whose mana value is 3.
 | [**`mtg:Firdoch Core`**](https://scryfall.com/card/ecl/255) | [[02 Cards/Artifacts/Firdoch Core\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Fireshrieker`**](https://scryfall.com/card/fdn/674) | [[02 Cards/Artifacts/Fireshrieker\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Foolish Fate`**](https://scryfall.com/card/sos/83) | [[02 Cards/Instants/Foolish Fate\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
+| [**`mtg:Frozen in Ice`**](https://scryfall.com/card/msh/54) | [[02 Cards/Enchantments/Frozen in Ice\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
 | [**`mtg:Garruk's Uprising`**](https://scryfall.com/card/ecc/109) | [[02 Cards/Enchantments/Garruk's Uprising\|PAGE]] | {2}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.47 |
 | [**`mtg:Gateway Sneak`**](https://scryfall.com/card/fdn/592) | [[02 Cards/Creatures/Gateway Sneak\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.19 |
 | [**`mtg:Genesis Wave`**](https://scryfall.com/card/ltc/245) | [[02 Cards/Sorceries/Genesis Wave\|PAGE]] | {X}{G}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
@@ -217,6 +218,7 @@ Cards whose mana value is 3.
 | [**`mtg:Snowslope Hunter`**](https://scryfall.com/card/hob/112) | [[02 Cards/Creatures/Snowslope Hunter\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Ranger\|Ranger]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Soaring Stoneglider`**](https://scryfall.com/card/sos/32) | [[02 Cards/Creatures/Soaring Stoneglider\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elephant\|Elephant]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Social Snub`**](https://scryfall.com/card/sos/228) | [[02 Cards/Sorceries/Social Snub\|PAGE]] | {1}{W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
+| [**`mtg:Soulherder`**](https://scryfall.com/card/mh1/214) | [[02 Cards/Creatures/Soulherder\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.43 |
 | [**`mtg:Spin Out`**](https://scryfall.com/card/dft/106) | [[02 Cards/Instants/Spin Out\|PAGE]] | {1}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Spiritcall Enthusiast`**](https://scryfall.com/card/sos/33) | [[02 Cards/Creatures/Spiritcall Enthusiast\|PAGE]] | {2}{W} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Springbloom Druid`**](https://scryfall.com/card/tdc/271) | [[02 Cards/Creatures/Springbloom Druid\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |

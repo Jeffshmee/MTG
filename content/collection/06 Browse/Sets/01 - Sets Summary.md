@@ -13,23 +13,24 @@ Owned % is unique printings you have (set + collector number) divided by that se
 | Set | | Code | Names | Qty | Owned % | Est. Price (GBP) |
 |-----|--|------|-------|-----|---------|------------------|
 | [Secrets of Strixhaven](https://scryfall.com/sets/sos) | [[06 Browse/Sets/SOS\|PAGE]] | `SOS` | 220 | 389 | 62% | 84.86 |
-| [Foundations](https://scryfall.com/sets/fdn) | [[06 Browse/Sets/FDN\|PAGE]] | `FDN` | 273 | 458 | 38% | 91.51 |
+| [Foundations](https://scryfall.com/sets/fdn) | [[06 Browse/Sets/FDN\|PAGE]] | `FDN` | 274 | 461 | 38% | 91.97 |
+| [The Hobbit](https://scryfall.com/sets/hob) | [[06 Browse/Sets/HOB\|PAGE]] | `HOB` | 89 | 123 | 28% | 17.71 |
 | [Tarkir: Dragonstorm](https://scryfall.com/sets/tdm) | [[06 Browse/Sets/TDM\|PAGE]] | `TDM` | 109 | 149 | 27% | 29.08 |
-| [The Hobbit](https://scryfall.com/sets/hob) | [[06 Browse/Sets/HOB\|PAGE]] | `HOB` | 84 | 116 | 26% | 16.17 |
 | [Lorwyn Eclipsed](https://scryfall.com/sets/ecl) | [[06 Browse/Sets/ECL\|PAGE]] | `ECL` | 79 | 111 | 20% | 60.62 |
 | [Tarkir: Dragonstorm Commander](https://scryfall.com/sets/tdc) | [[06 Browse/Sets/TDC\|PAGE]] | `TDC` | 71 | 82 | 17% | 66.70 |
 | [Secrets of Strixhaven Mystical Archive](https://scryfall.com/sets/soa) | [[06 Browse/Sets/SOA\|PAGE]] | `SOA` | 27 | 31 | 14% | 15.29 |
 | [Commander Collection: Black](https://scryfall.com/sets/cc2) | [[06 Browse/Sets/CC2\|PAGE]] | `CC2` | 1 | 1 | 11% | 0.48 |
-| [Bloomburrow](https://scryfall.com/sets/blb) | [[06 Browse/Sets/BLB\|PAGE]] | `BLB` | 40 | 40 | 10% | 32.46 |
+| [Bloomburrow](https://scryfall.com/sets/blb) | [[06 Browse/Sets/BLB\|PAGE]] | `BLB` | 41 | 41 | 10% | 32.58 |
 | [Avatar: The Last Airbender](https://scryfall.com/sets/tla) | [[06 Browse/Sets/TLA\|PAGE]] | `TLA` | 31 | 32 | 8% | 6.47 |
 | [Duskmourn: House of Horror](https://scryfall.com/sets/dsk) | [[06 Browse/Sets/DSK\|PAGE]] | `DSK` | 29 | 29 | 7% | 9.84 |
 | [Secrets of Strixhaven Commander](https://scryfall.com/sets/soc) | [[06 Browse/Sets/SOC\|PAGE]] | `SOC` | 28 | 32 | 7% | 19.63 |
-| [Aetherdrift](https://scryfall.com/sets/dft) | [[06 Browse/Sets/DFT\|PAGE]] | `DFT` | 28 | 28 | 5% | 9.49 |
+| [Aetherdrift](https://scryfall.com/sets/dft) | [[06 Browse/Sets/DFT\|PAGE]] | `DFT` | 29 | 29 | 5% | 9.58 |
 | [Lorwyn Eclipsed Commander](https://scryfall.com/sets/ecc) | [[06 Browse/Sets/ECC\|PAGE]] | `ECC` | 7 | 10 | 4% | 2.89 |
-| [Final Fantasy](https://scryfall.com/sets/fin) | [[06 Browse/Sets/FIN\|PAGE]] | `FIN` | 15 | 22 | 3% | 3.15 |
+| [Final Fantasy](https://scryfall.com/sets/fin) | [[06 Browse/Sets/FIN\|PAGE]] | `FIN` | 18 | 25 | 3% | 3.82 |
 | [Wilds of Eldraine Commander](https://scryfall.com/sets/woc) | [[06 Browse/Sets/WOC\|PAGE]] | `WOC` | 4 | 4 | 2% | 18.08 |
 | [Aetherdrift Commander](https://scryfall.com/sets/drc) | [[06 Browse/Sets/DRC\|PAGE]] | `DRC` | 4 | 5 | 2% | 14.45 |
 | [Core Set 2020](https://scryfall.com/sets/m20) | [[06 Browse/Sets/M20\|PAGE]] | `M20` | 6 | 6 | 2% | 1.20 |
+| [Bloomburrow Commander](https://scryfall.com/sets/blc) | [[06 Browse/Sets/BLC\|PAGE]] | `BLC` | 6 | 6 | 2% | 6.43 |
 | [Kaldheim Commander](https://scryfall.com/sets/khc) | [[06 Browse/Sets/KHC\|PAGE]] | `KHC` | 2 | 5 | 2% | 5.71 |
 | [Duel Decks: Mind vs. Might](https://scryfall.com/sets/dds) | [[06 Browse/Sets/DDS\|PAGE]] | `DDS` | 1 | 1 | 2% | 3.33 |
 | [Core Set 2021](https://scryfall.com/sets/m21) | [[06 Browse/Sets/M21\|PAGE]] | `M21` | 6 | 6 | 2% | 0.78 |
@@ -37,7 +38,6 @@ Owned % is unique printings you have (set + collector number) divided by that se
 | [Dominaria](https://scryfall.com/sets/dom) | [[06 Browse/Sets/DOM\|PAGE]] | `DOM` | 4 | 5 | 1% | 0.51 |
 | [Ravnica: Clue Edition](https://scryfall.com/sets/clu) | [[06 Browse/Sets/CLU\|PAGE]] | `CLU` | 4 | 6 | 1% | 6.55 |
 | [Zendikar Rising Commander](https://scryfall.com/sets/znc) | [[06 Browse/Sets/ZNC\|PAGE]] | `ZNC` | 2 | 2 | 1% | 0.63 |
-| [Bloomburrow Commander](https://scryfall.com/sets/blc) | [[06 Browse/Sets/BLC\|PAGE]] | `BLC` | 5 | 5 | 1% | 5.16 |
 | [Dominaria United](https://scryfall.com/sets/dmu) | [[06 Browse/Sets/DMU\|PAGE]] | `DMU` | 6 | 6 | 1% | 5.88 |
 | [Duel Decks: Elves vs. Inventors](https://scryfall.com/sets/ddu) | [[06 Browse/Sets/DDU\|PAGE]] | `DDU` | 1 | 1 | 1% | 0.10 |
 | [Core Set 2019](https://scryfall.com/sets/m19) | [[06 Browse/Sets/M19\|PAGE]] | `M19` | 4 | 8 | 1% | 3.01 |
@@ -47,7 +47,9 @@ Owned % is unique printings you have (set + collector number) divided by that se
 | [Edge of Eternities Commander](https://scryfall.com/sets/eoc) | [[06 Browse/Sets/EOC\|PAGE]] | `EOC` | 2 | 2 | 1% | 0.28 |
 | [March of the Machine](https://scryfall.com/sets/mom) | [[06 Browse/Sets/MOM\|PAGE]] | `MOM` | 3 | 4 | 1% | 8.63 |
 | [Edge of Eternities](https://scryfall.com/sets/eoe) | [[06 Browse/Sets/EOE\|PAGE]] | `EOE` | 4 | 4 | 1% | 21.30 |
+| [Marvel Universe](https://scryfall.com/sets/mar) | [[06 Browse/Sets/MAR\|PAGE]] | `MAR` | 1 | 1 | 1% | 4.30 |
 | [Wilds of Eldraine: Enchanting Tales](https://scryfall.com/sets/wot) | [[06 Browse/Sets/WOT\|PAGE]] | `WOT` | 1 | 1 | 1.0% | 4.51 |
+| [Wilds of Eldraine](https://scryfall.com/sets/woe) | [[06 Browse/Sets/WOE\|PAGE]] | `WOE` | 3 | 3 | 0.8% | 5.13 |
 | [Ultimate Masters](https://scryfall.com/sets/uma) | [[06 Browse/Sets/UMA\|PAGE]] | `UMA` | 2 | 2 | 0.8% | 0.39 |
 | [GRN Guild Kit](https://scryfall.com/sets/gk1) | [[06 Browse/Sets/GK1\|PAGE]] | `GK1` | 1 | 1 | 0.8% | 3.39 |
 | [Dragons of Tarkir](https://scryfall.com/sets/dtk) | [[06 Browse/Sets/DTK\|PAGE]] | `DTK` | 2 | 2 | 0.8% | 0.16 |
@@ -56,6 +58,7 @@ Owned % is unique printings you have (set + collector number) divided by that se
 | [Return to Ravnica](https://scryfall.com/sets/rtr) | [[06 Browse/Sets/RTR\|PAGE]] | `RTR` | 2 | 2 | 0.7% | 8.54 |
 | [The Lost Caverns of Ixalan](https://scryfall.com/sets/lci) | [[06 Browse/Sets/LCI\|PAGE]] | `LCI` | 3 | 3 | 0.7% | 4.89 |
 | [Adventures in the Forgotten Realms](https://scryfall.com/sets/afr) | [[06 Browse/Sets/AFR\|PAGE]] | `AFR` | 3 | 3 | 0.7% | 17.24 |
+| [Marvel Super Heroes](https://scryfall.com/sets/msh) | [[06 Browse/Sets/MSH\|PAGE]] | `MSH` | 3 | 3 | 0.7% | 1.52 |
 | [Planechase Anthology](https://scryfall.com/sets/pca) | [[06 Browse/Sets/PCA\|PAGE]] | `PCA` | 1 | 1 | 0.6% | 0.46 |
 | [Dominaria United Promos](https://scryfall.com/sets/pdmu) | [[06 Browse/Sets/PDMU\|PAGE]] | `PDMU` | 1 | 1 | 0.6% | 1.48 |
 | [Modern Horizons 3](https://scryfall.com/sets/mh3) | [[06 Browse/Sets/MH3\|PAGE]] | `MH3` | 3 | 9 | 0.6% | 2.58 |
@@ -65,21 +68,24 @@ Owned % is unique printings you have (set + collector number) divided by that se
 | [Duskmourn: House of Horror Commander](https://scryfall.com/sets/dsc) | [[06 Browse/Sets/DSC\|PAGE]] | `DSC` | 2 | 2 | 0.5% | 2.09 |
 | [Oath of the Gatewatch](https://scryfall.com/sets/ogw) | [[06 Browse/Sets/OGW\|PAGE]] | `OGW` | 1 | 1 | 0.5% | 0.42 |
 | [Crimson Vow Commander](https://scryfall.com/sets/voc) | [[06 Browse/Sets/VOC\|PAGE]] | `VOC` | 1 | 1 | 0.5% | 0.85 |
-| [Wilds of Eldraine](https://scryfall.com/sets/woe) | [[06 Browse/Sets/WOE\|PAGE]] | `WOE` | 2 | 2 | 0.5% | 0.53 |
 | [Strixhaven: School of Mages](https://scryfall.com/sets/stx) | [[06 Browse/Sets/STX\|PAGE]] | `STX` | 2 | 2 | 0.5% | 0.46 |
 | [Aether Revolt](https://scryfall.com/sets/aer) | [[06 Browse/Sets/AER\|PAGE]] | `AER` | 1 | 1 | 0.5% | 0.07 |
 | [Hour of Devastation](https://scryfall.com/sets/hou) | [[06 Browse/Sets/HOU\|PAGE]] | `HOU` | 1 | 1 | 0.5% | 0.16 |
 | [Conspiracy](https://scryfall.com/sets/cns) | [[06 Browse/Sets/CNS\|PAGE]] | `CNS` | 1 | 1 | 0.5% | 0.09 |
 | [Kaldheim](https://scryfall.com/sets/khm) | [[06 Browse/Sets/KHM\|PAGE]] | `KHM` | 2 | 2 | 0.5% | 3.75 |
 | [March of the Machine Commander](https://scryfall.com/sets/moc) | [[06 Browse/Sets/MOC\|PAGE]] | `MOC` | 2 | 2 | 0.4% | 2.49 |
+| [Dominaria Remastered](https://scryfall.com/sets/dmr) | [[06 Browse/Sets/DMR\|PAGE]] | `DMR` | 2 | 2 | 0.4% | 0.31 |
 | [Modern Masters](https://scryfall.com/sets/mma) | [[06 Browse/Sets/MMA\|PAGE]] | `MMA` | 1 | 1 | 0.4% | 3.76 |
 | [Final Fantasy Commander](https://scryfall.com/sets/fic) | [[06 Browse/Sets/FIC\|PAGE]] | `FIC` | 2 | 2 | 0.4% | 0.79 |
 | [Masters 25](https://scryfall.com/sets/a25) | [[06 Browse/Sets/A25\|PAGE]] | `A25` | 1 | 1 | 0.4% | 0.60 |
 | [Gatecrash](https://scryfall.com/sets/gtc) | [[06 Browse/Sets/GTC\|PAGE]] | `GTC` | 1 | 1 | 0.4% | 0.00 |
 | [Magic 2013](https://scryfall.com/sets/m13) | [[06 Browse/Sets/M13\|PAGE]] | `M13` | 1 | 1 | 0.4% | 0.03 |
 | [Magic 2014](https://scryfall.com/sets/m14) | [[06 Browse/Sets/M14\|PAGE]] | `M14` | 1 | 1 | 0.4% | 2.64 |
+| [Modern Horizons](https://scryfall.com/sets/mh1) | [[06 Browse/Sets/MH1\|PAGE]] | `MH1` | 1 | 1 | 0.4% | 1.43 |
 | [Battlebond](https://scryfall.com/sets/bbd) | [[06 Browse/Sets/BBD\|PAGE]] | `BBD` | 1 | 1 | 0.4% | 0.09 |
+| [Commander Masters](https://scryfall.com/sets/cmm) | [[06 Browse/Sets/CMM\|PAGE]] | `CMM` | 4 | 5 | 0.4% | 15.86 |
 | [Kaladesh](https://scryfall.com/sets/kld) | [[06 Browse/Sets/KLD\|PAGE]] | `KLD` | 1 | 1 | 0.4% | 0.03 |
+| [Marvel's Spider-Man](https://scryfall.com/sets/spm) | [[06 Browse/Sets/SPM\|PAGE]] | `SPM` | 1 | 1 | 0.3% | 0.35 |
 | [Amonkhet](https://scryfall.com/sets/akh) | [[06 Browse/Sets/AKH\|PAGE]] | `AKH` | 1 | 1 | 0.3% | 0.58 |
 | [Magic Origins](https://scryfall.com/sets/ori) | [[06 Browse/Sets/ORI\|PAGE]] | `ORI` | 1 | 1 | 0.3% | 0.26 |
 | [Khans of Tarkir](https://scryfall.com/sets/ktk) | [[06 Browse/Sets/KTK\|PAGE]] | `KTK` | 1 | 1 | 0.3% | 0.31 |
@@ -91,7 +97,6 @@ Owned % is unique printings you have (set + collector number) divided by that se
 | [Teenage Mutant Ninja Turtles](https://scryfall.com/sets/tmt) | [[06 Browse/Sets/TMT\|PAGE]] | `TMT` | 1 | 1 | 0.3% | 0.41 |
 | [Forgotten Realms Commander](https://scryfall.com/sets/afc) | [[06 Browse/Sets/AFC\|PAGE]] | `AFC` | 1 | 1 | 0.3% | 0.81 |
 | [Commander 2015](https://scryfall.com/sets/c15) | [[06 Browse/Sets/C15\|PAGE]] | `C15` | 1 | 1 | 0.3% | 0.24 |
-| [Commander Masters](https://scryfall.com/sets/cmm) | [[06 Browse/Sets/CMM\|PAGE]] | `CMM` | 3 | 3 | 0.3% | 12.81 |
 | [Murders at Karlov Manor Commander](https://scryfall.com/sets/mkc) | [[06 Browse/Sets/MKC\|PAGE]] | `MKC` | 1 | 1 | 0.3% | 0.25 |
 | [Outlaws of Thunder Junction](https://scryfall.com/sets/otj) | [[06 Browse/Sets/OTJ\|PAGE]] | `OTJ` | 1 | 1 | 0.3% | 3.85 |
 | [Double Masters](https://scryfall.com/sets/2xm) | [[06 Browse/Sets/2XM\|PAGE]] | `2XM` | 1 | 1 | 0.3% | 1.27 |
@@ -99,8 +104,7 @@ Owned % is unique printings you have (set + collector number) divided by that se
 | [The Brothers' War](https://scryfall.com/sets/bro) | [[06 Browse/Sets/BRO\|PAGE]] | `BRO` | 1 | 1 | 0.3% | 0.32 |
 | [Time Spiral Remastered](https://scryfall.com/sets/tsr) | [[06 Browse/Sets/TSR\|PAGE]] | `TSR` | 1 | 1 | 0.2% | 0.19 |
 | [Marvel Super Heroes Commander](https://scryfall.com/sets/msc) | [[06 Browse/Sets/MSC\|PAGE]] | `MSC` | 2 | 2 | 0.2% | 0.85 |
-| [Marvel Super Heroes](https://scryfall.com/sets/msh) | [[06 Browse/Sets/MSH\|PAGE]] | `MSH` | 1 | 1 | 0.2% | 0.61 |
-| [Dominaria Remastered](https://scryfall.com/sets/dmr) | [[06 Browse/Sets/DMR\|PAGE]] | `DMR` | 1 | 1 | 0.2% | 0.17 |
+| [Murders at Karlov Manor](https://scryfall.com/sets/mkm) | [[06 Browse/Sets/MKM\|PAGE]] | `MKM` | 1 | 1 | 0.2% | 0.18 |
 | [Phyrexia: All Will Be One](https://scryfall.com/sets/one) | [[06 Browse/Sets/ONE\|PAGE]] | `ONE` | 1 | 1 | 0.2% | 0.16 |
 | [Kamigawa: Neon Dynasty](https://scryfall.com/sets/neo) | [[06 Browse/Sets/NEO\|PAGE]] | `NEO` | 1 | 1 | 0.2% | 2.44 |
 | [Foundations Jumpstart](https://scryfall.com/sets/j25) | [[06 Browse/Sets/J25\|PAGE]] | `J25` | 1 | 1 | 0.1% | 0.16 |

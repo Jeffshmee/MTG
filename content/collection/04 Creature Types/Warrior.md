@@ -2,7 +2,7 @@
 
 Creature type: Warrior.
 
-**48** copies · **35** names.
+**49** copies · **35** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -39,5 +39,5 @@ Creature type: Warrior.
 | [**`mtg:Swiftwing Assailant`**](https://scryfall.com/card/dft/32) | [[02 Cards/Creatures/Swiftwing Assailant\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |
 | [**`mtg:Vanguard Seraph`**](https://scryfall.com/card/fdn/28) | [[02 Cards/Creatures/Vanguard Seraph\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.04 |
 | [**`mtg:Geyser Leaper`**](https://scryfall.com/card/tla/52) | [[02 Cards/Creatures/Geyser Leaper\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] [[04 Creature Types/Ally\|Ally]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
-| [**`mtg:Iron Hills Stalwart`**](https://scryfall.com/card/hob/102) | [[02 Cards/Creatures/Iron Hills Stalwart\|PAGE]] | {4}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.04 |
+| [**`mtg:Iron Hills Stalwart`**](https://scryfall.com/card/hob/102) | [[02 Cards/Creatures/Iron Hills Stalwart\|PAGE]] | {4}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.06 |
 | [**`mtg:Gladiolus Amicitia`**](https://scryfall.com/card/fin/224) | [[02 Cards/Creatures/Gladiolus Amicitia\|PAGE]] | {4}{R}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |

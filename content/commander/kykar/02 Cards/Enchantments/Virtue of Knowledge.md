@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Virtue of Knowledge`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {4}{U}  
 > **Type:** Enchantment // Instant — Adventure  
 >
@@ -48,7 +48,7 @@ Vantress Visions — Copy target activated or triggered ability you control. You
 
 ## Deck Role & Rating
 
-Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a triggered ability of a permanent you control to trigger, it triggers again. That doubles Channeler / Hunter / Cloudblazer / Thassa / Skycoach ETBs, and stacks with [[02 Cards/Creatures/Starfield Vocalist|Starfield Vocalist]] and [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (both ordered). The adventure, Vantress Visions, copies an activated or triggered ability you control. Ordered — not in the 80 until it arrives.
+Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a triggered ability of a permanent you control to trigger, it triggers again. That doubles Channeler / Hunter / Cloudblazer / Thassa / Skycoach ETBs, and stacks with [[02 Cards/Creatures/Starfield Vocalist|Starfield Vocalist]] and [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (both ordered). The adventure, Vantress Visions, copies an activated or triggered ability you control. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,7 @@ Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a tr
 
 ## Anti-synergies / Notes
 
-- Ordered. Stay off current-deck until it is in hand. Five mana on 21 lands.
+- In hand on the sideboard. Suggested cuts: Witness Protection 80 / Stormplain Detainment 82 / Enchanted River's Grasp 82.
 
 ## Related Pages
 
@@ -87,15 +87,15 @@ Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a tr
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 86
 >   deck_specific: 92
 >   combined: 90
-> scryfall_id: df606cf5-67dc-46f4-8c79-1d2f1d054391
+> scryfall_id: 7cc2173a-b7fb-4bd6-9c8e-73de91c6903a
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - enchantment
 > ```
 

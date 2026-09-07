@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Soulherder`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}{U}  
 > **Type:** Creature — Spirit  
 > **P/T:** 1/1  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
-> ![Soulherder](https://cards.scryfall.io/border_crop/front/5/0/50bc0f5b-7421-45b9-af85-86dd9821b7d8.jpg)
+> ![Soulherder](https://cards.scryfall.io/border_crop/front/e/a/ea23111b-ccc1-4d5c-a9d2-9db14c728820.jpg)
 >
 > ### Deck Scores
 >
@@ -52,7 +52,7 @@ At the [[03 Effects/End Step|beginning of your end step]], you may [[03 Effects/
 
 ## Deck Role & Rating
 
-Soulherder blinks a creature you control ({1}{W}{U}). That is instant or delayed ETB replay — hit [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], or [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] so the bounce or draw happens again. [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]'s own blink waits until end of step; this card is how you catch combat. End-step blink plus a +1/+1 counter. Extra Kykar-like blink without a spell. It is not in the owned 65 yet.
+Soulherder blinks a creature you control ({1}{W}{U}). That is instant or delayed ETB replay — hit [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], or [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] so the bounce or draw happens again. [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]'s own blink waits until end of step; this card is how you catch combat. End-step blink plus a +1/+1 counter. Extra Kykar-like blink without a spell. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -69,7 +69,6 @@ Soulherder blinks a creature you control ({1}{W}{U}). That is instant or delayed
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
 - Kykar's blink is delayed. Do not block with the blinked creature; it is gone until end of turn.
 
 ## Related Pages
@@ -93,15 +92,15 @@ Soulherder blinks a creature you control ({1}{W}{U}). That is instant or delayed
 > colors: ["U", "W"]
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 86
 >   deck_specific: 93
 >   combined: 90
-> scryfall_id: 50bc0f5b-7421-45b9-af85-86dd9821b7d8
+> scryfall_id: ea23111b-ccc1-4d5c-a9d2-9db14c728820
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - creature
 > ```
 

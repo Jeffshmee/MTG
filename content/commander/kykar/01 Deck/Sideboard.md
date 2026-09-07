@@ -31,6 +31,11 @@ legality: commander
 1 Bard, King of Dale
 1 Meteor Golem
 1 Wanderwine Farewell
+1 Counterspell
+1 Ephemerate
+1 Peregrine Drake
+1 Soulherder
+1 Virtue of Knowledge
 
 # Wishlist
 1 Adarkar Wastes
@@ -52,12 +57,10 @@ legality: commander
 1 Authority of the Consuls
 1 Cloudshift
 1 Consider
-1 Ephemerate
 1 Essence Flux
 1 Path to Exile
 1 Preordain
 1 Arcane Signet
-1 Counterspell
 1 Dour Port-Mage
 1 Dovin's Veto
 1 Get Lost
@@ -82,7 +85,6 @@ legality: commander
 1 Sevinne's Reclamation
 1 Sink into Stupor
 1 Skyclave Apparition
-1 Soulherder
 1 Spellseeker
 1 Displacer Kitten
 1 Restoration Angel
@@ -93,16 +95,14 @@ legality: commander
 1 Conjurer's Closet
 1 Evacuation
 1 Mulldrifter
-1 Peregrine Drake
 1 Time Wipe
-1 Virtue of Knowledge
 1 Farewell
 ```
 
 ---
 
 *Source: `kykar-zephyr/07 Assets/sideboard.md`*
-*Last synced: 2026-09-05*
+*Last synced: 2026-09-07*
 
 ---
 
@@ -254,15 +254,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Soulherder`**
-> **90** / 100 · 🟡 Ordered
+> **90** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
 > [[02 Cards/Creatures/Soulherder|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
 > > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> > - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:78%"></div></div>
 
 > [!info] **`mtg:Spellseeker`**
 > **88** / 100 · ⚪ Wishlist
@@ -350,15 +350,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Peregrine Drake`**
-> **89** / 100 · 🟡 Ordered
+> **89** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Creatures/Peregrine Drake|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
 > > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> > - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:78%"></div></div>
 
 > [!info] **`mtg:Bard, King of Dale`**
 > **80** / 100 · 🟢 Owned
@@ -424,15 +424,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Ephemerate`**
-> **94** / 100 · 🟡 Ordered
+> **94** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:94%"></div></div>
 >
 > [[02 Cards/Instants/Ephemerate|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
 > > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> > - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
 
 > [!info] **`mtg:Essence Flux`**
 > **87** / 100 · ⚪ Wishlist
@@ -457,15 +457,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
 
 > [!info] **`mtg:Counterspell`**
-> **86** / 100 · 🟡 Ordered
+> **86** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
 > [[02 Cards/Instants/Counterspell|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
 > > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> > - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
 
 > [!info] **`mtg:Dovin's Veto`**
 > **86** / 100 · ⚪ Wishlist
@@ -745,7 +745,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Enchantments/Enchanted River's Grasp|Enchanted River's Grasp]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
 
 > [!info] **`mtg:Virtue of Knowledge`**
-> **90** / 100 · 🟡 Ordered
+> **90** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
 > [[02 Cards/Enchantments/Virtue of Knowledge|Open local page →]]
