@@ -51,35 +51,31 @@ You may cast spells as though they had [[03 Effects/Flash|flash]].
 
 ## Deck Role & Rating
 
-The flash enabler: you may cast spells as though they had flash. Cut 07/09 for [[02 Cards/Creatures/Thranduil's Company|Thranduil's Company]]. Physical copy is Box; evaluating on Kykar SB. No longer in this 100.
+Flash 4/2. You may cast spells as though they had flash — instant-speed blink ([[02 Cards/Instants/Ephemerate|Ephemerate]], Skycoach All Aboard) and ETB answers on their turn. Unlocked from Maralen 100 (user override; last copy left that 100). On Kykar SB for evaluation. Combined 88 is the Maralen score — not rescoring until a named Kykar cut.
 
 ## Play Patterns & Lines
 
-- Hold {3}{U}. Flash Trickster, then immediately flash Maralen or a steal.
-- With Trickster in play, Wave on the end step before your turn so the mill and steal are live on your upkeep.
-- First spell on each opponent's turn feeds pending [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela]].
-- Recur with Findbroker or Regrower. Loyalist cannot.
+- Hold {3}{U}. Flash Trickster, then Ephemerate / Ghostly Flicker / a bounce ETB on their turn.
+- Instant-speed Channeler or Deputy with Trickster in play.
+- Not in the Kykar 100 until a named cut.
 
 ## Key Synergies
 
-- **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
-- **Wave**: [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]]
-- **Owned flash**: [[02 Cards/Creatures/Glamermite|Glamermite]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
-- **Flash package**: [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]], [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]]
-- **Pending flash package**: [[02 Cards/Creatures/Alela, Cunning Conqueror|Alela, Cunning Conqueror]], [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
-- **Recursion**: [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]], [[02 Cards/Creatures/Elvish Regrower|Elvish Regrower]]
+- **Commander**: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]
+- **Blink (live)**: [[02 Cards/Instants/Ephemerate|Ephemerate]], [[02 Cards/Creatures/Soulherder|Soulherder]], [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]], [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]]
+- **ETB payoffs (live)**: [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], [[02 Cards/Creatures/Cloudblazer|Cloudblazer]]
 
 ## Anti-synergies / Notes
 
 - {3}{U} is a lot to hold. Empty hands get a 4/2 flyer and nothing else.
 - 4/2 dies to any two damage.
-- Redundant with Leyline of Anticipation; you only need one flash enabler.
+- Kitten still outstanding; this is a flash-enabler stand-in, not the engine.
 
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
 - [[01 Deck/Sideboard|Sideboard]]
-- [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
+- [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]
 - [[06 Strategy/Win Conditions|Win Conditions]]
 - [[06 Strategy/Play Patterns|Play Patterns]]
 
@@ -109,4 +105,4 @@ The flash enabler: you may cast spells as though they had flash. Cut 07/09 for [
 > ```
 
 *Last evaluated: 2026-08-17*  
-*Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*
+*Data source: mtg-scryfall-bulk + kykar-zephyr-commander scoring*

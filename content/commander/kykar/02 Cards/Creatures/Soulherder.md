@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Soulherder`**
 >
-> **Status:** Sideboard  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}{U}  
 > **Type:** Creature — Spirit  
 > **P/T:** 1/1  
@@ -52,14 +52,14 @@ At the [[03 Effects/End Step|beginning of your end step]], you may [[03 Effects/
 
 ## Deck Role & Rating
 
-Soulherder blinks a creature you control ({1}{W}{U}). That is instant or delayed ETB replay — hit [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], or [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] so the bounce or draw happens again. [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]'s own blink waits until end of step; this card is how you catch combat. End-step blink plus a +1/+1 counter. Extra Kykar-like blink without a spell. In hand on the sideboard. Not in the 100 until a named cut.
+Soulherder blinks a creature you control ({1}{W}{U}). That is instant or delayed ETB replay — hit [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], or [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] so the bounce or draw happens again. [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]'s own blink waits until end of step; this card is how you catch combat. End-step blink plus a +1/+1 counter. Extra Kykar-like blink without a spell. In the 100. Cut Soul-Guide Lantern.
 
 ## Play Patterns & Lines
 
 - Cast after an ETB creature is in play. Empty-board blink is a miss.
 - Instant-speed (this card, Skycoach, Kitten) on their attack; Kykar/Thassa wait until end of step.
 - Priority targets: Channeler (bounce the engine), Hunter / Cloudblazer (draw), Banishing Light (new exile).
-- Not in the owned 65. Skycoach All Aboard is the live instant blink.
+- Instant blink is this card, Ephemerate, and Skycoach All Aboard; Kykar/Thassa wait until end of step.
 
 ## Key Synergies
 
@@ -92,7 +92,7 @@ Soulherder blinks a creature you control ({1}{W}{U}). That is instant or delayed
 > colors: ["U", "W"]
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Sideboard
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 93
@@ -100,7 +100,7 @@ Soulherder blinks a creature you control ({1}{W}{U}). That is instant or delayed
 > scryfall_id: ea23111b-ccc1-4d5c-a9d2-9db14c728820
 > tags:
 >   - card
->   - sideboard
+>   - main-deck
 >   - creature
 > ```
 

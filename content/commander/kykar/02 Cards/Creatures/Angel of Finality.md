@@ -51,7 +51,7 @@
 
 ## Deck Role & Rating
 
-Angel of Finality is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). Owned. Flying ETB exile a graveyard. Fine blink hate bear.
+Angel of Finality is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). Owned. Flying ETB exile a graveyard. Fine blink hate bear. Sleeved copy is FDN 136 foil (07/09 art swap).
 
 ## Play Patterns & Lines
 

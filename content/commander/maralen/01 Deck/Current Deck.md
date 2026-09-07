@@ -18,6 +18,7 @@ legality: commander
 1 Llanowar Elves
 1 Virulent Emissary
 1 Bitterbloom Bearer
+1 Bloom Tender
 1 Cloud of Faeries
 1 Dwynen's Elite
 1 Elvish Warmaster
@@ -46,18 +47,17 @@ legality: commander
 1 Beast Whisperer
 1 Champions of the Perfect
 1 Golgari Findbroker
-1 High Fae Trickster
 1 High Perfect Morcant
 1 Lathril, Blade of the Elves
 1 Shessra, Death's Whisper
+1 Thranduil's Company
 1 Thranduil, Sindarin Liege
-1 Bloom Tender
 
 # Instants
 1 Assassin's Trophy
+1 Counterspell
 1 Heritage Reclamation
 1 Heroic Intervention
-1 Negate
 1 Origin of Metalbending
 1 Dina's Guidance
 
@@ -105,7 +105,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/current-deck.md`*
-*Last synced: 2026-09-02*
+*Last synced: 2026-09-07 (sleeved 100)*
 
 ---
 
@@ -122,6 +122,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
+- [[02 Cards/Creatures/Bloom Tender|Bloom Tender]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Cloud of Faeries|Cloud of Faeries]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Dwynen's Elite|Dwynen's Elite]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Elvish Warmaster|Elvish Warmaster]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
@@ -150,19 +151,18 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Beast Whisperer|Beast Whisperer]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Champions of the Perfect|Champions of the Perfect]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
-- [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril, Blade of the Elves]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Shessra, Death's Whisper|Shessra, Death's Whisper]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>
+- [[02 Cards/Creatures/Thranduil's Company|Thranduil's Company]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Thranduil, Sindarin Liege|Thranduil, Sindarin Liege]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
-- [[02 Cards/Creatures/Bloom Tender|Bloom Tender]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
 
 ### Instants
 - [[02 Cards/Instants/Assassin's Trophy|Assassin's Trophy]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
+- [[02 Cards/Instants/Counterspell|Counterspell]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Instants/Heritage Reclamation|Heritage Reclamation]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
-- [[02 Cards/Instants/Negate|Negate]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
 - [[02 Cards/Instants/Origin of Metalbending|Origin of Metalbending]] **73** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:73%"></div></div>
 - [[02 Cards/Instants/Dina's Guidance|Dina's Guidance]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 

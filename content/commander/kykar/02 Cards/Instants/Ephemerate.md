@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ephemerate`**
 >
-> **Status:** Sideboard  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}  
 > **Type:** Instant  
 >
@@ -51,7 +51,7 @@
 
 ## Deck Role & Rating
 
-Ephemerate is one-mana instant blink with rebound — two ETBs from one card, two Kykar triggers. Micromancer in the 65 already tutors a one-mana instant; this is the one you want. In hand on the sideboard. Combined 94 — sleeve when a cut is named.
+Ephemerate is one-mana instant blink with rebound — two ETBs from one card, two Kykar triggers. Micromancer in the 65 already tutors a one-mana instant; this is the one you want. In the 100. Cut Skyscanner. Combined 94.
 
 ## Play Patterns & Lines
 
@@ -93,7 +93,7 @@ Ephemerate is one-mana instant blink with rebound — two ETBs from one card, tw
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Rebound"]
-> status: Sideboard
+> status: Main Deck
 > scores:
 >   general: 90
 >   deck_specific: 96
@@ -101,7 +101,7 @@ Ephemerate is one-mana instant blink with rebound — two ETBs from one card, tw
 > scryfall_id: 621e3239-b527-4154-bce6-b51241809fc5
 > tags:
 >   - card
->   - sideboard
+>   - main-deck
 >   - instant
 > ```
 

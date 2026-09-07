@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Counterspell`**
 >
-> **Status:** Sideboard  
+> **Status:** Main Deck  
 > **Mana Cost:** {U}{U}  
 > **Type:** Instant  
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Wishlist hard counter. Counter any spell — including the creature spells [[02 Cards/Instants/Negate|Negate]] misses. Cleaner protection for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] against a removal creature or a commander coming down. In hand on the sideboard. Combined 79 — weak vs the 100. Suggested cuts: Negate 75 / Origin of Metalbending 73 / Shessra 71.
+Hard counter. Counter any spell — including the creature spells [[02 Cards/Instants/Negate|Negate]] misses. Cleaner protection for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] against a removal creature or a commander coming down. In the 100 (CMM 81 nonfoil). Cut Negate. Combined 79.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ Wishlist hard counter. Counter any spell — including the creature spells [[02 
 
 ## Anti-synergies / Notes
 
-- In hand on the sideboard. Not in the 100 until a named cut.
+- In the 100. Cut Negate.
 - {U}{U} is a real cost on a green-heavy manabase.
 - Still one-for-one. Does not save a board the way [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] does.
 
@@ -87,7 +87,7 @@ Wishlist hard counter. Counter any spell — including the creature spells [[02 
 > colors: [U]
 > color_identity: [U]
 > keywords: []
-> status: Sideboard
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 76
@@ -95,7 +95,7 @@ Wishlist hard counter. Counter any spell — including the creature spells [[02 
 > scryfall_id: 8493131c-0a7b-4be6-a8a2-0b425f4f67fb
 > tags:
 >   - card
->   - sideboard
+>   - main-deck
 >   - instant
 >   - wishlist
 > ```

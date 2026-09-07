@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Soul-Guide Lantern`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}  
 > **Type:** Artifact  
 >
@@ -89,7 +89,7 @@ Soul-Guide Lantern is a cantrip or refill at {1}. Noncreature, so [[02 Cards/Cre
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 78
 >   deck_specific: 80
@@ -97,7 +97,7 @@ Soul-Guide Lantern is a cantrip or refill at {1}. Noncreature, so [[02 Cards/Cre
 > scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - artifact
 > ```
 

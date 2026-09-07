@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Negate`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{U}  
 > **Type:** Instant  
 >
@@ -88,7 +88,7 @@ Cheap noncreature counter — the wipe, the extra turn, or the exile-based remov
 > colors: [U]
 > color_identity: [U]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 74
@@ -96,7 +96,7 @@ Cheap noncreature counter — the wipe, the extra turn, or the exile-based remov
 > scryfall_id: 33b83158-78b4-425e-8379-be3ef038295c
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - instant
 > ```
 

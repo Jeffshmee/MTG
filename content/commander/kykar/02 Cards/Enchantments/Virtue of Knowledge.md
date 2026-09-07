@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Virtue of Knowledge`**
 >
-> **Status:** Sideboard  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}{U}  
 > **Type:** Enchantment // Instant — Adventure  
 >
@@ -48,7 +48,7 @@ Vantress Visions — Copy target activated or triggered ability you control. You
 
 ## Deck Role & Rating
 
-Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a triggered ability of a permanent you control to trigger, it triggers again. That doubles Channeler / Hunter / Cloudblazer / Thassa / Skycoach ETBs, and stacks with [[02 Cards/Creatures/Starfield Vocalist|Starfield Vocalist]] and [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (both ordered). The adventure, Vantress Visions, copies an activated or triggered ability you control. In hand on the sideboard. Not in the 100 until a named cut.
+Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a triggered ability of a permanent you control to trigger, it triggers again. That doubles Channeler / Hunter / Cloudblazer / Thassa / Skycoach ETBs, and stacks with [[02 Cards/Creatures/Starfield Vocalist|Starfield Vocalist]] and [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] (both ordered). The adventure, Vantress Visions, copies an activated or triggered ability you control. In the 100. Cut Turtles in Time.
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,7 @@ Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a tr
 
 ## Anti-synergies / Notes
 
-- In hand on the sideboard. Suggested cuts: Witness Protection 80 / Stormplain Detainment 82 / Enchanted River's Grasp 82.
+- In the 100. Cut Turtles in Time.
 
 ## Related Pages
 
@@ -87,7 +87,7 @@ Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a tr
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Sideboard
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 92
@@ -95,7 +95,7 @@ Virtue of Knowledge is a {4}{U} enchantment: if a permanent entering causes a tr
 > scryfall_id: 7cc2173a-b7fb-4bd6-9c8e-73de91c6903a
 > tags:
 >   - card
->   - sideboard
+>   - main-deck
 >   - enchantment
 > ```
 

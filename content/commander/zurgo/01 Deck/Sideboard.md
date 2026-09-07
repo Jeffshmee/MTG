@@ -15,14 +15,13 @@ legality: commander
 1 Kimoyo Beads
 
 # Recent Cuts (from main deck)
-1 Anafenza, Unyielding Lineage
-1 Sandskitter Outrider
 1 Canyon Slough
 1 Goblin-town
 1 Temple of Silence
 1 Temple of Triumph
 1 Deadly Dispute
 1 Shadow Summoning
+1 Anafenza, Unyielding Lineage
 1 Nightblade Brigade
 1 Thunder of Unity
 1 Bone Devourer
@@ -31,6 +30,7 @@ legality: commander
 1 Dragonback Lancer
 1 Emeria Angel
 1 Redcap Gutter-Dweller
+1 Sandskitter Outrider
 1 Goldlust Triad
 1 Eliminate the Competition
 1 Goblin Negotiation

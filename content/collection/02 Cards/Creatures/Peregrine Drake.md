@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Drake\|Drake]] |
 | **Colour** | [[05 Colours/Blue\|Blue]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (5)\|Mana (5)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Dominaria Remastered (<code>DMR</code>)</td><td>65</td><td>—</td><td>1</td><td>Box</td><td>0.14</td></tr>
+<tr><td>Dominaria Remastered (<code>DMR</code>)</td><td>65</td><td>—</td><td>1</td><td>Kykar</td><td>0.14</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -62,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Drake|Drake]] · [[05 Colours/Blue|Blue]] · [[06 Browse/Mana Costs/Mana (5)|Mana (5)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/DMR|Dominaria Remastered]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Drake|Drake]] · [[05 Colours/Blue|Blue]] · [[06 Browse/Mana Costs/Mana (5)|Mana (5)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/DMR|Dominaria Remastered]]
 
 ---
 

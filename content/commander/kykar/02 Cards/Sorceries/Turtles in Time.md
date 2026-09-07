@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Turtles in Time`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {5}{U}{U}  
 > **Type:** Sorcery  
 >
@@ -91,7 +91,7 @@ Seven-mana mass creature bounce, then an optional wheel, then exile itself. Toke
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 82
@@ -99,7 +99,7 @@ Seven-mana mass creature bounce, then an optional wheel, then exile itself. Toke
 > scryfall_id: bdb3efe7-7b12-4503-83e9-7977eb099db5
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - sorcerie
 > ```
 

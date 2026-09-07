@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Skyscanner`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {3}  
 > **Type:** Artifact Creature — Thopter  
 > **P/T:** 1/1  
@@ -89,7 +89,7 @@ Skyscanner is an ETB draw body at {3}. Blink it with [[02 Cards/Creatures/Kykar,
 > colors: []
 > color_identity: []
 > keywords: ["Flying"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 74
 >   deck_specific: 82
@@ -97,7 +97,7 @@ Skyscanner is an ETB draw body at {3}. Blink it with [[02 Cards/Creatures/Kykar,
 > scryfall_id: cab69fbd-0179-4b02-adba-71d2a0eeea5c
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

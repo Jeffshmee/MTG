@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Spirit\|Spirit]] |
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Modern Horizons (<code>MH1</code>)</td><td>214</td><td>—</td><td>1</td><td>Box</td><td>1.43</td></tr>
+<tr><td>Modern Horizons (<code>MH1</code>)</td><td>214</td><td>—</td><td>1</td><td>Kykar</td><td>1.43</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
 
 ### Arts in this Collection
 
@@ -62,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Spirit|Spirit]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/MH1|Modern Horizons]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Spirit|Spirit]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/MH1|Modern Horizons]]
 
 ---
 

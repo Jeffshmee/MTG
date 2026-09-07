@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Witness Protection`**
 >
-> **Status:** Main Deck
+> **Status:** Sideboard  
 > **Mana Cost:** {U}  
 > **Type:** Enchantment — Aura  
 >
@@ -86,7 +86,7 @@ Witness Protection ({U}). Owned. Turns a threat into a 1/1 Citizen and strips ab
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Enchant"]
-> status: Main Deck Deck
+> status: Sideboard Deck
 > scores:
 >   general: 76
 >   deck_specific: 82
@@ -94,7 +94,7 @@ Witness Protection ({U}). Owned. Turns a threat into a 1/1 Citizen and strips ab
 > scryfall_id: f231e981-0069-43ce-ac1c-c85ced613e93
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - enchantment
 > ```
 

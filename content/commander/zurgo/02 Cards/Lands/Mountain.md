@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Mountain](https://cards.scryfall.io/border_crop/front/b/f/bfa10a88-12e0-4b79-80bb-6f4620277e20.jpg)
+> ![Mountain](https://cards.scryfall.io/border_crop/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg)
 >
 > ### Deck Scores
 >
@@ -69,8 +69,8 @@ Printings sleeved in this 100. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/f/bfa10a88-12e0-4b79-80bb-6f4620277e20.jpg" alt="Mountain TDM 283 · ×1">
-<figcaption>TDM 283 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg" alt="Mountain HOB 197 foil · ×1">
+<figcaption>HOB 197 foil · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/3/a/3a3afd00-da06-4a9f-8cd1-7133728e0fdd.jpg" alt="Mountain FDN 288 · ×1">
@@ -113,7 +113,7 @@ Printings sleeved in this 100. Infocard uses the most copies.
 >   general: 70
 >   deck_specific: 70
 >   combined: 70
-> scryfall_id: bfa10a88-12e0-4b79-80bb-6f4620277e20
+> scryfall_id: 51acfb01-4b0b-48fc-9704-a9b4a1e43a23
 > tags:
 >   - card
 >   - main-deck

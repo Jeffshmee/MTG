@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Personify`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Instant  
 >
@@ -89,7 +89,7 @@ Instant blink a creature you control, then a 1/1 changeling. Combat-speed ETB fo
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 70
 >   deck_specific: 80
@@ -97,7 +97,7 @@ Instant blink a creature you control, then a 1/1 changeling. Combat-speed ETB fo
 > scryfall_id: 1172582d-fb2d-4022-95b1-e48b03df3a95
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - instant
 > ```
 

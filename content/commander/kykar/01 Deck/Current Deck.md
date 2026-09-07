@@ -27,7 +27,7 @@ legality: commander
 1 Mocking Sprite
 1 Reflector Mage
 1 Skycoach Conductor
-1 Skyscanner
+1 Soulherder
 1 Angel of Finality
 1 Archaeomancer
 1 Bigfin Bouncer
@@ -38,21 +38,23 @@ legality: commander
 1 Thassa, Deep-Dwelling
 1 Cloudblazer
 1 Emeritus of Ideation
+1 Peregrine Drake
 1 Shipwreck Dowser
 1 Deadeye Navigator
 
 # Instants
 1 An Offer You Can't Refuse
+1 Ephemerate
 1 Into the Flood Maw
 1 Repeal
 1 Spell Pierce
 1 Unsummon
 1 Blink of an Eye
+1 Counterspell
 1 Dawn's Truce
 1 Disenchant
 1 Into the Roil
 1 Lofty Denial
-1 Personify
 1 Snap
 1 Think Twice
 1 Ghostly Flicker
@@ -71,11 +73,9 @@ legality: commander
 1 Rite of Replication
 1 Flood of Tears
 1 River's Rebuke
-1 Turtles in Time
 1 Wisdom of Ages
 
 # Enchantments
-1 Witness Protection
 1 Airbender Ascension
 1 Enchanted River's Grasp
 1 Imprisoned in the Moon
@@ -83,10 +83,10 @@ legality: commander
 1 Stormplain Detainment
 1 Tocasia's Welcome
 1 Teleportation Circle
+1 Virtue of Knowledge
 
 # Artifacts
 1 Sol Ring
-1 Soul-Guide Lantern
 1 Wayfarer's Bauble
 1 Azorius Signet
 1 Swiftfoot Boots
@@ -112,7 +112,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-05 (sleeved 100)*
+*Last synced: 2026-09-07 (sleeved 100)*
 
 ---
 
@@ -138,7 +138,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Creatures/Reflector Mage|Reflector Mage]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
-- [[02 Cards/Creatures/Skyscanner|Skyscanner]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
+- [[02 Cards/Creatures/Soulherder|Soulherder]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Creatures/Archaeomancer|Archaeomancer]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Creatures/Bigfin Bouncer|Bigfin Bouncer]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
@@ -150,21 +150,23 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Emeritus of Ideation|Emeritus of Ideation]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
+- [[02 Cards/Creatures/Peregrine Drake|Peregrine Drake]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Shipwreck Dowser|Shipwreck Dowser]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Deadeye Navigator|Deadeye Navigator]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 
 ### Instants
 - [[02 Cards/Instants/An Offer You Can't Refuse|An Offer You Can't Refuse]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
+- [[02 Cards/Instants/Ephemerate|Ephemerate]] **94** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:94%"></div></div>
 - [[02 Cards/Instants/Into the Flood Maw|Into the Flood Maw]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Instants/Repeal|Repeal]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Instants/Spell Pierce|Spell Pierce]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Instants/Unsummon|Unsummon]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Instants/Blink of an Eye|Blink of an Eye]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
+- [[02 Cards/Instants/Counterspell|Counterspell]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Instants/Dawn's Truce|Dawn's Truce]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Instants/Into the Roil|Into the Roil]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Instants/Lofty Denial|Lofty Denial]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
-- [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:76%"></div></div>
 - [[02 Cards/Instants/Snap|Snap]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Instants/Ghostly Flicker|Ghostly Flicker]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
@@ -183,11 +185,9 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Sorceries/Rite of Replication|Rite of Replication]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Sorceries/Flood of Tears|Flood of Tears]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Sorceries/River's Rebuke|River's Rebuke]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
-- [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Sorceries/Wisdom of Ages|Wisdom of Ages]] **65** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:65%"></div></div>
 
 ### Enchantments
-- [[02 Cards/Enchantments/Witness Protection|Witness Protection]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Enchantments/Airbender Ascension|Airbender Ascension]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Enchantments/Enchanted River's Grasp|Enchanted River's Grasp]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Enchantments/Imprisoned in the Moon|Imprisoned in the Moon]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
@@ -195,10 +195,10 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Enchantments/Stormplain Detainment|Stormplain Detainment]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Enchantments/Tocasia's Welcome|Tocasia's Welcome]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Enchantments/Teleportation Circle|Teleportation Circle]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Enchantments/Virtue of Knowledge|Virtue of Knowledge]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 
 ### Artifacts
 - [[02 Cards/Artifacts/Sol Ring|Sol Ring]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
-- [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Artifacts/Azorius Signet|Azorius Signet]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Swiftfoot Boots|Swiftfoot Boots]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>

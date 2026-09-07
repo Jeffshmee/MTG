@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Peregrine Drake`**
 >
-> **Status:** Sideboard  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}{U}  
 > **Type:** Creature — Drake  
 > **P/T:** 2/3  
@@ -51,7 +51,7 @@
 
 ## Deck Role & Rating
 
-Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Flicker + Archaeomancer (three-card). Fair use: blink him with Skycoach or Thassa for a burst of mana into Channeler. In hand on the sideboard. Completes Deadeye — sleeve when a cut is named.
+Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Flicker + Archaeomancer (three-card). Fair use: blink him with Skycoach or Thassa for a burst of mana into Channeler. In the 100. Cut Personify. Completes Deadeye (two-card) and Flicker + Archaeomancer (three-card).
 
 ## Play Patterns & Lines
 
@@ -92,7 +92,7 @@ Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Fl
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Flying"]
-> status: Sideboard
+> status: Main Deck
 > scores:
 >   general: 82
 >   deck_specific: 94
@@ -100,7 +100,7 @@ Drake untaps five lands on ETB. That completes Deadeye (two-card) and Ghostly Fl
 > scryfall_id: 611c8fa2-b53f-483b-9efa-759ac59dc30f
 > tags:
 >   - card
->   - sideboard
+>   - main-deck
 >   - creature
 > ```
 
