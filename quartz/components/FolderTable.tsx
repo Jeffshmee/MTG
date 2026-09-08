@@ -169,6 +169,8 @@ function ManaCost({ value }: { value: string }) {
         class="mana-pip"
         src={String(el.properties?.src ?? "")}
         alt={String(el.properties?.alt ?? "")}
+        width={15}
+        height={15}
       />
     )
   })

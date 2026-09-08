@@ -91,6 +91,8 @@ function pipImg(raw: string, code: string): Element {
       className: ["mana-pip"],
       src: `https://svgs.scryfall.io/card-symbols/${code}.svg`,
       alt: raw,
+      width: 15,
+      height: 15,
     },
     children: [],
   }

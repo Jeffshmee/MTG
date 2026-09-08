@@ -306,15 +306,26 @@ img.mana-pip,
 .callout img[src*="card-symbols"],
 .callout img[src*="svgs.scryfall"],
 .callout img[src*="mana"],
-.callout img[src*="/symb"] {
+.callout img[src*="/symb"],
+td img.mana-pip,
+th img.mana-pip,
+table img.mana-pip,
+.table-container img.mana-pip {
   width: 1.15em !important;
   height: 1.15em !important;
   max-width: 1.15em !important;
   max-height: 1.15em !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
   display: inline-block !important;
   vertical-align: -0.15em;
   margin: 0 0.08em !important;
+  padding: 0 !important;
   border-radius: 0 !important;
+  object-fit: contain !important;
+  flex: none !important;
+  content-visibility: visible !important;
+  contain: none !important;
 }
 
 .callout[data-callout="info"] {
