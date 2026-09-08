@@ -2,7 +2,7 @@
 
 Cards whose mana value is 8.
 
-**6** copies · **5** names.
+**7** copies · **6** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,4 +10,5 @@ Cards whose mana value is 8.
 | [**`mtg:Glassworks`**](https://scryfall.com/card/dsk/137) | [[02 Cards/Enchantments/Glassworks\|PAGE]] | {2}{R} // {4}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 1 | 0.03 |
 | [**`mtg:Legion Loyalty`**](https://scryfall.com/card/tdc/122) | [[02 Cards/Enchantments/Legion Loyalty\|PAGE]] | {6}{W}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 2 | 0.64 |
 | [**`mtg:Myojin of Night's Reach`**](https://scryfall.com/card/fdn/610) | [[02 Cards/Creatures/Myojin of Night's Reach\|PAGE]] | {5}{B}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 1 | 0.27 |
+| [**`mtg:Push`**](https://scryfall.com/card/mkm/250) | [[02 Cards/Sorceries/Push\|PAGE]] | {1}{W/B} // {4}{B/R}{B/R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 1 | 0.06 |
 | [**`mtg:Zetalpa, Primal Dawn`**](https://scryfall.com/card/tdc/142) | [[02 Cards/Creatures/Zetalpa, Primal Dawn\|PAGE]] | {6}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elder\|Elder]] [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 1 | 0.21 |

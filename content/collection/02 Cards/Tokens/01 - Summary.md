@@ -2,7 +2,7 @@
 
 Token and emblem cards. Kept off colour pages so those lists stay mono-coloured.
 
-**210** copies · **53** names.
+**218** copies · **56** names.
 
 ```decklist
 group: auto
@@ -12,6 +12,7 @@ legality: commander
 1 Ally
 1 Angel
 1 Angelo
+1 Bat
 2 Beast
 2 Bird
 4 Cat
@@ -31,12 +32,12 @@ legality: commander
 5 Faerie
 1 Fish
 1 Food
-10 Fractal
+11 Fractal
 25 Goblin
 3 Goblin Army
 3 Human
 5 Human Soldier
-8 Inkling
+9 Inkling
 3 Insect
 1 Kaito, Cunning Infiltrator Emblem
 3 Kithkin
@@ -46,19 +47,21 @@ legality: commander
 1 Ninja
 2 On an Adventure
 2 Pentavite
-6 Pest
+7 Pest
 2 Phyrexian Goblin
+1 Plant
 1 Rabbit
 3 Rat
 1 Servo
 1 Snake // Zombie
 6 Soldier
-20 Spirit
-2 Thopter
+21 Spirit
+3 Thopter
 1 Toy
 19 Treasure
 2 Treefolk
 1 Vivien Reid Emblem
+1 Voja Fenstalker
 16 Warrior
 1 Wolf
 2 Zombie

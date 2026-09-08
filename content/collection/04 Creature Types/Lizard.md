@@ -2,7 +2,7 @@
 
 Creature type: Lizard.
 
-**4** copies · **4** names.
+**5** copies · **5** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,3 +10,4 @@ Creature type: Lizard.
 | [**`mtg:Kindlespark Duo`**](https://scryfall.com/card/blb/142) | [[02 Cards/Creatures/Kindlespark Duo\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Lizard\|Lizard]] [[04 Creature Types/Otter\|Otter]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Spitfire Lagac`**](https://scryfall.com/card/fdn/208) | [[02 Cards/Creatures/Spitfire Lagac\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Lizard\|Lizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |
 | [**`mtg:Glidedive Duo`**](https://scryfall.com/card/blb/96) | [[02 Cards/Creatures/Glidedive Duo\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bat\|Bat]] [[04 Creature Types/Lizard\|Lizard]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.08 |
+| [**`mtg:Rubblebelt Braggart`**](https://scryfall.com/card/mkm/143) | [[02 Cards/Creatures/Rubblebelt Braggart\|PAGE]] | {4}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Lizard\|Lizard]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |

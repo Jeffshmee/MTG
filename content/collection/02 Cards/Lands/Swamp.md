@@ -35,6 +35,7 @@
 | 04/09/2026 | MageCards · MTG_Factory |
 | 04/09/2026 | MageCards · Axion_Now |
 | 05/09/2026 | MageCards · MtgGambit |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -43,7 +44,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>39</div>
+<div class="synergy-score-num"><span>Copies</span>41</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -71,6 +72,8 @@
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>282</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.11</td></tr>
 <tr><td>Magic Origins (<code>ORI</code>)</td><td>263</td><td>foil</td><td>1</td><td>Box</td><td>0.26</td></tr>
 <tr><td>Throne of Eldraine (<code>ELD</code>)</td><td>258</td><td>foil</td><td>1</td><td>Box</td><td>0.17</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>274</td><td>—</td><td>1</td><td>Box</td><td>0.28</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>281</td><td>foil</td><td>1</td><td>Box</td><td>0.08</td></tr>
 </tbody>
 </table>
 </div>
@@ -139,6 +142,14 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>LTR 267 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/5/3/53d0a415-26b8-4ba2-9503-b4ee2b93617c.jpg" alt="Swamp MKM 274 · ×1">
+<figcaption>MKM 274 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/7/0/70d0ef58-c0b3-4bcd-b470-0cf41219a4e6.jpg" alt="Swamp MKM 281 · ×1">
+<figcaption>MKM 281 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/6/a63b7238-ebdc-4dd8-b799-1ca33c14163b.jpg" alt="Swamp ORI 263 · ×1">
 <figcaption>ORI 263 · ×1</figcaption>
 </figure>
@@ -162,7 +173,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ORI|Magic Origins]] · [[06 Browse/Sets/ELD|Throne of Eldraine]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ORI|Magic Origins]] · [[06 Browse/Sets/ELD|Throne of Eldraine]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
 
 ---
 
@@ -175,7 +186,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Swamp"
 > scryfall_id: 13505c15-14e0-4200-82bd-fb9bce949e68
-> quantity: 39
+> quantity: 41
 > tags:
 >   - card
 >   - collection

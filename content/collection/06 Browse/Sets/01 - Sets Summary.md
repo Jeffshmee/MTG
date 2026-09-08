@@ -12,13 +12,14 @@ Owned % is unique printings you have (set + collector number) divided by that se
 
 | Set | | Code | Names | Qty | Owned % | Est. Price (GBP) |
 |-----|--|------|-------|-----|---------|------------------|
-| [Secrets of Strixhaven](https://scryfall.com/sets/sos) | [[06 Browse/Sets/SOS\|PAGE]] | `SOS` | 220 | 389 | 62% | 84.86 |
-| [Foundations](https://scryfall.com/sets/fdn) | [[06 Browse/Sets/FDN\|PAGE]] | `FDN` | 274 | 461 | 38% | 91.97 |
+| [Secrets of Strixhaven](https://scryfall.com/sets/sos) | [[06 Browse/Sets/SOS\|PAGE]] | `SOS` | 223 | 428 | 62% | 90.00 |
+| [Foundations](https://scryfall.com/sets/fdn) | [[06 Browse/Sets/FDN\|PAGE]] | `FDN` | 274 | 463 | 38% | 92.05 |
 | [The Hobbit](https://scryfall.com/sets/hob) | [[06 Browse/Sets/HOB\|PAGE]] | `HOB` | 89 | 123 | 28% | 17.71 |
 | [Tarkir: Dragonstorm](https://scryfall.com/sets/tdm) | [[06 Browse/Sets/TDM\|PAGE]] | `TDM` | 109 | 149 | 27% | 29.08 |
 | [Lorwyn Eclipsed](https://scryfall.com/sets/ecl) | [[06 Browse/Sets/ECL\|PAGE]] | `ECL` | 79 | 111 | 20% | 60.62 |
 | [Tarkir: Dragonstorm Commander](https://scryfall.com/sets/tdc) | [[06 Browse/Sets/TDC\|PAGE]] | `TDC` | 71 | 82 | 17% | 66.70 |
-| [Secrets of Strixhaven Mystical Archive](https://scryfall.com/sets/soa) | [[06 Browse/Sets/SOA\|PAGE]] | `SOA` | 27 | 31 | 14% | 15.29 |
+| [Murders at Karlov Manor](https://scryfall.com/sets/mkm) | [[06 Browse/Sets/MKM\|PAGE]] | `MKM` | 67 | 83 | 16% | 62.15 |
+| [Secrets of Strixhaven Mystical Archive](https://scryfall.com/sets/soa) | [[06 Browse/Sets/SOA\|PAGE]] | `SOA` | 27 | 34 | 14% | 15.71 |
 | [Commander Collection: Black](https://scryfall.com/sets/cc2) | [[06 Browse/Sets/CC2\|PAGE]] | `CC2` | 1 | 1 | 11% | 0.48 |
 | [Bloomburrow](https://scryfall.com/sets/blb) | [[06 Browse/Sets/BLB\|PAGE]] | `BLB` | 41 | 41 | 10% | 32.58 |
 | [Avatar: The Last Airbender](https://scryfall.com/sets/tla) | [[06 Browse/Sets/TLA\|PAGE]] | `TLA` | 31 | 32 | 8% | 6.47 |
@@ -104,7 +105,6 @@ Owned % is unique printings you have (set + collector number) divided by that se
 | [The Brothers' War](https://scryfall.com/sets/bro) | [[06 Browse/Sets/BRO\|PAGE]] | `BRO` | 1 | 1 | 0.3% | 0.32 |
 | [Time Spiral Remastered](https://scryfall.com/sets/tsr) | [[06 Browse/Sets/TSR\|PAGE]] | `TSR` | 1 | 1 | 0.2% | 0.19 |
 | [Marvel Super Heroes Commander](https://scryfall.com/sets/msc) | [[06 Browse/Sets/MSC\|PAGE]] | `MSC` | 2 | 2 | 0.2% | 0.85 |
-| [Murders at Karlov Manor](https://scryfall.com/sets/mkm) | [[06 Browse/Sets/MKM\|PAGE]] | `MKM` | 1 | 1 | 0.2% | 0.18 |
 | [Phyrexia: All Will Be One](https://scryfall.com/sets/one) | [[06 Browse/Sets/ONE\|PAGE]] | `ONE` | 1 | 1 | 0.2% | 0.16 |
 | [Kamigawa: Neon Dynasty](https://scryfall.com/sets/neo) | [[06 Browse/Sets/NEO\|PAGE]] | `NEO` | 1 | 1 | 0.2% | 2.44 |
 | [Foundations Jumpstart](https://scryfall.com/sets/j25) | [[06 Browse/Sets/J25\|PAGE]] | `J25` | 1 | 1 | 0.1% | 0.16 |
@@ -123,13 +123,14 @@ Owned % is unique printings you have (set + collector number) divided by that se
 
 | Set | | Code | Names | Qty | Owned % | Est. Price (GBP) |
 |-----|--|------|-------|-----|---------|------------------|
-| [Secrets of Strixhaven Tokens](https://scryfall.com/sets/tsos) | [[06 Browse/Sets/TSOS\|PAGE]] | `TSOS` | 7 | 52 | 86% | 0.00 |
+| [Secrets of Strixhaven Tokens](https://scryfall.com/sets/tsos) | [[06 Browse/Sets/TSOS\|PAGE]] | `TSOS` | 7 | 56 | 86% | 0.00 |
 | [Tarkir: Dragonstorm Tokens](https://scryfall.com/sets/ttdm) | [[06 Browse/Sets/TTDM\|PAGE]] | `TTDM` | 9 | 45 | 81% | 6.63 |
 | [Foundations Tokens](https://scryfall.com/sets/tfdn) | [[06 Browse/Sets/TFDN\|PAGE]] | `TFDN` | 21 | 35 | 67% | 6.08 |
 | [The Hobbit Tokens](https://scryfall.com/sets/thob) | [[06 Browse/Sets/THOB\|PAGE]] | `THOB` | 7 | 24 | 53% | 0.00 |
 | [Lorwyn Eclipsed Tokens](https://scryfall.com/sets/tecl) | [[06 Browse/Sets/TECL\|PAGE]] | `TECL` | 6 | 16 | 46% | 0.00 |
 | [Tarkir: Dragonstorm Commander Tokens](https://scryfall.com/sets/ttdc) | [[06 Browse/Sets/TTDC\|PAGE]] | `TTDC` | 11 | 18 | 32% | 3.08 |
 | [Aetherdrift Tokens](https://scryfall.com/sets/tdft) | [[06 Browse/Sets/TDFT\|PAGE]] | `TDFT` | 4 | 4 | 29% | 0.36 |
+| [Murders at Karlov Manor Tokens](https://scryfall.com/sets/tmkm) | [[06 Browse/Sets/TMKM\|PAGE]] | `TMKM` | 4 | 4 | 18% | 1.32 |
 | [Duskmourn: House of Horror Tokens](https://scryfall.com/sets/tdsk) | [[06 Browse/Sets/TDSK\|PAGE]] | `TDSK` | 2 | 2 | 11% | 0.19 |
 | [Avatar: The Last Airbender Tokens](https://scryfall.com/sets/ttla) | [[06 Browse/Sets/TTLA\|PAGE]] | `TTLA` | 2 | 2 | 9% | 0.00 |
 | [Lorwyn Eclipsed Commander Tokens](https://scryfall.com/sets/tecc) | [[06 Browse/Sets/TECC\|PAGE]] | `TECC` | 1 | 1 | 8% | 0.00 |

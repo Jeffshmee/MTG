@@ -2,15 +2,17 @@
 
 Creature type: Artificer.
 
-**12** copies · **10** names.
+**15** copies · **12** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Greasewrench Goblin`**](https://scryfall.com/card/dft/132) | [[02 Cards/Creatures/Greasewrench Goblin\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.11 |
 | [**`mtg:Iron Hills Blacksmith`**](https://scryfall.com/card/hob/16) | [[02 Cards/Creatures/Iron Hills Blacksmith\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.18 |
 | [**`mtg:Loyal Apprentice`**](https://scryfall.com/card/tdc/222) | [[02 Cards/Creatures/Loyal Apprentice\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
+| [**`mtg:Forensic Gadgeteer`**](https://scryfall.com/card/mkm/342) | [[02 Cards/Creatures/Forensic Gadgeteer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Artificer\|Artificer]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.54 |
 | [**`mtg:Highspire Artisan`**](https://scryfall.com/card/kld/157) | [[02 Cards/Creatures/Highspire Artisan\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Loran of the Third Path`**](https://scryfall.com/card/blc/143) | [[02 Cards/Creatures/Loran of the Third Path\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.67 |
+| [**`mtg:Gadget Technician`**](https://scryfall.com/card/mkm/204) | [[02 Cards/Creatures/Gadget Technician\|PAGE]] | {2}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.08 |
 | [**`mtg:Ironwill Forger`**](https://scryfall.com/card/tdc/13) | [[02 Cards/Creatures/Ironwill Forger\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.80 |
 | [**`mtg:Lake-town Toymaker`**](https://scryfall.com/card/hob/19) | [[02 Cards/Creatures/Lake-town Toymaker\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Meticulous Artisan`**](https://scryfall.com/card/tdm/112) | [[02 Cards/Creatures/Meticulous Artisan\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |

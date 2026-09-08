@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**239** copies · **188** names.
+**255** copies · **196** names.
 
 ```decklist
 group: auto
@@ -15,6 +15,7 @@ legality: commander
 2 Agent of Kotis
 1 Arcanis the Omnipotent
 1 Archaeomancer
+1 Benthic Criminologists
 1 Bigfin Bouncer
 2 Bilbo Baggins, Burglar // Take a Glance
 3 Brineborn Cutthroat
@@ -43,6 +44,7 @@ legality: commander
 1 Faerie Vandal
 1 Fog Bank
 1 Forecasting Fortune Teller
+1 Forensic Gadgeteer
 1 Galecaster Colossus
 1 Gandalf, Wandering Wizard
 1 Gateway Sneak
@@ -54,11 +56,13 @@ legality: commander
 1 Harmonized Trio // Brainstorm
 1 High Fae Trickster
 2 Highspire Bell-Ringer
+2 Hotshot Investigators
 1 Humbling Elder
 3 Hydro-Channeler
 1 Iceridge Serpent
 1 Icewind Elemental
 1 Illusion Spinners
+1 Jaded Analyst
 1 Jadzi, Steward of Fate // Oracle's Gift
 1 Kiora, the Rising Tide
 1 Kitesail Larcenist
@@ -96,6 +100,7 @@ legality: commander
 1 Stitched Mangler
 1 Stormwing Entity
 1 Strix Lookout
+2 Surveillance Monitor
 1 Teferi's Wavecaster
 1 Tempest Djinn
 1 Tester of the Tangential
@@ -113,6 +118,7 @@ legality: commander
 1 Aetherize
 1 An Offer You Can't Refuse
 3 Banishing Betrayal
+1 Behind the Mask
 1 Blink of an Eye
 1 Brush Off
 1 Call to Heel
@@ -120,7 +126,7 @@ legality: commander
 1 Confounding Riddle
 1 Confusticate and Bebother
 2 Counterspell
-1 Deduce
+2 Deduce
 1 Disdainful Stroke
 1 Dive Down
 1 Divergent Equation
@@ -129,7 +135,7 @@ legality: commander
 3 Essence Scatter
 1 Faebloom Trick
 1 Flashfreeze
-1 Fractal Anomaly
+2 Fractal Anomaly
 1 Fractalize
 1 Ghostly Flicker
 2 Homesickness
@@ -143,7 +149,8 @@ legality: commander
 1 Mystical Teachings
 1 Negate
 4 Opt
-2 Quick Study
+4 Quick Study
+2 Reasonable Doubt
 2 Refute
 1 Repeal
 2 Run Away Together
@@ -174,7 +181,7 @@ legality: commander
 1 Inspiration from Beyond
 1 Otterball Antics
 1 Ponder
-2 Procrastinate
+3 Procrastinate
 1 Rite of Replication
 1 River's Rebuke
 1 Sleight of Hand
@@ -191,6 +198,7 @@ legality: commander
 1 Bottomless Pool // Locker Room
 1 Confiscate
 1 Dictate of Kruphix
+1 Dramatic Accusation
 1 Dwindle
 1 Enchanted River's Grasp
 1 Frozen in Ice

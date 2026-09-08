@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>37</td><td>—</td><td>1</td><td>Box</td><td>0.05</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>37</td><td>—</td><td>2</td><td>Box</td><td>0.05</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/4/4/44d0277c-ca82-4334-a15a-cd67a9db0d02.jpg" alt="Summoned Dromedary SOS 37 · ×1">
-<figcaption>SOS 37 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/4/4/44d0277c-ca82-4334-a15a-cd67a9db0d02.jpg" alt="Summoned Dromedary SOS 37 · ×2">
+<figcaption>SOS 37 · ×2</figcaption>
 </figure>
 </div>
 
@@ -75,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 4
 > type: "Creature — Spirit Camel"
 > scryfall_id: 44d0277c-ca82-4334-a15a-cd67a9db0d02
-> quantity: 1
+> quantity: 2
 > tags:
 >   - camel
 >   - card

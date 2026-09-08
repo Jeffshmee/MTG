@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>252</td><td>—</td><td>1</td><td>Box</td><td>0.02</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>252</td><td>—</td><td>2</td><td>Box</td><td>0.02</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/8/7/87741fbb-b426-4f83-a358-587b0907f081.jpg" alt="Strixhaven Skycoach SOS 252 · ×1">
-<figcaption>SOS 252 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/8/7/87741fbb-b426-4f83-a358-587b0907f081.jpg" alt="Strixhaven Skycoach SOS 252 · ×2">
+<figcaption>SOS 252 · ×2</figcaption>
 </figure>
 </div>
 
@@ -75,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 3
 > type: "Artifact — Vehicle"
 > scryfall_id: 87741fbb-b426-4f83-a358-587b0907f081
-> quantity: 1
+> quantity: 2
 > tags:
 >   - artifact
 >   - card

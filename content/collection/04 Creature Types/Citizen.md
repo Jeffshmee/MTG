@@ -2,10 +2,11 @@
 
 Creature type: Citizen.
 
-**9** copies · **8** names.
+**10** copies · **9** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Goblin Maskmaker`**](https://scryfall.com/card/mkm/130) | [[02 Cards/Creatures/Goblin Maskmaker\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Belladonna Took`**](https://scryfall.com/card/hob/214) | [[02 Cards/Creatures/Belladonna Took\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.90 |
 | [**`mtg:Dwarven Provisioner`**](https://scryfall.com/card/hob/9) | [[02 Cards/Creatures/Dwarven Provisioner\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Item Shopkeep`**](https://scryfall.com/card/fin/142) | [[02 Cards/Creatures/Item Shopkeep\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |

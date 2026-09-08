@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**104** copies · **76** names.
+**111** copies · **81** names.
 
 ```decklist
 group: auto
@@ -20,6 +20,8 @@ legality: commander
 1 Embermouth Sentinel
 1 Foraging Wickermaw
 1 Gate Colossus
+2 Gravestone Strider
+1 Lumbering Laundry
 2 Mage Tower Referee
 1 Meteor Golem
 1 Myr Battlesphere
@@ -28,6 +30,7 @@ legality: commander
 1 Ramos, Dragon Engine
 4 Rancorous Archaic
 1 Rooftop Percher
+1 Sanitation Automaton
 1 Skyscanner
 1 Solemn Simulacrum
 1 Steel Hellkite
@@ -38,6 +41,9 @@ legality: commander
 
 # Sorceries
 1 Together as One
+
+# Enchantments
+1 Case of the Shattered Pact
 
 # Artifacts
 1 Abzan Monument
@@ -68,6 +74,7 @@ legality: commander
 2 Jeskai Monument
 1 Kyoshi Battle Fan
 2 Lightning Greaves
+1 Magnifying Glass
 1 Mardu Monument
 1 Mazemind Tome
 1 Mobile Garrison
@@ -83,7 +90,7 @@ legality: commander
 1 Sorcerous Spyglass
 1 Soul-Guide Lantern
 1 Stalactite Dagger
-1 Strixhaven Skycoach
+2 Strixhaven Skycoach
 1 Swiftfoot Boots
 1 Talisman of Conviction
 1 Talisman of Hierarchy

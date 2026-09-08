@@ -2,7 +2,7 @@
 
 Creature type: Cat.
 
-**33** copies · **23** names.
+**34** copies · **23** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,7 +13,7 @@ Creature type: Cat.
 | [**`mtg:Dawnwing Marshal`**](https://scryfall.com/card/fdn/570) | [[02 Cards/Creatures/Dawnwing Marshal\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.19 |
 | [**`mtg:Felidar Cub`**](https://scryfall.com/card/fdn/573) | [[02 Cards/Creatures/Felidar Cub\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Helpful Hunter`**](https://scryfall.com/card/fdn/16) | [[02 Cards/Creatures/Helpful Hunter\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
-| [**`mtg:Infirmary Healer`**](https://scryfall.com/card/sos/152) | [[02 Cards/Creatures/Infirmary Healer\|PAGE]] | {1}{G} // {X}{G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
+| [**`mtg:Infirmary Healer`**](https://scryfall.com/card/sos/152) | [[02 Cards/Creatures/Infirmary Healer\|PAGE]] | {1}{G} // {X}{G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.18 |
 | [**`mtg:Inkling Mascot`**](https://scryfall.com/card/sos/196) | [[02 Cards/Creatures/Inkling Mascot\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Inkling\|Inkling]] [[04 Creature Types/Cat\|Cat]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.18 |
 | [**`mtg:Oreskos Swiftclaw`**](https://scryfall.com/card/m19/31) | [[02 Cards/Creatures/Oreskos Swiftclaw\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
 | [**`mtg:Prowling Caracal`**](https://scryfall.com/card/m20/309) | [[02 Cards/Creatures/Prowling Caracal\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |

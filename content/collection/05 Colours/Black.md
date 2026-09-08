@@ -2,7 +2,7 @@
 
 Mono-black cards ({B} only). Lands and tokens are listed separately.
 
-**190** copies · **144** names.
+**210** copies · **157** names.
 
 ```decklist
 group: auto
@@ -10,6 +10,8 @@ legality: commander
 
 # Creatures
 2 Adventurous Eater // Have a Bite
+1 Agency Coroner
+2 Alley Assailant
 1 Arbiter of Woe
 1 Arnyn, Deathbloom Botanist
 1 Azula, On the Hunt
@@ -31,7 +33,7 @@ legality: commander
 1 Eternal Student
 1 Fanatic of the Harrowing
 1 Feral Deathgorger // Dusk Sight
-1 Forum Necroscribe
+2 Forum Necroscribe
 3 Front Porch Sentries
 1 Gatekeeper of Malakir
 1 Gix, Yawgmoth Praetor
@@ -49,8 +51,10 @@ legality: commander
 1 Knight of Malice
 1 Lecturing Scornmage
 1 Leech Collector // Bloodletting
+1 Leering Onlooker
 1 Malboro
 2 Marauding Blight-Priest
+1 Massacre Girl, Known Killer
 1 Massacre Wurm
 3 Melancholic Poet
 1 Midnight Reaper
@@ -64,11 +68,14 @@ legality: commander
 1 Nullpriest of Oblivion
 1 Ophiomancer
 1 Ozox, the Clattering King
+1 Persuasive Interrogators
 2 Poisoner's Apprentice
 1 Pulse Tracker
 2 Purging Stormbrood // Absorb Essence
 1 Ravening Warg
+2 Repeat Offender
 1 Rhovanion Rampager
+1 Rot Farm Mortipede
 1 Sandskitter Outrider
 1 Sanguine Syphoner
 1 Scathing Shadelock // Venomous Words
@@ -80,7 +87,7 @@ legality: commander
 2 Stromkirk Bloodthief
 1 Suspicious Shambler
 1 Tragedy Feaster
-2 Ulna Alley Shopkeep
+3 Ulna Alley Shopkeep
 1 Unrooted Ancestor
 2 Vampire Nighthawk
 1 Vampire Soulcaller
@@ -105,12 +112,15 @@ legality: commander
 1 Fake Your Own Death
 1 Foolish Fate
 2 Hero's Downfall
+1 It Doesn't Add Up
 3 Last Gasp
 1 Locust Spray
 2 Masterful Flourish
 1 Moment of Craving
+1 Presumed Dead
 1 Rabid Attack
 2 Reverent Howl
+2 Slice from the Shadows
 1 Spin Out
 2 Stab
 1 Tribute to Hunger
@@ -134,12 +144,13 @@ legality: commander
 1 Essence Drain
 1 Exsanguinate
 2 Feed the Swarm
+1 Macabre Reconstruction
 2 Pilfer
 1 Pox Plague
 2 Pull from the Grave
 1 Sanguine Indulgence
 1 Seeker's Folly
-2 Send in the Pest
+4 Send in the Pest
 1 Sign in Blood
 2 Stargaze
 1 Stir Up Trouble
@@ -155,11 +166,13 @@ legality: commander
 1 Mornsong Aria
 1 Northern Air Temple
 1 Scavenger's Talent
+1 Soul Enervation
 1 Swampsnare Trap
 1 Vampiric Rites
 1 Within Range
 
 # Artifacts
+1 Polygraph Orb
 1 Wishclaw Talisman
 
 ```

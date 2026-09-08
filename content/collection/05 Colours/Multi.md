@@ -2,14 +2,14 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**239** copies · **182** names.
+**263** copies · **193** names.
 
 ```decklist
 group: auto
 legality: commander
 
 # Creatures
-2 Abigale, Poet Laureate // Heroic Stanza
+3 Abigale, Poet Laureate // Heroic Stanza
 1 Abstract Paintmage
 1 Alela, Cunning Conqueror
 1 Anim Pakal, Thousandth Moon
@@ -43,16 +43,19 @@ legality: commander
 3 Elemental Mascot
 1 Empyrean Eagle
 1 Enigma Drake
+1 Faerie Snoop
 1 Feisty Spikeling
 1 Fiendish Panda
 2 Figure of Fable
 3 Fractal Mascot
-1 Fractal Tender
+2 Fractal Tender
+2 Gadget Technician
 1 Garna, Bloodfist of Keld
 1 Geometer's Arthropod
 1 Gladiolus Amicitia
 1 Glowspore Shaman
 1 Golgari Findbroker
+2 Granite Witness
 2 Gurmag Nightwatch
 1 Halana and Alena, Partners
 3 High Perfect Morcant
@@ -65,7 +68,7 @@ legality: commander
 1 Junkblade Bruiser
 1 Kambal, Profiteering Mayor
 1 Katara, the Fearless
-1 Kirol, History Buff // Pack a Punch
+2 Kirol, History Buff // Pack a Punch
 1 Kykar, Zephyr Awakener
 2 Lathril, Blade of the Elves
 1 Ledev Champion
@@ -82,18 +85,21 @@ legality: commander
 1 Noggle Robber
 3 Nori, Teller of Tales
 1 Obyra, Dreaming Duelist
-1 Old-Growth Educator
+2 Old-Growth Educator
 1 Ovika, Enigma Goliath
 1 Paradox Surveyor
 1 Patient Instructor
 1 Perforating Artist
-1 Pest Mascot
+2 Pest Mascot
 1 Pond Prophet
 1 Practiced Scrollsmith
-3 Pterafractyl
+2 Private Eye
+4 Pterafractyl
 1 Queen Allenal of Ruadach
+1 Rakish Scoundrel
 1 Reflector Mage
 2 Reputable Merchant
+1 Riftburst Hellion
 2 Ruby, Daring Tracker
 1 Sanar, Unfinished Genius // Wild Idea
 1 Savage Ventmaw
@@ -105,7 +111,7 @@ legality: commander
 1 Soulherder
 1 Spectacular Skywhale
 1 Spider Manifestation
-2 Spirit Mascot
+3 Spirit Mascot
 3 Stadium Tidalmage
 1 Stalwart Successor
 2 Startled Relic Sloth
@@ -123,6 +129,7 @@ legality: commander
 1 Thorin Oakenshield
 1 Thranduil's Company
 1 Thranduil, Sindarin Liege // Silvan Rally
+1 Tolsimir, Midnight's Light
 1 Trygon Predator
 1 Twinflame Travelers
 1 Urza, Prince of Kroog
@@ -136,11 +143,13 @@ legality: commander
 
 # Planeswalkers
 1 Kaya, Geist Hunter
+1 Kaya, Spirits' Justice
 
 # Instants
 1 Assassin's Trophy
 1 Dina's Guidance
 3 Embrace the Paradox
+1 Hustle // Bustle
 1 Kin-Tree Severance
 1 Lorehold Charm
 1 Mortify
@@ -149,7 +158,7 @@ legality: commander
 1 Quandrix Charm
 1 Rakshasa's Bargain
 1 Silverquill Charm
-1 Stress Dream
+2 Stress Dream
 1 Teach by Example
 1 Traumatic Critique
 1 Vibrant Outburst
@@ -171,9 +180,10 @@ legality: commander
 1 Mammoth Bellow
 1 Mind into Matter
 1 Mind Roots
-2 Molten Note
+3 Molten Note
 2 Moment of Reckoning
-3 Pursue the Past
+4 Pursue the Past
+1 Push // Pull
 5 Render Speechless
 2 Root Manipulation
 1 Shadow Summoning
@@ -185,6 +195,7 @@ legality: commander
 1 All-Out Assault
 1 Anthem of Champions
 1 Hollowmurk Siege
+1 Insidious Roots
 1 Mardu Ascendancy
 2 Raiding Schemes
 1 Rediscover the Way

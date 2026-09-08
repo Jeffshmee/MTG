@@ -2,7 +2,7 @@
 
 Mono-red cards ({R} only). Lands and tokens are listed separately.
 
-**192** copies · **142** names.
+**204** copies · **150** names.
 
 ```decklist
 group: auto
@@ -17,6 +17,7 @@ legality: commander
 2 Beetleback Chief
 1 Blazing Firesinger // Seething Song
 1 Boar-q-pine
+1 Bolrac-Clan Basher
 1 Bombur, Gentle Dreamer
 1 Boneclub Berserker
 2 Charging Strifeknight
@@ -37,11 +38,13 @@ legality: commander
 1 Fleeting Effigy
 1 Frenzied Goblin
 1 Gandalf, Spark Starter
+1 Gearbane Orangutan
 2 Ghitu Lavarunner
 1 Giant Cindermaw
 1 Gilded Ghoda
 1 Goblin Boarders
-2 Goblin Glasswright // Craft with Pride
+4 Goblin Glasswright // Craft with Pride
+1 Goblin Maskmaker
 1 Goblin-town Flunkies
 1 Goldlust Triad
 1 Gorehorn Raider
@@ -60,6 +63,7 @@ legality: commander
 1 Lathliss, Dragon Queen
 1 Legion Warboss
 1 Loyal Apprentice
+1 Magmablood Archaic
 1 Meticulous Artisan
 1 Mica, Reader of Ruins
 1 Mindsparker
@@ -67,10 +71,12 @@ legality: commander
 2 Pigment Wrangler // Striking Palette
 1 Ravenous Giant
 3 Rearing Embermare
+2 Red Herring
 1 Redcap Gutter-Dweller
 1 Redoubled Stormsinger
 1 Roughshod Duo
-2 Rubble Rouser
+3 Rubble Rouser
+1 Rubblebelt Braggart
 1 Shock Brigade
 1 Shocking Sharpshooter
 1 Siege-Gang Commander
@@ -99,6 +105,7 @@ legality: commander
 1 Bulk Up
 5 Burst Lightning
 1 Choreographed Sparks
+1 Demand Answers
 2 Feed the Flames
 1 Fiery Annihilation
 1 Flashback
@@ -156,6 +163,7 @@ legality: commander
 1 Burner Rocket
 1 Getaway Barrel
 1 Infantry Shield
+1 Knife
 1 Ragged Short Spear
 1 Tablet of Discovery
 1 War Balloon

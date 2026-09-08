@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Creature — Fractal
 >
-> ![Fractal](https://cards.scryfall.io/border_crop/front/d/e/de564776-9d88-4533-8717-842eecdd0594.jpg)
+> ![Fractal](https://cards.scryfall.io/border_crop/front/8/b/8b5f1fdb-04df-4224-acb4-7819c37565f5.jpg)
 
 <div class="collection-side-tables">
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -38,13 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>10</div>
+<div class="synergy-score-num"><span>Copies</span>11</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>4</td><td>—</td><td>5</td><td>Box</td><td>—</td></tr>
-<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>5</td><td>—</td><td>5</td><td>Box</td><td>—</td></tr>
+<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>5</td><td>—</td><td>6</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
 </div>
@@ -56,12 +57,12 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/d/e/de564776-9d88-4533-8717-842eecdd0594.jpg" alt="Fractal TSOS 4 · ×5">
-<figcaption>TSOS 4 · ×5</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/8/b/8b5f1fdb-04df-4224-acb4-7819c37565f5.jpg" alt="Fractal TSOS 5 · ×6">
+<figcaption>TSOS 5 · ×6</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/8/b/8b5f1fdb-04df-4224-acb4-7819c37565f5.jpg" alt="Fractal TSOS 5 · ×5">
-<figcaption>TSOS 5 · ×5</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/d/e/de564776-9d88-4533-8717-842eecdd0594.jpg" alt="Fractal TSOS 4 · ×5">
+<figcaption>TSOS 4 · ×5</figcaption>
 </figure>
 </div>
 
@@ -79,8 +80,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Creature — Fractal"
-> scryfall_id: de564776-9d88-4533-8717-842eecdd0594
-> quantity: 10
+> scryfall_id: 8b5f1fdb-04df-4224-acb4-7819c37565f5
+> quantity: 11
 > tags:
 >   - card
 >   - collection

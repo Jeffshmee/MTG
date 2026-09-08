@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>198</td><td>—</td><td>1</td><td>Box</td><td>0.08</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>198</td><td>—</td><td>2</td><td>Box</td><td>0.08</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/6/7/676ba521-66e4-42cf-a315-70d03cb7334e.jpg" alt="Kirol, History Buff // Pack a Punch SOS 198 · ×1">
-<figcaption>SOS 198 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/6/7/676ba521-66e4-42cf-a315-70d03cb7334e.jpg" alt="Kirol, History Buff // Pack a Punch SOS 198 · ×2">
+<figcaption>SOS 198 · ×2</figcaption>
 </figure>
 </div>
 
@@ -76,7 +77,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 2
 > type: "Legendary Creature — Vampire Cleric // Sorcery"
 > scryfall_id: 676ba521-66e4-42cf-a315-70d03cb7334e
-> quantity: 1
+> quantity: 2
 > tags:
 >   - card
 >   - cleric

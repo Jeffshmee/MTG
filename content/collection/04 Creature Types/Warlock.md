@@ -2,7 +2,7 @@
 
 Creature type: Warlock.
 
-**48** copies · **30** names.
+**50** copies · **30** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -22,7 +22,7 @@ Creature type: Warlock.
 | [**`mtg:Moonglove Extractor`**](https://scryfall.com/card/ecl/109) | [[02 Cards/Creatures/Moonglove Extractor\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Moseo, Vein's New Dean`**](https://scryfall.com/card/sos/91) | [[02 Cards/Creatures/Moseo, Vein's New Dean\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Skeleton\|Skeleton]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.68 |
 | [**`mtg:Poisoner's Apprentice`**](https://scryfall.com/card/sos/92) | [[02 Cards/Creatures/Poisoner's Apprentice\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.11 |
-| [**`mtg:Ulna Alley Shopkeep`**](https://scryfall.com/card/sos/103) | [[02 Cards/Creatures/Ulna Alley Shopkeep\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
+| [**`mtg:Ulna Alley Shopkeep`**](https://scryfall.com/card/sos/103) | [[02 Cards/Creatures/Ulna Alley Shopkeep\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.09 |
 | [**`mtg:Alela, Cunning Conqueror`**](https://scryfall.com/card/woc/3) | [[02 Cards/Creatures/Alela, Cunning Conqueror\|PAGE]] | {2}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 8.77 |
 | [**`mtg:Cheerful Osteomancer`**](https://scryfall.com/card/sos/76) | [[02 Cards/Creatures/Cheerful Osteomancer\|PAGE]] | {3}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.12 |
 | [**`mtg:Chittering Witch`**](https://scryfall.com/card/tdc/175) | [[02 Cards/Creatures/Chittering Witch\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.21 |
@@ -35,4 +35,4 @@ Creature type: Warlock.
 | [**`mtg:Scathing Shadelock`**](https://scryfall.com/card/sos/98) | [[02 Cards/Creatures/Scathing Shadelock\|PAGE]] | {4}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Snake\|Snake]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
 | [**`mtg:Sneering Shadewriter`**](https://scryfall.com/card/sos/101) | [[02 Cards/Creatures/Sneering Shadewriter\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.27 |
 | [**`mtg:Vampire Soulcaller`**](https://scryfall.com/card/fdn/75) | [[02 Cards/Creatures/Vampire Soulcaller\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
-| [**`mtg:Forum Necroscribe`**](https://scryfall.com/card/sos/84) | [[02 Cards/Creatures/Forum Necroscribe\|PAGE]] | {5}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Troll\|Troll]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
+| [**`mtg:Forum Necroscribe`**](https://scryfall.com/card/sos/84) | [[02 Cards/Creatures/Forum Necroscribe\|PAGE]] | {5}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Troll\|Troll]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.22 |

@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +38,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations (<code>FDN</code>)</td><td>143</td><td>—</td><td>1</td><td>Box</td><td>0.04</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>143</td><td>—</td><td>3</td><td>Box</td><td>0.04</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +55,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/7/3/7368f861-3288-4645-90a7-ca35d6da3721.jpg" alt="Make Your Move FDN 143 · ×1">
-<figcaption>FDN 143 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/7/3/7368f861-3288-4645-90a7-ca35d6da3721.jpg" alt="Make Your Move FDN 143 · ×3">
+<figcaption>FDN 143 · ×3</figcaption>
 </figure>
 </div>
 
@@ -75,7 +75,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 3
 > type: "Instant"
 > scryfall_id: 7368f861-3288-4645-90a7-ca35d6da3721
-> quantity: 1
+> quantity: 3
 > tags:
 >   - card
 >   - collection

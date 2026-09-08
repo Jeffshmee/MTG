@@ -2,7 +2,7 @@
 
 Creature type: Merfolk.
 
-**31** copies · **21** names.
+**32** copies · **22** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -21,6 +21,7 @@ Creature type: Merfolk.
 | [**`mtg:Silvergill Peddler`**](https://scryfall.com/card/ecl/70) | [[02 Cards/Creatures/Silvergill Peddler\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Campus Composer`**](https://scryfall.com/card/sos/40) | [[02 Cards/Creatures/Campus Composer\|PAGE]] | {3}{U} // {4}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |
 | [**`mtg:Wanderwine Distracter`**](https://scryfall.com/card/ecl/82) | [[02 Cards/Creatures/Wanderwine Distracter\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.14 |
+| [**`mtg:Benthic Criminologists`**](https://scryfall.com/card/mkm/40) | [[02 Cards/Creatures/Benthic Criminologists\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.08 |
 | [**`mtg:Merrow Skyswimmer`**](https://scryfall.com/card/ecl/234) | [[02 Cards/Creatures/Merrow Skyswimmer\|PAGE]] | {3}{W/U}{W/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Orysa, Tide Choreographer`**](https://scryfall.com/card/sos/62) | [[02 Cards/Creatures/Orysa, Tide Choreographer\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.06 |
 | [**`mtg:Shipwreck Dowser`**](https://scryfall.com/card/fdn/596) | [[02 Cards/Creatures/Shipwreck Dowser\|PAGE]] | {3}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.12 |

@@ -34,6 +34,7 @@
 | 02/09/2026 | Booster haul |
 | 04/09/2026 | MageCards · Axion_Now |
 | 05/09/2026 | MageCards · MtgGambit |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -42,7 +43,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>39</div>
+<div class="synergy-score-num"><span>Copies</span>41</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -67,6 +68,8 @@
 <tr><td>March of the Machine (<code>MOM</code>)</td><td>285</td><td>foil</td><td>1</td><td>Maralen</td><td>0.16</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>280</td><td>foil</td><td>1</td><td>Kykar</td><td>0.14</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>190</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>280</td><td>—</td><td>1</td><td>Box</td><td>0.03</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>279</td><td>—</td><td>1</td><td>Box</td><td>0.06</td></tr>
 </tbody>
 </table>
 </div>
@@ -123,6 +126,14 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>HOB 190 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/6/9/6908b583-4a52-4819-82a3-9db9c860aeb6.jpg" alt="Island MKM 279 · ×1">
+<figcaption>MKM 279 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/f/df18762d-9980-4344-9d4f-e9d2cd8e0456.jpg" alt="Island MKM 280 · ×1">
+<figcaption>MKM 280 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/2/0/2039d727-3bb6-4a76-89ca-159ecf10cad8.jpg" alt="Island MOM 284 · ×1">
 <figcaption>MOM 284 · ×1</figcaption>
 </figure>
@@ -150,7 +161,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Island|Island]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/MOM|March of the Machine]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]] · [[06 Browse/Sets/HOB|The Hobbit]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Island|Island]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/MOM|March of the Machine]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
 
 ---
 
@@ -163,7 +174,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Island"
 > scryfall_id: 17e2b637-72b1-4457-aaba-66d51107be4c
-> quantity: 39
+> quantity: 41
 > tags:
 >   - card
 >   - collection

@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Creature — Pest
 >
-> ![Pest](https://cards.scryfall.io/border_crop/front/b/a/ba854032-6ad2-4654-990a-64006e7f92fd.jpg)
+> ![Pest](https://cards.scryfall.io/border_crop/front/4/0/40b22872-7b7b-4a6d-a343-4152e552b00a.jpg)
 
 <div class="collection-side-tables">
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -38,13 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>6</div>
+<div class="synergy-score-num"><span>Copies</span>7</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>8</td><td>—</td><td>3</td><td>Box</td><td>—</td></tr>
-<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>9</td><td>—</td><td>3</td><td>Box</td><td>—</td></tr>
+<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>9</td><td>—</td><td>4</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
 </div>
@@ -56,12 +57,12 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/a/ba854032-6ad2-4654-990a-64006e7f92fd.jpg" alt="Pest TSOS 8 · ×3">
-<figcaption>TSOS 8 · ×3</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/4/0/40b22872-7b7b-4a6d-a343-4152e552b00a.jpg" alt="Pest TSOS 9 · ×4">
+<figcaption>TSOS 9 · ×4</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/4/0/40b22872-7b7b-4a6d-a343-4152e552b00a.jpg" alt="Pest TSOS 9 · ×3">
-<figcaption>TSOS 9 · ×3</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/b/a/ba854032-6ad2-4654-990a-64006e7f92fd.jpg" alt="Pest TSOS 8 · ×3">
+<figcaption>TSOS 8 · ×3</figcaption>
 </figure>
 </div>
 
@@ -79,8 +80,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Creature — Pest"
-> scryfall_id: ba854032-6ad2-4654-990a-64006e7f92fd
-> quantity: 6
+> scryfall_id: 40b22872-7b7b-4a6d-a343-4152e552b00a
+> quantity: 7
 > tags:
 >   - card
 >   - collection

@@ -2,7 +2,7 @@
 
 Creature type: Faerie.
 
-**21** copies · **17** names.
+**22** copies · **18** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -14,6 +14,7 @@ Creature type: Faerie.
 | [**`mtg:Maraleaf Pixie`**](https://scryfall.com/card/eld/196) | [[02 Cards/Creatures/Maraleaf Pixie\|PAGE]] | {G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
 | [**`mtg:Obyra, Dreaming Duelist`**](https://scryfall.com/card/woe/210) | [[02 Cards/Creatures/Obyra, Dreaming Duelist\|PAGE]] | {U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
 | [**`mtg:Spellstutter Sprite`**](https://scryfall.com/card/mma/65) | [[02 Cards/Creatures/Spellstutter Sprite\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.76 |
+| [**`mtg:Faerie Snoop`**](https://scryfall.com/card/mkm/203) | [[02 Cards/Creatures/Faerie Snoop\|PAGE]] | {1}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Glamermite`**](https://scryfall.com/card/ecl/50) | [[02 Cards/Creatures/Glamermite\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.04 |
 | [**`mtg:Mocking Sprite`**](https://scryfall.com/card/fdn/159) | [[02 Cards/Creatures/Mocking Sprite\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.14 |
 | [**`mtg:Scion of Oona`**](https://scryfall.com/card/woc/109) | [[02 Cards/Creatures/Scion of Oona\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 4.28 |

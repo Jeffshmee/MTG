@@ -2,7 +2,7 @@
 
 Rarity: mythic.
 
-**45** copies · **44** names.
+**48** copies · **47** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,6 +13,7 @@ Rarity: mythic.
 | [**`mtg:Bloom Tender`**](https://scryfall.com/card/ecl/166) | [[02 Cards/Creatures/Bloom Tender\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 9.57 |
 | [**`mtg:Finale of Revelation`**](https://scryfall.com/card/fdn/589) | [[02 Cards/Sorceries/Finale of Revelation\|PAGE]] | {X}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
 | [**`mtg:Ajani, Caller of the Pride`**](https://scryfall.com/card/m14/1) | [[02 Cards/Planeswalkers/Ajani, Caller of the Pride\|PAGE]] | {1}{W}{W} | [[03 Card Types/Planeswalker\|Planeswalker]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 2.64 |
+| [**`mtg:Delney, Streetwise Lookout`**](https://scryfall.com/card/mkm/12) | [[02 Cards/Creatures/Delney, Streetwise Lookout\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 25.94 |
 | [**`mtg:Elrond, Moon-Reader`**](https://scryfall.com/card/hob/36) | [[02 Cards/Creatures/Elrond, Moon-Reader\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.86 |
 | [**`mtg:Emeritus of Truce`**](https://scryfall.com/card/sos/13) | [[02 Cards/Creatures/Emeritus of Truce\|PAGE]] | {1}{W}{W} // {W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.29 |
 | [**`mtg:Gix, Yawgmoth Praetor`**](https://scryfall.com/card/tdc/181) | [[02 Cards/Creatures/Gix, Yawgmoth Praetor\|PAGE]] | {1}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Praetor\|Praetor]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.11 |
@@ -26,6 +27,8 @@ Rarity: mythic.
 | [**`mtg:Demonic Pact`**](https://scryfall.com/card/fdn/602) | [[02 Cards/Enchantments/Demonic Pact\|PAGE]] | {2}{B}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.42 |
 | [**`mtg:Emeritus of Woe`**](https://scryfall.com/card/sos/80) | [[02 Cards/Creatures/Emeritus of Woe\|PAGE]] | {3}{B} // {1}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 8.81 |
 | [**`mtg:Hero of Bladehold`**](https://scryfall.com/card/tdc/119) | [[02 Cards/Creatures/Hero of Bladehold\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.05 |
+| [**`mtg:Kaya, Spirits' Justice`**](https://scryfall.com/card/mkm/211) | [[02 Cards/Planeswalkers/Kaya, Spirits' Justice\|PAGE]] | {2}{W}{B} | [[03 Card Types/Planeswalker\|Planeswalker]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.33 |
+| [**`mtg:Massacre Girl, Known Killer`**](https://scryfall.com/card/mkm/344) | [[02 Cards/Creatures/Massacre Girl, Known Killer\|PAGE]] | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Assassin\|Assassin]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.06 |
 | [**`mtg:Thassa, Deep-Dwelling`**](https://scryfall.com/card/thb/261) | [[02 Cards/Creatures/Thassa, Deep-Dwelling\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/God\|God]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 20.25 |
 | [**`mtg:Vivien, Arkbow Ranger`**](https://scryfall.com/card/m20/199) | [[02 Cards/Planeswalkers/Vivien, Arkbow Ranger\|PAGE]] | {1}{G}{G}{G} | [[03 Card Types/Planeswalker\|Planeswalker]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.77 |
 | [**`mtg:Zimone, Paradox Sculptor`**](https://scryfall.com/card/fdn/351) | [[02 Cards/Creatures/Zimone, Paradox Sculptor\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 3.01 |

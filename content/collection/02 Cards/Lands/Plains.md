@@ -33,6 +33,7 @@
 | 30/08/2026 | Booster haul |
 | 02/09/2026 | Booster haul |
 | 04/09/2026 | MageCards · Axion_Now |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -41,7 +42,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>30</div>
+<div class="synergy-score-num"><span>Copies</span>31</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -60,6 +61,7 @@
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>267</td><td>—</td><td>1</td><td>Kykar</td><td>0.53</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>—</td><td>1</td><td>Kykar</td><td>0.18</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.20</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>278</td><td>—</td><td>1</td><td>Box</td><td>0.04</td></tr>
 </tbody>
 </table>
 </div>
@@ -112,6 +114,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>HOB 194 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/e/c/ec05cb6c-6e7f-4d40-ba38-a9fc06158094.jpg" alt="Plains MKM 278 · ×1">
+<figcaption>MKM 278 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg" alt="Plains SOS 267 · ×1">
 <figcaption>SOS 267 · ×1</figcaption>
 </figure>
@@ -127,7 +133,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
 
 ---
 
@@ -140,7 +146,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Plains"
 > scryfall_id: 4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3
-> quantity: 30
+> quantity: 31
 > tags:
 >   - card
 >   - collection

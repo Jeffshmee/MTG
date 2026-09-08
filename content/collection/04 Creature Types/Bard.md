@@ -2,7 +2,7 @@
 
 Creature type: Bard.
 
-**24** copies · **15** names.
+**25** copies · **15** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,7 +11,7 @@ Creature type: Bard.
 | [**`mtg:Melancholic Poet`**](https://scryfall.com/card/sos/90) | [[02 Cards/Creatures/Melancholic Poet\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.21 |
 | [**`mtg:Nori, Teller of Tales`**](https://scryfall.com/card/hob/161) | [[02 Cards/Creatures/Nori, Teller of Tales\|PAGE]] | {1}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.06 |
 | [**`mtg:Thunderdrum Soloist`**](https://scryfall.com/card/sos/134) | [[02 Cards/Creatures/Thunderdrum Soloist\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
-| [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.22 |
+| [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.35 |
 | [**`mtg:Blazing Firesinger`**](https://scryfall.com/card/sos/109) | [[02 Cards/Creatures/Blazing Firesinger\|PAGE]] | {2}{R} // {2}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |
 | [**`mtg:Bombur, Gentle Dreamer`**](https://scryfall.com/card/hob/88) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Rehearsed Debater`**](https://scryfall.com/card/sos/29) | [[02 Cards/Creatures/Rehearsed Debater\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.18 |

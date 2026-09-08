@@ -2,14 +2,14 @@
 
 Creature type: Bird.
 
-**32** copies · **21** names.
+**33** copies · **21** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Healer's Hawk`**](https://scryfall.com/card/fdn/142) | [[02 Cards/Creatures/Healer's Hawk\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
 | [**`mtg:Old Thrush`**](https://scryfall.com/card/hob/2) | [[02 Cards/Creatures/Old Thrush\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.08 |
 | [**`mtg:Strix Lookout`**](https://scryfall.com/card/fdn/52) | [[02 Cards/Creatures/Strix Lookout\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
-| [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.22 |
+| [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.35 |
 | [**`mtg:Dreadwing Scavenger`**](https://scryfall.com/card/fdn/118) | [[02 Cards/Creatures/Dreadwing Scavenger\|PAGE]] | {1}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Nightmare\|Nightmare]] [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.14 |
 | [**`mtg:Elemental Mascot`**](https://scryfall.com/card/sos/185) | [[02 Cards/Creatures/Elemental Mascot\|PAGE]] | {1}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.12 |
 | [**`mtg:Empyrean Eagle`**](https://scryfall.com/card/fdn/239) | [[02 Cards/Creatures/Empyrean Eagle\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |

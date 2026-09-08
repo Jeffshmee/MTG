@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**233** copies · **156** names.
+**250** copies · **164** names.
 
 ```decklist
 group: auto
@@ -28,6 +28,7 @@ legality: commander
 1 Champion of Dusan
 1 Champions of the Perfect
 1 Circle of Dreams Druid
+2 Culvert Ambusher
 1 Disruptive Stormbrood // Petty Revenge
 2 Dragon Sniper
 4 Druid of the Cowl
@@ -44,6 +45,7 @@ legality: commander
 1 Emil, Vastlands Roamer
 1 Environmental Scientist
 1 Fierce Empath
+1 Flourishing Bloom-Kin
 1 Fyndhorn Elves
 1 Fynn, the Fangbearer
 1 Gigantosaurus
@@ -56,7 +58,7 @@ legality: commander
 1 Highspire Artisan
 2 Hungry Graffalon
 4 Imperious Perfect
-1 Infirmary Healer // Stream of Life
+2 Infirmary Healer // Stream of Life
 1 Insidious Fungus
 1 Keen-Eyed Curator
 1 Kujar Seedsculptor
@@ -66,12 +68,14 @@ legality: commander
 1 Llanowar Envoy
 1 Llanowar Loamspeaker
 1 Llanowar Visionary
+1 Loxodon Eavesdropper
 2 Lys Alana Informant
 1 Marwyn, the Nurturer
 4 Mindful Biomancer
 1 Mold Adder
 1 Nasty Little Rabbit
-3 Noxious Newt
+2 Nervous Gardener
+4 Noxious Newt
 1 Old Fat Spider
 2 Ordinary Bear
 1 Pelakka Wurm
@@ -81,6 +85,7 @@ legality: commander
 1 Quakestrider Ceratops
 3 Reclamation Sage
 2 Rosethorn Acolyte // Seasonal Ritual
+1 Rubblebelt Maverick
 1 Sage of the Fang
 2 Sagu Pummeler
 1 Sagu Wildling // Roost Seek
@@ -108,7 +113,7 @@ legality: commander
 2 Wary Thespian
 1 Wildborn Preserver
 2 Wilderland Scrounger
-1 Wildgrowth Archaic
+2 Wildgrowth Archaic
 1 Wildvine Pummeler
 1 Wildwood Scourge
 1 Wood Elves
@@ -138,12 +143,13 @@ legality: commander
 2 Warg Tactics
 
 # Sorceries
+1 Analyze the Pollen
 2 Bushwhack
-1 Chelonian Tackle
+2 Chelonian Tackle
 1 Circuitous Route
 1 Earthbending Lesson
 1 Farseek
-3 Follow the Lumarets
+5 Follow the Lumarets
 1 Genesis Wave
 1 Germination Practicum
 1 Grow from the Ashes
@@ -155,7 +161,7 @@ legality: commander
 1 Primal Might
 1 Rhonas's Last Stand
 1 Roamer's Routine
-1 Shared Roots
+2 Shared Roots
 2 Snarl Song
 1 True Ancestry
 3 Wild Hypothesis
@@ -164,6 +170,7 @@ legality: commander
 # Enchantments
 1 Additive Evolution
 1 Aid from the Cowl
+1 Airtight Alibi
 1 Garruk's Uprising
 1 Morcant's Eyes
 1 Ordeal of Nylea
@@ -174,6 +181,7 @@ legality: commander
 
 # Artifacts
 1 Dragonbroods' Relic
+1 Rope
 1 Veloheart Bike
 
 ```

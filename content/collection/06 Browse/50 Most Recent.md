@@ -2,57 +2,57 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**245** copies · **50** names.
+**177** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
-| 07/09/2026 | [**`mtg:Adelbert Steiner`**](https://scryfall.com/card/fin/3) | [[02 Cards/Creatures/Adelbert Steiner\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Angel of Finality`**](https://scryfall.com/card/fdn/136) | [[02 Cards/Creatures/Angel of Finality\|PAGE]] | 2 |
-| 07/09/2026 | [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Balin, Loremaster`**](https://scryfall.com/card/hob/87) | [[02 Cards/Creatures/Balin, Loremaster\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Counterspell`**](https://scryfall.com/card/cmm/81) | [[02 Cards/Instants/Counterspell\|PAGE]] | 2 |
-| 07/09/2026 | [**`mtg:Dwarven Mattock`**](https://scryfall.com/card/hob/172) | [[02 Cards/Artifacts/Dwarven Mattock\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Ephemerate`**](https://scryfall.com/card/mar/44) | [[02 Cards/Instants/Ephemerate\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Excalibur II`**](https://scryfall.com/card/fin/257) | [[02 Cards/Artifacts/Excalibur II\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Fountainport Bell`**](https://scryfall.com/card/blb/245) | [[02 Cards/Artifacts/Fountainport Bell\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Frozen in Ice`**](https://scryfall.com/card/msh/54) | [[02 Cards/Enchantments/Frozen in Ice\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Get a Leg Up`**](https://scryfall.com/card/mkm/161) | [[02 Cards/Instants/Get a Leg Up\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Iron Hills`**](https://scryfall.com/card/hob/185) | [[02 Cards/Lands/Iron Hills\|PAGE]] | 2 |
-| 07/09/2026 | [**`mtg:Iron Hills Stalwart`**](https://scryfall.com/card/hob/102) | [[02 Cards/Creatures/Iron Hills Stalwart\|PAGE]] | 3 |
-| 07/09/2026 | [**`mtg:Lightning Strike`**](https://scryfall.com/card/dft/136) | [[02 Cards/Instants/Lightning Strike\|PAGE]] | 2 |
-| 07/09/2026 | [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | 29 |
-| 07/09/2026 | [**`mtg:Peregrine Drake`**](https://scryfall.com/card/dmr/65) | [[02 Cards/Creatures/Peregrine Drake\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Sanguine Syphoner`**](https://scryfall.com/card/fdn/68) | [[02 Cards/Creatures/Sanguine Syphoner\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | 5 |
-| 07/09/2026 | [**`mtg:Soulherder`**](https://scryfall.com/card/mh1/214) | [[02 Cards/Creatures/Soulherder\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | 5 |
-| 07/09/2026 | [**`mtg:Spider Manifestation`**](https://scryfall.com/card/spm/148) | [[02 Cards/Creatures/Spider Manifestation\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:The Lonely Mountain`**](https://scryfall.com/card/hob/187) | [[02 Cards/Lands/The Lonely Mountain\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Thranduil's Company`**](https://scryfall.com/card/hob/168) | [[02 Cards/Creatures/Thranduil's Company\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:Virtue of Knowledge`**](https://scryfall.com/card/woe/279) | [[02 Cards/Enchantments/Virtue of Knowledge\|PAGE]] | 1 |
-| 07/09/2026 | [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | 1 |
-| 05/09/2026 | [**`mtg:Boomerang Basics`**](https://scryfall.com/card/tla/46) | [[02 Cards/Sorceries/Boomerang Basics\|PAGE]] | 1 |
-| 05/09/2026 | [**`mtg:Deputy of Detention`**](https://scryfall.com/card/rna/165) | [[02 Cards/Creatures/Deputy of Detention\|PAGE]] | 1 |
-| 05/09/2026 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | 40 |
-| 05/09/2026 | [**`mtg:Ghostly Flicker`**](https://scryfall.com/card/plst/KHC-39) | [[02 Cards/Instants/Ghostly Flicker\|PAGE]] | 1 |
-| 05/09/2026 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | 39 |
-| 05/09/2026 | [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | 39 |
-| 04/09/2026 | [**`mtg:Aetherize`**](https://scryfall.com/card/znc/23) | [[02 Cards/Instants/Aetherize\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Airbender Ascension`**](https://scryfall.com/card/tla/6) | [[02 Cards/Enchantments/Airbender Ascension\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Ajani, Caller of the Pride`**](https://scryfall.com/card/m14/1) | [[02 Cards/Planeswalkers/Ajani, Caller of the Pride\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Azorius Signet`**](https://scryfall.com/card/tdc/312) | [[02 Cards/Artifacts/Azorius Signet\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Bloom Tender`**](https://scryfall.com/card/ecl/166) | [[02 Cards/Creatures/Bloom Tender\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/206) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | 2 |
-| 04/09/2026 | [**`mtg:Deadeye Navigator`**](https://scryfall.com/card/sld/902) | [[02 Cards/Creatures/Deadeye Navigator\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Dwynen, Gilt-Leaf Daen`**](https://scryfall.com/card/fdn/217) | [[02 Cards/Creatures/Dwynen, Gilt-Leaf Daen\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Eclipsed Boggart`**](https://scryfall.com/card/ecl/335) | [[02 Cards/Creatures/Eclipsed Boggart\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Elf`**](https://scryfall.com/card/thob/8) | [[02 Cards/Tokens/Elf\|PAGE]] | 7 |
-| 04/09/2026 | [**`mtg:Elf Warrior`**](https://scryfall.com/card/tfdn/19) | [[02 Cards/Tokens/Elf Warrior\|PAGE]] | 4 |
-| 04/09/2026 | [**`mtg:Essence Drain`**](https://scryfall.com/card/m13/93) | [[02 Cards/Sorceries/Essence Drain\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Faerie`**](https://scryfall.com/card/tecl/5) | [[02 Cards/Tokens/Faerie\|PAGE]] | 5 |
-| 04/09/2026 | [**`mtg:Fish`**](https://scryfall.com/card/tfdn/10) | [[02 Cards/Tokens/Fish\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Floodfarm Verge`**](https://scryfall.com/card/dsk/259) | [[02 Cards/Lands/Floodfarm Verge\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Frenzied Goblin`**](https://scryfall.com/card/fdn/199) | [[02 Cards/Creatures/Frenzied Goblin\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Goblin`**](https://scryfall.com/card/ttdm/12) | [[02 Cards/Tokens/Goblin\|PAGE]] | 25 |
-| 04/09/2026 | [**`mtg:Hallowed Fountain`**](https://scryfall.com/card/ecl/265) | [[02 Cards/Lands/Hallowed Fountain\|PAGE]] | 1 |
-| 04/09/2026 | [**`mtg:Loran of the Third Path`**](https://scryfall.com/card/blc/143) | [[02 Cards/Creatures/Loran of the Third Path\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | 3 |
+| 08/09/2026 | [**`mtg:Agency Coroner`**](https://scryfall.com/card/mkm/75) | [[02 Cards/Creatures/Agency Coroner\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Airtight Alibi`**](https://scryfall.com/card/mkm/149) | [[02 Cards/Enchantments/Airtight Alibi\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Alley Assailant`**](https://scryfall.com/card/mkm/76) | [[02 Cards/Creatures/Alley Assailant\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Analyze the Pollen`**](https://scryfall.com/card/mkm/150) | [[02 Cards/Sorceries/Analyze the Pollen\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Auspicious Arrival`**](https://scryfall.com/card/mkm/5) | [[02 Cards/Instants/Auspicious Arrival\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Bat`**](https://scryfall.com/card/tmkm/4) | [[02 Cards/Tokens/Bat\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Behind the Mask`**](https://scryfall.com/card/mkm/39) | [[02 Cards/Instants/Behind the Mask\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Benthic Criminologists`**](https://scryfall.com/card/mkm/40) | [[02 Cards/Creatures/Benthic Criminologists\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Bolrac-Clan Basher`**](https://scryfall.com/card/mkm/112) | [[02 Cards/Creatures/Bolrac-Clan Basher\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Case of the Pilfered Proof`**](https://scryfall.com/card/mkm/9) | [[02 Cards/Enchantments/Case of the Pilfered Proof\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Case of the Shattered Pact`**](https://scryfall.com/card/mkm/1) | [[02 Cards/Enchantments/Case of the Shattered Pact\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Chelonian Tackle`**](https://scryfall.com/card/sos/142) | [[02 Cards/Sorceries/Chelonian Tackle\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Culvert Ambusher`**](https://scryfall.com/card/mkm/158) | [[02 Cards/Creatures/Culvert Ambusher\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Deduce`**](https://scryfall.com/card/soa/16) | [[02 Cards/Instants/Deduce\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Delney, Streetwise Lookout`**](https://scryfall.com/card/mkm/12) | [[02 Cards/Creatures/Delney, Streetwise Lookout\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Demand Answers`**](https://scryfall.com/card/mkm/122) | [[02 Cards/Instants/Demand Answers\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Dramatic Accusation`**](https://scryfall.com/card/mkm/53) | [[02 Cards/Enchantments/Dramatic Accusation\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Elite Interceptor`**](https://scryfall.com/card/sos/12) | [[02 Cards/Creatures/Elite Interceptor\|PAGE]] | 4 |
+| 08/09/2026 | [**`mtg:Faerie Snoop`**](https://scryfall.com/card/mkm/203) | [[02 Cards/Creatures/Faerie Snoop\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Flourishing Bloom-Kin`**](https://scryfall.com/card/mkm/160) | [[02 Cards/Creatures/Flourishing Bloom-Kin\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Follow the Lumarets`**](https://scryfall.com/card/sos/148) | [[02 Cards/Sorceries/Follow the Lumarets\|PAGE]] | 5 |
+| 08/09/2026 | [**`mtg:Forensic Gadgeteer`**](https://scryfall.com/card/mkm/342) | [[02 Cards/Creatures/Forensic Gadgeteer\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | 41 |
+| 08/09/2026 | [**`mtg:Forum Necroscribe`**](https://scryfall.com/card/sos/84) | [[02 Cards/Creatures/Forum Necroscribe\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Forum of Amity`**](https://scryfall.com/card/sos/256) | [[02 Cards/Lands/Forum of Amity\|PAGE]] | 3 |
+| 08/09/2026 | [**`mtg:Fractal`**](https://scryfall.com/card/tsos/5) | [[02 Cards/Tokens/Fractal\|PAGE]] | 11 |
+| 08/09/2026 | [**`mtg:Fractal Anomaly`**](https://scryfall.com/card/sos/50) | [[02 Cards/Instants/Fractal Anomaly\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Fractal Tender`**](https://scryfall.com/card/sos/190) | [[02 Cards/Creatures/Fractal Tender\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Gadget Technician`**](https://scryfall.com/card/mkm/204) | [[02 Cards/Creatures/Gadget Technician\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Gearbane Orangutan`**](https://scryfall.com/card/mkm/129) | [[02 Cards/Creatures/Gearbane Orangutan\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Goblin Glasswright`**](https://scryfall.com/card/sos/117) | [[02 Cards/Creatures/Goblin Glasswright\|PAGE]] | 4 |
+| 08/09/2026 | [**`mtg:Goblin Maskmaker`**](https://scryfall.com/card/mkm/130) | [[02 Cards/Creatures/Goblin Maskmaker\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Granite Witness`**](https://scryfall.com/card/mkm/206) | [[02 Cards/Creatures/Granite Witness\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Gravestone Strider`**](https://scryfall.com/card/mkm/252) | [[02 Cards/Creatures/Gravestone Strider\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Griffnaut Tracker`**](https://scryfall.com/card/mkm/17) | [[02 Cards/Creatures/Griffnaut Tracker\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Hedge Maze`**](https://scryfall.com/card/mkm/262) | [[02 Cards/Lands/Hedge Maze\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Hop to It`**](https://scryfall.com/card/soa/6) | [[02 Cards/Sorceries/Hop to It\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Hotshot Investigators`**](https://scryfall.com/card/mkm/60) | [[02 Cards/Creatures/Hotshot Investigators\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Hustle`**](https://scryfall.com/card/mkm/249) | [[02 Cards/Instants/Hustle\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Infirmary Healer`**](https://scryfall.com/card/sos/152) | [[02 Cards/Creatures/Infirmary Healer\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Inkling`**](https://scryfall.com/card/tsos/7) | [[02 Cards/Tokens/Inkling\|PAGE]] | 9 |
+| 08/09/2026 | [**`mtg:Insidious Roots`**](https://scryfall.com/card/mkm/208) | [[02 Cards/Enchantments/Insidious Roots\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | 41 |
+| 08/09/2026 | [**`mtg:It Doesn't Add Up`**](https://scryfall.com/card/mkm/89) | [[02 Cards/Instants/It Doesn't Add Up\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Jaded Analyst`**](https://scryfall.com/card/mkm/62) | [[02 Cards/Creatures/Jaded Analyst\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Karlov Watchdog`**](https://scryfall.com/card/mkm/20) | [[02 Cards/Creatures/Karlov Watchdog\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Kaya, Spirits' Justice`**](https://scryfall.com/card/mkm/211) | [[02 Cards/Planeswalkers/Kaya, Spirits' Justice\|PAGE]] | 1 |
+| 08/09/2026 | [**`mtg:Kirol, History Buff`**](https://scryfall.com/card/sos/198) | [[02 Cards/Creatures/Kirol, History Buff\|PAGE]] | 2 |
+| 08/09/2026 | [**`mtg:Knife`**](https://scryfall.com/card/mkm/134) | [[02 Cards/Artifacts/Knife\|PAGE]] | 1 |

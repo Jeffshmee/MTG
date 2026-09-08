@@ -35,6 +35,7 @@
 | 04/09/2026 | MageCards · MTG_Factory |
 | 04/09/2026 | MageCards · Axion_Now |
 | 05/09/2026 | MageCards · MtgGambit |
+| 08/09/2026 | Booster haul |
 
 </div>
 
@@ -43,7 +44,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>40</div>
+<div class="synergy-score-num"><span>Copies</span>41</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -70,6 +71,7 @@
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>2</td><td>Maralen</td><td>0.18</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>285</td><td>foil</td><td>1</td><td>Maralen</td><td>0.13</td></tr>
 <tr><td>War of the Spark (<code>WAR</code>)</td><td>262</td><td>foil</td><td>1</td><td>Box</td><td>0.18</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.05</td></tr>
 </tbody>
 </table>
 </div>
@@ -133,6 +135,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>ECL 273 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/c/c/cc485069-e081-4e83-bbad-d5faf7a5bd03.jpg" alt="Forest MKM 285 · ×1">
+<figcaption>MKM 285 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/3/a305e44f-4253-4754-b83f-1e34103d77b0.jpg" alt="Forest TLA 286 · ×1">
 <figcaption>TLA 286 · ×1</figcaption>
 </figure>
@@ -148,7 +154,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/WAR|War of the Spark]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/WAR|War of the Spark]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
 
 ---
 
@@ -161,7 +167,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Forest"
 > scryfall_id: d232fcc2-12f6-401a-b1aa-ddff11cb9378
-> quantity: 40
+> quantity: 41
 > tags:
 >   - card
 >   - collection

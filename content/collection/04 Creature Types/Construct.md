@@ -2,12 +2,13 @@
 
 Creature type: Construct.
 
-**13** copies · **8** names.
+**14** copies · **9** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Mage Tower Referee`**](https://scryfall.com/card/sos/249) | [[02 Cards/Creatures/Mage Tower Referee\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Page, Loose Leaf`**](https://scryfall.com/card/sos/250) | [[02 Cards/Creatures/Page, Loose Leaf\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.21 |
+| [**`mtg:Sanitation Automaton`**](https://scryfall.com/card/mkm/256) | [[02 Cards/Creatures/Sanitation Automaton\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Adaptive Automaton`**](https://scryfall.com/card/2xm/231) | [[02 Cards/Creatures/Adaptive Automaton\|PAGE]] | {3} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.27 |
 | [**`mtg:Camera Launcher`**](https://scryfall.com/card/dft/232) | [[02 Cards/Creatures/Camera Launcher\|PAGE]] | {3} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Biblioplex Tomekeeper`**](https://scryfall.com/card/sos/247) | [[02 Cards/Creatures/Biblioplex Tomekeeper\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.04 |

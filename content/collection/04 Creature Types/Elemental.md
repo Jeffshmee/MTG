@@ -2,13 +2,14 @@
 
 Creature type: Elemental.
 
-**18** copies · **15** names.
+**19** copies · **16** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Fleeting Effigy`**](https://scryfall.com/card/tdm/108) | [[02 Cards/Creatures/Fleeting Effigy\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.06 |
 | [**`mtg:Soulbright Seeker`**](https://scryfall.com/card/ecl/157) | [[02 Cards/Creatures/Soulbright Seeker\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.04 |
 | [**`mtg:Flame-Chain Mauler`**](https://scryfall.com/card/ecl/138) | [[02 Cards/Creatures/Flame-Chain Mauler\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.08 |
+| [**`mtg:Flourishing Bloom-Kin`**](https://scryfall.com/card/mkm/160) | [[02 Cards/Creatures/Flourishing Bloom-Kin\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Plant\|Plant]] [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Ball Lightning`**](https://scryfall.com/card/fdn/618) | [[02 Cards/Creatures/Ball Lightning\|PAGE]] | {R}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.27 |
 | [**`mtg:Cloudkin Seer`**](https://scryfall.com/card/clu/82) | [[02 Cards/Creatures/Cloudkin Seer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |
 | [**`mtg:Elemental Mascot`**](https://scryfall.com/card/sos/185) | [[02 Cards/Creatures/Elemental Mascot\|PAGE]] | {1}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.12 |

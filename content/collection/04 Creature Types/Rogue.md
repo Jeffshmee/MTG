@@ -2,7 +2,7 @@
 
 Creature type: Rogue.
 
-**29** copies · **22** names.
+**32** copies · **24** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -15,6 +15,7 @@ Creature type: Rogue.
 | [**`mtg:Grenzo, Havoc Raiser`**](https://scryfall.com/card/tdc/216) | [[02 Cards/Creatures/Grenzo, Havoc Raiser\|PAGE]] | {R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.48 |
 | [**`mtg:Shoreline Looter`**](https://scryfall.com/card/blb/70) | [[02 Cards/Creatures/Shoreline Looter\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rat\|Rat]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.26 |
 | [**`mtg:Sygg, Wanderwine Wisdom`**](https://scryfall.com/card/ecl/76) | [[02 Cards/Creatures/Sygg, Wanderwine Wisdom\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
+| [**`mtg:Alley Assailant`**](https://scryfall.com/card/mkm/76) | [[02 Cards/Creatures/Alley Assailant\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.14 |
 | [**`mtg:Bilbo Baggins, Burglar`**](https://scryfall.com/card/hob/34) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | {2}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
 | [**`mtg:Draugr Thought-Thief`**](https://scryfall.com/card/khm/55) | [[02 Cards/Creatures/Draugr Thought-Thief\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Gateway Sneak`**](https://scryfall.com/card/fdn/592) | [[02 Cards/Creatures/Gateway Sneak\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.19 |
@@ -28,3 +29,4 @@ Creature type: Rogue.
 | [**`mtg:Cackling Prowler`**](https://scryfall.com/card/fdn/101) | [[02 Cards/Creatures/Cackling Prowler\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Hyena\|Hyena]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
 | [**`mtg:Dream Seizer`**](https://scryfall.com/card/ecl/101) | [[02 Cards/Creatures/Dream Seizer\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Gundabad Opportunist`**](https://scryfall.com/card/hob/101) | [[02 Cards/Creatures/Gundabad Opportunist\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |
+| [**`mtg:Rakish Scoundrel`**](https://scryfall.com/card/mkm/225) | [[02 Cards/Creatures/Rakish Scoundrel\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
