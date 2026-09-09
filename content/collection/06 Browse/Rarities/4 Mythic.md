@@ -2,7 +2,7 @@
 
 Rarity: mythic.
 
-**48** copies · **47** names.
+**49** copies · **47** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -44,9 +44,9 @@ Rarity: mythic.
 | [**`mtg:Aurelia, the Warleader`**](https://scryfall.com/card/fdn/651) | [[02 Cards/Creatures/Aurelia, the Warleader\|PAGE]] | {2}{R}{R}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 4.43 |
 | [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | {4}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 2.50 |
 | [**`mtg:Echocasting Symposium`**](https://scryfall.com/card/sos/44) | [[02 Cards/Sorceries/Echocasting Symposium\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 1.94 |
-| [**`mtg:Massacre Wurm`**](https://scryfall.com/card/fdn/754) | [[02 Cards/Creatures/Massacre Wurm\|PAGE]] | {3}{B}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Wurm\|Wurm]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.00 |
+| [**`mtg:Massacre Wurm`**](https://scryfall.com/card/fdn/714) | [[02 Cards/Creatures/Massacre Wurm\|PAGE]] | {3}{B}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Wurm\|Wurm]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.00 |
 | [**`mtg:Ramos, Dragon Engine`**](https://scryfall.com/card/fdn/678) | [[02 Cards/Creatures/Ramos, Dragon Engine\|PAGE]] | {6} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.62 |
-| [**`mtg:Sun Titan`**](https://scryfall.com/card/soc/178) | [[02 Cards/Creatures/Sun Titan\|PAGE]] | {4}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Giant\|Giant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.25 |
+| [**`mtg:Sun Titan`**](https://scryfall.com/card/ddl/1) | [[02 Cards/Creatures/Sun Titan\|PAGE]] | {4}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Giant\|Giant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 1.35 |
 | [**`mtg:Improvisation Capstone`**](https://scryfall.com/card/sos/120) | [[02 Cards/Sorceries/Improvisation Capstone\|PAGE]] | {5}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 9.96 |
 | [**`mtg:Sphinx of the Final Word`**](https://scryfall.com/card/fdn/597) | [[02 Cards/Creatures/Sphinx of the Final Word\|PAGE]] | {5}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Sphinx\|Sphinx]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.21 |
 | [**`mtg:Turtles in Time`**](https://scryfall.com/card/tmt/55) | [[02 Cards/Sorceries/Turtles in Time\|PAGE]] | {5}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.41 |

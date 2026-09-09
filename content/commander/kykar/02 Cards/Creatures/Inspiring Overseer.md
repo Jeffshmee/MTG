@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Inspiring Overseer`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{W}  
 > **Type:** Creature — Angel Cleric  
 > **P/T:** 2/1  
@@ -90,7 +90,7 @@ Inspiring Overseer is an ETB draw body at {2}{W}. Blink it with [[02 Cards/Creat
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Flying"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 78
 >   deck_specific: 88
@@ -98,7 +98,7 @@ Inspiring Overseer is an ETB draw body at {2}{W}. Blink it with [[02 Cards/Creat
 > scryfall_id: c3e9aa54-e5d5-4cbb-9d2a-263b9eba398f
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

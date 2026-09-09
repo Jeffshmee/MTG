@@ -2,7 +2,7 @@
 
 Card type: Artifact.
 
-**131** copies · **103** names.
+**136** copies · **103** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -23,7 +23,7 @@ Card type: Artifact.
 | [**`mtg:Soul-Guide Lantern`**](https://scryfall.com/card/eoc/143) | [[02 Cards/Artifacts/Soul-Guide Lantern\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
 | [**`mtg:Wayfarer's Bauble`**](https://scryfall.com/card/tdc/335) | [[02 Cards/Artifacts/Wayfarer's Bauble\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.22 |
 | [**`mtg:Abzan Monument`**](https://scryfall.com/card/tdm/238) | [[02 Cards/Artifacts/Abzan Monument\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
-| [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 1.03 |
+| [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 6 | 3.89 |
 | [**`mtg:Azorius Signet`**](https://scryfall.com/card/tdc/312) | [[02 Cards/Artifacts/Azorius Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
 | [**`mtg:Bark of Doran`**](https://scryfall.com/card/ecl/6) | [[02 Cards/Artifacts/Bark of Doran\|PAGE]] | {1}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Baseball Bat`**](https://scryfall.com/card/dsk/209) | [[02 Cards/Artifacts/Baseball Bat\|PAGE]] | {G}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
@@ -43,7 +43,7 @@ Card type: Artifact.
 | [**`mtg:Idol of Oblivion`**](https://scryfall.com/card/tdc/319) | [[02 Cards/Artifacts/Idol of Oblivion\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.29 |
 | [**`mtg:Jeskai Monument`**](https://scryfall.com/card/tdm/244) | [[02 Cards/Artifacts/Jeskai Monument\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.14 |
 | [**`mtg:Kyoshi Battle Fan`**](https://scryfall.com/card/tla/257) | [[02 Cards/Artifacts/Kyoshi Battle Fan\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
-| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 7.53 |
+| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 12.47 |
 | [**`mtg:Mage Tower Referee`**](https://scryfall.com/card/sos/249) | [[02 Cards/Creatures/Mage Tower Referee\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Mardu Monument`**](https://scryfall.com/card/tdm/245) | [[02 Cards/Artifacts/Mardu Monument\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Mazemind Tome`**](https://scryfall.com/card/fdn/676) | [[02 Cards/Artifacts/Mazemind Tome\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |

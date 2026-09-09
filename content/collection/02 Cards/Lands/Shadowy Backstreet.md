@@ -20,7 +20,7 @@
 | **Land type** | [[06 Browse/Land Types/Duals\|Duals]] · [[06 Browse/Land Types/Plains\|Plains]] · [[06 Browse/Land Types/Swamp\|Swamp]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -44,11 +44,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>330</td><td>—</td><td>1</td><td>Box</td><td>13.25</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>330</td><td>—</td><td>1</td><td>Ayli</td><td>13.25</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -63,7 +67,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
 
 ---
 

@@ -37,19 +37,19 @@ legality: commander
 1 Meteor Golem
 1 Turtles in Time
 1 Wanderwine Farewell
+1 Solemn Simulacrum
+1 Inspiring Overseer
+1 Wayfarer's Bauble
+1 Evolving Wilds
+1 Terramorphic Expanse
 
 # Wishlist
-1 Adarkar Wastes
 1 Azorius Chancery
 1 Deserted Beach
 1 Eiganjo, Seat of the Empire
-1 Glacial Fortress
 1 Hengegate Pathway
 1 Irrigated Farmland
 1 Meticulous Archive
-1 Otawara, Soaring City
-1 Port Town
-1 Prairie Stream
 1 Reliquary Tower
 1 Riptide Laboratory
 1 Sea of Clouds
@@ -61,7 +61,6 @@ legality: commander
 1 Essence Flux
 1 Path to Exile
 1 Preordain
-1 Arcane Signet
 1 Dour Port-Mage
 1 Dovin's Veto
 1 Get Lost
@@ -87,7 +86,6 @@ legality: commander
 1 Sink into Stupor
 1 Skyclave Apparition
 1 Spellseeker
-1 Displacer Kitten
 1 Restoration Angel
 1 Stonehorn Dignitary
 1 Supreme Verdict
@@ -95,7 +93,6 @@ legality: commander
 1 Witch Enchanter
 1 Conjurer's Closet
 1 Evacuation
-1 Mulldrifter
 1 Time Wipe
 1 Farewell
 ```
@@ -103,7 +100,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/sideboard.md`*
-*Last synced: 2026-09-07 (sleeved cuts)*
+*Last synced: 2026-09-09 (sleeved cuts)*
 
 ---
 
@@ -266,15 +263,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Displacer Kitten`**
-> **96** / 100 · 🟡 Ordered
+> **96** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:96%"></div></div>
 >
 > [[02 Cards/Creatures/Displacer Kitten|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> > - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:78%"></div></div>
 
 > [!info] **`mtg:Felidar Savior`**
 > **76** / 100 · 🟢 Owned
@@ -329,15 +326,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Mulldrifter`**
-> **88** / 100 · 🟡 Ordered
+> **88** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
 > [[02 Cards/Creatures/Mulldrifter|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> > - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:78%"></div></div>
 
 > [!info] **`mtg:Bard, King of Dale`**
 > **80** / 100 · 🟢 Owned
@@ -743,14 +740,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 
 ### Artifacts
 > [!info] **`mtg:Arcane Signet`**
-> **86** / 100 · 🟡 Ordered
+> **86** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
 > [[02 Cards/Artifacts/Arcane Signet|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
 > > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
+> > - [[02 Cards/Artifacts/Swiftfoot Boots|Swiftfoot Boots]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
+> > - [[02 Cards/Artifacts/Azorius Signet|Azorius Signet]] **85** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:85%"></div></div>
 
 > [!info] **`mtg:Mind Stone`**
 > **81** / 100 · ⚪ Wishlist
@@ -792,15 +790,12 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
 
 > [!info] **`mtg:Adarkar Wastes`**
-> **85** / 100 · ⚪ Wishlist
+> **85** / 100 · ⚪ Will not buy
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Lands/Adarkar Wastes|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Will not buy. Not an incoming dual. Land count is a playtest watch, not this card arriving.*
 
 > [!info] **`mtg:Azorius Chancery`**
 > **75** / 100 · ⚪ Wishlist
@@ -844,7 +839,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Glacial Fortress`**
-> **84** / 100 · 🟡 Ordered
+> **84** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
 > [[02 Cards/Lands/Glacial Fortress|Open local page →]]
@@ -896,18 +891,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Otawara, Soaring City`**
-> **89** / 100 · ⚪ Wishlist
+> **89** / 100 · ⚪ Will not buy
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Lands/Otawara, Soaring City|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Will not buy. Not an incoming dual. Land count is a playtest watch, not this card arriving.*
 
 > [!info] **`mtg:Port Town`**
-> **82** / 100 · 🟡 Ordered
+> **82** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
 > [[02 Cards/Lands/Port Town|Open local page →]]
@@ -918,7 +910,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
 
 > [!info] **`mtg:Prairie Stream`**
-> **84** / 100 · 🟡 Ordered
+> **84** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
 > [[02 Cards/Lands/Prairie Stream|Open local page →]]

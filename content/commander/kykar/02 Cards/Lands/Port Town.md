@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Port Town`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Port Town](https://cards.scryfall.io/border_crop/front/3/f/3f962cab-c058-41f5-b7e1-5b063f374eb0.jpg)
+> ![Port Town](https://cards.scryfall.io/border_crop/front/d/f/df58d745-2f08-447f-a7db-41765731e36c.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ As this land enters, you may reveal a Plains or Island card from your hand. If y
 
 ## Deck Role & Rating
 
-Port Town is a mana source for this Azorius pile. Reveal dual. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. It is not in the owned 65 yet.
+Port Town is a mana source for this Azorius pile. Reveal dual. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -67,7 +67,7 @@ Port Town is a mana source for this Azorius pile. Reveal dual. The live base is 
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 - Tapped. Do not keep a two-lander that needs this untapped for Kykar.
 
 ## Related Pages
@@ -91,15 +91,15 @@ Port Town is a mana source for this Azorius pile. Reveal dual. The live base is 
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 82
 >   deck_specific: 82
 >   combined: 82
-> scryfall_id: 3f962cab-c058-41f5-b7e1-5b063f374eb0
+> scryfall_id: df58d745-2f08-447f-a7db-41765731e36c
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

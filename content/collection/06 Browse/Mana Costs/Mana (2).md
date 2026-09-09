@@ -2,7 +2,7 @@
 
 Cards whose mana value is 2.
 
-**456** copies · **318** names.
+**461** copies · **318** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -17,7 +17,7 @@ Cards whose mana value is 2.
 | [**`mtg:Ajani's Sunstriker`**](https://scryfall.com/card/cns/66) | [[02 Cards/Creatures/Ajani's Sunstriker\|PAGE]] | {W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Alesha's Legacy`**](https://scryfall.com/card/tdm/72) | [[02 Cards/Instants/Alesha's Legacy\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Anthem of Champions`**](https://scryfall.com/card/fdn/116) | [[02 Cards/Enchantments/Anthem of Champions\|PAGE]] | {G}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
-| [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 1.03 |
+| [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 6 | 3.89 |
 | [**`mtg:Assassin's Trophy`**](https://scryfall.com/card/acr/95) | [[02 Cards/Instants/Assassin's Trophy\|PAGE]] | {B}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.01 |
 | [**`mtg:Auntie's Sentence`**](https://scryfall.com/card/ecl/85) | [[02 Cards/Sorceries/Auntie's Sentence\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Auspicious Arrival`**](https://scryfall.com/card/mkm/5) | [[02 Cards/Instants/Auspicious Arrival\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
@@ -173,7 +173,7 @@ Cards whose mana value is 2.
 | [**`mtg:Leech Collector`**](https://scryfall.com/card/sos/88) | [[02 Cards/Creatures/Leech Collector\|PAGE]] | {1}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Leering Onlooker`**](https://scryfall.com/card/mkm/91) | [[02 Cards/Creatures/Leering Onlooker\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Lightfoot Technique`**](https://scryfall.com/card/tdm/14) | [[02 Cards/Instants/Lightfoot Technique\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.10 |
-| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 7.53 |
+| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 12.47 |
 | [**`mtg:Lightning Strike`**](https://scryfall.com/card/dft/136) | [[02 Cards/Instants/Lightning Strike\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.11 |
 | [**`mtg:Llanowar Loamspeaker`**](https://scryfall.com/card/blc/228) | [[02 Cards/Creatures/Llanowar Loamspeaker\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Lluwen, Imperfect Naturalist`**](https://scryfall.com/card/ecl/232) | [[02 Cards/Creatures/Lluwen, Imperfect Naturalist\|PAGE]] | {B/G}{B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.21 |

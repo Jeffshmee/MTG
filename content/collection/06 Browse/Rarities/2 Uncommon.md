@@ -2,7 +2,7 @@
 
 Rarity: uncommon.
 
-**538** copies · **414** names.
+**539** copies · **414** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -130,7 +130,7 @@ Rarity: uncommon.
 | [**`mtg:Knight of Malice`**](https://scryfall.com/card/fdn/608) | [[02 Cards/Creatures/Knight of Malice\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Leech Collector`**](https://scryfall.com/card/sos/88) | [[02 Cards/Creatures/Leech Collector\|PAGE]] | {1}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Leering Onlooker`**](https://scryfall.com/card/mkm/91) | [[02 Cards/Creatures/Leering Onlooker\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
-| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 7.53 |
+| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 12.47 |
 | [**`mtg:Lorehold Charm`**](https://scryfall.com/card/sos/200) | [[02 Cards/Instants/Lorehold Charm\|PAGE]] | {R}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
 | [**`mtg:Loyal Apprentice`**](https://scryfall.com/card/tdc/222) | [[02 Cards/Creatures/Loyal Apprentice\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
 | [**`mtg:Lumaret's Favor`**](https://scryfall.com/card/sos/153) | [[02 Cards/Instants/Lumaret's Favor\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.10 |
@@ -190,7 +190,7 @@ Rarity: uncommon.
 | [**`mtg:Woodland Weavemaster`**](https://scryfall.com/card/hob/143) | [[02 Cards/Creatures/Woodland Weavemaster\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.04 |
 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.35 |
 | [**`mtg:Abstract Paintmage`**](https://scryfall.com/card/sos/171) | [[02 Cards/Creatures/Abstract Paintmage\|PAGE]] | {U}{U/R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
-| [**`mtg:Angel of Vitality`**](https://scryfall.com/card/clu/53) | [[02 Cards/Creatures/Angel of Vitality\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
+| [**`mtg:Angel of Vitality`**](https://scryfall.com/card/fdn/706) | [[02 Cards/Creatures/Angel of Vitality\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Arnyn, Deathbloom Botanist`**](https://scryfall.com/card/sos/74) | [[02 Cards/Creatures/Arnyn, Deathbloom Botanist\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.19 |
 | [**`mtg:Aron, Benalia's Ruin`**](https://scryfall.com/card/dmu/292) | [[02 Cards/Creatures/Aron, Benalia's Ruin\|PAGE]] | {W}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Human\|Human]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Ashe, Princess of Dalmasca`**](https://scryfall.com/card/fin/7) | [[02 Cards/Creatures/Ashe, Princess of Dalmasca\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rebel\|Rebel]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |

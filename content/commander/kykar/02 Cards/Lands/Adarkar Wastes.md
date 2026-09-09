@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-Adarkar Wastes is a mana source for this Azorius pile. Pain land. Untapped. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. It is not in the owned 65 yet.
+Will not buy. Scored only. Not an incoming dual and not a land-count fix.
 
 ## Play Patterns & Lines
 

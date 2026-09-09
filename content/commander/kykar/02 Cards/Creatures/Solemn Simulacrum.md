@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Solemn Simulacrum`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {4}  
 > **Type:** Artifact Creature — Golem  
 > **P/T:** 2/2  
@@ -89,7 +89,7 @@ Solemn Simulacrum is blinkable ramp at {4}: ETB a basic tapped, death-draw. Blin
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 84
 >   deck_specific: 82
@@ -97,7 +97,7 @@ Solemn Simulacrum is blinkable ramp at {4}: ETB a basic tapped, death-draw. Blin
 > scryfall_id: cb1563a1-c8dc-4fcb-b9c8-e7432235d31e
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Human\|Human]] · [[04 Creature Types/Scout\|Scout]] |
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>12</td><td>—</td><td>1</td><td>Box</td><td>25.94</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>12</td><td>—</td><td>1</td><td>Ayli</td><td>25.94</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -62,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Human|Human]] · [[04 Creature Types/Scout|Scout]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/4 Mythic|Mythic]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Human|Human]] · [[04 Creature Types/Scout|Scout]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/4 Mythic|Mythic]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
 
 ---
 

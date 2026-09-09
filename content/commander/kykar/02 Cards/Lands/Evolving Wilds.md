@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Evolving Wilds`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -86,7 +86,7 @@ Evolving Wilds is a mana source for this Azorius pile. Owned fetch to basics. Th
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 72
 >   deck_specific: 74
@@ -94,7 +94,7 @@ Evolving Wilds is a mana source for this Azorius pile. Owned fetch to basics. Th
 > scryfall_id: 3a0b9356-5b91-4542-8802-f0f7275238e1
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - land
 > ```
 

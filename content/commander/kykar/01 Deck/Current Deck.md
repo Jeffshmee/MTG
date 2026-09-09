@@ -21,7 +21,7 @@ legality: commander
 1 Deputy of Detention
 1 Elrond, Moon-Reader
 1 Glasspool Mimic
-1 Inspiring Overseer
+1 Displacer Kitten
 1 Kitesail Larcenist
 1 Loran of the Third Path
 1 Mocking Sprite
@@ -33,7 +33,7 @@ legality: commander
 1 Bigfin Bouncer
 1 Micromancer
 1 Naga Fleshcrafter
-1 Solemn Simulacrum
+1 Mulldrifter
 1 Starfield Vocalist
 1 Thassa, Deep-Dwelling
 1 Cloudblazer
@@ -87,7 +87,7 @@ legality: commander
 
 # Artifacts
 1 Sol Ring
-1 Wayfarer's Bauble
+1 Arcane Signet
 1 Azorius Signet
 1 Swiftfoot Boots
 1 Talisman of Progress
@@ -98,21 +98,22 @@ legality: commander
 1 Azorius Guildgate
 1 Command Tower
 1 Demolition Field
-1 Evolving Wilds
+1 Glacial Fortress
 1 Floodfarm Verge
 1 Hallowed Fountain
 9 Island
 1 Mystic Sanctuary
-6 Plains
+5 Plains
+1 Port Town
 1 Temple of Enlightenment
-1 Terramorphic Expanse
+1 Prairie Stream
 1 Tranquil Cove
 ```
 
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-07 (sleeved 100)*
+*Last synced: 2026-09-09 (sleeved 100)*
 
 ---
 
@@ -132,7 +133,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Deputy of Detention|Deputy of Detention]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Creatures/Elrond, Moon-Reader|Elrond, Moon-Reader]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Glasspool Mimic|Glasspool Mimic]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
-- [[02 Cards/Creatures/Inspiring Overseer|Inspiring Overseer]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Creatures/Displacer Kitten|Displacer Kitten]] **96** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:96%"></div></div>
 - [[02 Cards/Creatures/Kitesail Larcenist|Kitesail Larcenist]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Loran of the Third Path|Loran of the Third Path]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
@@ -145,7 +146,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
 - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
 - [[02 Cards/Creatures/Naga Fleshcrafter|Naga Fleshcrafter]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
-- [[02 Cards/Creatures/Solemn Simulacrum|Solemn Simulacrum]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
+- [[02 Cards/Creatures/Mulldrifter|Mulldrifter]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Starfield Vocalist|Starfield Vocalist]] **93** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:93%"></div></div>
 - [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
@@ -199,7 +200,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 
 ### Artifacts
 - [[02 Cards/Artifacts/Sol Ring|Sol Ring]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
-- [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
+- [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Artifacts/Azorius Signet|Azorius Signet]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Swiftfoot Boots|Swiftfoot Boots]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Artifacts/Talisman of Progress|Talisman of Progress]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
@@ -210,12 +211,13 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Lands/Azorius Guildgate|Azorius Guildgate]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
 - [[02 Cards/Lands/Command Tower|Command Tower]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Lands/Demolition Field|Demolition Field]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
-- [[02 Cards/Lands/Evolving Wilds|Evolving Wilds]] **73** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:73%"></div></div>
+- [[02 Cards/Lands/Glacial Fortress|Glacial Fortress]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Lands/Floodfarm Verge|Floodfarm Verge]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
 - [[02 Cards/Lands/Mystic Sanctuary|Mystic Sanctuary]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>
 - [[02 Cards/Lands/Temple of Enlightenment|Temple of Enlightenment]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
-- [[02 Cards/Lands/Terramorphic Expanse|Terramorphic Expanse]] **73** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:73%"></div></div>
+- [[02 Cards/Lands/Prairie Stream|Prairie Stream]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Lands/Port Town|Port Town]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>

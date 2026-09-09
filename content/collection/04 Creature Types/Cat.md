@@ -2,7 +2,7 @@
 
 Creature type: Cat.
 
-**34** copies · **23** names.
+**35** copies · **24** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -23,6 +23,7 @@ Creature type: Cat.
 | [**`mtg:Emeritus of Truce`**](https://scryfall.com/card/sos/13) | [[02 Cards/Creatures/Emeritus of Truce\|PAGE]] | {1}{W}{W} // {W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.29 |
 | [**`mtg:Prideful Parent`**](https://scryfall.com/card/fdn/21) | [[02 Cards/Creatures/Prideful Parent\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Spiritcall Enthusiast`**](https://scryfall.com/card/sos/33) | [[02 Cards/Creatures/Spiritcall Enthusiast\|PAGE]] | {2}{W} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
+| [**`mtg:Displacer Kitten`**](https://scryfall.com/card/clb/63) | [[02 Cards/Creatures/Displacer Kitten\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 21.57 |
 | [**`mtg:Eager Glyphmage`**](https://scryfall.com/card/sos/11) | [[02 Cards/Creatures/Eager Glyphmage\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.08 |
 | [**`mtg:Felidar Savior`**](https://scryfall.com/card/fdn/12) | [[02 Cards/Creatures/Felidar Savior\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.10 |
 | [**`mtg:Honorbound Page`**](https://scryfall.com/card/sos/19) | [[02 Cards/Creatures/Honorbound Page\|PAGE]] | {3}{W} // {W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |

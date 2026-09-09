@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Cat\|Cat]] · [[04 Creature Types/Soldier\|Soldier]] |
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -43,13 +43,19 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations (<code>FDN</code>)</td><td>293</td><td>—</td><td>1</td><td>Box</td><td>0.15</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>135</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
-<tr><td>Ravnica: Clue Edition (<code>CLU</code>)</td><td>52</td><td>—</td><td>3</td><td>Box</td><td>0.18</td></tr>
+<tr><td>Ravnica: Clue Edition (<code>CLU</code>)</td><td>52</td><td>—</td><td>2</td><td>Box</td><td>0.18</td></tr>
+<tr><td>Ravnica: Clue Edition (<code>CLU</code>)</td><td>52</td><td>—</td><td>1</td><td>Ayli</td><td>0.18</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>293</td><td>—</td><td>1</td><td>Arahbo</td><td>0.15</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -72,7 +78,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Cat|Cat]] · [[04 Creature Types/Soldier|Soldier]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/CLU|Ravnica: Clue Edition]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Cat|Cat]] · [[04 Creature Types/Soldier|Soldier]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/CLU|Ravnica: Clue Edition]]
 
 ---
 

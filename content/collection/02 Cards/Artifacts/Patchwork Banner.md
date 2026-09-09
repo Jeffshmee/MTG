@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -43,8 +43,9 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>353</td><td>—</td><td>3</td><td>Box</td><td>1.69</td></tr>
+<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>353</td><td>—</td><td>2</td><td>Box</td><td>1.69</td></tr>
 <tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>353</td><td>—</td><td>1</td><td>Maralen</td><td>1.69</td></tr>
+<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>353</td><td>—</td><td>1</td><td>Arahbo</td><td>1.69</td></tr>
 </tbody>
 </table>
 </div>
@@ -53,6 +54,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -67,7 +69,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
 
 ---
 

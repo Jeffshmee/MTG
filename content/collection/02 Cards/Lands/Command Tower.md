@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
+| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -43,10 +43,11 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>331</td><td>foil</td><td>2</td><td>Box</td><td>0.24</td></tr>
 <tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>107</td><td>—</td><td>1</td><td>Maralen</td><td>0.27</td></tr>
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>331</td><td>—</td><td>1</td><td>Zurgo</td><td>0.20</td></tr>
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>331</td><td>foil</td><td>1</td><td>Kykar</td><td>0.84</td></tr>
+<tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>331</td><td>foil</td><td>1</td><td>Ayli</td><td>0.24</td></tr>
+<tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>331</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.24</td></tr>
 </tbody>
 </table>
 </div>
@@ -57,6 +58,8 @@
 - [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
 - [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -75,7 +78,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]]
 
 ---
 

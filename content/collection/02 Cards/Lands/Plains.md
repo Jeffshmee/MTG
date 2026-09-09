@@ -20,7 +20,7 @@
 | **Land type** | [[06 Browse/Land Types/Plains\|Plains]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -47,21 +47,27 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>3</td><td>Box</td><td>0.12</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>7</td><td>Box</td><td>0.12</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>8</td><td>Box</td><td>0.08</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>6</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>6</td><td>Box</td><td>0.08</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>274</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.21</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>282</td><td>—</td><td>1</td><td>Zurgo</td><td>0.31</td></tr>
 <tr><td>Bloomburrow (<code>BLB</code>)</td><td>265</td><td>—</td><td>1</td><td>Zurgo</td><td>0.45</td></tr>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>2</td><td>Kykar</td><td>0.05</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>1</td><td>Kykar</td><td>0.05</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>1</td><td>Kykar</td><td>0.10</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>194</td><td>—</td><td>1</td><td>Kykar</td><td>0.29</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>272</td><td>—</td><td>1</td><td>Box</td><td>0.19</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>267</td><td>—</td><td>1</td><td>Kykar</td><td>0.53</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>—</td><td>1</td><td>Kykar</td><td>0.18</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.20</td></tr>
-<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>278</td><td>—</td><td>1</td><td>Box</td><td>0.04</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>278</td><td>—</td><td>1</td><td>Ayli</td><td>0.04</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>1</td><td>Ayli</td><td>0.08</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>273</td><td>—</td><td>1</td><td>Ayli</td><td>0.17</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Ayli</td><td>0.12</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Arahbo</td><td>0.12</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>1</td><td>Arahbo</td><td>0.08</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>272</td><td>—</td><td>1</td><td>Arahbo</td><td>0.19</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>1</td><td>Arahbo</td><td>0.12</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>1</td><td>Box</td><td>0.05</td></tr>
 </tbody>
 </table>
 </div>
@@ -71,6 +77,8 @@
 
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
 - [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -133,7 +141,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
 
 ---
 

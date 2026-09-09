@@ -2,7 +2,7 @@
 
 Cards whose mana value is 4.
 
-**239** copies · **182** names.
+**240** copies · **183** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -52,6 +52,7 @@ Cards whose mana value is 4.
 | [**`mtg:Desecration Demon`**](https://scryfall.com/card/fdn/603) | [[02 Cards/Creatures/Desecration Demon\|PAGE]] | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Demon\|Demon]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.26 |
 | [**`mtg:Desolation of Smaug`**](https://scryfall.com/card/hob/93) | [[02 Cards/Sorceries/Desolation of Smaug\|PAGE]] | {2}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.05 |
 | [**`mtg:Dion, Bahamut's Dominant`**](https://scryfall.com/card/fin/16) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Knight\|Knight]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.41 |
+| [**`mtg:Displacer Kitten`**](https://scryfall.com/card/clb/63) | [[02 Cards/Creatures/Displacer Kitten\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 21.57 |
 | [**`mtg:Distant Melody`**](https://scryfall.com/card/ecc/45) | [[02 Cards/Sorceries/Distant Melody\|PAGE]] | {3}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.41 |
 | [**`mtg:Dragonback Lancer`**](https://scryfall.com/card/tdm/9) | [[02 Cards/Creatures/Dragonback Lancer\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |
 | [**`mtg:Dream Seizer`**](https://scryfall.com/card/ecl/101) | [[02 Cards/Creatures/Dream Seizer\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |

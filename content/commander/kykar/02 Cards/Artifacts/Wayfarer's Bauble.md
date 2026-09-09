@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Wayfarer's Bauble`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}  
 > **Type:** Artifact  
 >
@@ -85,7 +85,7 @@ Wayfarer's Bauble ({1}). Owned. Land onto the battlefield. Spell that triggers K
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 82
@@ -93,7 +93,7 @@ Wayfarer's Bauble ({1}). Owned. Land onto the battlefield. Spell that triggers K
 > scryfall_id: ac1960a1-9141-468c-b96c-6c8e6905084d
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - artifact
 > ```
 

@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
-> ![Sun](https://cards.scryfall.io/border_crop/front/3/d/3d6eacf2-f6c7-4ede-b5a5-7463602699ae.jpg)
+> ![Sun](https://cards.scryfall.io/border_crop/front/f/7/f7bdf6bd-472e-4109-9864-68a2df757775.jpg)
 >
 > ### Deck Scores
 >
@@ -98,7 +98,7 @@ Sun Titan returns a mana-value-3-or-less permanent on ETB and every attack. Prio
 >   general: 85
 >   deck_specific: 80
 >   combined: 82
-> scryfall_id: 3d6eacf2-f6c7-4ede-b5a5-7463602699ae
+> scryfall_id: f7bdf6bd-472e-4109-9864-68a2df757775
 > tags:
 >   - card
 >   - main-deck

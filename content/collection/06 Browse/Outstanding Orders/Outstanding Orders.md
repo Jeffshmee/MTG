@@ -2,14 +2,12 @@
 
 Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **seller**. Edit `08 Assets/outstanding-orders.csv` and rebuild. PAGE is the collection page when a copy is already owned. Purchase price is unit GBP from the order (item price, not postage).
 
-**200** copies · **189** names · **40** sellers · **£856.58**.
+**189** copies · **183** names · **40** sellers · **£813.27**.
 
 ## Contents
 
 | Source | Seller | Copies | Cards | Price (GBP) |
 |--------|--------|--------|-------|-------------|
-| MageCards | [[#MageCards · ToastedPax\|ToastedPax]] | 9 | 9 | 42.96 |
-| MageCards | [[#MageCards · LvlUpGaming\|LvlUpGaming]] | 18 | 14 | 141.13 |
 | MageCards | [[#MageCards · Magic-R-us\|Magic-R-us]] | 2 | 2 | 0.33 |
 | MageCards | [[#MageCards · FanofThingscouk\|FanofThingscouk]] | 9 | 8 | 10.99 |
 | MageCards | [[#MageCards · Arcadiacardz\|Arcadiacardz]] | 2 | 2 | 0.79 |
@@ -17,11 +15,13 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | MageCards | [[#MageCards · MTG_Factory\|MTG_Factory]] | 33 | 32 | 48.24 |
 | MageCards | [[#MageCards · ohwowitsadam\|ohwowitsadam]] | 5 | 5 | 26.65 |
 | MageCards | [[#MageCards · danjnisbe\|danjnisbe]] | 4 | 4 | 6.65 |
+| MageCards | [[#MageCards · ToastedPax\|ToastedPax]] | 4 | 4 | 6.95 |
 | MageCards | [[#MageCards · Axion_Now\|Axion_Now]] | 16 | 16 | 110.56 |
 | MageCards | [[#MageCards · Sebizzle\|Sebizzle]] | 2 | 2 | 0.33 |
 | MageCards | [[#MageCards · nikobattistini\|nikobattistini]] | 1 | 1 | 7.00 |
 | MageCards | [[#MageCards · TwoSixKay\|TwoSixKay]] | 2 | 2 | 2.80 |
 | MageCards | [[#MageCards · tanywan\|tanywan]] | 1 | 1 | 1.03 |
+| MageCards | [[#MageCards · LvlUpGaming\|LvlUpGaming]] | 12 | 11 | 133.83 |
 | MageCards | [[#MageCards · ValeryVal\|ValeryVal]] | 1 | 1 | 0.12 |
 | MageCards | [[#MageCards · rah_wares\|rah_wares]] | 3 | 3 | 15.29 |
 | MageCards | [[#MageCards · TheGrumpyGoblin\|TheGrumpyGoblin]] | 4 | 4 | 32.84 |
@@ -48,43 +48,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | Cardmarket | [[#Cardmarket · CairneyCards\|CairneyCards]] | 4 | 4 | 9.00 |
 | Cardmarket | [[#Cardmarket · Katiewills\|Katiewills]] | 1 | 1 | 11.99 |
 | Cardmarket | [[#Cardmarket · Budgiecards\|Budgiecards]] | 3 | 3 | 12.14 |
-
-## MageCards · ToastedPax
-
-**9** copies · **9** cards · **£42.96**. Source: MageCards. Seller: ToastedPax.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Port Town`**](https://scryfall.com/card/who/1098) | — | — | [[03 Card Types/Land\|Land]] | WHO 1098 | foil | 1 | 2.38 | Kykar dual |
-| [**`mtg:Sun Titan`**](https://scryfall.com/card/ddl/1) | [[02 Cards/Creatures/Sun Titan\|PAGE]] | {4}{W}{W} | [[03 Card Types/Creature\|Creature]] | DDL 1 | foil | 1 | 0.90 | Locked in Zurgo/Maralen — buy-copy |
-| [**`mtg:Displacer Kitten`**](https://scryfall.com/card/mb2/27) | — | {3}{U} | [[03 Card Types/Creature\|Creature]] | MB2 27 | — | 1 | 21.28 | Kykar buy-rank 1 |
-| [**`mtg:Mulldrifter`**](https://scryfall.com/card/sld/1887) | — | {4}{U} | [[03 Card Types/Creature\|Creature]] | SLD 1887 | foil | 1 | 4.43 | Kykar buy-rank 6 |
-| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/sld/2526) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | SLD 2526 | foil | 1 | 7.02 | Locked in Zurgo/Maralen — buy-copy |
-| [**`mtg:Woe Strider`**](https://scryfall.com/card/blc/189) | — | {2}{B} | [[03 Card Types/Creature\|Creature]] | BLC 189 | — | 1 | 0.28 | Order 07/09/2026 |
-| [**`mtg:Yahenni, Undying Partisan`**](https://scryfall.com/card/cmm/201) | [[02 Cards/Creatures/Yahenni, Undying Partisan\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] | CMM 201 | — | 1 | 0.29 | Order 07/09/2026 |
-| [**`mtg:Ajani's Welcome`**](https://scryfall.com/card/plst/M19-6) | — | {W} | [[03 Card Types/Enchantment\|Enchantment]] | PLST M19-6 | — | 1 | 1.49 | Order 07/09/2026 |
-| [**`mtg:Blind Obedience`**](https://scryfall.com/card/wot/1) | — | {1}{W} | [[03 Card Types/Enchantment\|Enchantment]] | WOT 1 | — | 1 | 4.89 | Order 07/09/2026 |
-
-## MageCards · LvlUpGaming
-
-**18** copies · **14** cards · **£141.13**. Source: MageCards. Seller: LvlUpGaming.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Prairie Stream`**](https://scryfall.com/card/who/295) | — | — | [[03 Card Types/Land\|Land]] | WHO 295 | — | 1 | 0.26 | Kykar dual |
-| [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | FIC 332 | — | 4 | 1.66 | Kykar — locked in Zurgo/Maralen; buy-copies |
-| [**`mtg:Glacial Fortress`**](https://scryfall.com/card/tdc/367) | — | — | [[03 Card Types/Land\|Land]] | TDC 367 | — | 1 | 0.40 | Kykar dual still Ordered |
-| [**`mtg:Three Tree City`**](https://scryfall.com/card/blb/260) | [[02 Cards/Lands/Three Tree City\|PAGE]] | — | [[03 Card Types/Land\|Land]] | BLB 260 | foil | 1 | 20.96 | Order 07/09/2026 |
-| [**`mtg:Qasali Slingers`**](https://scryfall.com/card/c17/33) | — | {4}{G} | [[03 Card Types/Creature\|Creature]] | C17 33 | — | 1 | 7.70 | Order 07/09/2026 |
-| [**`mtg:Ophiomancer`**](https://scryfall.com/card/cc2/3) | [[02 Cards/Creatures/Ophiomancer\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] | CC2 3 | foil | 1 | 5.49 | Order 07/09/2026 |
-| [**`mtg:Demolition Field`**](https://scryfall.com/card/fic/385) | [[02 Cards/Lands/Demolition Field\|PAGE]] | — | [[03 Card Types/Land\|Land]] | FIC 385 | — | 1 | 0.29 | Order 07/09/2026 |
-| [**`mtg:High Market`**](https://scryfall.com/card/fic/402) | — | — | [[03 Card Types/Land\|Land]] | FIC 402 | — | 1 | 0.85 | Order 07/09/2026 |
-| [**`mtg:Farewell`**](https://scryfall.com/card/fic/242) | — | {4}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | FIC 242 | — | 1 | 4.21 | Order 07/09/2026 |
-| [**`mtg:Brimaz, King of Oreskos`**](https://scryfall.com/card/j25/58) | — | {1}{W}{W} | [[03 Card Types/Creature\|Creature]] | J25 58 | — | 1 | 6.85 | Order 07/09/2026 |
-| [**`mtg:Nature's Lore`**](https://scryfall.com/card/msc/177) | — | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | MSC 177 | — | 2 | 3.11 | Order 07/09/2026 |
-| [**`mtg:Three Visits`**](https://scryfall.com/card/msc/181) | — | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | MSC 181 | — | 1 | 5.47 | Order 07/09/2026 |
-| [**`mtg:Cavern of Souls`**](https://scryfall.com/card/ltc/362) | — | — | [[03 Card Types/Land\|Land]] | LTC 362 | — | 1 | 75.24 | Order 07/09/2026 |
-| [**`mtg:Castle Ardenvale`**](https://scryfall.com/card/eld/238) | [[02 Cards/Lands/Castle Ardenvale\|PAGE]] | — | [[03 Card Types/Land\|Land]] | ELD 238 | — | 1 | 0.55 | Order 07/09/2026 |
 
 ## MageCards · Magic-R-us
 
@@ -139,7 +102,7 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | [**`mtg:Zulaport Cutthroat`**](https://scryfall.com/card/bfz/126) | — | {1}{B} | [[03 Card Types/Creature\|Creature]] | BFZ 126 | — | 1 | 2.10 | Order 50371 |
 | [**`mtg:Mortuary Mire`**](https://scryfall.com/card/bfz/240) | — | — | [[03 Card Types/Land\|Land]] | BFZ 240 | — | 1 | 0.17 | Order 50371 |
 | [**`mtg:Arctic Flats`**](https://scryfall.com/card/csp/143) | — | — | [[03 Card Types/Land\|Land]] | CSP 143 | — | 1 | 0.71 | Order 50371 |
-| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/cmd/253) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | CMD 253 | — | 1 | 5.28 | Order 50371 — extra copy (SLD foil still with ToastedPax) |
+| [**`mtg:Lightning Greaves`**](https://scryfall.com/card/cmd/253) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | CMD 253 | — | 1 | 5.28 | Order 50371 — extra copy (SLD 2526 foil arrived 09/09) |
 | [**`mtg:Leyline of Hope`**](https://scryfall.com/card/dsk/369) | — | {2}{W}{W} | [[03 Card Types/Enchantment\|Enchantment]] | DSK 369 | — | 1 | 0.53 | Order 50371 |
 | [**`mtg:Elvish Vanguard`**](https://scryfall.com/card/ema/164) | — | {1}{G} | [[03 Card Types/Creature\|Creature]] | EMA 164 | — | 1 | 0.34 | Order 50371 |
 | [**`mtg:Rugged Prairie`**](https://scryfall.com/card/eve/178) | — | — | [[03 Card Types/Land\|Land]] | EVE 178 | — | 1 | 2.66 | Order 50371 |
@@ -188,6 +151,17 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | [**`mtg:Feline Sovereign`**](https://scryfall.com/card/m21/180) | — | {2}{G} | [[03 Card Types/Creature\|Creature]] | M21 180 | — | 1 | 0.99 | Order 07/09/2026 |
 | [**`mtg:Isolated Chapel`**](https://scryfall.com/card/md1/16) | [[02 Cards/Lands/Isolated Chapel\|PAGE]] | — | [[03 Card Types/Land\|Land]] | MD1 16 | — | 1 | 0.48 | Order 07/09/2026 |
 | [**`mtg:Carrion Feeder`**](https://scryfall.com/card/mh1/81) | — | {B} | [[03 Card Types/Creature\|Creature]] | MH1 81 | — | 1 | 5.00 | Order 07/09/2026 |
+
+## MageCards · ToastedPax
+
+**4** copies · **4** cards · **£6.95**. Source: MageCards. Seller: ToastedPax.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Woe Strider`**](https://scryfall.com/card/blc/189) | — | {2}{B} | [[03 Card Types/Creature\|Creature]] | BLC 189 | — | 1 | 0.28 | Order 07/09/2026 |
+| [**`mtg:Yahenni, Undying Partisan`**](https://scryfall.com/card/cmm/201) | [[02 Cards/Creatures/Yahenni, Undying Partisan\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] | CMM 201 | — | 1 | 0.29 | Order 07/09/2026 |
+| [**`mtg:Ajani's Welcome`**](https://scryfall.com/card/plst/M19-6) | — | {W} | [[03 Card Types/Enchantment\|Enchantment]] | PLST M19-6 | — | 1 | 1.49 | Order 07/09/2026 |
+| [**`mtg:Blind Obedience`**](https://scryfall.com/card/wot/1) | — | {1}{W} | [[03 Card Types/Enchantment\|Enchantment]] | WOT 1 | — | 1 | 4.89 | Order 07/09/2026 |
 
 ## MageCards · Axion_Now
 
@@ -245,6 +219,24 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/plst/HOU-2) | — | — | [[02 Cards/Tokens/01 - Summary\|Token]] | PLST HOU-2 | — | 1 | 1.03 | Order 07/09/2026 — the creature |
+
+## MageCards · LvlUpGaming
+
+**12** copies · **11** cards · **£133.83**. Source: MageCards. Seller: LvlUpGaming.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Three Tree City`**](https://scryfall.com/card/blb/260) | [[02 Cards/Lands/Three Tree City\|PAGE]] | — | [[03 Card Types/Land\|Land]] | BLB 260 | foil | 1 | 20.96 | Order 07/09/2026 |
+| [**`mtg:Qasali Slingers`**](https://scryfall.com/card/c17/33) | — | {4}{G} | [[03 Card Types/Creature\|Creature]] | C17 33 | — | 1 | 7.70 | Order 07/09/2026 |
+| [**`mtg:Ophiomancer`**](https://scryfall.com/card/cc2/3) | [[02 Cards/Creatures/Ophiomancer\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] | CC2 3 | foil | 1 | 5.49 | Order 07/09/2026 |
+| [**`mtg:Demolition Field`**](https://scryfall.com/card/fic/385) | [[02 Cards/Lands/Demolition Field\|PAGE]] | — | [[03 Card Types/Land\|Land]] | FIC 385 | — | 1 | 0.29 | Order 07/09/2026 |
+| [**`mtg:High Market`**](https://scryfall.com/card/fic/402) | — | — | [[03 Card Types/Land\|Land]] | FIC 402 | — | 1 | 0.85 | Order 07/09/2026 |
+| [**`mtg:Farewell`**](https://scryfall.com/card/fic/242) | — | {4}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | FIC 242 | — | 1 | 4.21 | Order 07/09/2026 |
+| [**`mtg:Brimaz, King of Oreskos`**](https://scryfall.com/card/j25/58) | — | {1}{W}{W} | [[03 Card Types/Creature\|Creature]] | J25 58 | — | 1 | 6.85 | Order 07/09/2026 |
+| [**`mtg:Nature's Lore`**](https://scryfall.com/card/msc/177) | — | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | MSC 177 | — | 2 | 3.11 | Order 07/09/2026 |
+| [**`mtg:Three Visits`**](https://scryfall.com/card/msc/181) | — | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | MSC 181 | — | 1 | 5.47 | Order 07/09/2026 |
+| [**`mtg:Cavern of Souls`**](https://scryfall.com/card/ltc/362) | — | — | [[03 Card Types/Land\|Land]] | LTC 362 | — | 1 | 75.24 | Order 07/09/2026 |
+| [**`mtg:Castle Ardenvale`**](https://scryfall.com/card/eld/238) | [[02 Cards/Lands/Castle Ardenvale\|PAGE]] | — | [[03 Card Types/Land\|Land]] | ELD 238 | — | 1 | 0.55 | Order 07/09/2026 |
 
 ## MageCards · ValeryVal
 

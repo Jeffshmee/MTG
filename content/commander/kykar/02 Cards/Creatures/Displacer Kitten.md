@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Displacer Kitten`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{U}  
 > **Type:** Creature — Cat Beast  
 > **P/T:** 2/2  
@@ -49,7 +49,7 @@ Avoidance — Whenever you cast a noncreature spell, [[03 Effects/Exile|[[03 Eff
 
 ## Deck Role & Rating
 
-Kitten blinks a nonland you control on every noncreature spell — instant, so it catches combat, which Kykar's delayed blink cannot. The engine once it arrives. Not in the owned 65. Buy-rank 1. Do not confuse with Felidar / Saheeli (off-plan).
+Kitten blinks a nonland you control on every noncreature spell — instant, so it catches combat, which Kykar's delayed blink cannot. The engine once it arrives. In hand on the sideboard. Combined 96 — the engine. Sleeve when a cut is named. Do not confuse with Felidar / Saheeli (off-plan).
 
 ## Play Patterns & Lines
 
@@ -66,7 +66,7 @@ Kitten blinks a nonland you control on every noncreature spell — instant, so i
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 - Kykar's blink is delayed. Do not block with the blinked creature; it is gone until end of turn.
 
 ## Related Pages
@@ -90,7 +90,7 @@ Kitten blinks a nonland you control on every noncreature spell — instant, so i
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Avoidance"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 92
 >   deck_specific: 98
@@ -98,7 +98,7 @@ Kitten blinks a nonland you control on every noncreature spell — instant, so i
 > scryfall_id: c7a401b8-29fb-46ef-a663-427f66724d5c
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

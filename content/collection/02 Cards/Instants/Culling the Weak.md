@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Black\|Black]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven Mystical Archive (<code>SOA</code>)</td><td>27</td><td>—</td><td>1</td><td>Box</td><td>6.63</td></tr>
+<tr><td>Secrets of Strixhaven Mystical Archive (<code>SOA</code>)</td><td>27</td><td>—</td><td>1</td><td>Ayli</td><td>6.63</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -62,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/SOA|Secrets of Strixhaven Mystical Archive]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/SOA|Secrets of Strixhaven Mystical Archive]]
 
 ---
 

@@ -2,13 +2,14 @@
 
 Creature type: Beast.
 
-**16** copies · **12** names.
+**17** copies · **13** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Felidar Cub`**](https://scryfall.com/card/fdn/573) | [[02 Cards/Creatures/Felidar Cub\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Giant Cindermaw`**](https://scryfall.com/card/fdn/624) | [[02 Cards/Creatures/Giant Cindermaw\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
 | [**`mtg:Trygon Predator`**](https://scryfall.com/card/fdn/667) | [[02 Cards/Creatures/Trygon Predator\|PAGE]] | {1}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
+| [**`mtg:Displacer Kitten`**](https://scryfall.com/card/clb/63) | [[02 Cards/Creatures/Displacer Kitten\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 21.57 |
 | [**`mtg:Felidar Savior`**](https://scryfall.com/card/fdn/12) | [[02 Cards/Creatures/Felidar Savior\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.10 |
 | [**`mtg:Sagu Pummeler`**](https://scryfall.com/card/tdm/156) | [[02 Cards/Creatures/Sagu Pummeler\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |
 | [**`mtg:Startled Relic Sloth`**](https://scryfall.com/card/sos/233) | [[02 Cards/Creatures/Startled Relic Sloth\|PAGE]] | {2}{R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Sloth\|Sloth]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.10 |

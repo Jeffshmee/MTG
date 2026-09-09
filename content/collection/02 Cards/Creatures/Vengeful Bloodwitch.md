@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Vampire\|Vampire]] · [[04 Creature Types/Warlock\|Warlock]] |
 | **Colour** | [[05 Colours/Black\|Black]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -43,12 +43,16 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations (<code>FDN</code>)</td><td>325</td><td>—</td><td>1</td><td>Box</td><td>0.22</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>76</td><td>—</td><td>4</td><td>Box</td><td>0.17</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>325</td><td>—</td><td>1</td><td>Ayli</td><td>0.22</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -67,7 +71,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Vampire|Vampire]] · [[04 Creature Types/Warlock|Warlock]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Vampire|Vampire]] · [[04 Creature Types/Warlock|Warlock]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/FDN|Foundations]]
 
 ---
 

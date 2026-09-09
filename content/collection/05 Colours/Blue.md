@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**255** copies · **196** names.
+**257** copies · **198** names.
 
 ```decklist
 group: auto
@@ -29,6 +29,7 @@ legality: commander
 1 Deadeye Navigator
 2 Deluge Virtuoso
 1 Dirgur Island Dragon // Skimming Strike
+1 Displacer Kitten
 1 Diversion Unit
 1 Dragonologist
 1 Dragonstorm Forecaster
@@ -74,6 +75,7 @@ legality: commander
 1 Mirkwood Meditator
 2 Mischievous Mystic
 2 Mocking Sprite
+1 Mulldrifter
 1 Muse Drake
 1 Muse Seeker
 1 Naga Fleshcrafter

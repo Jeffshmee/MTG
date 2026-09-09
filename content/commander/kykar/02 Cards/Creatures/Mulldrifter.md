@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mulldrifter`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}{U}  
 > **Type:** Creature — Elemental  
 > **P/T:** 2/2  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> ![Mulldrifter](https://cards.scryfall.io/border_crop/front/3/d/3de308cc-14ac-407e-99e7-568572ecd0e7.jpg)
+> ![Mulldrifter](https://cards.scryfall.io/border_crop/front/5/d/5d9acfe6-e1af-427b-86e1-05c35ce569a3.jpg)
 >
 > ### Deck Scores
 >
@@ -53,13 +53,13 @@
 
 ## Deck Role & Rating
 
-Mulldrifter draws two on ETB. Evoke {2}{U} is a Kykar trigger and still draws. Dump for infinite mana once Drake is looping. Not in the owned 65. Buy-rank 13. Cloudblazer is the owned draw-two until this arrives.
+Mulldrifter draws two on ETB. Evoke {2}{U} is a Kykar trigger and still draws. Dump for infinite mana once Drake is looping. In hand on the sideboard. Combined 88. Combo dump — sleeve when a cut is named. Cloudblazer is the owned draw-two until this arrives.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Key Synergies
 
@@ -70,7 +70,7 @@ Mulldrifter draws two on ETB. Evoke {2}{U} is a Kykar trigger and still draws. D
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Related Pages
 
@@ -93,15 +93,15 @@ Mulldrifter draws two on ETB. Evoke {2}{U} is a Kykar trigger and still draws. D
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Flying", "Evoke"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 90
 >   combined: 88
-> scryfall_id: 3de308cc-14ac-407e-99e7-568572ecd0e7
+> scryfall_id: 5d9acfe6-e1af-427b-86e1-05c35ce569a3
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

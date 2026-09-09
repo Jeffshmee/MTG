@@ -2,7 +2,7 @@
 
 Lands with the Island subtype.
 
-**46** copies · **6** names.
+**47** copies · **7** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,4 +11,5 @@ Lands with the Island subtype.
 | [**`mtg:Hedge Maze`**](https://scryfall.com/card/mkm/262) | [[02 Cards/Lands/Hedge Maze\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Forest\|Forest]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 11.58 |
 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 41 | 6.07 |
 | [**`mtg:Mystic Sanctuary`**](https://scryfall.com/card/soc/388) | [[02 Cards/Lands/Mystic Sanctuary\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.97 |
+| [**`mtg:Prairie Stream`**](https://scryfall.com/card/who/295) | [[02 Cards/Lands/Prairie Stream\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.22 |
 | [**`mtg:Watery Grave`**](https://scryfall.com/card/eoe/286) | [[02 Cards/Lands/Watery Grave\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Island\|Island]] [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 9.42 |

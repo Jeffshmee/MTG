@@ -2,7 +2,7 @@
 
 Set `FDN`. Qty here is copies of this name from this set.
 
-**463** copies · **274** names.
+**464** copies · **275** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -139,6 +139,7 @@ Set `FDN`. Qty here is copies of this name from this set.
 | [**`mtg:Wary Thespian`**](https://scryfall.com/card/fdn/235) | [[02 Cards/Creatures/Wary Thespian\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Wildborn Preserver`**](https://scryfall.com/card/fdn/650) | [[02 Cards/Creatures/Wildborn Preserver\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Wishclaw Talisman`**](https://scryfall.com/card/fdn/617) | [[02 Cards/Artifacts/Wishclaw Talisman\|PAGE]] | {1}{B} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.94 |
+| [**`mtg:Angel of Vitality`**](https://scryfall.com/card/fdn/706) | [[02 Cards/Creatures/Angel of Vitality\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Arahbo, the First Fang`**](https://scryfall.com/card/fdn/2) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.58 |
 | [**`mtg:Ball Lightning`**](https://scryfall.com/card/fdn/618) | [[02 Cards/Creatures/Ball Lightning\|PAGE]] | {R}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.27 |
 | [**`mtg:Banishing Light`**](https://scryfall.com/card/fdn/138) | [[02 Cards/Enchantments/Banishing Light\|PAGE]] | {2}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
@@ -263,7 +264,7 @@ Set `FDN`. Qty here is copies of this name from this set.
 | [**`mtg:Aurelia, the Warleader`**](https://scryfall.com/card/fdn/651) | [[02 Cards/Creatures/Aurelia, the Warleader\|PAGE]] | {2}{R}{R}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 4.43 |
 | [**`mtg:Confiscate`**](https://scryfall.com/card/fdn/709) | [[02 Cards/Enchantments/Confiscate\|PAGE]] | {4}{U}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
 | [**`mtg:Etali, Primal Storm`**](https://scryfall.com/card/fdn/194) | [[02 Cards/Creatures/Etali, Primal Storm\|PAGE]] | {4}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elder\|Elder]] [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.39 |
-| [**`mtg:Massacre Wurm`**](https://scryfall.com/card/fdn/754) | [[02 Cards/Creatures/Massacre Wurm\|PAGE]] | {3}{B}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Wurm\|Wurm]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.00 |
+| [**`mtg:Massacre Wurm`**](https://scryfall.com/card/fdn/714) | [[02 Cards/Creatures/Massacre Wurm\|PAGE]] | {3}{B}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Wurm\|Wurm]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.00 |
 | [**`mtg:Quakestrider Ceratops`**](https://scryfall.com/card/fdn/110) | [[02 Cards/Creatures/Quakestrider Ceratops\|PAGE]] | {3}{G}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.16 |
 | [**`mtg:Ramos, Dragon Engine`**](https://scryfall.com/card/fdn/678) | [[02 Cards/Creatures/Ramos, Dragon Engine\|PAGE]] | {6} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.62 |
 | [**`mtg:River's Rebuke`**](https://scryfall.com/card/fdn/595) | [[02 Cards/Sorceries/River's Rebuke\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.39 |

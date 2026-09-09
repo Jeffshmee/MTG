@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Box\|Box]] |
 
 </div>
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 21/08/2026 | Ordered to owned |
+| 09/09/2026 | MageCards · ToastedPax |
 
 </div>
 
@@ -38,13 +39,14 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Aetherdrift Commander (<code>DRC</code>)</td><td>55</td><td>—</td><td>1</td><td>Maralen</td><td>3.64</td></tr>
-<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>102</td><td>—</td><td>1</td><td>Zurgo</td><td>3.89</td></tr>
+<tr><td>Secret Lair Drop (<code>SLD</code>)</td><td>2526</td><td>foil</td><td>1</td><td>Zurgo</td><td>4.94</td></tr>
+<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>102</td><td>—</td><td>1</td><td>Box</td><td>3.89</td></tr>
 </tbody>
 </table>
 </div>
@@ -65,6 +67,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>DRC 55 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/9/6/96b0ee57-eb59-44dd-b7dc-bfef37ddb1a6.jpg" alt="Lightning Greaves SLD 2526 · ×1">
+<figcaption>SLD 2526 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/8/b/8b59b12c-fde5-4f19-a357-e09f06f490cc.jpg" alt="Lightning Greaves TDC 102 · ×1">
 <figcaption>TDC 102 · ×1</figcaption>
 </figure>
@@ -72,7 +78,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/DRC|Aetherdrift Commander]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/DRC|Aetherdrift Commander]] · [[06 Browse/Sets/SLD|Secret Lair Drop]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
 
 ---
 
@@ -85,7 +91,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 2
 > type: "Artifact — Equipment"
 > scryfall_id: 4b8bfdd3-7c73-4d13-8a8d-50b6dd85fad3
-> quantity: 2
+> quantity: 3
 > tags:
 >   - artifact
 >   - card

@@ -2,10 +2,18 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**177** copies · **50** names.
+**144** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
+| 09/09/2026 | [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | 6 |
+| 09/09/2026 | [**`mtg:Displacer Kitten`**](https://scryfall.com/card/clb/63) | [[02 Cards/Creatures/Displacer Kitten\|PAGE]] | 1 |
+| 09/09/2026 | [**`mtg:Glacial Fortress`**](https://scryfall.com/card/eoc/160) | [[02 Cards/Lands/Glacial Fortress\|PAGE]] | 1 |
+| 09/09/2026 | [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | 3 |
+| 09/09/2026 | [**`mtg:Mulldrifter`**](https://scryfall.com/card/sld/1887) | [[02 Cards/Creatures/Mulldrifter\|PAGE]] | 1 |
+| 09/09/2026 | [**`mtg:Port Town`**](https://scryfall.com/card/who/294) | [[02 Cards/Lands/Port Town\|PAGE]] | 1 |
+| 09/09/2026 | [**`mtg:Prairie Stream`**](https://scryfall.com/card/who/295) | [[02 Cards/Lands/Prairie Stream\|PAGE]] | 1 |
+| 09/09/2026 | [**`mtg:Sun Titan`**](https://scryfall.com/card/ddl/1) | [[02 Cards/Creatures/Sun Titan\|PAGE]] | 2 |
 | 08/09/2026 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | 3 |
 | 08/09/2026 | [**`mtg:Agency Coroner`**](https://scryfall.com/card/mkm/75) | [[02 Cards/Creatures/Agency Coroner\|PAGE]] | 1 |
 | 08/09/2026 | [**`mtg:Airtight Alibi`**](https://scryfall.com/card/mkm/149) | [[02 Cards/Enchantments/Airtight Alibi\|PAGE]] | 1 |
@@ -48,11 +56,3 @@ The 50 names most recently added to the collection. Cards with no recorded date 
 | 08/09/2026 | [**`mtg:Hustle`**](https://scryfall.com/card/mkm/249) | [[02 Cards/Instants/Hustle\|PAGE]] | 1 |
 | 08/09/2026 | [**`mtg:Infirmary Healer`**](https://scryfall.com/card/sos/152) | [[02 Cards/Creatures/Infirmary Healer\|PAGE]] | 2 |
 | 08/09/2026 | [**`mtg:Inkling`**](https://scryfall.com/card/tsos/7) | [[02 Cards/Tokens/Inkling\|PAGE]] | 9 |
-| 08/09/2026 | [**`mtg:Insidious Roots`**](https://scryfall.com/card/mkm/208) | [[02 Cards/Enchantments/Insidious Roots\|PAGE]] | 1 |
-| 08/09/2026 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | 41 |
-| 08/09/2026 | [**`mtg:It Doesn't Add Up`**](https://scryfall.com/card/mkm/89) | [[02 Cards/Instants/It Doesn't Add Up\|PAGE]] | 1 |
-| 08/09/2026 | [**`mtg:Jaded Analyst`**](https://scryfall.com/card/mkm/62) | [[02 Cards/Creatures/Jaded Analyst\|PAGE]] | 1 |
-| 08/09/2026 | [**`mtg:Karlov Watchdog`**](https://scryfall.com/card/mkm/20) | [[02 Cards/Creatures/Karlov Watchdog\|PAGE]] | 1 |
-| 08/09/2026 | [**`mtg:Kaya, Spirits' Justice`**](https://scryfall.com/card/mkm/211) | [[02 Cards/Planeswalkers/Kaya, Spirits' Justice\|PAGE]] | 1 |
-| 08/09/2026 | [**`mtg:Kirol, History Buff`**](https://scryfall.com/card/sos/198) | [[02 Cards/Creatures/Kirol, History Buff\|PAGE]] | 2 |
-| 08/09/2026 | [**`mtg:Knife`**](https://scryfall.com/card/mkm/134) | [[02 Cards/Artifacts/Knife\|PAGE]] | 1 |

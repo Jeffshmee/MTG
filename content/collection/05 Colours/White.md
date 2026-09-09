@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**239** copies · **177** names.
+**240** copies · **177** names.
 
 ```decklist
 group: auto
@@ -101,7 +101,7 @@ legality: commander
 1 Squad Rallier
 3 Stone Docent
 2 Summoned Dromedary
-1 Sun Titan
+2 Sun Titan
 2 Sun-Dappled Celebrant
 1 Swiftwing Assailant
 1 Syr Alin, the Lion's Claw

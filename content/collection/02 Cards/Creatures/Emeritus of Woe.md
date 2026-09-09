@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Vampire\|Vampire]] · [[04 Creature Types/Warlock\|Warlock]] |
 | **Colour** | [[05 Colours/Black\|Black]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>80</td><td>—</td><td>1</td><td>Box</td><td>8.81</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>80</td><td>—</td><td>1</td><td>Ayli</td><td>8.81</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -62,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Vampire|Vampire]] · [[04 Creature Types/Warlock|Warlock]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/4 Mythic|Mythic]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Vampire|Vampire]] · [[04 Creature Types/Warlock|Warlock]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/4 Mythic|Mythic]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 

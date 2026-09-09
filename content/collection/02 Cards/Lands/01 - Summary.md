@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**344** copies · **104** names.
+**347** copies · **107** names.
 
 ```decklist
 group: auto
@@ -44,6 +44,7 @@ legality: commander
 1 Floodfarm Verge
 41 Forest
 3 Forum of Amity
+1 Glacial Fortress
 2 Goblin-town
 1 Godless Shrine
 1 Golgari Guildgate
@@ -71,6 +72,8 @@ legality: commander
 1 Peculiar Lighthouse
 1 Petrified Hamlet
 31 Plains
+1 Port Town
+1 Prairie Stream
 1 Rakdos Guildgate
 1 Rogue's Passage
 4 Rugged Highlands

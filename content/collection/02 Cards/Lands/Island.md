@@ -49,11 +49,11 @@
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.23</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>6</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>7</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>9</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>280</td><td>—</td><td>1</td><td>Maralen</td><td>0.22</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>273</td><td>—</td><td>1</td><td>Maralen</td><td>0.47</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>3</td><td>Maralen</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>2</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>284</td><td>—</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>268</td><td>—</td><td>1</td><td>Kykar</td><td>0.60</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>foil</td><td>1</td><td>Kykar</td><td>0.12</td></tr>

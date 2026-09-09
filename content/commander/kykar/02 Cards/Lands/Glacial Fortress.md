@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Glacial Fortress`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Glacial Fortress](https://cards.scryfall.io/border_crop/front/d/6/d673a2d5-0c61-48dc-8c8d-06f0c7b6b8bf.jpg)
+> ![Glacial Fortress](https://cards.scryfall.io/border_crop/front/a/1/a1fc8d86-b118-46e3-92a5-8cbf2ca282f7.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Plains
 
 ## Deck Role & Rating
 
-Glacial Fortress is a mana source for this Azorius pile. Checkland. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. It is not in the owned 65 yet.
+Glacial Fortress is a mana source for this Azorius pile. Checkland. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ Glacial Fortress is a mana source for this Azorius pile. Checkland. The live bas
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 - Tapped. Do not keep a two-lander that needs this untapped for Kykar.
 
 ## Related Pages
@@ -89,15 +89,15 @@ Glacial Fortress is a mana source for this Azorius pile. Checkland. The live bas
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 84
 >   combined: 84
-> scryfall_id: d673a2d5-0c61-48dc-8c8d-06f0c7b6b8bf
+> scryfall_id: a1fc8d86-b118-46e3-92a5-8cbf2ca282f7
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Terramorphic Expanse`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -86,7 +86,7 @@ Terramorphic Expanse is a mana source for this Azorius pile. Owned fetch to basi
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 72
 >   deck_specific: 74
@@ -94,7 +94,7 @@ Terramorphic Expanse is a mana source for this Azorius pile. Owned fetch to basi
 > scryfall_id: 9a4c5629-fadd-42b9-850f-9f8586a2ca50
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - land
 > ```
 

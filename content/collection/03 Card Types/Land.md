@@ -2,7 +2,7 @@
 
 Card type: Land.
 
-**344** copies · **104** names.
+**347** copies · **107** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -38,6 +38,7 @@ Card type: Land.
 | [**`mtg:Floodfarm Verge`**](https://scryfall.com/card/dsk/259) | [[02 Cards/Lands/Floodfarm Verge\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.64 |
 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 41 | 5.73 |
 | [**`mtg:Forum of Amity`**](https://scryfall.com/card/sos/256) | [[02 Cards/Lands/Forum of Amity\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.27 |
+| [**`mtg:Glacial Fortress`**](https://scryfall.com/card/eoc/160) | [[02 Cards/Lands/Glacial Fortress\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.44 |
 | [**`mtg:Goblin-town`**](https://scryfall.com/card/hob/183) | [[02 Cards/Lands/Goblin-town\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.10 |
 | [**`mtg:Godless Shrine`**](https://scryfall.com/card/rna/248) | [[02 Cards/Lands/Godless Shrine\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.46 |
 | [**`mtg:Golgari Guildgate`**](https://scryfall.com/card/fdn/689) | [[02 Cards/Lands/Golgari Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.21 |
@@ -65,6 +66,8 @@ Card type: Land.
 | [**`mtg:Peculiar Lighthouse`**](https://scryfall.com/card/dsk/265) | [[02 Cards/Lands/Peculiar Lighthouse\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.08 |
 | [**`mtg:Petrified Hamlet`**](https://scryfall.com/card/sos/259) | [[02 Cards/Lands/Petrified Hamlet\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.72 |
 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 31 | 4.61 |
+| [**`mtg:Port Town`**](https://scryfall.com/card/who/294) | [[02 Cards/Lands/Port Town\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.37 |
+| [**`mtg:Prairie Stream`**](https://scryfall.com/card/who/295) | [[02 Cards/Lands/Prairie Stream\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.22 |
 | [**`mtg:Rakdos Guildgate`**](https://scryfall.com/card/fdn/693) | [[02 Cards/Lands/Rakdos Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
 | [**`mtg:Rogue's Passage`**](https://scryfall.com/card/soc/400) | [[02 Cards/Lands/Rogue's Passage\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.42 |
 | [**`mtg:Rugged Highlands`**](https://scryfall.com/card/fdn/265) | [[02 Cards/Lands/Rugged Highlands\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {R}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.24 |

@@ -13,3 +13,5 @@ See also [[06 Strategy/Play Patterns|Play Patterns]] and [[06 Strategy/Win Condi
 - Confounding Riddle stays Maralen Sideboard.
 - Felidar / Saheeli stays off.
 - Spirit mode is backup, not a token-combat pivot.
+- **Will not buy** [**`mtg:Otawara, Soaring City`**](https://scryfall.com/card/neo/271) or [**`mtg:Adarkar Wastes`**](https://scryfall.com/card/eoc/147). Do not treat them as ordered or as the next duals.
+- **Mana watch:** 25 lands / 4 rocks. Play reports feeling held back by ramp. Do not auto-cut the 100 for lands until more games. If a land is added later, it is a spell cut, not Otawara/Adarkar arriving.

@@ -20,7 +20,7 @@
 | **Land type** | [[06 Browse/Land Types/Duals\|Duals]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] |
+| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo SB\|Zurgo SB]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -44,8 +44,8 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>406</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>406</td><td>—</td><td>1</td><td>Zurgo SB</td><td>0.17</td></tr>
+<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>406</td><td>—</td><td>1</td><td>Ayli</td><td>0.17</td></tr>
 </tbody>
 </table>
 </div>
@@ -54,6 +54,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo — Sideboard]]
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -68,7 +69,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo SB]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo SB]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
 
 ---
 

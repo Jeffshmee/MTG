@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Arcane Signet`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}  
 > **Type:** Artifact  
 >
@@ -11,15 +11,15 @@
 >
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
-> ![Arcane Signet](https://cards.scryfall.io/border_crop/front/9/c/9ce66ebc-b39f-4b40-9d95-981629a5dd06.jpg)
+> ![Arcane Signet](https://cards.scryfall.io/border_crop/front/4/c/4c861c4c-0520-46d9-b281-63a1188417dc.jpg)
 >
 > ### Deck Scores
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 90 | Locked in Zurgo and Maralen. No Box spare. Buy Azorius Signet instead. |
-> | Deck-Specific | 84 | Locked in Zurgo and Maralen. No Box spare. Buy Azorius Signet instead. |
-> | **Combined** | **86** | Locked in Zurgo and Maralen. No Box spare. Buy Azorius Signet instead. |
+> | General | 90 | Locked in Zurgo and Maralen. |
+> | Deck-Specific | 84 | Locked in Zurgo and Maralen. |
+> | **Combined** | **86** | Locked in Zurgo and Maralen. |
 >
 > ### Classification
 >
@@ -37,7 +37,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">86<span>/100</span></div><p class="synergy-score-why">Locked in Zurgo and Maralen. No Box spare. Buy Azorius Signet instead. General 90 and Deck-Specific 84 produce Combined 86.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">86<span>/100</span></div><p class="synergy-score-why">Locked in Zurgo and Maralen. General 90 and Deck-Specific 84 produce Combined 86.</p></div>
 
 ## Oracle Text
 
@@ -47,13 +47,13 @@
 
 ## Deck Role & Rating
 
-Arcane Signet is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], and Wayfarer's Bauble — this list is short of the 8–12 band until Signet / Talisman arrive. Noncreature rocks trigger Kykar. Locked in Zurgo and Maralen. No Box spare. Buy Azorius Signet instead. It is not in the owned 65 yet.
+Arcane Signet is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], and Wayfarer's Bauble — this list is short of the 8–12 band until Signet / Talisman arrive. Noncreature rocks trigger Kykar. Locked in Zurgo and Maralen. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Key Synergies
 
@@ -63,7 +63,7 @@ Arcane Signet is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|S
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Related Pages
 
@@ -86,15 +86,15 @@ Arcane Signet is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|S
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 90
 >   deck_specific: 84
 >   combined: 86
-> scryfall_id: 9ce66ebc-b39f-4b40-9d95-981629a5dd06
+> scryfall_id: 4c861c4c-0520-46d9-b281-63a1188417dc
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

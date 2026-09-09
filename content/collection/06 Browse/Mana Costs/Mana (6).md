@@ -2,7 +2,7 @@
 
 Cards whose mana value is 6.
 
-**69** copies · **56** names.
+**70** copies · **56** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -39,7 +39,7 @@ Cards whose mana value is 6.
 | [**`mtg:Magmablood Archaic`**](https://scryfall.com/card/sos/123) | [[02 Cards/Creatures/Magmablood Archaic\|PAGE]] | {2/R}{2/R}{2/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
 | [**`mtg:Malboro`**](https://scryfall.com/card/fin/106) | [[02 Cards/Creatures/Malboro\|PAGE]] | {4}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Plant\|Plant]] [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.07 |
 | [**`mtg:Marina Vendrell's Grimoire`**](https://scryfall.com/card/dsk/308) | [[02 Cards/Artifacts/Marina Vendrell's Grimoire\|PAGE]] | {5}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.13 |
-| [**`mtg:Massacre Wurm`**](https://scryfall.com/card/fdn/754) | [[02 Cards/Creatures/Massacre Wurm\|PAGE]] | {3}{B}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Wurm\|Wurm]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.00 |
+| [**`mtg:Massacre Wurm`**](https://scryfall.com/card/fdn/714) | [[02 Cards/Creatures/Massacre Wurm\|PAGE]] | {3}{B}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Wurm\|Wurm]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.00 |
 | [**`mtg:Monastery Messenger`**](https://scryfall.com/card/tdm/208) | [[02 Cards/Creatures/Monastery Messenger\|PAGE]] | {2/U}{2/R}{2/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.16 |
 | [**`mtg:Old Fat Spider`**](https://scryfall.com/card/hob/132) | [[02 Cards/Creatures/Old Fat Spider\|PAGE]] | {4}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spider\|Spider]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.02 |
 | [**`mtg:Persuasive Interrogators`**](https://scryfall.com/card/mkm/345) | [[02 Cards/Creatures/Persuasive Interrogators\|PAGE]] | {4}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Gorgon\|Gorgon]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
@@ -53,7 +53,7 @@ Cards whose mana value is 6.
 | [**`mtg:Shinestriker`**](https://scryfall.com/card/ecl/68) | [[02 Cards/Creatures/Shinestriker\|PAGE]] | {4}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.15 |
 | [**`mtg:Snarl Song`**](https://scryfall.com/card/sos/161) | [[02 Cards/Sorceries/Snarl Song\|PAGE]] | {5}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.13 |
 | [**`mtg:Steel Hellkite`**](https://scryfall.com/card/fdn/681) | [[02 Cards/Creatures/Steel Hellkite\|PAGE]] | {6} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.23 |
-| [**`mtg:Sun Titan`**](https://scryfall.com/card/soc/178) | [[02 Cards/Creatures/Sun Titan\|PAGE]] | {4}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Giant\|Giant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.25 |
+| [**`mtg:Sun Titan`**](https://scryfall.com/card/ddl/1) | [[02 Cards/Creatures/Sun Titan\|PAGE]] | {4}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Giant\|Giant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 1.35 |
 | [**`mtg:Sun-Dappled Celebrant`**](https://scryfall.com/card/ecl/37) | [[02 Cards/Creatures/Sun-Dappled Celebrant\|PAGE]] | {4}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Treefolk\|Treefolk]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.06 |
 | [**`mtg:Sundering Archaic`**](https://scryfall.com/card/sos/3) | [[02 Cards/Creatures/Sundering Archaic\|PAGE]] | {6} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.03 |
 | [**`mtg:Temur Tawnyback`**](https://scryfall.com/card/tdm/229) | [[02 Cards/Creatures/Temur Tawnyback\|PAGE]] | {2/G}{2/U}{2/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.05 |

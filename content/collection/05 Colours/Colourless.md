@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**111** copies · **81** names.
+**116** copies · **81** names.
 
 ```decklist
 group: auto
@@ -48,7 +48,7 @@ legality: commander
 # Artifacts
 1 Abzan Monument
 1 Arc Reactor
-2 Arcane Signet
+6 Arcane Signet
 1 Azorius Signet
 1 Basilisk Collar
 1 Bear Trap
@@ -73,7 +73,7 @@ legality: commander
 1 Idol of Oblivion
 2 Jeskai Monument
 1 Kyoshi Battle Fan
-2 Lightning Greaves
+3 Lightning Greaves
 1 Magnifying Glass
 1 Mardu Monument
 1 Mazemind Tome

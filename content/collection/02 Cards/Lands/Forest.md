@@ -20,7 +20,7 @@
 | **Land type** | [[06 Browse/Land Types/Forest\|Forest]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {G} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -61,17 +61,18 @@
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>—</td><td>1</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>foil</td><td>1</td><td>Box</td><td>0.15</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>281</td><td>—</td><td>2</td><td>Box</td><td>0.08</td></tr>
-<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>2</td><td>Box</td><td>0.18</td></tr>
+<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>1</td><td>Box</td><td>0.18</td></tr>
 <tr><td>Modern Horizons 3 (<code>MH3</code>)</td><td>308</td><td>foil</td><td>2</td><td>Box</td><td>0.25</td></tr>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>285</td><td>foil</td><td>1</td><td>Box</td><td>0.13</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>foil</td><td>1</td><td>Maralen</td><td>0.18</td></tr>
 <tr><td>Wilds of Eldraine (<code>WOE</code>)</td><td>266</td><td>foil</td><td>1</td><td>Maralen</td><td>0.41</td></tr>
 <tr><td>Modern Horizons 3 (<code>MH3</code>)</td><td>308</td><td>foil</td><td>2</td><td>Maralen</td><td>0.25</td></tr>
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>2</td><td>Maralen</td><td>0.18</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>285</td><td>foil</td><td>1</td><td>Maralen</td><td>0.13</td></tr>
-<tr><td>War of the Spark (<code>WAR</code>)</td><td>262</td><td>foil</td><td>1</td><td>Box</td><td>0.18</td></tr>
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.05</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>—</td><td>1</td><td>Arahbo</td><td>0.17</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>285</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.13</td></tr>
+<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.18</td></tr>
+<tr><td>War of the Spark (<code>WAR</code>)</td><td>262</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.18</td></tr>
 </tbody>
 </table>
 </div>
@@ -80,6 +81,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -154,7 +156,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/WAR|War of the Spark]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/WAR|War of the Spark]]
 
 ---
 

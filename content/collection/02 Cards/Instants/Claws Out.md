@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (5)\|Mana (5)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -43,11 +43,15 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations (<code>FDN</code>)</td><td>6</td><td>—</td><td>1</td><td>Box</td><td>0.13</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>6</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.13</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -62,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (5)|Mana (5)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/FDN|Foundations]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Instant|Instant]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (5)|Mana (5)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/FDN|Foundations]]
 
 ---
 

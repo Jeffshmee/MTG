@@ -20,7 +20,7 @@
 | **Land type** | [[06 Browse/Land Types/Swamp\|Swamp]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -62,18 +62,19 @@
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>191</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>276</td><td>foil</td><td>1</td><td>Maralen</td><td>0.14</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>269</td><td>—</td><td>1</td><td>Maralen</td><td>0.52</td></tr>
-<tr><td>Theros Beyond Death (<code>THB</code>)</td><td>283</td><td>foil</td><td>1</td><td>Box</td><td>0.09</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>277</td><td>foil</td><td>2</td><td>Box</td><td>0.20</td></tr>
-<tr><td>Dominaria United (<code>DMU</code>)</td><td>270</td><td>foil</td><td>1</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>277</td><td>foil</td><td>1</td><td>Box</td><td>0.20</td></tr>
 <tr><td>Strixhaven: School of Mages (<code>STX</code>)</td><td>371</td><td>foil</td><td>1</td><td>Maralen</td><td>0.07</td></tr>
 <tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>282</td><td>foil</td><td>1</td><td>Maralen</td><td>0.13</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>271</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
 <tr><td>The Lord of the Rings: Tales of Middle-earth (<code>LTR</code>)</td><td>267</td><td>foil</td><td>1</td><td>Maralen</td><td>0.16</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>282</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.11</td></tr>
-<tr><td>Magic Origins (<code>ORI</code>)</td><td>263</td><td>foil</td><td>1</td><td>Box</td><td>0.26</td></tr>
 <tr><td>Throne of Eldraine (<code>ELD</code>)</td><td>258</td><td>foil</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>274</td><td>—</td><td>1</td><td>Box</td><td>0.28</td></tr>
-<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>281</td><td>foil</td><td>1</td><td>Box</td><td>0.08</td></tr>
+<tr><td>Theros Beyond Death (<code>THB</code>)</td><td>283</td><td>foil</td><td>1</td><td>Ayli</td><td>0.09</td></tr>
+<tr><td>Dominaria United (<code>DMU</code>)</td><td>270</td><td>foil</td><td>1</td><td>Ayli</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>277</td><td>foil</td><td>1</td><td>Ayli</td><td>0.20</td></tr>
+<tr><td>Magic Origins (<code>ORI</code>)</td><td>263</td><td>foil</td><td>1</td><td>Ayli</td><td>0.26</td></tr>
+<tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>281</td><td>foil</td><td>1</td><td>Ayli</td><td>0.08</td></tr>
 </tbody>
 </table>
 </div>
@@ -83,6 +84,7 @@
 
 - [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -173,7 +175,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ORI|Magic Origins]] · [[06 Browse/Sets/ELD|Throne of Eldraine]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ELD|Throne of Eldraine]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/ORI|Magic Origins]]
 
 ---
 

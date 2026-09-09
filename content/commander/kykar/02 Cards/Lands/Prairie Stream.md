@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Prairie Stream`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land — Plains Island  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Prairie Stream](https://cards.scryfall.io/border_crop/front/b/2/b2e133b4-2263-4ac2-8d16-7bf307d5e104.jpg)
+> ![Prairie Stream](https://cards.scryfall.io/border_crop/front/e/3/e32fcfa0-50df-4815-ad8f-0e0db32c307b.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control two or m
 
 ## Deck Role & Rating
 
-Prairie Stream is a mana source for this Azorius pile. Untapped dual if you have a basic. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. It is not in the owned 65 yet.
+Prairie Stream is a mana source for this Azorius pile. Untapped dual if you have a basic. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ Prairie Stream is a mana source for this Azorius pile. Untapped dual if you have
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 - Tapped. Do not keep a two-lander that needs this untapped for Kykar.
 
 ## Related Pages
@@ -89,15 +89,15 @@ Prairie Stream is a mana source for this Azorius pile. Untapped dual if you have
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 84
 >   combined: 84
-> scryfall_id: b2e133b4-2263-4ac2-8d16-7bf307d5e104
+> scryfall_id: e32fcfa0-50df-4815-ad8f-0e0db32c307b
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

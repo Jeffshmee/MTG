@@ -100,7 +100,7 @@ legality: commander
 1 Fetid Heath
 1 Godless Shrine
 1 Isolated Chapel
-5 Mountain
+4 Mountain
 1 Nomad Outpost
 1 Path of Ancestry
 4 Plains
@@ -109,6 +109,7 @@ legality: commander
 1 Shattered Landscape
 1 Shattered Sanctum
 1 Smoldering Marsh
+1 Sundown Pass
 4 Swamp
 1 Vault of the Archangel
 1 Windbrisk Heights
@@ -226,6 +227,7 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Lands/Shattered Landscape|Shattered Landscape]] **69** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:69%"></div></div>
 - [[02 Cards/Lands/Shattered Sanctum|Shattered Sanctum]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Smoldering Marsh|Smoldering Marsh]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
+- [[02 Cards/Lands/Sundown Pass|Sundown Pass]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Lands/Swamp|Swamp]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
 - [[02 Cards/Lands/Vault of the Archangel|Vault of the Archangel]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Windbrisk Heights|Windbrisk Heights]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
