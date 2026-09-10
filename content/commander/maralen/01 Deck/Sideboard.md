@@ -8,6 +8,7 @@ group: auto
 legality: commander
 
 # Owned (in hand, need a cut)
+1 Fyndhorn Elves
 1 Sol Ring
 1 Veil of Summer
 1 Negate
@@ -44,7 +45,6 @@ legality: commander
 1 Bitterblossom
 1 Nature's Lore
 1 Three Visits
-1 Urborg Elf
 1 Formidable Speaker
 1 Urza's Incubator
 1 Elven Chorus
@@ -54,7 +54,7 @@ legality: commander
 ```
 
 *Source: `maralen-fae/07 Assets/sideboard.md`*
-*Last synced: 2026-09-07 (sleeved cuts)*
+*Last synced: 2026-09-10 (Urborg Elf sleeved)*
 
 ---
 
@@ -202,13 +202,13 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
-> [!info] **`mtg:Urborg Elf`**
-> **85** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:85%"></div></div>
+> [!info] **`mtg:Fyndhorn Elves`**
+> **88** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> [[02 Cards/Creatures/Urborg Elf|Open local page →]]
+> [[02 Cards/Creatures/Fyndhorn Elves|Open local page →]]
 >
-> *Stay in sideboard / wishlist — not purchased.*
+> *Cut 10/09/2026 for Urborg Elf. Owned extra — one-mana {G} dork, Llanowar/Mystic/Arbor still in the 100.*
 
 > [!info] **`mtg:Formidable Speaker`**
 > **87** / 100 · ⚪ Wishlist

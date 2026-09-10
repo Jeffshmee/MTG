@@ -2,10 +2,11 @@
 
 Copies in **Kykar**.
 
-**100** copies · **88** names.
+**100** copies · **89** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Azorius Chancery`**](https://scryfall.com/card/dsc/261) | [[02 Cards/Lands/Azorius Chancery\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 |
 | [**`mtg:Azorius Guildgate`**](https://scryfall.com/card/fdn/683) | [[02 Cards/Lands/Azorius Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
 | [**`mtg:Command Tower`**](https://scryfall.com/card/m3c/331) | [[02 Cards/Lands/Command Tower\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.84 |
 | [**`mtg:Demolition Field`**](https://scryfall.com/card/fdn/687) | [[02 Cards/Lands/Demolition Field\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.22 |
@@ -14,7 +15,7 @@ Copies in **Kykar**.
 | [**`mtg:Hallowed Fountain`**](https://scryfall.com/card/ecl/265) | [[02 Cards/Lands/Hallowed Fountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 6.78 |
 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 9 | 2.00 |
 | [**`mtg:Mystic Sanctuary`**](https://scryfall.com/card/soc/388) | [[02 Cards/Lands/Mystic Sanctuary\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.97 |
-| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 5 | 1.15 |
+| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 1.05 |
 | [**`mtg:Port Town`**](https://scryfall.com/card/who/294) | [[02 Cards/Lands/Port Town\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.37 |
 | [**`mtg:Prairie Stream`**](https://scryfall.com/card/who/295) | [[02 Cards/Lands/Prairie Stream\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.22 |
 | [**`mtg:Temple of Enlightenment`**](https://scryfall.com/card/eoc/186) | [[02 Cards/Lands/Temple of Enlightenment\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
@@ -46,7 +47,7 @@ Copies in **Kykar**.
 | [**`mtg:Lofty Denial`**](https://scryfall.com/card/m21/56) | [[02 Cards/Instants/Lofty Denial\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |
 | [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.62 |
 | [**`mtg:Snap`**](https://scryfall.com/card/dds/10) | [[02 Cards/Instants/Snap\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.33 |
-| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/prm/86132) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.00 |
+| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/fdn/355) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.00 |
 | [**`mtg:Sygg, Wanderwine Wisdom`**](https://scryfall.com/card/ecl/76) | [[02 Cards/Creatures/Sygg, Wanderwine Wisdom\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
 | [**`mtg:Talisman of Progress`**](https://scryfall.com/card/msc/221) | [[02 Cards/Artifacts/Talisman of Progress\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
 | [**`mtg:Think Twice`**](https://scryfall.com/card/tdc/168) | [[02 Cards/Instants/Think Twice\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |

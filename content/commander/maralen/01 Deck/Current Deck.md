@@ -14,7 +14,7 @@ legality: commander
 1 Arbor Elf
 1 Elves of Deep Shadow
 1 Elvish Mystic
-1 Fyndhorn Elves
+1 Urborg Elf
 1 Llanowar Elves
 1 Virulent Emissary
 1 Bitterbloom Bearer
@@ -119,7 +119,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Arbor Elf|Arbor Elf]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Elvish Mystic|Elvish Mystic]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
-- [[02 Cards/Creatures/Fyndhorn Elves|Fyndhorn Elves]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
+- [[02 Cards/Creatures/Urborg Elf|Urborg Elf]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>

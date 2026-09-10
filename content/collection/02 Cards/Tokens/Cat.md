@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 10/09/2026 | arrival extra |
 
 </div>
 
@@ -38,13 +38,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>4</div>
+<div class="synergy-score-num"><span>Copies</span>5</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations Tokens (<code>TFDN</code>)</td><td>1</td><td>—</td><td>1</td><td>Box</td><td>0.26</td></tr>
-<tr><td>Secrets of Strixhaven Commander Tokens (<code>TSOC</code>)</td><td>2</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
+<tr><td>Secrets of Strixhaven Commander Tokens (<code>TSOC</code>)</td><td>2</td><td>—</td><td>2</td><td>Box</td><td>—</td></tr>
 <tr><td>Foundations Tokens (<code>TFDN</code>)</td><td>27</td><td>—</td><td>2</td><td>Box</td><td>0.21</td></tr>
 </tbody>
 </table>
@@ -61,12 +61,12 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>TFDN 27 · ×2</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/2/8/2885d54c-9fb2-4f01-8937-54f8ac1ce5bc.jpg" alt="Cat TFDN 1 · ×1">
-<figcaption>TFDN 1 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/7/d/7d400b41-813d-4a63-848f-5eb4db4bf3bb.jpg" alt="Cat TSOC 2 · ×2">
+<figcaption>TSOC 2 · ×2</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/7/d/7d400b41-813d-4a63-848f-5eb4db4bf3bb.jpg" alt="Cat TSOC 2 · ×1">
-<figcaption>TSOC 2 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/2/8/2885d54c-9fb2-4f01-8937-54f8ac1ce5bc.jpg" alt="Cat TFDN 1 · ×1">
+<figcaption>TFDN 1 · ×1</figcaption>
 </figure>
 </div>
 
@@ -85,7 +85,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Creature — Cat"
 > scryfall_id: 86701490-17ac-4253-810d-6cfd7a46594c
-> quantity: 4
+> quantity: 5
 > tags:
 >   - card
 >   - cat

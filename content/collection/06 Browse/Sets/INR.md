@@ -2,10 +2,11 @@
 
 Set `INR`. Qty here is copies of this name from this set.
 
-**6** copies · **6** names.
+**7** copies · **7** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Westvale Abbey`**](https://scryfall.com/card/inr/287) | [[02 Cards/Lands/Westvale Abbey\|PAGE]] | — | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Land\|Land]] — [[04 Creature Types/Demon\|Demon]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 1.46 |
 | [**`mtg:Cathar Commando`**](https://scryfall.com/card/inr/15) | [[02 Cards/Creatures/Cathar Commando\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Crusader of Odric`**](https://scryfall.com/card/inr/18) | [[02 Cards/Creatures/Crusader of Odric\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Imprisoned in the Moon`**](https://scryfall.com/card/inr/69) | [[02 Cards/Enchantments/Imprisoned in the Moon\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |

@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**347** copies · **107** names.
+**367** copies · **122** names.
 
 ```decklist
 group: auto
@@ -10,15 +10,19 @@ legality: commander
 
 # Creatures
 1 Glasspool Mimic // Glasspool Shore
+1 Westvale Abbey // Ormendahl, Profane Prince
 
 # Lands
+1 Abandoned Air Temple
 1 Adventurer's Inn
+1 Animal Sanctuary
+1 Azorius Chancery
 1 Azorius Guildgate
 1 Battlefield Forge
 1 Blood Crypt
 3 Bloodfell Caves
 3 Blossoming Sands
-1 Bojuka Bog
+2 Bojuka Bog
 1 Boros Guildgate
 1 Breeding Pool
 1 Canyon Slough
@@ -39,16 +43,20 @@ legality: commander
 2 Elvenking's Halls
 3 Evolving Wilds
 1 Exotic Orchard
+1 Fabled Passage
 1 Fetid Heath
 4 Fields of Strife
 1 Floodfarm Verge
 41 Forest
+1 Fortified Village
 3 Forum of Amity
 1 Glacial Fortress
-2 Goblin-town
+3 Goblin-town
 1 Godless Shrine
 1 Golgari Guildgate
+1 Graypelt Refuge
 1 Gruul Guildgate
+1 Hall of Heliod's Generosity
 1 Hallowed Fountain
 1 Hedge Maze
 1 Hidden Grotto
@@ -58,6 +66,7 @@ legality: commander
 1 Isolated Chapel
 1 Izzet Guildgate
 4 Jungle Hollow
+1 Krosan Verge
 1 Maze's End
 1 Meditation Pools
 1 Mirkwood
@@ -74,19 +83,23 @@ legality: commander
 31 Plains
 1 Port Town
 1 Prairie Stream
+1 Radiant Fountain
 1 Rakdos Guildgate
-1 Rogue's Passage
+1 Restless Fortress
+2 Rogue's Passage
 4 Rugged Highlands
 1 Rumble Arena
 1 Sacred Foundry
 1 Savage Lands
 1 Savai Triome
 3 Scoured Barrens
-1 Secluded Courtyard
+2 Secluded Courtyard
 1 Secluded Glen
 1 Secret Tunnel
 1 Selesnya Guildgate
+1 Selesnya Sanctuary
 1 Shadowy Backstreet
+1 Shambling Vent
 1 Shattered Landscape
 2 Shattered Sanctum
 1 Simic Guildgate
@@ -96,6 +109,8 @@ legality: commander
 1 Sundown Pass
 41 Swamp
 3 Swiftwater Cliffs
+1 Takenuma, Abandoned Mire
+1 Temple Garden
 1 Temple of Abandon
 1 Temple of Deceit
 1 Temple of Enlightenment
@@ -112,7 +127,7 @@ legality: commander
 1 Three Tree City
 4 Titan's Grave
 4 Tranquil Cove
-1 Vault of the Archangel
+2 Vault of the Archangel
 1 Wastewood Verge
 1 Watery Grave
 4 Wind-Scarred Crag

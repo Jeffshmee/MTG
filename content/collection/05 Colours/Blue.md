@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**257** copies · **198** names.
+**258** copies · **198** names.
 
 ```decklist
 group: auto
@@ -126,7 +126,7 @@ legality: commander
 1 Call to Heel
 3 Chase Inspiration
 1 Confounding Riddle
-1 Confusticate and Bebother
+2 Confusticate and Bebother
 2 Counterspell
 2 Deduce
 1 Disdainful Stroke

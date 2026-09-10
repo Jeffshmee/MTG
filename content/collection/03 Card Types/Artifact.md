@@ -2,7 +2,7 @@
 
 Card type: Artifact.
 
-**136** copies · **103** names.
+**139** copies · **105** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -56,7 +56,7 @@ Card type: Artifact.
 | [**`mtg:Sorcerous Spyglass`**](https://scryfall.com/card/tsr/401) | [[02 Cards/Artifacts/Sorcerous Spyglass\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.19 |
 | [**`mtg:Stalactite Dagger`**](https://scryfall.com/card/ecl/261) | [[02 Cards/Artifacts/Stalactite Dagger\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Stormbeacon Blade`**](https://scryfall.com/card/tdm/27) | [[02 Cards/Artifacts/Stormbeacon Blade\|PAGE]] | {1}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
-| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/prm/86132) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.00 |
+| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/fdn/355) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 2.14 |
 | [**`mtg:Talisman of Conviction`**](https://scryfall.com/card/tdc/329) | [[02 Cards/Artifacts/Talisman of Conviction\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.38 |
 | [**`mtg:Talisman of Hierarchy`**](https://scryfall.com/card/soc/358) | [[02 Cards/Artifacts/Talisman of Hierarchy\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.66 |
 | [**`mtg:Talisman of Progress`**](https://scryfall.com/card/msc/221) | [[02 Cards/Artifacts/Talisman of Progress\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
@@ -92,6 +92,7 @@ Card type: Artifact.
 | [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 10.47 |
 | [**`mtg:Resonating Lute`**](https://scryfall.com/card/sos/221) | [[02 Cards/Artifacts/Resonating Lute\|PAGE]] | {2}{U}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.27 |
 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
+| [**`mtg:Well of Lost Dreams`**](https://scryfall.com/card/ltc/291) | [[02 Cards/Artifacts/Well of Lost Dreams\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.37 |
 | [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | {2}{W}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
 | [**`mtg:Boulderborn Dragon`**](https://scryfall.com/card/tdm/239) | [[02 Cards/Creatures/Boulderborn Dragon\|PAGE]] | {5} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.13 |
@@ -107,5 +108,6 @@ Card type: Artifact.
 | [**`mtg:Thundering Broodwagon`**](https://scryfall.com/card/dft/225) | [[02 Cards/Artifacts/Thundering Broodwagon\|PAGE]] | {2}{B}{B}{G}{G} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
 | [**`mtg:Meteor Golem`**](https://scryfall.com/card/fdn/256) | [[02 Cards/Creatures/Meteor Golem\|PAGE]] | {7} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.06 |
 | [**`mtg:Myr Battlesphere`**](https://scryfall.com/card/tdc/322) | [[02 Cards/Creatures/Myr Battlesphere\|PAGE]] | {7} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Myr\|Myr]] [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.16 |
+| [**`mtg:Sandstone Oracle`**](https://scryfall.com/card/cmr/336) | [[02 Cards/Creatures/Sandstone Oracle\|PAGE]] | {7} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Sphinx\|Sphinx]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.13 |
 | [**`mtg:Gate Colossus`**](https://scryfall.com/card/fdn/675) | [[02 Cards/Creatures/Gate Colossus\|PAGE]] | {8} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 1 | 0.05 |
 | [**`mtg:Darksteel Colossus`**](https://scryfall.com/card/fdn/671) | [[02 Cards/Creatures/Darksteel Colossus\|PAGE]] | {11} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (11)\|11]] | 1 | 0.93 |

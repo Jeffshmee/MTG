@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Urborg Elf`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 1/1  
@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-Urborg Elf is the two-mana Sultai fixer. He is an Elf, so he mills and counts for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]], and {T} makes {B}, {G}, or {U} — the colours this list actually spends. [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] and [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] are the {B}{B} cards that currently wait on Watery Grave; this dork is the off-land answer. Not in the owned list yet.
+Urborg Elf is the two-mana Sultai fixer. He is an Elf, so he mills and counts for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]], and {T} makes {B}, {G}, or {U} — the colours this list actually spends. [[02 Cards/Sorceries/Sign in Blood|Sign in Blood]] and [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] are the {B}{B} cards that currently wait on Watery Grave; this dork is the off-land answer. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,7 @@ Urborg Elf is the two-mana Sultai fixer. He is an Elf, so he mills and counts fo
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet.
+- In hand on the sideboard. Not in the 100 until a named cut.
 - Two mana, not one. [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]] still curve better if you only need green.
 - Does not add a land drop. Do not treat him as a dual.
 
@@ -89,7 +89,7 @@ Urborg Elf is the two-mana Sultai fixer. He is an Elf, so he mills and counts fo
 > colors: [G]
 > color_identity: [B, G, U]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 90

@@ -174,9 +174,13 @@ function pickSlug(name: string, currentSlug: FullSlug | undefined, index: Map<st
       ? "zurgo/"
       : currentSlug?.includes("kykar/")
         ? "kykar/"
-        : currentSlug?.includes("collection/")
-          ? "collection/"
-          : ""
+        : currentSlug?.includes("ayli/")
+          ? "ayli/"
+          : currentSlug?.includes("arahbo/")
+            ? "arahbo/"
+            : currentSlug?.includes("collection/")
+              ? "collection/"
+              : ""
   const match = slugs.find((s) => (key ? s.includes(key) : true))
   return match ?? slugs[0]
 }

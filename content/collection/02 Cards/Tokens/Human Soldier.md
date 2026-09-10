@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 10/09/2026 | arrival extra |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>5</div>
+<div class="synergy-score-num"><span>Copies</span>8</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>2</td><td>—</td><td>5</td><td>Box</td><td>—</td></tr>
+<tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>2</td><td>—</td><td>7</td><td>Box</td><td>—</td></tr>
+<tr><td>Ikoria: Lair of Behemoths Tokens (<code>TIKO</code>)</td><td>5</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,14 +57,18 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/6/0/6007af81-4541-4b55-90ea-03d365362ae5.jpg" alt="Human Soldier THOB 2 · ×5">
-<figcaption>THOB 2 · ×5</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/6/0/6007af81-4541-4b55-90ea-03d365362ae5.jpg" alt="Human Soldier THOB 2 · ×7">
+<figcaption>THOB 2 · ×7</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/e/4/e406949f-c629-48fa-9fb0-ba6191054d35.jpg" alt="Human Soldier TIKO 5 · ×1">
+<figcaption>TIKO 5 · ×1</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/THOB|The Hobbit Tokens]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/THOB|The Hobbit Tokens]] · [[06 Browse/Sets/TIKO|Ikoria: Lair of Behemoths Tokens]]
 
 ---
 
@@ -75,7 +81,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Creature — Human Soldier"
 > scryfall_id: 6007af81-4541-4b55-90ea-03d365362ae5
-> quantity: 5
+> quantity: 8
 > tags:
 >   - card
 >   - collection

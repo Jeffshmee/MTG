@@ -2,10 +2,11 @@
 
 Set `BLB`. Qty here is copies of this name from this set.
 
-**41** copies · **41** names.
+**42** copies · **42** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Fabled Passage`**](https://scryfall.com/card/blb/252) | [[02 Cards/Lands/Fabled Passage\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 2.07 |
 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.23 |
 | [**`mtg:Hidden Grotto`**](https://scryfall.com/card/blb/254) | [[02 Cards/Lands/Hidden Grotto\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.13 |
 | [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.21 |

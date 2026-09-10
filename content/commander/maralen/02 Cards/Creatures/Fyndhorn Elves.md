@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Fyndhorn Elves`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 1/1  
@@ -90,7 +90,7 @@ Fyndhorn Elves is a second copy of the Llanowar job: {G} on turn 1 so [[02 Cards
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 84
 >   deck_specific: 90

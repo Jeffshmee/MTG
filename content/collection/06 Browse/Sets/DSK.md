@@ -2,7 +2,7 @@
 
 Set `DSK`. Qty here is copies of this name from this set.
 
-**29** copies · **29** names.
+**30** copies · **30** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -21,6 +21,7 @@ Set `DSK`. Qty here is copies of this name from this set.
 | [**`mtg:Commune with Evil`**](https://scryfall.com/card/dsk/87) | [[02 Cards/Sorceries/Commune with Evil\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
 | [**`mtg:Cult Healer`**](https://scryfall.com/card/dsk/2) | [[02 Cards/Creatures/Cult Healer\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Doctor\|Doctor]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Haunted Screen`**](https://scryfall.com/card/dsk/250) | [[02 Cards/Artifacts/Haunted Screen\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
+| [**`mtg:Split Up`**](https://scryfall.com/card/dsk/32) | [[02 Cards/Sorceries/Split Up\|PAGE]] | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.60 |
 | [**`mtg:Trapped in the Screen`**](https://scryfall.com/card/dsk/36) | [[02 Cards/Enchantments/Trapped in the Screen\|PAGE]] | {2}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Twist Reality`**](https://scryfall.com/card/dsk/77) | [[02 Cards/Instants/Twist Reality\|PAGE]] | {1}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Vengeful Possession`**](https://scryfall.com/card/dsk/162) | [[02 Cards/Sorceries/Vengeful Possession\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |

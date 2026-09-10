@@ -2,7 +2,7 @@
 
 Set `ECL`. Qty here is copies of this name from this set.
 
-**111** copies · **79** names.
+**112** copies · **80** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,6 +13,7 @@ Set `ECL`. Qty here is copies of this name from this set.
 | [**`mtg:Overgrown Tomb`**](https://scryfall.com/card/ecl/266) | [[02 Cards/Lands/Overgrown Tomb\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Swamp\|Swamp]] [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.39 |
 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.21 |
 | [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.27 |
+| [**`mtg:Temple Garden`**](https://scryfall.com/card/ecl/268) | [[02 Cards/Lands/Temple Garden\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Forest\|Forest]] [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 6.41 |
 | [**`mtg:Dawn-Blessed Pennant`**](https://scryfall.com/card/ecl/254) | [[02 Cards/Artifacts/Dawn-Blessed Pennant\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.60 |
 | [**`mtg:Figure of Fable`**](https://scryfall.com/card/ecl/224) | [[02 Cards/Creatures/Figure of Fable\|PAGE]] | {G/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kithkin\|Kithkin]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.36 |
 | [**`mtg:Soulbright Seeker`**](https://scryfall.com/card/ecl/157) | [[02 Cards/Creatures/Soulbright Seeker\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.04 |

@@ -31,6 +31,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 10/09/2026 | arrival extra |
 
 </div>
 
@@ -39,13 +40,14 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>183</td><td>—</td><td>1</td><td>Zurgo SB</td><td>0.06</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>183</td><td>—</td><td>1</td><td>Box</td><td>0.04</td></tr>
+<tr><td>The Hobbit (<code>HOB</code>)</td><td>183</td><td>foil</td><td>1</td><td>Box</td><td>0.08</td></tr>
 </tbody>
 </table>
 </div>
@@ -61,14 +63,14 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/d/7/d76df9d0-56cf-4351-a5e8-e6ae6fc791d1.jpg" alt="Goblin-town HOB 183 · ×2">
-<figcaption>HOB 183 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/d/7/d76df9d0-56cf-4351-a5e8-e6ae6fc791d1.jpg" alt="Goblin-town HOB 183 · ×3">
+<figcaption>HOB 183 · ×3</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo SB]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/HOB|The Hobbit]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Zurgo Deck/Zurgo SB|Zurgo SB]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/HOB|The Hobbit]]
 
 ---
 
@@ -81,7 +83,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Land"
 > scryfall_id: d76df9d0-56cf-4351-a5e8-e6ae6fc791d1
-> quantity: 2
+> quantity: 3
 > tags:
 >   - card
 >   - collection

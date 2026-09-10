@@ -2,7 +2,7 @@
 
 Card type: Enchantment.
 
-**90** copies · **80** names.
+**91** copies · **80** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -30,7 +30,7 @@ Card type: Enchantment.
 | [**`mtg:Super-Soldier Serum`**](https://scryfall.com/card/msh/38) | [[02 Cards/Enchantments/Super-Soldier Serum\|PAGE]] | {1}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.61 |
 | [**`mtg:Airtight Alibi`**](https://scryfall.com/card/mkm/149) | [[02 Cards/Enchantments/Airtight Alibi\|PAGE]] | {2}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Banishing Light`**](https://scryfall.com/card/fdn/138) | [[02 Cards/Enchantments/Banishing Light\|PAGE]] | {2}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
-| [**`mtg:Bastion of Remembrance`**](https://scryfall.com/card/tdc/171) | [[02 Cards/Enchantments/Bastion of Remembrance\|PAGE]] | {2}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.39 |
+| [**`mtg:Bastion of Remembrance`**](https://scryfall.com/card/tdc/171) | [[02 Cards/Enchantments/Bastion of Remembrance\|PAGE]] | {2}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.78 |
 | [**`mtg:Boggart Mischief`**](https://scryfall.com/card/ecl/92) | [[02 Cards/Enchantments/Boggart Mischief\|PAGE]] | {2}{B} | [[03 Card Types/Enchantment\|Enchantment]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Goblin\|Goblin]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Dictate of Kruphix`**](https://scryfall.com/card/fdn/587) | [[02 Cards/Enchantments/Dictate of Kruphix\|PAGE]] | {1}{U}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.42 |
 | [**`mtg:Down, Down to Goblin-town`**](https://scryfall.com/card/hob/65) | [[02 Cards/Enchantments/Down, Down to Goblin-town\|PAGE]] | {2}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.15 |

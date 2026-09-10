@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**250** copies · **164** names.
+**251** copies · **165** names.
 
 ```decklist
 group: auto
@@ -106,6 +106,7 @@ legality: commander
 1 Treetop Sentries
 1 Treetop Snarespinner
 1 Undergrowth Leopard
+1 Urborg Elf
 1 Vastlands Scavenger // Bind to Life
 1 Venom Connoisseur
 4 Virulent Emissary

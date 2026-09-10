@@ -2,7 +2,7 @@
 
 Mono-black cards ({B} only). Lands and tokens are listed separately.
 
-**210** copies · **157** names.
+**215** copies · **161** names.
 
 ```decklist
 group: auto
@@ -70,6 +70,7 @@ legality: commander
 1 Ozox, the Clattering King
 1 Persuasive Interrogators
 2 Poisoner's Apprentice
+1 Priest of Forgotten Gods
 1 Pulse Tracker
 2 Purging Stormbrood // Absorb Essence
 1 Ravening Warg
@@ -94,6 +95,7 @@ legality: commander
 5 Vengeful Bloodwitch
 1 Vile Entomber
 1 Viscera Seer
+1 Vito, Thorn of the Dusk Rose
 1 Yahenni, Undying Partisan
 
 # Instants
@@ -125,6 +127,7 @@ legality: commander
 2 Stab
 1 Tribute to Hunger
 1 Undying Malice
+1 Village Rites
 1 Wail of War
 3 Wander Off
 1 Winter's Intervention
@@ -154,11 +157,12 @@ legality: commander
 1 Sign in Blood
 2 Stargaze
 1 Stir Up Trouble
+1 Toxic Deluge
 2 Worthy Cost
 2 Zombify
 
 # Enchantments
-1 Bastion of Remembrance
+2 Bastion of Remembrance
 1 Boggart Mischief
 1 Demonic Pact
 2 Down, Down to Goblin-town

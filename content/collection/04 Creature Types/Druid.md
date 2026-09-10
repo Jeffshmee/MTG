@@ -2,7 +2,7 @@
 
 Creature type: Druid.
 
-**69** copies · **45** names.
+**70** copies · **46** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -23,6 +23,7 @@ Creature type: Druid.
 | [**`mtg:Mindful Biomancer`**](https://scryfall.com/card/sos/154) | [[02 Cards/Creatures/Mindful Biomancer\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dryad\|Dryad]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 0.12 |
 | [**`mtg:Priest of Titania`**](https://scryfall.com/card/mh3/286) | [[02 Cards/Creatures/Priest of Titania\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.82 |
 | [**`mtg:Three Tree Rootweaver`**](https://scryfall.com/card/blb/198) | [[02 Cards/Creatures/Three Tree Rootweaver\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Mole\|Mole]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
+| [**`mtg:Urborg Elf`**](https://scryfall.com/card/apc/90) | [[02 Cards/Creatures/Urborg Elf\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Venom Connoisseur`**](https://scryfall.com/card/fdn/648) | [[02 Cards/Creatures/Venom Connoisseur\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
 | [**`mtg:Vinereap Mentor`**](https://scryfall.com/card/blb/238) | [[02 Cards/Creatures/Vinereap Mentor\|PAGE]] | {B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Squirrel\|Squirrel]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
 | [**`mtg:Wary Thespian`**](https://scryfall.com/card/fdn/235) | [[02 Cards/Creatures/Wary Thespian\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |

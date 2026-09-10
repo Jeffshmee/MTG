@@ -2,19 +2,19 @@
 
 Set `SOC`. Qty here is copies of this name from this set.
 
-**32** copies · **28** names.
+**34** copies · **29** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Battlefield Forge`**](https://scryfall.com/card/soc/362) | [[02 Cards/Lands/Battlefield Forge\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.33 |
-| [**`mtg:Bojuka Bog`**](https://scryfall.com/card/soc/363) | [[02 Cards/Lands/Bojuka Bog\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 1.35 |
+| [**`mtg:Bojuka Bog`**](https://scryfall.com/card/soc/363) | [[02 Cards/Lands/Bojuka Bog\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 2.71 |
 | [**`mtg:Caves of Koilos`**](https://scryfall.com/card/soc/365) | [[02 Cards/Lands/Caves of Koilos\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.82 |
 | [**`mtg:Clifftop Retreat`**](https://scryfall.com/card/soc/366) | [[02 Cards/Lands/Clifftop Retreat\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.31 |
 | [**`mtg:Fetid Heath`**](https://scryfall.com/card/soc/372) | [[02 Cards/Lands/Fetid Heath\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.49 |
 | [**`mtg:Isolated Chapel`**](https://scryfall.com/card/soc/382) | [[02 Cards/Lands/Isolated Chapel\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.44 |
 | [**`mtg:Mystic Sanctuary`**](https://scryfall.com/card/soc/388) | [[02 Cards/Lands/Mystic Sanctuary\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.97 |
 | [**`mtg:Path of Ancestry`**](https://scryfall.com/card/fic/411) | [[02 Cards/Lands/Path of Ancestry\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.12 |
-| [**`mtg:Rogue's Passage`**](https://scryfall.com/card/soc/400) | [[02 Cards/Lands/Rogue's Passage\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.42 |
+| [**`mtg:Rogue's Passage`**](https://scryfall.com/card/ltc/326) | [[02 Cards/Lands/Rogue's Passage\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.42 |
 | [**`mtg:Temple of Epiphany`**](https://scryfall.com/card/soc/412) | [[02 Cards/Lands/Temple of Epiphany\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.23 |
 | [**`mtg:Temple of Malady`**](https://scryfall.com/card/soc/413) | [[02 Cards/Lands/Temple of Malady\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |
 | [**`mtg:Temple of Mystery`**](https://scryfall.com/card/soc/414) | [[02 Cards/Lands/Temple of Mystery\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 |
@@ -25,6 +25,7 @@ Set `SOC`. Qty here is copies of this name from this set.
 | [**`mtg:Viscera Seer`**](https://scryfall.com/card/soc/229) | [[02 Cards/Creatures/Viscera Seer\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.51 |
 | [**`mtg:Abrade`**](https://scryfall.com/card/soa/37) | [[02 Cards/Instants/Abrade\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
 | [**`mtg:Deadly Brew`**](https://scryfall.com/card/soc/303) | [[02 Cards/Sorceries/Deadly Brew\|PAGE]] | {B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
+| [**`mtg:Priest of Forgotten Gods`**](https://scryfall.com/card/soc/225) | [[02 Cards/Creatures/Priest of Forgotten Gods\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.69 |
 | [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.62 |
 | [**`mtg:Talisman of Hierarchy`**](https://scryfall.com/card/soc/358) | [[02 Cards/Artifacts/Talisman of Hierarchy\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.66 |
 | [**`mtg:Morbid Opportunist`**](https://scryfall.com/card/soc/219) | [[02 Cards/Creatures/Morbid Opportunist\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.22 |

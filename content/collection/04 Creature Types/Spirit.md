@@ -2,12 +2,13 @@
 
 Creature type: Spirit.
 
-**29** copies · **17** names.
+**30** copies · **18** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/164) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 5 | 0.63 |
 | [**`mtg:Bogwater Lumaret`**](https://scryfall.com/card/sos/177) | [[02 Cards/Creatures/Bogwater Lumaret\|PAGE]] | {B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Frog\|Frog]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.33 |
+| [**`mtg:Karlov of the Ghost Council`**](https://scryfall.com/card/rvr/193) | [[02 Cards/Creatures/Karlov of the Ghost Council\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 9.49 |
 | [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.62 |
 | [**`mtg:Spirit Mascot`**](https://scryfall.com/card/sos/230) | [[02 Cards/Creatures/Spirit Mascot\|PAGE]] | {R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Ox\|Ox]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.21 |
 | [**`mtg:Stone Docent`**](https://scryfall.com/card/sos/36) | [[02 Cards/Creatures/Stone Docent\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Chimera\|Chimera]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.09 |

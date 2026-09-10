@@ -20,7 +20,7 @@
 | **Land type** | [[06 Browse/Land Types/Duals\|Duals]] |
 | **Colour** | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -30,7 +30,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 10/09/2026 | MageCards · Shaunila |
 
 </div>
 
@@ -39,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>410</td><td>—</td><td>1</td><td>Zurgo</td><td>1.31</td></tr>
+<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>410</td><td>—</td><td>1</td><td>Ayli</td><td>1.61</td></tr>
 </tbody>
 </table>
 </div>
@@ -53,6 +54,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -60,14 +62,14 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/8/f/8f203f04-bd73-4d88-bb5e-aab63507dbd1.jpg" alt="Vault of the Archangel TDC 410 · ×1">
-<figcaption>TDC 410 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/8/f/8f203f04-bd73-4d88-bb5e-aab63507dbd1.jpg" alt="Vault of the Archangel TDC 410 · ×2">
+<figcaption>TDC 410 · ×2</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Duals|Duals]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
 
 ---
 
@@ -80,7 +82,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Land"
 > scryfall_id: 8f203f04-bd73-4d88-bb5e-aab63507dbd1
-> quantity: 1
+> quantity: 2
 > tags:
 >   - card
 >   - collection

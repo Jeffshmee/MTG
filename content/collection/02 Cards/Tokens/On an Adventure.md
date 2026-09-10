@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 10/09/2026 | arrival extra |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>15</td><td>—</td><td>2</td><td>Box</td><td>—</td></tr>
+<tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>15</td><td>—</td><td>3</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/5/e/5e289bb3-f6de-450d-9f7e-77e2e70cb7cc.jpg" alt="On an Adventure THOB 15 · ×2">
-<figcaption>THOB 15 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/5/e/5e289bb3-f6de-450d-9f7e-77e2e70cb7cc.jpg" alt="On an Adventure THOB 15 · ×3">
+<figcaption>THOB 15 · ×3</figcaption>
 </figure>
 </div>
 
@@ -75,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token"
 > scryfall_id: 5e289bb3-f6de-450d-9f7e-77e2e70cb7cc
-> quantity: 2
+> quantity: 3
 > tags:
 >   - card
 >   - collection

@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**263** copies · **193** names.
+**270** copies · **200** names.
 
 ```decklist
 group: auto
@@ -18,12 +18,14 @@ legality: commander
 1 Ayli, Eternal Pilgrim
 1 Aziza, Mage Tower Captain
 1 Bard, King of Dale
+1 Bartolomé del Presidio
 1 Bifur, Melodic Rider
 1 Bloodbraid Elf
 2 Boggart Cursecrafter
 3 Bogwater Lumaret
 1 Bolg of the North
 1 Bone-Cairn Butcher
+1 Bronzehide Lion
 1 Caesar, Legion's Emperor
 2 Chaos Spewer
 1 Chitinous Graspling
@@ -47,6 +49,7 @@ legality: commander
 1 Feisty Spikeling
 1 Fiendish Panda
 2 Figure of Fable
+1 Fleecemane Lion
 3 Fractal Mascot
 2 Fractal Tender
 2 Gadget Technician
@@ -67,6 +70,7 @@ legality: commander
 1 Jeskai Shrinekeeper
 1 Junkblade Bruiser
 1 Kambal, Profiteering Mayor
+1 Karlov of the Ghost Council
 1 Katara, the Fearless
 2 Kirol, History Buff // Pack a Punch
 1 Kykar, Zephyr Awakener
@@ -109,6 +113,7 @@ legality: commander
 2 Smaug, Wicked Worm
 1 Snooping Page
 1 Soulherder
+1 Sovereign Okinec Ahau
 1 Spectacular Skywhale
 1 Spider Manifestation
 3 Spirit Mascot
@@ -146,7 +151,9 @@ legality: commander
 1 Kaya, Spirits' Justice
 
 # Instants
+1 Anguished Unmaking
 1 Assassin's Trophy
+1 Despark
 1 Dina's Guidance
 3 Embrace the Paradox
 1 Hustle // Bustle

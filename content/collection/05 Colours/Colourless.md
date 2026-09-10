@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**116** copies · **81** names.
+**119** copies · **83** names.
 
 ```decklist
 group: auto
@@ -30,6 +30,7 @@ legality: commander
 1 Ramos, Dragon Engine
 4 Rancorous Archaic
 1 Rooftop Percher
+1 Sandstone Oracle
 1 Sanitation Automaton
 1 Skyscanner
 1 Solemn Simulacrum
@@ -91,10 +92,11 @@ legality: commander
 1 Soul-Guide Lantern
 1 Stalactite Dagger
 2 Strixhaven Skycoach
-1 Swiftfoot Boots
+2 Swiftfoot Boots
 1 Talisman of Conviction
 1 Talisman of Hierarchy
 1 Talisman of Progress
 1 Wayfarer's Bauble
+1 Well of Lost Dreams
 
 ```

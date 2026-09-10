@@ -103,7 +103,8 @@ legality: commander
 1 Hallowed Fountain
 9 Island
 1 Mystic Sanctuary
-5 Plains
+4 Plains
+1 Azorius Chancery
 1 Port Town
 1 Temple of Enlightenment
 1 Prairie Stream
@@ -113,7 +114,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-09 (sleeved 100)*
+*Last synced: 2026-09-10 (sleeved 100)*
 
 ---
 
@@ -216,6 +217,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
 - [[02 Cards/Lands/Mystic Sanctuary|Mystic Sanctuary]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
+- [[02 Cards/Lands/Azorius Chancery|Azorius Chancery]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>
 - [[02 Cards/Lands/Temple of Enlightenment|Temple of Enlightenment]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Prairie Stream|Prairie Stream]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>

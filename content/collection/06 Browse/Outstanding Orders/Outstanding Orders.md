@@ -2,7 +2,7 @@
 
 Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **seller**. Edit `08 Assets/outstanding-orders.csv` and rebuild. PAGE is the collection page when a copy is already owned. Purchase price is unit GBP from the order (item price, not postage).
 
-**189** copies · **183** names · **40** sellers · **£813.27**.
+**279** copies · **176** names · **36** sellers · **£864.13**.
 
 ## Contents
 
@@ -17,37 +17,33 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | MageCards | [[#MageCards · danjnisbe\|danjnisbe]] | 4 | 4 | 6.65 |
 | MageCards | [[#MageCards · ToastedPax\|ToastedPax]] | 4 | 4 | 6.95 |
 | MageCards | [[#MageCards · Axion_Now\|Axion_Now]] | 16 | 16 | 110.56 |
-| MageCards | [[#MageCards · Sebizzle\|Sebizzle]] | 2 | 2 | 0.33 |
 | MageCards | [[#MageCards · nikobattistini\|nikobattistini]] | 1 | 1 | 7.00 |
 | MageCards | [[#MageCards · TwoSixKay\|TwoSixKay]] | 2 | 2 | 2.80 |
-| MageCards | [[#MageCards · tanywan\|tanywan]] | 1 | 1 | 1.03 |
 | MageCards | [[#MageCards · LvlUpGaming\|LvlUpGaming]] | 12 | 11 | 133.83 |
 | MageCards | [[#MageCards · ValeryVal\|ValeryVal]] | 1 | 1 | 0.12 |
-| MageCards | [[#MageCards · rah_wares\|rah_wares]] | 3 | 3 | 15.29 |
-| MageCards | [[#MageCards · TheGrumpyGoblin\|TheGrumpyGoblin]] | 4 | 4 | 32.84 |
+| MageCards | [[#MageCards · TheGrumpyGoblin\|TheGrumpyGoblin]] | 3 | 3 | 32.19 |
 | MageCards | [[#MageCards · revdeadso\|revdeadso]] | 1 | 1 | 2.00 |
 | MageCards | [[#MageCards · ryanbeauc\|ryanbeauc]] | 4 | 4 | 0.13 |
-| MageCards | [[#MageCards · AtomikSnowball\|AtomikSnowball]] | 2 | 2 | 10.30 |
-| MageCards | [[#MageCards · RSchlupp\|RSchlupp]] | 2 | 2 | 0.28 |
-| MageCards | [[#MageCards · Misanthropic1\|Misanthropic1]] | 7 | 7 | 13.82 |
 | MageCards | [[#MageCards · glennt202\|glennt202]] | 1 | 1 | 2.94 |
 | MageCards | [[#MageCards · SharpDogg\|SharpDogg]] | 2 | 2 | 8.00 |
 | MageCards | [[#MageCards · AndysCollectibles\|AndysCollectibles]] | 2 | 2 | 3.83 |
-| MageCards | [[#MageCards · Shaunila\|Shaunila]] | 8 | 8 | 13.96 |
 | MageCards | [[#MageCards · FundsForCardboard\|FundsForCardboard]] | 3 | 3 | 8.99 |
 | MageCards | [[#MageCards · Jackbd\|Jackbd]] | 1 | 1 | 10.52 |
-| MageCards | [[#MageCards · The_Arcane_Academy\|The_Arcane_Academy]] | 8 | 8 | 31.34 |
 | MageCards | [[#MageCards · Seventh_City\|Seventh_City]] | 2 | 1 | 71.02 |
-| Ebay | [[#Ebay · xjeegeex\|xjeegeex]] | 1 | 1 | 3.74 |
-| Ebay | [[#Ebay · londonmagictraders\|londonmagictraders]] | 1 | 1 | 4.48 |
-| Cardmarket | [[#Cardmarket · Recollect-Ltd\|Recollect-Ltd]] | 9 | 8 | 99.00 |
+| MageCards | [[#MageCards · tettron\|tettron]] | 10 | 10 | 19.27 |
+| MageCards | [[#MageCards · AtomikSnowball\|AtomikSnowball]] | 2 | 2 | 30.60 |
+| MageCards | [[#MageCards · StardustCards\|StardustCards]] | 5 | 5 | 28.34 |
+| Cardmarket | [[#Cardmarket · Recollect-Ltd\|Recollect-Ltd]] | 8 | 8 | 92.00 |
 | Cardmarket | [[#Cardmarket · Dice-and-Destiny\|Dice-and-Destiny]] | 2 | 2 | 6.52 |
-| Cardmarket | [[#Cardmarket · DiceandDumplings\|DiceandDumplings]] | 2 | 2 | 1.00 |
 | Cardmarket | [[#Cardmarket · webuyanycard\|webuyanycard]] | 17 | 17 | 79.75 |
-| Cardmarket | [[#Cardmarket · castlecards\|castlecards]] | 4 | 4 | 3.44 |
 | Cardmarket | [[#Cardmarket · CairneyCards\|CairneyCards]] | 4 | 4 | 9.00 |
 | Cardmarket | [[#Cardmarket · Katiewills\|Katiewills]] | 1 | 1 | 11.99 |
-| Cardmarket | [[#Cardmarket · Budgiecards\|Budgiecards]] | 3 | 3 | 12.14 |
+| Cardmarket | [[#Cardmarket · Budgiecards\|Budgiecards]] | 22 | 8 | 38.44 |
+| Cardmarket | [[#Cardmarket · Weird-Ginge\|Weird-Ginge]] | 15 | 5 | 1.57 |
+| Cardmarket | [[#Cardmarket · NuggetGaming\|NuggetGaming]] | 53 | 4 | 5.41 |
+| Cardmarket | [[#Cardmarket · LegendaryCardCo\|LegendaryCardCo]] | 10 | 2 | 1.60 |
+| Cardmarket | [[#Cardmarket · Nikolcia01\|Nikolcia01]] | 12 | 12 | 2.09 |
+| Cardmarket | [[#Cardmarket · Wideboi\|Wideboi]] | 7 | 7 | 42.34 |
 
 ## MageCards · Magic-R-us
 
@@ -186,15 +182,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | [**`mtg:Phyrexian Tower`**](https://scryfall.com/card/uma/248) | — | — | [[03 Card Types/Land\|Land]] | UMA 248 | — | 1 | 27.42 | Order 07/09/2026 |
 | [**`mtg:Phyrexian Reclamation`**](https://scryfall.com/card/ulg/63) | — | {B} | [[03 Card Types/Enchantment\|Enchantment]] | ULG 63 | — | 1 | 3.39 | Order 07/09/2026 — LP |
 
-## MageCards · Sebizzle
-
-**2** copies · **2** cards · **£0.33**. Source: MageCards. Seller: Sebizzle.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Urborg Elf`**](https://scryfall.com/card/apc/90) | — | {1}{G} | [[03 Card Types/Creature\|Creature]] | APC 90 | — | 1 | 0.23 | Order 07/09/2026 — LP |
-| [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/thou/1) | — | — | [[02 Cards/Tokens/01 - Summary\|Token]] | THOU 1 | — | 1 | 0.10 | Order 07/09/2026 — HOU token, not the creature |
-
 ## MageCards · nikobattistini
 
 **1** copies · **1** cards · **£7.00**. Source: MageCards. Seller: nikobattistini.
@@ -211,14 +198,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Prowling Serpopard`**](https://scryfall.com/card/akh/180) | — | {1}{G}{G} | [[03 Card Types/Creature\|Creature]] | AKH 180 | — | 1 | 2.00 | Order 07/09/2026 |
 | [**`mtg:Jedit Ojanen of Efrava`**](https://scryfall.com/card/plc/131) | — | {3}{G}{G}{G} | [[03 Card Types/Creature\|Creature]] | PLC 131 | — | 1 | 0.80 | Order 07/09/2026 |
-
-## MageCards · tanywan
-
-**1** copies · **1** cards · **£1.03**. Source: MageCards. Seller: tanywan.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/plst/HOU-2) | — | — | [[02 Cards/Tokens/01 - Summary\|Token]] | PLST HOU-2 | — | 1 | 1.03 | Order 07/09/2026 — the creature |
 
 ## MageCards · LvlUpGaming
 
@@ -246,26 +225,15 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Healer of the Pride`**](https://scryfall.com/card/plst/M13-19) | — | {3}{W} | [[03 Card Types/Creature\|Creature]] | PLST M13-19 | — | 1 | 0.12 | Order 07/09/2026 |
 
-## MageCards · rah_wares
-
-**3** copies · **3** cards · **£15.29**. Source: MageCards. Seller: rah_wares.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Temple Garden`**](https://scryfall.com/card/ecl/268) | — | — | [[03 Card Types/Land\|Land]] | ECL 268 | — | 1 | 6.93 | Order 07/09/2026 |
-| [**`mtg:Restoration Seminar`**](https://scryfall.com/card/sos/290) | — | {5}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | SOS 290 | foil | 1 | 7.74 | Order 07/09/2026 |
-| [**`mtg:Rogue's Passage`**](https://scryfall.com/card/ltc/326) | [[02 Cards/Lands/Rogue's Passage\|PAGE]] | — | [[03 Card Types/Land\|Land]] | LTC 326 | — | 1 | 0.62 | Order 07/09/2026 |
-
 ## MageCards · TheGrumpyGoblin
 
-**4** copies · **4** cards · **£32.84**. Source: MageCards. Seller: TheGrumpyGoblin.
+**3** copies · **3** cards · **£32.19**. Source: MageCards. Seller: TheGrumpyGoblin.
 
 | Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Heroic Intervention`**](https://scryfall.com/card/m21/188) | [[02 Cards/Instants/Heroic Intervention\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | M21 188 | — | 1 | 13.65 | Order 07/09/2026 |
 | [**`mtg:Kaheera, the Orphanguard`**](https://scryfall.com/card/piko/224p) | — | {1}{G/W}{G/W} | [[03 Card Types/Creature\|Creature]] | PIKO 224p | — | 1 | 0.69 | Order 07/09/2026 |
 | [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] | ECL 88 | — | 1 | 17.85 | Order 07/09/2026 |
-| [**`mtg:Lingering Souls`**](https://scryfall.com/card/mm3/12) | [[02 Cards/Sorceries/Lingering Souls\|PAGE]] | {2}{W} | [[03 Card Types/Sorcery\|Sorcery]] | MM3 12 | foil | 1 | 0.65 | Order 07/09/2026 |
 
 ## MageCards · revdeadso
 
@@ -285,38 +253,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | [**`mtg:Momentary Blink`**](https://scryfall.com/card/dmr/15) | — | {1}{W} | [[03 Card Types/Instant\|Instant]] | DMR 15 | — | 1 | 0.04 | Order 07/09/2026 |
 | [**`mtg:Hunted Witness`**](https://scryfall.com/card/grn/15) | — | {W} | [[03 Card Types/Creature\|Creature]] | GRN 15 | — | 1 | 0.02 | Order 07/09/2026 |
 | [**`mtg:Doomed Traveler`**](https://scryfall.com/card/ima/16) | — | {W} | [[03 Card Types/Creature\|Creature]] | IMA 16 | — | 1 | 0.04 | Order 07/09/2026 |
-
-## MageCards · AtomikSnowball
-
-**2** copies · **2** cards · **£10.30**. Source: MageCards. Seller: AtomikSnowball.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Abandoned Air Temple`**](https://scryfall.com/card/tla/263) | — | — | [[03 Card Types/Land\|Land]] | TLA 263 | — | 1 | 6.35 | Order 07/09/2026 |
-| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/fdn/355) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | FDN 355 | — | 1 | 3.95 | Order 07/09/2026 |
-
-## MageCards · RSchlupp
-
-**2** copies · **2** cards · **£0.28**. Source: MageCards. Seller: RSchlupp.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Fleecemane Lion`**](https://scryfall.com/card/msc/282) | — | {G}{W} | [[03 Card Types/Creature\|Creature]] | MSC 282 | — | 1 | 0.14 | Order 07/09/2026 |
-| [**`mtg:Bartolomé del Presidio`**](https://scryfall.com/card/lci/301) | — | {W}{B} | [[03 Card Types/Creature\|Creature]] | LCI 301 | — | 1 | 0.14 | Order 07/09/2026 |
-
-## MageCards · Misanthropic1
-
-**7** copies · **7** cards · **£13.82**. Source: MageCards. Seller: Misanthropic1.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:White Sun's Zenith`**](https://scryfall.com/card/cmr/391) | — | {X}{W}{W}{W} | [[03 Card Types/Instant\|Instant]] | CMR 391 | — | 1 | 0.19 | Order 07/09/2026 |
-| [**`mtg:Animal Sanctuary`**](https://scryfall.com/card/m21/242) | — | — | [[03 Card Types/Land\|Land]] | M21 242 | — | 1 | 1.98 | Order 07/09/2026 |
-| [**`mtg:Split Up`**](https://scryfall.com/card/dsk/32) | — | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | DSK 32 | — | 1 | 1.50 | Order 07/09/2026 |
-| [**`mtg:Secluded Courtyard`**](https://scryfall.com/card/fdn/267) | [[02 Cards/Lands/Secluded Courtyard\|PAGE]] | — | [[03 Card Types/Land\|Land]] | FDN 267 | — | 1 | 0.24 | Order 07/09/2026 |
-| [**`mtg:Helpful Hunter`**](https://scryfall.com/card/fdn/16) | [[02 Cards/Creatures/Helpful Hunter\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] | FDN 16 | foil | 1 | 0.26 | Order 07/09/2026 |
-| [**`mtg:Selesnya Sanctuary`**](https://scryfall.com/card/gk1/125) | — | — | [[03 Card Types/Land\|Land]] | GK1 125 | — | 1 | 0.20 | Order 07/09/2026 |
-| [**`mtg:Hall of Heliod's Generosity`**](https://scryfall.com/card/woc/162) | — | — | [[03 Card Types/Land\|Land]] | WOC 162 | — | 1 | 9.45 | Order 07/09/2026 |
 
 ## MageCards · glennt202
 
@@ -344,21 +280,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | [**`mtg:Bloodghast`**](https://scryfall.com/card/dft/77) | — | {B}{B} | [[03 Card Types/Creature\|Creature]] | DFT 77 | — | 1 | 0.98 | Order 07/09/2026 |
 | [**`mtg:Jadar, Ghoulcaller of Nephalia`**](https://scryfall.com/card/mid/315) | — | {1}{B} | [[03 Card Types/Creature\|Creature]] | MID 315 | — | 1 | 2.85 | Order 07/09/2026 |
 
-## MageCards · Shaunila
-
-**8** copies · **8** cards · **£13.96**. Source: MageCards. Seller: Shaunila.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Karlov of the Ghost Council`**](https://scryfall.com/card/c15/46) | — | {W}{B} | [[03 Card Types/Creature\|Creature]] | C15 46 | — | 1 | 9.50 | Order 07/09/2026 |
-| [**`mtg:Bastion of Remembrance`**](https://scryfall.com/card/iko/73) | [[02 Cards/Enchantments/Bastion of Remembrance\|PAGE]] | {2}{B} | [[03 Card Types/Enchantment\|Enchantment]] | IKO 73 | — | 1 | 0.24 | Order 07/09/2026 |
-| [**`mtg:Village Rites`**](https://scryfall.com/card/khm/117) | — | {B} | [[03 Card Types/Instant\|Instant]] | KHM 117 | — | 1 | 0.32 | Order 07/09/2026 |
-| [**`mtg:Radiant Fountain`**](https://scryfall.com/card/m15/245) | — | — | [[03 Card Types/Land\|Land]] | M15 245 | — | 1 | 0.30 | Order 07/09/2026 |
-| [**`mtg:Vault of the Archangel`**](https://scryfall.com/card/md1/17) | [[02 Cards/Lands/Vault of the Archangel\|PAGE]] | — | [[03 Card Types/Land\|Land]] | MD1 17 | — | 1 | 1.00 | Order 07/09/2026 |
-| [**`mtg:Azorius Chancery`**](https://scryfall.com/card/mm2/235) | — | — | [[03 Card Types/Land\|Land]] | MM2 235 | — | 1 | 0.18 | Order 07/09/2026 |
-| [**`mtg:Westvale Abbey`**](https://scryfall.com/card/soi/281) | — | — | [[03 Card Types/Creature\|Creature]] | SOI 281 | — | 1 | 2.19 | Order 07/09/2026 — Westvale Abbey // Ormendahl, Profane Prince |
-| [**`mtg:Despark`**](https://scryfall.com/card/war/190) | — | {W}{B} | [[03 Card Types/Instant\|Instant]] | WAR 190 | — | 1 | 0.23 | Order 07/09/2026 |
-
 ## MageCards · FundsForCardboard
 
 **3** copies · **3** cards · **£8.99**. Source: MageCards. Seller: FundsForCardboard.
@@ -377,21 +298,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Akroma's Will`**](https://scryfall.com/card/lcc/125) | — | {3}{W} | [[03 Card Types/Instant\|Instant]] | LCC 125 | — | 1 | 10.52 | Order 07/09/2026 |
 
-## MageCards · The_Arcane_Academy
-
-**8** copies · **8** cards · **£31.34**. Source: MageCards. Seller: The_Arcane_Academy.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Fabled Passage`**](https://scryfall.com/card/blb/252) | — | — | [[03 Card Types/Land\|Land]] | BLB 252 | — | 1 | 1.00 | Order 07/09/2026 |
-| [**`mtg:Anguished Unmaking`**](https://scryfall.com/card/pip/209) | — | {1}{W}{B} | [[03 Card Types/Instant\|Instant]] | PIP 209 | — | 1 | 2.10 | Order 07/09/2026 |
-| [**`mtg:Vito, Thorn of the Dusk Rose`**](https://scryfall.com/card/j25/71) | — | {2}{B} | [[03 Card Types/Creature\|Creature]] | J25 71 | — | 1 | 6.50 | Order 07/09/2026 |
-| [**`mtg:Takenuma, Abandoned Mire`**](https://scryfall.com/card/neo/278) | — | — | [[03 Card Types/Land\|Land]] | NEO 278 | — | 1 | 10.00 | Order 07/09/2026 |
-| [**`mtg:Toxic Deluge`**](https://scryfall.com/card/ltc/209) | — | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | LTC 209 | — | 1 | 6.45 | Order 07/09/2026 |
-| [**`mtg:Well of Lost Dreams`**](https://scryfall.com/card/ltc/291) | — | {4} | [[03 Card Types/Artifact\|Artifact]] | LTC 291 | — | 1 | 1.30 | Order 07/09/2026 |
-| [**`mtg:Sovereign Okinec Ahau`**](https://scryfall.com/card/lci/240) | — | {2}{G}{W} | [[03 Card Types/Creature\|Creature]] | LCI 240 | — | 1 | 3.70 | Order 07/09/2026 |
-| [**`mtg:Bronzehide Lion`**](https://scryfall.com/card/thb/210) | — | {G}{W} | [[03 Card Types/Creature\|Creature]] | THB 210 | — | 1 | 0.29 | Order 07/09/2026 |
-
 ## MageCards · Seventh_City
 
 **2** copies · **1** cards · **£71.02**. Source: MageCards. Seller: Seventh_City.
@@ -400,32 +306,54 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Bitterblossom`**](https://scryfall.com/card/spg/133) | — | {1}{B} | [[03 Card Types/Enchantment\|Enchantment]] | SPG 133 | — | 2 | 35.51 | Order 50417 |
 
-## Ebay · xjeegeex
+## MageCards · tettron
 
-**1** copies · **1** cards · **£3.74**. Source: Ebay. Seller: xjeegeex.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Adeline, Resplendent Cathar`**](https://scryfall.com/card/mid/1) | [[02 Cards/Creatures/Adeline, Resplendent Cathar\|PAGE]] | {1}{W}{W} | [[03 Card Types/Creature\|Creature]] | MID 1 | — | 1 | 3.74 | Ebay 13-15131-59846 |
-
-## Ebay · londonmagictraders
-
-**1** copies · **1** cards · **£4.48**. Source: Ebay. Seller: londonmagictraders.
+**10** copies · **10** cards · **£19.27**. Source: MageCards. Seller: tettron.
 
 | Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
 |------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Bojuka Bog`**](https://scryfall.com/card/otc/273) | [[02 Cards/Lands/Bojuka Bog\|PAGE]] | — | [[03 Card Types/Land\|Land]] | OTC 273 | — | 1 | 4.48 | Ebay 13-15131-59847 |
+| [**`mtg:Guidelight Optimizer`**](https://scryfall.com/card/dft/45) | — | {1}{U} | [[03 Card Types/Creature\|Creature]] | DFT 45 | foil | 1 | 0.10 | Order 50621 |
+| [**`mtg:Howlsquad Heavy`**](https://scryfall.com/card/dft/134) | — | {2}{R} | [[03 Card Types/Creature\|Creature]] | DFT 134 | — | 1 | 2.50 | Order 50621 |
+| [**`mtg:Hullcarver`**](https://scryfall.com/card/eoe/105) | — | {B} | [[03 Card Types/Creature\|Creature]] | EOE 105 | foil | 1 | 0.13 | Order 50621 |
+| [**`mtg:Evil Reawakened`**](https://scryfall.com/card/fin/98) | — | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | FIN 98 | foil | 1 | 0.18 | Order 50621 |
+| [**`mtg:Blossombind`**](https://scryfall.com/card/ecl/45) | — | {1}{U} | [[03 Card Types/Enchantment\|Enchantment]] | ECL 45 | foil | 1 | 0.14 | Order 50621 |
+| [**`mtg:Fabricate`**](https://scryfall.com/card/mrd/35) | — | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | MRD 35 | — | 1 | 5.93 | Order 50621 |
+| [**`mtg:Elvish Guidance`**](https://scryfall.com/card/ons/255) | — | {2}{G} | [[03 Card Types/Enchantment\|Enchantment]] | ONS 255 | — | 1 | 1.29 | Order 50621 |
+| [**`mtg:Tragedy Feaster`**](https://scryfall.com/card/sos/102) | [[02 Cards/Creatures/Tragedy Feaster\|PAGE]] | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] | SOS 102 | foil | 1 | 1.00 | Order 50621 |
+| [**`mtg:Fetid Heath`**](https://scryfall.com/card/tdc/362) | [[02 Cards/Lands/Fetid Heath\|PAGE]] | — | [[03 Card Types/Land\|Land]] | TDC 362 | — | 1 | 1.00 | Order 50621 |
+| [**`mtg:Rivendell`**](https://scryfall.com/card/ltr/344) | — | — | [[03 Card Types/Land\|Land]] | LTR 344 | — | 1 | 7.00 | Order 50621 |
+
+## MageCards · AtomikSnowball
+
+**2** copies · **2** cards · **£30.60**. Source: MageCards. Seller: AtomikSnowball.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Authority of the Consuls`**](https://scryfall.com/card/fdn/137) | — | {W} | [[03 Card Types/Enchantment\|Enchantment]] | FDN 137 | foil | 1 | 7.95 | Order 50627 — replacement for Recollect-Ltd short |
+| [**`mtg:Thranduil, the Elvenking`**](https://scryfall.com/card/hob/246) | — | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] | HOB 246 | foil | 1 | 22.65 | Order 50627 |
+
+## MageCards · StardustCards
+
+**5** copies · **5** cards · **£28.34**. Source: MageCards. Seller: StardustCards.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Rem Karolus, Stalwart Slayer`**](https://scryfall.com/card/dbl/235) | — | {1}{R}{W} | [[03 Card Types/Creature\|Creature]] | DBL 235 | foil | 1 | 2.62 | Order 50661 — NM foil |
+| [**`mtg:Gathering Place`**](https://scryfall.com/card/msh/381) | — | — | [[03 Card Types/Land\|Land]] | MSH 381 | foil | 1 | 4.72 | Order 50661 — NM foil |
+| [**`mtg:Deathrite Shaman`**](https://scryfall.com/card/mb2/81) | — | {B/G} | [[03 Card Types/Creature\|Creature]] | MB2 81 | — | 1 | 6.82 | Order 50661 — NM |
+| [**`mtg:Midnight Clock`**](https://scryfall.com/card/sld/2217) | — | {2}{U} | [[03 Card Types/Artifact\|Artifact]] | SLD 2217 | foil | 1 | 8.40 | Order 50661 — NM foil |
+| [**`mtg:Sower of Temptation`**](https://scryfall.com/card/sld/120) | — | {2}{U}{U} | [[03 Card Types/Creature\|Creature]] | SLD 120 | — | 1 | 5.78 | Order 50661 — NM |
 
 ## Cardmarket · Recollect-Ltd
 
-**9** copies · **8** cards · **£99.00**. Source: Cardmarket. Seller: Recollect-Ltd.
+**8** copies · **8** cards · **£92.00**. Source: Cardmarket. Seller: Recollect-Ltd.
 
 | Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/c16/273) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] | C16 273 | — | 1 | 1.00 | Shipment 1300044762 |
 | [**`mtg:Ocelot Pride`**](https://scryfall.com/card/mh3/38) | — | {W} | [[03 Card Types/Creature\|Creature]] | MH3 38 | foil | 1 | 40.00 | Shipment 1300044762 |
 | [**`mtg:Unclaimed Territory`**](https://scryfall.com/card/xln/258) | — | — | [[03 Card Types/Land\|Land]] | XLN 258 | foil | 1 | 2.00 | Shipment 1300044762 |
-| [**`mtg:Authority of the Consuls`**](https://scryfall.com/card/fic/232) | — | {W} | [[03 Card Types/Enchantment\|Enchantment]] | FIC 232 | foil | 2 | 7.00 | Shipment 1300044762 |
+| [**`mtg:Authority of the Consuls`**](https://scryfall.com/card/fic/232) | — | {W} | [[03 Card Types/Enchantment\|Enchantment]] | FIC 232 | foil | 1 | 7.00 | Shipment 1300044762 — short 1 refunded |
 | [**`mtg:Herald's Horn`**](https://scryfall.com/card/c17/53) | — | {3} | [[03 Card Types/Artifact\|Artifact]] | C17 53 | — | 1 | 4.50 | Shipment 1300044762 |
 | [**`mtg:Enduring Tenacity`**](https://scryfall.com/card/dsk/95) | — | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] | DSK 95 | foil | 1 | 13.00 | Shipment 1300044762 |
 | [**`mtg:Knight of the White Orchid`**](https://scryfall.com/card/voc/92) | — | {W}{W} | [[03 Card Types/Creature\|Creature]] | VOC 92 | — | 1 | 1.50 | Shipment 1300044762 |
@@ -439,15 +367,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Pride Sovereign`**](https://scryfall.com/card/hou/126) | — | {2}{G} | [[03 Card Types/Creature\|Creature]] | HOU 126 | — | 1 | 2.63 | Shipment 1300051487 |
 | [**`mtg:Beastmaster Ascension`**](https://scryfall.com/card/plst/CMA-92) | — | {2}{G} | [[03 Card Types/Enchantment\|Enchantment]] | PLST CMA-92 | — | 1 | 3.89 | Shipment 1300051487 |
-
-## Cardmarket · DiceandDumplings
-
-**2** copies · **2** cards · **£1.00**. Source: Cardmarket. Seller: DiceandDumplings.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Shambling Vent`**](https://scryfall.com/card/bfz/244) | — | — | [[03 Card Types/Land\|Land]] | BFZ 244 | — | 1 | 0.50 | Shipment 1300051793 — EX |
-| [**`mtg:Restless Fortress`**](https://scryfall.com/card/woe/259) | — | — | [[03 Card Types/Land\|Land]] | WOE 259 | — | 1 | 0.50 | Shipment 1300051793 |
 
 ## Cardmarket · webuyanycard
 
@@ -473,17 +392,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | [**`mtg:Serra Ascendant`**](https://scryfall.com/card/ima/31) | — | {W} | [[03 Card Types/Creature\|Creature]] | IMA 31 | — | 1 | 22.00 | Shipment 1300053299 |
 | [**`mtg:Emeria, the Sky Ruin`**](https://scryfall.com/card/zen/213) | — | — | [[03 Card Types/Land\|Land]] | ZEN 213 | — | 1 | 9.00 | Shipment 1300053299 — EX |
 
-## Cardmarket · castlecards
-
-**4** copies · **4** cards · **£3.44**. Source: Cardmarket. Seller: castlecards.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Graypelt Refuge`**](https://scryfall.com/card/ddh/33) | — | — | [[03 Card Types/Land\|Land]] | DDH 33 | — | 1 | 0.20 | Shipment 1300053348 — EX |
-| [**`mtg:Fortified Village`**](https://scryfall.com/card/mic/174) | — | — | [[03 Card Types/Land\|Land]] | MIC 174 | — | 1 | 0.19 | Shipment 1300053348 |
-| [**`mtg:Krosan Verge`**](https://scryfall.com/card/otc/304) | — | — | [[03 Card Types/Land\|Land]] | OTC 304 | — | 1 | 0.20 | Shipment 1300053348 |
-| [**`mtg:Priest of Forgotten Gods`**](https://scryfall.com/card/rna/83) | — | {1}{B} | [[03 Card Types/Creature\|Creature]] | RNA 83 | — | 1 | 2.85 | Shipment 1300053348 — EX |
-
 ## Cardmarket · CairneyCards
 
 **4** copies · **4** cards · **£9.00**. Source: Cardmarket. Seller: CairneyCards.
@@ -505,10 +413,80 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 
 ## Cardmarket · Budgiecards
 
-**3** copies · **3** cards · **£12.14**. Source: Cardmarket. Seller: Budgiecards.
+**22** copies · **8** cards · **£38.44**. Source: Cardmarket. Seller: Budgiecards.
 
 | Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Damn`**](https://scryfall.com/card/dsc/369) | — | {B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | DSC 369 | foil | 1 | 2.66 | Shipment 1300078261 — EX |
 | [**`mtg:Hungry Lynx`**](https://scryfall.com/card/c17/31) | — | {1}{G} | [[03 Card Types/Creature\|Creature]] | C17 31 | — | 1 | 3.99 | Shipment 1300078261 — EX |
 | [**`mtg:Pitiless Plunderer`**](https://scryfall.com/card/pip/187) | — | {3}{B} | [[03 Card Types/Creature\|Creature]] | PIP 187 | — | 1 | 5.49 | Shipment 1300078261 — EX |
+| [**`mtg:Elf Warrior`**](https://scryfall.com/card/tori/9) | [[02 Cards/Tokens/Elf Warrior\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TORI 9 | — | 2 | 0.18 | Shipment 1300377940 — EX · token |
+| [**`mtg:Elf Warrior`**](https://scryfall.com/card/tema/12) | [[02 Cards/Tokens/Elf Warrior\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TEMA 12 | — | 2 | 0.18 | Shipment 1300377940 — EX · token |
+| [**`mtg:Elf Warrior`**](https://scryfall.com/card/ta25/11) | [[02 Cards/Tokens/Elf Warrior\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TA25 11 | — | 3 | 0.18 | Shipment 1300377940 — EX · token |
+| [**`mtg:Cat`**](https://scryfall.com/card/tznr/2) | [[02 Cards/Tokens/Cat\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TZNR 2 | — | 10 | 2.22 | Shipment 1300377940 — EX · White 1/1 token |
+| [**`mtg:Snake`**](https://scryfall.com/card/cc2/9) | — | — | [[02 Cards/Tokens/01 - Summary\|Token]] | CC2 9 | — | 2 | 1.42 | Shipment 1300377940 — EX · Snake // Zombie token |
+
+## Cardmarket · Weird-Ginge
+
+**15** copies · **5** cards · **£1.57**. Source: Cardmarket. Seller: Weird-Ginge.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Cat`**](https://scryfall.com/card/takh/16) | [[02 Cards/Tokens/Cat\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TAKH 16 | — | 8 | 0.10 | Shipment 1300376931 — EX · White 1/1 Lifelink token |
+| [**`mtg:Myr`**](https://scryfall.com/card/tbbd/6) | [[02 Cards/Tokens/Myr\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TBBD 6 | — | 2 | 0.05 | Shipment 1300376931 — NM · token |
+| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TDSC 2 | — | 2 | 0.05 | Shipment 1300376931 — NM · Angel 4/4 // Treasure |
+| [**`mtg:Scion of the Deep`**](https://scryfall.com/card/tfdn/13) | — | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TFDN 13 | — | 1 | 0.47 | Shipment 1300376931 — EX · Scion of the Deep // Koma's Coil |
+| [**`mtg:Thopter`**](https://scryfall.com/card/tsoc/28) | [[02 Cards/Tokens/Thopter\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TSOC 28 | — | 2 | 0.05 | Shipment 1300376931 — NM · Thopter // Fractal |
+
+## Cardmarket · NuggetGaming
+
+**53** copies · **4** cards · **£5.41**. Source: Cardmarket. Seller: NuggetGaming.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Angel`**](https://scryfall.com/card/totc/3) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TOTC 3 | — | 4 | 0.16 | Shipment 1300379090 — NM · Angel 4/4 // Elemental RG 5/5 |
+| [**`mtg:Spirit`**](https://scryfall.com/card/tblc/9) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TBLC 9 | — | 25 | 0.09 | Shipment 1300379090 — NM · Spirit 1/1 // Faerie 1/1 |
+| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TDSC 2 | — | 12 | 0.14 | Shipment 1300379090 — NM · Angel 4/4 // Treasure |
+| [**`mtg:Gnome`**](https://scryfall.com/card/teoc/11) | — | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TEOC 11 | — | 12 | 0.07 | Shipment 1300379090 — NM · Gnome // Thopter |
+
+## Cardmarket · LegendaryCardCo
+
+**10** copies · **2** cards · **£1.60**. Source: Cardmarket. Seller: LegendaryCardCo.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Cat`**](https://scryfall.com/card/tc17/1) | [[02 Cards/Tokens/Cat\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TC17 1 | — | 6 | 0.10 | Shipment 1300380324 — EX · Cat 2/2 // Cat Warrior 2/2 |
+| [**`mtg:Cat`**](https://scryfall.com/card/tfdn/1) | [[02 Cards/Tokens/Cat\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | TFDN 1 | — | 4 | 0.25 | Shipment 1300380324 — NM · Cat 1/1 // Elf Warrior |
+
+## Cardmarket · Nikolcia01
+
+**12** copies · **12** cards · **£2.09**. Source: Cardmarket. Seller: Nikolcia01.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Sacred Cat`**](https://scryfall.com/card/takh/10) | [[02 Cards/Creatures/Sacred Cat\|PAGE]] | {W} | [[02 Cards/Tokens/01 - Summary\|Token]] | TAKH 10 | — | 1 | 0.99 | Shipment 1300380934 — EX · Zombie Cat token |
+| [**`mtg:Forest`**](https://scryfall.com/card/eld/269) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] | ELD 269 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.4 |
+| [**`mtg:Forest`**](https://scryfall.com/card/dmu/274) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] | DMU 274 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.1 |
+| [**`mtg:Plains`**](https://scryfall.com/card/one/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] | ONE 272 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.1 |
+| [**`mtg:Swamp`**](https://scryfall.com/card/one/274) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] | ONE 274 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.1 |
+| [**`mtg:Mountain`**](https://scryfall.com/card/ltr/268) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] | LTR 268 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.1 |
+| [**`mtg:Mountain`**](https://scryfall.com/card/ltr/269) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] | LTR 269 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.2 |
+| [**`mtg:Plains`**](https://scryfall.com/card/dsk/277) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] | DSK 277 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.2 |
+| [**`mtg:Island`**](https://scryfall.com/card/dsk/280) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] | DSK 280 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.3 |
+| [**`mtg:Swamp`**](https://scryfall.com/card/dsk/282) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] | DSK 282 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.3 |
+| [**`mtg:Forest`**](https://scryfall.com/card/dsk/285) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] | DSK 285 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.2 |
+| [**`mtg:Forest`**](https://scryfall.com/card/dsk/286) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] | DSK 286 | foil | 1 | 0.10 | Shipment 1300380934 — foil basic V.3 |
+
+## Cardmarket · Wideboi
+
+**7** copies · **7** cards · **£42.34**. Source: Cardmarket. Seller: Wideboi.
+
+| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
+|------|--|------|------|-----|------|-----|-------------|------|
+| [**`mtg:Door of Destinies`**](https://scryfall.com/card/ltc/277) | — | {4} | [[03 Card Types/Artifact\|Artifact]] | LTC 277 | — | 1 | 4.11 | Shipment 1300807137 — NM |
+| [**`mtg:Ashnod's Altar`**](https://scryfall.com/card/cmm/368) | — | {3} | [[03 Card Types/Artifact\|Artifact]] | CMM 368 | foil | 1 | 14.98 | Shipment 1300807137 — NM foil · Ayli |
+| [**`mtg:Chromatic Lantern`**](https://scryfall.com/card/rvr/253) | — | {3} | [[03 Card Types/Artifact\|Artifact]] | RVR 253 | foil | 1 | 2.00 | Shipment 1300807137 — NM foil |
+| [**`mtg:Warleader's Call`**](https://scryfall.com/card/mkm/242) | — | {1}{R}{W} | [[03 Card Types/Enchantment\|Enchantment]] | MKM 242 | — | 1 | 5.50 | Shipment 1300807137 — NM |
+| [**`mtg:Eluge, the Shoreless Sea`**](https://scryfall.com/card/blb/49) | — | {1}{U}{U}{U} | [[03 Card Types/Creature\|Creature]] | BLB 49 | foil | 1 | 4.40 | Shipment 1300807137 — NM foil |
+| [**`mtg:Nine-Lives Familiar`**](https://scryfall.com/card/fdn/462) | — | {1}{B}{B} | [[03 Card Types/Creature\|Creature]] | FDN 462 | — | 1 | 3.50 | Shipment 1300807137 — NM · V.3 extra · Ayli |
+| [**`mtg:Alesha, Who Laughs at Fate`**](https://scryfall.com/card/fdn/476) | — | {1}{B}{R} | [[03 Card Types/Creature\|Creature]] | FDN 476 | foil | 1 | 7.85 | Shipment 1300807137 — NM foil · V.3 extra |

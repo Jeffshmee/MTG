@@ -2,7 +2,7 @@
 
 Set `SOS`. Qty here is copies of this name from this set.
 
-**428** copies · **223** names.
+**429** copies · **224** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -225,6 +225,7 @@ Set `SOS`. Qty here is copies of this name from this set.
 | [**`mtg:Zealous Lorecaster`**](https://scryfall.com/card/sos/137) | [[02 Cards/Creatures/Zealous Lorecaster\|PAGE]] | {5}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Giant\|Giant]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 3 | 0.16 |
 | [**`mtg:Improvisation Capstone`**](https://scryfall.com/card/sos/120) | [[02 Cards/Sorceries/Improvisation Capstone\|PAGE]] | {5}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 9.96 |
 | [**`mtg:Moment of Reckoning`**](https://scryfall.com/card/sos/205) | [[02 Cards/Sorceries/Moment of Reckoning\|PAGE]] | {3}{W}{W}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 2 | 0.36 |
+| [**`mtg:Restoration Seminar`**](https://scryfall.com/card/sos/290) | [[02 Cards/Sorceries/Restoration Seminar\|PAGE]] | {5}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 4.95 |
 | [**`mtg:Transcendent Archaic`**](https://scryfall.com/card/sos/5) | [[02 Cards/Creatures/Transcendent Archaic\|PAGE]] | {7} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.07 |
 | [**`mtg:Visionary's Dance`**](https://scryfall.com/card/sos/242) | [[02 Cards/Sorceries/Visionary's Dance\|PAGE]] | {5}{U}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 3 | 0.30 |
 | [**`mtg:Wisdom of Ages`**](https://scryfall.com/card/sos/71) | [[02 Cards/Sorceries/Wisdom of Ages\|PAGE]] | {4}{U}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.14 |

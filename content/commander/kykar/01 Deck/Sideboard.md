@@ -797,17 +797,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Will not buy. Not an incoming dual. Land count is a playtest watch, not this card arriving.*
 
-> [!info] **`mtg:Azorius Chancery`**
-> **75** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:75%"></div></div>
->
-> [[02 Cards/Lands/Azorius Chancery|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
-
 > [!info] **`mtg:Cryptic Caves`**
 > **67** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:67%"></div></div>

@@ -2,7 +2,7 @@
 
 Card type: Sorcery.
 
-**256** copies · **172** names.
+**259** copies · **175** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -109,9 +109,11 @@ Card type: Sorcery.
 | [**`mtg:Seize the Spoils`**](https://scryfall.com/card/sos/129) | [[02 Cards/Sorceries/Seize the Spoils\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.16 |
 | [**`mtg:Social Snub`**](https://scryfall.com/card/sos/228) | [[02 Cards/Sorceries/Social Snub\|PAGE]] | {1}{W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Spiritcall Enthusiast`**](https://scryfall.com/card/sos/33) | [[02 Cards/Creatures/Spiritcall Enthusiast\|PAGE]] | {2}{W} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
+| [**`mtg:Split Up`**](https://scryfall.com/card/dsk/32) | [[02 Cards/Sorceries/Split Up\|PAGE]] | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.60 |
 | [**`mtg:Steal the Show`**](https://scryfall.com/card/sos/130) | [[02 Cards/Sorceries/Steal the Show\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |
 | [**`mtg:Stock Up`**](https://scryfall.com/card/soa/24) | [[02 Cards/Sorceries/Stock Up\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.04 |
 | [**`mtg:Strife Scholar`**](https://scryfall.com/card/sos/131) | [[02 Cards/Creatures/Strife Scholar\|PAGE]] | {2}{R} // {5}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
+| [**`mtg:Toxic Deluge`**](https://scryfall.com/card/ltc/209) | [[02 Cards/Sorceries/Toxic Deluge\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 5.51 |
 | [**`mtg:Vengeful Possession`**](https://scryfall.com/card/dsk/162) | [[02 Cards/Sorceries/Vengeful Possession\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
 | [**`mtg:Winged Words`**](https://scryfall.com/card/m20/80) | [[02 Cards/Sorceries/Winged Words\|PAGE]] | {2}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
 | [**`mtg:Borrowed Knowledge`**](https://scryfall.com/card/sos/178) | [[02 Cards/Sorceries/Borrowed Knowledge\|PAGE]] | {2}{R}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.10 |
@@ -172,6 +174,7 @@ Card type: Sorcery.
 | [**`mtg:Hustle`**](https://scryfall.com/card/mkm/249) | [[02 Cards/Instants/Hustle\|PAGE]] | {U/R} // {4}{R/G}{R/G} | [[03 Card Types/Instant\|Instant]] [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.05 |
 | [**`mtg:Improvisation Capstone`**](https://scryfall.com/card/sos/120) | [[02 Cards/Sorceries/Improvisation Capstone\|PAGE]] | {5}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 9.96 |
 | [**`mtg:Moment of Reckoning`**](https://scryfall.com/card/sos/205) | [[02 Cards/Sorceries/Moment of Reckoning\|PAGE]] | {3}{W}{W}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 2 | 0.36 |
+| [**`mtg:Restoration Seminar`**](https://scryfall.com/card/sos/290) | [[02 Cards/Sorceries/Restoration Seminar\|PAGE]] | {5}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 4.95 |
 | [**`mtg:Smaug, the Great Calamity`**](https://scryfall.com/card/hob/109) | [[02 Cards/Creatures/Smaug, the Great Calamity\|PAGE]] | {5}{R}{R} // {4}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 3 | 0.18 |
 | [**`mtg:Turtles in Time`**](https://scryfall.com/card/tmt/55) | [[02 Cards/Sorceries/Turtles in Time\|PAGE]] | {5}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.41 |
 | [**`mtg:Visionary's Dance`**](https://scryfall.com/card/sos/242) | [[02 Cards/Sorceries/Visionary's Dance\|PAGE]] | {5}{U}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 3 | 0.30 |

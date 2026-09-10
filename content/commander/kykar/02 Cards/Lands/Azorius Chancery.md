@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Azorius Chancery`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -94,7 +94,7 @@ Azorius Chancery is a mana source for this Azorius pile. Tapped dual, bounce a l
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 74
 >   deck_specific: 76

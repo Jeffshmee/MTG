@@ -1,0 +1,7 @@
+# Create Token
+
+Put a token permanent onto the battlefield.
+
+Effects that show up in Ayli, Eternal Pilgrim's Lifegain aristocrats list.
+
+**In this vault:** [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]] · [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]] · [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] · [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] · [[02 Cards/Enchantments/Caretaker's Talent|Caretaker's Talent]] · [[02 Cards/Lands/Castle Ardenvale|Castle Ardenvale]] · [[02 Cards/Creatures/Doomed Traveler|Doomed Traveler]] · [[02 Cards/Enchantments/Hidden Stockpile|Hidden Stockpile]] · [[02 Cards/Creatures/Hunted Witness|Hunted Witness]] · [[02 Cards/Creatures/Infestation Sage|Infestation Sage]] · [[02 Cards/Creatures/Jadar, Ghoulcaller of Nephalia|Jadar, Ghoulcaller of Nephalia]] · [[02 Cards/Sorceries/Lingering Souls|Lingering Souls]] · [[02 Cards/Creatures/Novice Inspector|Novice Inspector]] · [[02 Cards/Creatures/Ophiomancer|Ophiomancer]] · [[02 Cards/Creatures/Pawn of Ulamog|Pawn of Ulamog]] · [[02 Cards/Creatures/Pitiless Plunderer|Pitiless Plunderer]] · [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]] · [[02 Cards/Creatures/Sifter of Skulls|Sifter of Skulls]] · [[02 Cards/Creatures/Speaker of the Heavens|Speaker of the Heavens]] · [[02 Cards/Creatures/Teysa, Orzhov Scion|Teysa, Orzhov Scion]] · [[02 Cards/Lands/Westvale Abbey|Westvale Abbey]] · [[02 Cards/Creatures/Woe Strider|Woe Strider]]

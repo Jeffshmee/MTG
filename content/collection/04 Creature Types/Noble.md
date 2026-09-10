@@ -2,7 +2,7 @@
 
 Creature type: Noble.
 
-**22** copies · **17** names.
+**23** copies · **18** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -20,6 +20,7 @@ Creature type: Noble.
 | [**`mtg:Dion, Bahamut's Dominant`**](https://scryfall.com/card/fin/16) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Knight\|Knight]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.41 |
 | [**`mtg:High Perfect Morcant`**](https://scryfall.com/card/ecl/229) | [[02 Cards/Creatures/High Perfect Morcant\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 3.33 |
 | [**`mtg:Lathril, Blade of the Elves`**](https://scryfall.com/card/fdn/242) | [[02 Cards/Creatures/Lathril, Blade of the Elves\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 2.10 |
+| [**`mtg:Sovereign Okinec Ahau`**](https://scryfall.com/card/lci/240) | [[02 Cards/Creatures/Sovereign Okinec Ahau\|PAGE]] | {2}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.50 |
 | [**`mtg:Thranduil, Sindarin Liege`**](https://scryfall.com/card/hob/166) | [[02 Cards/Creatures/Thranduil, Sindarin Liege\|PAGE]] | {2}{G/U}{G/U} // {1}{G/U}{G/U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |
 | [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 1.15 |
 | [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | {4}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 2.50 |

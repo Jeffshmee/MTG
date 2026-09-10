@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 10/09/2026 | arrival extra |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>The Hobbit (<code>HOB</code>)</td><td>35</td><td>—</td><td>1</td><td>Box</td><td>0.03</td></tr>
+<tr><td>The Hobbit (<code>HOB</code>)</td><td>35</td><td>—</td><td>2</td><td>Box</td><td>0.03</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/9/d/9de48690-e5ae-495a-addf-305f1db7ec21.jpg" alt="Confusticate and Bebother HOB 35 · ×1">
-<figcaption>HOB 35 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/9/d/9de48690-e5ae-495a-addf-305f1db7ec21.jpg" alt="Confusticate and Bebother HOB 35 · ×2">
+<figcaption>HOB 35 · ×2</figcaption>
 </figure>
 </div>
 
@@ -75,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 3
 > type: "Instant"
 > scryfall_id: 9de48690-e5ae-495a-addf-305f1db7ec21
-> quantity: 1
+> quantity: 2
 > tags:
 >   - blue
 >   - card

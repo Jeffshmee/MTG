@@ -2,15 +2,16 @@
 
 Creature type: Knight.
 
-**17** copies · **16** names.
+**19** copies · **17** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Adelbert Steiner`**](https://scryfall.com/card/fin/3) | [[02 Cards/Creatures/Adelbert Steiner\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
+| [**`mtg:Bartolomé del Presidio`**](https://scryfall.com/card/lci/301) | [[02 Cards/Creatures/Bartolomé del Presidio\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |
 | [**`mtg:Beastrider Vanguard`**](https://scryfall.com/card/dft/154) | [[02 Cards/Creatures/Beastrider Vanguard\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Knight of Grace`**](https://scryfall.com/card/fdn/576) | [[02 Cards/Creatures/Knight of Grace\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Knight of Malice`**](https://scryfall.com/card/fdn/608) | [[02 Cards/Creatures/Knight of Malice\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
-| [**`mtg:Adeline, Resplendent Cathar`**](https://scryfall.com/card/tdc/108) | [[02 Cards/Creatures/Adeline, Resplendent Cathar\|PAGE]] | {1}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 2.82 |
+| [**`mtg:Adeline, Resplendent Cathar`**](https://scryfall.com/card/tdc/108) | [[02 Cards/Creatures/Adeline, Resplendent Cathar\|PAGE]] | {1}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 5.69 |
 | [**`mtg:Charging Strifeknight`**](https://scryfall.com/card/sos/110) | [[02 Cards/Creatures/Charging Strifeknight\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.13 |
 | [**`mtg:Inspiring Paladin`**](https://scryfall.com/card/fdn/18) | [[02 Cards/Creatures/Inspiring Paladin\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Ledev Champion`**](https://scryfall.com/card/grn/186) | [[02 Cards/Creatures/Ledev Champion\|PAGE]] | {1}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |

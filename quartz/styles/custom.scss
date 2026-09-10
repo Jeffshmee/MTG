@@ -796,6 +796,136 @@ body[data-slug^="commander/kykar/"] {
   }
 }
 
+// Ayli vault accent from Obsidian appearance.json: #9c27b0
+body[data-slug="commander/ayli"],
+body[data-slug^="commander/ayli/"] {
+  .page-title a,
+  .article-title,
+  .markdown-preview-view h1,
+  .markdown-rendered h1,
+  .markdown-preview-view h2,
+  .markdown-rendered h2,
+  .markdown-preview-view h3,
+  .markdown-rendered h3,
+  a.internal,
+  a.internal-link {
+    color: #9c27b0 !important;
+  }
+
+  a.internal:hover,
+  a.internal-link:hover {
+    color: #ce93d8 !important;
+  }
+
+  .markdown-preview-view h1,
+  .markdown-rendered h1 {
+    border-bottom-color: #6a1b9a;
+  }
+
+  .markdown-preview-view h2,
+  .markdown-rendered h2 {
+    border-bottom-color: #6a1b9a;
+  }
+
+  .markdown-preview-view th,
+  .markdown-rendered th {
+    background: #6a1b9a;
+    border-color: #4a148c;
+  }
+
+  .synergy-bar > div {
+    background: linear-gradient(90deg, #6a1b9a, #9c27b0);
+  }
+
+  .synergy-score-num {
+    background: #9c27b0 !important;
+    color: #fff !important;
+  }
+
+  .mtg-decklist-meta,
+  .mtg-decklist-section .qty {
+    color: #9c27b0;
+  }
+
+  .mtg-decklist-section h3 {
+    color: #9c27b0 !important;
+    border-bottom-color: #6a1b9a;
+  }
+
+  .mtg-decklist-section a.internal {
+    color: #9c27b0 !important;
+  }
+
+  .callout[data-callout="card-proxy"] .callout-content h3 {
+    color: #9c27b0 !important;
+  }
+}
+
+// Arahbo vault accent from Obsidian appearance.json: #6EE7B7
+body[data-slug="commander/arahbo"],
+body[data-slug^="commander/arahbo/"] {
+  .page-title a,
+  .article-title,
+  .markdown-preview-view h1,
+  .markdown-rendered h1,
+  .markdown-preview-view h2,
+  .markdown-rendered h2,
+  .markdown-preview-view h3,
+  .markdown-rendered h3,
+  a.internal,
+  a.internal-link {
+    color: #6ee7b7 !important;
+  }
+
+  a.internal:hover,
+  a.internal-link:hover {
+    color: #a7f3d0 !important;
+  }
+
+  .markdown-preview-view h1,
+  .markdown-rendered h1 {
+    border-bottom-color: #047857;
+  }
+
+  .markdown-preview-view h2,
+  .markdown-rendered h2 {
+    border-bottom-color: #047857;
+  }
+
+  .markdown-preview-view th,
+  .markdown-rendered th {
+    background: #047857;
+    border-color: #065f46;
+  }
+
+  .synergy-bar > div {
+    background: linear-gradient(90deg, #047857, #6ee7b7);
+  }
+
+  .synergy-score-num {
+    background: #6ee7b7 !important;
+    color: #042018 !important;
+  }
+
+  .mtg-decklist-meta,
+  .mtg-decklist-section .qty {
+    color: #6ee7b7;
+  }
+
+  .mtg-decklist-section h3 {
+    color: #6ee7b7 !important;
+    border-bottom-color: #047857;
+  }
+
+  .mtg-decklist-section a.internal {
+    color: #6ee7b7 !important;
+  }
+
+  .callout[data-callout="card-proxy"] .callout-content h3 {
+    color: #6ee7b7 !important;
+  }
+}
+
 // Collection vault — gold titles/links like Zurgo red and Maralen green
 body[data-slug="collection"],
 body[data-slug^="collection/"] {

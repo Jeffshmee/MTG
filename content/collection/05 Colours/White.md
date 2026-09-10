@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**240** copies · **177** names.
+**245** copies · **180** names.
 
 ```decklist
 group: auto
@@ -10,7 +10,7 @@ legality: commander
 
 # Creatures
 1 Adelbert Steiner
-1 Adeline, Resplendent Cathar
+2 Adeline, Resplendent Cathar
 1 Adept Watershaper
 1 Ainok Strike Leader
 5 Ajani's Pridemate
@@ -55,7 +55,7 @@ legality: commander
 1 Goldnight Commander
 1 Griffnaut Tracker
 1 Healer's Hawk
-1 Helpful Hunter
+2 Helpful Hunter
 1 Hero of Bladehold
 4 Hinterland Sanctifier
 2 Honorbound Page // Forum's Favor
@@ -150,6 +150,7 @@ legality: commander
 2 Thorin's Last Stand
 1 Valorous Stance
 1 Vow to Erebor
+1 White Sun's Zenith
 1 Will of the Mardu
 
 # Sorceries
@@ -166,6 +167,8 @@ legality: commander
 1 Prismatic Ending
 2 Release the Dogs
 1 Requisition Raid
+1 Restoration Seminar
+1 Split Up
 
 # Enchantments
 1 Airbender Ascension

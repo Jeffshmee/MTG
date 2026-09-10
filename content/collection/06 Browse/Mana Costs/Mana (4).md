@@ -2,7 +2,7 @@
 
 Cards whose mana value is 4.
 
-**240** copies · **183** names.
+**242** copies · **185** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -142,6 +142,7 @@ Cards whose mana value is 4.
 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
 | [**`mtg:Soul Enervation`**](https://scryfall.com/card/mkm/106) | [[02 Cards/Enchantments/Soul Enervation\|PAGE]] | {3}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.11 |
 | [**`mtg:Southern Air Temple`**](https://scryfall.com/card/tla/36) | [[02 Cards/Enchantments/Southern Air Temple\|PAGE]] | {3}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.13 |
+| [**`mtg:Sovereign Okinec Ahau`**](https://scryfall.com/card/lci/240) | [[02 Cards/Creatures/Sovereign Okinec Ahau\|PAGE]] | {2}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.50 |
 | [**`mtg:Spectacular Skywhale`**](https://scryfall.com/card/sos/229) | [[02 Cards/Creatures/Spectacular Skywhale\|PAGE]] | {2}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Whale\|Whale]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
 | [**`mtg:Spellbook Seeker`**](https://scryfall.com/card/sos/68) | [[02 Cards/Creatures/Spellbook Seeker\|PAGE]] | {3}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.10 |
 | [**`mtg:Spitfire Lagac`**](https://scryfall.com/card/fdn/208) | [[02 Cards/Creatures/Spitfire Lagac\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Lizard\|Lizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |
@@ -180,6 +181,7 @@ Cards whose mana value is 4.
 | [**`mtg:Wander Off`**](https://scryfall.com/card/sos/104) | [[02 Cards/Instants/Wander Off\|PAGE]] | {3}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 0.10 |
 | [**`mtg:Wanderwine Distracter`**](https://scryfall.com/card/ecl/82) | [[02 Cards/Creatures/Wanderwine Distracter\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.14 |
 | [**`mtg:Wardens of the Cycle`**](https://scryfall.com/card/fdn/125) | [[02 Cards/Creatures/Wardens of the Cycle\|PAGE]] | {1}{B}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.16 |
+| [**`mtg:Well of Lost Dreams`**](https://scryfall.com/card/ltc/291) | [[02 Cards/Artifacts/Well of Lost Dreams\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.37 |
 | [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | {2}{W}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Wilderness Reclamation`**](https://scryfall.com/card/dsc/205) | [[02 Cards/Enchantments/Wilderness Reclamation\|PAGE]] | {3}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.28 |
 | [**`mtg:Wildgrowth Archaic`**](https://scryfall.com/card/sos/168) | [[02 Cards/Creatures/Wildgrowth Archaic\|PAGE]] | {2/G}{2/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.34 |

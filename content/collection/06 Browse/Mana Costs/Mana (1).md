@@ -2,7 +2,7 @@
 
 Cards whose mana value is 1.
 
-**211** copies · **139** names.
+**212** copies · **140** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -135,6 +135,7 @@ Cards whose mana value is 1.
 | [**`mtg:Unsummon`**](https://scryfall.com/card/fdn/599) | [[02 Cards/Instants/Unsummon\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.16 |
 | [**`mtg:Vampiric Rites`**](https://scryfall.com/card/fdn/615) | [[02 Cards/Enchantments/Vampiric Rites\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.18 |
 | [**`mtg:Veil of Summer`**](https://scryfall.com/card/soa/60) | [[02 Cards/Instants/Veil of Summer\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 3.46 |
+| [**`mtg:Village Rites`**](https://scryfall.com/card/lcc/212) | [[02 Cards/Instants/Village Rites\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.42 |
 | [**`mtg:Virulent Emissary`**](https://scryfall.com/card/ecl/202) | [[02 Cards/Creatures/Virulent Emissary\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Assassin\|Assassin]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 1.72 |
 | [**`mtg:Viscera Seer`**](https://scryfall.com/card/soc/229) | [[02 Cards/Creatures/Viscera Seer\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.51 |
 | [**`mtg:Wall of Runes`**](https://scryfall.com/card/m21/85) | [[02 Cards/Creatures/Wall of Runes\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wall\|Wall]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.08 |

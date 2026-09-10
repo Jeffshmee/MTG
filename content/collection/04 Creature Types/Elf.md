@@ -2,7 +2,7 @@
 
 Creature type: Elf.
 
-**121** copies · **77** names.
+**122** copies · **78** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -33,6 +33,7 @@ Creature type: Elf.
 | [**`mtg:Muse Seeker`**](https://scryfall.com/card/sos/60) | [[02 Cards/Creatures/Muse Seeker\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Priest of Titania`**](https://scryfall.com/card/mh3/286) | [[02 Cards/Creatures/Priest of Titania\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.82 |
 | [**`mtg:Thornweald Archer`**](https://scryfall.com/card/fdn/559) | [[02 Cards/Creatures/Thornweald Archer\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.50 |
+| [**`mtg:Urborg Elf`**](https://scryfall.com/card/apc/90) | [[02 Cards/Creatures/Urborg Elf\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.23 |
 | [**`mtg:Wildborn Preserver`**](https://scryfall.com/card/fdn/650) | [[02 Cards/Creatures/Wildborn Preserver\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Woodland Weavemaster`**](https://scryfall.com/card/hob/143) | [[02 Cards/Creatures/Woodland Weavemaster\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.04 |
 | [**`mtg:Beast-Kin Ranger`**](https://scryfall.com/card/fdn/100) | [[02 Cards/Creatures/Beast-Kin Ranger\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Ranger\|Ranger]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |

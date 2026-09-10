@@ -2,7 +2,7 @@
 
 Cards needed for trades and buys — **one list**, every deck. Qty is copies needed. Est. Price is Scryfall market (EUR × 0.8626). PAGE is the collection page when a copy is already owned. **For** is the deck that needs it. **Offer** opens the trade form with that card filled in. **🟡 Ordered** is on [[06 Browse/Outstanding Orders/Outstanding Orders|Outstanding Orders]] (purchased, not in hand) — the row drops when that copy arrives. **Trades Offered** is live form responses.
 
-**57** names · ~**£231.65** listed
+**56** names · ~**£232.46** listed
 
 ## Contents
 
@@ -10,9 +10,9 @@ Cards needed for trades and buys — **one list**, every deck. Qty is copies nee
 |---------|-------|------------------|
 | [[#Trades Offered]] | 0 | — |
 | [[#Mythic]] | 5 | 59.26 |
-| [[#Rare]] | 25 | 128.89 |
-| [[#Uncommon]] | 19 | 39.17 |
-| [[#Common]] | 8 | 4.33 |
+| [[#Rare]] | 26 | 130.08 |
+| [[#Uncommon]] | 18 | 39.01 |
+| [[#Common]] | 7 | 4.11 |
 | [[#MageCards paste]] | — | — |
 
 ## Trades Offered
@@ -36,7 +36,7 @@ Live responses from the trade form. Email stays off this page.
 
 ## Rare
 
-**25** names.
+**26** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) | Status | For | Offer |
 |------|--|------|------|--------|------|-----|------------------|-----|-----|-----|
@@ -57,6 +57,7 @@ Live responses from the trade form. Email stays off this page.
 | [**`mtg:Sapphire Medallion`**](https://scryfall.com/card/mh3/296/sapphire-medallion) | — | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.58 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Sapphire%20Medallion&entry.1565345403=1) |
 | [**`mtg:Eerie Interlude`**](https://scryfall.com/card/khc/22/eerie-interlude) | — | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 5.53 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Eerie%20Interlude&entry.1565345403=1) |
 | [**`mtg:Formidable Speaker`**](https://scryfall.com/card/ecl/176/formidable-speaker) | — | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 9.45 | — | [[02 Cards/Creatures/Maralen, Fae Ascendant\|Maralen, Fae Ascendant]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Formidable%20Speaker&entry.1565345403=1) |
+| [**`mtg:Nine-Lives Familiar`**](https://scryfall.com/card/fdn/66/nine-lives-familiar) | — | {1}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.19 | 🟡 Ordered | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|Ayli, Eternal Pilgrim]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Nine-Lives%20Familiar&entry.1565345403=1) |
 | [**`mtg:Sevinne's Reclamation`**](https://scryfall.com/card/soc/170/sevinnes-reclamation) | — | {2}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.31 | 🟡 Ordered | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Sevinne%27s%20Reclamation&entry.1565345403=1) |
 | [**`mtg:Urza's Incubator`**](https://scryfall.com/card/mh3/297/urzas-incubator) | — | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 13.19 | — | [[02 Cards/Creatures/Maralen, Fae Ascendant\|Maralen, Fae Ascendant]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Urza%27s%20Incubator&entry.1565345403=1) |
 | [**`mtg:Elven Chorus`**](https://scryfall.com/card/ltr/160/elven-chorus) | — | {3}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.32 | — | [[02 Cards/Creatures/Maralen, Fae Ascendant\|Maralen, Fae Ascendant]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Elven%20Chorus&entry.1565345403=1) |
@@ -68,11 +69,10 @@ Live responses from the trade form. Email stays off this page.
 
 ## Uncommon
 
-**19** names.
+**18** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) | Status | For | Offer |
 |------|--|------|------|--------|------|-----|------------------|-----|-----|-----|
-| [**`mtg:Azorius Chancery`**](https://scryfall.com/card/dsc/261/azorius-chancery) | — | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 | 🟡 Ordered | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Azorius%20Chancery&entry.1565345403=1) |
 | [**`mtg:Reliquary Tower`**](https://scryfall.com/card/soc/398/reliquary-tower) | — | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 2.61 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Reliquary%20Tower&entry.1565345403=1) |
 | [**`mtg:Path to Exile`**](https://scryfall.com/card/msc/141/path-to-exile) | — | {W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 1.17 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Path%20to%20Exile&entry.1565345403=1) |
 | [**`mtg:Cruel Celebrant`**](https://scryfall.com/card/lcc/267/cruel-celebrant) | — | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.35 | — | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|Ayli, Eternal Pilgrim]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Cruel%20Celebrant&entry.1565345403=1) |
@@ -82,7 +82,7 @@ Live responses from the trade form. Email stays off this page.
 | [**`mtg:Razorgrass Ambush`**](https://scryfall.com/card/mh3/238/razorgrass-ambush-razorgrass-field) | — | {1}{W} | [[03 Card Types/Instant\|Instant]] [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Razorgrass%20Ambush&entry.1565345403=1) |
 | [**`mtg:Thought Vessel`**](https://scryfall.com/card/mbc/78/thought-vessel) | — | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.00 | 🟡 Ordered | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Thought%20Vessel&entry.1565345403=1) |
 | [**`mtg:Wall of Omens`**](https://scryfall.com/card/tdc/138/wall-of-omens) | — | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wall\|Wall]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.18 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Wall%20of%20Omens&entry.1565345403=1) |
-| [**`mtg:Ashnod's Altar`**](https://scryfall.com/card/cmm/368/ashnods-altar) | — | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 12.14 | — | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|Ayli, Eternal Pilgrim]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Ashnod%27s%20Altar&entry.1565345403=1) |
+| [**`mtg:Ashnod's Altar`**](https://scryfall.com/card/cmm/368/ashnods-altar) | — | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 12.14 | 🟡 Ordered | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|Ayli, Eternal Pilgrim]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Ashnod%27s%20Altar&entry.1565345403=1) |
 | [**`mtg:Circuit Mender`**](https://scryfall.com/card/neo/242/circuit-mender) | — | {3} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Insect\|Insect]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.23 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Circuit%20Mender&entry.1565345403=1) |
 | [**`mtg:Exclusion Mage`**](https://scryfall.com/card/fdn/508/exclusion-mage) | — | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Exclusion%20Mage&entry.1565345403=1) |
 | [**`mtg:Generous Gift`**](https://scryfall.com/card/msc/133/generous-gift) | — | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 1.56 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]]; [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|Ayli, Eternal Pilgrim]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Generous%20Gift&entry.1565345403=2) |
@@ -94,7 +94,7 @@ Live responses from the trade form. Email stays off this page.
 
 ## Common
 
-**8** names.
+**7** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) | Status | For | Offer |
 |------|--|------|------|--------|------|-----|------------------|-----|-----|-----|
@@ -102,7 +102,6 @@ Live responses from the trade form. Email stays off this page.
 | [**`mtg:Essence Flux`**](https://scryfall.com/card/inr/64/essence-flux) | — | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.82 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Essence%20Flux&entry.1565345403=1) |
 | [**`mtg:Preordain`**](https://scryfall.com/card/tdc/161/preordain) | — | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.97 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Preordain&entry.1565345403=1) |
 | [**`mtg:Momentary Blink`**](https://scryfall.com/card/dmr/15/momentary-blink) | — | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 | 🟡 Ordered | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Momentary%20Blink&entry.1565345403=1) |
-| [**`mtg:Urborg Elf`**](https://scryfall.com/card/apc/90/urborg-elf) | — | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.22 | 🟡 Ordered | [[02 Cards/Creatures/Maralen, Fae Ascendant\|Maralen, Fae Ascendant]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Urborg%20Elf&entry.1565345403=1) |
 | [**`mtg:Frantic Search`**](https://scryfall.com/card/tle/159/frantic-search) | — | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.95 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Frantic%20Search&entry.1565345403=1) |
 | [**`mtg:Man-o'-War`**](https://scryfall.com/card/dmr/58/man-o-war) | — | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Jellyfish\|Jellyfish]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 | 🟡 Ordered | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Man-o%27-War&entry.1565345403=1) |
 | [**`mtg:Stonehorn Dignitary`**](https://scryfall.com/card/m12/37/stonehorn-dignitary) | — | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rhino\|Rhino]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.70 | 🟡 Ordered | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Stonehorn%20Dignitary&entry.1565345403=1) |
@@ -114,7 +113,6 @@ Click the block (it selects all), then copy. Qty then name, one card per line. �
 <div class="magecards-paste">
 
 ```
-1 Ashnod's Altar
 1 Circuit Mender
 1 Conjurer's Closet
 1 Consider

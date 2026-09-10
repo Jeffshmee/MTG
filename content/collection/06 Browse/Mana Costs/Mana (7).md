@@ -2,7 +2,7 @@
 
 Cards whose mana value is 7.
 
-**29** copies · **23** names.
+**31** copies · **25** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -18,7 +18,9 @@ Cards whose mana value is 7.
 | [**`mtg:Myr Battlesphere`**](https://scryfall.com/card/tdc/322) | [[02 Cards/Creatures/Myr Battlesphere\|PAGE]] | {7} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Myr\|Myr]] [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.16 |
 | [**`mtg:Ovika, Enigma Goliath`**](https://scryfall.com/card/fdn/663) | [[02 Cards/Creatures/Ovika, Enigma Goliath\|PAGE]] | {5}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Nightmare\|Nightmare]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.15 |
 | [**`mtg:Pelakka Wurm`**](https://scryfall.com/card/fdn/765) | [[02 Cards/Creatures/Pelakka Wurm\|PAGE]] | {4}{G}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wurm\|Wurm]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.00 |
+| [**`mtg:Restoration Seminar`**](https://scryfall.com/card/sos/290) | [[02 Cards/Sorceries/Restoration Seminar\|PAGE]] | {5}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 4.95 |
 | [**`mtg:Riftburst Hellion`**](https://scryfall.com/card/mkm/228) | [[02 Cards/Creatures/Riftburst Hellion\|PAGE]] | {5}{R}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Hellion\|Hellion]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.08 |
+| [**`mtg:Sandstone Oracle`**](https://scryfall.com/card/cmr/336) | [[02 Cards/Creatures/Sandstone Oracle\|PAGE]] | {7} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Sphinx\|Sphinx]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.13 |
 | [**`mtg:Scourge of Fleets`**](https://scryfall.com/card/cmr/403) | [[02 Cards/Creatures/Scourge of Fleets\|PAGE]] | {5}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kraken\|Kraken]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.53 |
 | [**`mtg:Smaug, the Great Calamity`**](https://scryfall.com/card/hob/109) | [[02 Cards/Creatures/Smaug, the Great Calamity\|PAGE]] | {5}{R}{R} // {4}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 3 | 0.18 |
 | [**`mtg:Sphinx of the Final Word`**](https://scryfall.com/card/fdn/597) | [[02 Cards/Creatures/Sphinx of the Final Word\|PAGE]] | {5}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Sphinx\|Sphinx]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.21 |

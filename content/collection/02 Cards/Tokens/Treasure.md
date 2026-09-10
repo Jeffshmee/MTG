@@ -32,6 +32,7 @@
 | 30/08/2026 | Booster haul |
 | 02/09/2026 | Booster haul |
 | 04/09/2026 | MageCards · Axion_Now |
+| 10/09/2026 | arrival extra |
 
 </div>
 
@@ -40,7 +41,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>19</div>
+<div class="synergy-score-num"><span>Copies</span>20</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -52,6 +53,7 @@
 <tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>13</td><td>—</td><td>2</td><td>Box</td><td>—</td></tr>
 <tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>12</td><td>—</td><td>8</td><td>Box</td><td>—</td></tr>
 <tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>13</td><td>foil</td><td>4</td><td>Box</td><td>—</td></tr>
+<tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>12</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
 </div>
@@ -83,6 +85,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>TFDN 23 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/c/6/c6e096bb-ad9e-4a8b-8b42-26852fa32c1d.jpg" alt="Treasure THOB 12 · ×1">
+<figcaption>THOB 12 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/9/c/9c8f66e1-4eab-4d51-b10e-9cedd607d709.jpg" alt="Treasure TTDM 16 · ×1">
 <figcaption>TTDM 16 · ×1</figcaption>
 </figure>
@@ -103,7 +109,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Artifact — Treasure"
 > scryfall_id: b4f61b5e-9c53-40b1-b93e-3ffa351ff052
-> quantity: 19
+> quantity: 20
 > tags:
 >   - artifact
 >   - card

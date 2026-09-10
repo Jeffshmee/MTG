@@ -13,4 +13,4 @@ Cards traded out of the collection. Names with **Remaining 0** have no copy left
 | [**`mtg:Fellwar Stone`**](https://scryfall.com/card/soc/347) | [[07 Trades/Fully Traded Out/Artifacts/Fellwar Stone\|PAGE]] | 24/08/2026 | 1 | 0 | Traded to Mark for [[Leaf-Crowned Visionary]] |
 | [**`mtg:Heraldic Banner`**](https://scryfall.com/card/fdn/254) | [[02 Cards/Artifacts/Heraldic Banner\|PAGE]] | 24/08/2026 | 1 | 1 | Traded to Mark for [[Leaf-Crowned Visionary]] |
 | [**`mtg:Sol Ring`**](https://scryfall.com/card/m3c/305) | [[02 Cards/Artifacts/Sol Ring\|PAGE]] | 24/08/2026 | 1 | 5 | Traded to Mark for [[Leaf-Crowned Visionary]] |
-| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/prm/86132) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | 24/08/2026 | 1 | 1 | Traded to Mark for [[Leaf-Crowned Visionary]] |
+| [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/fdn/355) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | 24/08/2026 | 1 | 2 | Traded to Mark for [[Leaf-Crowned Visionary]] |

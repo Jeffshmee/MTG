@@ -2,12 +2,12 @@
 
 Set `HOB`. Qty here is copies of this name from this set.
 
-**123** copies · **89** names.
+**125** copies · **89** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Elvenking's Halls`**](https://scryfall.com/card/hob/182) | [[02 Cards/Lands/Elvenking's Halls\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.06 |
-| [**`mtg:Goblin-town`**](https://scryfall.com/card/hob/183) | [[02 Cards/Lands/Goblin-town\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.10 |
+| [**`mtg:Goblin-town`**](https://scryfall.com/card/hob/183) | [[02 Cards/Lands/Goblin-town\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.18 |
 | [**`mtg:Hobbit Hole`**](https://scryfall.com/card/hob/184) | [[02 Cards/Lands/Hobbit Hole\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.02 |
 | [**`mtg:Iron Hills`**](https://scryfall.com/card/hob/185) | [[02 Cards/Lands/Iron Hills\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.10 |
 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.09 |
@@ -51,7 +51,7 @@ Set `HOB`. Qty here is copies of this name from this set.
 | [**`mtg:Bilbo Baggins, Burglar`**](https://scryfall.com/card/hob/34) | [[02 Cards/Creatures/Bilbo Baggins, Burglar\|PAGE]] | {2}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
 | [**`mtg:Bilbo's Deadly Slice`**](https://scryfall.com/card/hob/62) | [[02 Cards/Instants/Bilbo's Deadly Slice\|PAGE]] | {1}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Bombur, Gentle Dreamer`**](https://scryfall.com/card/hob/88) | [[02 Cards/Creatures/Bombur, Gentle Dreamer\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
-| [**`mtg:Confusticate and Bebother`**](https://scryfall.com/card/hob/35) | [[02 Cards/Instants/Confusticate and Bebother\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
+| [**`mtg:Confusticate and Bebother`**](https://scryfall.com/card/hob/35) | [[02 Cards/Instants/Confusticate and Bebother\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
 | [**`mtg:Down, Down to Goblin-town`**](https://scryfall.com/card/hob/65) | [[02 Cards/Enchantments/Down, Down to Goblin-town\|PAGE]] | {2}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.15 |
 | [**`mtg:Elrond, Moon-Reader`**](https://scryfall.com/card/hob/36) | [[02 Cards/Creatures/Elrond, Moon-Reader\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.86 |
 | [**`mtg:Elven Raft-Steerer`**](https://scryfall.com/card/hob/37) | [[02 Cards/Creatures/Elven Raft-Steerer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Pilot\|Pilot]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |

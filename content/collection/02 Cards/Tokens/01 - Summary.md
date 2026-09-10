@@ -2,20 +2,21 @@
 
 Token and emblem cards. Kept off colour pages so those lists stay mono-coloured.
 
-**218** copies · **56** names.
+**227** copies · **58** names.
 
 ```decklist
 group: auto
 legality: commander
 
 # Tokens
+1 Adorned Pouncer
 1 Ally
 1 Angel
 1 Angelo
 1 Bat
 2 Beast
 2 Bird
-4 Cat
+5 Cat
 1 Cat Beast
 1 Citizen
 1 Clue
@@ -36,7 +37,8 @@ legality: commander
 25 Goblin
 3 Goblin Army
 3 Human
-5 Human Soldier
+1 Human Cleric
+8 Human Soldier
 9 Inkling
 3 Insect
 1 Kaito, Cunning Infiltrator Emblem
@@ -45,7 +47,7 @@ legality: commander
 2 Monk
 3 Myr
 1 Ninja
-2 On an Adventure
+3 On an Adventure
 2 Pentavite
 7 Pest
 2 Phyrexian Goblin
@@ -58,12 +60,12 @@ legality: commander
 21 Spirit
 3 Thopter
 1 Toy
-19 Treasure
+20 Treasure
 2 Treefolk
 1 Vivien Reid Emblem
 1 Voja Fenstalker
 16 Warrior
 1 Wolf
-2 Zombie
+3 Zombie
 
 ```
