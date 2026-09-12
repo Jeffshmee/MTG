@@ -2,57 +2,57 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**100** copies · **50** names.
+**212** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
-| 10/09/2026 | [**`mtg:Abandoned Air Temple`**](https://scryfall.com/card/tla/263) | [[02 Cards/Lands/Abandoned Air Temple\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Adeline, Resplendent Cathar`**](https://scryfall.com/card/tdc/108) | [[02 Cards/Creatures/Adeline, Resplendent Cathar\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/thou/1) | [[02 Cards/Tokens/Adorned Pouncer\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Anguished Unmaking`**](https://scryfall.com/card/pip/209) | [[02 Cards/Instants/Anguished Unmaking\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Animal Sanctuary`**](https://scryfall.com/card/m21/242) | [[02 Cards/Lands/Animal Sanctuary\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Azorius Chancery`**](https://scryfall.com/card/dsc/261) | [[02 Cards/Lands/Azorius Chancery\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Bartolomé del Presidio`**](https://scryfall.com/card/lci/301) | [[02 Cards/Creatures/Bartolomé del Presidio\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Bastion of Remembrance`**](https://scryfall.com/card/tdc/171) | [[02 Cards/Enchantments/Bastion of Remembrance\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Bojuka Bog`**](https://scryfall.com/card/soc/363) | [[02 Cards/Lands/Bojuka Bog\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Bronzehide Lion`**](https://scryfall.com/card/thb/210) | [[02 Cards/Creatures/Bronzehide Lion\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Cat`**](https://scryfall.com/card/tfdn/27) | [[02 Cards/Tokens/Cat\|PAGE]] | 5 |
-| 10/09/2026 | [**`mtg:Confusticate and Bebother`**](https://scryfall.com/card/hob/35) | [[02 Cards/Instants/Confusticate and Bebother\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Despark`**](https://scryfall.com/card/tdc/284) | [[02 Cards/Instants/Despark\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Fabled Passage`**](https://scryfall.com/card/blb/252) | [[02 Cards/Lands/Fabled Passage\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Fleecemane Lion`**](https://scryfall.com/card/msc/282) | [[02 Cards/Creatures/Fleecemane Lion\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Fortified Village`**](https://scryfall.com/card/tdc/366) | [[02 Cards/Lands/Fortified Village\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Goblin-town`**](https://scryfall.com/card/hob/183) | [[02 Cards/Lands/Goblin-town\|PAGE]] | 3 |
-| 10/09/2026 | [**`mtg:Graypelt Refuge`**](https://scryfall.com/card/c19/249) | [[02 Cards/Lands/Graypelt Refuge\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Hall of Heliod's Generosity`**](https://scryfall.com/card/dsc/283) | [[02 Cards/Lands/Hall of Heliod's Generosity\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Helpful Hunter`**](https://scryfall.com/card/fdn/16) | [[02 Cards/Creatures/Helpful Hunter\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Human Cleric`**](https://scryfall.com/card/tsoi/10) | [[02 Cards/Tokens/Human Cleric\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Human Soldier`**](https://scryfall.com/card/thob/2) | [[02 Cards/Tokens/Human Soldier\|PAGE]] | 8 |
-| 10/09/2026 | [**`mtg:Karlov of the Ghost Council`**](https://scryfall.com/card/rvr/193) | [[02 Cards/Creatures/Karlov of the Ghost Council\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Krosan Verge`**](https://scryfall.com/card/otc/304) | [[02 Cards/Lands/Krosan Verge\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:On an Adventure`**](https://scryfall.com/card/thob/15) | [[02 Cards/Tokens/On an Adventure\|PAGE]] | 3 |
-| 10/09/2026 | [**`mtg:Priest of Forgotten Gods`**](https://scryfall.com/card/soc/225) | [[02 Cards/Creatures/Priest of Forgotten Gods\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Radiant Fountain`**](https://scryfall.com/card/c21/310) | [[02 Cards/Lands/Radiant Fountain\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Restless Fortress`**](https://scryfall.com/card/woe/259) | [[02 Cards/Lands/Restless Fortress\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Restoration Seminar`**](https://scryfall.com/card/sos/290) | [[02 Cards/Sorceries/Restoration Seminar\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Rogue's Passage`**](https://scryfall.com/card/ltc/326) | [[02 Cards/Lands/Rogue's Passage\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Sandstone Oracle`**](https://scryfall.com/card/cmr/336) | [[02 Cards/Creatures/Sandstone Oracle\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Secluded Courtyard`**](https://scryfall.com/card/fdn/267) | [[02 Cards/Lands/Secluded Courtyard\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Selesnya Sanctuary`**](https://scryfall.com/card/clu/246) | [[02 Cards/Lands/Selesnya Sanctuary\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Shambling Vent`**](https://scryfall.com/card/clb/914) | [[02 Cards/Lands/Shambling Vent\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Sovereign Okinec Ahau`**](https://scryfall.com/card/lci/240) | [[02 Cards/Creatures/Sovereign Okinec Ahau\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Split Up`**](https://scryfall.com/card/dsk/32) | [[02 Cards/Sorceries/Split Up\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/fdn/355) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Takenuma, Abandoned Mire`**](https://scryfall.com/card/neo/278) | [[02 Cards/Lands/Takenuma, Abandoned Mire\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Temple Garden`**](https://scryfall.com/card/ecl/268) | [[02 Cards/Lands/Temple Garden\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Toxic Deluge`**](https://scryfall.com/card/ltc/209) | [[02 Cards/Sorceries/Toxic Deluge\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Treasure`**](https://scryfall.com/card/tsos/12) | [[02 Cards/Tokens/Treasure\|PAGE]] | 20 |
-| 10/09/2026 | [**`mtg:Urborg Elf`**](https://scryfall.com/card/apc/90) | [[02 Cards/Creatures/Urborg Elf\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Vault of the Archangel`**](https://scryfall.com/card/tdc/410) | [[02 Cards/Lands/Vault of the Archangel\|PAGE]] | 2 |
-| 10/09/2026 | [**`mtg:Village Rites`**](https://scryfall.com/card/lcc/212) | [[02 Cards/Instants/Village Rites\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Vito, Thorn of the Dusk Rose`**](https://scryfall.com/card/j25/71) | [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Well of Lost Dreams`**](https://scryfall.com/card/ltc/291) | [[02 Cards/Artifacts/Well of Lost Dreams\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:White Sun's Zenith`**](https://scryfall.com/card/onc/90) | [[02 Cards/Instants/White Sun's Zenith\|PAGE]] | 1 |
-| 10/09/2026 | [**`mtg:Zombie`**](https://scryfall.com/card/tinr/10) | [[02 Cards/Tokens/Zombie\|PAGE]] | 3 |
-| 09/09/2026 | [**`mtg:Arcane Signet`**](https://scryfall.com/card/fic/332) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | 6 |
-| 09/09/2026 | [**`mtg:Displacer Kitten`**](https://scryfall.com/card/clb/63) | [[02 Cards/Creatures/Displacer Kitten\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/hou/2) | [[02 Cards/Tokens/Adorned Pouncer\|PAGE]] | 2 |
+| 12/09/2026 | [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | 17 |
+| 12/09/2026 | [**`mtg:Arahbo, Roar of the World`**](https://scryfall.com/card/c17/35) | [[02 Cards/Creatures/Arahbo, Roar of the World\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Authority of the Consuls`**](https://scryfall.com/card/fic/232) | [[02 Cards/Enchantments/Authority of the Consuls\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | 2 |
+| 12/09/2026 | [**`mtg:Blood Artist`**](https://scryfall.com/card/2x2/352) | [[02 Cards/Creatures/Blood Artist\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Bloodghast`**](https://scryfall.com/card/dft/77) | [[02 Cards/Creatures/Bloodghast\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Canopy Vista`**](https://scryfall.com/card/msc/227) | [[02 Cards/Lands/Canopy Vista\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Cryoshatter`**](https://scryfall.com/card/eoe/53) | [[02 Cards/Enchantments/Cryoshatter\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Depower`**](https://scryfall.com/card/msh/50) | [[02 Cards/Instants/Depower\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Deserted Beach`**](https://scryfall.com/card/inr/276) | [[02 Cards/Lands/Deserted Beach\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Dour Port-Mage`**](https://scryfall.com/card/blb/303) | [[02 Cards/Creatures/Dour Port-Mage\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Elemental`**](https://scryfall.com/card/tsos/2) | [[02 Cards/Tokens/Elemental\|PAGE]] | 13 |
+| 12/09/2026 | [**`mtg:Emeria, the Sky Ruin`**](https://scryfall.com/card/soc/368) | [[02 Cards/Lands/Emeria, the Sky Ruin\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Enduring Tenacity`**](https://scryfall.com/card/dsk/95) | [[02 Cards/Creatures/Enduring Tenacity\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Essence Channeler`**](https://scryfall.com/card/blb/12) | [[02 Cards/Creatures/Essence Channeler\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Faerie`**](https://scryfall.com/card/tfdn/9) | [[02 Cards/Tokens/Faerie\|PAGE]] | 30 |
+| 12/09/2026 | [**`mtg:Gathering Stone`**](https://scryfall.com/card/ecl/257) | [[02 Cards/Artifacts/Gathering Stone\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Gnome`**](https://scryfall.com/card/teoc/11) | [[02 Cards/Tokens/Gnome\|PAGE]] | 12 |
+| 12/09/2026 | [**`mtg:Herald's Horn`**](https://scryfall.com/card/m3c/296) | [[02 Cards/Artifacts/Herald's Horn\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Heroic Intervention`**](https://scryfall.com/card/cmm/295) | [[02 Cards/Instants/Heroic Intervention\|PAGE]] | 2 |
+| 12/09/2026 | [**`mtg:Irrigated Farmland`**](https://scryfall.com/card/eoc/162) | [[02 Cards/Lands/Irrigated Farmland\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Jadar, Ghoulcaller of Nephalia`**](https://scryfall.com/card/mid/315) | [[02 Cards/Creatures/Jadar, Ghoulcaller of Nephalia\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Kaheera, the Orphanguard`**](https://scryfall.com/card/iko/224) | [[02 Cards/Creatures/Kaheera, the Orphanguard\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Kambal, Consul of Allocation`**](https://scryfall.com/card/2x2/237) | [[02 Cards/Creatures/Kambal, Consul of Allocation\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Knight of the White Orchid`**](https://scryfall.com/card/moc/193) | [[02 Cards/Creatures/Knight of the White Orchid\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Mirari's Wake`**](https://scryfall.com/card/cmm/928) | [[02 Cards/Enchantments/Mirari's Wake\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Moonrise Cleric`**](https://scryfall.com/card/blb/226) | [[02 Cards/Creatures/Moonrise Cleric\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Mosswort Bridge`**](https://scryfall.com/card/tdc/379) | [[02 Cards/Lands/Mosswort Bridge\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Ocelot Pride`**](https://scryfall.com/card/mh3/38) | [[02 Cards/Creatures/Ocelot Pride\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Opal Palace`**](https://scryfall.com/card/m3c/361) | [[02 Cards/Lands/Opal Palace\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Practiced Offense`**](https://scryfall.com/card/sos/25) | [[02 Cards/Sorceries/Practiced Offense\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Propaganda`**](https://scryfall.com/card/m3c/191) | [[02 Cards/Enchantments/Propaganda\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Rhox Faithmender`**](https://scryfall.com/card/tdc/128) | [[02 Cards/Creatures/Rhox Faithmender\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Sazh's Chocobo`**](https://scryfall.com/card/fin/200) | [[02 Cards/Creatures/Sazh's Chocobo\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Serra Ascendant`**](https://scryfall.com/card/ima/31) | [[02 Cards/Creatures/Serra Ascendant\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Sevinne's Reclamation`**](https://scryfall.com/card/soc/170) | [[02 Cards/Sorceries/Sevinne's Reclamation\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Sheltered by Ghosts`**](https://scryfall.com/card/soc/171) | [[02 Cards/Enchantments/Sheltered by Ghosts\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Sifter of Skulls`**](https://scryfall.com/card/ogw/77) | [[02 Cards/Creatures/Sifter of Skulls\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | 2 |
+| 12/09/2026 | [**`mtg:Speaker of the Heavens`**](https://scryfall.com/card/m21/38) | [[02 Cards/Creatures/Speaker of the Heavens\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Spirit`**](https://scryfall.com/card/ttdc/6) | [[02 Cards/Tokens/Spirit\|PAGE]] | 46 |
+| 12/09/2026 | [**`mtg:Stonehorn Dignitary`**](https://scryfall.com/card/m12/37) | [[02 Cards/Creatures/Stonehorn Dignitary\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Teysa, Orzhov Scion`**](https://scryfall.com/card/gpt/134) | [[02 Cards/Creatures/Teysa, Orzhov Scion\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Thopter`**](https://scryfall.com/card/tsoc/28) | [[02 Cards/Tokens/Thopter\|PAGE]] | 15 |
+| 12/09/2026 | [**`mtg:Treasure`**](https://scryfall.com/card/tdsk/15) | [[02 Cards/Tokens/Treasure\|PAGE]] | 32 |
+| 12/09/2026 | [**`mtg:Unbreakable Formation`**](https://scryfall.com/card/rvr/32) | [[02 Cards/Instants/Unbreakable Formation\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Unclaimed Territory`**](https://scryfall.com/card/xln/258) | [[02 Cards/Lands/Unclaimed Territory\|PAGE]] | 1 |
+| 12/09/2026 | [**`mtg:Undercover Skrull`**](https://scryfall.com/card/msh/194) | [[02 Cards/Creatures/Undercover Skrull\|PAGE]] | 1 |
+| 11/09/2026 | [**`mtg:Beastmaster Ascension`**](https://scryfall.com/card/ncc/283) | [[02 Cards/Enchantments/Beastmaster Ascension\|PAGE]] | 1 |

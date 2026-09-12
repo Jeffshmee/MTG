@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Herald's Horn`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}  
 > **Type:** Artifact  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Herald's Horn](https://cards.scryfall.io/border_crop/front/4/b/4bfa71d4-4125-4404-9c24-979401bae592.jpg)
+> ![Herald's Horn](https://cards.scryfall.io/border_crop/front/2/c/2cfafee3-c060-44bd-be6e-8d36501d72d3.jpg)
 >
 > ### Deck Scores
 >
@@ -50,7 +50,7 @@ At the beginning of your upkeep, [[03 Effects/Look at Top|look at the top card o
 
 ## Deck Role & Rating
 
-[[02 Cards/Artifacts/Herald's Horn|Herald's Horn]] at {3}: as this artifact enters, choose a creature type. Name Cat if it asks. Stacks with First Fang and [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Artifacts/Herald's Horn|Herald's Horn]] at {3}: as this artifact enters, choose a creature type. Name Cat if it asks. Stacks with First Fang and [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ At the beginning of your upkeep, [[03 Effects/Look at Top|look at the top card o
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -88,15 +88,15 @@ At the beginning of your upkeep, [[03 Effects/Look at Top|look at the top card o
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: 4bfa71d4-4125-4404-9c24-979401bae592
+> scryfall_id: 2cfafee3-c060-44bd-be6e-8d36501d72d3
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**251** copies · **165** names.
+**264** copies · **176** names.
 
 ```decklist
 group: auto
@@ -44,6 +44,7 @@ legality: commander
 1 Elvish Warmaster
 1 Emil, Vastlands Roamer
 1 Environmental Scientist
+1 Feline Sovereign
 1 Fierce Empath
 1 Flourishing Bloom-Kin
 1 Fyndhorn Elves
@@ -57,9 +58,11 @@ legality: commander
 1 Heroes' Bane
 1 Highspire Artisan
 2 Hungry Graffalon
+1 Hungry Lynx
 4 Imperious Perfect
 2 Infirmary Healer // Stream of Life
 1 Insidious Fungus
+1 Jedit Ojanen of Efrava
 1 Keen-Eyed Curator
 1 Kujar Seedsculptor
 1 Leaf-Crowned Visionary
@@ -81,7 +84,10 @@ legality: commander
 1 Pelakka Wurm
 1 Pestbrood Sloth
 1 Predator Ooze
+1 Pride Sovereign
 1 Priest of Titania
+1 Prowling Serpopard
+1 Qasali Slingers
 1 Quakestrider Ceratops
 3 Reclamation Sage
 2 Rosethorn Acolyte // Seasonal Ritual
@@ -89,6 +95,7 @@ legality: commander
 1 Sage of the Fang
 2 Sagu Pummeler
 1 Sagu Wildling // Roost Seek
+1 Sazh's Chocobo
 2 Shopkeeper's Bane
 1 Springbloom Druid
 1 Springmantle Cleric
@@ -105,6 +112,7 @@ legality: commander
 1 Topiary Lecturer
 1 Treetop Sentries
 1 Treetop Snarespinner
+1 Undercover Skrull
 1 Undergrowth Leopard
 1 Urborg Elf
 1 Vastlands Scavenger // Bind to Life
@@ -132,7 +140,7 @@ legality: commander
 3 Giant Growth
 2 Glorious Decay
 2 Heritage Reclamation
-1 Heroic Intervention
+2 Heroic Intervention
 2 Lumaret's Favor
 2 Midnight Tilling
 2 Origin of Metalbending
@@ -156,6 +164,7 @@ legality: commander
 1 Grow from the Ashes
 1 Gysahl Greens
 2 Knockout Maneuver
+2 Nature's Lore
 2 Nature's Rhythm
 3 Oracle's Restoration
 2 Overrun
@@ -164,6 +173,7 @@ legality: commander
 1 Roamer's Routine
 2 Shared Roots
 2 Snarl Song
+1 Three Visits
 1 True Ancestry
 3 Wild Hypothesis
 1 Zimone's Experiment
@@ -172,6 +182,7 @@ legality: commander
 1 Additive Evolution
 1 Aid from the Cowl
 1 Airtight Alibi
+1 Beastmaster Ascension
 1 Garruk's Uprising
 1 Morcant's Eyes
 1 Ordeal of Nylea

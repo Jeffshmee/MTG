@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Dour Port-Mage`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{U}  
 > **Type:** Creature — Frog Wizard  
 > **P/T:** 1/3  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:91%"></div></div>
 >
-> ![Dour Port-Mage](https://cards.scryfall.io/border_crop/front/6/4/6402133e-eed1-4a46-9667-8b7a310362c1.jpg)
+> ![Dour Port-Mage](https://cards.scryfall.io/border_crop/front/9/e/9e407118-95b7-4e62-a4f0-dbd8b6b80830.jpg)
 >
 > ### Deck Scores
 >
@@ -50,7 +50,7 @@ Whenever one or more other creatures you control leave the battlefield without d
 
 ## Deck Role & Rating
 
-Dour Port-Mage is bounce at {1}{U}: tokens that leave cease to exist, and a creature that leaves and returns is a new object with no counters. Point it at the engine (Adeline, Lathril, a counter lord), not one 1/1. It is a noncreature spell, so [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] triggers. Draws when creatures leave without dying (Kykar blink). {1}{U} bounce your own creature for extra ETBs. It is not in the owned 65 yet.
+Dour Port-Mage is bounce at {1}{U}: tokens that leave cease to exist, and a creature that leaves and returns is a new object with no counters. Point it at the engine (Adeline, Lathril, a counter lord), not one 1/1. It is a noncreature spell, so [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] triggers. Draws when creatures leave without dying (Kykar blink). {1}{U} bounce your own creature for extra ETBs. Sleeved 12/09/2026.
 
 ## Play Patterns & Lines
 
@@ -69,7 +69,7 @@ Dour Port-Mage is bounce at {1}{U}: tokens that leave cease to exist, and a crea
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -92,15 +92,15 @@ Dour Port-Mage is bounce at {1}{U}: tokens that leave cease to exist, and a crea
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 94
 >   combined: 91
-> scryfall_id: 6402133e-eed1-4a46-9667-8b7a310362c1
+> scryfall_id: 9e407118-95b7-4e62-a4f0-dbd8b6b80830
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

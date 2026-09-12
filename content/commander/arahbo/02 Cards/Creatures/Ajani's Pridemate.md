@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Ajani's Pridemate](https://cards.scryfall.io/border_crop/front/1/7/1796b260-7053-4d68-9918-c7392e312d10.jpg)
+> ![Ajani's Pridemate](https://cards.scryfall.io/border_crop/front/d/4/d4cfb9bc-4273-4e5f-a7ac-2006a8345a4e.jpg)
 >
 > ### Deck Scores
 >
@@ -59,7 +59,7 @@ Whenever you gain life, put a [[03 Effects/Plus One Counters|+1/+1 counter]] on 
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
 - **Life**: [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Sacred Cat|Sacred Cat]], [[02 Cards/Creatures/Ajani's Sunstriker|Ajani's Sunstriker]], [[02 Cards/Creatures/Cat Collector|Cat Collector]], [[02 Cards/Planeswalkers/Ajani, Caller of the Pride|Ajani, Caller of the Pride]]
-- **Sleeve next**: [[02 Cards/Enchantments/Ajani's Welcome|Ajani's Welcome]] *(owned extra)*, [[02 Cards/Creatures/Healer of the Pride|Healer of the Pride]] *(owned extra)*
+- **Sleeve next**: [[02 Cards/Enchantments/Ajani's Welcome|Ajani's Welcome]] *(owned extra)*, [[02 Cards/Creatures/Healer of the Pride|Healer of the Pride]]
 
 ## Anti-synergies / Notes
 
@@ -91,7 +91,7 @@ Whenever you gain life, put a [[03 Effects/Plus One Counters|+1/+1 counter]] on 
 >   general: 85
 >   deck_specific: 96
 >   combined: 92
-> scryfall_id: 1796b260-7053-4d68-9918-c7392e312d10
+> scryfall_id: d4cfb9bc-4273-4e5f-a7ac-2006a8345a4e
 > tags:
 >   - card
 >   - main-deck

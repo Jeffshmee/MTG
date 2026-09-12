@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Bitterblossom`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}  
 > **Type:** Kindred Enchantment — Faerie  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Bitterblossom](https://cards.scryfall.io/border_crop/front/b/9/b9640cbf-b016-410e-9eff-e8924883517b.jpg?1783921908)
+> ![Bitterblossom](https://cards.scryfall.io/border_crop/front/4/c/4c2fd7bd-6528-453b-b55d-a708967b14e8.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ At the beginning of your upkeep, [[03 Effects/Lose Life|you lose 1 life]] and [[
 
 ## Deck Role & Rating
 
-Wishlist repeating Faerie tokens. Each upkeep you lose 1 life and make a 1/1 flying Faerie Rogue. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] is down, every token mills two and raises the steal count. Kindred Enchantment — Faerie, so the enchantment itself is a Faerie permanent and mills when it enters. Wishlist only — not purchased, not in the owned list.
+Repeating Faerie tokens. Each upkeep you lose 1 life and make a 1/1 flying Faerie Rogue. After [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen]] is down, every token mills two and raises the steal count. Kindred Enchantment — Faerie, so the enchantment itself is a Faerie permanent and mills when it enters. Arrived 11/09/2026. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -67,7 +67,7 @@ Wishlist repeating Faerie tokens. Each upkeep you lose 1 life and make a 1/1 fly
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet. Not purchased.
+- In hand on the sideboard. Not in the 100 until a named cut.
 - One life a turn. This list has almost no lifegain once Pennant is named Elf.
 - Tokens miss Banner / Archdruid pumps. They are still mills.
 
@@ -92,17 +92,16 @@ Wishlist repeating Faerie tokens. Each upkeep you lose 1 life and make a 1/1 fly
 > colors: [B]
 > color_identity: [B]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 90
 >   deck_specific: 94
 >   combined: 92
-> scryfall_id: b9640cbf-b016-410e-9eff-e8924883517b
+> scryfall_id: 4c2fd7bd-6528-453b-b55d-a708967b14e8
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
->   - wishlist
 > ```
 
 *Last evaluated: 2026-08-17*  

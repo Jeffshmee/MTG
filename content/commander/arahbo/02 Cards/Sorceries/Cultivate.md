@@ -56,7 +56,7 @@
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Ramp**: [[02 Cards/Sorceries/Three Visits|Three Visits]] *(owned extra)*, [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]] *(owned extra)*
+- **Ramp**: [[02 Cards/Sorceries/Three Visits|Three Visits]], [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]]
 
 ## Anti-synergies / Notes
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Heroic Intervention`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}  
 > **Type:** Instant  
 >
@@ -48,7 +48,7 @@ Permanents you control gain [[03 Effects/Hexproof|hexproof]] and [[03 Effects/In
 
 ## Deck Role & Rating
 
-[[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] is hexproof and indestructible for your permanents this turn. The protection this pile does not have sleeved. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] is hexproof and indestructible for your permanents this turn. The protection this pile does not have sleeved. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -61,7 +61,7 @@ Permanents you control gain [[03 Effects/Hexproof|hexproof]] and [[03 Effects/In
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -84,7 +84,7 @@ Permanents you control gain [[03 Effects/Hexproof|hexproof]] and [[03 Effects/In
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -92,7 +92,7 @@ Permanents you control gain [[03 Effects/Hexproof|hexproof]] and [[03 Effects/In
 > scryfall_id: e32c67d1-187f-40df-b3b3-6036f5c92834
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - instant
 > ```
 

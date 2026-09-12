@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Scoured Barrens](https://cards.scryfall.io/border_crop/front/2/6/2632a4b2-9ca6-4b67-9a99-14f52ad3dc41.jpg)
+> ![Scoured Barrens](https://cards.scryfall.io/border_crop/front/b/4/b4b47b80-69ed-44b0-afa0-ca90206dc16d.jpg)
 >
 > ### Deck Scores
 >
@@ -96,7 +96,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 2632a4b2-9ca6-4b67-9a99-14f52ad3dc41
+> scryfall_id: b4b47b80-69ed-44b0-afa0-ca90206dc16d
 > tags:
 >   - card
 >   - main-deck

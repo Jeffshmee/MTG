@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
-> ![Counterspell](https://cards.scryfall.io/border_crop/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg)
+> ![Counterspell](https://cards.scryfall.io/border_crop/front/8/4/8493131c-0a7b-4be6-a8a2-0b425f4f67fb.jpg)
 >
 > ### Deck Scores
 >

@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 12/09/2026 | Cardmarket · Recollect-Ltd |
 
 </div>
 
@@ -38,12 +38,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>325</td><td>—</td><td>1</td><td>Box</td><td>0.24</td></tr>
+<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>325</td><td>—</td><td>2</td><td>Box</td><td>0.24</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +55,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/c/b/cb1563a1-c8dc-4fcb-b9c8-e7432235d31e.jpg" alt="Solemn Simulacrum TDC 325 · ×1">
-<figcaption>TDC 325 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/c/b/cb1563a1-c8dc-4fcb-b9c8-e7432235d31e.jpg" alt="Solemn Simulacrum TDC 325 · ×2">
+<figcaption>TDC 325 · ×2</figcaption>
 </figure>
 </div>
 
@@ -75,7 +75,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 4
 > type: "Artifact Creature — Golem"
 > scryfall_id: cb1563a1-c8dc-4fcb-b9c8-e7432235d31e
-> quantity: 1
+> quantity: 2
 > tags:
 >   - artifact
 >   - card

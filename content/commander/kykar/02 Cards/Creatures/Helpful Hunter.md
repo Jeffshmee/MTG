@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Helpful Hunter`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Cat  
 > **P/T:** 1/1  
@@ -87,7 +87,7 @@ Hunter is the cheap ETB draw. Blink food for Kykar, Thassa, and Skycoach. Two ma
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 82
 >   deck_specific: 92
@@ -95,7 +95,7 @@ Hunter is the cheap ETB draw. Blink food for Kykar, Thassa, and Skycoach. Two ma
 > scryfall_id: 1b9a0e91-80b5-428f-8f08-931d0631be14
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

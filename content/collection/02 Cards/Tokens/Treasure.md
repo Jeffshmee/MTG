@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Artifact — Treasure
 >
-> ![Treasure](https://cards.scryfall.io/border_crop/front/b/4/b4f61b5e-9c53-40b1-b93e-3ffa351ff052.jpg)
+> ![Treasure](https://cards.scryfall.io/border_crop/front/5/c/5c0b31c3-5775-41a6-9981-44fc4a6d4aa8.jpg)
 
 <div class="collection-side-tables">
 
@@ -33,6 +33,7 @@
 | 02/09/2026 | Booster haul |
 | 04/09/2026 | MageCards · Axion_Now |
 | 10/09/2026 | arrival extra |
+| 12/09/2026 | Cardmarket · NuggetGaming |
 
 </div>
 
@@ -41,7 +42,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>20</div>
+<div class="synergy-score-num"><span>Copies</span>32</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -49,7 +50,7 @@
 <tr><td>Foundations Tokens (<code>TFDN</code>)</td><td>23</td><td>—</td><td>1</td><td>Box</td><td>0.07</td></tr>
 <tr><td>Lorwyn Eclipsed Tokens (<code>TECL</code>)</td><td>10</td><td>—</td><td>2</td><td>Box</td><td>—</td></tr>
 <tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>16</td><td>—</td><td>1</td><td>Box</td><td>0.22</td></tr>
-<tr><td>Duskmourn: House of Horror Tokens (<code>TDSK</code>)</td><td>15</td><td>—</td><td>1</td><td>Box</td><td>0.19</td></tr>
+<tr><td>Duskmourn: House of Horror Tokens (<code>TDSK</code>)</td><td>15</td><td>—</td><td>13</td><td>Box</td><td>0.19</td></tr>
 <tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>13</td><td>—</td><td>2</td><td>Box</td><td>—</td></tr>
 <tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>12</td><td>—</td><td>8</td><td>Box</td><td>—</td></tr>
 <tr><td>The Hobbit Tokens (<code>THOB</code>)</td><td>13</td><td>foil</td><td>4</td><td>Box</td><td>—</td></tr>
@@ -65,6 +66,10 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/5/c/5c0b31c3-5775-41a6-9981-44fc4a6d4aa8.jpg" alt="Treasure TDSK 15 · ×13">
+<figcaption>TDSK 15 · ×13</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/4/b4f61b5e-9c53-40b1-b93e-3ffa351ff052.jpg" alt="Treasure TSOS 12 · ×8">
 <figcaption>TSOS 12 · ×8</figcaption>
 </figure>
@@ -75,10 +80,6 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/c/ac4384b7-853c-417d-b3b4-f54cd0b5d361.jpg" alt="Treasure TECL 10 · ×2">
 <figcaption>TECL 10 · ×2</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/5/c/5c0b31c3-5775-41a6-9981-44fc4a6d4aa8.jpg" alt="Treasure TDSK 15 · ×1">
-<figcaption>TDSK 15 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/2/1/21210145-8edd-41f5-9a64-9f0b5be79864.jpg" alt="Treasure TFDN 23 · ×1">
@@ -108,8 +109,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Artifact — Treasure"
-> scryfall_id: b4f61b5e-9c53-40b1-b93e-3ffa351ff052
-> quantity: 20
+> scryfall_id: 5c0b31c3-5775-41a6-9981-44fc4a6d4aa8
+> quantity: 32
 > tags:
 >   - artifact
 >   - card

@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**245** copies · **180** names.
+**261** copies · **196** names.
 
 ```decklist
 group: auto
@@ -29,6 +29,7 @@ legality: commander
 1 Belladonna Took
 1 Brave-Kin Duo
 1 Brightfield Glider
+1 Brimaz, King of Oreskos
 1 Cat Collector
 1 Cathar Commando
 1 Charming Prince
@@ -48,12 +49,14 @@ legality: commander
 1 Emeritus of Truce // Swords to Plowshares
 1 Ennis, Debate Moderator
 3 Esgaroth Garrison
+1 Essence Channeler
 1 Felidar Cub
 1 Felidar Savior
 1 Fortress Kin-Guard
 1 Glider Kids
 1 Goldnight Commander
 1 Griffnaut Tracker
+1 Healer of the Pride
 1 Healer's Hawk
 2 Helpful Hunter
 1 Hero of Bladehold
@@ -68,6 +71,7 @@ legality: commander
 1 Jazal Goldmane
 1 Karlov Watchdog
 1 Knight of Grace
+1 Knight of the White Orchid
 2 Lake-town Lookout
 1 Lake-town Toymaker
 1 Linden, the Steadfast Queen
@@ -75,9 +79,11 @@ legality: commander
 1 Lyra Dawnbringer
 1 Mentor of the Meek
 1 Moonlit Lamenter
+1 Mtenda Herder
 1 Museum Nightwatch
 1 Nettle Guard
 1 Novice Inspector
+1 Ocelot Pride
 2 Oreskos Swiftclaw
 4 Owlin Historian
 1 Poised Practitioner
@@ -89,17 +95,21 @@ legality: commander
 3 Rehearsed Debater
 1 Reluctant Dounguard
 1 Resolute Reinforcements
+1 Rhox Faithmender
 2 Riling Dawnbreaker // Signaling Roar
 1 Sacred Cat
 1 Salt Road Packbeast
 1 Savannah Lions
 1 Selfless Spirit
+1 Serra Ascendant
 2 Shattered Acolyte
 1 Shrike Force
 1 Soaring Stoneglider
+1 Speaker of the Heavens
 1 Spiritcall Enthusiast // Scrollboost
 1 Squad Rallier
 3 Stone Docent
+1 Stonehorn Dignitary
 2 Summoned Dromedary
 2 Sun Titan
 2 Sun-Dappled Celebrant
@@ -148,6 +158,7 @@ legality: commander
 1 Swords to Plowshares
 1 The Eagles Are Coming!
 2 Thorin's Last Stand
+1 Unbreakable Formation
 1 Valorous Stance
 1 Vow to Erebor
 1 White Sun's Zenith
@@ -158,21 +169,25 @@ legality: commander
 1 Daydream
 1 Devout Decree
 2 Dig Site Inventory
+1 Farewell
 1 Group Project
 1 Helping Hand
 2 Hop to It
 1 Hour of Reckoning
 1 Lingering Souls
 1 Moment of Glory
+1 Practiced Offense
 1 Prismatic Ending
 2 Release the Dogs
 1 Requisition Raid
 1 Restoration Seminar
+1 Sevinne's Reclamation
 1 Split Up
 
 # Enchantments
 1 Airbender Ascension
 1 Angelic Destiny
+1 Authority of the Consuls
 1 Banishing Light
 1 Case of the Pilfered Proof
 3 Celebrate the Mountain-king
@@ -183,6 +198,7 @@ legality: commander
 2 Legion Loyalty
 1 Lightwheel Enhancements
 1 Makeshift Binding
+1 Sheltered by Ghosts
 1 Southern Air Temple
 1 Spiral into Solitude
 2 Stasis Snare

@@ -60,7 +60,7 @@
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Tokens / fodder**: [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] *(owned extra)*, [[02 Cards/Creatures/Jadar, Ghoulcaller of Nephalia|Jadar, Ghoulcaller of Nephalia]] *(owned extra)*
+- **Tokens / fodder**: [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]], [[02 Cards/Creatures/Jadar, Ghoulcaller of Nephalia|Jadar, Ghoulcaller of Nephalia]] *(owned extra)*
 
 ## Anti-synergies / Notes
 

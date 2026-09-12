@@ -49,22 +49,21 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Jazal Goldmane|Jazal Goldmane]] at {2}{W}{W} is a Cat — first strike (This creature deals combat damage before creatures without first strike.). [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Jazal Goldmane|Jazal Goldmane]] is first strike and {3}{W}{W}: attacking creatures get +X/+X where X is the number attacking. Go-wide closer. Activate after blockers if you can. Not a lord that sits there — it is a mana sink. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Attack with many Cats, activate, connect. Banner / Regal already on the team.
+- Do not activate into a wrath on the stack.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Go-wide**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Leonin Warleader|Leonin Warleader]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
+- Five mana to cast, five more to activate. Empty-board Jazal is a 4/4 first strike.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

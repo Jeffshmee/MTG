@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Sygg, Wanderwine Wisdom`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{U}  
 > **Type:** Legendary Creature — Merfolk Wizard // Legendary Creature — Merfolk Rogue  
 > **P/T:** 2/2  
@@ -91,7 +91,7 @@ Sygg is unblockable. ETB or transform into Wisdom grants combat-damage draw unti
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: ["Transform"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 74
 >   deck_specific: 78
@@ -99,7 +99,7 @@ Sygg is unblockable. ETB or transform into Wisdom grants combat-damage draw unti
 > scryfall_id: 70adc870-f0db-4d4b-863b-673c2c258751
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

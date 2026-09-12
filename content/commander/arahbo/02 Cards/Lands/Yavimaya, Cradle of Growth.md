@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Yavimaya, Cradle of Growth`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Legendary Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Yavimaya](https://cards.scryfall.io/border_crop/front/8/a/8a12b4f7-8f6b-4a3c-9114-825e1b2099a0.jpg)
+> ![Yavimaya, Cradle of Growth](https://cards.scryfall.io/border_crop/front/8/a/8a12b4f7-8f6b-4a3c-9114-825e1b2099a0.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@ Each land is a Forest in addition to its other land types.
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya, Cradle of Growth]] each land is a Forest in addition to its other land types. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya, Cradle of Growth]] each land is a Forest in addition to its other land types. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}.
 
 ## Play Patterns & Lines
 
@@ -61,7 +61,7 @@ Each land is a Forest in addition to its other land types.
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
 
 ## Related Pages
 
@@ -84,7 +84,7 @@ Each land is a Forest in addition to its other land types.
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -92,7 +92,7 @@ Each land is a Forest in addition to its other land types.
 > scryfall_id: 8a12b4f7-8f6b-4a3c-9114-825e1b2099a0
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

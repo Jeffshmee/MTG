@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ocelot Pride`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}  
 > **Type:** Creature — Cat  
 > **P/T:** 1/1  
@@ -53,21 +53,22 @@ At the [[03 Effects/End Step|beginning of your end step]], if you gained life th
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Ocelot Pride|Ocelot Pride]] is a 1/1 Cat that copies a token if you gained life this turn. Explosive once Regal / Collector are on. 🟢 SB — sleeve after a ramp spell and a lord. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Ocelot Pride|Ocelot Pride]] is first strike, lifelink, ascend, and at end step if you gained life this turn: a 1/1 Cat, then if you have the city's blessing copy each token that entered this turn. The go-wide closer. Needs a life gain and ten permanents. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Play it when you will gain life the same turn (Regal, Sacred Cat, Collector Food).
+- Regal / Healer / combat lifelink turn the end step on. Get to ten permanents (Cats + lands) before you expect the copy.
+- First Fang tokens plus Pride's token plus copies is the dump. Do not lead Pride into an empty board.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Life / tokens**: [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Cat Collector|Cat Collector]], [[02 Cards/Creatures/Sacred Cat|Sacred Cat]]
+- **Life / tokens**: [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Healer of the Pride|Healer of the Pride]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Enchantments/Felidar Retreat|Felidar Retreat]]
 
 ## Anti-synergies / Notes
 
-- Without a life gain it is a 1/1. Do not lead it dry.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- No life gain this turn = no token. City's blessing needs ten permanents. Token copies do not trigger First Fang.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -90,7 +91,7 @@ At the [[03 Effects/End Step|beginning of your end step]], if you gained life th
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Lifelink", "Ascend", "First strike"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -98,7 +99,7 @@ At the [[03 Effects/End Step|beginning of your end step]], if you gained life th
 > scryfall_id: 89cf6f57-230f-497e-a14e-ad1e8737fd42
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

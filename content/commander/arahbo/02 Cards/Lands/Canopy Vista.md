@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Canopy Vista`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land — Forest Plains  
 >
@@ -49,7 +49,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control two or m
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Canopy Vista|Canopy Vista]] ({T}: Add {G} or {W}.). Tapped — third land, not the land for a turn-1 Cat. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Canopy Vista|Canopy Vista]] ({T}: Add {G} or {W}.). Tapped — third land, not the land for a turn-1 Cat. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control two or m
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 - Tapped. Third land, not the land for a turn-1 Cat.
 
 ## Related Pages
@@ -88,7 +88,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control two or m
 > colors: []
 > color_identity: ["G", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -96,7 +96,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control two or m
 > scryfall_id: 369e6485-fbc7-45f9-ac9d-2e26dd94f2d5
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

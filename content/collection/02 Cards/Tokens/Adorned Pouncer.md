@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Creature — Zombie Cat
 >
-> ![Adorned Pouncer](https://cards.scryfall.io/border_crop/front/7/1/71dc8556-a658-40e1-8a93-6a62af208a28.jpg)
+> ![Adorned Pouncer](https://cards.scryfall.io/border_crop/front/8/6/865e267d-450c-4eeb-b61d-bd0ec5d8534a.jpg)
 
 <div class="collection-side-tables">
 
@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[02 Cards/Tokens/01 - Summary\|Token]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (0)\|Mana (0)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 10/09/2026 | MageCards · Sebizzle |
+| 12/09/2026 | arrival extra |
 
 </div>
 
@@ -38,22 +39,31 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Hour of Devastation Tokens (<code>THOU</code>)</td><td>1</td><td>—</td><td>1</td><td>Box</td><td>0.32</td></tr>
+<tr><td>Hour of Devastation (<code>HOU</code>)</td><td>2</td><td>—</td><td>1</td><td>Arahbo</td><td>0.40</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
 Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/8/6/865e267d-450c-4eeb-b61d-bd0ec5d8534a.jpg" alt="Adorned Pouncer HOU 2 · ×1">
+<figcaption>HOU 2 · ×1</figcaption>
+</figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/7/1/71dc8556-a658-40e1-8a93-6a62af208a28.jpg" alt="Adorned Pouncer THOU 1 · ×1">
 <figcaption>THOU 1 · ×1</figcaption>
@@ -62,7 +72,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/THOU|Hour of Devastation Tokens]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/THOU|Hour of Devastation Tokens]] · [[06 Browse/Sets/HOU|Hour of Devastation]]
 
 ---
 
@@ -74,8 +84,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Creature — Zombie Cat"
-> scryfall_id: 71dc8556-a658-40e1-8a93-6a62af208a28
-> quantity: 1
+> scryfall_id: 865e267d-450c-4eeb-b61d-bd0ec5d8534a
+> quantity: 2
 > tags:
 >   - card
 >   - cat

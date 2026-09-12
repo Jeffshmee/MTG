@@ -48,12 +48,13 @@ Point spot bounce at the **engine**.
 
 **Live in the 72**
 
-- Draw ETBs: [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], [[02 Cards/Creatures/Inspiring Overseer|Inspiring Overseer]], [[02 Cards/Creatures/Cloudblazer|Cloudblazer]], [[02 Cards/Creatures/Skyscanner|Skyscanner]]
+- Draw ETBs: [[02 Cards/Creatures/Cloudblazer|Cloudblazer]], [[02 Cards/Creatures/Mulldrifter|Mulldrifter]] · owned extras: [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], [[02 Cards/Creatures/Inspiring Overseer|Inspiring Overseer]], [[02 Cards/Creatures/Skyscanner|Skyscanner]]
 - Cantrips: [[02 Cards/Instants/Opt|Opt]], [[02 Cards/Instants/Think Twice|Think Twice]], [[02 Cards/Sorceries/Winged Words|Winged Words]]
-- Extra card on cheap ETBs: [[02 Cards/Enchantments/Tocasia's Welcome|Tocasia's Welcome]]
+- Extra card on cheap ETBs: [[02 Cards/Enchantments/Tocasia's Welcome|Tocasia's Welcome]] *(owned extra — cut 11/09 for High Fae Trickster)*
+- Flash all spells: [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]]
 - Recur a bounce spell: [[02 Cards/Creatures/Shipwreck Dowser|Shipwreck Dowser]]
 
-**Pending:** Mulldrifter, Ponder, Preordain, Kitten (instant blink on every spell).
+**Pending:** Preordain. Mulldrifter, Ponder, and Kitten are in the 100.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Jedit Ojanen of Efrava`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{G}{G}{G}  
 > **Type:** Legendary Creature — Cat Warrior  
 > **P/T:** 5/5  
@@ -49,24 +49,21 @@ Whenever Jedit Ojanen attacks or blocks, [[03 Effects/Create Token|create a 2/2 
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Jedit Ojanen of Efrava|Jedit Ojanen of Efrava]] at {3}{G}{G}{G} is a Cat — forestwalk (This creature can't be blocked as long as defending player controls a Forest.). [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Jedit Ojanen of Efrava|Jedit Ojanen of Efrava]] is a 5/5 forestwalk that mints a 2/2 Cat Warrior with forestwalk on attack or block. [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya, Cradle of Growth]] makes every land a Forest — forestwalk becomes unblockable. Six mana. Token Cats do not trigger First Fang.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Token Cats do not trigger First Fang. They still get Banner / Regal.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
+- Cast when Yavimaya is in play so forestwalk is real against everyone. Attack, take the 2/2, attack again next turn.
+- Without Yavimaya, forestwalk only hits green tables. Still a 5/5 and a token.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Tokens**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Enchantments/Felidar Retreat|Felidar Retreat]]
+- **Forestwalk / tokens**: [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya, Cradle of Growth]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Token Cats do not trigger First Fang. Nontoken Cats do.
+- Six mana {G}{G}{G}. Token Warriors do not trigger First Fang. Without Yavimaya, many tables can block.
 
 ## Related Pages
 
@@ -89,7 +86,7 @@ Whenever Jedit Ojanen attacks or blocks, [[03 Effects/Create Token|create a 2/2 
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: ["Landwalk", "Forestwalk"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -97,7 +94,7 @@ Whenever Jedit Ojanen attacks or blocks, [[03 Effects/Create Token|create a 2/2 
 > scryfall_id: aba23c7b-27c0-440b-b9b2-f1cd3892ba7b
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

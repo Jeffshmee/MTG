@@ -2,7 +2,7 @@
 
 Set `DSK`. Qty here is copies of this name from this set.
 
-**30** copies · **30** names.
+**31** copies · **31** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -29,6 +29,7 @@ Set `DSK`. Qty here is copies of this name from this set.
 | [**`mtg:Cackling Slasher`**](https://scryfall.com/card/dsk/85) | [[02 Cards/Creatures/Cackling Slasher\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Assassin\|Assassin]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Cautious Survivor`**](https://scryfall.com/card/dsk/172) | [[02 Cards/Creatures/Cautious Survivor\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Survivor\|Survivor]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Clammy Prowler`**](https://scryfall.com/card/dsk/45) | [[02 Cards/Creatures/Clammy Prowler\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |
+| [**`mtg:Enduring Tenacity`**](https://scryfall.com/card/dsk/95) | [[02 Cards/Creatures/Enduring Tenacity\|PAGE]] | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Snake\|Snake]] [[04 Creature Types/Glimmer\|Glimmer]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 10.36 |
 | [**`mtg:Fanatic of the Harrowing`**](https://scryfall.com/card/dsk/96) | [[02 Cards/Creatures/Fanatic of the Harrowing\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.09 |
 | [**`mtg:Peer Past the Veil`**](https://scryfall.com/card/dsk/226) | [[02 Cards/Instants/Peer Past the Veil\|PAGE]] | {2}{R}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.08 |
 | [**`mtg:Bashful Beastie`**](https://scryfall.com/card/dsk/169) | [[02 Cards/Creatures/Bashful Beastie\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |

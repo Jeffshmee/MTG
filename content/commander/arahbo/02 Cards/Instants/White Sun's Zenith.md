@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![White Sun's Zenith](https://cards.scryfall.io/border_crop/front/0/2/029e0450-ceb1-484d-8a18-e769defac428.jpg)
+> ![White Sun's Zenith](https://cards.scryfall.io/border_crop/front/d/f/df11cf8d-ca63-4c3e-a567-b6a403a81aa7.jpg)
 >
 > ### Deck Scores
 >
@@ -90,7 +90,7 @@
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: 029e0450-ceb1-484d-8a18-e769defac428
+> scryfall_id: df11cf8d-ca63-4c3e-a567-b6a403a81aa7
 > tags:
 >   - card
 >   - main-deck

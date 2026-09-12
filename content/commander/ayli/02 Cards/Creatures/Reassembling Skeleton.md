@@ -48,20 +48,21 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Reassembling Skeleton|Reassembling Skeleton]] at {1}{B}: {1}{B}: Return this card from your graveyard to the battlefield tapped. A body for Ayli to sac or a trigger for Hinterland / Delney — not a blink target. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Reassembling Skeleton|Reassembling Skeleton]] pays {1}{B} from the yard to return tapped. Repeatable fodder. Each loop is a death for Bastion / Bloodwitch and an ETB for Hinterland. Slower than [[02 Cards/Creatures/Nine-Lives Familiar|Nine-Lives Familiar]] (end-step return) and cheaper than Victimize. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
-- Do not sac Delney, Hinterland, or Vito to the first outlet.
+- Sac it, pay {{1}}{{B}} in their end step so it is untapped on your turn if you need a blocker — it returns tapped, so plan the tap.
+- Do not pay the last {{1}}{{B}} if Ayli exile is up the same turn.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
+- **Loop**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]
 
 ## Anti-synergies / Notes
 
+- Returns tapped. Not a surprise blocker. Empty mana = it stays dead.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

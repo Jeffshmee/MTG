@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Lightning Greaves](https://cards.scryfall.io/border_crop/front/4/b/4b8bfdd3-7c73-4d13-8a8d-50b6dd85fad3.jpg)
+> ![Lightning Greaves](https://cards.scryfall.io/border_crop/front/8/b/8b59b12c-fde5-4f19-a357-e09f06f490cc.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@ Equip {0}
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: 4b8bfdd3-7c73-4d13-8a8d-50b6dd85fad3
+> scryfall_id: 8b59b12c-fde5-4f19-a357-e09f06f490cc
 > tags:
 >   - card
 >   - ordered

@@ -2,7 +2,7 @@
 
 Set `SOS`. Qty here is copies of this name from this set.
 
-**429** copies · **224** names.
+**430** copies · **225** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -134,6 +134,7 @@ Set `SOS`. Qty here is copies of this name from this set.
 | [**`mtg:Pest Mascot`**](https://scryfall.com/card/sos/209) | [[02 Cards/Creatures/Pest Mascot\|PAGE]] | {1}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Pest\|Pest]] [[04 Creature Types/Ape\|Ape]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.14 |
 | [**`mtg:Poisoner's Apprentice`**](https://scryfall.com/card/sos/92) | [[02 Cards/Creatures/Poisoner's Apprentice\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.11 |
 | [**`mtg:Potioner's Trove`**](https://scryfall.com/card/sos/251) | [[02 Cards/Artifacts/Potioner's Trove\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.09 |
+| [**`mtg:Practiced Offense`**](https://scryfall.com/card/sos/25) | [[02 Cards/Sorceries/Practiced Offense\|PAGE]] | {2}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.71 |
 | [**`mtg:Practiced Scrollsmith`**](https://scryfall.com/card/sos/210) | [[02 Cards/Creatures/Practiced Scrollsmith\|PAGE]] | {R}{R/W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
 | [**`mtg:Pull from the Grave`**](https://scryfall.com/card/sos/95) | [[02 Cards/Sorceries/Pull from the Grave\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.12 |
 | [**`mtg:Quick Study`**](https://scryfall.com/card/sos/65) | [[02 Cards/Instants/Quick Study\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 0.52 |

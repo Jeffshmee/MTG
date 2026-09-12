@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Swamp](https://cards.scryfall.io/border_crop/front/1/3/13505c15-14e0-4200-82bd-fb9bce949e68.jpg)
+> ![Swamp](https://cards.scryfall.io/border_crop/front/e/5/e54a44f2-70bf-4782-bd13-9d03e109d60d.jpg)
 >
 > ### Deck Scores
 >
@@ -89,7 +89,7 @@
 >   general: 70
 >   deck_specific: 70
 >   combined: 70
-> scryfall_id: 13505c15-14e0-4200-82bd-fb9bce949e68
+> scryfall_id: e54a44f2-70bf-4782-bd13-9d03e109d60d
 > tags:
 >   - card
 >   - main-deck

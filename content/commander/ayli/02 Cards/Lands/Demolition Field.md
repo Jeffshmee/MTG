@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Demolition Field`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Demolition Field](https://cards.scryfall.io/border_crop/front/0/c/0c7e51b6-4898-4632-b39c-3ce438caa882.jpg)
+> ![Demolition Field](https://cards.scryfall.io/border_crop/front/7/f/7f6d8cae-face-4bff-8c0a-348cefe1e9dd.jpg)
 >
 > ### Deck Scores
 >
@@ -50,7 +50,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Demolition Field|Demolition Field]] {T}: Add {C}. Colourless — do not count it as {W} or {B}. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Demolition Field|Demolition Field]] {T}: Add {C}. Colourless — do not count it as {W} or {B}. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]].
 
 ## Play Patterns & Lines
 
@@ -66,7 +66,7 @@
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Ayli exile is not a death. Do not sequence this as if it were.
 
 ## Related Pages
 
@@ -89,15 +89,15 @@
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 0c7e51b6-4898-4632-b39c-3ce438caa882
+> scryfall_id: 7f6d8cae-face-4bff-8c0a-348cefe1e9dd
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

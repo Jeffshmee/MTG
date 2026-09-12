@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Stonehorn Dignitary`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{W}  
 > **Type:** Creature — Rhino Soldier  
 > **P/T:** 1/4  
@@ -48,13 +48,13 @@
 
 ## Deck Role & Rating
 
-Stonehorn Dignitary is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). ETB: target opponent skips combat. Token decks hate this. It is not in the owned 65 yet.
+Stonehorn Dignitary is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). ETB: target opponent skips combat. Token decks hate this. Sleeved 12/09/2026.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- Sleeved 12/09/2026.
 
 ## Key Synergies
 
@@ -64,7 +64,7 @@ Stonehorn Dignitary is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Z
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -87,7 +87,7 @@ Stonehorn Dignitary is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Z
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 86
@@ -95,7 +95,7 @@ Stonehorn Dignitary is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Z
 > scryfall_id: c3797f7f-489d-4735-af56-6359e0fa0a6b
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

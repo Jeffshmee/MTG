@@ -49,25 +49,21 @@ When this creature dies, [[03 Effects/Create Token|create a 1/1 white Spirit cre
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Doomed Traveler|Doomed Traveler]] at {W}: when this creature dies, create a 1/1 white Spirit creature token with [[03 Effects/Flying. The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Doomed Traveler|Doomed Traveler]] is a 1/1 that leaves a 1/1 flying Spirit. Fodder that replaces itself in the air. Delney doubles the death trigger (1/1). 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- The death feeds Bastion and Bloodwitch. Ayli exile is not a death.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Sac it to Ayli or Feeder; keep the Spirit. The Spirit is also fodder.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
-- **Death / sac**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]]
+- **Fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Creatures/Hunted Witness|Hunted Witness]] *(owned extra)*, [[02 Cards/Creatures/Infestation Sage|Infestation Sage]]
 
 ## Anti-synergies / Notes
 
+- The Spirit is not a Cleric. One-for-one if they path the Traveler before you sac.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
 
 ## Related Pages
 

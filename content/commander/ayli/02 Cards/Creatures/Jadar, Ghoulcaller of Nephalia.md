@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Jadar, Ghoulcaller of Nephalia`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}  
 > **Type:** Legendary Creature — Human Wizard  
 > **P/T:** 1/1  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Jadar](https://cards.scryfall.io/border_crop/front/4/9/49d5d62b-72ed-446a-b280-ad04c38bdd0c.jpg)
+> ![Jadar, Ghoulcaller of Nephalia](https://cards.scryfall.io/border_crop/front/f/2/f29ec5be-501c-4a5d-8b2a-f974c6cf06c6.jpg)
 >
 > ### Deck Scores
 >
@@ -49,25 +49,22 @@ At the [[03 Effects/End Step|beginning of your end step]], if you control no cre
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Jadar, Ghoulcaller of Nephalia|Jadar, Ghoulcaller of Nephalia]] at {1}{B}: at the beginning of your end step, if you control no creatures with decayed, create a 2/2 black Zombie creature token with decayed. (It can't block. When it …. The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Jadar, Ghoulcaller of Nephalia|Jadar, Ghoulcaller of Nephalia]] makes a 2/2 decayed Zombie at each of your end steps if you have no decayed creatures. Fodder that attacks once then dies — a delayed sac. End-step ETB for Hinterland. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- The death feeds Bastion and Bloodwitch. Ayli exile is not a death.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Attack with the Zombie or sac it before the next end step so you make another.
+- Decayed cannot block. Do not leave it as a defender.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
-- **Death / sac**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]]
+- **Fodder / ETB**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
+- If you leave the decayed Zombie, you make nothing next end step. Exile is not a death.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -90,15 +87,15 @@ At the [[03 Effects/End Step|beginning of your end step]], if you control no cre
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
 >   combined: 92
-> scryfall_id: 49d5d62b-72ed-446a-b280-ad04c38bdd0c
+> scryfall_id: f29ec5be-501c-4a5d-8b2a-f974c6cf06c6
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

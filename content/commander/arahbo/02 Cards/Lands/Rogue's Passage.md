@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Rogue's Passage](https://cards.scryfall.io/border_crop/front/3/3/335444f0-0848-4c17-b056-56d4fc876a58.jpg)
+> ![Rogue's Passage](https://cards.scryfall.io/border_crop/front/8/6/86438671-fdb8-4a82-b1e8-ef51fa4078df.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 335444f0-0848-4c17-b056-56d4fc876a58
+> scryfall_id: 86438671-fdb8-4a82-b1e8-ef51fa4078df
 > tags:
 >   - card
 >   - ordered

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Adorned Pouncer`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Cat  
 > **P/T:** 1/1  
@@ -50,24 +50,22 @@ Eternalize {3}{W}{W} ({3}{W}{W}, [[03 Effects/Exile|Exile this card from your gr
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Adorned Pouncer|Adorned Pouncer]] at {1}{W} is a Cat — eternalize {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: [[03 Effects/Create Token. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Adorned Pouncer|Adorned Pouncer]] is double strike on a 1/1 Cat, then eternalize for a 4/4. Combat Cat. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] sees the nontoken ETB; the eternalized copy is a token and does not. HOU 2 creature arrived 12/09/2026. The THOU 1 in Box is still the **token**. First-sleeve the creature; do not sleeve the token as if it were this.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Token Cats do not trigger First Fang. They still get Banner / Regal.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
+- Attack with double strike under Banner / Regal. Eternalize after it dies if you have {{3}}{{W}}{{W}}.
+- Do not sleeve the Hour of Devastation token as if it were this.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Tokens**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Enchantments/Felidar Retreat|Felidar Retreat]]
+- **Combat**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Token Cats do not trigger First Fang. Nontoken Cats do.
+- The Box THOU 1 is the token. Eternalize is sorcery-speed from the yard.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -90,7 +88,7 @@ Eternalize {3}{W}{W} ({3}{W}{W}, [[03 Effects/Exile|Exile this card from your gr
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Double strike", "Eternalize"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -98,7 +96,7 @@ Eternalize {3}{W}{W} ({3}{W}{W}, [[03 Effects/Exile|Exile this card from your gr
 > scryfall_id: 865e267d-450c-4eeb-b61d-bd0ec5d8534a
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

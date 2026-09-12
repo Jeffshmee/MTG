@@ -2,7 +2,7 @@
 
 Set `FIN`. Qty here is copies of this name from this set.
 
-**25** copies · **18** names.
+**26** copies · **19** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,6 +10,7 @@ Set `FIN`. Qty here is copies of this name from this set.
 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 5 | 0.92 |
 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.88 |
 | [**`mtg:Excalibur II`**](https://scryfall.com/card/fin/257) | [[02 Cards/Artifacts/Excalibur II\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.38 |
+| [**`mtg:Sazh's Chocobo`**](https://scryfall.com/card/fin/200) | [[02 Cards/Creatures/Sazh's Chocobo\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.56 |
 | [**`mtg:Adelbert Steiner`**](https://scryfall.com/card/fin/3) | [[02 Cards/Creatures/Adelbert Steiner\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
 | [**`mtg:Dreams of Laguna`**](https://scryfall.com/card/fin/50) | [[02 Cards/Instants/Dreams of Laguna\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
 | [**`mtg:Gysahl Greens`**](https://scryfall.com/card/fin/190) | [[02 Cards/Sorceries/Gysahl Greens\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |

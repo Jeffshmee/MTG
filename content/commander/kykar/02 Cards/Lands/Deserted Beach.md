@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Deserted Beach`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -49,7 +49,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control two or m
 
 ## Deck Role & Rating
 
-Deserted Beach is a mana source for this Azorius pile. Slow land. Untapped if you played another land. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. It is not in the owned 65 yet.
+Deserted Beach is a mana source for this Azorius pile. Slow land. Untapped if you played another land. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. Sleeved 12/09/2026.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ Deserted Beach is a mana source for this Azorius pile. Slow land. Untapped if yo
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 12/09/2026.
 - Tapped. Do not keep a two-lander that needs this untapped for Kykar.
 
 ## Related Pages
@@ -89,7 +89,7 @@ Deserted Beach is a mana source for this Azorius pile. Slow land. Untapped if yo
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 82
@@ -97,7 +97,7 @@ Deserted Beach is a mana source for this Azorius pile. Slow land. Untapped if yo
 > scryfall_id: c819de09-dac2-407a-98c8-775865e9bdf8
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

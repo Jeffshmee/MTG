@@ -2,7 +2,7 @@
 
 Cards whose mana value is 6.
 
-**70** copies · **56** names.
+**72** copies · **58** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -24,6 +24,7 @@ Cards whose mana value is 6.
 | [**`mtg:Dusyut Earthcarver`**](https://scryfall.com/card/tdm/141) | [[02 Cards/Creatures/Dusyut Earthcarver\|PAGE]] | {5}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elephant\|Elephant]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.02 |
 | [**`mtg:Echocasting Symposium`**](https://scryfall.com/card/sos/44) | [[02 Cards/Sorceries/Echocasting Symposium\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 1.94 |
 | [**`mtg:Etali, Primal Storm`**](https://scryfall.com/card/fdn/194) | [[02 Cards/Creatures/Etali, Primal Storm\|PAGE]] | {4}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elder\|Elder]] [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.39 |
+| [**`mtg:Farewell`**](https://scryfall.com/card/fic/242) | [[02 Cards/Sorceries/Farewell\|PAGE]] | {4}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 3.41 |
 | [**`mtg:Feral Deathgorger`**](https://scryfall.com/card/tdm/80) | [[02 Cards/Creatures/Feral Deathgorger\|PAGE]] | {5}{B} // {1}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.03 |
 | [**`mtg:Flood of Tears`**](https://scryfall.com/card/voc/104) | [[02 Cards/Sorceries/Flood of Tears\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.85 |
 | [**`mtg:Forum Necroscribe`**](https://scryfall.com/card/sos/84) | [[02 Cards/Creatures/Forum Necroscribe\|PAGE]] | {5}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Troll\|Troll]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.22 |
@@ -34,6 +35,7 @@ Cards whose mana value is 6.
 | [**`mtg:Gurmag Nightwatch`**](https://scryfall.com/card/tdm/190) | [[02 Cards/Creatures/Gurmag Nightwatch\|PAGE]] | {2/B}{2/G}{2/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Ranger\|Ranger]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.06 |
 | [**`mtg:Homesickness`**](https://scryfall.com/card/sos/53) | [[02 Cards/Instants/Homesickness\|PAGE]] | {4}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.10 |
 | [**`mtg:Hotshot Investigators`**](https://scryfall.com/card/mkm/60) | [[02 Cards/Creatures/Hotshot Investigators\|PAGE]] | {5}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.06 |
+| [**`mtg:Jedit Ojanen of Efrava`**](https://scryfall.com/card/c17/153) | [[02 Cards/Creatures/Jedit Ojanen of Efrava\|PAGE]] | {3}{G}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.40 |
 | [**`mtg:Kin-Tree Severance`**](https://scryfall.com/card/tdm/200) | [[02 Cards/Instants/Kin-Tree Severance\|PAGE]] | {2/W}{2/B}{2/G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.04 |
 | [**`mtg:Lathliss, Dragon Queen`**](https://scryfall.com/card/tdc/219) | [[02 Cards/Creatures/Lathliss, Dragon Queen\|PAGE]] | {4}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.57 |
 | [**`mtg:Magmablood Archaic`**](https://scryfall.com/card/sos/123) | [[02 Cards/Creatures/Magmablood Archaic\|PAGE]] | {2/R}{2/R}{2/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |

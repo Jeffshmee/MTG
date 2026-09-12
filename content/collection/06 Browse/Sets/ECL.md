@@ -2,7 +2,7 @@
 
 Set `ECL`. Qty here is copies of this name from this set.
 
-**112** copies · **80** names.
+**114** copies · **81** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -21,7 +21,7 @@ Set `ECL`. Qty here is copies of this name from this set.
 | [**`mtg:Wanderbrine Trapper`**](https://scryfall.com/card/ecl/42) | [[02 Cards/Creatures/Wanderbrine Trapper\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
 | [**`mtg:Auntie's Sentence`**](https://scryfall.com/card/ecl/85) | [[02 Cards/Sorceries/Auntie's Sentence\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Bark of Doran`**](https://scryfall.com/card/ecl/6) | [[02 Cards/Artifacts/Bark of Doran\|PAGE]] | {1}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
-| [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 17.03 |
+| [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 32.09 |
 | [**`mtg:Bloom Tender`**](https://scryfall.com/card/ecl/166) | [[02 Cards/Creatures/Bloom Tender\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 9.57 |
 | [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/206) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.42 |
 | [**`mtg:Bogslither's Embrace`**](https://scryfall.com/card/ecl/94) | [[02 Cards/Sorceries/Bogslither's Embrace\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
@@ -70,6 +70,7 @@ Set `ECL`. Qty here is copies of this name from this set.
 | [**`mtg:Chitinous Graspling`**](https://scryfall.com/card/ecl/211) | [[02 Cards/Creatures/Chitinous Graspling\|PAGE]] | {3}{G/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Dream Seizer`**](https://scryfall.com/card/ecl/101) | [[02 Cards/Creatures/Dream Seizer\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Feed the Flames`**](https://scryfall.com/card/ecl/137) | [[02 Cards/Instants/Feed the Flames\|PAGE]] | {3}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.10 |
+| [**`mtg:Gathering Stone`**](https://scryfall.com/card/ecl/257) | [[02 Cards/Artifacts/Gathering Stone\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.50 |
 | [**`mtg:High Perfect Morcant`**](https://scryfall.com/card/ecl/229) | [[02 Cards/Creatures/High Perfect Morcant\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 3.33 |
 | [**`mtg:Pitiless Fists`**](https://scryfall.com/card/ecl/187) | [[02 Cards/Enchantments/Pitiless Fists\|PAGE]] | {3}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.08 |
 | [**`mtg:Temporal Cleansing`**](https://scryfall.com/card/ecl/78) | [[02 Cards/Sorceries/Temporal Cleansing\|PAGE]] | {3}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |

@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Fabled Passage](https://cards.scryfall.io/border_crop/front/6/2/62ef854d-ec9e-443d-a4ba-4b2875ed3fe7.jpg)
+> ![Fabled Passage](https://cards.scryfall.io/border_crop/front/8/8/8809830f-d8e1-4603-9652-0ad8b00234e9.jpg)
 >
 > ### Deck Scores
 >
@@ -89,7 +89,7 @@
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 62ef854d-ec9e-443d-a4ba-4b2875ed3fe7
+> scryfall_id: 8809830f-d8e1-4603-9652-0ad8b00234e9
 > tags:
 >   - card
 >   - main-deck

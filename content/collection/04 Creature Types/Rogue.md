@@ -2,13 +2,13 @@
 
 Creature type: Rogue.
 
-**32** copies · **24** names.
+**33** copies · **24** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Pulse Tracker`**](https://scryfall.com/card/fdn/612) | [[02 Cards/Creatures/Pulse Tracker\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
 | [**`mtg:Agent of Kotis`**](https://scryfall.com/card/tdm/36) | [[02 Cards/Creatures/Agent of Kotis\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
-| [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 17.03 |
+| [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 32.09 |
 | [**`mtg:Faerie Mastermind`**](https://scryfall.com/card/mom/58) | [[02 Cards/Creatures/Faerie Mastermind\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 8.13 |
 | [**`mtg:Faerie Vandal`**](https://scryfall.com/card/znc/26) | [[02 Cards/Creatures/Faerie Vandal\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
 | [**`mtg:Gravelgill Scoundrel`**](https://scryfall.com/card/ecl/53) | [[02 Cards/Creatures/Gravelgill Scoundrel\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |

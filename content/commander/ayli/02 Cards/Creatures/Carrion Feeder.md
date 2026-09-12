@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Carrion Feeder`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {B}  
 > **Type:** Creature — Zombie  
 > **P/T:** 1/1  
@@ -49,21 +49,25 @@ Sacrifice a creature: Put a [[03 Effects/Plus One Counters|+1/+1 counter]] on th
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]] is a free sac outlet that grows. Sleeve with Seer. Cannot block — it is not your Hinterland. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]] is the free sac outlet this pile was missing. {0}: sacrifice a creature, put a +1/+1 counter on the Feeder. [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] already sacs for {1} and pays toughness in life; the Feeder sacs for nothing and grows. Cannot block — it is not [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. Sleeve it with [[02 Cards/Creatures/Viscera Seer|Viscera Seer]] still on the sideboard only if you want scry instead of counters.
 
 ## Play Patterns & Lines
 
-- Sac tokens and Sage. Counters stay on the Feeder until it dies.
+- Sac Sage, Inspector, an Insect, or a Soldier — not Delney, Hinterland, or Vito.
+- The death feeds Bastion and Bloodwitch. Ayli exile is not a death and does not grow the Feeder.
+- Keep the counters. Do not chump with it; it cannot block anyway.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Sac**: [[02 Cards/Creatures/Viscera Seer|Viscera Seer]] *(owned extra)*, [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
+- **Free sac**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]], [[02 Cards/Creatures/Priest of Forgotten Gods|Priest of Forgotten Gods]], [[02 Cards/Creatures/Viscera Seer|Viscera Seer]] *(owned extra)*
+- **Deaths**: [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*
+- **Fodder**: [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Novice Inspector|Novice Inspector]], [[02 Cards/Creatures/Ophiomancer|Ophiomancer]]
 
 ## Anti-synergies / Notes
 
-- Cannot block. Do not count it as a defender.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Cannot block. Do not count it as a defender or as Hinterland.
+- Counters die with it. Do not feed it if you need the body next turn.
 
 ## Related Pages
 
@@ -86,7 +90,7 @@ Sacrifice a creature: Put a [[03 Effects/Plus One Counters|+1/+1 counter]] on th
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -94,7 +98,7 @@ Sacrifice a creature: Put a [[03 Effects/Plus One Counters|+1/+1 counter]] on th
 > scryfall_id: 0a19da90-880e-4eca-8cf7-6d7baf090d53
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

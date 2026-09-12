@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Nature's Lore`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> ![Nature's](https://cards.scryfall.io/border_crop/front/7/a/7afc4a15-5ff8-457a-aa62-803b2d78d912.jpg?1783903228)
+> ![Nature's Lore](https://cards.scryfall.io/border_crop/front/7/a/7afc4a15-5ff8-457a-aa62-803b2d78d912.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Wishlist ramp. Search for a Forest card and put it onto the battlefield untapped. That includes duals: [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]], [[02 Cards/Lands/Breeding Pool|Breeding Pool]]. Faster than [[02 Cards/Sorceries/Farseek|Farseek]] because the land can tap the same turn. Same job as [[02 Cards/Sorceries/Three Visits|Three Visits]]. Wishlist only — not purchased, not in the owned list.
+Search for a Forest card and put it onto the battlefield untapped. That includes duals: [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]], [[02 Cards/Lands/Breeding Pool|Breeding Pool]]. Faster than [[02 Cards/Sorceries/Farseek|Farseek]] because the land can tap the same turn. Same job as [[02 Cards/Sorceries/Three Visits|Three Visits]]. Arrived 11/09/2026. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@ Wishlist ramp. Search for a Forest card and put it onto the battlefield untapped
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet. Not purchased.
+- In hand on the sideboard. Not in the 100 until a named cut.
 - Cannot fetch Island or Watery Grave.
 - A Forest card in the library, not "a land that is a Forest on the battlefield." [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya]] does not change what this can find.
 
@@ -88,7 +88,7 @@ Wishlist ramp. Search for a Forest card and put it onto the battlefield untapped
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 82
 >   deck_specific: 80
@@ -96,9 +96,8 @@ Wishlist ramp. Search for a Forest card and put it onto the battlefield untapped
 > scryfall_id: 7afc4a15-5ff8-457a-aa62-803b2d78d912
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
->   - wishlist
 > ```
 
 *Last evaluated: 2026-08-17*  

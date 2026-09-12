@@ -2,11 +2,12 @@
 
 Creature type: Faerie.
 
-**22** copies · **18** names.
+**25** copies · **19** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 17.03 |
+| [**`mtg:Bitterbloom Bearer`**](https://scryfall.com/card/ecl/88) | [[02 Cards/Creatures/Bitterbloom Bearer\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 32.09 |
+| [**`mtg:Bitterblossom`**](https://scryfall.com/card/spg/133) | [[02 Cards/Enchantments/Bitterblossom\|PAGE]] | {1}{B} | [[03 Card Types/Enchantment\|Enchantment]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Faerie\|Faerie]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 35.96 |
 | [**`mtg:Cloud of Faeries`**](https://scryfall.com/card/dmr/43) | [[02 Cards/Creatures/Cloud of Faeries\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
 | [**`mtg:Faerie Mastermind`**](https://scryfall.com/card/mom/58) | [[02 Cards/Creatures/Faerie Mastermind\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 8.13 |
 | [**`mtg:Faerie Vandal`**](https://scryfall.com/card/znc/26) | [[02 Cards/Creatures/Faerie Vandal\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |

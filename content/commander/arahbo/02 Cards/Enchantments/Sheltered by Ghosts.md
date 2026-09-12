@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Sheltered by Ghosts`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}  
 > **Type:** Enchantment — Aura  
 >
@@ -53,7 +53,7 @@ Enchanted creature [[03 Effects/Pump Creatures|gets +1/+0]] and has [[03 Effects
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Sheltered by Ghosts|Sheltered by Ghosts]] at {1}{W}: enchant creature you control. Serves the Cat plan under First Fang. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Enchantments/Sheltered by Ghosts|Sheltered by Ghosts]] at {1}{W}: enchant creature you control. Serves the Cat plan under First Fang. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -67,7 +67,7 @@ Enchanted creature [[03 Effects/Pump Creatures|gets +1/+0]] and has [[03 Effects
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -90,7 +90,7 @@ Enchanted creature [[03 Effects/Pump Creatures|gets +1/+0]] and has [[03 Effects
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Enchant"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -98,7 +98,7 @@ Enchanted creature [[03 Effects/Pump Creatures|gets +1/+0]] and has [[03 Effects
 > scryfall_id: 8e8a5cfe-1b3f-4414-b9a4-078bdb4072a7
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:High Market`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![High Market](https://cards.scryfall.io/border_crop/front/8/9/894aa6b6-0d08-4c43-8734-9cb7b31359c6.jpg)
+> ![High Market](https://cards.scryfall.io/border_crop/front/0/9/09eeb9f5-4149-47c6-bfd0-472237043672.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/High Market|High Market]] {T}: Add {C}. Colourless — do not count it as {W} or {B}. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/High Market|High Market]] {T}: Add {C}. Colourless — do not count it as {W} or {B}. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]].
 
 ## Play Patterns & Lines
 
@@ -66,7 +66,7 @@
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Ayli exile is not a death. Do not sequence this as if it were.
 
 ## Related Pages
 
@@ -89,15 +89,15 @@
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 894aa6b6-0d08-4c43-8734-9cb7b31359c6
+> scryfall_id: 09eeb9f5-4149-47c6-bfd0-472237043672
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

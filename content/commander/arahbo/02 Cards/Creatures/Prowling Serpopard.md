@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Prowling Serpopard`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}{G}  
 > **Type:** Creature — Cat Snake  
 > **P/T:** 4/3  
@@ -49,22 +49,21 @@ Creature spells you control can't be countered.
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Prowling Serpopard|Prowling Serpopard]] at {1}{G}{G} is a Cat — this spell can't be countered. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Prowling Serpopard|Prowling Serpopard]] cannot be countered, and your creature spells cannot be countered. The tax this pile plays through Counterspell tables. 4/3 Cat Snake. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] sees the nontoken ETB. Not a lord.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Lead it into blue. Cast First Fang / Regal / Banner-pumped Cats through their Counterspell.
+- Does not stop bounce, exile, or wipes. Hold it for the spell they would counter, not as a 4/3.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
+- **Uncounterable Cats**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Prideful Parent|Prideful Parent]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Does not protect Banner, Ajani, or Claws Out — those are not creature spells. Three mana {G}{G}.
 
 ## Related Pages
 
@@ -87,7 +86,7 @@ Creature spells you control can't be countered.
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -95,7 +94,7 @@ Creature spells you control can't be countered.
 > scryfall_id: 92921fc1-11d0-41a9-b9b2-b44fd0913d31
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

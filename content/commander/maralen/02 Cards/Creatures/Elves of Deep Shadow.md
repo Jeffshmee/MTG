@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Elves of Deep Shadow`**
 >
-> **Status:** Main Deck 
+> **Status:** Sideboard 
 > **Mana Cost:** {G} 
 > **Type:** Creature — Elf Druid 
 > **P/T:** 1/1 
@@ -91,7 +91,7 @@ One-mana Elf that taps for {B} and deals 1 damage to you. That is the cheapest w
 > colors: [B, G]
 > color_identity: [B, G]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >  general: 80
 >  deck_specific: 86

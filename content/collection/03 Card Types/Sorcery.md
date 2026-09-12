@@ -2,7 +2,7 @@
 
 Card type: Sorcery.
 
-**259** copies · **175** names.
+**266** copies · **181** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -39,6 +39,7 @@ Card type: Sorcery.
 | [**`mtg:Auntie's Sentence`**](https://scryfall.com/card/ecl/85) | [[02 Cards/Sorceries/Auntie's Sentence\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Bogslither's Embrace`**](https://scryfall.com/card/ecl/94) | [[02 Cards/Sorceries/Bogslither's Embrace\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Chart a Course`**](https://scryfall.com/card/fdn/586) | [[02 Cards/Sorceries/Chart a Course\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
+| [**`mtg:Damn`**](https://scryfall.com/card/dsc/369) | [[02 Cards/Sorceries/Damn\|PAGE]] | {B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.29 |
 | [**`mtg:Deadly Brew`**](https://scryfall.com/card/soc/303) | [[02 Cards/Sorceries/Deadly Brew\|PAGE]] | {B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
 | [**`mtg:Devout Decree`**](https://scryfall.com/card/fdn/571) | [[02 Cards/Sorceries/Devout Decree\|PAGE]] | {1}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
 | [**`mtg:Dragon Fodder`**](https://scryfall.com/card/fdn/535) | [[02 Cards/Sorceries/Dragon Fodder\|PAGE]] | {1}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
@@ -64,6 +65,7 @@ Card type: Sorcery.
 | [**`mtg:Mind into Matter`**](https://scryfall.com/card/sos/202) | [[02 Cards/Sorceries/Mind into Matter\|PAGE]] | {X}{G}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.29 |
 | [**`mtg:Molten Exhale`**](https://scryfall.com/card/tdm/113) | [[02 Cards/Sorceries/Molten Exhale\|PAGE]] | {1}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
 | [**`mtg:Molten Note`**](https://scryfall.com/card/sos/204) | [[02 Cards/Sorceries/Molten Note\|PAGE]] | {X}{R}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.21 |
+| [**`mtg:Nature's Lore`**](https://scryfall.com/card/msc/177) | [[02 Cards/Sorceries/Nature's Lore\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 4.12 |
 | [**`mtg:Nature's Rhythm`**](https://scryfall.com/card/tdm/150) | [[02 Cards/Sorceries/Nature's Rhythm\|PAGE]] | {X}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 9.10 |
 | [**`mtg:Obliterating Bolt`**](https://scryfall.com/card/fdn/629) | [[02 Cards/Sorceries/Obliterating Bolt\|PAGE]] | {1}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
 | [**`mtg:Otterball Antics`**](https://scryfall.com/card/blb/63) | [[02 Cards/Sorceries/Otterball Antics\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
@@ -79,6 +81,7 @@ Card type: Sorcery.
 | [**`mtg:Shared Roots`**](https://scryfall.com/card/soa/58) | [[02 Cards/Sorceries/Shared Roots\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.50 |
 | [**`mtg:Sign in Blood`**](https://scryfall.com/card/dsc/156) | [[02 Cards/Sorceries/Sign in Blood\|PAGE]] | {B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.81 |
 | [**`mtg:Stargaze`**](https://scryfall.com/card/blb/114) | [[02 Cards/Sorceries/Stargaze\|PAGE]] | {X}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.21 |
+| [**`mtg:Three Visits`**](https://scryfall.com/card/msc/181) | [[02 Cards/Sorceries/Three Visits\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.21 |
 | [**`mtg:Tome Blast`**](https://scryfall.com/card/sos/135) | [[02 Cards/Sorceries/Tome Blast\|PAGE]] | {1}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.16 |
 | [**`mtg:True Ancestry`**](https://scryfall.com/card/tla/199) | [[02 Cards/Sorceries/True Ancestry\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.20 |
 | [**`mtg:Ureni's Rebuff`**](https://scryfall.com/card/tdm/63) | [[02 Cards/Sorceries/Ureni's Rebuff\|PAGE]] | {1}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
@@ -101,12 +104,14 @@ Card type: Sorcery.
 | [**`mtg:Lingering Souls`**](https://scryfall.com/card/tdc/123) | [[02 Cards/Sorceries/Lingering Souls\|PAGE]] | {2}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |
 | [**`mtg:Maelstrom Pulse`**](https://scryfall.com/card/fdn/661) | [[02 Cards/Sorceries/Maelstrom Pulse\|PAGE]] | {1}{B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.20 |
 | [**`mtg:Mind Roots`**](https://scryfall.com/card/sos/203) | [[02 Cards/Sorceries/Mind Roots\|PAGE]] | {1}{B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
+| [**`mtg:Practiced Offense`**](https://scryfall.com/card/sos/25) | [[02 Cards/Sorceries/Practiced Offense\|PAGE]] | {2}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.71 |
 | [**`mtg:Pull from the Grave`**](https://scryfall.com/card/sos/95) | [[02 Cards/Sorceries/Pull from the Grave\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.12 |
 | [**`mtg:Roamer's Routine`**](https://scryfall.com/card/tdm/154) | [[02 Cards/Sorceries/Roamer's Routine\|PAGE]] | {2}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Rosethorn Acolyte`**](https://scryfall.com/card/eld/174) | [[02 Cards/Creatures/Rosethorn Acolyte\|PAGE]] | {2}{G} // {G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.10 |
 | [**`mtg:Seeker's Folly`**](https://scryfall.com/card/fdn/69) | [[02 Cards/Sorceries/Seeker's Folly\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Seismic Rupture`**](https://scryfall.com/card/fdn/205) | [[02 Cards/Sorceries/Seismic Rupture\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Seize the Spoils`**](https://scryfall.com/card/sos/129) | [[02 Cards/Sorceries/Seize the Spoils\|PAGE]] | {2}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.16 |
+| [**`mtg:Sevinne's Reclamation`**](https://scryfall.com/card/soc/170) | [[02 Cards/Sorceries/Sevinne's Reclamation\|PAGE]] | {2}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.32 |
 | [**`mtg:Social Snub`**](https://scryfall.com/card/sos/228) | [[02 Cards/Sorceries/Social Snub\|PAGE]] | {1}{W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Spiritcall Enthusiast`**](https://scryfall.com/card/sos/33) | [[02 Cards/Creatures/Spiritcall Enthusiast\|PAGE]] | {2}{W} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Split Up`**](https://scryfall.com/card/dsk/32) | [[02 Cards/Sorceries/Split Up\|PAGE]] | {1}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.60 |
@@ -162,6 +167,7 @@ Card type: Sorcery.
 | [**`mtg:Stormshriek Feral`**](https://scryfall.com/card/tdm/124) | [[02 Cards/Creatures/Stormshriek Feral\|PAGE]] | {4}{R} // {1}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.18 |
 | [**`mtg:Defibrillating Current`**](https://scryfall.com/card/tdm/177) | [[02 Cards/Sorceries/Defibrillating Current\|PAGE]] | {2/R}{2/W}{2/B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.06 |
 | [**`mtg:Echocasting Symposium`**](https://scryfall.com/card/sos/44) | [[02 Cards/Sorceries/Echocasting Symposium\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 1.94 |
+| [**`mtg:Farewell`**](https://scryfall.com/card/fic/242) | [[02 Cards/Sorceries/Farewell\|PAGE]] | {4}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 3.41 |
 | [**`mtg:Feral Deathgorger`**](https://scryfall.com/card/tdm/80) | [[02 Cards/Creatures/Feral Deathgorger\|PAGE]] | {5}{B} // {1}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.03 |
 | [**`mtg:Flood of Tears`**](https://scryfall.com/card/voc/104) | [[02 Cards/Sorceries/Flood of Tears\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.85 |
 | [**`mtg:Great Ugly-Looking Goblin`**](https://scryfall.com/card/hob/223) | [[02 Cards/Creatures/Great Ugly-Looking Goblin\|PAGE]] | {5}{B} // {1}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |

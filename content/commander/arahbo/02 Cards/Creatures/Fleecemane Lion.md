@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Fleecemane Lion](https://cards.scryfall.io/border_crop/front/e/f/ef4e1c37-d520-4025-bd56-15ec452f6842.jpg)
+> ![Fleecemane Lion](https://cards.scryfall.io/border_crop/front/1/3/13a8b618-6e8f-46cf-b456-dffa35831a67.jpg)
 >
 > ### Deck Scores
 >
@@ -95,7 +95,7 @@ As long as this creature is monstrous, it has [[03 Effects/Hexproof|hexproof]] a
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: ef4e1c37-d520-4025-bd56-15ec452f6842
+> scryfall_id: 13a8b618-6e8f-46cf-b456-dffa35831a67
 > tags:
 >   - card
 >   - main-deck

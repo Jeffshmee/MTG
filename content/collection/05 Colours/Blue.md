@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**258** copies · **198** names.
+**262** copies · **202** names.
 
 ```decklist
 group: auto
@@ -31,6 +31,7 @@ legality: commander
 1 Dirgur Island Dragon // Skimming Strike
 1 Displacer Kitten
 1 Diversion Unit
+1 Dour Port-Mage
 1 Dragonologist
 1 Dragonstorm Forecaster
 1 Draugr Thought-Thief
@@ -129,6 +130,7 @@ legality: commander
 2 Confusticate and Bebother
 2 Counterspell
 2 Deduce
+1 Depower
 1 Disdainful Stroke
 1 Dive Down
 1 Divergent Equation
@@ -199,6 +201,7 @@ legality: commander
 # Enchantments
 1 Bottomless Pool // Locker Room
 1 Confiscate
+1 Cryoshatter
 1 Dictate of Kruphix
 1 Dramatic Accusation
 1 Dwindle
@@ -208,6 +211,7 @@ legality: commander
 1 Imprisoned in the Moon
 1 Leyline of Anticipation
 1 Old Fat Spider Can't See Me
+1 Propaganda
 1 Ringing Strike Mastery
 2 Witness Protection
 

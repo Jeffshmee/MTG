@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Swiftfoot Boots](https://cards.scryfall.io/border_crop/front/c/f/cfc0480c-ed2c-4504-b4dc-8881613e9a90.jpg)
+> ![Swiftfoot Boots](https://cards.scryfall.io/border_crop/front/3/e/3e9b53da-4744-429d-97c6-f7ee4d568731.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: cfc0480c-ed2c-4504-b4dc-8881613e9a90
+> scryfall_id: 3e9b53da-4744-429d-97c6-f7ee4d568731
 > tags:
 >   - card
 >   - main-deck

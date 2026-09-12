@@ -48,19 +48,20 @@ Other Cats you control [[03 Effects/Pump Creatures|get +2/+1]].
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/King of the Pride|King of the Pride]] is a Cat lord: other Cats get +2/+1. Sleeve with the anthem package. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/King of the Pride|King of the Pride]] is other Cats get +2/+1. Pure lord. Three mana. Stacks with First Fang, Banner, Regal, Sovereign. Not a token maker. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Play into a wide board. First Fang tokens become real.
+- Play into a Cat board. The +2/+1 is bigger than Banner's +1/+1.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Enchantments/Intangible Virtue|Intangible Virtue]] *(owned extra)*
+- **Anthem**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Feline Sovereign|Feline Sovereign]]
 
 ## Anti-synergies / Notes
 
+- Does not pump itself. Empty-board King is a 2/1.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

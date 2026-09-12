@@ -2,10 +2,11 @@
 
 Set `LTC`. Qty here is copies of this name from this set.
 
-**6** copies · **5** names.
+**7** copies · **6** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Cavern of Souls`**](https://scryfall.com/card/ltc/362) | [[02 Cards/Lands/Cavern of Souls\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 52.99 |
 | [**`mtg:Rogue's Passage`**](https://scryfall.com/card/ltc/326) | [[02 Cards/Lands/Rogue's Passage\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.57 |
 | [**`mtg:Genesis Wave`**](https://scryfall.com/card/ltc/245) | [[02 Cards/Sorceries/Genesis Wave\|PAGE]] | {X}{G}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Reclamation Sage`**](https://scryfall.com/card/ltc/259) | [[02 Cards/Creatures/Reclamation Sage\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.36 |

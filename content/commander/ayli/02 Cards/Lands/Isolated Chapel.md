@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Isolated Chapel`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Isolated Chapel](https://cards.scryfall.io/border_crop/front/7/8/78814c92-b52c-462a-866f-3e7da9db9f70.jpg)
+> ![Isolated Chapel](https://cards.scryfall.io/border_crop/front/7/b/7b68c431-ad14-439b-9513-67479af8f2c2.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Plains
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Isolated Chapel|Isolated Chapel]] this land enters tapped unless you control a Plains or a Swamp. Tapped — third land, not the land for turn-2 Ayli. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Isolated Chapel|Isolated Chapel]] this land enters tapped unless you control a Plains or a Swamp. Tapped — third land, not the land for turn-2 Ayli. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]].
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,6 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Plains
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 - Tapped. Third land, not the land for turn-2 Ayli.
 
 ## Related Pages
@@ -88,15 +87,15 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Plains
 > colors: []
 > color_identity: ["B", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 78814c92-b52c-462a-866f-3e7da9db9f70
+> scryfall_id: 7b68c431-ad14-439b-9513-67479af8f2c2
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

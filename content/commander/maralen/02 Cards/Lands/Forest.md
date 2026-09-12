@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Forest is a mana source in this Sultai pile. Eleven copies in the 100 (was twelve). One FDN 280 came out for [[02 Cards/Lands/Wastewood Verge|Wastewood Verge]]. Two earlier copies left land-for-land for [[02 Cards/Lands/Watery Grave|Watery Grave]] and [[02 Cards/Lands/Breeding Pool|Breeding Pool]]. [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya]] still makes every land a Forest for Arbor Elf.
+Forest is a mana source in this Sultai pile. **Nine** copies in the 100. ECL 273 came out for [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]] on 11/09. [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya]] still makes every land a Forest for Arbor Elf.
 
 ## Play Patterns & Lines
 
@@ -82,10 +82,6 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/1/117ab60a-b888-4585-b0c6-769d387069f7.jpg" alt="Forest FDN 291 · ×1">
 <figcaption>FDN 291 · ×1</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/4/b460f5f7-c7c9-400c-8419-23d614f45bf9.jpg" alt="Forest ECL 273 · ×1">
-<figcaption>ECL 273 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/1/f169dfb2-e4c8-46e9-8591-e51bb82da082.jpg" alt="Forest SOS 280 · ×1">

@@ -49,21 +49,21 @@ Whenever one or more creatures you control each with power greater than its base
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Kutzil, Malamet Exemplar|Kutzil, Malamet Exemplar]] at {1}{G}{W} is a Cat — your opponents can't cast spells during your turn. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Kutzil, Malamet Exemplar|Kutzil, Malamet Exemplar]] stops them casting on your turn and draws when a creature with power greater than its base deals combat damage. Banner / First Fang / Regal / Pridemate counters all count. The tax is the main job; the draw is extra. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Play it before your combat. Their instant-speed answers wait until your end step.
+- Attack with a pumped Cat — a 1/1 First Fang token that Banner made 2/2 draws.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
+- **Pump / tax**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]]
 
 ## Anti-synergies / Notes
 
+- Base power equal to current power does not draw. Unpumped Cats do not trigger the draw.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

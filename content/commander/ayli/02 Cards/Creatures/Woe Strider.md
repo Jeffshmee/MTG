@@ -55,19 +55,20 @@ This creature escapes with two [[03 Effects/Plus One Counters|+1/+1 counters]] o
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Woe Strider|Woe Strider]] ETB-scry 1, sac outlet, and escape as a 4-power menace. Outlet plus a late body. 🟢 SB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Woe Strider|Woe Strider]] is a sac outlet that ETB-scry 1, and escape from the yard for a 1/1. The tap-sac is extra next to Ayli and Feeder. Escape is a second body later. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Sac fodder early. Escape only if the yard is fat and you need a beater.
+- ETB scry, then sac Sage. Escape only if the yard is fat and you need another creature.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Sac**: [[02 Cards/Creatures/Viscera Seer|Viscera Seer]] *(owned extra)*, [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]] *(owned extra)*
+- **Sac**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]]
 
 ## Anti-synergies / Notes
 
+- Escape wants four other cards in the yard. Early-game escape is a miss.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

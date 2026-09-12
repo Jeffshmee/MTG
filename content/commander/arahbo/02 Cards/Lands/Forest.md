@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Forest](https://cards.scryfall.io/border_crop/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg)
+> ![Forest](https://cards.scryfall.io/border_crop/front/b/b/bbbeb57d-5fa0-4ff7-b5e8-caafc139669b.jpg)
 >
 > ### Deck Scores
 >
@@ -89,7 +89,7 @@
 >   general: 70
 >   deck_specific: 70
 >   combined: 70
-> scryfall_id: d232fcc2-12f6-401a-b1aa-ddff11cb9378
+> scryfall_id: bbbeb57d-5fa0-4ff7-b5e8-caafc139669b
 > tags:
 >   - card
 >   - main-deck

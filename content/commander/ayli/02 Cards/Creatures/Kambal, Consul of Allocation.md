@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Kambal, Consul of Allocation`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}{B}  
 > **Type:** Legendary Creature — Human Advisor  
 > **P/T:** 2/3  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Kambal](https://cards.scryfall.io/border_crop/front/b/3/b3e47d49-e5b5-487b-a1ec-373dbf89b2ec.jpg)
+> ![Kambal, Consul of Allocation](https://cards.scryfall.io/border_crop/front/b/3/b3e47d49-e5b5-487b-a1ec-373dbf89b2ec.jpg)
 >
 > ### Deck Scores
 >
@@ -48,22 +48,21 @@ Whenever an opponent casts a noncreature spell, that player loses 2 life and you
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Kambal, Consul of Allocation|Kambal, Consul of Allocation]] at {1}{W}{B}: whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life. That life is how [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] reaches +10. [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]] doubles P≤2 triggered ETBs and deaths; [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]] is the other life ETB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Kambal, Consul of Allocation|Kambal, Consul of Allocation]] taxes noncreature spells: they lose 2, you gain 2. Life toward +10 off *their* ramp and draw. Not a creature-death drain. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- Life goes toward Ayli's +10 exile mode. Vito pings if he is in play.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Play against spell-heavy tables. Do not wait for it to pay off a creature board.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life toward +10**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
+- **Life**: [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Creature storms ignore it. Your own noncreatures also trigger it — you lose 2.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -86,7 +85,7 @@ Whenever an opponent casts a noncreature spell, that player loses 2 life and you
 > colors: ["B", "W"]
 > color_identity: ["B", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -94,7 +93,7 @@ Whenever an opponent casts a noncreature spell, that player loses 2 life and you
 > scryfall_id: b3e47d49-e5b5-487b-a1ec-373dbf89b2ec
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

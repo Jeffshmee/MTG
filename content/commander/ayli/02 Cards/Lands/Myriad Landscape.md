@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Myriad Landscape`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -51,7 +51,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Myriad Landscape|Myriad Landscape]] this land enters tapped. Tapped — third land, not the land for turn-2 Ayli. Colourless — do not count it as {W} or {B}. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Myriad Landscape|Myriad Landscape]] this land enters tapped. Tapped — third land, not the land for turn-2 Ayli. Colourless — do not count it as {W} or {B}. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]].
 
 ## Play Patterns & Lines
 
@@ -68,7 +68,6 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 - Tapped. Third land, not the land for turn-2 Ayli.
 
 ## Related Pages
@@ -92,7 +91,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -100,7 +99,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 > scryfall_id: a0e2098f-1d94-491a-a7e9-a45a9f69e3a8
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

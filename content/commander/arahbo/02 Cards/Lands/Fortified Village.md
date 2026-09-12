@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Fortified Village](https://cards.scryfall.io/border_crop/front/1/5/15f81ac6-a550-4782-a3a9-22d7fef1c206.jpg)
+> ![Fortified Village](https://cards.scryfall.io/border_crop/front/4/a/4a0aeb3a-923a-4b97-9d27-ea7e0b57de75.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@ As this land enters, you may reveal a Forest or Plains card from your hand. If y
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 15f81ac6-a550-4782-a3a9-22d7fef1c206
+> scryfall_id: 4a0aeb3a-923a-4b97-9d27-ea7e0b57de75
 > tags:
 >   - card
 >   - main-deck

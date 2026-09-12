@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Vito](https://cards.scryfall.io/border_crop/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg)
+> ![Vito](https://cards.scryfall.io/border_crop/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.jpg)
 >
 > ### Deck Scores
 >
@@ -93,7 +93,7 @@ Whenever you gain life, target opponent loses that much life.
 >   general: 85
 >   deck_specific: 96
 >   combined: 92
-> scryfall_id: 0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5
+> scryfall_id: 5deb74ff-15df-4894-b074-9a98731bd2c0
 > tags:
 >   - card
 >   - main-deck

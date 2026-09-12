@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Healer of the Pride`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{W}  
 > **Type:** Creature — Cat Cleric  
 > **P/T:** 2/3  
@@ -48,23 +48,21 @@ Whenever another creature you control enters, you [[03 Effects/Gain Life|gain 2 
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Healer of the Pride|Healer of the Pride]] at {3}{W} is a Cat — whenever another creature you control enters, you gain 2 life. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Healer of the Pride|Healer of the Pride]] gains 2 whenever another creature you control enters. Soul Sister on a Cat. Feeds [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]] and [[02 Cards/Creatures/Cat Collector|Cat Collector]]. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] tokens, Retreat Cats, Parent — every ETB is 2 life. Four mana.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- The life feeds Pridemate and Collector. Connect once.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
+- Play before you flood tokens. First Fang then a Cat is 2 + 2 (Fang's token and the Cat).
+- Do not lead it into an empty board. The 2/3 is not the clock — the life is.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Life / Pridemate**: [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Sacred Cat|Sacred Cat]], [[02 Cards/Creatures/Cat Collector|Cat Collector]]
+- **Life / ETB**: [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Cat Collector|Cat Collector]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Enchantments/Felidar Retreat|Felidar Retreat]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Four mana. Does nothing if you never play a second creature. Your Healer ETB does not trigger itself.
 
 ## Related Pages
 
@@ -87,7 +85,7 @@ Whenever another creature you control enters, you [[03 Effects/Gain Life|gain 2 
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -95,7 +93,7 @@ Whenever another creature you control enters, you [[03 Effects/Gain Life|gain 2 
 > scryfall_id: 35716e37-1bb2-41e2-bb55-e65126b01ce3
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

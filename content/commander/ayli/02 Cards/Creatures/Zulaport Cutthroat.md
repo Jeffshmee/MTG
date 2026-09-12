@@ -48,20 +48,20 @@ Whenever this creature or another creature you control dies, each opponent loses
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] is the drain to sleeve before you call plan 2 a win. Deaths tax the table. Ayli and the other outlets feed it. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] drains each opponent whenever another creature you control dies. Plan 2. Sleeve before you call the aristocrats line a win. Ayli exile is not a death. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Sleeve next with or instead of Blood Artist / Bastion. Play before you start sacrificing.
+- Play before the first sac. Feeder / Ayli / Sage all pay it.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Deaths**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Viscera Seer|Viscera Seer]] *(owned extra)*, [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]]
+- **Deaths**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Ophiomancer|Ophiomancer]], [[02 Cards/Creatures/Blood Artist|Blood Artist]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
-- Ayli exile is not a death — Zulaport does not see those leaves.
+- Your creature — their deaths do not trigger it. Exile is not a death.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

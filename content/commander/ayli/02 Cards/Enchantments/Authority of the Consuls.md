@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Authority of the Consuls`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}  
 > **Type:** Enchantment  
 >
@@ -48,7 +48,7 @@ Whenever a creature an opponent controls enters, you [[03 Effects/Gain Life|gain
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Authority of the Consuls|Authority of the Consuls]] at {W}: creatures your opponents control enter tapped. Serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s aristocrats plan. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Enchantments/Authority of the Consuls|Authority of the Consuls]] at {W}: creatures your opponents control enter tapped. Serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s aristocrats plan. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ Whenever a creature an opponent controls enters, you [[03 Effects/Gain Life|gain
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -85,7 +85,7 @@ Whenever a creature an opponent controls enters, you [[03 Effects/Gain Life|gain
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -93,7 +93,7 @@ Whenever a creature an opponent controls enters, you [[03 Effects/Gain Life|gain
 > scryfall_id: 42ce2d7f-5924-47c0-b5ed-dacf9f9617a0
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

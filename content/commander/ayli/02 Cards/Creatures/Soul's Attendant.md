@@ -48,19 +48,20 @@ Whenever another creature enters, you may gain 1 life.
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]] is the other Sister. Same job as [[02 Cards/Creatures/Soul Warden|Soul Warden]]. Delney doubles it. Sleeve with Warden before you worry about Reservoir. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]] is the other Sister: whenever another creature enters, you may gain 1. Optional, so you can refuse a gain if a Painful Truths-style lock ever matters. Same slot as Warden. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Turn-1 once sleeved. Stacks with Hinterland.
+- Lead it. Take the life. Optional is almost never refused here.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life ETB**: [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]]
+- **Life**: [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Suture Priest|Suture Priest]] *(owned extra)*, [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
 
 ## Anti-synergies / Notes
 
+- Another creature — your own Attendant ETB does not trigger itself.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

@@ -49,27 +49,21 @@ When this creature dies, [[03 Effects/Create Token|create a 1/1 white Soldier cr
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Hunted Witness|Hunted Witness]] at {W}: when this creature dies, create a 1/1 white Soldier creature token with [[03 Effects/Lifelink. That life is how [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] reaches +10. [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]] doubles P≤2 triggered ETBs and deaths; [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]] is the other life ETB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Hunted Witness|Hunted Witness]] leaves a 1/1 Soldier with lifelink. Fodder. The lifelink Spirit-Soldier is a gain event for Vito / Pridemate if it connects. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- Life goes toward Ayli's +10 exile mode. Vito pings if he is in play.
-- The death feeds Bastion and Bloodwitch. Ayli exile is not a death.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Sac the Witness, keep the Soldier. Attack with the Soldier if Vito is in play.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life toward +10**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
-- **Death / sac**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]]
+- **Fodder / life**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Doomed Traveler|Doomed Traveler]] *(owned extra)*, [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
 
 ## Anti-synergies / Notes
 
+- Lifelink only if it deals damage. Sac-to-Ayli is toughness life, not combat lifelink.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
 
 ## Related Pages
 

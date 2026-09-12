@@ -2,7 +2,7 @@
 
 Every **Lands** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**40** copies · **33** names.
+**41** copies · **34** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -15,6 +15,7 @@ Every **Lands** page in this vault. Same columns as the collection Catalogue (ma
 | [**`mtg:Emeria, the Sky Ruin`**](https://scryfall.com/card/soc/368) | [[02 Cards/Lands/Emeria, the Sky Ruin\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {W} | 0 | 1 | 0.00 |
 | [**`mtg:Evolving Wilds`**](https://scryfall.com/card/msc/240) | [[02 Cards/Lands/Evolving Wilds\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.08 |
 | [**`mtg:Fabled Passage`**](https://scryfall.com/card/msc/242) | [[02 Cards/Lands/Fabled Passage\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 2.07 |
+| [**`mtg:Fetid Heath`**](https://scryfall.com/card/2xm/316) | [[02 Cards/Lands/Fetid Heath\|PAGE]] | — | [[04 Types/Land\|Land]] | [[05 Colours/Black\|Black]] [[05 Colours/White\|White]] | 0 | 1 | 5.32 |
 | [**`mtg:Hall of Heliod's Generosity`**](https://scryfall.com/card/dsc/283) | [[02 Cards/Lands/Hall of Heliod's Generosity\|PAGE]] | — | [[04 Types/Legendary\|Legendary]] [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {W} | 0 | 1 | 8.39 |
 | [**`mtg:High Market`**](https://scryfall.com/card/soc/380) | [[02 Cards/Lands/High Market\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.00 |
 | [**`mtg:Hobbit Hole`**](https://scryfall.com/card/hob/184) | [[02 Cards/Lands/Hobbit Hole\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.02 |

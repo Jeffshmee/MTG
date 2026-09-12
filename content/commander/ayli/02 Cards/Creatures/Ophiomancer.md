@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ophiomancer`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{B}  
 > **Type:** Creature — Human Shaman  
 > **P/T:** 2/2  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Ophiomancer](https://cards.scryfall.io/border_crop/front/7/d/7da2511d-f5ae-4c51-a9b2-dffd581243b6.jpg)
+> ![Ophiomancer](https://cards.scryfall.io/border_crop/front/0/e/0ef8d3a2-5c6b-41e2-aa7d-81e4a5d04421.jpg)
 >
 > ### Deck Scores
 >
@@ -48,23 +48,24 @@ At the beginning of each upkeep, if you control no Snakes, [[03 Effects/Create T
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Ophiomancer|Ophiomancer]] at {2}{B}: at the beginning of each upkeep, if you control no Snakes, create a 1/1 black Snake creature token with deathtouch. The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Ophiomancer|Ophiomancer]] is a Snake every upkeep if you control no Snakes — including theirs. The 1/1 deathtouch is fodder for Ayli and [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]]. Eat the Snake every turn or the engine shuts off. This copy is the CC2 3 foil; Zurgo keeps SOC 118.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Sac or Feeder the Snake on your turn so the next upkeep makes another. Opponent-upkeep Snakes are off-turn Bastion drains.
+- Do not leave the Snake if you want the next one. A leftover Snake is a deathtouch blocker, not an engine.
+- Ayli-exile the Snake only if you are already +10 and need the exile more than the next token.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
+- **Sac / death**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Creatures/Pitiless Plunderer|Pitiless Plunderer]]
+- **ETB life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
+- If you leave the Snake, you make nothing later. Exile is not a death.
+- The token is a Snake, not a Cleric — Starlit Sanctum does not see it.
 
 ## Related Pages
 
@@ -87,15 +88,15 @@ At the beginning of each upkeep, if you control no Snakes, [[03 Effects/Create T
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
 >   combined: 92
-> scryfall_id: 7da2511d-f5ae-4c51-a9b2-dffd581243b6
+> scryfall_id: 0ef8d3a2-5c6b-41e2-aa7d-81e4a5d04421
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

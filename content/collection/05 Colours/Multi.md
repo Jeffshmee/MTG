@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**270** copies · **200** names.
+**276** copies · **206** names.
 
 ```decklist
 group: auto
@@ -13,6 +13,7 @@ legality: commander
 1 Abstract Paintmage
 1 Alela, Cunning Conqueror
 1 Anim Pakal, Thousandth Moon
+1 Arahbo, Roar of the World
 1 Aron, Benalia's Ruin
 1 Aurelia, the Warleader
 1 Ayli, Eternal Pilgrim
@@ -69,6 +70,8 @@ legality: commander
 1 Isshin, Two Heavens as One
 1 Jeskai Shrinekeeper
 1 Junkblade Bruiser
+1 Kaheera, the Orphanguard
+1 Kambal, Consul of Allocation
 1 Kambal, Profiteering Mayor
 1 Karlov of the Ghost Council
 1 Katara, the Fearless
@@ -83,6 +86,7 @@ legality: commander
 1 Merrow Skyswimmer
 1 Mirkwood Nurturer
 2 Monastery Messenger
+1 Moonrise Cleric
 3 Morcant's Loyalist
 1 Neriv, Crackling Vanguard
 1 Nita, Forum Conciliator
@@ -130,6 +134,7 @@ legality: commander
 1 Temur Battlecrier
 1 Temur Tawnyback
 1 Teysa Karlov
+1 Teysa, Orzhov Scion
 1 Thalisse, Reverent Medium
 1 Thorin Oakenshield
 1 Thranduil's Company
@@ -204,6 +209,7 @@ legality: commander
 1 Hollowmurk Siege
 1 Insidious Roots
 1 Mardu Ascendancy
+1 Mirari's Wake
 2 Raiding Schemes
 1 Rediscover the Way
 1 Thousand-Year Storm

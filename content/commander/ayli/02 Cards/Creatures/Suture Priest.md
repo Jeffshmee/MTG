@@ -49,19 +49,20 @@ Whenever a creature an opponent controls enters, you may have that player lose 1
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Suture Priest|Suture Priest]] gains you life on your creature ETBs and pings them on theirs. Sister-plus-tax. Sleeve with the life package. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Suture Priest|Suture Priest]] gains 1 whenever another creature you control enters, and each opponent loses 1 whenever a creature they control enters. Sister plus a tax. Delney doubles it (1/1). 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Your tokens and fodder ETBs are life. Their tokens are pain.
+- Play before you flood tokens. Their wide board pays you.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life / drain**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]]
+- **Life / tax**: [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]]
 
 ## Anti-synergies / Notes
 
+- Your own ETBs do not drain them — only theirs. Not a second Zulaport.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

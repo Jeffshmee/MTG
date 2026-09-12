@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Branchloft Pathway`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land // Land  
 >
@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Branchloft Pathway|Branchloft Pathway]] {T}: Add {G}. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Branchloft Pathway|Branchloft Pathway]] {T}: Add {G}. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -85,7 +85,7 @@
 > colors: []
 > color_identity: ["G", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -93,7 +93,7 @@
 > scryfall_id: 0511e232-2a72-40f5-a400-4f7ebc442d17
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

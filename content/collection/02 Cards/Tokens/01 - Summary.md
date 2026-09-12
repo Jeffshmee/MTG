@@ -2,16 +2,16 @@
 
 Token and emblem cards. Kept off colour pages so those lists stay mono-coloured.
 
-**227** copies · **58** names.
+**334** copies · **59** names.
 
 ```decklist
 group: auto
 legality: commander
 
 # Tokens
-1 Adorned Pouncer
+2 Adorned Pouncer
 1 Ally
-1 Angel
+17 Angel
 1 Angelo
 1 Bat
 2 Beast
@@ -26,14 +26,15 @@ legality: commander
 2 Dragon
 1 Dwarf
 1 Eldrazi
-9 Elemental
+13 Elemental
 1 Elephant
 7 Elf
 4 Elf Warrior
-5 Faerie
+30 Faerie
 1 Fish
 1 Food
 11 Fractal
+12 Gnome
 25 Goblin
 3 Goblin Army
 3 Human
@@ -57,10 +58,10 @@ legality: commander
 1 Servo
 1 Snake // Zombie
 6 Soldier
-21 Spirit
-3 Thopter
+46 Spirit
+15 Thopter
 1 Toy
-20 Treasure
+32 Treasure
 2 Treefolk
 1 Vivien Reid Emblem
 1 Voja Fenstalker

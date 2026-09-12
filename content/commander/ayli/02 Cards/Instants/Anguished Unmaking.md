@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Anguished Unmaking](https://cards.scryfall.io/border_crop/front/4/0/407183c6-c962-4f8c-867e-abc309b6c573.jpg)
+> ![Anguished Unmaking](https://cards.scryfall.io/border_crop/front/2/7/272e0f42-a881-4ee2-94a5-2c740863aa74.jpg)
 >
 > ### Deck Scores
 >
@@ -90,7 +90,7 @@
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: 407183c6-c962-4f8c-867e-abc309b6c573
+> scryfall_id: 272e0f42-a881-4ee2-94a5-2c740863aa74
 > tags:
 >   - card
 >   - main-deck

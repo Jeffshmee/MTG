@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Bloodghast`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {B}{B}  
 > **Type:** Creature — Vampire Spirit  
 > **P/T:** 2/1  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Bloodghast](https://cards.scryfall.io/border_crop/front/c/e/cee85485-598f-4dfc-aa0b-7b1de86c7788.jpg)
+> ![Bloodghast](https://cards.scryfall.io/border_crop/front/f/d/fdceefe6-f083-4955-b53a-8e6f8aeb2083.jpg)
 >
 > ### Deck Scores
 >
@@ -50,22 +50,22 @@ Landfall — Whenever a land you control enters, you may return this card from y
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Bloodghast|Bloodghast]] at {B}{B}: this creature can't block. A body for Ayli to sac or a trigger for Hinterland / Delney — not a blink target. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Bloodghast|Bloodghast]] cannot block. It has haste if an opponent is at 10 or less, and landfall returns it from the yard. Recurring fodder — each return is an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]] and a death the next time you sac it. Not a defender. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
-- Do not sac Delney, Hinterland, or Vito to the first outlet.
+- Sac it, play a land, get it back. Evolving Wilds / Fabled Passage are two landfalls.
+- Haste matters only when they are already low — Vito / Reservoir tables.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life toward +10**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
+- **Landfall / fodder**: [[02 Cards/Lands/Evolving Wilds|Evolving Wilds]], [[02 Cards/Lands/Fabled Passage|Fabled Passage]], [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Cannot block. Dead in the yard if you never play a land. Tokens do not landfall.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -88,15 +88,15 @@ Landfall — Whenever a land you control enters, you may return this card from y
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Landfall"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: cee85485-598f-4dfc-aa0b-7b1de86c7788
+> scryfall_id: fdceefe6-f083-4955-b53a-8e6f8aeb2083
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

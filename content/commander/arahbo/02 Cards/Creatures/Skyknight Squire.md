@@ -50,22 +50,21 @@ As long as this creature has three or more +1/+1 counters on it, it has [[03 Eff
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Skyknight Squire|Skyknight Squire]] at {1}{W} is a Cat — whenever another creature you control enters, put a +1/+1 counter on this creature. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Skyknight Squire|Skyknight Squire]] grows a +1/+1 counter whenever another creature enters, and at 3+ counters it has flying and is a Knight. First Fang, tokens, Parent — every ETB is a counter. A Cat that becomes a flyer. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Play early. First Fang plus one Cat is two counters (Fang and Fang's token). Third ETB is flying.
+- It is a Cat the whole time. Knight is extra types for nothing in this list.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **ETB counters**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Prideful Parent|Prideful Parent]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Enchantments/Felidar Retreat|Felidar Retreat]]
 
 ## Anti-synergies / Notes
 
+- Does nothing if you never play another creature. Counters die with it.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

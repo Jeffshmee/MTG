@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Brimaz, King of Oreskos`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}{W}  
 > **Type:** Legendary Creature — Cat Soldier  
 > **P/T:** 3/4  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Brimaz](https://cards.scryfall.io/border_crop/front/f/5/f54eb705-6326-4bac-bf0e-68d42db7a270.jpg)
+> ![Brimaz, King of Oreskos](https://cards.scryfall.io/border_crop/front/f/2/f2fd4bf5-7ed6-4a90-b0ba-ba886342859a.jpg)
 >
 > ### Deck Scores
 >
@@ -51,24 +51,21 @@ Whenever Brimaz blocks a creature, create a 1/1 white Cat Soldier creature token
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Brimaz, King of Oreskos|Brimaz, King of Oreskos]] at {1}{W}{W} is a Cat — whenever Brimaz attacks, create a 1/1 white Cat Soldier creature token with vigilance that's attacking. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Brimaz, King of Oreskos|Brimaz, King of Oreskos]] is vigilance and a 1/1 Cat Soldier on attack *and* on block. The tokens are attacking or blocking with him — they are tokens, so [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] does not ETB-make extras. They still count for Banner / Regal. Nontoken Cat ETB when Brimaz lands.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Token Cats do not trigger First Fang. They still get Banner / Regal.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
+- Attack every turn you can. The attacking token is a Cat for Banner. Block with him to mint a second token on their turn.
+- Play after First Fang. Do not chump Brimaz — vigilance means he attacks and still blocks.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Tokens**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Enchantments/Felidar Retreat|Felidar Retreat]]
+- **Tokens / anthem**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Leonin Warleader|Leonin Warleader]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Token Cats do not trigger First Fang. Nontoken Cats do.
+- Token Soldiers do not trigger First Fang. Three white pips. No Eminence until Roar arrives.
 
 ## Related Pages
 
@@ -91,15 +88,15 @@ Whenever Brimaz blocks a creature, create a 1/1 white Cat Soldier creature token
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Vigilance"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: f54eb705-6326-4bac-bf0e-68d42db7a270
+> scryfall_id: f2fd4bf5-7ed6-4a90-b0ba-ba886342859a
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

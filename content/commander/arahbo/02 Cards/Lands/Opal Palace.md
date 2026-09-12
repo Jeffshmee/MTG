@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Opal Palace`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Opal Palace](https://cards.scryfall.io/border_crop/front/9/1/912553e7-1e67-4045-84fd-0a791754cf6c.jpg)
+> ![Opal Palace](https://cards.scryfall.io/border_crop/front/7/6/76219ec4-65dc-4137-9b3b-070e02524397.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Opal Palace|Opal Palace]] {T}: Add {C}. Colourless. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Opal Palace|Opal Palace]] {T}: Add {C}. Colourless. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -88,15 +88,15 @@
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 912553e7-1e67-4045-84fd-0a791754cf6c
+> scryfall_id: 76219ec4-65dc-4137-9b3b-070e02524397
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

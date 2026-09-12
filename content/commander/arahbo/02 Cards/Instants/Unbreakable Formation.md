@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Unbreakable Formation`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{W}  
 > **Type:** Instant  
 >
@@ -50,7 +50,7 @@ Addendum — If you cast this spell during your main phase, put a [[03 Effects/P
 
 ## Deck Role & Rating
 
-[[02 Cards/Instants/Unbreakable Formation|Unbreakable Formation]] indestructible your creatures; if you cast it on your turn they also get +1/+1 and vigilance. Protection plus a combat pump. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Instants/Unbreakable Formation|Unbreakable Formation]] indestructible your creatures; if you cast it on your turn they also get +1/+1 and vigilance. Protection plus a combat pump. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@ Addendum — If you cast this spell during your main phase, put a [[03 Effects/P
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Addendum — If you cast this spell during your main phase, put a [[03 Effects/P
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Addendum"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -94,7 +94,7 @@ Addendum — If you cast this spell during your main phase, put a [[03 Effects/P
 > scryfall_id: 06e1cc7b-9319-4f6f-88ee-2e6b6d2efbc6
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - instant
 > ```
 

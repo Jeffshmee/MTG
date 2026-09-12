@@ -2,7 +2,7 @@
 
 Cards whose mana value is 5.
 
-**150** copies · **111** names.
+**153** copies · **114** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -14,6 +14,7 @@ Cards whose mana value is 5.
 | [**`mtg:Alacrian Jaguar`**](https://scryfall.com/card/dft/152) | [[02 Cards/Creatures/Alacrian Jaguar\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Mount\|Mount]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:All-Out Assault`**](https://scryfall.com/card/tdm/167) | [[02 Cards/Enchantments/All-Out Assault\|PAGE]] | {2}{R}{W}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 1.89 |
 | [**`mtg:Angel of Invention`**](https://scryfall.com/card/tdc/109) | [[02 Cards/Creatures/Angel of Invention\|PAGE]] | {3}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.26 |
+| [**`mtg:Arahbo, Roar of the World`**](https://scryfall.com/card/c17/35) | [[02 Cards/Creatures/Arahbo, Roar of the World\|PAGE]] | {3}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 18.47 |
 | [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
 | [**`mtg:Arcane Omens`**](https://scryfall.com/card/sos/73) | [[02 Cards/Sorceries/Arcane Omens\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
 | [**`mtg:Archaic's Agony`**](https://scryfall.com/card/sos/107) | [[02 Cards/Sorceries/Archaic's Agony\|PAGE]] | {4}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
@@ -72,6 +73,7 @@ Cards whose mana value is 5.
 | [**`mtg:Mammoth Bellow`**](https://scryfall.com/card/tdm/205) | [[02 Cards/Sorceries/Mammoth Bellow\|PAGE]] | {2}{G}{U}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 1.15 |
 | [**`mtg:Merrow Skyswimmer`**](https://scryfall.com/card/ecl/234) | [[02 Cards/Creatures/Merrow Skyswimmer\|PAGE]] | {3}{W/U}{W/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
+| [**`mtg:Mirari's Wake`**](https://scryfall.com/card/cmm/928) | [[02 Cards/Enchantments/Mirari's Wake\|PAGE]] | {3}{G}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 3.40 |
 | [**`mtg:Mulldrifter`**](https://scryfall.com/card/sld/1887) | [[02 Cards/Creatures/Mulldrifter\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 2.86 |
 | [**`mtg:Muse's Encouragement`**](https://scryfall.com/card/sos/61) | [[02 Cards/Instants/Muse's Encouragement\|PAGE]] | {4}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.12 |
 | [**`mtg:Neriv, Crackling Vanguard`**](https://scryfall.com/card/tdc/6) | [[02 Cards/Creatures/Neriv, Crackling Vanguard\|PAGE]] | {2}{R}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.50 |
@@ -83,6 +85,7 @@ Cards whose mana value is 5.
 | [**`mtg:Pox Plague`**](https://scryfall.com/card/sos/94) | [[02 Cards/Sorceries/Pox Plague\|PAGE]] | {B}{B}{B}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.16 |
 | [**`mtg:Purging Stormbrood`**](https://scryfall.com/card/tdm/213) | [[02 Cards/Creatures/Purging Stormbrood\|PAGE]] | {4}{B} // {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.08 |
 | [**`mtg:Pyromancer's Goggles`**](https://scryfall.com/card/fdn/677) | [[02 Cards/Artifacts/Pyromancer's Goggles\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.57 |
+| [**`mtg:Qasali Slingers`**](https://scryfall.com/card/c17/33) | [[02 Cards/Creatures/Qasali Slingers\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 6.69 |
 | [**`mtg:Rabaroo Troop`**](https://scryfall.com/card/tla/32) | [[02 Cards/Creatures/Rabaroo Troop\|PAGE]] | {3}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rabbit\|Rabbit]] [[04 Creature Types/Kangaroo\|Kangaroo]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
 | [**`mtg:Raiding Schemes`**](https://scryfall.com/card/ecl/239) | [[02 Cards/Enchantments/Raiding Schemes\|PAGE]] | {3}{R}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.42 |
 | [**`mtg:Rancorous Archaic`**](https://scryfall.com/card/sos/2) | [[02 Cards/Creatures/Rancorous Archaic\|PAGE]] | {5} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 4 | 0.14 |

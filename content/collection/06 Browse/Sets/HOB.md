@@ -2,7 +2,7 @@
 
 Set `HOB`. Qty here is copies of this name from this set.
 
-**125** copies · **89** names.
+**126** copies · **89** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -12,7 +12,7 @@ Set `HOB`. Qty here is copies of this name from this set.
 | [**`mtg:Iron Hills`**](https://scryfall.com/card/hob/185) | [[02 Cards/Lands/Iron Hills\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.10 |
 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.09 |
 | [**`mtg:Mirkwood`**](https://scryfall.com/card/hob/188) | [[02 Cards/Lands/Mirkwood\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.04 |
-| [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.35 |
+| [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.88 |
 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.29 |
 | [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.10 |
 | [**`mtg:The Lonely Mountain`**](https://scryfall.com/card/hob/187) | [[02 Cards/Lands/The Lonely Mountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Mountain\|Mountain]] | [[02 Cards/Lands/01 - Summary\|Land]] {R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.45 |

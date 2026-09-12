@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Qasali Slingers`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}{G}  
 > **Type:** Creature — Cat Warrior  
 > **P/T:** 3/5  
@@ -50,22 +50,21 @@ Whenever this creature or another Cat you control enters, you may [[03 Effects/D
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Qasali Slingers|Qasali Slingers]] at {4}{G} is a Cat — whenever this creature or another Cat you control enters, you may destroy target artifact or enchantment. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Qasali Slingers|Qasali Slingers]] Naturalizes whenever it or another Cat enters. Five mana. First Fang's token does not trigger it (token Cat). Nontoken Cats do — Parent, Regal, the Lions. Reach body. This is the artifact/enchantment sweeper, not a 3/5 for the curve.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Cast when a nontoken Cat is about to enter, or after First Fang so the next Cat is a free Naturalize.
+- Point each trigger at a different problem. Empty-board Slingers is a 3/5 reach for five.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
+- **Nontoken Cats**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Prideful Parent|Prideful Parent]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Fleecemane Lion|Fleecemane Lion]], [[02 Cards/Creatures/Qasali Pridemage|Qasali Pridemage]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Token Cats do not trigger it. Five mana — not turn 3. First Fang's 1/1 is a token.
 
 ## Related Pages
 
@@ -88,7 +87,7 @@ Whenever this creature or another Cat you control enters, you may [[03 Effects/D
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: ["Reach"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -96,7 +95,7 @@ Whenever this creature or another Cat you control enters, you may [[03 Effects/D
 > scryfall_id: 40e21394-146e-4648-b81e-63659c0c4764
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

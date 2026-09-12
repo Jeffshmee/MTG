@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Serra Ascendant`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}  
 > **Type:** Creature — Human Monk  
 > **P/T:** 1/1  
@@ -51,21 +51,21 @@ As long as you have 30 or more life, this creature [[03 Effects/Pump Creatures|g
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Serra Ascendant|Serra Ascendant]] is a 1/1 lifelink that becomes a 6/6 flyer once you have 30 life. On-plan once +10 is easy. Still 🟢 SB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Serra Ascendant|Serra Ascendant]] is a 1/1 lifelink that is 6/6 flying if you have 30+ life. Ayli's +10 mode wants 10 above starting; Ascendant wants 30 total. Same life pile, different checkpoint. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Sleeve after a Sister is in the 100 so 30 life is realistic.
+- Lead it. Hinterland / Sisters make 30 fast. Attack once it is a 6/6.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life**: [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]]
+- **Life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 
 ## Anti-synergies / Notes
 
-- Without a life engine it stays a 1/1.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- A 1/1 until 30. Do not chump it hoping it is already a 6/6.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -88,7 +88,7 @@ As long as you have 30 or more life, this creature [[03 Effects/Pump Creatures|g
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Lifelink"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -96,7 +96,7 @@ As long as you have 30 or more life, this creature [[03 Effects/Pump Creatures|g
 > scryfall_id: 0a22ee47-fc56-436d-8570-88fbff421027
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

@@ -2,7 +2,7 @@
 
 Creature type: Vampire.
 
-**36** copies · **25** names.
+**38** copies · **27** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,6 +10,8 @@ Creature type: Vampire.
 | [**`mtg:Stromkirk Noble`**](https://scryfall.com/card/fdn/632) | [[02 Cards/Creatures/Stromkirk Noble\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.19 |
 | [**`mtg:Viscera Seer`**](https://scryfall.com/card/soc/229) | [[02 Cards/Creatures/Viscera Seer\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.51 |
 | [**`mtg:Bartolomé del Presidio`**](https://scryfall.com/card/lci/301) | [[02 Cards/Creatures/Bartolomé del Presidio\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |
+| [**`mtg:Blood Artist`**](https://scryfall.com/card/2x2/352) | [[02 Cards/Creatures/Blood Artist\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.68 |
+| [**`mtg:Bloodghast`**](https://scryfall.com/card/dft/77) | [[02 Cards/Creatures/Bloodghast\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.12 |
 | [**`mtg:Gatekeeper of Malakir`**](https://scryfall.com/card/fdn/752) | [[02 Cards/Creatures/Gatekeeper of Malakir\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.00 |
 | [**`mtg:Kalastria Highborn`**](https://scryfall.com/card/fdn/607) | [[02 Cards/Creatures/Kalastria Highborn\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
 | [**`mtg:Kirol, History Buff`**](https://scryfall.com/card/sos/198) | [[02 Cards/Creatures/Kirol, History Buff\|PAGE]] | {R}{W} // {1}{R}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.16 |

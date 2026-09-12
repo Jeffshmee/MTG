@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Talisman of Progress`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}  
 > **Type:** Artifact  
 >
@@ -88,7 +88,7 @@ Talisman of Progress is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 86
 >   deck_specific: 84
@@ -96,7 +96,7 @@ Talisman of Progress is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol
 > scryfall_id: b356ee36-1c62-4097-87d7-fef6a6dad067
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - artifact
 > ```
 

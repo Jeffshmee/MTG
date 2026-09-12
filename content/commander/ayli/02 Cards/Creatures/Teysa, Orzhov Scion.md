@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Teysa, Orzhov Scion`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}{B}  
 > **Type:** Legendary Creature — Human Advisor  
 > **P/T:** 2/3  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Teysa](https://cards.scryfall.io/border_crop/front/b/8/b8ca900d-767d-4461-aba3-107dd17d8326.jpg)
+> ![Teysa, Orzhov Scion](https://cards.scryfall.io/border_crop/front/9/e/9eb856e6-8f63-4048-9818-cc3e65748855.jpg)
 >
 > ### Deck Scores
 >
@@ -51,25 +51,21 @@ Whenever another black creature you control dies, [[03 Effects/Create Token|crea
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Teysa, Orzhov Scion|Teysa, Orzhov Scion]] at {1}{W}{B}: sacrifice three white creatures: Exile target creature. The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Teysa, Orzhov Scion|Teysa, Orzhov Scion]] makes a 1/1 white Spirit whenever another white creature you control dies, and you can exile three white creatures to exile a creature. White-death engine. Ayli is white; Inspector, Traveler, Witness, Adeline are white. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- The death feeds Bastion and Bloodwitch. Ayli exile is not a death.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Sac a white body, keep the Spirit, repeat. Exile three whites only if a creature must leave and death is not enough.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
-- **Death / sac**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]]
+- **White deaths**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Doomed Traveler|Doomed Traveler]] *(owned extra)*, [[02 Cards/Creatures/Hunted Witness|Hunted Witness]] *(owned extra)*, [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
+- Black-only deaths (Sage, Feeder, Bloodwitch) mint nothing. The exile mode is not a death.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -92,15 +88,15 @@ Whenever another black creature you control dies, [[03 Effects/Create Token|crea
 > colors: ["B", "W"]
 > color_identity: ["B", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
 >   combined: 92
-> scryfall_id: b8ca900d-767d-4461-aba3-107dd17d8326
+> scryfall_id: 9eb856e6-8f63-4048-9818-cc3e65748855
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

@@ -8,6 +8,7 @@ group: auto
 legality: commander
 
 # Owned (in hand, need a cut)
+1 Elves of Deep Shadow
 1 Fyndhorn Elves
 1 Sol Ring
 1 Veil of Summer
@@ -42,9 +43,6 @@ legality: commander
 # Ordered
 
 # Wishlist
-1 Bitterblossom
-1 Nature's Lore
-1 Three Visits
 1 Formidable Speaker
 1 Urza's Incubator
 1 Elven Chorus
@@ -54,7 +52,7 @@ legality: commander
 ```
 
 *Source: `maralen-fae/07 Assets/sideboard.md`*
-*Last synced: 2026-09-10 (Urborg Elf sleeved)*
+*Last synced: 2026-09-11 (Lore / Blossom sleeved)*
 
 ---
 
@@ -273,20 +271,20 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Nature's Lore`**
-> **81** / 100 · ⚪ Wishlist
+> **81** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
 > [[02 Cards/Sorceries/Nature's Lore|Open local page →]]
 >
-> *Stay in sideboard / wishlist — not purchased.*
+> *Arrived 11/09/2026. Owned on SB — not in the 100 until a named cut.*
 
 > [!info] **`mtg:Three Visits`**
-> **81** / 100 · ⚪ Wishlist
+> **81** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
 > [[02 Cards/Sorceries/Three Visits|Open local page →]]
 >
-> *Stay in sideboard / wishlist — not purchased.*
+> *Arrived 11/09/2026. Owned on SB — not in the 100 until a named cut.*
 
 ### Enchantments
 > [!info] **`mtg:Aid from the Cowl`**
@@ -296,14 +294,6 @@ Pending / ordered cards, owned waiting for a cut, and recent cuts. Each entry is
 > [[02 Cards/Enchantments/Aid from the Cowl|Open local page →]]
 >
 > *Stay in sideboard — no main-deck swap suggested.*
-
-> [!info] **`mtg:Bitterblossom`**
-> **92** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:92%"></div></div>
->
-> [[02 Cards/Enchantments/Bitterblossom|Open local page →]]
->
-> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Elven Chorus`**
 > **89** / 100 · ⚪ Wishlist

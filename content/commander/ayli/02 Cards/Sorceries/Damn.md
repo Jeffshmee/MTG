@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Damn`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {B}{B}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Damn](https://cards.scryfall.io/border_crop/front/8/4/84056124-1a6f-4274-bee2-74cf0debddb5.jpg)
+> ![Damn](https://cards.scryfall.io/border_crop/front/2/6/2624fbf2-3a81-40f7-b3a0-9483cd4bf782.jpg)
 >
 > ### Deck Scores
 >
@@ -48,7 +48,7 @@ Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, ch
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Damn|Damn]] at {B}{B}: destroy target creature. A creature destroyed this way can't be regenerated. Serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s aristocrats plan. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Sorceries/Damn|Damn]] at {B}{B}: destroy target creature. A creature destroyed this way can't be regenerated. Serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s aristocrats plan.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, ch
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Ayli exile is not a death. Do not sequence this as if it were.
 
 ## Related Pages
 
@@ -85,15 +85,15 @@ Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, ch
 > colors: ["B"]
 > color_identity: ["B", "W"]
 > keywords: ["Overload"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: 84056124-1a6f-4274-bee2-74cf0debddb5
+> scryfall_id: 2624fbf2-3a81-40f7-b3a0-9483cd4bf782
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

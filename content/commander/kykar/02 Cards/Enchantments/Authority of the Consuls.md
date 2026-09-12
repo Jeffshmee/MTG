@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Authority of the Consuls`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {W}  
 > **Type:** Enchantment  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> ![Authority of the Consuls](https://cards.scryfall.io/border_crop/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg)
+> ![Authority of the Consuls](https://cards.scryfall.io/border_crop/front/5/3/53e3fa87-8de0-4e3a-90bf-780dd0a9fb48.jpg)
 >
 > ### Deck Scores
 >
@@ -48,13 +48,13 @@ Whenever a creature an opponent controls enters, you [[03 Effects/Gain Life|gain
 
 ## Deck Role & Rating
 
-Authority of the Consuls ({W}). Tap their creatures, gain life. Token decks enter tapped. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. It is not in the owned 65 yet.
+Authority of the Consuls ({W}). Tap their creatures, gain life. Token decks enter tapped. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Key Synergies
 
@@ -64,7 +64,7 @@ Authority of the Consuls ({W}). Tap their creatures, gain life. Token decks ente
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Related Pages
 
@@ -87,15 +87,15 @@ Authority of the Consuls ({W}). Tap their creatures, gain life. Token decks ente
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 82
 >   combined: 81
-> scryfall_id: 42ce2d7f-5924-47c0-b5ed-dacf9f9617a0
+> scryfall_id: 53e3fa87-8de0-4e3a-90bf-780dd0a9fb48
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - enchantment
 > ```
 

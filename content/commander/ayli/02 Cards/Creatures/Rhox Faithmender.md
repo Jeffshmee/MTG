@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Rhox Faithmender`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{W}  
 > **Type:** Creature — Rhino Monk  
 > **P/T:** 1/5  
@@ -49,22 +49,21 @@ If you would gain life, you gain twice that much life instead.
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Rhox Faithmender|Rhox Faithmender]] at {3}{W}: lifelink (Damage dealt by this creature also causes you to gain that much life.). That life is how [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] reaches +10. [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]] doubles P≤2 triggered ETBs and deaths; [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]] is the other life ETB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Rhox Faithmender|Rhox Faithmender]] doubles life gain. Hinterland 1 becomes 2; Angel pads on top. How this pile hits +10 and Reservoir in one turn. 4/5 is slow. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- Life goes toward Ayli's +10 exile mode. Vito pings if he is in play.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Cast when Hinterland or a Sister is already in play. Do not lead it into an empty board.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life toward +10**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
+- **Life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Artifacts/Aetherflux Reservoir|Aetherflux Reservoir]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Five mana. Does not gain life by itself. Opponent life loss is not doubled.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -87,7 +86,7 @@ If you would gain life, you gain twice that much life instead.
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Lifelink"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -95,7 +94,7 @@ If you would gain life, you gain twice that much life instead.
 > scryfall_id: c79a8938-aae6-42ff-888c-2783e11a8d4f
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

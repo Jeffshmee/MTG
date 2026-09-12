@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Toxic Deluge](https://cards.scryfall.io/border_crop/front/d/e/de5afccc-8d42-4bd6-b068-b9ea2361655e.jpg)
+> ![Toxic Deluge](https://cards.scryfall.io/border_crop/front/d/c/dc988247-1072-4e47-a656-8c5b1391dfca.jpg)
 >
 > ### Deck Scores
 >
@@ -92,7 +92,7 @@ All creatures get -X/-X until end of turn.
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: de5afccc-8d42-4bd6-b068-b9ea2361655e
+> scryfall_id: dc988247-1072-4e47-a656-8c5b1391dfca
 > tags:
 >   - card
 >   - main-deck

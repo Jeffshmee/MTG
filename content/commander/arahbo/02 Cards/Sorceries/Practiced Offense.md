@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Practiced Offense`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{W}  
 > **Type:** Sorcery  
 >
@@ -51,7 +51,7 @@ Put a [[03 Effects/Plus One Counters|+1/+1 counter]] on each creature target pla
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Practiced Offense|Practiced Offense]] at {2}{W}: put a +1/+1 counter on each creature target player controls. Target creature gains your choice of double strike or lifelink until end of turn. Name Cat if it asks. Stacks with First Fang and [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Sorceries/Practiced Offense|Practiced Offense]] at {2}{W}: put a +1/+1 counter on each creature target player controls. Target creature gains your choice of double strike or lifelink until end of turn. Name Cat if it asks. Stacks with First Fang and [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -66,7 +66,7 @@ Put a [[03 Effects/Plus One Counters|+1/+1 counter]] on each creature target pla
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -89,7 +89,7 @@ Put a [[03 Effects/Plus One Counters|+1/+1 counter]] on each creature target pla
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Flashback"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -97,7 +97,7 @@ Put a [[03 Effects/Plus One Counters|+1/+1 counter]] on each creature target pla
 > scryfall_id: 79c7cf94-c0a1-432d-90d7-7f0599c2e7a8
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

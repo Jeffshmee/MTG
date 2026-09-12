@@ -2,11 +2,11 @@
 
 Set `TTDC`. Qty here is copies of this name from this set.
 
-**18** copies · **11** names.
+**43** copies · **11** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Angel`**](https://scryfall.com/card/ttdc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.31 |
+| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.31 |
 | [**`mtg:Beast`**](https://scryfall.com/card/tfdn/33) | [[02 Cards/Tokens/Beast\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.19 |
 | [**`mtg:Citizen`**](https://scryfall.com/card/ttdc/26) | [[02 Cards/Tokens/Citizen\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.19 |
 | [**`mtg:Dog`**](https://scryfall.com/card/ttdc/3) | [[02 Cards/Tokens/Dog\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.45 |
@@ -16,4 +16,4 @@ Set `TTDC`. Qty here is copies of this name from this set.
 | [**`mtg:Myr`**](https://scryfall.com/card/tmh1/19) | [[02 Cards/Tokens/Myr\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.24 |
 | [**`mtg:Rat`**](https://scryfall.com/card/tfdn/30) | [[02 Cards/Tokens/Rat\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 |
 | [**`mtg:Servo`**](https://scryfall.com/card/ttdc/31) | [[02 Cards/Tokens/Servo\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
-| [**`mtg:Spirit`**](https://scryfall.com/card/tsos/11) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 6 | 0.84 |
+| [**`mtg:Spirit`**](https://scryfall.com/card/ttdc/6) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 31 | 4.34 |

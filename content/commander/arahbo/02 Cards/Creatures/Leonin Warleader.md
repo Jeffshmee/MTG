@@ -49,19 +49,20 @@ Whenever this creature attacks, [[03 Effects/Create Token|create two 1/1 white C
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Leonin Warleader|Leonin Warleader]] makes two 1/1 Cats with lifelink whenever it attacks. Token maker to sleeve next for plan 2. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Leonin Warleader|Leonin Warleader]] attacks into two 1/1 Cats with lifelink, tapped and attacking. Token Cats do not trigger First Fang. Lifelink feeds Pridemate / Collector. Four mana. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Sleeve with Ocelot Pride. Attack every turn. Lifelink feeds Pridemate.
+- Attack every turn. Banner / Regal should already be in play so the 1/1s are real.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Tokens / life**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]]
+- **Tokens / life**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Cat Collector|Cat Collector]]
 
 ## Anti-synergies / Notes
 
+- Tokens do not trigger First Fang. Needs to attack — summoning sick the turn it lands.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

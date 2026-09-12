@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Pride Sovereign`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{G}  
 > **Type:** Creature — Cat  
 > **P/T:** 2/2  
@@ -51,27 +51,23 @@ This creature [[03 Effects/Pump Creatures|gets +1/+1]] for each other Cat you co
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Pride Sovereign|Pride Sovereign]] at {2}{G} is a Cat — this creature gets +1/+1 for each other Cat you control. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Pride Sovereign|Pride Sovereign]] gets +1/+1 for each other Cat and exerts for two 1/1 Cats with lifelink. Go-wide lord that also mints tokens. Exert means it skips the next untap — attack or make tokens, not both every turn. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] sees the nontoken ETB.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- The life feeds Pridemate and Collector. Connect once.
-- Token Cats do not trigger First Fang. They still get Banner / Regal.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
+- Play after First Fang. Exert when you need two lifelink Cats more than an attacker this turn.
+- The tokens are tokens — they do not trigger First Fang. They still get Banner / Regal / Sovereign's own anthem.
+- White pip to exert. Keep {{W}} up.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Tokens**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Enchantments/Felidar Retreat|Felidar Retreat]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
-- **Life / Pridemate**: [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Sacred Cat|Sacred Cat]], [[02 Cards/Creatures/Cat Collector|Cat Collector]]
+- **Go-wide**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Leonin Warleader|Leonin Warleader]] *(owned extra)*
+- **Lifelink**: [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Cat Collector|Cat Collector]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Token Cats do not trigger First Fang. Nontoken Cats do.
+- Exert skips untap. Do not exert into a board that needs the 2/2 as a blocker next turn.
 
 ## Related Pages
 
@@ -94,7 +90,7 @@ This creature [[03 Effects/Pump Creatures|gets +1/+1]] for each other Cat you co
 > colors: ["G"]
 > color_identity: ["G", "W"]
 > keywords: ["Exert"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -102,7 +98,7 @@ This creature [[03 Effects/Pump Creatures|gets +1/+1]] for each other Cat you co
 > scryfall_id: dd3d32b7-672f-4ceb-a1c9-17daefd2cb0c
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

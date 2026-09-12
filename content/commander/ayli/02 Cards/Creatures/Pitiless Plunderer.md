@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Pitiless Plunderer`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{B}  
 > **Type:** Creature — Human Pirate  
 > **P/T:** 1/4  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Pitiless Plunderer](https://cards.scryfall.io/border_crop/front/5/b/5b5cd187-857a-44dd-8595-a52857a0b753.jpg)
+> ![Pitiless Plunderer](https://cards.scryfall.io/border_crop/front/4/7/47255b76-2c77-4e94-938d-b9d3497798ec.jpg)
 >
 > ### Deck Scores
 >
@@ -48,25 +48,23 @@ Whenever another creature you control dies, [[03 Effects/Create Token|create a T
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Pitiless Plunderer|Pitiless Plunderer]] at {3}{B}: whenever another creature you control dies, create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color."). The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Pitiless Plunderer|Pitiless Plunderer]] turns every death into a Treasure. Ayli's {1} sac and [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]] / [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]] all mint mana. The Treasure pays the next exile or dumps [[02 Cards/Creatures/Massacre Wurm|Massacre Wurm]]. It is a 1/4 — Delney does not double it.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- The death feeds Bastion and Bloodwitch. Ayli exile is not a death.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Play before you start sacrificing. One death a turn is a Treasure; a dump is a ritual.
+- Crack Treasures for {{B}}{{W}} if Ayli exile is up, not for a random spell.
+- Ayli exile is not a death — Plunderer does not see those leaves.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
-- **Death / sac**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]]
+- **Deaths**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Ophiomancer|Ophiomancer]]
+- **Dump**: [[02 Cards/Creatures/Massacre Wurm|Massacre Wurm]], [[02 Cards/Instants/Culling the Weak|Culling the Weak]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
+- 3/4 mana. Dead in hand if you never sacrifice. Tokens that are exiled mint nothing.
 
 ## Related Pages
 
@@ -89,15 +87,15 @@ Whenever another creature you control dies, [[03 Effects/Create Token|create a T
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Treasure"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: 5b5cd187-857a-44dd-8595-a52857a0b753
+> scryfall_id: 47255b76-2c77-4e94-938d-b9d3497798ec
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

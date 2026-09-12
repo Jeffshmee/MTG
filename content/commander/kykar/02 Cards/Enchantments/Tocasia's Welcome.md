@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Tocasia's Welcome`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{W}  
 > **Type:** Enchantment  
 >
@@ -47,22 +47,25 @@ Whenever one or more creatures you control with mana value 3 or less enter, [[03
 
 ## Deck Role & Rating
 
-Once a turn, a creature with mana value 3 or less entering draws. Blink turns are extra cards. Physical copy came from Zurgo's sideboard. Live in the 70.
+Once a turn, a creature with mana value 3 or less entering draws a card. Blink turns are extra cards. Cut 11/09/2026 for [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]]. In hand on the sideboard — not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
-- Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
-- Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
+- Cast on curve: it is a noncreature, so Kykar triggers. The first cheap ETB that turn draws.
+- Best with Channeler, Charming Prince, Deputy, Kitten. Helpful Hunter is already an owned cut.
+- Once per turn — a second blink the same turn does not draw again.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]
-- **Blink (live)**: [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]], [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]], [[02 Cards/Creatures/Charming Prince|Charming Prince]]
-- **ETB payoffs (live)**: [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], [[02 Cards/Creatures/Cloudblazer|Cloudblazer]]
+- **Cheap ETBs**: [[02 Cards/Creatures/Charming Prince|Charming Prince]], [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Displacer Kitten|Displacer Kitten]], [[02 Cards/Creatures/Deputy of Detention|Deputy of Detention]]
+- **Blink**: [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]], [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]], [[02 Cards/Instants/Ephemerate|Ephemerate]]
 
 ## Anti-synergies / Notes
 
-- Judge it by whether it triggers Kykar or is worth blinking. Spirit mode is backup.
+- In hand on the sideboard. Not in the 100 until a named cut.
+- Mana value 4+ ETBs (Mulldrifter, Cloudblazer, Drake) do not count.
+- Tokens that enter do count if their mana value is 3 or less.
 
 ## Related Pages
 
@@ -85,7 +88,7 @@ Once a turn, a creature with mana value 3 or less entering draws. Blink turns ar
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 82
 >   deck_specific: 86
@@ -93,7 +96,7 @@ Once a turn, a creature with mana value 3 or less entering draws. Blink turns ar
 > scryfall_id: 90e38661-292a-45e7-bda9-51af53cf0f68
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - enchantment
 > ```
 

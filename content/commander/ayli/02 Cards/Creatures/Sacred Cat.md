@@ -51,21 +51,20 @@ Embalm {W} ({W}, [[03 Effects/Exile|Exile this card from your graveyard: [[03 Ef
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Sacred Cat|Sacred Cat]] is not in this pile and not on this sideboard. The unique copy is in Arahbo. Do not sleeve it here. Vault page — not on the sleeved list or the sideboard.
+[[02 Cards/Creatures/Sacred Cat|Sacred Cat]] is a 1/1 lifelink with embalm. Combat life for Vito / Pridemate, then a 1/1 from the yard. Unique copy lives in Arahbo — do not pull it from there. This page is the aristocrats read if a spare arrives. Vault page — not on the sleeved list or the sideboard.
 
 ## Play Patterns & Lines
 
-- Do not look for it in this pile. Embalm Cat lives in Arahbo.
+- Attack for 1 life. Embalm after it dies. The token is fodder.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life toward +10**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
+- **Life / fodder**: [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]], [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 
 ## Anti-synergies / Notes
 
-- Unique copy is Arahbo. Do not take it back.
+- The unique AKH 27 is in Arahbo. Do not unsleeve it.
 
 ## Related Pages
 

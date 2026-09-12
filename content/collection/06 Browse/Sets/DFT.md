@@ -2,7 +2,7 @@
 
 Set `DFT`. Qty here is copies of this name from this set.
 
-**29** copies · **29** names.
+**30** copies · **30** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -15,6 +15,7 @@ Set `DFT`. Qty here is copies of this name from this set.
 | [**`mtg:Lightwheel Enhancements`**](https://scryfall.com/card/dft/20) | [[02 Cards/Enchantments/Lightwheel Enhancements\|PAGE]] | {W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Point the Way`**](https://scryfall.com/card/dft/175) | [[02 Cards/Enchantments/Point the Way\|PAGE]] | {G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:Beastrider Vanguard`**](https://scryfall.com/card/dft/154) | [[02 Cards/Creatures/Beastrider Vanguard\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
+| [**`mtg:Bloodghast`**](https://scryfall.com/card/dft/77) | [[02 Cards/Creatures/Bloodghast\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.12 |
 | [**`mtg:Burner Rocket`**](https://scryfall.com/card/dft/114) | [[02 Cards/Artifacts/Burner Rocket\|PAGE]] | {1}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Cloudspire Coordinator`**](https://scryfall.com/card/dft/196) | [[02 Cards/Creatures/Cloudspire Coordinator\|PAGE]] | {R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Pilot\|Pilot]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
 | [**`mtg:Diversion Unit`**](https://scryfall.com/card/dft/41) | [[02 Cards/Creatures/Diversion Unit\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Robot\|Robot]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |

@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Bartolomé del Presidio](https://cards.scryfall.io/border_crop/front/6/9/690ccdc7-6c43-4902-9d11-2f07b7a36b11.jpg)
+> ![Bartolomé del Presidio](https://cards.scryfall.io/border_crop/front/f/8/f82bb486-7009-4b53-973f-477fc13ad7e7.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@ Sacrifice another creature or artifact: Put a [[03 Effects/Plus One Counters|+1/
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: 690ccdc7-6c43-4902-9d11-2f07b7a36b11
+> scryfall_id: f82bb486-7009-4b53-973f-477fc13ad7e7
 > tags:
 >   - card
 >   - main-deck

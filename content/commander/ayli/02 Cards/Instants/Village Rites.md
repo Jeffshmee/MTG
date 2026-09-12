@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Village Rites](https://cards.scryfall.io/border_crop/front/4/2/42ed35e9-51cd-468a-86a9-9412553cf50d.jpg)
+> ![Village Rites](https://cards.scryfall.io/border_crop/front/2/8/2841339b-faef-407d-9838-d03fe80e6294.jpg)
 >
 > ### Deck Scores
 >
@@ -92,7 +92,7 @@ As an additional cost to cast this spell, sacrifice a creature.
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: 42ed35e9-51cd-468a-86a9-9412553cf50d
+> scryfall_id: 2841339b-faef-407d-9838-d03fe80e6294
 > tags:
 >   - card
 >   - main-deck

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Propaganda`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{U}  
 > **Type:** Enchantment  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
-> ![Propaganda](https://cards.scryfall.io/border_crop/front/a/c/ac943e31-26bc-4b54-b73f-460e6e402d86.jpg)
+> ![Propaganda](https://cards.scryfall.io/border_crop/front/0/8/0806d4a1-4d2f-454b-b830-5ab58e13a452.jpg)
 >
 > ### Deck Scores
 >
@@ -47,13 +47,13 @@ Creatures can't attack you unless their controller pays {2} for each creature th
 
 ## Deck Role & Rating
 
-Propaganda ({2}{U}). Tax attackers. Token decks stall here. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. It is not in the owned 65 yet.
+Propaganda ({2}{U}). Tax attackers. Token decks stall here. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. Sleeved 12/09/2026.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- Sleeved 12/09/2026.
 
 ## Key Synergies
 
@@ -63,7 +63,7 @@ Propaganda ({2}{U}). Tax attackers. Token decks stall here. Judge it by whether 
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -86,15 +86,15 @@ Propaganda ({2}{U}). Tax attackers. Token decks stall here. Judge it by whether 
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 88
 >   combined: 86
-> scryfall_id: ac943e31-26bc-4b54-b73f-460e6e402d86
+> scryfall_id: 0806d4a1-4d2f-454b-b830-5ab58e13a452
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Three Tree City`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Legendary Land  
 >
@@ -49,7 +49,7 @@ As Three Tree City enters, choose a creature type.
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Three Tree City|Three Tree City]] as Three Tree City enters, choose a creature type. Colourless. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Three Tree City|Three Tree City]] as Three Tree City enters, choose a creature type. Colourless. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ As Three Tree City enters, choose a creature type.
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
 
 ## Related Pages
 
@@ -88,7 +88,7 @@ As Three Tree City enters, choose a creature type.
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -96,7 +96,7 @@ As Three Tree City enters, choose a creature type.
 > scryfall_id: 56f88a48-cced-4a9d-8c19-e4f105f0d8a2
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

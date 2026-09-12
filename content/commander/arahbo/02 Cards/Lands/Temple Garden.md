@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Temple Garden](https://cards.scryfall.io/border_crop/front/b/9/b9b0589d-f327-46a7-8bac-06b7654c547a.jpg)
+> ![Temple Garden](https://cards.scryfall.io/border_crop/front/6/c/6cdd2a74-63b3-4ff2-9c5a-a85dee63c3c9.jpg)
 >
 > ### Deck Scores
 >
@@ -60,7 +60,7 @@ As this land enters, you may pay 2 life. If you don't, it [[03 Effects/Enters Ta
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
 - **Untapped**: [[02 Cards/Lands/Command Tower|Command Tower]], [[02 Cards/Lands/Plains|Plains]], [[02 Cards/Lands/Forest|Forest]]
-- **Fetch later**: [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]] *(owned extra)*, [[02 Cards/Sorceries/Three Visits|Three Visits]] *(owned extra)*
+- **Fetch later**: [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]], [[02 Cards/Sorceries/Three Visits|Three Visits]]
 
 ## Anti-synergies / Notes
 
@@ -92,7 +92,7 @@ As this land enters, you may pay 2 life. If you don't, it [[03 Effects/Enters Ta
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: b9b0589d-f327-46a7-8bac-06b7654c547a
+> scryfall_id: 6cdd2a74-63b3-4ff2-9c5a-a85dee63c3c9
 > tags:
 >   - card
 >   - main-deck

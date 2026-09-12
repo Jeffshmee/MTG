@@ -2,11 +2,12 @@
 
 Creature type: Bird.
 
-**33** copies · **21** names.
+**34** copies · **22** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Healer's Hawk`**](https://scryfall.com/card/fdn/142) | [[02 Cards/Creatures/Healer's Hawk\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
+| [**`mtg:Sazh's Chocobo`**](https://scryfall.com/card/fin/200) | [[02 Cards/Creatures/Sazh's Chocobo\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.56 |
 | [**`mtg:Old Thrush`**](https://scryfall.com/card/hob/2) | [[02 Cards/Creatures/Old Thrush\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.08 |
 | [**`mtg:Strix Lookout`**](https://scryfall.com/card/fdn/52) | [[02 Cards/Creatures/Strix Lookout\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.35 |

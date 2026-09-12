@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Beastmaster Ascension`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{G}  
 > **Type:** Enchantment  
 >
@@ -48,7 +48,7 @@ As long as this enchantment has seven or more quest counters on it, creatures yo
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Beastmaster Ascension|Beastmaster Ascension]] quests on attacks; at 7 counters the team gets +5/+5. Go-wide closer. 🟢 SB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Enchantments/Beastmaster Ascension|Beastmaster Ascension]] quests on attacks; at 7 counters the team gets +5/+5. Go-wide closer. 🟢 SB.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,6 @@ As long as this enchantment has seven or more quest counters on it, creatures yo
 ## Anti-synergies / Notes
 
 - Does nothing until 7 attacks have been declared. Do not play it as an instant anthem.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages
 
@@ -85,7 +84,7 @@ As long as this enchantment has seven or more quest counters on it, creatures yo
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -93,7 +92,7 @@ As long as this enchantment has seven or more quest counters on it, creatures yo
 > scryfall_id: f404d133-fc1a-4751-ac72-554e6553e486
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

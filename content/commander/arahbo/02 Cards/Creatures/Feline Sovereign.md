@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Feline Sovereign`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{G}  
 > **Type:** Creature — Cat  
 > **P/T:** 2/3  
@@ -50,23 +50,24 @@ Whenever one or more Cats you control deal combat damage to a player, [[03 Effec
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Feline Sovereign|Feline Sovereign]] at {2}{G} is a Cat — other Cats you control get +1/+1 and have protection from Dogs. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Feline Sovereign|Feline Sovereign]] is the Cat lord that also Naturalizes. Other Cats get +1/+1 and protection from Dogs; combat damage from one or more Cats destroys an artifact or enchantment that player controls. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] ETBs a 1/1 off this nontoken Cat. Protection from Dogs is real against a few tables and irrelevant against most — the anthem and the on-hit disenchant are the jobs.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Play after First Fang so the ETB is a token. Attack with any Cat — the trigger is one or more, not each.
+- Point the destroy at the artifact/enchantment that stops the wide board (Ghostly Prison, Rest in Peace, an opposing Banner).
+- Stacks with Banner and Regal. Dogs-protection does not stop Path or board wipes.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Anthem / Cats**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/King of the Pride|King of the Pride]] *(owned extra)*
+- **On-hit**: [[02 Cards/Creatures/Pride Sovereign|Pride Sovereign]], [[02 Cards/Creatures/Mirri, Weatherlight Duelist|Mirri, Weatherlight Duelist]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Needs to connect. A tapped-out Sovereign with no attacker does not disenchant.
+- Protection from Dogs is not hexproof. Roar is still ordered — no Eminence.
 
 ## Related Pages
 
@@ -89,7 +90,7 @@ Whenever one or more Cats you control deal combat damage to a player, [[03 Effec
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -97,7 +98,7 @@ Whenever one or more Cats you control deal combat damage to a player, [[03 Effec
 > scryfall_id: 84a9485a-d356-4cbe-b257-b62008a21328
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

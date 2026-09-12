@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Evolving Wilds](https://cards.scryfall.io/border_crop/front/3/a/3a0b9356-5b91-4542-8802-f0f7275238e1.jpg)
+> ![Evolving Wilds](https://cards.scryfall.io/border_crop/front/6/2/62209251-4118-4843-895b-46afb7284c75.jpg)
 >
 > ### Deck Scores
 >
@@ -91,7 +91,7 @@
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 3a0b9356-5b91-4542-8802-f0f7275238e1
+> scryfall_id: 62209251-4118-4843-895b-46afb7284c75
 > tags:
 >   - card
 >   - main-deck

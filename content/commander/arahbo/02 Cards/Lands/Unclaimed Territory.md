@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Unclaimed Territory`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Unclaimed Territory](https://cards.scryfall.io/border_crop/front/d/3/d3782952-3839-4a94-95bc-716611d3ece6.jpg)
+> ![Unclaimed Territory](https://cards.scryfall.io/border_crop/front/f/f/ff765732-6fe3-4594-bff5-6ce47a79f45a.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ As this land enters, choose a creature type.
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Unclaimed Territory|Unclaimed Territory]] as this land enters, choose a creature type. Colourless. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Unclaimed Territory|Unclaimed Territory]] as this land enters, choose a creature type. Colourless. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ As this land enters, choose a creature type.
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -88,15 +88,15 @@ As this land enters, choose a creature type.
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: d3782952-3839-4a94-95bc-716611d3ece6
+> scryfall_id: ff765732-6fe3-4594-bff5-6ce47a79f45a
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Bitterblossom`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}  
 > **Type:** Kindred Enchantment — Faerie  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Bitterblossom](https://cards.scryfall.io/border_crop/front/b/9/b9640cbf-b016-410e-9eff-e8924883517b.jpg)
+> ![Bitterblossom](https://cards.scryfall.io/border_crop/front/4/c/4c2fd7bd-6528-453b-b55d-a708967b14e8.jpg)
 >
 > ### Deck Scores
 >
@@ -48,7 +48,7 @@ At the beginning of your upkeep, you lose 1 life and [[03 Effects/Create Token|c
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] at {1}{B}: at the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with [[03 Effects/Flying. The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] at {1}{B}: at the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with [[03 Effects/Flying. The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]].
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,6 @@ At the beginning of your upkeep, you lose 1 life and [[03 Effects/Create Token|c
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 - Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
 
 ## Related Pages
@@ -87,15 +86,15 @@ At the beginning of your upkeep, you lose 1 life and [[03 Effects/Create Token|c
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
 >   combined: 92
-> scryfall_id: b9640cbf-b016-410e-9eff-e8924883517b
+> scryfall_id: 4c2fd7bd-6528-453b-b55d-a708967b14e8
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

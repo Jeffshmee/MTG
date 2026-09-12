@@ -51,19 +51,20 @@ Sacrifice another creature: Yahenni gains [[03 Effects/Indestructible|indestruct
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni, Undying Partisan]] is a sac outlet with haste that grows when a creature dies and can go indestructible. Sleeve as a second outlet. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni, Undying Partisan]] is haste, a free sac outlet, and indestructible if a creature died this turn. Sac Sage, Yahenni lives through the wrath. Drain still sees the Sage. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Sac fodder, attack. Pay {B}{B} only if a wipe is coming.
+- Sac before the wrath. Haste means it can attack the turn it lands if you already have a death.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Sac / death**: [[02 Cards/Creatures/Viscera Seer|Viscera Seer]] *(owned extra)*, [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*
+- **Sac / death**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]]
 
 ## Anti-synergies / Notes
 
+- Indestructible needs a death first. Empty-board Yahenni dies to the same wrath.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

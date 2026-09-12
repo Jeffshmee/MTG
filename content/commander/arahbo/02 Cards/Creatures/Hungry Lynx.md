@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Hungry Lynx`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}  
 > **Type:** Creature — Cat  
 > **P/T:** 2/2  
@@ -51,25 +51,22 @@ Whenever a Rat dies, put a [[03 Effects/Plus One Counters|+1/+1 counter]] on eac
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Hungry Lynx|Hungry Lynx]] at {1}{G} is a Cat — cats you control have protection from Rats. (They can't be blocked, targeted, or dealt damage by Rats.). [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Hungry Lynx|Hungry Lynx]] gives your Cats protection from Rats, makes the opponent a 1/1 deathtouch Rat each end step, and puts a +1/+1 counter on each Cat whenever a Rat dies. The Rat is their blocker that you want dead — Path it, block it, or wait for a wipe. Counters stay. This is a counter engine, not a Rat tribal card.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Token Cats do not trigger First Fang. They still get Banner / Regal.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
+- Play it. Let them make the Rat. Kill the Rat on your terms so every Cat grows.
+- Protection from Rats means their Rat cannot block your Cats. Attack past it.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Tokens**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Enchantments/Felidar Retreat|Felidar Retreat]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Counters / Cats**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Skyknight Squire|Skyknight Squire]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Token Cats do not trigger First Fang. Nontoken Cats do.
+- You are giving them a deathtouch 1/1 every turn until it dies. Do not ignore it if they can pump it.
+- Rats they already have also trigger the counter if they die — rare.
 
 ## Related Pages
 
@@ -92,7 +89,7 @@ Whenever a Rat dies, put a [[03 Effects/Plus One Counters|+1/+1 counter]] on eac
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -100,7 +97,7 @@ Whenever a Rat dies, put a [[03 Effects/Plus One Counters|+1/+1 counter]] on eac
 > scryfall_id: c0ad6f84-8ede-4411-9979-cefee255fa70
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

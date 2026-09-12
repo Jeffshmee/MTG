@@ -52,22 +52,21 @@ Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a 
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Lion Sash|Lion Sash]] at {1}{W} is a Cat — {W}: Exile target card from a graveyard. If it was a permanent card, put a +1/+1 counter on this permanent. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Lion Sash|Lion Sash]] is an Equipment Cat: exile a yard card for {W}, grow, reconfigure onto a Cat. As a creature it is a Cat for First Fang / Banner. As equipment it pumps the suited Cat. Grave-hate for their recursion. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Cast as a Cat if you need the ETB token from First Fang. Reconfigure onto First Fang or Regal.
+- Exile their best yard card. Permanent cards also grow the Sash.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Cat / equipment**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]]
 
 ## Anti-synergies / Notes
 
+- Reconfigure is sorcery-speed. Instant-speed yard hate is only the {{W}} while it is a creature or attached.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

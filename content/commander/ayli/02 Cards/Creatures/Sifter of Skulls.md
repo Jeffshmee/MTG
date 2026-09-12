@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Sifter of Skulls`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{B}  
 > **Type:** Creature — Eldrazi  
 > **P/T:** 4/3  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Sifter of Skulls](https://cards.scryfall.io/border_crop/front/b/e/be57a5aa-44f1-483f-9274-aa68f5a2bf1f.jpg)
+> ![Sifter of Skulls](https://cards.scryfall.io/border_crop/front/f/8/f824d5b6-259b-467b-93b5-e93db8b15359.jpg)
 >
 > ### Deck Scores
 >
@@ -50,24 +50,21 @@ Whenever another nontoken creature you control dies, [[03 Effects/Create Token|c
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Sifter of Skulls|Sifter of Skulls]] at {3}{B}: devoid (This card has no color.). The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Sifter of Skulls|Sifter of Skulls]] is the other Pawn: nontoken death → Eldrazi Scion ({C}). Same restriction as [[02 Cards/Creatures/Pawn of Ulamog|Pawn of Ulamog]]. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- The death feeds Bastion and Bloodwitch. Ayli exile is not a death.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Sac nontoken fodder. The Scion pays {{C}} or dies to Ayli for 1 life.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
-- **Death / sac**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]]
+- **Nontoken deaths**: [[02 Cards/Creatures/Pawn of Ulamog|Pawn of Ulamog]] *(owned extra)*, [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
+- Token deaths mint nothing. Two Pawns do not stack extra tokens from one death each — they do stack (each triggers).
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -90,15 +87,15 @@ Whenever another nontoken creature you control dies, [[03 Effects/Create Token|c
 > colors: []
 > color_identity: ["B"]
 > keywords: ["Devoid"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: be57a5aa-44f1-483f-9274-aa68f5a2bf1f
+> scryfall_id: f824d5b6-259b-467b-93b5-e93db8b15359
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**119** copies · **83** names.
+**123** copies · **86** names.
 
 ```decklist
 group: auto
@@ -32,8 +32,9 @@ legality: commander
 1 Rooftop Percher
 1 Sandstone Oracle
 1 Sanitation Automaton
+1 Sifter of Skulls
 1 Skyscanner
-1 Solemn Simulacrum
+2 Solemn Simulacrum
 1 Steel Hellkite
 1 Sundering Archaic
 1 The Dawning Archaic
@@ -65,11 +66,13 @@ legality: commander
 1 Fireshrieker
 1 Fishing Pole
 1 Fountainport Bell
+1 Gathering Stone
 2 Giant's Boulder
 1 Gilded Lotus
 1 Goldvein Pick
 1 Haunted Screen
 1 Hedron Archive
+1 Herald's Horn
 1 Heraldic Banner
 1 Idol of Oblivion
 2 Jeskai Monument

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Stormplain Detainment`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{W}  
 > **Type:** Enchantment  
 >
@@ -86,7 +86,7 @@ Stormplain is Banishing Light with different art: ETB exile a nonland until it l
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 84
@@ -94,7 +94,7 @@ Stormplain is Banishing Light with different art: ETB exile a nonland until it l
 > scryfall_id: 39f3aab5-7b54-4b55-8114-c6f9f79c255d
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - enchantment
 > ```
 

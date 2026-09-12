@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Three Visits`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{G}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> ![Three](https://cards.scryfall.io/border_crop/front/9/9/99bf792f-963e-4509-8d3c-7db129c6a77f.jpg?1783903227)
+> ![Three Visits](https://cards.scryfall.io/border_crop/front/9/9/99bf792f-963e-4509-8d3c-7db129c6a77f.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-Wishlist ramp. Search for a Forest card and put it onto the battlefield untapped. Same job as [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]]: [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]], [[02 Cards/Lands/Breeding Pool|Breeding Pool]], or a basic Forest, ready to tap. Wishlist only — not purchased, not in the owned list.
+Search for a Forest card and put it onto the battlefield untapped. Same job as [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]]: [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]], [[02 Cards/Lands/Breeding Pool|Breeding Pool]], or a basic Forest, ready to tap. Arrived 11/09/2026. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@ Wishlist ramp. Search for a Forest card and put it onto the battlefield untapped
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet. Not purchased.
+- In hand on the sideboard. Not in the 100 until a named cut.
 - Cannot fetch Island or Watery Grave.
 - [[02 Cards/Lands/Yavimaya, Cradle of Growth|Yavimaya]] does not turn Island into a Forest *card* in the library.
 
@@ -88,7 +88,7 @@ Wishlist ramp. Search for a Forest card and put it onto the battlefield untapped
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 82
 >   deck_specific: 80
@@ -96,9 +96,8 @@ Wishlist ramp. Search for a Forest card and put it onto the battlefield untapped
 > scryfall_id: 99bf792f-963e-4509-8d3c-7db129c6a77f
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - sorcerie
->   - wishlist
 > ```
 
 *Last evaluated: 2026-08-17*  

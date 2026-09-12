@@ -2,7 +2,7 @@
 
 Mono-black cards ({B} only). Lands and tokens are listed separately.
 
-**215** copies · **161** names.
+**226** copies · **169** names.
 
 ```decklist
 group: auto
@@ -16,12 +16,15 @@ legality: commander
 1 Arnyn, Deathbloom Botanist
 1 Azula, On the Hunt
 1 Balemurk Leech
-1 Bitterbloom Bearer
+2 Bitterbloom Bearer
 1 Blighted Blackthorn
+1 Blood Artist
+1 Bloodghast
 1 Bone Devourer
 2 Burrog Banemaker
 1 Cackling Slasher
 1 Canyon Crawler
+1 Carrion Feeder
 2 Cheerful Osteomancer // Raise Dead
 1 Chittering Witch
 1 Desecration Demon
@@ -29,6 +32,7 @@ legality: commander
 1 Dream Seizer
 1 Driver of the Dead
 1 Emeritus of Woe // Demonic Tutor
+1 Enduring Tenacity
 1 Engine Rat
 1 Eternal Student
 1 Fanatic of the Harrowing
@@ -45,6 +49,7 @@ legality: commander
 1 Heirloom Auntie
 1 Hungry Ghoul
 2 Infestation Sage
+1 Jadar, Ghoulcaller of Nephalia
 1 Kalakscion, Hunger Tyrant
 1 Kalastria Highborn
 1 Kin-Tree Nurturer
@@ -66,9 +71,10 @@ legality: commander
 1 Nightblade Brigade
 2 Nighthowl Pursuer
 1 Nullpriest of Oblivion
-1 Ophiomancer
+2 Ophiomancer
 1 Ozox, the Clattering King
 1 Persuasive Interrogators
+1 Pitiless Plunderer
 2 Poisoner's Apprentice
 1 Priest of Forgotten Gods
 1 Pulse Tracker
@@ -138,6 +144,7 @@ legality: commander
 1 Bogslither's Embrace
 1 Commune with Evil
 4 Cost of Brilliance
+1 Damn
 1 Deathmark
 1 Diresight
 1 Dread Summons
@@ -163,6 +170,7 @@ legality: commander
 
 # Enchantments
 2 Bastion of Remembrance
+2 Bitterblossom
 1 Boggart Mischief
 1 Demonic Pact
 2 Down, Down to Goblin-town

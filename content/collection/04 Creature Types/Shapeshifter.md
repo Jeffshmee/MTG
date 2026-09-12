@@ -2,12 +2,13 @@
 
 Creature type: Shapeshifter.
 
-**10** copies · **9** names.
+**11** copies · **10** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Feisty Spikeling`**](https://scryfall.com/card/ecl/223) | [[02 Cards/Creatures/Feisty Spikeling\|PAGE]] | {1}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Three Tree Mascot`**](https://scryfall.com/card/fdn/682) | [[02 Cards/Creatures/Three Tree Mascot\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
+| [**`mtg:Undercover Skrull`**](https://scryfall.com/card/msh/194) | [[02 Cards/Creatures/Undercover Skrull\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Skrull\|Skrull]] [[04 Creature Types/Shapeshifter\|Shapeshifter]] [[04 Creature Types/Villain\|Villain]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Firdoch Core`**](https://scryfall.com/card/ecl/255) | [[02 Cards/Artifacts/Firdoch Core\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Glasspool Mimic`**](https://scryfall.com/card/znr/60) | [[02 Cards/Creatures/Glasspool Mimic\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Land\|Land]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] [[04 Creature Types/Rogue\|Rogue]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 5.53 |
 | [**`mtg:Taurean Mauler`**](https://scryfall.com/card/tdc/238) | [[02 Cards/Creatures/Taurean Mauler\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.02 |

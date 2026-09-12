@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Farewell`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}{W}{W}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> ![Farewell](https://cards.scryfall.io/border_crop/front/1/1/114d2180-093b-4838-97ad-badbc8ee50b0.jpg)
+> ![Farewell](https://cards.scryfall.io/border_crop/front/4/d/4d8b6418-da30-4c68-b87c-3936eb77620c.jpg)
 >
 > ### Deck Scores
 >
@@ -51,13 +51,13 @@ Choose one or more —
 
 ## Deck Role & Rating
 
-Farewell ({4}{W}{W}). Game changer. Exile modes wipe tokens, counters, yards. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. It is not in the owned 65 yet.
+Farewell ({4}{W}{W}). Game changer. Exile modes wipe tokens, counters, yards. Judge it by whether it triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or is worth blinking. In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Key Synergies
 
@@ -67,7 +67,7 @@ Farewell ({4}{W}{W}). Game changer. Exile modes wipe tokens, counters, yards. Ju
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand on the sideboard. Not in the 100 until a named cut.
 
 ## Related Pages
 
@@ -90,15 +90,15 @@ Farewell ({4}{W}{W}). Game changer. Exile modes wipe tokens, counters, yards. Ju
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 92
 >   deck_specific: 86
 >   combined: 88
-> scryfall_id: 114d2180-093b-4838-97ad-badbc8ee50b0
+> scryfall_id: 4d8b6418-da30-4c68-b87c-3936eb77620c
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

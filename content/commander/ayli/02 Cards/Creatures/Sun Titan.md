@@ -43,19 +43,21 @@ Whenever this creature [[03 Effects/ETB|enters]] or attacks, you may return targ
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Sun Titan|Sun Titan]] at {4}{W}{W}: whenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. A body for Ayli to sac or a trigger for Hinterland / Delney — not a blink target. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Sun Titan|Sun Titan]] is the six-mana recursion Giant. ETB or attack: return a permanent with mana value 3 or less. Priority: Hinterland, Delney, Bastion, Feeder, Seer — not a random 1/1. Boxed spare in some piles; this copy is for Ayli once the 1–3 engines are sleeved. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
-- Do not sac Delney, Hinterland, or Vito to the first outlet.
+- Cast after a wipe. Default return is Hinterland or Delney. Attack to return a second piece.
+- Mana value 3 or less. Massacre Wurm and Reservoir are illegal.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
+- **Replay**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Enchantments/Phyrexian Reclamation|Phyrexian Reclamation]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
+- Six mana. Dead if the yard has nothing cheap. Does not return lands above 3 or instants.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

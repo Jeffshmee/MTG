@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Bitterbloom Bearer`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {B}{B}  
 > **Type:** Creature — Faerie Rogue  
 > **P/T:** 1/1  
@@ -52,24 +52,21 @@ At the beginning of your upkeep, you lose 1 life and [[03 Effects/Create Token|c
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] at {B}{B}: at the beginning of your upkeep, you lose 1 life and create a 1/1 blue and black Faerie creature token with flying. The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] is a 1/1 that makes a 1/1 black Faerie Rogue with flying each upkeep. Same engine as [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] on a body. Fodder plus flying tokens for Hinterland. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Lead it. Each upkeep is an ETB and a later sac. Do not sac the Bearer turn 1.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life toward +10**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
+- **Tokens / ETB**: [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]], [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
+- The Faeries are not Clerics. Bearer dying turns the engine off.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -92,7 +89,7 @@ At the beginning of your upkeep, you lose 1 life and [[03 Effects/Create Token|c
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Flying", "Flash"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -100,7 +97,7 @@ At the beginning of your upkeep, you lose 1 life and [[03 Effects/Create Token|c
 > scryfall_id: 7127164d-f2a3-4d79-b6db-93507ff5ab47
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

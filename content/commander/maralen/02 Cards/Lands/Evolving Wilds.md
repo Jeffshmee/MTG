@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:64%"></div></div>
 >
-> ![Evolving](https://cards.scryfall.io/border_crop/front/6/2/62209251-4118-4843-895b-46afb7284c75.jpg)
+> ![Evolving](https://cards.scryfall.io/border_crop/front/3/a/3a0b9356-5b91-4542-8802-f0f7275238e1.jpg)
 >
 > ### Deck Scores
 >
@@ -88,7 +88,7 @@ Evolving Wilds is a slow fetch that finds a basic tapped. [[02 Cards/Lands/Path 
 >   general: 66
 >   deck_specific: 62
 >   combined: 64
-> scryfall_id: 62209251-4118-4843-895b-46afb7284c75
+> scryfall_id: 3a0b9356-5b91-4542-8802-f0f7275238e1
 > tags:
 >   - card
 >   - ordered

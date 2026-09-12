@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mirari's Wake`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{G}{W}  
 > **Type:** Enchantment  
 >
@@ -48,7 +48,7 @@ Whenever you tap a land for mana, add one mana of any type that land produced.
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Mirari's Wake|Mirari's Wake]] is the big anthem and mana. Creatures get +1/+1; lands tap for an extra. 🟢 SB — sleeve after a cheaper lord if the curve still hurts. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Enchantments/Mirari's Wake|Mirari's Wake]] is the big anthem and mana. Creatures get +1/+1; lands tap for an extra. 🟢 SB — sleeve after a cheaper lord if the curve still hurts. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -57,11 +57,11 @@ Whenever you tap a land for mana, add one mana of any type that land produced.
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Anthem / ramp**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Sorceries/Three Visits|Three Visits]] *(owned extra)*, [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]] *(owned extra)*
+- **Anthem / ramp**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Sorceries/Three Visits|Three Visits]], [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -84,7 +84,7 @@ Whenever you tap a land for mana, add one mana of any type that land produced.
 > colors: ["G", "W"]
 > color_identity: ["G", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -92,7 +92,7 @@ Whenever you tap a land for mana, add one mana of any type that land produced.
 > scryfall_id: ef4fa4e8-39e8-47a6-b975-ff5d46e59edd
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

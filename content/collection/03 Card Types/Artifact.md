@@ -2,7 +2,7 @@
 
 Card type: Artifact.
 
-**139** copies · **105** names.
+**142** copies · **107** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -72,6 +72,7 @@ Card type: Artifact.
 | [**`mtg:Firdoch Core`**](https://scryfall.com/card/ecl/255) | [[02 Cards/Artifacts/Firdoch Core\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Fireshrieker`**](https://scryfall.com/card/fdn/674) | [[02 Cards/Artifacts/Fireshrieker\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Haunted Screen`**](https://scryfall.com/card/dsk/250) | [[02 Cards/Artifacts/Haunted Screen\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
+| [**`mtg:Herald's Horn`**](https://scryfall.com/card/m3c/296) | [[02 Cards/Artifacts/Herald's Horn\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.98 |
 | [**`mtg:Heraldic Banner`**](https://scryfall.com/card/fdn/254) | [[02 Cards/Artifacts/Heraldic Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.23 |
 | [**`mtg:Infantry Shield`**](https://scryfall.com/card/tdc/35) | [[02 Cards/Artifacts/Infantry Shield\|PAGE]] | {2}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.76 |
 | [**`mtg:Magnifying Glass`**](https://scryfall.com/card/mkm/255) | [[02 Cards/Artifacts/Magnifying Glass\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
@@ -86,12 +87,13 @@ Card type: Artifact.
 | [**`mtg:Ark of Hunger`**](https://scryfall.com/card/sos/173) | [[02 Cards/Artifacts/Ark of Hunger\|PAGE]] | {2}{R}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.19 |
 | [**`mtg:Biblioplex Tomekeeper`**](https://scryfall.com/card/sos/247) | [[02 Cards/Creatures/Biblioplex Tomekeeper\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.04 |
 | [**`mtg:Dwarven Shortsword`**](https://scryfall.com/card/hob/10) | [[02 Cards/Artifacts/Dwarven Shortsword\|PAGE]] | {3}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.07 |
+| [**`mtg:Gathering Stone`**](https://scryfall.com/card/ecl/257) | [[02 Cards/Artifacts/Gathering Stone\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.50 |
 | [**`mtg:Getaway Barrel`**](https://scryfall.com/card/hob/98) | [[02 Cards/Artifacts/Getaway Barrel\|PAGE]] | {3}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
 | [**`mtg:Granite Witness`**](https://scryfall.com/card/mkm/206) | [[02 Cards/Creatures/Granite Witness\|PAGE]] | {2}{W}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Gargoyle\|Gargoyle]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.04 |
 | [**`mtg:Hedron Archive`**](https://scryfall.com/card/blc/275) | [[02 Cards/Artifacts/Hedron Archive\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.15 |
 | [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 10.47 |
 | [**`mtg:Resonating Lute`**](https://scryfall.com/card/sos/221) | [[02 Cards/Artifacts/Resonating Lute\|PAGE]] | {2}{U}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.27 |
-| [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
+| [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.48 |
 | [**`mtg:Well of Lost Dreams`**](https://scryfall.com/card/ltc/291) | [[02 Cards/Artifacts/Well of Lost Dreams\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.37 |
 | [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | {2}{W}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |

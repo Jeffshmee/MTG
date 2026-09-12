@@ -2,13 +2,14 @@
 
 Creature type: Scout.
 
-**22** copies · **17** names.
+**23** copies · **18** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Centaur's Herald`**](https://scryfall.com/card/rtr/118) | [[02 Cards/Creatures/Centaur's Herald\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.05 |
 | [**`mtg:Dragonstorm Forecaster`**](https://scryfall.com/card/tdm/43) | [[02 Cards/Creatures/Dragonstorm Forecaster\|PAGE]] | {U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Lake-town Lookout`**](https://scryfall.com/card/hob/18) | [[02 Cards/Creatures/Lake-town Lookout\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.04 |
+| [**`mtg:Mtenda Herder`**](https://scryfall.com/card/mir/29) | [[02 Cards/Creatures/Mtenda Herder\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.08 |
 | [**`mtg:Wanderbrine Trapper`**](https://scryfall.com/card/ecl/42) | [[02 Cards/Creatures/Wanderbrine Trapper\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
 | [**`mtg:Greenwood Sentinel`**](https://scryfall.com/card/m20/174) | [[02 Cards/Creatures/Greenwood Sentinel\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Keen-Eyed Curator`**](https://scryfall.com/card/blb/181) | [[02 Cards/Creatures/Keen-Eyed Curator\|PAGE]] | {G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Raccoon\|Raccoon]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.46 |

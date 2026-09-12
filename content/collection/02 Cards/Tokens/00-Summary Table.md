@@ -2,13 +2,13 @@
 
 Every **Tokens** page in this vault. Same columns as [[01 Catalogue/Catalogue|Catalogue]]. Sorted by mana value, then name.
 
-**227** copies · **58** names.
+**334** copies · **59** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/thou/1) | [[02 Cards/Tokens/Adorned Pouncer\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.32 |
+| [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/hou/2) | [[02 Cards/Tokens/Adorned Pouncer\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.72 |
 | [**`mtg:Ally`**](https://scryfall.com/card/ttla/8) | [[02 Cards/Tokens/Ally\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.00 |
-| [**`mtg:Angel`**](https://scryfall.com/card/ttdc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.31 |
+| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 17 | 2.07 |
 | [**`mtg:Angelo`**](https://scryfall.com/card/tfin/19) | [[02 Cards/Tokens/Angelo\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.39 |
 | [**`mtg:Bat`**](https://scryfall.com/card/tmkm/4) | [[02 Cards/Tokens/Bat\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 |
 | [**`mtg:Beast`**](https://scryfall.com/card/tfdn/33) | [[02 Cards/Tokens/Beast\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.39 |
@@ -23,14 +23,15 @@ Every **Tokens** page in this vault. Same columns as [[01 Catalogue/Catalogue|Ca
 | [**`mtg:Dragon`**](https://scryfall.com/card/tfdn/17) | [[02 Cards/Tokens/Dragon\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.35 |
 | [**`mtg:Dwarf`**](https://scryfall.com/card/thob/6) | [[02 Cards/Tokens/Dwarf\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.00 |
 | [**`mtg:Eldrazi`**](https://scryfall.com/card/ttdc/1) | [[02 Cards/Tokens/Eldrazi\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.19 |
-| [**`mtg:Elemental`**](https://scryfall.com/card/tsos/2) | [[02 Cards/Tokens/Elemental\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 9 | 0.17 |
+| [**`mtg:Elemental`**](https://scryfall.com/card/tsos/2) | [[02 Cards/Tokens/Elemental\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 13 | 0.17 |
 | [**`mtg:Elephant`**](https://scryfall.com/card/tdft/6) | [[02 Cards/Tokens/Elephant\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.08 |
 | [**`mtg:Elf`**](https://scryfall.com/card/thob/8) | [[02 Cards/Tokens/Elf\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 7 | 0.00 |
 | [**`mtg:Elf Warrior`**](https://scryfall.com/card/tfdn/19) | [[02 Cards/Tokens/Elf Warrior\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.75 |
-| [**`mtg:Faerie`**](https://scryfall.com/card/tecl/5) | [[02 Cards/Tokens/Faerie\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 5 | 0.42 |
+| [**`mtg:Faerie`**](https://scryfall.com/card/tfdn/9) | [[02 Cards/Tokens/Faerie\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 30 | 5.67 |
 | [**`mtg:Fish`**](https://scryfall.com/card/tfdn/10) | [[02 Cards/Tokens/Fish\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.14 |
 | [**`mtg:Food`**](https://scryfall.com/card/tfdn/22) | [[02 Cards/Tokens/Food\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.07 |
 | [**`mtg:Fractal`**](https://scryfall.com/card/tsos/5) | [[02 Cards/Tokens/Fractal\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 11 | 0.00 |
+| [**`mtg:Gnome`**](https://scryfall.com/card/teoc/11) | [[02 Cards/Tokens/Gnome\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 12 | 0.00 |
 | [**`mtg:Goblin`**](https://scryfall.com/card/ttdm/12) | [[02 Cards/Tokens/Goblin\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 25 | 2.95 |
 | [**`mtg:Goblin Army`**](https://scryfall.com/card/thob/4) | [[02 Cards/Tokens/Goblin Army\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.00 |
 | [**`mtg:Human`**](https://scryfall.com/card/tfdn/3) | [[02 Cards/Tokens/Human\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.30 |
@@ -54,10 +55,10 @@ Every **Tokens** page in this vault. Same columns as [[01 Catalogue/Catalogue|Ca
 | [**`mtg:Servo`**](https://scryfall.com/card/ttdc/31) | [[02 Cards/Tokens/Servo\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
 | [**`mtg:Snake`**](https://scryfall.com/card/cc2/9) | [[02 Cards/Tokens/Snake\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.48 |
 | [**`mtg:Soldier`**](https://scryfall.com/card/tfdn/6) | [[02 Cards/Tokens/Soldier\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 6 | 0.72 |
-| [**`mtg:Spirit`**](https://scryfall.com/card/tsos/11) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 21 | 0.99 |
-| [**`mtg:Thopter`**](https://scryfall.com/card/tdft/10) | [[02 Cards/Tokens/Thopter\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.26 |
+| [**`mtg:Spirit`**](https://scryfall.com/card/ttdc/6) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 46 | 4.49 |
+| [**`mtg:Thopter`**](https://scryfall.com/card/tsoc/28) | [[02 Cards/Tokens/Thopter\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 15 | 0.26 |
 | [**`mtg:Toy`**](https://scryfall.com/card/tdsk/7) | [[02 Cards/Tokens/Toy\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.00 |
-| [**`mtg:Treasure`**](https://scryfall.com/card/tsos/12) | [[02 Cards/Tokens/Treasure\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 20 | 0.48 |
+| [**`mtg:Treasure`**](https://scryfall.com/card/tdsk/15) | [[02 Cards/Tokens/Treasure\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 32 | 2.76 |
 | [**`mtg:Treefolk`**](https://scryfall.com/card/tecl/3) | [[02 Cards/Tokens/Treefolk\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.00 |
 | [**`mtg:Vivien Reid Emblem`**](https://scryfall.com/card/tfdn/25) | [[02 Cards/Tokens/Vivien Reid Emblem\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.17 |
 | [**`mtg:Voja Fenstalker`**](https://scryfall.com/card/tmkm/13) | [[02 Cards/Tokens/Voja Fenstalker\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.28 |

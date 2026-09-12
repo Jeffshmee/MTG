@@ -50,22 +50,21 @@ Exalted (Whenever a creature you control attacks alone, that creature [[03 Effec
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Qasali Pridemage|Qasali Pridemage]] at {G}{W} is a Cat — exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.). [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Qasali Pridemage|Qasali Pridemage]] is exalted and a {1}, sac: destroy an artifact or enchantment. Cheap Cat that Naturalizes. Exalted wants a solo attacker — this pile is go-wide, so exalted is extra, not the plan. Sac the Pridemage, not First Fang. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Keep {{1}} up for the Naturalize. Exalted only if you actually attack with one creature (Tunnel).
+- First Fang ETB when it lands.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Naturalize / Cat**: [[02 Cards/Creatures/Qasali Slingers|Qasali Slingers]], [[02 Cards/Creatures/Feline Sovereign|Feline Sovereign]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
 
 ## Anti-synergies / Notes
 
+- Exalted fights the go-wide plan. Do not sac it if Slingers is about to ETB a free Naturalize.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

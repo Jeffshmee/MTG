@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Restoration Seminar](https://cards.scryfall.io/border_crop/front/9/e/9ebc4ecf-2fa2-4ab8-afde-3b91cf5eadb6.jpg)
+> ![Restoration Seminar](https://cards.scryfall.io/border_crop/front/8/3/83a32ec6-8322-4e4d-a4ff-5470adb05fda.jpg)
 >
 > ### Deck Scores
 >
@@ -92,7 +92,7 @@ Paradigm (Then [[03 Effects/Exile|exile this spell]]. After you first resolve a 
 >   general: 85
 >   deck_specific: 96
 >   combined: 92
-> scryfall_id: 9ebc4ecf-2fa2-4ab8-afde-3b91cf5eadb6
+> scryfall_id: 83a32ec6-8322-4e4d-a4ff-5470adb05fda
 > tags:
 >   - card
 >   - main-deck

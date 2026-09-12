@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Artifact Creature — Thopter // Token
 >
-> ![Thopter](https://cards.scryfall.io/border_crop/front/7/8/78e52380-13a1-44fe-b762-e71261cac3d0.jpg)
+> ![Thopter](https://cards.scryfall.io/border_crop/front/b/9/b9d38c75-c69f-45cd-a745-03ac7513491b.jpg)
 
 <div class="collection-side-tables">
 
@@ -31,6 +31,7 @@
 |------|-------|
 | 30/08/2026 | Booster haul |
 | 08/09/2026 | Booster haul |
+| 12/09/2026 | Cardmarket · NuggetGaming |
 
 </div>
 
@@ -39,12 +40,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>3</div>
+<div class="synergy-score-num"><span>Copies</span>15</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven Commander Tokens (<code>TSOC</code>)</td><td>28</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
+<tr><td>Secrets of Strixhaven Commander Tokens (<code>TSOC</code>)</td><td>28</td><td>—</td><td>13</td><td>Box</td><td>—</td></tr>
 <tr><td>Aetherdrift Tokens (<code>TDFT</code>)</td><td>10</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Murders at Karlov Manor Tokens (<code>TMKM</code>)</td><td>19</td><td>—</td><td>1</td><td>Box</td><td>0.16</td></tr>
 </tbody>
@@ -58,16 +59,16 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/9/b9d38c75-c69f-45cd-a745-03ac7513491b.jpg" alt="Thopter TSOC 28 · ×13">
+<figcaption>TSOC 28 · ×13</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/7/8/78e52380-13a1-44fe-b762-e71261cac3d0.jpg" alt="Thopter TDFT 10 · ×1">
 <figcaption>TDFT 10 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/2/2/22ad97f4-cc41-493c-9848-c06f3cf778c7.jpg" alt="Thopter TMKM 19 · ×1">
 <figcaption>TMKM 19 · ×1</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/9/b9d38c75-c69f-45cd-a745-03ac7513491b.jpg" alt="Thopter TSOC 28 · ×1">
-<figcaption>TSOC 28 · ×1</figcaption>
 </figure>
 </div>
 
@@ -85,8 +86,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Artifact Creature — Thopter // Token"
-> scryfall_id: 78e52380-13a1-44fe-b762-e71261cac3d0
-> quantity: 3
+> scryfall_id: b9d38c75-c69f-45cd-a745-03ac7513491b
+> quantity: 15
 > tags:
 >   - artifact
 >   - card

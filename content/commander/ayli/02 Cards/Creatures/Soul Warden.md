@@ -48,22 +48,21 @@ Whenever another creature enters, you [[03 Effects/Gain Life|gain 1 life]].
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Soul Warden|Soul Warden]] is a Soul Sister — gain 1 whenever a creature enters. The +10 line becomes reliable once this is sleeved. [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]] doubles it. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Soul Warden|Soul Warden]] is the Sister. Every creature ETB — yours and theirs — you gain 1. This is how +10 happens without only Hinterland. Delney does not double it (triggered, but Warden is 1/1 — Delney doubles P≤2 *other* creatures' triggers, not this trigger's instances from fat ETBs). Sleeve with or instead of [[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]]. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Turn-1 once sleeved. Every creature ETB is a life — yours and theirs.
-- Delney doubles it. Stacks with Hinterland.
+- Lead it. Every later ETB is a life — Inspector, Sage, Ayli, tokens, *their* creatures.
 - Do not sac it to Ayli while +10 is still the job.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Doubled by**: [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]]
-- **Also Sisters**: [[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]] *(owned extra)*, [[02 Cards/Creatures/Suture Priest|Suture Priest]] *(owned extra)*
+- **Life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]] *(owned extra)*, [[02 Cards/Creatures/Suture Priest|Suture Priest]] *(owned extra)*, [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
 
 ## Anti-synergies / Notes
 
+- Does nothing if nobody casts a creature. Their board also feeds it — that is on-plan.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

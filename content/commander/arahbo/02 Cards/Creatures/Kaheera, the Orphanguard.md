@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Kaheera, the Orphanguard`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G/W}{G/W}  
 > **Type:** Legendary Creature — Cat Beast  
 > **P/T:** 3/2  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Kaheera](https://cards.scryfall.io/border_crop/front/d/4/d4ebed0b-8060-4a7b-a060-5cfcd2172b16.jpg)
+> ![Kaheera, the Orphanguard](https://cards.scryfall.io/border_crop/front/d/4/d4ebed0b-8060-4a7b-a060-5cfcd2172b16.jpg)
 >
 > ### Deck Scores
 >
@@ -51,23 +51,22 @@ Each other creature you control that's a Cat, Elemental, Nightmare, Dinosaur, or
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Kaheera, the Orphanguard|Kaheera, the Orphanguard]] at {1}{G/W}{G/W} is a Cat — companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may…. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Kaheera, the Orphanguard|Kaheera, the Orphanguard]] is a Cat Beast lord: other Cats, Elementals, Nightmares, Dinosaurs, and Beasts get +1/+1 and vigilance. Companion is legal if every creature is one of those types — this list is Cats. You do not have to companion it; cast it from the 99. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] tokens are Cats. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Cast it as a lord. Companion {{3}} only if it is outside the game — this copy is in the vault, so companion is off unless you built that way.
+- Vigilance on the team means First Fang attacks and still blocks.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Anthem**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/King of the Pride|King of the Pride]] *(owned extra)*
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Companion is a deckbuilding restriction, not a free card from the 99. Ajani is a planeswalker — legal.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -90,7 +89,7 @@ Each other creature you control that's a Cat, Elemental, Nightmare, Dinosaur, or
 > colors: ["G", "W"]
 > color_identity: ["G", "W"]
 > keywords: ["Vigilance", "Companion"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -98,7 +97,7 @@ Each other creature you control that's a Cat, Elemental, Nightmare, Dinosaur, or
 > scryfall_id: d4ebed0b-8060-4a7b-a060-5cfcd2172b16
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

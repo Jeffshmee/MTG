@@ -2,7 +2,7 @@
 
 Creature type: Soldier.
 
-**43** copies · **34** names.
+**45** copies · **36** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -20,6 +20,7 @@ Creature type: Soldier.
 | [**`mtg:Shock Brigade`**](https://scryfall.com/card/tdm/120) | [[02 Cards/Creatures/Shock Brigade\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Anafenza, Unyielding Lineage`**](https://scryfall.com/card/tdm/2) | [[02 Cards/Creatures/Anafenza, Unyielding Lineage\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
 | [**`mtg:Anim Pakal, Thousandth Moon`**](https://scryfall.com/card/lci/223) | [[02 Cards/Creatures/Anim Pakal, Thousandth Moon\|PAGE]] | {1}{R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 4.15 |
+| [**`mtg:Brimaz, King of Oreskos`**](https://scryfall.com/card/j25/58) | [[02 Cards/Creatures/Brimaz, King of Oreskos\|PAGE]] | {1}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 5.30 |
 | [**`mtg:Crusader of Odric`**](https://scryfall.com/card/inr/18) | [[02 Cards/Creatures/Crusader of Odric\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Intrepid Rabbit`**](https://scryfall.com/card/blb/17) | [[02 Cards/Creatures/Intrepid Rabbit\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rabbit\|Rabbit]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Legion Warboss`**](https://scryfall.com/card/tdc/220) | [[02 Cards/Creatures/Legion Warboss\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.32 |
@@ -33,6 +34,7 @@ Creature type: Soldier.
 | [**`mtg:Goldnight Commander`**](https://scryfall.com/card/tdc/117) | [[02 Cards/Creatures/Goldnight Commander\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.17 |
 | [**`mtg:Museum Nightwatch`**](https://scryfall.com/card/mkm/25) | [[02 Cards/Creatures/Museum Nightwatch\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Centaur\|Centaur]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
 | [**`mtg:Sandskitter Outrider`**](https://scryfall.com/card/tdm/89) | [[02 Cards/Creatures/Sandskitter Outrider\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
+| [**`mtg:Stonehorn Dignitary`**](https://scryfall.com/card/m12/37) | [[02 Cards/Creatures/Stonehorn Dignitary\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rhino\|Rhino]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.64 |
 | [**`mtg:Thranduil's Company`**](https://scryfall.com/card/hob/168) | [[02 Cards/Creatures/Thranduil's Company\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.30 |
 | [**`mtg:Veteran Guardmouse`**](https://scryfall.com/card/blb/237) | [[02 Cards/Creatures/Veteran Guardmouse\|PAGE]] | {3}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Mouse\|Mouse]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
 | [**`mtg:Bolg of the North`**](https://scryfall.com/card/hob/148) | [[02 Cards/Creatures/Bolg of the North\|PAGE]] | {3}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.07 |

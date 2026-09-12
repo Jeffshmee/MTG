@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Enduring Tenacity`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{B}{B}  
 > **Type:** Enchantment Creature — Snake Glimmer  
 > **P/T:** 4/3  
@@ -49,7 +49,7 @@ When Enduring Tenacity dies, if it was a creature, return it to the battlefield 
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Enduring Tenacity|Enduring Tenacity]] is the enchantment Vito — life gain pings. Dies as a 2/3 lifelink if it leaves as an enchantment. 🟢 SB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Enduring Tenacity|Enduring Tenacity]] is the enchantment Vito — life gain pings. Dies as a 2/3 lifelink if it leaves as an enchantment. 🟢 SB. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ When Enduring Tenacity dies, if it was a creature, return it to the battlefield 
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -85,7 +85,7 @@ When Enduring Tenacity dies, if it was a creature, return it to the battlefield 
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -93,7 +93,7 @@ When Enduring Tenacity dies, if it was a creature, return it to the battlefield 
 > scryfall_id: d5756d4b-3068-412c-8643-880d3459151e
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

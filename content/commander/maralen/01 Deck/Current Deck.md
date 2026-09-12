@@ -12,9 +12,7 @@ legality: commander
 
 # Creatures
 1 Arbor Elf
-1 Elves of Deep Shadow
 1 Elvish Mystic
-1 Urborg Elf
 1 Llanowar Elves
 1 Virulent Emissary
 1 Bitterbloom Bearer
@@ -30,6 +28,7 @@ legality: commander
 1 Priest of Titania
 1 Spellstutter Sprite
 1 Thornweald Archer
+1 Urborg Elf
 1 Circle of Dreams Druid
 1 Eclipsed Elf
 1 Elvish Archdruid
@@ -63,12 +62,14 @@ legality: commander
 
 # Sorceries
 1 Farseek
+1 Nature's Lore
 1 Nature's Rhythm
 1 Genesis Wave
 1 Distant Melody
 1 Germination Practicum
 
 # Enchantments
+1 Bitterblossom
 1 Morcant's Eyes
 1 Garruk's Uprising
 1 Leyline of Anticipation
@@ -87,7 +88,7 @@ legality: commander
 1 Command Tower
 1 Dreamroot Cascade
 1 Eclipsed Realms
-10 Forest
+9 Forest
 1 Hedge Maze
 5 Island
 1 Opulent Palace
@@ -117,9 +118,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 
 ### Creatures
 - [[02 Cards/Creatures/Arbor Elf|Arbor Elf]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
-- [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Elvish Mystic|Elvish Mystic]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
-- [[02 Cards/Creatures/Urborg Elf|Urborg Elf]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
@@ -135,6 +134,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Priest of Titania|Priest of Titania]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Creatures/Spellstutter Sprite|Spellstutter Sprite]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Thornweald Archer|Thornweald Archer]] **74** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:74%"></div></div>
+- [[02 Cards/Creatures/Urborg Elf|Urborg Elf]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Eclipsed Elf|Eclipsed Elf]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
@@ -169,12 +169,14 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 
 ### Sorceries
 - [[02 Cards/Sorceries/Farseek|Farseek]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
+- [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Sorceries/Distant Melody|Distant Melody]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Sorceries/Germination Practicum|Germination Practicum]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 
 ### Enchantments
+- [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Enchantments/Morcant's Eyes|Morcant's Eyes]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Enchantments/Leyline of Anticipation|Leyline of Anticipation]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>

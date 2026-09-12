@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Creature — Faerie
 >
-> ![Faerie](https://cards.scryfall.io/border_crop/front/0/1/01524db2-c96f-4902-8394-bc7a7128e573.jpg)
+> ![Faerie](https://cards.scryfall.io/border_crop/front/d/1/d1c0556e-ba3c-4a8e-b704-8eaa7c4dba1c.jpg)
 
 <div class="collection-side-tables">
 
@@ -31,6 +31,7 @@
 |------|-------|
 | 04/09/2026 | MageCards · Mi7even |
 | 04/09/2026 | MageCards · peachymidna |
+| 12/09/2026 | Cardmarket · NuggetGaming |
 
 </div>
 
@@ -39,12 +40,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>5</div>
+<div class="synergy-score-num"><span>Copies</span>30</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations Tokens (<code>TFDN</code>)</td><td>9</td><td>—</td><td>2</td><td>Box</td><td>0.21</td></tr>
+<tr><td>Foundations Tokens (<code>TFDN</code>)</td><td>9</td><td>—</td><td>27</td><td>Box</td><td>0.21</td></tr>
 <tr><td>Lorwyn Eclipsed Tokens (<code>TECL</code>)</td><td>5</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
 <tr><td>Lorwyn Eclipsed Tokens (<code>TECL</code>)</td><td>5</td><td>foil</td><td>2</td><td>Box</td><td>—</td></tr>
 </tbody>
@@ -58,12 +59,12 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/0/1/01524db2-c96f-4902-8394-bc7a7128e573.jpg" alt="Faerie TECL 5 · ×3">
-<figcaption>TECL 5 · ×3</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/d/1/d1c0556e-ba3c-4a8e-b704-8eaa7c4dba1c.jpg" alt="Faerie TFDN 9 · ×27">
+<figcaption>TFDN 9 · ×27</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/d/1/d1c0556e-ba3c-4a8e-b704-8eaa7c4dba1c.jpg" alt="Faerie TFDN 9 · ×2">
-<figcaption>TFDN 9 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/0/1/01524db2-c96f-4902-8394-bc7a7128e573.jpg" alt="Faerie TECL 5 · ×3">
+<figcaption>TECL 5 · ×3</figcaption>
 </figure>
 </div>
 
@@ -81,8 +82,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Creature — Faerie"
-> scryfall_id: 01524db2-c96f-4902-8394-bc7a7128e573
-> quantity: 5
+> scryfall_id: d1c0556e-ba3c-4a8e-b704-8eaa7c4dba1c
+> quantity: 30
 > tags:
 >   - card
 >   - collection

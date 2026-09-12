@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mosswort Bridge`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -55,7 +55,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Mosswort Bridge|Mosswort Bridge]] hideaway 4 (When this land enters, [[03 Effects/Look at Top. Tapped — third land, not the land for a turn-1 Cat. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Mosswort Bridge|Mosswort Bridge]] hideaway 4 (When this land enters, [[03 Effects/Look at Top. Tapped — third land, not the land for a turn-1 Cat. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -70,7 +70,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 12/09/2026.
 - Tapped. Third land, not the land for a turn-1 Cat.
 
 ## Related Pages
@@ -94,7 +94,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 > colors: []
 > color_identity: ["G"]
 > keywords: ["Hideaway"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -102,7 +102,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 > scryfall_id: 1490c0dc-06d6-45ee-af3c-2935b0ab1233
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

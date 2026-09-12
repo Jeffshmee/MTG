@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Three Visits`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}  
 > **Type:** Sorcery  
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Three Visits|Three Visits]] puts a Forest onto the battlefield untapped. The ramp this pile is missing. Sleeve next. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Sorceries/Three Visits|Three Visits]] puts a Forest onto the battlefield untapped. The ramp this pile is missing. Sleeve next.
 
 ## Play Patterns & Lines
 
@@ -56,11 +56,11 @@
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Ramp**: [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]] *(owned extra)*, [[02 Cards/Sorceries/Cultivate|Cultivate]] *(owned extra)*, [[02 Cards/Lands/Forest|Forest]]
+- **Ramp**: [[02 Cards/Sorceries/Nature's Lore|Nature's Lore]], [[02 Cards/Sorceries/Cultivate|Cultivate]] *(owned extra)*, [[02 Cards/Lands/Forest|Forest]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
 
 ## Related Pages
 
@@ -83,7 +83,7 @@
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -91,7 +91,7 @@
 > scryfall_id: 99bf792f-963e-4509-8d3c-7db129c6a77f
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

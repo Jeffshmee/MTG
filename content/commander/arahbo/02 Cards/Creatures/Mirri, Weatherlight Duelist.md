@@ -50,21 +50,21 @@ As long as Mirri is tapped, no more than one creature can attack you each combat
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Mirri, Weatherlight Duelist|Mirri, Weatherlight Duelist]] at {1}{G}{W} is a Cat — whenever Mirri attacks, each opponent can't block with more than one creature this combat. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Mirri, Weatherlight Duelist|Mirri, Weatherlight Duelist]] first-strikes, and when she attacks each opponent can only block with one creature. While she is tapped, only one creature can attack you. Go-wide enabler and pillowfort. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] sees the nontoken ETB. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Attack with the team. They pick one blocker; the rest connect. Leave her tapped to tax their attack.
+- Do not tap her for no reason if you need to block a team.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
+- **Combat**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
 
 ## Anti-synergies / Notes
 
+- If she is untapped, they can attack with everyone. First strike only helps her, not the team.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

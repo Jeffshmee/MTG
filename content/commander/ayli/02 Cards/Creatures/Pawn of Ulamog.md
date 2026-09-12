@@ -49,25 +49,21 @@ Whenever this creature or another nontoken creature you control dies, you may [[
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Pawn of Ulamog|Pawn of Ulamog]] at {1}{B}{B}: whenever this creature or another nontoken creature you control dies, you may create a 0/1 colorless Eldrazi Spawn creature token. It has "Sacrifice this tok…. The body is fodder for Ayli's sac and an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Pawn of Ulamog|Pawn of Ulamog]] leaves a 0/1 Eldrazi Spawn with '{T}, Sacrifice this: add {C}' whenever a nontoken creature you control dies. Token deaths do not trigger it. Ayli-sacing Sage mints a Spawn; sacing a Snake token does not. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Power 2 or less: Delney doubles its triggered ETB and death abilities.
-- The death feeds Bastion and Bloodwitch. Ayli exile is not a death.
-- The token is fodder. Sac it, not Delney or Hinterland.
-- Ayli needs a second creature. Cast this as the body, the life ETB, or the drain — not as a blink target.
+- Sac nontoken fodder (Sage, Inspector, Traveler). Crack the Spawn for {{C}} or sac it to Ayli for 1 life.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Bodies / fodder**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]]
-- **Death / sac**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]]
+- **Nontoken deaths**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Novice Inspector|Novice Inspector]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]]
 
 ## Anti-synergies / Notes
 
+- Token deaths (Ophiomancer Snakes, Inspector's leftover) do not mint Spawns.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
 
 ## Related Pages
 

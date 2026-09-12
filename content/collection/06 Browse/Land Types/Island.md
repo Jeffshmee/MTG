@@ -2,13 +2,14 @@
 
 Lands with the Island subtype.
 
-**47** copies · **7** names.
+**48** copies · **8** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Breeding Pool`**](https://scryfall.com/card/eoe/278) | [[02 Cards/Lands/Breeding Pool\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Forest\|Forest]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 10.05 |
 | [**`mtg:Hallowed Fountain`**](https://scryfall.com/card/ecl/265) | [[02 Cards/Lands/Hallowed Fountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 6.78 |
 | [**`mtg:Hedge Maze`**](https://scryfall.com/card/mkm/262) | [[02 Cards/Lands/Hedge Maze\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Forest\|Forest]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 11.58 |
+| [**`mtg:Irrigated Farmland`**](https://scryfall.com/card/eoc/162) | [[02 Cards/Lands/Irrigated Farmland\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.24 |
 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 41 | 6.07 |
 | [**`mtg:Mystic Sanctuary`**](https://scryfall.com/card/soc/388) | [[02 Cards/Lands/Mystic Sanctuary\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.97 |
 | [**`mtg:Prairie Stream`**](https://scryfall.com/card/who/295) | [[02 Cards/Lands/Prairie Stream\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.22 |

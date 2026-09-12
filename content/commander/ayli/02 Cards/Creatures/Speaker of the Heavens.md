@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Speaker of the Heavens`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}  
 > **Type:** Creature — Human Cleric  
 > **P/T:** 1/1  
@@ -52,20 +52,21 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Speaker of the Heavens|Speaker of the Heavens]] makes an Angel once you have 7 more life than you started. Same +N threshold family as Ayli's exile. Still 🟢 SB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Speaker of the Heavens|Speaker of the Heavens]] taps for a 4/4 Angel if you have 7+ life more than starting. Cheaper +10 checkpoint than Ayli exile. The Angel is fodder or a clock. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
-- Play it when Hinterland / a Sister has you near +7. The Angel is another body for Ayli.
+- Hinterland a few ETBs, tap Speaker, sac the Angel to Ayli if you need the toughness life.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]]
+- **Life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Needs +7, not +10. Tapped to make the Angel — not a surprise blocker the same tap.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -88,7 +89,7 @@
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Lifelink", "Vigilance"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -96,7 +97,7 @@
 > scryfall_id: 1f44b96a-8498-414a-a4ac-54c80dfa9f23
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

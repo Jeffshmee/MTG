@@ -33,6 +33,7 @@
 | 02/09/2026 | Booster haul |
 | 05/09/2026 | MageCards · MtgGambit |
 | 07/09/2026 | MageCards · avm4474 |
+| 11/09/2026 | arrival extra |
 
 </div>
 
@@ -41,7 +42,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>29</div>
+<div class="synergy-score-num"><span>Copies</span>30</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -58,6 +59,7 @@
 <tr><td>Core Set 2019 (<code>M19</code>)</td><td>276</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.11</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>197</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.35</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>270</td><td>—</td><td>1</td><td>Box</td><td>0.47</td></tr>
+<tr><td>The Hobbit (<code>HOB</code>)</td><td>197</td><td>—</td><td>1</td><td>Box</td><td>0.53</td></tr>
 </tbody>
 </table>
 </div>
@@ -85,6 +87,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>TDM 283 · ×3</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg" alt="Mountain HOB 197 · ×2">
+<figcaption>HOB 197 · ×2</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/3/d/3df7c206-97b6-49d7-ba01-7a35fd8c61d9.jpg" alt="Mountain TDM 284 · ×2">
 <figcaption>TDM 284 · ×2</figcaption>
 </figure>
@@ -99,10 +105,6 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/0/4/042b04b4-f7f4-4c1a-86ad-b50d788aa99e.jpg" alt="Mountain FDN 289 · ×1">
 <figcaption>FDN 289 · ×1</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg" alt="Mountain HOB 197 · ×1">
-<figcaption>HOB 197 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/b/bb4004c8-c3d9-494e-a257-6d8443cbf1b7.jpg" alt="Mountain M19 276 · ×1">
@@ -137,7 +139,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Mountain"
 > scryfall_id: 279df7e2-2a3b-464a-a7df-e91da28e3a8c
-> quantity: 29
+> quantity: 30
 > tags:
 >   - card
 >   - collection

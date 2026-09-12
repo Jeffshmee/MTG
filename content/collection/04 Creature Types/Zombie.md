@@ -2,10 +2,11 @@
 
 Creature type: Zombie.
 
-**9** copies · **9** names.
+**10** copies · **10** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Carrion Feeder`**](https://scryfall.com/card/mh1/81) | [[02 Cards/Creatures/Carrion Feeder\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.71 |
 | [**`mtg:Diregraf Ghoul`**](https://scryfall.com/card/fdn/171) | [[02 Cards/Creatures/Diregraf Ghoul\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.10 |
 | [**`mtg:Engine Rat`**](https://scryfall.com/card/dft/84) | [[02 Cards/Creatures/Engine Rat\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] [[04 Creature Types/Rat\|Rat]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.12 |
 | [**`mtg:Hungry Ghoul`**](https://scryfall.com/card/fdn/62) | [[02 Cards/Creatures/Hungry Ghoul\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |

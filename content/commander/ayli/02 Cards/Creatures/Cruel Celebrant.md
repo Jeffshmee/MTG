@@ -48,20 +48,21 @@ Whenever this creature or another creature or planeswalker you control dies, eac
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Cruel Celebrant|Cruel Celebrant]] is the third drain — wishlist, not owned. Same aristocrat slot as Zulaport. ⚪ Wishlist — not owned. Status stays Wishlist until purchased.
+[[02 Cards/Creatures/Cruel Celebrant|Cruel Celebrant]] is Zulaport in Orzhov: your creature dies → each opponent loses 1, you gain 1. Sleeve with Cutthroat / Artist / Bloodwitch. Delney doubles it (1/2). ⚪ Wishlist — not owned. Status stays Wishlist until purchased.
 
 ## Play Patterns & Lines
 
-- Buy it. Do not take a last copy from Zurgo.
+- Play before the first sac. White-black pip.
 - ⚪ Wishlist. Buy it; do not pull a last copy from another vault.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Deaths**: [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Blood Artist|Blood Artist]] *(owned extra)*, [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas il-Kor, Sadistic Pilgrim]] *(owned extra)*
+- **Deaths**: [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Blood Artist|Blood Artist]] *(owned extra)*, [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 
 ## Anti-synergies / Notes
 
+- Your creatures only. Exile is not a death.
 - Not owned. Status stays Wishlist until purchased, then Ordered until it is in hand.
 
 ## Related Pages

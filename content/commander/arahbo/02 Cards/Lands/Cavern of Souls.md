@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Cavern of Souls`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Cavern of Souls](https://cards.scryfall.io/border_crop/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.jpg)
+> ![Cavern of Souls](https://cards.scryfall.io/border_crop/front/6/9/69d55219-32b0-4281-a020-52107db6d16a.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ As this land enters, choose a creature type.
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Cavern of Souls|Cavern of Souls]] as this land enters, choose a creature type. Colourless. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Cavern of Souls|Cavern of Souls]] as this land enters, choose a creature type. Colourless. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ As this land enters, choose a creature type.
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
 
 ## Related Pages
 
@@ -88,15 +88,15 @@ As this land enters, choose a creature type.
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 3aad15a2-8a1b-4460-9b06-e85863081878
+> scryfall_id: 69d55219-32b0-4281-a020-52107db6d16a
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

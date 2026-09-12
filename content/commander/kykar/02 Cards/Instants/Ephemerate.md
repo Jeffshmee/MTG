@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:94%"></div></div>
 >
-> ![Ephemerate](https://cards.scryfall.io/border_crop/front/2/d/2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa.jpg)
+> ![Ephemerate](https://cards.scryfall.io/border_crop/front/6/2/621e3239-b527-4154-bce6-b51241809fc5.jpg)
 >
 > ### Deck Scores
 >

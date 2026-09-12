@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Knight of the White Orchid`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}{W}  
 > **Type:** Creature — Human Knight  
 > **P/T:** 2/2  
@@ -51,13 +51,13 @@
 
 ## Deck Role & Rating
 
-Knight of the White Orchid is an ETB at {W}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). ETB Plains if behind on lands. Ramp that blinks. It is not in the owned 65 yet.
+Knight of the White Orchid is an ETB at {W}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). ETB Plains if behind on lands. Ramp that blinks. Sleeved 12/09/2026.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- Sleeved 12/09/2026.
 
 ## Key Synergies
 
@@ -67,7 +67,7 @@ Knight of the White Orchid is an ETB at {W}{W}. Blink it: [[02 Cards/Creatures/K
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 12/09/2026.
 
 ## Related Pages
 
@@ -90,7 +90,7 @@ Knight of the White Orchid is an ETB at {W}{W}. Blink it: [[02 Cards/Creatures/K
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["First strike"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 82
 >   deck_specific: 84
@@ -98,7 +98,7 @@ Knight of the White Orchid is an ETB at {W}{W}. Blink it: [[02 Cards/Creatures/K
 > scryfall_id: f332cd21-46ed-4fff-9fd9-d5975bf0004d
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

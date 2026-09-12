@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Day of Judgment`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{W}{W}  
 > **Type:** Sorcery  
 >
@@ -85,7 +85,7 @@ Day of Judgment is a wrath at {2}{W}{W}. Tokens die; counters on real creatures 
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 86
 >   deck_specific: 82
@@ -93,7 +93,7 @@ Day of Judgment is a wrath at {2}{W}{W}. Tokens die; counters on real creatures 
 > scryfall_id: 96e84bdc-8a9a-4c58-ba8b-9f052fd60069
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - sorcerie
 > ```
 

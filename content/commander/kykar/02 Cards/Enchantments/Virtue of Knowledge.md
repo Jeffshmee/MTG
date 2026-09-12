@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:90%"></div></div>
 >
-> ![Virtue of Knowledge](https://cards.scryfall.io/border_crop/front/d/f/df606cf5-67dc-46f4-8c79-1d2f1d054391.jpg)
+> ![Virtue of Knowledge](https://cards.scryfall.io/border_crop/front/7/c/7cc2173a-b7fb-4bd6-9c8e-73de91c6903a.jpg)
 >
 > ### Deck Scores
 >

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Azorius Guildgate`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** —  
 > **Type:** Land — Gate  
 >
@@ -87,7 +87,7 @@ Azorius Guildgate is a mana source for this Azorius pile. Owned. Tapped dual. Fi
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 70
 >   deck_specific: 74
@@ -95,7 +95,7 @@ Azorius Guildgate is a mana source for this Azorius pile. Owned. Tapped dual. Fi
 > scryfall_id: f98a7264-0a83-42c8-a94d-05ad4c234242
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - land
 > ```
 

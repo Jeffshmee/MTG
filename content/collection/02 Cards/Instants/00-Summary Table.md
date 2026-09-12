@@ -2,7 +2,7 @@
 
 Every **Instants** page in this vault. Same columns as [[01 Catalogue/Catalogue|Catalogue]]. Sorted by mana value, then name.
 
-**273** copies · **181** names.
+**276** copies · **183** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -74,7 +74,7 @@ Every **Instants** page in this vault. Same columns as [[01 Catalogue/Catalogue|
 | [**`mtg:Glorious Decay`**](https://scryfall.com/card/sos/150) | [[02 Cards/Instants/Glorious Decay\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.18 |
 | [**`mtg:Grand Crescendo`**](https://scryfall.com/card/tdc/118) | [[02 Cards/Instants/Grand Crescendo\|PAGE]] | {X}{W}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.69 |
 | [**`mtg:Heritage Reclamation`**](https://scryfall.com/card/tdm/145) | [[02 Cards/Instants/Heritage Reclamation\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.58 |
-| [**`mtg:Heroic Intervention`**](https://scryfall.com/card/cmm/295) | [[02 Cards/Instants/Heroic Intervention\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 10.80 |
+| [**`mtg:Heroic Intervention`**](https://scryfall.com/card/cmm/295) | [[02 Cards/Instants/Heroic Intervention\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 22.73 |
 | [**`mtg:Into the Roil`**](https://scryfall.com/card/fdn/509) | [[02 Cards/Instants/Into the Roil\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Just the Wind`**](https://scryfall.com/card/uma/60) | [[02 Cards/Instants/Just the Wind\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Last Gasp`**](https://scryfall.com/card/sos/86) | [[02 Cards/Instants/Last Gasp\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.06 |
@@ -125,6 +125,7 @@ Every **Instants** page in this vault. Same columns as [[01 Catalogue/Catalogue|
 | [**`mtg:Broken Wings`**](https://scryfall.com/card/fdn/214) | [[02 Cards/Instants/Broken Wings\|PAGE]] | {2}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.15 |
 | [**`mtg:Confounding Riddle`**](https://scryfall.com/card/lci/50) | [[02 Cards/Instants/Confounding Riddle\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.14 |
 | [**`mtg:Confusticate and Bebother`**](https://scryfall.com/card/hob/35) | [[02 Cards/Instants/Confusticate and Bebother\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
+| [**`mtg:Depower`**](https://scryfall.com/card/msh/50) | [[02 Cards/Instants/Depower\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Dina's Guidance`**](https://scryfall.com/card/sos/184) | [[02 Cards/Instants/Dina's Guidance\|PAGE]] | {1}{B}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.67 |
 | [**`mtg:Divide by Zero`**](https://scryfall.com/card/stx/41) | [[02 Cards/Instants/Divide by Zero\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.39 |
 | [**`mtg:Dragon's Prey`**](https://scryfall.com/card/tdm/79) | [[02 Cards/Instants/Dragon's Prey\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
@@ -150,6 +151,7 @@ Every **Instants** page in this vault. Same columns as [[01 Catalogue/Catalogue|
 | [**`mtg:Tribute to Hunger`**](https://scryfall.com/card/fdn/614) | [[02 Cards/Instants/Tribute to Hunger\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.16 |
 | [**`mtg:Tweeze`**](https://scryfall.com/card/ecl/162) | [[02 Cards/Instants/Tweeze\|PAGE]] | {2}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Twist Reality`**](https://scryfall.com/card/dsk/77) | [[02 Cards/Instants/Twist Reality\|PAGE]] | {1}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
+| [**`mtg:Unbreakable Formation`**](https://scryfall.com/card/rvr/32) | [[02 Cards/Instants/Unbreakable Formation\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.55 |
 | [**`mtg:Unsubtle Mockery`**](https://scryfall.com/card/sos/136) | [[02 Cards/Instants/Unsubtle Mockery\|PAGE]] | {2}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.12 |
 | [**`mtg:Wail of War`**](https://scryfall.com/card/tdm/98) | [[02 Cards/Instants/Wail of War\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
 | [**`mtg:White Sun's Zenith`**](https://scryfall.com/card/onc/90) | [[02 Cards/Instants/White Sun's Zenith\|PAGE]] | {X}{W}{W}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |

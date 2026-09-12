@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Irrigated Farmland`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land — Plains Island  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Irrigated Farmland](https://cards.scryfall.io/border_crop/front/9/9/996b4484-a701-409a-822c-aa19be89a2c6.jpg)
+> ![Irrigated Farmland](https://cards.scryfall.io/border_crop/front/3/c/3cbc4f0a-6735-461c-ae7a-3c2ce342c4da.jpg)
 >
 > ### Deck Scores
 >
@@ -52,7 +52,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Deck Role & Rating
 
-Irrigated Farmland is a mana source for this Azorius pile. Cycle dual. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. It is not in the owned 65 yet.
+Irrigated Farmland is a mana source for this Azorius pile. Cycle dual. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. Sleeved 12/09/2026.
 
 ## Play Patterns & Lines
 
@@ -68,7 +68,7 @@ Irrigated Farmland is a mana source for this Azorius pile. Cycle dual. The live 
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 12/09/2026.
 - Tapped. Do not keep a two-lander that needs this untapped for Kykar.
 
 ## Related Pages
@@ -92,15 +92,15 @@ Irrigated Farmland is a mana source for this Azorius pile. Cycle dual. The live 
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: ["Cycling"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 80
 >   combined: 80
-> scryfall_id: 996b4484-a701-409a-822c-aa19be89a2c6
+> scryfall_id: 3cbc4f0a-6735-461c-ae7a-3c2ce342c4da
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

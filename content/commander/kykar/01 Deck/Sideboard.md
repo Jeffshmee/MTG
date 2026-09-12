@@ -8,16 +8,26 @@ group: auto
 legality: commander
 
 # Owned extras (not in the 100)
+1 Azorius Guildgate
+1 Day of Judgment
+1 Disenchant
+1 Stormplain Detainment
+1 Sygg, Wanderwine Wisdom
+1 Talisman of Progress
 1 Cryptic Caves
+1 Evolving Wilds
 1 Hidden Grotto
+1 Terramorphic Expanse
 1 Divine Resilience
 1 Opt
 1 Soul-Guide Lantern
 1 Spectral Sailor
+1 Wayfarer's Bauble
 1 Witness Protection
 1 Chart a Course
 1 Essence Scatter
 1 Fog Bank
+1 Helpful Hunter
 1 Mission Briefing
 1 Personify
 1 Run Away Together
@@ -26,45 +36,37 @@ legality: commander
 1 Cloudkin Seer
 1 Divide by Zero
 1 Empyrean Eagle
+1 Inspiring Overseer
 1 Mentor of the Meek
 1 Refute
 1 Skyscanner
+1 Tocasia's Welcome
 1 Felidar Savior
-1 High Fae Trickster
 1 Mystical Teachings
 1 Release the Dogs
+1 Solemn Simulacrum
 1 Bard, King of Dale
 1 Meteor Golem
 1 Turtles in Time
 1 Wanderwine Farewell
-1 Solemn Simulacrum
-1 Inspiring Overseer
-1 Wayfarer's Bauble
-1 Evolving Wilds
-1 Terramorphic Expanse
 
 # Wishlist
 1 Azorius Chancery
-1 Deserted Beach
 1 Eiganjo, Seat of the Empire
 1 Hengegate Pathway
-1 Irrigated Farmland
 1 Meticulous Archive
 1 Reliquary Tower
 1 Riptide Laboratory
 1 Sea of Clouds
 1 Seachrome Coast
 1 Skycloud Expanse
-1 Authority of the Consuls
 1 Cloudshift
 1 Consider
 1 Essence Flux
 1 Path to Exile
 1 Preordain
-1 Dour Port-Mage
 1 Dovin's Veto
 1 Get Lost
-1 Knight of the White Orchid
 1 Mind Stone
 1 Momentary Blink
 1 Parting Gust
@@ -80,27 +82,23 @@ legality: commander
 1 Ghostly Prison
 1 Hydroelectric Specimen
 1 Man-o'-War
-1 Propaganda
 1 Recruiter of the Guard
-1 Sevinne's Reclamation
 1 Sink into Stupor
 1 Skyclave Apparition
 1 Spellseeker
 1 Restoration Angel
-1 Stonehorn Dignitary
 1 Supreme Verdict
 1 Venser, Shaper Savant
 1 Witch Enchanter
 1 Conjurer's Closet
 1 Evacuation
 1 Time Wipe
-1 Farewell
 ```
 
 ---
 
 *Source: `kykar-zephyr/07 Assets/sideboard.md`*
-*Last synced: 2026-09-09 (sleeved cuts)*
+*Last synced: 2026-09-12 (photo swaps sleeved)*
 
 ---
 
@@ -121,7 +119,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Dour Port-Mage`**
-> **91** / 100 · ⚪ Wishlist
+> **91** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:91%"></div></div>
 >
 > [[02 Cards/Creatures/Dour Port-Mage|Open local page →]]
@@ -140,7 +138,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Knight of the White Orchid`**
-> **83** / 100 · ⚪ Wishlist
+> **83** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:83%"></div></div>
 >
 > [[02 Cards/Creatures/Knight of the White Orchid|Open local page →]]
@@ -293,7 +291,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
 
 > [!info] **`mtg:Stonehorn Dignitary`**
-> **83** / 100 · ⚪ Wishlist
+> **83** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:83%"></div></div>
 >
 > [[02 Cards/Creatures/Stonehorn Dignitary|Open local page →]]
@@ -357,14 +355,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:79%"></div></div>
 >
 > [[02 Cards/Creatures/Skyscanner|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:High Fae Trickster`**
-> **88** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:88%"></div></div>
->
-> [[02 Cards/Creatures/High Fae Trickster|Open local page →]]
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
@@ -624,7 +614,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Sevinne's Reclamation`**
-> **83** / 100 · ⚪ Wishlist
+> **83** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:83%"></div></div>
 >
 > [[02 Cards/Sorceries/Sevinne's Reclamation|Open local page →]]
@@ -663,17 +653,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
 > > - [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
 
-> [!info] **`mtg:Farewell`**
-> **88** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:88%"></div></div>
->
-> [[02 Cards/Sorceries/Farewell|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
-
 > [!info] **`mtg:Wanderwine Farewell`**
 > **70** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:70%"></div></div>
@@ -692,7 +671,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 
 ### Enchantments
 > [!info] **`mtg:Authority of the Consuls`**
-> **81** / 100 · ⚪ Wishlist
+> **81** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:81%"></div></div>
 >
 > [[02 Cards/Enchantments/Authority of the Consuls|Open local page →]]
@@ -708,6 +687,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
+> [!info] **`mtg:Tocasia's Welcome`**
+> **84** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Enchantments/Tocasia's Welcome|Open local page →]]
+>
+> *Cut 11/09/2026 for High Fae Trickster — named cut required to sleeve it back.*
+
 > [!info] **`mtg:Ghostly Prison`**
 > **84** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:84%"></div></div>
@@ -720,7 +707,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > - [[02 Cards/Enchantments/Enchanted River's Grasp|Enchanted River's Grasp]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
 
 > [!info] **`mtg:Propaganda`**
-> **86** / 100 · ⚪ Wishlist
+> **86** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
 > [[02 Cards/Enchantments/Propaganda|Open local page →]]
@@ -806,7 +793,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Deserted Beach`**
-> **83** / 100 · ⚪ Wishlist
+> **83** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:83%"></div></div>
 >
 > [[02 Cards/Lands/Deserted Beach|Open local page →]]
@@ -858,7 +845,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / already cut — no main-deck swap suggested.*
 
 > [!info] **`mtg:Irrigated Farmland`**
-> **80** / 100 · ⚪ Wishlist
+> **80** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
 > [[02 Cards/Lands/Irrigated Farmland|Open local page →]]

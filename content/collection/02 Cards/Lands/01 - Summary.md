@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**367** copies · **122** names.
+**384** copies · **133** names.
 
 ```decklist
 group: auto
@@ -24,23 +24,28 @@ legality: commander
 3 Blossoming Sands
 2 Bojuka Bog
 1 Boros Guildgate
+1 Branchloft Pathway // Boulderloft Pathway
 1 Breeding Pool
+1 Canopy Vista
 1 Canyon Slough
-1 Castle Ardenvale
+2 Castle Ardenvale
 1 Castle Embereth
+1 Cavern of Souls
 1 Caves of Koilos
 1 Clifftop Retreat
 5 Command Tower
 1 Cori Mountain Monastery
 1 Crawling Barrens
 1 Cryptic Caves
-1 Demolition Field
+2 Demolition Field
+1 Deserted Beach
 1 Dimir Guildgate
 3 Dismal Backwater
 1 Dragonskull Summit
 1 Dreamroot Cascade
 4 Eclipsed Realms
 2 Elvenking's Halls
+1 Emeria, the Sky Ruin
 3 Evolving Wilds
 1 Exotic Orchard
 1 Fabled Passage
@@ -60,19 +65,24 @@ legality: commander
 1 Hallowed Fountain
 1 Hedge Maze
 1 Hidden Grotto
+1 High Market
 1 Hobbit Hole
 2 Iron Hills
+1 Irrigated Farmland
 41 Island
-1 Isolated Chapel
+2 Isolated Chapel
 1 Izzet Guildgate
 4 Jungle Hollow
 1 Krosan Verge
 1 Maze's End
 1 Meditation Pools
 1 Mirkwood
-29 Mountain
+1 Mosswort Bridge
+30 Mountain
+1 Myriad Landscape
 1 Mystic Sanctuary
 1 Nomad Outpost
+1 Opal Palace
 4 Opulent Palace
 1 Orzhov Guildgate
 1 Overgrown Tomb
@@ -124,14 +134,15 @@ legality: commander
 6 Terramorphic Expanse
 1 The Lonely Mountain
 4 Thornwood Falls
-1 Three Tree City
+2 Three Tree City
 4 Titan's Grave
 4 Tranquil Cove
+1 Unclaimed Territory
 2 Vault of the Archangel
 1 Wastewood Verge
 1 Watery Grave
 4 Wind-Scarred Crag
 1 Windbrisk Heights
-1 Yavimaya, Cradle of Growth
+2 Yavimaya, Cradle of Growth
 
 ```

@@ -48,21 +48,20 @@ Whenever one or more non-Human creatures you control deal combat damage to a pla
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Keeper of Fables|Keeper of Fables]] at {3}{G}{G} is a Cat — whenever one or more non-Human creatures you control deal combat damage to a player, draw a card. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] makes a 1/1 when this nontoken Cat enters; [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] names Cat. Roar is still ordered, so there is no Eminence pump on this pile. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Keeper of Fables|Keeper of Fables]] draws whenever one or more non-Human creatures deal combat damage to a player. Cats are not Humans. One trigger per combat, not per Cat. Card advantage for the wide board. 🟢 Owned extra on the sideboard — not sleeved.
 
 ## Play Patterns & Lines
 
-- Play after First Fang if you can — nontoken Cat ETB is a 1/1.
-- Roar is still ordered — there is no Eminence. Play this under First Fang and Banner.
-- Do not treat token Cats as First Fang ETBs.
+- Attack with any Cat. One draw even if six connect. Secret Tunnel makes one Cat unblockable for a guaranteed trigger.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat engine**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
+- **Combat draw**: [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]], [[02 Cards/Creatures/Mirri, Weatherlight Duelist|Mirri, Weatherlight Duelist]] *(owned extra)*, [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
 
 ## Anti-synergies / Notes
 
+- One trigger per combat. Humans on their side do not turn it off — your Cats are still non-Human.
 - Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 
 ## Related Pages

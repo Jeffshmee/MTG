@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Arahbo, Roar of the World`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{G}{W}  
 > **Type:** Legendary Creature — Cat Avatar  
 > **P/T:** 5/5  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:98%"></div></div>
 >
-> ![Arahbo](https://cards.scryfall.io/border_crop/front/8/1/81dc3d00-97cd-4549-b5a4-15a1e08767f5.jpg)
+> ![Arahbo, Roar of the World](https://cards.scryfall.io/border_crop/front/8/1/81dc3d00-97cd-4549-b5a4-15a1e08767f5.jpg)
 >
 > ### Deck Scores
 >
@@ -49,14 +49,14 @@ Whenever another Cat you control attacks, you may pay {1}{G}{W}. If you do, it g
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]] is the vault commander. Eminence pumps another Cat +3/+3 at the beginning of combat whether he is cast or not. The attack trigger ({1}{G}{W}: trample and +X/+X) needs him on the battlefield. This copy is **🟡 Ordered**. Until it is in hand, the sleeved general is [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]. There is no Eminence on this pile. Do not sleeve a proxy. 🟡 Ordered — add when it is in hand. Do not sleeve a proxy.
+[[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]] is the vault commander. Eminence pumps another Cat +3/+3 at the beginning of combat whether he is cast or not. The attack trigger ({1}{G}{W}: trample and +X/+X) needs him on the battlefield. Arrived 12/09/2026 (Recollect-Ltd C17 35 foil). In hand. First Fang stays the sleeved general until you swap. Binders stay Box until you tick first-sleeve.
 
 ## Play Patterns & Lines
 
-- When he arrives: leave him in the command zone for Eminence.
+- Leave him in the command zone for Eminence once you swap him in as commander.
 - Cast him only if you have {1}{G}{W} up for the attack trigger the same turn, or if First Fang has died and you need a body.
 - First Fang stays in the 99 as the token engine once Roar is the commander.
-- 🟡 Ordered. Do not sleeve a proxy. Binders stay Box until this copy is in hand.
+- In hand 12/09/2026. First Fang stays sleeved until you swap the commander.
 
 ## Key Synergies
 
@@ -67,10 +67,10 @@ Whenever another Cat you control attacks, you may pay {1}{G}{W}. If you do, it g
 
 ## Anti-synergies / Notes
 
-- Do not sleeve a proxy. Binders stay Box until this copy is in hand.
+- In hand. Binders stay Box until you tick first-sleeve / commander swap.
 - Do not take a last copy out of Maralen, Zurgo, or Kykar.
-- Eminence does nothing until he is in the command zone or on the battlefield — Ordered means neither.
-- Purchased, not in hand. Status stays Ordered until you sleeve it.
+- Eminence works once he is in the command zone. Swap him in as commander; First Fang stays in the 99 as the token engine.
+- In hand. Status Sideboard until you sleeve him as commander.
 
 ## Related Pages
 
@@ -94,7 +94,7 @@ Whenever another Cat you control attacks, you may pay {1}{G}{W}. If you do, it g
 > colors: ["G", "W"]
 > color_identity: ["G", "W"]
 > keywords: ["Eminence"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 95
 >   deck_specific: 100
@@ -102,7 +102,7 @@ Whenever another Cat you control attacks, you may pay {1}{G}{W}. If you do, it g
 > scryfall_id: 81dc3d00-97cd-4549-b5a4-15a1e08767f5
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

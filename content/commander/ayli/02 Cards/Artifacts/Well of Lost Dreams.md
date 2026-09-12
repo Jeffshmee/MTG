@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Well of Lost Dreams](https://cards.scryfall.io/border_crop/front/a/8/a8c10535-c77e-4a40-b19f-23f7cb691230.jpg)
+> ![Well of Lost Dreams](https://cards.scryfall.io/border_crop/front/f/e/fe839cbc-7eae-4f86-be35-96542223347c.jpg)
 >
 > ### Deck Scores
 >
@@ -88,7 +88,7 @@ Whenever you gain life, you may pay {X}, where X is less than or equal to the am
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: a8c10535-c77e-4a40-b19f-23f7cb691230
+> scryfall_id: fe839cbc-7eae-4f86-be35-96542223347c
 > tags:
 >   - card
 >   - main-deck

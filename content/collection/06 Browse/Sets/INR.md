@@ -2,10 +2,11 @@
 
 Set `INR`. Qty here is copies of this name from this set.
 
-**7** copies · **7** names.
+**8** copies · **8** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Deserted Beach`**](https://scryfall.com/card/inr/276) | [[02 Cards/Lands/Deserted Beach\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 4.00 |
 | [**`mtg:Westvale Abbey`**](https://scryfall.com/card/inr/287) | [[02 Cards/Lands/Westvale Abbey\|PAGE]] | — | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Land\|Land]] — [[04 Creature Types/Demon\|Demon]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 1.46 |
 | [**`mtg:Cathar Commando`**](https://scryfall.com/card/inr/15) | [[02 Cards/Creatures/Cathar Commando\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Crusader of Odric`**](https://scryfall.com/card/inr/18) | [[02 Cards/Creatures/Crusader of Odric\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |

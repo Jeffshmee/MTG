@@ -2,24 +2,24 @@
 
 > [!card-proxy] **`mtg:Emeria, the Sky Ruin`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
 > ### Deck Synergy
-> **80** / 100
+> **70** / 100
 >
-> <div class="synergy-bar"><div style="width:80%"></div></div>
+> <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Emeria](https://cards.scryfall.io/border_crop/front/9/0/90f148e6-1a5e-46fc-9557-40c5c0038069.jpg)
+> ![Emeria, the Sky Ruin](https://cards.scryfall.io/border_crop/front/9/0/90f148e6-1a5e-46fc-9557-40c5c0038069.jpg)
 >
 > ### Deck Scores
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 78 | Named land for the manabase. Colour fixing or a utility hole. |
-> | Deck-Specific | 82 | Named land for the manabase. Colour fixing or a utility hole. |
-> | **Combined** | **80** | Named land for the manabase. Colour fixing or a utility hole. |
+> | General | 72 | Tapped {W}. Recursion needs seven Plains types; this 99 has four basic Plains plus Shadowy Backstreet (five). Emeria is not a Plains. The trigger cannot fire. |
+> | Deck-Specific | 68 | Tapped {W}. Recursion needs seven Plains types; this 99 has four basic Plains plus Shadowy Backstreet (five). Emeria is not a Plains. The trigger cannot fire. |
+> | **Combined** | **70** | Tapped {W}. Recursion needs seven Plains types; this 99 has four basic Plains plus Shadowy Backstreet (five). Emeria is not a Plains. The trigger cannot fire. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">80<span>/100</span></div><p class="synergy-score-why">Named land for the manabase. Colour fixing or a utility hole. General 78 and Deck-Specific 82 produce Combined 80.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">70<span>/100</span></div><p class="synergy-score-why">Tapped {W} whose recursion cannot fire: five Plains types in the 99, seven required. Sevinne's, Reclamation, and Sun Titan already recur. General 72 and Deck-Specific 68 produce Combined 70.</p></div>
 
 ## Oracle Text
 
@@ -50,23 +50,25 @@ At the beginning of your upkeep, if you control seven or more Plains, you may re
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Emeria, the Sky Ruin|Emeria, the Sky Ruin]] this land enters tapped. Tapped — third land, not the land for turn-2 Ayli. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Emeria, the Sky Ruin|Emeria, the Sky Ruin]] is a tapped {W} with a recursion clause that needs **seven Plains types in play**. This 99 has four basic [[02 Cards/Lands/Plains|Plains]] plus [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]] — five. Isolated Chapel, Castle Ardenvale, Fetid Heath, Guildgate, Temple, and Shattered Sanctum make white; they are **not** Plains. Emeria itself is not a Plains. The trigger cannot fire. Recursion is already [[02 Cards/Sorceries/Sevinne's Reclamation|Sevinne's Reclamation]], [[02 Cards/Enchantments/Phyrexian Reclamation|Phyrexian Reclamation]], [[02 Cards/Sorceries/Reanimate|Reanimate]], and [[02 Cards/Creatures/Sun Titan|Sun Titan]]. **Box it.** Do not warp the WB manabase to make this live.
 
 ## Play Patterns & Lines
 
-- Sequence tapped lands as a third land. Keep untapped {W}{B} for a turn-2 Ayli.
-- Tapped. Do not keep a two-lander that needs this untapped for Ayli.
-- Do not sac Delney, Hinterland, or Vito to the first outlet.
+- Do not sleeve this until the 99 has ~10 Plains *types* (not just white sources). Five is a hard cap of five.
+- Recur with Sevinne's / Reclamation / Titan instead.
+- Knight of the White Orchid and Marsh Flats find a Plains; they do not raise the number of Plains cards in the deck.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Untapped core**: [[02 Cards/Lands/Command Tower|Command Tower]], [[02 Cards/Lands/Plains|Plains]], [[02 Cards/Lands/Swamp|Swamp]], [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]
+- **Plains types in this 99**: [[02 Cards/Lands/Plains|Plains]] ×4, [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]
+- **Real recursion**: [[02 Cards/Sorceries/Sevinne's Reclamation|Sevinne's Reclamation]], [[02 Cards/Enchantments/Phyrexian Reclamation|Phyrexian Reclamation]], [[02 Cards/Creatures/Sun Titan|Sun Titan]]
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
-- Tapped. Third land, not the land for turn-2 Ayli.
+- **Box.** Combined 70. Trigger is impossible on five Plains types.
+- Zurgo keeps the only Godless Shrine (Plains Swamp). Do not take that last copy. A buy-copy of Godless plus two extra basic Plains still only gets you to eight types — late-game possible, still greedy, and it thins {B}{B}.
+- Eiganjo (Legendary Plains) is Kykar's outstanding lot.
 
 ## Related Pages
 
@@ -89,17 +91,17 @@ At the beginning of your upkeep, if you control seven or more Plains, you may re
 > colors: []
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
->   general: 78
->   deck_specific: 82
->   combined: 80
+>   general: 72
+>   deck_specific: 68
+>   combined: 70
 > scryfall_id: 90f148e6-1a5e-46fc-9557-40c5c0038069
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - land
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-09-12*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

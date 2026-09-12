@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Castle Ardenvale`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -51,7 +51,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Plains
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Castle Ardenvale|Castle Ardenvale]] this land enters tapped unless you control a Plains. Tapped — third land, not the land for turn-2 Ayli. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Castle Ardenvale|Castle Ardenvale]] this land enters tapped unless you control a Plains. Tapped — third land, not the land for turn-2 Ayli. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]].
 
 ## Play Patterns & Lines
 
@@ -67,7 +67,6 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Plains
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
 - Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
 - Tapped. Third land, not the land for turn-2 Ayli.
 
@@ -92,7 +91,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Plains
 > colors: []
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -100,7 +99,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Plains
 > scryfall_id: 65e4de2e-47d2-4967-be31-9df0057a9c74
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

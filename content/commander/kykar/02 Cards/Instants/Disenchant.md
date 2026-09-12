@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Disenchant`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Instant  
 >
@@ -85,7 +85,7 @@ Disenchant ({1}{W}). Owned. Loran already answers artifacts/enchantments. Judge 
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 74
 >   deck_specific: 76
@@ -93,7 +93,7 @@ Disenchant ({1}{W}). Owned. Loran already answers artifacts/enchantments. Judge 
 > scryfall_id: 7ac43e16-8b14-46f2-877a-600ea918766b
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - instant
 > ```
 

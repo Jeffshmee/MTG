@@ -54,7 +54,6 @@
 <tr><td>Foundations (<code>FDN</code>)</td><td>280</td><td>—</td><td>8</td><td>Box</td><td>0.06</td></tr>
 <tr><td>Dragons of Tarkir (<code>DTK</code>)</td><td>263</td><td>—</td><td>1</td><td>Box</td><td>0.07</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>281</td><td>—</td><td>7</td><td>Box</td><td>0.11</td></tr>
-<tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>273</td><td>—</td><td>1</td><td>Maralen</td><td>0.11</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>291</td><td>—</td><td>1</td><td>Maralen</td><td>0.21</td></tr>
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>—</td><td>1</td><td>Box</td><td>0.20</td></tr>
 <tr><td>Avatar: The Last Airbender (<code>TLA</code>)</td><td>286</td><td>—</td><td>1</td><td>Box</td><td>0.08</td></tr>
@@ -73,6 +72,7 @@
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>285</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.13</td></tr>
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.18</td></tr>
 <tr><td>War of the Spark (<code>WAR</code>)</td><td>262</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.18</td></tr>
+<tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
 </tbody>
 </table>
 </div>
@@ -156,7 +156,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/WAR|War of the Spark]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/WAR|War of the Spark]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]]
 
 ---
 

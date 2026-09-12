@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Authority of the Consuls`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {W}  
 > **Type:** Enchantment  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
-> ![Authority of the Consuls](https://cards.scryfall.io/border_crop/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg)
+> ![Authority of the Consuls](https://cards.scryfall.io/border_crop/front/5/3/53e3fa87-8de0-4e3a-90bf-780dd0a9fb48.jpg)
 >
 > ### Deck Scores
 >
@@ -85,15 +85,15 @@ Whenever a creature an opponent controls enters, you [[03 Effects/Gain Life|gain
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 85
 >   deck_specific: 96
 >   combined: 92
-> scryfall_id: 42ce2d7f-5924-47c0-b5ed-dacf9f9617a0
+> scryfall_id: 53e3fa87-8de0-4e3a-90bf-780dd0a9fb48
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - enchantment
 > ```
 
