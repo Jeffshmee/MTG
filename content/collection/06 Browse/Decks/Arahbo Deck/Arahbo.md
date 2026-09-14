@@ -2,7 +2,7 @@
 
 Copies in **Arahbo**.
 
-**77** copies · **71** names.
+**78** copies · **72** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -17,11 +17,12 @@ Copies in **Arahbo**.
 | [**`mtg:Evolving Wilds`**](https://scryfall.com/card/fdn/262) | [[02 Cards/Lands/Evolving Wilds\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.06 |
 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.66 |
 | [**`mtg:Fortified Village`**](https://scryfall.com/card/tdc/366) | [[02 Cards/Lands/Fortified Village\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
+| [**`mtg:Gathering Place`**](https://scryfall.com/card/msh/381) | [[02 Cards/Lands/Gathering Place\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 2.67 |
 | [**`mtg:Graypelt Refuge`**](https://scryfall.com/card/c19/249) | [[02 Cards/Lands/Graypelt Refuge\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.16 |
 | [**`mtg:Krosan Verge`**](https://scryfall.com/card/otc/304) | [[02 Cards/Lands/Krosan Verge\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.20 |
 | [**`mtg:Mosswort Bridge`**](https://scryfall.com/card/tdc/379) | [[02 Cards/Lands/Mosswort Bridge\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.39 |
 | [**`mtg:Opal Palace`**](https://scryfall.com/card/m3c/361) | [[02 Cards/Lands/Opal Palace\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.12 |
-| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.51 |
+| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 0.70 |
 | [**`mtg:Secluded Courtyard`**](https://scryfall.com/card/fdn/267) | [[02 Cards/Lands/Secluded Courtyard\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.24 |
 | [**`mtg:Secret Tunnel`**](https://scryfall.com/card/tla/278) | [[02 Cards/Lands/Secret Tunnel\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Cave\|Cave]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 1.73 |
 | [**`mtg:Selesnya Guildgate`**](https://scryfall.com/card/fdn/694) | [[02 Cards/Lands/Selesnya Guildgate\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Gate\|Gate]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.15 |

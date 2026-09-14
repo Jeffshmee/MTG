@@ -34,6 +34,7 @@
 | 02/09/2026 | Booster haul |
 | 04/09/2026 | MageCards · Axion_Now |
 | 08/09/2026 | Booster haul |
+| 14/09/2026 | Cardmarket · Nikolcia01 |
 
 </div>
 
@@ -42,31 +43,31 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>31</div>
+<div class="synergy-score-num"><span>Copies</span>33</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>2</td><td>Box</td><td>0.12</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>7</td><td>Box</td><td>0.12</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>6</td><td>Box</td><td>0.08</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>274</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.21</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>282</td><td>—</td><td>1</td><td>Zurgo</td><td>0.31</td></tr>
 <tr><td>Bloomburrow (<code>BLB</code>)</td><td>265</td><td>—</td><td>1</td><td>Zurgo</td><td>0.45</td></tr>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>1</td><td>Kykar</td><td>0.05</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>194</td><td>—</td><td>1</td><td>Kykar</td><td>0.29</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>267</td><td>—</td><td>1</td><td>Kykar</td><td>0.53</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>—</td><td>1</td><td>Kykar</td><td>0.18</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.20</td></tr>
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>278</td><td>—</td><td>1</td><td>Ayli</td><td>0.04</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>1</td><td>Ayli</td><td>0.08</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>273</td><td>—</td><td>1</td><td>Ayli</td><td>0.17</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Ayli</td><td>0.12</td></tr>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>277</td><td>—</td><td>1</td><td>Arahbo</td><td>0.12</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>273</td><td>—</td><td>1</td><td>Arahbo</td><td>0.08</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>272</td><td>—</td><td>1</td><td>Arahbo</td><td>0.19</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>272</td><td>—</td><td>1</td><td>Arahbo</td><td>0.12</td></tr>
-<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>1</td><td>Box</td><td>0.05</td></tr>
+<tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>278</td><td>—</td><td>2</td><td>Box</td><td>0.05</td></tr>
+<tr><td>Phyrexia: All Will Be One (<code>ONE</code>)</td><td>272</td><td>foil</td><td>1</td><td>Kykar</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>283</td><td>—</td><td>1</td><td>Box</td><td>0.18</td></tr>
+<tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>277</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.10</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>282</td><td>—</td><td>1</td><td>Arahbo</td><td>0.31</td></tr>
 </tbody>
 </table>
 </div>
@@ -109,6 +110,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>BLB 265 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/b/1b499b37-efaf-4484-95e8-a70a9778c804.jpg" alt="Plains DSK 277 · ×1">
+<figcaption>DSK 277 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/6/2/6242dbef-8412-4ebd-9486-42cec1dc6794.jpg" alt="Plains ECL 274 · ×1">
 <figcaption>ECL 274 · ×1</figcaption>
 </figure>
@@ -123,6 +128,10 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/e/c/ec05cb6c-6e7f-4d40-ba38-a9fc06158094.jpg" alt="Plains MKM 278 · ×1">
 <figcaption>MKM 278 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/b/db14da86-6721-4e22-9b61-4a5680d4e5a3.jpg" alt="Plains ONE 272 · ×1">
+<figcaption>ONE 272 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg" alt="Plains SOS 267 · ×1">
@@ -140,7 +149,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]]
 
 ---
 
@@ -153,7 +162,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Plains"
 > scryfall_id: 4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3
-> quantity: 31
+> quantity: 33
 > tags:
 >   - card
 >   - collection

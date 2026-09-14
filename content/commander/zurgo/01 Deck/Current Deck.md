@@ -1,7 +1,7 @@
 # Current Deck
 
-Commander: Zurgo Stormrender  
-99 + 1 = 100 cards
+Commander: Zurgo Stormrender
+99 + 1 = 100 cards (target 100).
 
 ```decklist
 group: auto
@@ -16,7 +16,6 @@ legality: commander
 1 Belladonna Took
 1 Elas il-Kor, Sadistic Pilgrim
 1 Loyal Apprentice
-1 Mindblade Render
 1 Shocking Sharpshooter
 1 Adeline, Resplendent Cathar
 1 Anim Pakal, Thousandth Moon
@@ -30,6 +29,7 @@ legality: commander
 1 Morbid Opportunist
 1 Ophiomancer
 1 Redoubled Stormsinger
+1 Rem Karolus, Stalwart Slayer
 1 Twilight Drover
 1 Yahenni, Undying Partisan
 1 Bone-Cairn Butcher
@@ -117,15 +117,15 @@ legality: commander
 
 ---
 
-*Source: `mardu-zurgo/07 Assets/current-deck.md`*  
-*Last synced: 2026-08-30*
+*Source: `mardu-zurgo/07 Assets/current-deck.md`*
+*Last synced: 2026-09-14 (Rem Karolus)*
 
 ---
 
 ## Local Card Pages
 
 
-Each entry links to the local card page (when it exists) and shows the Combined Deck Synergy score.
+Each entry links to the local card page and shows the Combined Deck Synergy score.
 
 ### Creatures
 - [[02 Cards/Creatures/Viscera Seer|Viscera Seer]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
@@ -133,11 +133,11 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Creatures/Belladonna Took|Belladonna Took]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas il-Kor, Sadistic Pilgrim]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Loyal Apprentice|Loyal Apprentice]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
-- [[02 Cards/Creatures/Mindblade Render|Mindblade Render]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Creatures/Shocking Sharpshooter|Shocking Sharpshooter]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Anim Pakal, Thousandth Moon|Anim Pakal, Thousandth Moon]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Aron, Benalia's Ruin|Aron, Benalia's Ruin]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
+- [[02 Cards/Enchantments/Boggart Mischief|Boggart Mischief]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Dalkovan Packbeasts|Dalkovan Packbeasts]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Gix, Yawgmoth Praetor|Gix, Yawgmoth Praetor]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Isshin, Two Heavens as One|Isshin, Two Heavens as One]] **96** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:96%"></div></div>
@@ -146,6 +146,7 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 - [[02 Cards/Creatures/Morbid Opportunist|Morbid Opportunist]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Ophiomancer|Ophiomancer]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Redoubled Stormsinger|Redoubled Stormsinger]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Creatures/Rem Karolus, Stalwart Slayer|Rem Karolus, Stalwart Slayer]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Twilight Drover|Twilight Drover]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni, Undying Partisan]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Zurgo Stormrender|Zurgo Stormrender]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
@@ -186,7 +187,6 @@ Each entry links to the local card page (when it exists) and shows the Combined 
 ### Enchantments
 - [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
-- [[02 Cards/Enchantments/Boggart Mischief|Boggart Mischief]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Enchantments/Windcrag Siege|Windcrag Siege]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Enchantments/Within Range|Within Range]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>

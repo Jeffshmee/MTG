@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Kykar, Zephyr Awakener
-99 + 1 = 100 cards
+99 + 1 = 100 cards (target 100).
 
 ```decklist
 group: auto
@@ -11,13 +11,12 @@ legality: commander
 1 Kykar, Zephyr Awakener
 
 # Creatures
-1 Knight of the White Orchid
 1 Harmonized Trio
 1 Charming Prince
-1 Harbinger of the Tides
-1 Selfless Spirit
 1 Dour Port-Mage
-1 Stonehorn Dignitary
+1 Harbinger of the Tides
+1 Knight of the White Orchid
+1 Selfless Spirit
 1 Aether Channeler
 1 Deputy of Detention
 1 Elrond, Moon-Reader
@@ -35,7 +34,9 @@ legality: commander
 1 High Fae Trickster
 1 Micromancer
 1 Naga Fleshcrafter
+1 Sower of Temptation
 1 Starfield Vocalist
+1 Stonehorn Dignitary
 1 Thassa, Deep-Dwelling
 1 Cloudblazer
 1 Emeritus of Ideation
@@ -69,18 +70,16 @@ legality: commander
 1 Sleight of Hand
 1 Flow State
 1 Stock Up
-1 Winged Words
 1 Rite of Replication
 1 Farewell
 1 Flood of Tears
 1 River's Rebuke
-1 Wisdom of Ages
 
 # Enchantments
-1 Propaganda
 1 Airbender Ascension
 1 Enchanted River's Grasp
 1 Imprisoned in the Moon
+1 Propaganda
 1 Stasis Snare
 1 Teleportation Circle
 1 Virtue of Knowledge
@@ -91,20 +90,22 @@ legality: commander
 1 Azorius Signet
 1 Swiftfoot Boots
 1 Wizard's Staff
+1 Midnight Clock
 1 Panharmonicon
 
 # Lands
-1 Irrigated Farmland
-1 Deserted Beach
 1 Azorius Chancery
 1 Command Tower
 1 Demolition Field
+1 Deserted Beach
+1 Eiganjo, Seat of the Empire
 1 Floodfarm Verge
 1 Glacial Fortress
 1 Hallowed Fountain
+1 Irrigated Farmland
 9 Island
 1 Mystic Sanctuary
-4 Plains
+3 Plains
 1 Port Town
 1 Prairie Stream
 1 Temple of Enlightenment
@@ -114,7 +115,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-12 (Dour / Propaganda / duals / Knight)*
+*Last synced: 2026-09-14 (Eiganjo / Clock / Sower)*
 
 ---
 
@@ -124,13 +125,12 @@ legality: commander
 Each entry links to the local card page and shows the Combined Deck Synergy score.
 
 ### Creatures
-- [[02 Cards/Creatures/Knight of the White Orchid|Knight of the White Orchid]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Harmonized Trio|Harmonized Trio]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Charming Prince|Charming Prince]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
-- [[02 Cards/Creatures/Harbinger of the Tides|Harbinger of the Tides]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
-- [[02 Cards/Creatures/Selfless Spirit|Selfless Spirit]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Dour Port-Mage|Dour Port-Mage]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
-- [[02 Cards/Creatures/Stonehorn Dignitary|Stonehorn Dignitary]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
+- [[02 Cards/Creatures/Harbinger of the Tides|Harbinger of the Tides]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Creatures/Knight of the White Orchid|Knight of the White Orchid]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
+- [[02 Cards/Creatures/Selfless Spirit|Selfless Spirit]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Aether Channeler|Aether Channeler]] **93** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:93%"></div></div>
 - [[02 Cards/Creatures/Deputy of Detention|Deputy of Detention]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Creatures/Elrond, Moon-Reader|Elrond, Moon-Reader]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
@@ -149,7 +149,9 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
 - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
 - [[02 Cards/Creatures/Naga Fleshcrafter|Naga Fleshcrafter]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
+- [[02 Cards/Creatures/Sower of Temptation|Sower of Temptation]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Starfield Vocalist|Starfield Vocalist]] **93** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:93%"></div></div>
+- [[02 Cards/Creatures/Stonehorn Dignitary|Stonehorn Dignitary]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Cloudblazer|Cloudblazer]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Emeritus of Ideation|Emeritus of Ideation]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
@@ -183,20 +185,17 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Sorceries/Sleight of Hand|Sleight of Hand]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Sorceries/Flow State|Flow State]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Sorceries/Stock Up|Stock Up]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
-- [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Sorceries/Rite of Replication|Rite of Replication]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Sorceries/Farewell|Farewell]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Sorceries/Flood of Tears|Flood of Tears]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Sorceries/River's Rebuke|River's Rebuke]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
-- [[02 Cards/Sorceries/Wisdom of Ages|Wisdom of Ages]] **65** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:65%"></div></div>
 
 ### Enchantments
-- [[02 Cards/Enchantments/Propaganda|Propaganda]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Enchantments/Airbender Ascension|Airbender Ascension]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Enchantments/Enchanted River's Grasp|Enchanted River's Grasp]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Enchantments/Imprisoned in the Moon|Imprisoned in the Moon]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
+- [[02 Cards/Enchantments/Propaganda|Propaganda]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Enchantments/Stasis Snare|Stasis Snare]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
-- [[02 Cards/Creatures/Knight of the White Orchid|Knight of the White Orchid]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Enchantments/Teleportation Circle|Teleportation Circle]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Enchantments/Virtue of Knowledge|Virtue of Knowledge]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 
@@ -205,20 +204,20 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Artifacts/Azorius Signet|Azorius Signet]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Swiftfoot Boots|Swiftfoot Boots]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
-- [[02 Cards/Lands/Deserted Beach|Deserted Beach]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Artifacts/Wizard's Staff|Wizard's Staff]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Artifacts/Midnight Clock|Midnight Clock]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 
 ### Lands
-1 Irrigated Farmland
-1 Deserted Beach
 - [[02 Cards/Lands/Azorius Chancery|Azorius Chancery]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
-- [[02 Cards/Lands/Irrigated Farmland|Irrigated Farmland]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Lands/Command Tower|Command Tower]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Lands/Demolition Field|Demolition Field]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
+- [[02 Cards/Lands/Deserted Beach|Deserted Beach]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
+- [[02 Cards/Lands/Eiganjo, Seat of the Empire|Eiganjo, Seat of the Empire]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Lands/Floodfarm Verge|Floodfarm Verge]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Lands/Glacial Fortress|Glacial Fortress]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
+- [[02 Cards/Lands/Irrigated Farmland|Irrigated Farmland]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
 - [[02 Cards/Lands/Mystic Sanctuary|Mystic Sanctuary]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>

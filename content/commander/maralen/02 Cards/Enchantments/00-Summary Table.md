@@ -6,7 +6,7 @@ Every **Enchantments** page in this vault. Same columns as the collection Catalo
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Bitterblossom`**](https://scryfall.com/card/2x2/69) | [[02 Cards/Enchantments/Bitterblossom\|PAGE]] | {1}{B} | [[04 Types/Kindred\|Kindred]] [[04 Types/Enchantment\|Enchantment]] [[04 Types/Faerie\|Faerie]] | [[05 Colours/Black\|Black]] | 2 | 1 | 0.00 |
+| [**`mtg:Bitterblossom`**](https://scryfall.com/card/2x2/69) | [[02 Cards/Enchantments/Bitterblossom\|PAGE]] | {1}{B} | [[04 Types/Kindred\|Kindred]] [[04 Types/Enchantment\|Enchantment]] [[04 Types/Faerie\|Faerie]] | [[05 Colours/Black\|Black]] | 2 | 1 | 17.98 |
 | [**`mtg:Morcant's Eyes`**](https://scryfall.com/card/ecl/185) | [[02 Cards/Enchantments/Morcant's Eyes\|PAGE]] | {1}{G} | [[04 Types/Kindred\|Kindred]] [[04 Types/Enchantment\|Enchantment]] [[04 Types/Elf\|Elf]] | [[05 Colours/Green\|Green]] | 2 | 1 | 0.10 |
 | [**`mtg:Garruk's Uprising`**](https://scryfall.com/card/ecc/109) | [[02 Cards/Enchantments/Garruk's Uprising\|PAGE]] | {2}{G} | [[04 Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | 3 | 1 | 0.47 |
 | [**`mtg:Elven Chorus`**](https://scryfall.com/card/ltr/160) | [[02 Cards/Enchantments/Elven Chorus\|PAGE]] | {3}{G} | [[04 Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | 4 | 1 | 0.00 |

@@ -2,7 +2,7 @@
 
 Creature type: Human.
 
-**154** copies · **127** names.
+**155** copies · **128** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -85,6 +85,7 @@ Creature type: Human.
 | [**`mtg:Pensive Professor`**](https://scryfall.com/card/sos/63) | [[02 Cards/Creatures/Pensive Professor\|PAGE]] | {1}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.41 |
 | [**`mtg:Poised Practitioner`**](https://scryfall.com/card/tdm/18) | [[02 Cards/Creatures/Poised Practitioner\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Monk\|Monk]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Reflector Mage`**](https://scryfall.com/card/ogw/157) | [[02 Cards/Creatures/Reflector Mage\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.42 |
+| [**`mtg:Rem Karolus, Stalwart Slayer`**](https://scryfall.com/card/dbl/235) | [[02 Cards/Creatures/Rem Karolus, Stalwart Slayer\|PAGE]] | {1}{R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.37 |
 | [**`mtg:Sage of the Fang`**](https://scryfall.com/card/tdm/155) | [[02 Cards/Creatures/Sage of the Fang\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Snooping Page`**](https://scryfall.com/card/sos/227) | [[02 Cards/Creatures/Snooping Page\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Stalwart Successor`**](https://scryfall.com/card/tdm/227) | [[02 Cards/Creatures/Stalwart Successor\|PAGE]] | {1}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |

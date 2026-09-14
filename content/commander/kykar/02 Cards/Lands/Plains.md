@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:71%"></div></div>
 >
-> ![Plains](https://cards.scryfall.io/border_crop/front/b/8/b8c391f2-b340-43c7-89e6-afac5b70491f.jpg)
+> ![Plains](https://cards.scryfall.io/border_crop/front/2/4/24dc369c-020a-4115-a4bb-d60a44de64e3.jpg)
 >
 > ### Deck Scores
 >
@@ -70,24 +70,16 @@ Printings sleeved in this 100. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/8/b8c391f2-b340-43c7-89e6-afac5b70491f.jpg" alt="Plains TDM 278 · ×2">
-<figcaption>TDM 278 · ×2</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/4/e/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3.jpg" alt="Plains FDN 272 · ×1">
-<figcaption>FDN 272 · ×1</figcaption>
-</figure>
-<figure>
 <img src="https://cards.scryfall.io/border_crop/front/2/4/24dc369c-020a-4115-a4bb-d60a44de64e3.jpg" alt="Plains HOB 194 · ×1">
 <figcaption>HOB 194 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg" alt="Plains SOS 267 · ×1">
+<img src="https://cards.scryfall.io/border_crop/front/2/4/24dc369c-020a-4115-a4bb-d60a44de64e3.jpg" alt="Plains SOS 267 · ×1">
 <figcaption>SOS 267 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/7/a/7a0f9892-89cd-46ff-bc87-114e175cb575.jpg" alt="Plains FDN 283 · ×1">
-<figcaption>FDN 283 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/2/4/24dc369c-020a-4115-a4bb-d60a44de64e3.jpg" alt="Plains ONE 272 foil · ×1">
+<figcaption>ONE 272 foil · ×1</figcaption>
 </figure>
 </div>
 
@@ -117,7 +109,7 @@ Printings sleeved in this 100. Infocard uses the most copies.
 >   general: 70
 >   deck_specific: 72
 >   combined: 71
-> scryfall_id: b8c391f2-b340-43c7-89e6-afac5b70491f
+> scryfall_id: 24dc369c-020a-4115-a4bb-d60a44de64e3
 > tags:
 >   - card
 >   - main-deck

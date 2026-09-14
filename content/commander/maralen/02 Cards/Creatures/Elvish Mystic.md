@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Elvish Mystic`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {G}  
 > **Type:** Creature — Elf Druid  
 > **P/T:** 1/1  
@@ -90,7 +90,7 @@ Elvish Mystic is the third one-mana {T}:{G} Elf. The copies exist so you actuall
 > colors: [G]
 > color_identity: [G]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 84
 >   deck_specific: 90
@@ -98,7 +98,7 @@ Elvish Mystic is the third one-mana {T}:{G} Elf. The copies exist so you actuall
 > scryfall_id: eb654a76-62ee-4fd8-83d4-cb912211a9a0
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

@@ -2,10 +2,11 @@
 
 Set `DMU`. Qty here is copies of this name from this set.
 
-**6** copies · **6** names.
+**7** copies · **7** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.06 |
 | [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.09 |
 | [**`mtg:Elas il-Kor, Sadistic Pilgrim`**](https://scryfall.com/card/dmu/297) | [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Phyrexian\|Phyrexian]] [[04 Creature Types/Kor\|Kor]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.75 |
 | [**`mtg:Leaf-Crowned Visionary`**](https://scryfall.com/card/dmu/167) | [[02 Cards/Creatures/Leaf-Crowned Visionary\|PAGE]] | {G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.40 |

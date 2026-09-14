@@ -2,7 +2,7 @@
 
 Card type: Artifact.
 
-**142** copies · **107** names.
+**143** copies · **108** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -76,6 +76,7 @@ Card type: Artifact.
 | [**`mtg:Heraldic Banner`**](https://scryfall.com/card/fdn/254) | [[02 Cards/Artifacts/Heraldic Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.23 |
 | [**`mtg:Infantry Shield`**](https://scryfall.com/card/tdc/35) | [[02 Cards/Artifacts/Infantry Shield\|PAGE]] | {2}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.76 |
 | [**`mtg:Magnifying Glass`**](https://scryfall.com/card/mkm/255) | [[02 Cards/Artifacts/Magnifying Glass\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
+| [**`mtg:Midnight Clock`**](https://scryfall.com/card/sld/2217) | [[02 Cards/Artifacts/Midnight Clock\|PAGE]] | {2}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.74 |
 | [**`mtg:Mobile Garrison`**](https://scryfall.com/card/aer/165) | [[02 Cards/Artifacts/Mobile Garrison\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Patchwork Banner`**](https://scryfall.com/card/soc/353) | [[02 Cards/Artifacts/Patchwork Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 6.76 |
 | [**`mtg:Potioner's Trove`**](https://scryfall.com/card/sos/251) | [[02 Cards/Artifacts/Potioner's Trove\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.09 |

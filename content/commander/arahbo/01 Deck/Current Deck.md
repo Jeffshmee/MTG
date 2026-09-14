@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Arahbo, Roar of the World
-76 + 1 = 77 cards (target 100). In-hand pile. Target 100. Commander C17 35 foil sleeved. First Fang stays in the 99.
+77 + 1 = 78 cards (target 100). Commander C17 35 foil sleeved. First Fang stays in the 99.
 
 ```decklist
 group: auto
@@ -79,6 +79,7 @@ legality: commander
 1 Evolving Wilds
 4 Forest
 1 Fortified Village
+1 Gathering Place
 1 Graypelt Refuge
 1 Krosan Verge
 1 Mosswort Bridge
@@ -98,7 +99,7 @@ legality: commander
 ---
 
 *Source: `arahbo-roar/07 Assets/current-deck.md`*
-*Last synced: 2026-09-12 (15 first-sleeves + commander)*
+*Last synced: 2026-09-14 (Gathering Place)*
 
 ---
 
@@ -177,6 +178,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Lands/Evolving Wilds|Evolving Wilds]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Lands/Forest|Forest]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
 - [[02 Cards/Lands/Fortified Village|Fortified Village]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
+- [[02 Cards/Lands/Gathering Place|Gathering Place]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Graypelt Refuge|Graypelt Refuge]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Lands/Krosan Verge|Krosan Verge]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Lands/Mosswort Bridge|Mosswort Bridge]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>

@@ -2,12 +2,13 @@
 
 Creature type: Elf.
 
-**122** copies · **78** names.
+**123** copies · **79** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Arbor Elf`**](https://scryfall.com/card/a25/160) | [[02 Cards/Creatures/Arbor Elf\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.60 |
 | [**`mtg:Centaur's Herald`**](https://scryfall.com/card/rtr/118) | [[02 Cards/Creatures/Centaur's Herald\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.05 |
+| [**`mtg:Deathrite Shaman`**](https://scryfall.com/card/rvr/175) | [[02 Cards/Creatures/Deathrite Shaman\|PAGE]] | {B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 6.22 |
 | [**`mtg:Elves of Deep Shadow`**](https://scryfall.com/card/gk1/56) | [[02 Cards/Creatures/Elves of Deep Shadow\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 3.39 |
 | [**`mtg:Elvish Mystic`**](https://scryfall.com/card/soc/266) | [[02 Cards/Creatures/Elvish Mystic\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.58 |
 | [**`mtg:Fyndhorn Elves`**](https://scryfall.com/card/cmr/678) | [[02 Cards/Creatures/Fyndhorn Elves\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 4.21 |

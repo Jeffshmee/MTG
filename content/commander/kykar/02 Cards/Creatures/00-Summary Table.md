@@ -2,18 +2,18 @@
 
 Every **Creatures** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**57** copies · **57** names.
+**58** copies · **58** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[04 Types/Creature\|Creature]] [[04 Types/Merfolk\|Merfolk]] [[04 Types/Bard\|Bard]] [[04 Types/Wizard\|Wizard]] [[04 Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | 1 | 1 | 0.32 |
 | [**`mtg:Spectral Sailor`**](https://scryfall.com/card/fdn/746) | [[02 Cards/Creatures/Spectral Sailor\|PAGE]] | {U} | [[04 Types/Creature\|Creature]] [[04 Types/Spirit\|Spirit]] [[04 Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | 1 | 1 | 0.23 |
 | [**`mtg:Charming Prince`**](https://scryfall.com/card/fdn/568) | [[02 Cards/Creatures/Charming Prince\|PAGE]] | {1}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Noble\|Noble]] | [[05 Colours/White\|White]] | 2 | 1 | 0.61 |
-| [**`mtg:Dour Port-Mage`**](https://scryfall.com/card/blb/47) | [[02 Cards/Creatures/Dour Port-Mage\|PAGE]] | {1}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Frog\|Frog]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | 2 | 1 | 0.00 |
+| [**`mtg:Dour Port-Mage`**](https://scryfall.com/card/blb/47) | [[02 Cards/Creatures/Dour Port-Mage\|PAGE]] | {1}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Frog\|Frog]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | 2 | 1 | 3.65 |
 | [**`mtg:Fog Bank`**](https://scryfall.com/card/fdn/591) | [[02 Cards/Creatures/Fog Bank\|PAGE]] | {1}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Wall\|Wall]] | [[05 Colours/Blue\|Blue]] | 2 | 1 | 0.15 |
 | [**`mtg:Harbinger of the Tides`**](https://scryfall.com/card/fdn/593) | [[02 Cards/Creatures/Harbinger of the Tides\|PAGE]] | {U}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Merfolk\|Merfolk]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | 2 | 1 | 0.15 |
 | [**`mtg:Helpful Hunter`**](https://scryfall.com/card/fdn/16) | [[02 Cards/Creatures/Helpful Hunter\|PAGE]] | {1}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] | [[05 Colours/White\|White]] | 2 | 1 | 0.16 |
-| [**`mtg:Knight of the White Orchid`**](https://scryfall.com/card/moc/193) | [[02 Cards/Creatures/Knight of the White Orchid\|PAGE]] | {W}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Knight\|Knight]] | [[05 Colours/White\|White]] | 2 | 1 | 0.00 |
+| [**`mtg:Knight of the White Orchid`**](https://scryfall.com/card/moc/193) | [[02 Cards/Creatures/Knight of the White Orchid\|PAGE]] | {W}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Knight\|Knight]] | [[05 Colours/White\|White]] | 2 | 1 | 1.75 |
 | [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | {1}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Spirit\|Spirit]] [[04 Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | 2 | 1 | 0.62 |
 | [**`mtg:Sygg, Wanderwine Wisdom`**](https://scryfall.com/card/ecl/76) | [[02 Cards/Creatures/Sygg, Wanderwine Wisdom\|PAGE]] | — | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Merfolk\|Merfolk]] [[04 Types/Wizard\|Wizard]] [[04 Types/Rogue\|Rogue]] | [[05 Colours/Colourless\|Colourless]] | 2 | 1 | 0.28 |
 | [**`mtg:Wall of Omens`**](https://scryfall.com/card/tdc/138) | [[02 Cards/Creatures/Wall of Omens\|PAGE]] | {1}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Wall\|Wall]] | [[05 Colours/White\|White]] | 2 | 1 | 0.00 |
@@ -50,8 +50,9 @@ Every **Creatures** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Naga Fleshcrafter`**](https://scryfall.com/card/tdm/52) | [[02 Cards/Creatures/Naga Fleshcrafter\|PAGE]] | {3}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Snake\|Snake]] [[04 Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 0.22 |
 | [**`mtg:Restoration Angel`**](https://scryfall.com/card/inr/38) | [[02 Cards/Creatures/Restoration Angel\|PAGE]] | {3}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Angel\|Angel]] | [[05 Colours/White\|White]] | 4 | 1 | 0.00 |
 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/msc/215) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | {4} | [[04 Types/Artifact\|Artifact]] [[04 Types/Creature\|Creature]] [[04 Types/Golem\|Golem]] | [[05 Colours/Colourless\|Colourless]] | 4 | 1 | 0.24 |
+| [**`mtg:Sower of Temptation`**](https://scryfall.com/card/bbd/131) | [[02 Cards/Creatures/Sower of Temptation\|PAGE]] | {2}{U}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Faerie\|Faerie]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 4.64 |
 | [**`mtg:Starfield Vocalist`**](https://scryfall.com/card/eoe/78) | [[02 Cards/Creatures/Starfield Vocalist\|PAGE]] | {3}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Bard\|Bard]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 1.27 |
-| [**`mtg:Stonehorn Dignitary`**](https://scryfall.com/card/m12/37) | [[02 Cards/Creatures/Stonehorn Dignitary\|PAGE]] | {3}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Rhino\|Rhino]] [[04 Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | 4 | 1 | 0.00 |
+| [**`mtg:Stonehorn Dignitary`**](https://scryfall.com/card/m12/37) | [[02 Cards/Creatures/Stonehorn Dignitary\|PAGE]] | {3}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Rhino\|Rhino]] [[04 Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | 4 | 1 | 0.64 |
 | [**`mtg:Thassa, Deep-Dwelling`**](https://scryfall.com/card/thb/71) | [[02 Cards/Creatures/Thassa, Deep-Dwelling\|PAGE]] | {3}{U} | [[04 Types/Legendary\|Legendary]] [[04 Types/Enchantment\|Enchantment]] [[04 Types/Creature\|Creature]] [[04 Types/God\|God]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 20.25 |
 | [**`mtg:Venser, Shaper Savant`**](https://scryfall.com/card/2x2/66) | [[02 Cards/Creatures/Venser, Shaper Savant\|PAGE]] | {2}{U}{U} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 0.00 |
 | [**`mtg:Witch Enchanter`**](https://scryfall.com/card/mh3/239) | [[02 Cards/Creatures/Witch Enchanter\|PAGE]] | — | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Warlock\|Warlock]] [[04 Types/Land\|Land]] | [[05 Colours/Colourless\|Colourless]] | 4 | 1 | 0.00 |

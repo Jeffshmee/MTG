@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Wisdom of Ages`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {4}{U}{U}{U}  
 > **Type:** Sorcery  
 >
@@ -89,7 +89,7 @@ Wisdom of Ages is a late-game refill at {4}{U}{U}{U}. The 80 is still 21 lands, 
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 70
 >   deck_specific: 62
@@ -97,7 +97,7 @@ Wisdom of Ages is a late-game refill at {4}{U}{U}{U}. The 80 is still 21 lands, 
 > scryfall_id: b227ef04-33e4-44e8-a357-0ea3dfe5d49b
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 > ```
 
 *Last evaluated: 2026-09-02*  

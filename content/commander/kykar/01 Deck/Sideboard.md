@@ -1,23 +1,19 @@
 # Sideboard
 
-Owned extras (not in the 100) and wishlist / buy-list cards.
+Owned extras (not in the sleeved 100) and wishlist / buy-list cards.
 These are **not** in the main list until physically integrated and committed.
 
 ```decklist
 group: auto
 legality: commander
 
-# Owned extras (not in the 100)
+# Owned extras (in hand, not sleeved)
 1 Azorius Guildgate
-1 Day of Judgment
-1 Disenchant
-1 Stormplain Detainment
-1 Sygg, Wanderwine Wisdom
-1 Talisman of Progress
 1 Cryptic Caves
 1 Evolving Wilds
 1 Hidden Grotto
 1 Terramorphic Expanse
+1 Authority of the Consuls
 1 Divine Resilience
 1 Opt
 1 Soul-Guide Lantern
@@ -25,12 +21,15 @@ legality: commander
 1 Wayfarer's Bauble
 1 Witness Protection
 1 Chart a Course
+1 Disenchant
 1 Essence Scatter
 1 Fog Bank
 1 Helpful Hunter
 1 Mission Briefing
 1 Personify
 1 Run Away Together
+1 Sygg, Wanderwine Wisdom
+1 Talisman of Progress
 1 Ureni's Rebuff
 1 Banishing Light
 1 Cloudkin Seer
@@ -39,8 +38,12 @@ legality: commander
 1 Inspiring Overseer
 1 Mentor of the Meek
 1 Refute
+1 Sevinne's Reclamation
 1 Skyscanner
+1 Stormplain Detainment
 1 Tocasia's Welcome
+1 Winged Words
+1 Day of Judgment
 1 Felidar Savior
 1 Mystical Teachings
 1 Release the Dogs
@@ -49,12 +52,15 @@ legality: commander
 1 Meteor Golem
 1 Turtles in Time
 1 Wanderwine Farewell
+1 Wisdom of Ages
+
+# Ordered
 
 # Wishlist
-1 Azorius Chancery
-1 Eiganjo, Seat of the Empire
+1 Adarkar Wastes
 1 Hengegate Pathway
 1 Meticulous Archive
+1 Otawara, Soaring City
 1 Reliquary Tower
 1 Riptide Laboratory
 1 Sea of Clouds
@@ -98,7 +104,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/sideboard.md`*
-*Last synced: 2026-09-12 (photo swaps sleeved)*
+*Last synced: 2026-09-14 (Eiganjo / Clock / Sower)*
 
 ---
 
@@ -116,18 +122,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Spectral Sailor|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Dour Port-Mage`**
-> **91** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:91%"></div></div>
->
-> [[02 Cards/Creatures/Dour Port-Mage|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Fog Bank`**
 > **71** / 100 · 🟢 Owned
@@ -135,18 +130,23 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Fog Bank|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
-> [!info] **`mtg:Knight of the White Orchid`**
-> **83** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:83%"></div></div>
+> [!info] **`mtg:Helpful Hunter`**
+> **88** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> [[02 Cards/Creatures/Knight of the White Orchid|Open local page →]]
+> [[02 Cards/Creatures/Helpful Hunter|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Sygg, Wanderwine Wisdom`**
+> **76** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:76%"></div></div>
+>
+> [[02 Cards/Creatures/Sygg, Wanderwine Wisdom|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Wall of Omens`**
 > **86** / 100 · ⚪ Wishlist
@@ -154,10 +154,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Wall of Omens|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Circuit Mender`**
 > **83** / 100 · ⚪ Wishlist
@@ -165,10 +162,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Circuit Mender|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Cloudkin Seer`**
 > **79** / 100 · 🟢 Owned
@@ -176,7 +170,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Cloudkin Seer|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Empyrean Eagle`**
 > **75** / 100 · 🟢 Owned
@@ -184,7 +178,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Empyrean Eagle|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Exclusion Mage`**
 > **80** / 100 · ⚪ Wishlist
@@ -192,10 +186,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Exclusion Mage|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Hydroelectric Specimen`**
 > **85** / 100 · ⚪ Wishlist
@@ -203,21 +194,23 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Hydroelectric Specimen|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Inspiring Overseer`**
+> **84** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Creatures/Inspiring Overseer|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Man-o'-War`**
-> **82** / 100 · ⚪ Wishlist
+> **82** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
 > [[02 Cards/Creatures/Man-o'-War|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Mentor of the Meek`**
 > **75** / 100 · 🟢 Owned
@@ -225,7 +218,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Mentor of the Meek|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Recruiter of the Guard`**
 > **87** / 100 · ⚪ Wishlist
@@ -233,10 +226,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Recruiter of the Guard|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Skyclave Apparition`**
 > **90** / 100 · 🟡 Ordered
@@ -244,111 +234,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Skyclave Apparition|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
-> [!info] **`mtg:Spellseeker`**
-> **88** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:88%"></div></div>
->
-> [[02 Cards/Creatures/Spellseeker|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
-> [!info] **`mtg:Displacer Kitten`**
-> **96** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:96%"></div></div>
->
-> [[02 Cards/Creatures/Displacer Kitten|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:78%"></div></div>
-
-> [!info] **`mtg:Felidar Savior`**
-> **76** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:76%"></div></div>
->
-> [[02 Cards/Creatures/Felidar Savior|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Restoration Angel`**
-> **88** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:88%"></div></div>
->
-> [[02 Cards/Creatures/Restoration Angel|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
-> [!info] **`mtg:Stonehorn Dignitary`**
-> **83** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:83%"></div></div>
->
-> [[02 Cards/Creatures/Stonehorn Dignitary|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
-> [!info] **`mtg:Venser, Shaper Savant`**
-> **92** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:92%"></div></div>
->
-> [[02 Cards/Creatures/Venser, Shaper Savant|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
-> [!info] **`mtg:Witch Enchanter`**
-> **87** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:87%"></div></div>
->
-> [[02 Cards/Creatures/Witch Enchanter|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Spectral Sailor|Spectral Sailor]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-
-> [!info] **`mtg:Mulldrifter`**
-> **88** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:88%"></div></div>
->
-> [[02 Cards/Creatures/Mulldrifter|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:78%"></div></div>
-
-> [!info] **`mtg:Bard, King of Dale`**
-> **80** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:80%"></div></div>
->
-> [[02 Cards/Creatures/Bard, King of Dale|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Meteor Golem`**
-> **76** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:76%"></div></div>
->
-> [[02 Cards/Creatures/Meteor Golem|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Skyscanner`**
 > **79** / 100 · 🟢 Owned
@@ -356,35 +242,80 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Skyscanner|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Spellseeker`**
+> **88** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:88%"></div></div>
+>
+> [[02 Cards/Creatures/Spellseeker|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Felidar Savior`**
+> **76** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:76%"></div></div>
+>
+> [[02 Cards/Creatures/Felidar Savior|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Restoration Angel`**
+> **88** / 100 · 🟡 Ordered
+> <div class="synergy-bar"><div style="width:88%"></div></div>
+>
+> [[02 Cards/Creatures/Restoration Angel|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Solemn Simulacrum`**
+> **83** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:83%"></div></div>
+>
+> [[02 Cards/Creatures/Solemn Simulacrum|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Venser, Shaper Savant`**
+> **92** / 100 · 🟡 Ordered
+> <div class="synergy-bar"><div style="width:92%"></div></div>
+>
+> [[02 Cards/Creatures/Venser, Shaper Savant|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Witch Enchanter`**
+> **87** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:87%"></div></div>
+>
+> [[02 Cards/Creatures/Witch Enchanter|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Bard, King of Dale`**
+> **80** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:80%"></div></div>
+>
+> [[02 Cards/Creatures/Bard, King of Dale|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Meteor Golem`**
+> **76** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:76%"></div></div>
+>
+> [[02 Cards/Creatures/Meteor Golem|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Instants
-> [!info] **`mtg:Opt`**
-> **90** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:90%"></div></div>
->
-> [[02 Cards/Instants/Opt|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Essence Scatter`**
-> **73** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:73%"></div></div>
->
-> [[02 Cards/Instants/Essence Scatter|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
 > [!info] **`mtg:Cloudshift`**
 > **89** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Instants/Cloudshift|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Consider`**
 > **86** / 100 · ⚪ Wishlist
@@ -392,10 +323,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Consider|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Divine Resilience`**
 > **74** / 100 · 🟢 Owned
@@ -403,7 +331,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Divine Resilience|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Essence Flux`**
 > **87** / 100 · ⚪ Wishlist
@@ -411,10 +339,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Essence Flux|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Opt`**
+> **90** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:90%"></div></div>
+>
+> [[02 Cards/Instants/Opt|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Path to Exile`**
 > **84** / 100 · ⚪ Wishlist
@@ -422,10 +355,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Path to Exile|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Disenchant`**
+> **75** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:75%"></div></div>
+>
+> [[02 Cards/Instants/Disenchant|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Dovin's Veto`**
 > **86** / 100 · ⚪ Wishlist
@@ -433,10 +371,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Dovin's Veto|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Essence Scatter`**
+> **73** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:73%"></div></div>
+>
+> [[02 Cards/Instants/Essence Scatter|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Get Lost`**
 > **84** / 100 · ⚪ Wishlist
@@ -444,10 +387,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Get Lost|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Mission Briefing`**
 > **82** / 100 · 🟢 Owned
@@ -455,18 +395,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Mission Briefing|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Momentary Blink`**
-> **85** / 100 · ⚪ Wishlist
+> **85** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Instants/Momentary Blink|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Parting Gust`**
 > **84** / 100 · ⚪ Wishlist
@@ -474,108 +411,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Parting Gust|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
-> [!info] **`mtg:Razorgrass Ambush`**
-> **81** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:81%"></div></div>
->
-> [[02 Cards/Instants/Razorgrass Ambush|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
-> [!info] **`mtg:Run Away Together`**
-> **69** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:69%"></div></div>
->
-> [[02 Cards/Instants/Run Away Together|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Divide by Zero`**
-> **78** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:78%"></div></div>
->
-> [[02 Cards/Instants/Divide by Zero|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Eerie Interlude`**
-> **89** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:89%"></div></div>
->
-> [[02 Cards/Instants/Eerie Interlude|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
-> [!info] **`mtg:Frantic Search`**
-> **86** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:86%"></div></div>
->
-> [[02 Cards/Instants/Frantic Search|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
-> [!info] **`mtg:Generous Gift`**
-> **85** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:85%"></div></div>
->
-> [[02 Cards/Instants/Generous Gift|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
-> [!info] **`mtg:Refute`**
-> **77** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:77%"></div></div>
->
-> [[02 Cards/Instants/Refute|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Sink into Stupor`**
-> **85** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:85%"></div></div>
->
-> [[02 Cards/Instants/Sink into Stupor|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
-
-> [!info] **`mtg:Mystical Teachings`**
-> **78** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:78%"></div></div>
->
-> [[02 Cards/Instants/Mystical Teachings|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Evacuation`**
-> **88** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:88%"></div></div>
->
-> [[02 Cards/Instants/Evacuation|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Instants/Essence Scatter|Essence Scatter]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Instants/Disenchant|Disenchant]] **75** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:75%"></div></div>
-> > - [[02 Cards/Instants/Personify|Personify]] **76** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:76%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Personify`**
 > **76** / 100 · 🟢 Owned
@@ -583,7 +419,87 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Personify|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Razorgrass Ambush`**
+> **81** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:81%"></div></div>
+>
+> [[02 Cards/Instants/Razorgrass Ambush|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Run Away Together`**
+> **69** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:69%"></div></div>
+>
+> [[02 Cards/Instants/Run Away Together|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Divide by Zero`**
+> **78** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:78%"></div></div>
+>
+> [[02 Cards/Instants/Divide by Zero|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Eerie Interlude`**
+> **89** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:89%"></div></div>
+>
+> [[02 Cards/Instants/Eerie Interlude|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Frantic Search`**
+> **86** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:86%"></div></div>
+>
+> [[02 Cards/Instants/Frantic Search|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Generous Gift`**
+> **85** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:85%"></div></div>
+>
+> [[02 Cards/Instants/Generous Gift|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Refute`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Instants/Refute|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Sink into Stupor`**
+> **85** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:85%"></div></div>
+>
+> [[02 Cards/Instants/Sink into Stupor|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Mystical Teachings`**
+> **78** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:78%"></div></div>
+>
+> [[02 Cards/Instants/Mystical Teachings|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Evacuation`**
+> **88** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:88%"></div></div>
+>
+> [[02 Cards/Instants/Evacuation|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Sorceries
 > [!info] **`mtg:Preordain`**
@@ -592,10 +508,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Preordain|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Chart a Course`**
 > **76** / 100 · 🟢 Owned
@@ -603,7 +516,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Chart a Course|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Ureni's Rebuff`**
 > **74** / 100 · 🟢 Owned
@@ -611,7 +524,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Ureni's Rebuff|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Sevinne's Reclamation`**
 > **83** / 100 · 🟢 Owned
@@ -619,9 +532,23 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Sevinne's Reclamation|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Winged Words`**
+> **80** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:80%"></div></div>
+>
+> [[02 Cards/Sorceries/Winged Words|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Day of Judgment`**
+> **84** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Sorceries/Day of Judgment|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Release the Dogs`**
 > **70** / 100 · 🟢 Owned
@@ -629,7 +556,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Release the Dogs|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Supreme Verdict`**
 > **86** / 100 · ⚪ Wishlist
@@ -637,10 +564,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Supreme Verdict|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Time Wipe`**
 > **89** / 100 · 🟡 Ordered
@@ -648,18 +572,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Time Wipe|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Sorceries/Winged Words|Winged Words]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Turtles in Time|Turtles in Time]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Sorceries/Day of Judgment|Day of Judgment]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
-
-> [!info] **`mtg:Wanderwine Farewell`**
-> **70** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:70%"></div></div>
->
-> [[02 Cards/Sorceries/Wanderwine Farewell|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Turtles in Time`**
 > **80** / 100 · 🟢 Owned
@@ -667,7 +580,23 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Turtles in Time|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Wanderwine Farewell`**
+> **70** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:70%"></div></div>
+>
+> [[02 Cards/Sorceries/Wanderwine Farewell|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Wisdom of Ages`**
+> **65** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:65%"></div></div>
+>
+> [[02 Cards/Sorceries/Wisdom of Ages|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Enchantments
 > [!info] **`mtg:Authority of the Consuls`**
@@ -676,46 +605,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Enchantments/Authority of the Consuls|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Enchantments/Witness Protection|Witness Protection]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-
-> [!info] **`mtg:Banishing Light`**
-> **82** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:82%"></div></div>
->
-> [[02 Cards/Enchantments/Banishing Light|Open local page →]]
->
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Tocasia's Welcome`**
-> **84** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:84%"></div></div>
->
-> [[02 Cards/Enchantments/Tocasia's Welcome|Open local page →]]
->
-> *Cut 11/09/2026 for High Fae Trickster — named cut required to sleeve it back.*
-
-> [!info] **`mtg:Ghostly Prison`**
-> **84** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:84%"></div></div>
->
-> [[02 Cards/Enchantments/Ghostly Prison|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Enchantments/Witness Protection|Witness Protection]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Enchantments/Stormplain Detainment|Stormplain Detainment]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
-> > - [[02 Cards/Enchantments/Enchanted River's Grasp|Enchanted River's Grasp]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
-
-> [!info] **`mtg:Propaganda`**
-> **86** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:86%"></div></div>
->
-> [[02 Cards/Enchantments/Propaganda|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Enchantments/Witness Protection|Witness Protection]] **80** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:80%"></div></div>
-> > - [[02 Cards/Enchantments/Stormplain Detainment|Stormplain Detainment]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
-> > - [[02 Cards/Enchantments/Enchanted River's Grasp|Enchanted River's Grasp]] **82** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:82%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Witness Protection`**
 > **80** / 100 · 🟢 Owned
@@ -723,19 +613,56 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Enchantments/Witness Protection|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Banishing Light`**
+> **82** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:82%"></div></div>
+>
+> [[02 Cards/Enchantments/Banishing Light|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Ghostly Prison`**
+> **84** / 100 · ⚪ Wishlist
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Enchantments/Ghostly Prison|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Stormplain Detainment`**
+> **82** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:82%"></div></div>
+>
+> [[02 Cards/Enchantments/Stormplain Detainment|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Tocasia's Welcome`**
+> **84** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Enchantments/Tocasia's Welcome|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Artifacts
-> [!info] **`mtg:Arcane Signet`**
-> **86** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:86%"></div></div>
+> [!info] **`mtg:Soul-Guide Lantern`**
+> **79** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:79%"></div></div>
 >
-> [[02 Cards/Artifacts/Arcane Signet|Open local page →]]
+> [[02 Cards/Artifacts/Soul-Guide Lantern|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
-> > - [[02 Cards/Artifacts/Swiftfoot Boots|Swiftfoot Boots]] **84** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:84%"></div></div>
-> > - [[02 Cards/Artifacts/Azorius Signet|Azorius Signet]] **85** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:85%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Wayfarer's Bauble`**
+> **81** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:81%"></div></div>
+>
+> [[02 Cards/Artifacts/Wayfarer's Bauble|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Mind Stone`**
 > **81** / 100 · ⚪ Wishlist
@@ -743,8 +670,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Artifacts/Mind Stone|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Sapphire Medallion`**
 > **84** / 100 · ⚪ Wishlist
@@ -752,19 +678,23 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Artifacts/Sapphire Medallion|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
-> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Talisman of Progress`**
+> **85** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:85%"></div></div>
+>
+> [[02 Cards/Artifacts/Talisman of Progress|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Thought Vessel`**
-> **85** / 100 · ⚪ Wishlist
+> **85** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Artifacts/Thought Vessel|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
-> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Conjurer's Closet`**
 > **85** / 100 · ⚪ Wishlist
@@ -772,17 +702,24 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Artifacts/Conjurer's Closet|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Artifacts/Soul-Guide Lantern|Soul-Guide Lantern]] **79** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:79%"></div></div>
-> > - [[02 Cards/Artifacts/Wayfarer's Bauble|Wayfarer's Bauble]] **81** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:81%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
+### Lands
 > [!info] **`mtg:Adarkar Wastes`**
-> **85** / 100 · ⚪ Will not buy
+> **85** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Lands/Adarkar Wastes|Open local page →]]
 >
-> *Will not buy. Not an incoming dual. Land count is a playtest watch, not this card arriving.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Azorius Guildgate`**
+> **72** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:72%"></div></div>
+>
+> [[02 Cards/Lands/Azorius Guildgate|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Cryptic Caves`**
 > **67** / 100 · 🟢 Owned
@@ -790,40 +727,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Cryptic Caves|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
-> [!info] **`mtg:Deserted Beach`**
-> **83** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:83%"></div></div>
+> [!info] **`mtg:Evolving Wilds`**
+> **73** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:73%"></div></div>
 >
-> [[02 Cards/Lands/Deserted Beach|Open local page →]]
+> [[02 Cards/Lands/Evolving Wilds|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
-
-> [!info] **`mtg:Eiganjo, Seat of the Empire`**
-> **86** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:86%"></div></div>
->
-> [[02 Cards/Lands/Eiganjo, Seat of the Empire|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
-
-> [!info] **`mtg:Glacial Fortress`**
-> **84** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:84%"></div></div>
->
-> [[02 Cards/Lands/Glacial Fortress|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Hengegate Pathway`**
 > **85** / 100 · ⚪ Wishlist
@@ -831,10 +743,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Hengegate Pathway|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Hidden Grotto`**
 > **67** / 100 · 🟢 Owned
@@ -842,18 +751,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Hidden Grotto|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
-
-> [!info] **`mtg:Irrigated Farmland`**
-> **80** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:80%"></div></div>
->
-> [[02 Cards/Lands/Irrigated Farmland|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Meticulous Archive`**
 > **85** / 100 · ⚪ Wishlist
@@ -861,40 +759,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Meticulous Archive|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Otawara, Soaring City`**
-> **89** / 100 · ⚪ Will not buy
+> **89** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Lands/Otawara, Soaring City|Open local page →]]
 >
-> *Will not buy. Not an incoming dual. Land count is a playtest watch, not this card arriving.*
-
-> [!info] **`mtg:Port Town`**
-> **82** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:82%"></div></div>
->
-> [[02 Cards/Lands/Port Town|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
-
-> [!info] **`mtg:Prairie Stream`**
-> **84** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:84%"></div></div>
->
-> [[02 Cards/Lands/Prairie Stream|Open local page →]]
->
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Reliquary Tower`**
 > **84** / 100 · ⚪ Wishlist
@@ -902,10 +775,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Reliquary Tower|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Riptide Laboratory`**
 > **84** / 100 · ⚪ Wishlist
@@ -913,10 +783,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Riptide Laboratory|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Sea of Clouds`**
 > **82** / 100 · ⚪ Wishlist
@@ -924,21 +791,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Sea of Clouds|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Seachrome Coast`**
-> **83** / 100 · ⚪ Wishlist
+> **83** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:83%"></div></div>
 >
 > [[02 Cards/Lands/Seachrome Coast|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Skycloud Expanse`**
 > **82** / 100 · ⚪ Wishlist
@@ -946,15 +807,12 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Skycloud Expanse|Open local page →]]
 >
-> > [!note]- Possible Cuts
-> > - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-> > - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:71%"></div></div>
-> > - [[02 Cards/Lands/Island|Island]] **72** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:72%"></div></div>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
-> [!info] **`mtg:Soul-Guide Lantern`**
-> **79** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:79%"></div></div>
+> [!info] **`mtg:Terramorphic Expanse`**
+> **73** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:73%"></div></div>
 >
-> [[02 Cards/Artifacts/Soul-Guide Lantern|Open local page →]]
+> [[02 Cards/Lands/Terramorphic Expanse|Open local page →]]
 >
-> *Stay in sideboard / already cut — no main-deck swap suggested.*
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*

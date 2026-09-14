@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**384** copies · **133** names.
+**397** copies · **135** names.
 
 ```decklist
 group: auto
@@ -44,6 +44,7 @@ legality: commander
 1 Dragonskull Summit
 1 Dreamroot Cascade
 4 Eclipsed Realms
+1 Eiganjo, Seat of the Empire
 2 Elvenking's Halls
 1 Emeria, the Sky Ruin
 3 Evolving Wilds
@@ -52,9 +53,10 @@ legality: commander
 1 Fetid Heath
 4 Fields of Strife
 1 Floodfarm Verge
-41 Forest
+45 Forest
 1 Fortified Village
 3 Forum of Amity
+1 Gathering Place
 1 Glacial Fortress
 3 Goblin-town
 1 Godless Shrine
@@ -69,7 +71,7 @@ legality: commander
 1 Hobbit Hole
 2 Iron Hills
 1 Irrigated Farmland
-41 Island
+42 Island
 2 Isolated Chapel
 1 Izzet Guildgate
 4 Jungle Hollow
@@ -78,7 +80,7 @@ legality: commander
 1 Meditation Pools
 1 Mirkwood
 1 Mosswort Bridge
-30 Mountain
+32 Mountain
 1 Myriad Landscape
 1 Mystic Sanctuary
 1 Nomad Outpost
@@ -90,7 +92,7 @@ legality: commander
 2 Path of Ancestry
 1 Peculiar Lighthouse
 1 Petrified Hamlet
-31 Plains
+33 Plains
 1 Port Town
 1 Prairie Stream
 1 Radiant Fountain
@@ -117,7 +119,7 @@ legality: commander
 1 Smoldering Marsh
 3 Spectacle Summit
 1 Sundown Pass
-41 Swamp
+43 Swamp
 3 Swiftwater Cliffs
 1 Takenuma, Abandoned Mire
 1 Temple Garden

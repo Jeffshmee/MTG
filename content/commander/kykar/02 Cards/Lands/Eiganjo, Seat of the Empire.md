@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Eiganjo, Seat of the Empire`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Legendary Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:86%"></div></div>
 >
-> ![Eiganjo](https://cards.scryfall.io/border_crop/front/c/3/c375a022-5b57-496d-a802-e4ea8376e9e4.jpg)
+> ![Eiganjo, Seat of the Empire](https://cards.scryfall.io/border_crop/front/c/3/c375a022-5b57-496d-a802-e4ea8376e9e4.jpg)
 >
 > ### Deck Scores
 >
@@ -49,13 +49,13 @@
 
 ## Deck Role & Rating
 
-Eiganjo, Seat of the Empire is a mana source for this Azorius pile. Plains plus exile a tapped creature. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. It is not in the owned 65 yet.
+Eiganjo, Seat of the Empire is a mana source for this Azorius pile. Plains plus exile a tapped creature. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. Sleeved 14/09/2026.
 
 ## Play Patterns & Lines
 
 - Sequence it so Kykar is {W}{U} on time. Live base is 8 Island / 6 Plains plus Tower.
 - Tapped duals are keepable while the buy list still holds Fountain / Otawara / Verge. Do not flood on Guildgate plus Cove plus Temple.
-- Not in the owned 65. Duals are the manabase hole.
+- In hand on the sideboard. Named cut required; 100 is full.
 
 ## Key Synergies
 
@@ -65,7 +65,7 @@ Eiganjo, Seat of the Empire is a mana source for this Azorius pile. Plains plus 
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 14/09/2026.
 
 ## Related Pages
 
@@ -88,7 +88,7 @@ Eiganjo, Seat of the Empire is a mana source for this Azorius pile. Plains plus 
 > colors: []
 > color_identity: ["W"]
 > keywords: ["Channel"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 88
 >   deck_specific: 84
@@ -96,7 +96,7 @@ Eiganjo, Seat of the Empire is a mana source for this Azorius pile. Plains plus 
 > scryfall_id: c375a022-5b57-496d-a802-e4ea8376e9e4
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

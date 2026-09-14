@@ -2,7 +2,7 @@
 
 Cards whose mana value is 3.
 
-**395** copies · **303** names.
+**397** copies · **305** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -166,6 +166,7 @@ Cards whose mana value is 3.
 | [**`mtg:Matterbending Mage`**](https://scryfall.com/card/sos/59) | [[02 Cards/Creatures/Matterbending Mage\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Meek Attack`**](https://scryfall.com/card/ecl/151) | [[02 Cards/Enchantments/Meek Attack\|PAGE]] | {2}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.51 |
 | [**`mtg:Mentor of the Meek`**](https://scryfall.com/card/inr/34) | [[02 Cards/Creatures/Mentor of the Meek\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.20 |
+| [**`mtg:Midnight Clock`**](https://scryfall.com/card/sld/2217) | [[02 Cards/Artifacts/Midnight Clock\|PAGE]] | {2}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.74 |
 | [**`mtg:Midnight Reaper`**](https://scryfall.com/card/fdn/609) | [[02 Cards/Creatures/Midnight Reaper\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |
 | [**`mtg:Midnight Snack`**](https://scryfall.com/card/fdn/65) | [[02 Cards/Enchantments/Midnight Snack\|PAGE]] | {2}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Mind Roots`**](https://scryfall.com/card/sos/203) | [[02 Cards/Sorceries/Mind Roots\|PAGE]] | {1}{B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
@@ -218,6 +219,7 @@ Cards whose mana value is 3.
 | [**`mtg:Refute`**](https://scryfall.com/card/fdn/313) | [[02 Cards/Instants/Refute\|PAGE]] | {1}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.25 |
 | [**`mtg:Rehearsed Debater`**](https://scryfall.com/card/sos/29) | [[02 Cards/Creatures/Rehearsed Debater\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.18 |
 | [**`mtg:Reluctant Dounguard`**](https://scryfall.com/card/ecl/31) | [[02 Cards/Creatures/Reluctant Dounguard\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kithkin\|Kithkin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
+| [**`mtg:Rem Karolus, Stalwart Slayer`**](https://scryfall.com/card/dbl/235) | [[02 Cards/Creatures/Rem Karolus, Stalwart Slayer\|PAGE]] | {1}{R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.37 |
 | [**`mtg:Reverent Howl`**](https://scryfall.com/card/hob/81) | [[02 Cards/Instants/Reverent Howl\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.10 |
 | [**`mtg:Rhovanion Rampager`**](https://scryfall.com/card/hob/82) | [[02 Cards/Creatures/Rhovanion Rampager\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Roamer's Routine`**](https://scryfall.com/card/tdm/154) | [[02 Cards/Sorceries/Roamer's Routine\|PAGE]] | {2}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |

@@ -36,6 +36,7 @@
 | 04/09/2026 | MageCards · Axion_Now |
 | 05/09/2026 | MageCards · MtgGambit |
 | 08/09/2026 | Booster haul |
+| 14/09/2026 | Cardmarket · Nikolcia01 |
 
 </div>
 
@@ -44,7 +45,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>41</div>
+<div class="synergy-score-num"><span>Copies</span>43</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -53,11 +54,10 @@
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>281</td><td>—</td><td>2</td><td>Box</td><td>0.15</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>276</td><td>—</td><td>7</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>277</td><td>—</td><td>8</td><td>Box</td><td>0.09</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>1</td><td>Box</td><td>0.24</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>2</td><td>Box</td><td>0.24</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>281</td><td>—</td><td>1</td><td>Maralen</td><td>0.15</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>1</td><td>Maralen</td><td>0.24</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>276</td><td>—</td><td>1</td><td>Zurgo</td><td>0.18</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>1</td><td>Zurgo</td><td>0.24</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>286</td><td>—</td><td>1</td><td>Zurgo</td><td>0.67</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>191</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>276</td><td>foil</td><td>1</td><td>Maralen</td><td>0.14</td></tr>
@@ -75,6 +75,8 @@
 <tr><td>Foundations (<code>FDN</code>)</td><td>277</td><td>foil</td><td>1</td><td>Ayli</td><td>0.20</td></tr>
 <tr><td>Magic Origins (<code>ORI</code>)</td><td>263</td><td>foil</td><td>1</td><td>Ayli</td><td>0.26</td></tr>
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>281</td><td>foil</td><td>1</td><td>Ayli</td><td>0.08</td></tr>
+<tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>282</td><td>foil</td><td>1</td><td>Box</td><td>0.13</td></tr>
+<tr><td>Phyrexia: All Will Be One (<code>ONE</code>)</td><td>274</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.12</td></tr>
 </tbody>
 </table>
 </div>
@@ -112,12 +114,12 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>TDM 282 · ×3</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/0/3/0306607d-2a42-4008-ac84-8d3ed91fe3aa.jpg" alt="Swamp DMU 270 · ×1">
-<figcaption>DMU 270 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/c/b/cbd95de0-702a-4b88-a1cc-981cf1d9673e.jpg" alt="Swamp DSK 282 · ×2">
+<figcaption>DSK 282 · ×2</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/c/b/cbd95de0-702a-4b88-a1cc-981cf1d9673e.jpg" alt="Swamp DSK 282 · ×1">
-<figcaption>DSK 282 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/0/3/0306607d-2a42-4008-ac84-8d3ed91fe3aa.jpg" alt="Swamp DMU 270 · ×1">
+<figcaption>DMU 270 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/d/1dd4d605-02a2-4183-b191-0bca8dfbf962.jpg" alt="Swamp ECL 271 · ×1">
@@ -152,6 +154,10 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>MKM 281 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/4/d485c620-f1fb-4715-b7c5-d2d56588308d.jpg" alt="Swamp ONE 274 · ×1">
+<figcaption>ONE 274 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/a/6/a63b7238-ebdc-4dd8-b799-1ca33c14163b.jpg" alt="Swamp ORI 263 · ×1">
 <figcaption>ORI 263 · ×1</figcaption>
 </figure>
@@ -175,7 +181,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ELD|Throne of Eldraine]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/ORI|Magic Origins]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ELD|Throne of Eldraine]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/ORI|Magic Origins]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]]
 
 ---
 
@@ -188,7 +194,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Swamp"
 > scryfall_id: 13505c15-14e0-4200-82bd-fb9bce949e68
-> quantity: 41
+> quantity: 43
 > tags:
 >   - card
 >   - collection

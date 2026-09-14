@@ -2,7 +2,7 @@
 
 Copies in **Zurgo SB**.
 
-**27** copies · **27** names.
+**28** copies · **28** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -16,6 +16,7 @@ Copies in **Zurgo SB**.
 | [**`mtg:Deadly Dispute`**](https://scryfall.com/card/tdc/177) | [[02 Cards/Instants/Deadly Dispute\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.49 |
 | [**`mtg:Goblin Negotiation`**](https://scryfall.com/card/fdn/88) | [[02 Cards/Sorceries/Goblin Negotiation\|PAGE]] | {X}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
 | [**`mtg:Grenzo, Havoc Raiser`**](https://scryfall.com/card/tdc/216) | [[02 Cards/Creatures/Grenzo, Havoc Raiser\|PAGE]] | {R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.24 |
+| [**`mtg:Mindblade Render`**](https://scryfall.com/card/tdc/187) | [[02 Cards/Creatures/Mindblade Render\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Azra\|Azra]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
 | [**`mtg:Shadow Summoning`**](https://scryfall.com/card/tdc/101) | [[02 Cards/Sorceries/Shadow Summoning\|PAGE]] | {W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
 | [**`mtg:Anafenza, Unyielding Lineage`**](https://scryfall.com/card/tdm/2) | [[02 Cards/Creatures/Anafenza, Unyielding Lineage\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
 | [**`mtg:Nightblade Brigade`**](https://scryfall.com/card/tdm/85) | [[02 Cards/Creatures/Nightblade Brigade\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |

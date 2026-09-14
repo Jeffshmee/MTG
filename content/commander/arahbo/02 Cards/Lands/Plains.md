@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Plains](https://cards.scryfall.io/border_crop/front/1/2/12cff32a-a365-43ee-a196-8ce32b3bb9fd.jpg)
+> ![Plains](https://cards.scryfall.io/border_crop/front/3/7/37edc4b5-75f5-4b43-a57e-a8192565a2a0.jpg)
 >
 > ### Deck Scores
 >
@@ -63,6 +63,29 @@
 
 - Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
 
+### Arts in this Deck
+
+Printings sleeved in this 100. Infocard uses the most copies.
+
+<div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/7/37edc4b5-75f5-4b43-a57e-a8192565a2a0.jpg" alt="Plains FDN 273 · ×1">
+<figcaption>FDN 273 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/7/37edc4b5-75f5-4b43-a57e-a8192565a2a0.jpg" alt="Plains SOS 272 · ×1">
+<figcaption>SOS 272 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/7/37edc4b5-75f5-4b43-a57e-a8192565a2a0.jpg" alt="Plains FDN 272 · ×1">
+<figcaption>FDN 272 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/7/37edc4b5-75f5-4b43-a57e-a8192565a2a0.jpg" alt="Plains FDN 282 · ×1">
+<figcaption>FDN 282 · ×1</figcaption>
+</figure>
+</div>
+
 ## Related Pages
 
 - [[01 Deck/Current Deck|Current Deck]]
@@ -89,7 +112,7 @@
 >   general: 70
 >   deck_specific: 70
 >   combined: 70
-> scryfall_id: 12cff32a-a365-43ee-a196-8ce32b3bb9fd
+> scryfall_id: 37edc4b5-75f5-4b43-a57e-a8192565a2a0
 > tags:
 >   - card
 >   - main-deck

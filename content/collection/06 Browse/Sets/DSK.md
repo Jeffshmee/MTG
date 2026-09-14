@@ -2,13 +2,16 @@
 
 Set `DSK`. Qty here is copies of this name from this set.
 
-**31** copies · **31** names.
+**36** copies · **34** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Floodfarm Verge`**](https://scryfall.com/card/dsk/259) | [[02 Cards/Lands/Floodfarm Verge\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.64 |
+| [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.24 |
+| [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.17 |
 | [**`mtg:Peculiar Lighthouse`**](https://scryfall.com/card/dsk/265) | [[02 Cards/Lands/Peculiar Lighthouse\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.08 |
-| [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.13 |
+| [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.10 |
+| [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.26 |
 | [**`mtg:Bear Trap`**](https://scryfall.com/card/dsk/243) | [[02 Cards/Artifacts/Bear Trap\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.05 |
 | [**`mtg:Clockwork Percussionist`**](https://scryfall.com/card/dsk/130) | [[02 Cards/Creatures/Clockwork Percussionist\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Monkey\|Monkey]] [[04 Creature Types/Toy\|Toy]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.12 |
 | [**`mtg:Enter the Enigma`**](https://scryfall.com/card/dsk/52) | [[02 Cards/Sorceries/Enter the Enigma\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.18 |

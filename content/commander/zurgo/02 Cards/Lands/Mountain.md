@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:70%"></div></div>
 >
-> ![Mountain](https://cards.scryfall.io/border_crop/front/0/4/042b04b4-f7f4-4c1a-86ad-b50d788aa99e.jpg)
+> ![Mountain](https://cards.scryfall.io/border_crop/front/b/b/bb4004c8-c3d9-494e-a257-6d8443cbf1b7.jpg)
 >
 > ### Deck Scores
 >
@@ -69,24 +69,24 @@ Printings sleeved in this 100. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/f/bfa10a88-12e0-4b79-80bb-6f4620277e20.jpg" alt="Mountain TDM 283 · ×1">
+<img src="https://cards.scryfall.io/border_crop/front/b/b/bb4004c8-c3d9-494e-a257-6d8443cbf1b7.jpg" alt="Mountain TDM 283 · ×1">
 <figcaption>TDM 283 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/3/a/3a3afd00-da06-4a9f-8cd1-7133728e0fdd.jpg" alt="Mountain FDN 288 · ×1">
-<figcaption>FDN 288 · ×1</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/0/4/042b04b4-f7f4-4c1a-86ad-b50d788aa99e.jpg" alt="Mountain FDN 289 · ×1">
-<figcaption>FDN 289 · ×1</figcaption>
-</figure>
-<figure>
-<img src="https://cards.scryfall.io/border_crop/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.jpg" alt="Mountain SOS 270 · ×1">
+<img src="https://cards.scryfall.io/border_crop/front/b/b/bb4004c8-c3d9-494e-a257-6d8443cbf1b7.jpg" alt="Mountain SOS 270 · ×1">
 <figcaption>SOS 270 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/b/bb4004c8-c3d9-494e-a257-6d8443cbf1b7.jpg" alt="Mountain M19 276 foil · ×1">
 <figcaption>M19 276 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/b/bb4004c8-c3d9-494e-a257-6d8443cbf1b7.jpg" alt="Mountain LTR 268 foil · ×1">
+<figcaption>LTR 268 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/b/b/bb4004c8-c3d9-494e-a257-6d8443cbf1b7.jpg" alt="Mountain LTR 269 foil · ×1">
+<figcaption>LTR 269 foil · ×1</figcaption>
 </figure>
 </div>
 
@@ -113,7 +113,7 @@ Printings sleeved in this 100. Infocard uses the most copies.
 >   general: 70
 >   deck_specific: 70
 >   combined: 70
-> scryfall_id: 042b04b4-f7f4-4c1a-86ad-b50d788aa99e
+> scryfall_id: bb4004c8-c3d9-494e-a257-6d8443cbf1b7
 > tags:
 >   - card
 >   - main-deck

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mindblade Render`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{B}  
 > **Type:** Creature — Azra Warrior  
 > **P/T:** 1/3  
@@ -92,7 +92,7 @@ Mindblade Render is cheap Warrior combat-damage draw. One card and 1 life whenev
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 75
 >   deck_specific: 82
@@ -100,7 +100,7 @@ Mindblade Render is cheap Warrior combat-damage draw. One card and 1 life whenev
 > scryfall_id: 27e43b25-9a9e-4bfc-9589-77d1f53a3c4b
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

@@ -2,7 +2,7 @@
 
 Every **Creatures** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**48** copies · **48** names.
+**49** copies · **49** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -25,8 +25,9 @@ Every **Creatures** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Legion Warboss`**](https://scryfall.com/card/tdc/220) | [[02 Cards/Creatures/Legion Warboss\|PAGE]] | {2}{R} | [[04 Types/Creature\|Creature]] [[04 Types/Goblin\|Goblin]] [[04 Types/Soldier\|Soldier]] | [[05 Colours/Red\|Red]] | 3 | 1 | 0.32 |
 | [**`mtg:Morbid Opportunist`**](https://scryfall.com/card/soc/219) | [[02 Cards/Creatures/Morbid Opportunist\|PAGE]] | {2}{B} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | 3 | 1 | 0.22 |
 | [**`mtg:Nightblade Brigade`**](https://scryfall.com/card/tdm/85) | [[02 Cards/Creatures/Nightblade Brigade\|PAGE]] | {2}{B} | [[04 Types/Creature\|Creature]] [[04 Types/Goblin\|Goblin]] [[04 Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | 3 | 1 | 0.03 |
-| [**`mtg:Ophiomancer`**](https://scryfall.com/card/soc/118) | [[02 Cards/Creatures/Ophiomancer\|PAGE]] | {2}{B} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Shaman\|Shaman]] | [[05 Colours/Black\|Black]] | 3 | 1 | 0.94 |
+| [**`mtg:Ophiomancer`**](https://scryfall.com/card/soc/118) | [[02 Cards/Creatures/Ophiomancer\|PAGE]] | {2}{B} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Shaman\|Shaman]] | [[05 Colours/Black\|Black]] | 3 | 1 | 3.37 |
 | [**`mtg:Redoubled Stormsinger`**](https://scryfall.com/card/soc/251) | [[02 Cards/Creatures/Redoubled Stormsinger\|PAGE]] | {2}{R} | [[04 Types/Creature\|Creature]] [[04 Types/Orc\|Orc]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | 3 | 1 | 0.25 |
+| [**`mtg:Rem Karolus, Stalwart Slayer`**](https://scryfall.com/card/mid/235) | [[02 Cards/Creatures/Rem Karolus, Stalwart Slayer\|PAGE]] | {1}{R}{W} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Knight\|Knight]] | [[05 Colours/Red\|Red]] [[05 Colours/White\|White]] | 3 | 1 | 0.37 |
 | [**`mtg:Twilight Drover`**](https://scryfall.com/card/tdc/136) | [[02 Cards/Creatures/Twilight Drover\|PAGE]] | {2}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Spirit\|Spirit]] | [[05 Colours/White\|White]] | 3 | 1 | 0.17 |
 | [**`mtg:Yahenni, Undying Partisan`**](https://scryfall.com/card/soc/232) | [[02 Cards/Creatures/Yahenni, Undying Partisan\|PAGE]] | {2}{B} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Aetherborn\|Aetherborn]] [[04 Types/Vampire\|Vampire]] | [[05 Colours/Black\|Black]] | 3 | 1 | 0.24 |
 | [**`mtg:Zurgo Stormrender`**](https://scryfall.com/card/tdc/10) | [[02 Cards/Creatures/Zurgo Stormrender\|PAGE]] | {R}{W}{B} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Orc\|Orc]] [[04 Types/Warrior\|Warrior]] | [[05 Colours/Black\|Black]] [[05 Colours/Red\|Red]] [[05 Colours/White\|White]] | 3 | 1 | 2.52 |

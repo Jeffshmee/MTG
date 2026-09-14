@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Maralen, Fae Ascendant
-99 + 1 = 100 cards
+99 + 1 = 100 cards (target 100).
 
 ```decklist
 group: auto
@@ -12,7 +12,7 @@ legality: commander
 
 # Creatures
 1 Arbor Elf
-1 Elvish Mystic
+1 Deathrite Shaman
 1 Llanowar Elves
 1 Virulent Emissary
 1 Bitterbloom Bearer
@@ -107,7 +107,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/current-deck.md`*
-*Last synced: 2026-09-07 (sleeved 100)*
+*Last synced: 2026-09-14 (Deathrite)*
 
 ---
 
@@ -118,7 +118,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 
 ### Creatures
 - [[02 Cards/Creatures/Arbor Elf|Arbor Elf]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
-- [[02 Cards/Creatures/Elvish Mystic|Elvish Mystic]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
+- [[02 Cards/Creatures/Deathrite Shaman|Deathrite Shaman]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Llanowar Elves|Llanowar Elves]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Virulent Emissary|Virulent Emissary]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>

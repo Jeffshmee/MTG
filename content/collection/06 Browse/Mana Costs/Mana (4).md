@@ -2,7 +2,7 @@
 
 Cards whose mana value is 4.
 
-**250** copies · **192** names.
+**251** copies · **193** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -149,6 +149,7 @@ Cards whose mana value is 4.
 | [**`mtg:Soul Enervation`**](https://scryfall.com/card/mkm/106) | [[02 Cards/Enchantments/Soul Enervation\|PAGE]] | {3}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.11 |
 | [**`mtg:Southern Air Temple`**](https://scryfall.com/card/tla/36) | [[02 Cards/Enchantments/Southern Air Temple\|PAGE]] | {3}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.13 |
 | [**`mtg:Sovereign Okinec Ahau`**](https://scryfall.com/card/lci/240) | [[02 Cards/Creatures/Sovereign Okinec Ahau\|PAGE]] | {2}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.50 |
+| [**`mtg:Sower of Temptation`**](https://scryfall.com/card/sld/120) | [[02 Cards/Creatures/Sower of Temptation\|PAGE]] | {2}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 4.64 |
 | [**`mtg:Spectacular Skywhale`**](https://scryfall.com/card/sos/229) | [[02 Cards/Creatures/Spectacular Skywhale\|PAGE]] | {2}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Whale\|Whale]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
 | [**`mtg:Spellbook Seeker`**](https://scryfall.com/card/sos/68) | [[02 Cards/Creatures/Spellbook Seeker\|PAGE]] | {3}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.10 |
 | [**`mtg:Spitfire Lagac`**](https://scryfall.com/card/fdn/208) | [[02 Cards/Creatures/Spitfire Lagac\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Lizard\|Lizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.06 |

@@ -72,8 +72,12 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figcaption>MH3 308 foil · ×2</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/c/5/c52038c8-5bba-4d8e-845f-30af44300acc.jpg" alt="Forest FIN 308 foil · ×2">
-<figcaption>FIN 308 foil · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/c/5/c52038c8-5bba-4d8e-845f-30af44300acc.jpg" alt="Forest FIN 308 foil · ×1">
+<figcaption>FIN 308 foil · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/e/8/e84c0880-728d-4ac2-b685-4f18f66c24db.jpg" alt="Forest DSK 285 foil · ×1">
+<figcaption>DSK 285 foil · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/b/bbbeb57d-5fa0-4ff7-b5e8-caafc139669b.jpg" alt="Forest FDN 290 foil · ×1">

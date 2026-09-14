@@ -44,22 +44,6 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Stonehorn Dignitary`**](https://scryfall.com/card/m12/37) | [[02 Cards/Creatures/Stonehorn Dignitary\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] | Kykar | M12 37 (webuyanycard). Combined 83. Named cut required. |
 | [**`mtg:Teysa, Orzhov Scion`**](https://scryfall.com/card/gpt/134) | [[02 Cards/Creatures/Teysa, Orzhov Scion\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] | Ayli | Ayli first-sleeve. |
 | [**`mtg:Unbreakable Formation`**](https://scryfall.com/card/rvr/32) | [[02 Cards/Instants/Unbreakable Formation\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | Arahbo | Arahbo first-sleeve. scan RVR 32 (webuyanycard); ordered CMR 388. |
-| [**`mtg:Essence Channeler`**](https://scryfall.com/card/blb/12) | [[02 Cards/Creatures/Essence Channeler\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] | Ayli | BLB 12 foil extra. Combined 85. Not a token maker — grows on lifegain |
-| [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/hou/2) | [[02 Cards/Tokens/Adorned Pouncer\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Arahbo | HOU 2 creature (extra, no outstanding lot). Combined 85. The THOU 1 in Box is still the token. Arahbo first-sleeve. |
-| [**`mtg:Moonrise Cleric`**](https://scryfall.com/card/blb/226) | [[02 Cards/Creatures/Moonrise Cleric\|PAGE]] | {1}{W/B}{W/B} | [[03 Card Types/Creature\|Creature]] | Ayli | BLB 226 extra. Combined 75. Cleric |
-| [**`mtg:Sazh's Chocobo`**](https://scryfall.com/card/fin/200) | [[02 Cards/Creatures/Sazh's Chocobo\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] | Box | Extra. Box. |
-| [**`mtg:Cryoshatter`**](https://scryfall.com/card/eoe/53) | [[02 Cards/Enchantments/Cryoshatter\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | Box | Extra. Box. |
-| [**`mtg:Propaganda`**](https://scryfall.com/card/m3c/191) | [[02 Cards/Enchantments/Propaganda\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | Kykar | M3C 191 extra (no outstanding lot). Combined 86. Kykar buy-rank 4. Named cut required. |
-| [**`mtg:Gathering Stone`**](https://scryfall.com/card/ecl/257) | [[02 Cards/Artifacts/Gathering Stone\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | Arahbo | ECL 257 foil extra. Combined 82. Cat-typed Horn at {4}: discount + ETB/upkeep look. Arahbo first-sleeve (Horn is also in this haul). |
-| [**`mtg:Undercover Skrull`**](https://scryfall.com/card/msh/194) | [[02 Cards/Creatures/Undercover Skrull\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] | Box | Extra. Box. |
-| [**`mtg:Depower`**](https://scryfall.com/card/msh/50) | [[02 Cards/Instants/Depower\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | Box | Extra. Box. |
-| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Box | NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Elemental`**](https://scryfall.com/card/tsos/2) | [[02 Cards/Tokens/Elemental\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Box | NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Spirit`**](https://scryfall.com/card/ttdc/6) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Box | NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Faerie`**](https://scryfall.com/card/tfdn/9) | [[02 Cards/Tokens/Faerie\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Box | NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Treasure`**](https://scryfall.com/card/tdsk/15) | [[02 Cards/Tokens/Treasure\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Box | NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Thopter`**](https://scryfall.com/card/tsoc/28) | [[02 Cards/Tokens/Thopter\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Box | NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Gnome`**](https://scryfall.com/card/teoc/11) | [[02 Cards/Tokens/Gnome\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Box | NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
 
 ## Contents
 
@@ -146,29 +130,29 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 
 **9** copies · **9** cards.
 
-| Name | | Mana | Type | Rarity | Foil | Qty | Est. Price (GBP) | Note |
-|------|--|------|------|--------|------|-----|------------------|------|
-| [**`mtg:Essence Channeler`**](https://scryfall.com/card/blb/12) | [[02 Cards/Creatures/Essence Channeler\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 1.00 | **Ayli:** BLB 12 foil extra. Combined 85. Not a token maker — grows on lifegain |
-| [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/hou/2) | [[02 Cards/Tokens/Adorned Pouncer\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Rare | — | 1 | 0.40 | **Arahbo:** HOU 2 creature (extra, no outstanding lot). Combined 85. The THOU 1 in Box is still the token. Arahbo first-sleeve. |
-| [**`mtg:Moonrise Cleric`**](https://scryfall.com/card/blb/226) | [[02 Cards/Creatures/Moonrise Cleric\|PAGE]] | {1}{W/B}{W/B} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.13 | **Ayli:** BLB 226 extra. Combined 75. Cleric |
-| [**`mtg:Sazh's Chocobo`**](https://scryfall.com/card/fin/200) | [[02 Cards/Creatures/Sazh's Chocobo\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.56 | **Box:** Extra. Box. |
-| [**`mtg:Cryoshatter`**](https://scryfall.com/card/eoe/53) | [[02 Cards/Enchantments/Cryoshatter\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | Common | foil | 1 | 0.14 | **Box:** Extra. Box. |
-| [**`mtg:Propaganda`**](https://scryfall.com/card/m3c/191) | [[02 Cards/Enchantments/Propaganda\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | Uncommon | — | 1 | 2.13 | **Kykar:** M3C 191 extra (no outstanding lot). Combined 86. Kykar buy-rank 4. Named cut required. |
-| [**`mtg:Gathering Stone`**](https://scryfall.com/card/ecl/257) | [[02 Cards/Artifacts/Gathering Stone\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | Uncommon | foil | 1 | 0.50 | **Arahbo:** ECL 257 foil extra. Combined 82. Cat-typed Horn at {4}: discount + ETB/upkeep look. Arahbo first-sleeve (Horn is also in this haul). |
-| [**`mtg:Undercover Skrull`**](https://scryfall.com/card/msh/194) | [[02 Cards/Creatures/Undercover Skrull\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.09 | **Box:** Extra. Box. |
-| [**`mtg:Depower`**](https://scryfall.com/card/msh/50) | [[02 Cards/Instants/Depower\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | Common | — | 1 | 0.03 | **Box:** Extra. Box. |
+| Name | | Mana | Type | Rarity | Foil | Qty | Est. Price (GBP) |
+|------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Essence Channeler`**](https://scryfall.com/card/blb/12) | [[02 Cards/Creatures/Essence Channeler\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] | Rare | foil | 1 | 1.00 |
+| [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/hou/2) | [[02 Cards/Tokens/Adorned Pouncer\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Rare | — | 1 | 0.40 |
+| [**`mtg:Moonrise Cleric`**](https://scryfall.com/card/blb/226) | [[02 Cards/Creatures/Moonrise Cleric\|PAGE]] | {1}{W/B}{W/B} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.13 |
+| [**`mtg:Sazh's Chocobo`**](https://scryfall.com/card/fin/200) | [[02 Cards/Creatures/Sazh's Chocobo\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.56 |
+| [**`mtg:Cryoshatter`**](https://scryfall.com/card/eoe/53) | [[02 Cards/Enchantments/Cryoshatter\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | Common | foil | 1 | 0.14 |
+| [**`mtg:Propaganda`**](https://scryfall.com/card/m3c/191) | [[02 Cards/Enchantments/Propaganda\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | Uncommon | — | 1 | 2.13 |
+| [**`mtg:Gathering Stone`**](https://scryfall.com/card/ecl/257) | [[02 Cards/Artifacts/Gathering Stone\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | Uncommon | foil | 1 | 0.50 |
+| [**`mtg:Undercover Skrull`**](https://scryfall.com/card/msh/194) | [[02 Cards/Creatures/Undercover Skrull\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.09 |
+| [**`mtg:Depower`**](https://scryfall.com/card/msh/50) | [[02 Cards/Instants/Depower\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | Common | — | 1 | 0.03 |
 
 ## NuggetGaming
 
 **106** copies · **8** cards.
 
-| Name | | Mana | Type | Rarity | Foil | Qty | Est. Price (GBP) | Note |
-|------|--|------|------|--------|------|-----|------------------|------|
-| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 4 | 0.16 | **Box:** NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Elemental`**](https://scryfall.com/card/tecc/9) | [[02 Cards/Tokens/Elemental\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 4 | — | **Box:** NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Spirit`**](https://scryfall.com/card/ttdc/6) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 25 | 0.09 | **Box:** NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Faerie`**](https://scryfall.com/card/tfdn/9) | [[02 Cards/Tokens/Faerie\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 25 | — | **Box:** NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 12 | 0.14 | **Box:** NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Treasure`**](https://scryfall.com/card/tdsk/15) | [[02 Cards/Tokens/Treasure\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 12 | — | **Box:** NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Thopter`**](https://scryfall.com/card/tsoc/28) | [[02 Cards/Tokens/Thopter\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 12 | — | **Box:** NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
-| [**`mtg:Gnome`**](https://scryfall.com/card/teoc/11) | [[02 Cards/Tokens/Gnome\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 12 | 0.07 | **Box:** NuggetGaming double-sided token (front+back scanned equal qty). Box. Weird-Ginge Angel/Thopter and FanofThingscouk Spirit still outstanding. |
+| Name | | Mana | Type | Rarity | Foil | Qty | Est. Price (GBP) |
+|------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 4 | 0.16 |
+| [**`mtg:Elemental`**](https://scryfall.com/card/tecc/9) | [[02 Cards/Tokens/Elemental\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 4 | — |
+| [**`mtg:Spirit`**](https://scryfall.com/card/ttdc/6) | [[02 Cards/Tokens/Spirit\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 25 | 0.09 |
+| [**`mtg:Faerie`**](https://scryfall.com/card/tfdn/9) | [[02 Cards/Tokens/Faerie\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 25 | — |
+| [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 12 | 0.14 |
+| [**`mtg:Treasure`**](https://scryfall.com/card/tdsk/15) | [[02 Cards/Tokens/Treasure\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 12 | — |
+| [**`mtg:Thopter`**](https://scryfall.com/card/tsoc/28) | [[02 Cards/Tokens/Thopter\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 12 | — |
+| [**`mtg:Gnome`**](https://scryfall.com/card/teoc/11) | [[02 Cards/Tokens/Gnome\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 12 | 0.07 |

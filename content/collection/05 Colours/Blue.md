@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**262** copies · **202** names.
+**264** copies · **204** names.
 
 ```decklist
 group: auto
@@ -95,6 +95,7 @@ legality: commander
 2 Skycoach Conductor // All Aboard
 1 Skyskipper Duo
 1 Skystreak Engineer
+1 Sower of Temptation
 5 Spectral Sailor
 2 Spellbook Seeker // Careful Study
 1 Spellstutter Sprite
@@ -217,6 +218,7 @@ legality: commander
 
 # Artifacts
 1 Marina Vendrell's Grimoire
+1 Midnight Clock
 1 Midnight Mangler
 1 Wizard's Staff
 

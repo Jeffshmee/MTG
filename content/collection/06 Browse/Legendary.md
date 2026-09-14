@@ -2,12 +2,13 @@
 
 Legendary cards in the collection.
 
-**156** copies · **132** names.
+**158** copies · **134** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Angelo`**](https://scryfall.com/card/tfin/19) | [[02 Cards/Tokens/Angelo\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.39 |
 | [**`mtg:Darkstar`**](https://scryfall.com/card/tfin/20) | [[02 Cards/Tokens/Darkstar\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.39 |
+| [**`mtg:Eiganjo, Seat of the Empire`**](https://scryfall.com/card/neo/268) | [[02 Cards/Lands/Eiganjo, Seat of the Empire\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 5.81 |
 | [**`mtg:Hall of Heliod's Generosity`**](https://scryfall.com/card/dsc/283) | [[02 Cards/Lands/Hall of Heliod's Generosity\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 8.39 |
 | [**`mtg:Takenuma, Abandoned Mire`**](https://scryfall.com/card/neo/278) | [[02 Cards/Lands/Takenuma, Abandoned Mire\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] | [[02 Cards/Lands/01 - Summary\|Land]] {B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 8.54 |
 | [**`mtg:Three Tree City`**](https://scryfall.com/card/blb/260) | [[02 Cards/Lands/Three Tree City\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Legendary Lands\|Legendary Lands]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 33.38 |
@@ -72,6 +73,7 @@ Legendary cards in the collection.
 | [**`mtg:Nita, Forum Conciliator`**](https://scryfall.com/card/sos/206) | [[02 Cards/Creatures/Nita, Forum Conciliator\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Ozox, the Clattering King`**](https://scryfall.com/card/j25/44) | [[02 Cards/Creatures/Ozox, the Clattering King\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Skeleton\|Skeleton]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.16 |
 | [**`mtg:Queen Allenal of Ruadach`**](https://scryfall.com/card/dmu/210) | [[02 Cards/Creatures/Queen Allenal of Ruadach\|PAGE]] | {G}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.19 |
+| [**`mtg:Rem Karolus, Stalwart Slayer`**](https://scryfall.com/card/dbl/235) | [[02 Cards/Creatures/Rem Karolus, Stalwart Slayer\|PAGE]] | {1}{R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.37 |
 | [**`mtg:Tegwyll, Duke of Splendor`**](https://scryfall.com/card/woc/1) | [[02 Cards/Creatures/Tegwyll, Duke of Splendor\|PAGE]] | {1}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 4.30 |
 | [**`mtg:Teysa, Orzhov Scion`**](https://scryfall.com/card/gpt/134) | [[02 Cards/Creatures/Teysa, Orzhov Scion\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 12.11 |
 | [**`mtg:Toph, the Blind Bandit`**](https://scryfall.com/card/tla/198) | [[02 Cards/Creatures/Toph, the Blind Bandit\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] [[04 Creature Types/Ally\|Ally]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |

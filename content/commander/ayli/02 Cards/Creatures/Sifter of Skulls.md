@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Sifter of Skulls](https://cards.scryfall.io/border_crop/front/f/8/f824d5b6-259b-467b-93b5-e93db8b15359.jpg)
+> ![Sifter of Skulls](https://cards.scryfall.io/border_crop/front/b/e/be57a5aa-44f1-483f-9274-aa68f5a2bf1f.jpg)
 >
 > ### Deck Scores
 >
@@ -92,7 +92,7 @@ Whenever another nontoken creature you control dies, [[03 Effects/Create Token|c
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: f824d5b6-259b-467b-93b5-e93db8b15359
+> scryfall_id: be57a5aa-44f1-483f-9274-aa68f5a2bf1f
 > tags:
 >   - card
 >   - main-deck

@@ -2,7 +2,7 @@
 
 Creature type: Wizard.
 
-**85** copies · **60** names.
+**86** copies · **61** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -49,6 +49,7 @@ Creature type: Wizard.
 | [**`mtg:High Fae Trickster`**](https://scryfall.com/card/fdn/40) | [[02 Cards/Creatures/High Fae Trickster\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 5.24 |
 | [**`mtg:Kykar, Zephyr Awakener`**](https://scryfall.com/card/fdn/122) | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|PAGE]] | {2}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
 | [**`mtg:Micromancer`**](https://scryfall.com/card/fdn/158) | [[02 Cards/Creatures/Micromancer\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 0.23 |
+| [**`mtg:Sower of Temptation`**](https://scryfall.com/card/sld/120) | [[02 Cards/Creatures/Sower of Temptation\|PAGE]] | {2}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 4.64 |
 | [**`mtg:Spellbook Seeker`**](https://scryfall.com/card/sos/68) | [[02 Cards/Creatures/Spellbook Seeker\|PAGE]] | {3}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.10 |
 | [**`mtg:Tam, Observant Sequencer`**](https://scryfall.com/card/sos/237) | [[02 Cards/Creatures/Tam, Observant Sequencer\|PAGE]] | {2}{G}{U} // {G}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Gorgon\|Gorgon]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.13 |
 | [**`mtg:Wanderwine Distracter`**](https://scryfall.com/card/ecl/82) | [[02 Cards/Creatures/Wanderwine Distracter\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.14 |

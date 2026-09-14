@@ -86,8 +86,8 @@ Printings sleeved in this 100. Infocard uses the most copies.
 <figcaption>FDN 284 · ×1</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/9/3/937250fe-bcad-4ff8-9406-286a69db7e0a.jpg" alt="Island SOS 268 · ×1">
-<figcaption>SOS 268 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/e/1/e1d10d9c-8771-4870-aebf-e767d0fada32.jpg" alt="Island DSK 280 foil · ×1">
+<figcaption>DSK 280 foil · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/c/1cb1ac28-ee04-4892-97ea-2cfdebbafcad.jpg" alt="Island MH3 305 foil · ×1">

@@ -2,7 +2,7 @@
 
 Creature type: Faerie.
 
-**25** copies · **19** names.
+**26** copies · **20** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -23,5 +23,6 @@ Creature type: Faerie.
 | [**`mtg:Alela, Cunning Conqueror`**](https://scryfall.com/card/woc/3) | [[02 Cards/Creatures/Alela, Cunning Conqueror\|PAGE]] | {2}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 8.77 |
 | [**`mtg:Dream Seizer`**](https://scryfall.com/card/ecl/101) | [[02 Cards/Creatures/Dream Seizer\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:High Fae Trickster`**](https://scryfall.com/card/fdn/40) | [[02 Cards/Creatures/High Fae Trickster\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 5.24 |
+| [**`mtg:Sower of Temptation`**](https://scryfall.com/card/sld/120) | [[02 Cards/Creatures/Sower of Temptation\|PAGE]] | {2}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 4.64 |
 | [**`mtg:Illusion Spinners`**](https://scryfall.com/card/ecl/55) | [[02 Cards/Creatures/Illusion Spinners\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.04 |
 | [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 1.15 |

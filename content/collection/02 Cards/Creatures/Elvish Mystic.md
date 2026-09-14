@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Elf\|Elf]] · [[04 Creature Types/Druid\|Druid]] |
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
-| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen SB\|Maralen SB]] |
 
 </div>
 
@@ -43,7 +43,7 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>266</td><td>—</td><td>1</td><td>Maralen</td><td>0.58</td></tr>
+<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>266</td><td>—</td><td>1</td><td>Maralen SB</td><td>0.58</td></tr>
 </tbody>
 </table>
 </div>
@@ -51,7 +51,7 @@
 
 ## In decks
 
-- [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
+- [[06 Browse/Decks/Maralen Deck/Maralen SB|Maralen — Sideboard]]
 
 ### Arts in this Collection
 
@@ -66,7 +66,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Druid|Druid]] · [[05 Colours/Green|Green]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Druid|Druid]] · [[05 Colours/Green|Green]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Maralen Deck/Maralen SB|Maralen SB]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
 
 ---
 

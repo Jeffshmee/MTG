@@ -2,10 +2,22 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**212** copies · **50** names.
+**312** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
+| 14/09/2026 | [**`mtg:Deathrite Shaman`**](https://scryfall.com/card/rvr/175) | [[02 Cards/Creatures/Deathrite Shaman\|PAGE]] | 1 |
+| 14/09/2026 | [**`mtg:Eiganjo, Seat of the Empire`**](https://scryfall.com/card/neo/268) | [[02 Cards/Lands/Eiganjo, Seat of the Empire\|PAGE]] | 1 |
+| 14/09/2026 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | 45 |
+| 14/09/2026 | [**`mtg:Gathering Place`**](https://scryfall.com/card/msh/381) | [[02 Cards/Lands/Gathering Place\|PAGE]] | 1 |
+| 14/09/2026 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | 42 |
+| 14/09/2026 | [**`mtg:Midnight Clock`**](https://scryfall.com/card/sld/2217) | [[02 Cards/Artifacts/Midnight Clock\|PAGE]] | 1 |
+| 14/09/2026 | [**`mtg:Mountain`**](https://scryfall.com/card/fdn/278) | [[02 Cards/Lands/Mountain\|PAGE]] | 32 |
+| 14/09/2026 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | 33 |
+| 14/09/2026 | [**`mtg:Rem Karolus, Stalwart Slayer`**](https://scryfall.com/card/dbl/235) | [[02 Cards/Creatures/Rem Karolus, Stalwart Slayer\|PAGE]] | 1 |
+| 14/09/2026 | [**`mtg:Sacred Cat`**](https://scryfall.com/card/akh/27) | [[02 Cards/Creatures/Sacred Cat\|PAGE]] | 2 |
+| 14/09/2026 | [**`mtg:Sower of Temptation`**](https://scryfall.com/card/sld/120) | [[02 Cards/Creatures/Sower of Temptation\|PAGE]] | 1 |
+| 14/09/2026 | [**`mtg:Swamp`**](https://scryfall.com/card/fdn/277) | [[02 Cards/Lands/Swamp\|PAGE]] | 43 |
 | 12/09/2026 | [**`mtg:Adorned Pouncer`**](https://scryfall.com/card/hou/2) | [[02 Cards/Tokens/Adorned Pouncer\|PAGE]] | 2 |
 | 12/09/2026 | [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | 17 |
 | 12/09/2026 | [**`mtg:Arahbo, Roar of the World`**](https://scryfall.com/card/c17/35) | [[02 Cards/Creatures/Arahbo, Roar of the World\|PAGE]] | 1 |
@@ -44,15 +56,3 @@ The 50 names most recently added to the collection. Cards with no recorded date 
 | 12/09/2026 | [**`mtg:Serra Ascendant`**](https://scryfall.com/card/ima/31) | [[02 Cards/Creatures/Serra Ascendant\|PAGE]] | 1 |
 | 12/09/2026 | [**`mtg:Sevinne's Reclamation`**](https://scryfall.com/card/soc/170) | [[02 Cards/Sorceries/Sevinne's Reclamation\|PAGE]] | 1 |
 | 12/09/2026 | [**`mtg:Sheltered by Ghosts`**](https://scryfall.com/card/soc/171) | [[02 Cards/Enchantments/Sheltered by Ghosts\|PAGE]] | 1 |
-| 12/09/2026 | [**`mtg:Sifter of Skulls`**](https://scryfall.com/card/ogw/77) | [[02 Cards/Creatures/Sifter of Skulls\|PAGE]] | 1 |
-| 12/09/2026 | [**`mtg:Solemn Simulacrum`**](https://scryfall.com/card/tdc/325) | [[02 Cards/Creatures/Solemn Simulacrum\|PAGE]] | 2 |
-| 12/09/2026 | [**`mtg:Speaker of the Heavens`**](https://scryfall.com/card/m21/38) | [[02 Cards/Creatures/Speaker of the Heavens\|PAGE]] | 1 |
-| 12/09/2026 | [**`mtg:Spirit`**](https://scryfall.com/card/ttdc/6) | [[02 Cards/Tokens/Spirit\|PAGE]] | 46 |
-| 12/09/2026 | [**`mtg:Stonehorn Dignitary`**](https://scryfall.com/card/m12/37) | [[02 Cards/Creatures/Stonehorn Dignitary\|PAGE]] | 1 |
-| 12/09/2026 | [**`mtg:Teysa, Orzhov Scion`**](https://scryfall.com/card/gpt/134) | [[02 Cards/Creatures/Teysa, Orzhov Scion\|PAGE]] | 1 |
-| 12/09/2026 | [**`mtg:Thopter`**](https://scryfall.com/card/tsoc/28) | [[02 Cards/Tokens/Thopter\|PAGE]] | 15 |
-| 12/09/2026 | [**`mtg:Treasure`**](https://scryfall.com/card/tdsk/15) | [[02 Cards/Tokens/Treasure\|PAGE]] | 32 |
-| 12/09/2026 | [**`mtg:Unbreakable Formation`**](https://scryfall.com/card/rvr/32) | [[02 Cards/Instants/Unbreakable Formation\|PAGE]] | 1 |
-| 12/09/2026 | [**`mtg:Unclaimed Territory`**](https://scryfall.com/card/xln/258) | [[02 Cards/Lands/Unclaimed Territory\|PAGE]] | 1 |
-| 12/09/2026 | [**`mtg:Undercover Skrull`**](https://scryfall.com/card/msh/194) | [[02 Cards/Creatures/Undercover Skrull\|PAGE]] | 1 |
-| 11/09/2026 | [**`mtg:Beastmaster Ascension`**](https://scryfall.com/card/ncc/283) | [[02 Cards/Enchantments/Beastmaster Ascension\|PAGE]] | 1 |

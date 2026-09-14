@@ -2,12 +2,12 @@
 
 Creature type: Cat.
 
-**50** copies · **38** names.
+**51** copies · **38** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Ocelot Pride`**](https://scryfall.com/card/mh3/38) | [[02 Cards/Creatures/Ocelot Pride\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 32.07 |
-| [**`mtg:Sacred Cat`**](https://scryfall.com/card/akh/27) | [[02 Cards/Creatures/Sacred Cat\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.58 |
+| [**`mtg:Sacred Cat`**](https://scryfall.com/card/akh/27) | [[02 Cards/Creatures/Sacred Cat\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 1.18 |
 | [**`mtg:Savannah Lions`**](https://scryfall.com/card/fdn/146) | [[02 Cards/Creatures/Savannah Lions\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.08 |
 | [**`mtg:Ajani's Pridemate`**](https://scryfall.com/card/clu/52) | [[02 Cards/Creatures/Ajani's Pridemate\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 5 | 0.78 |
 | [**`mtg:Ajani's Sunstriker`**](https://scryfall.com/card/cns/66) | [[02 Cards/Creatures/Ajani's Sunstriker\|PAGE]] | {W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |

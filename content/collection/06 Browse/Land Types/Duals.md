@@ -2,7 +2,7 @@
 
 Lands with two or more colours in their colour identity — shocks, checklands, temples, gates, taplands, triomes.
 
-**134** copies · **84** names.
+**135** copies · **85** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -30,6 +30,7 @@ Lands with two or more colours in their colour identity — shocks, checklands, 
 | [**`mtg:Floodfarm Verge`**](https://scryfall.com/card/dsk/259) | [[02 Cards/Lands/Floodfarm Verge\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.64 |
 | [**`mtg:Fortified Village`**](https://scryfall.com/card/tdc/366) | [[02 Cards/Lands/Fortified Village\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
 | [**`mtg:Forum of Amity`**](https://scryfall.com/card/sos/256) | [[02 Cards/Lands/Forum of Amity\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.27 |
+| [**`mtg:Gathering Place`**](https://scryfall.com/card/msh/381) | [[02 Cards/Lands/Gathering Place\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 2.67 |
 | [**`mtg:Glacial Fortress`**](https://scryfall.com/card/eoc/160) | [[02 Cards/Lands/Glacial Fortress\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.44 |
 | [**`mtg:Goblin-town`**](https://scryfall.com/card/hob/183) | [[02 Cards/Lands/Goblin-town\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.18 |
 | [**`mtg:Godless Shrine`**](https://scryfall.com/card/rna/248) | [[02 Cards/Lands/Godless Shrine\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Swamp\|Swamp]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.46 |

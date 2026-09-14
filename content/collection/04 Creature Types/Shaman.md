@@ -2,10 +2,11 @@
 
 Creature type: Shaman.
 
-**12** copies · **8** names.
+**13** copies · **9** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Deathrite Shaman`**](https://scryfall.com/card/rvr/175) | [[02 Cards/Creatures/Deathrite Shaman\|PAGE]] | {B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 6.22 |
 | [**`mtg:Dragonmaster Outcast`**](https://scryfall.com/card/tdc/211) | [[02 Cards/Creatures/Dragonmaster Outcast\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.33 |
 | [**`mtg:Glowspore Shaman`**](https://scryfall.com/card/rvr/184) | [[02 Cards/Creatures/Glowspore Shaman\|PAGE]] | {B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
 | [**`mtg:Kalastria Highborn`**](https://scryfall.com/card/fdn/607) | [[02 Cards/Creatures/Kalastria Highborn\|PAGE]] | {B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |

@@ -2,7 +2,7 @@
 
 Creature type: Knight.
 
-**20** copies · **18** names.
+**21** copies · **19** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -17,6 +17,7 @@ Creature type: Knight.
 | [**`mtg:Inspiring Paladin`**](https://scryfall.com/card/fdn/18) | [[02 Cards/Creatures/Inspiring Paladin\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Ledev Champion`**](https://scryfall.com/card/grn/186) | [[02 Cards/Creatures/Ledev Champion\|PAGE]] | {1}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Midnight Reaper`**](https://scryfall.com/card/fdn/609) | [[02 Cards/Creatures/Midnight Reaper\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |
+| [**`mtg:Rem Karolus, Stalwart Slayer`**](https://scryfall.com/card/dbl/235) | [[02 Cards/Creatures/Rem Karolus, Stalwart Slayer\|PAGE]] | {1}{R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.37 |
 | [**`mtg:Shrike Force`**](https://scryfall.com/card/blb/31) | [[02 Cards/Creatures/Shrike Force\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.17 |
 | [**`mtg:Veteran Beastrider`**](https://scryfall.com/card/dft/226) | [[02 Cards/Creatures/Veteran Beastrider\|PAGE]] | {1}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Dion, Bahamut's Dominant`**](https://scryfall.com/card/fin/16) | [[02 Cards/Creatures/Dion, Bahamut's Dominant\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Knight\|Knight]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.41 |

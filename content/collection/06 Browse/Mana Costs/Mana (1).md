@@ -2,7 +2,7 @@
 
 Cards whose mana value is 1.
 
-**220** copies · **148** names.
+**222** copies · **149** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -32,6 +32,7 @@ Cards whose mana value is 1.
 | [**`mtg:Dawn-Blessed Pennant`**](https://scryfall.com/card/ecl/254) | [[02 Cards/Artifacts/Dawn-Blessed Pennant\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.60 |
 | [**`mtg:Daydream`**](https://scryfall.com/card/sos/9) | [[02 Cards/Sorceries/Daydream\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.25 |
 | [**`mtg:Deathmark`**](https://scryfall.com/card/fdn/601) | [[02 Cards/Sorceries/Deathmark\|PAGE]] | {B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
+| [**`mtg:Deathrite Shaman`**](https://scryfall.com/card/rvr/175) | [[02 Cards/Creatures/Deathrite Shaman\|PAGE]] | {B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 6.22 |
 | [**`mtg:Desperate Measures`**](https://scryfall.com/card/tdm/78) | [[02 Cards/Instants/Desperate Measures\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.11 |
 | [**`mtg:Dig Site Inventory`**](https://scryfall.com/card/sos/10) | [[02 Cards/Sorceries/Dig Site Inventory\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.12 |
 | [**`mtg:Diregraf Ghoul`**](https://scryfall.com/card/fdn/171) | [[02 Cards/Creatures/Diregraf Ghoul\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.10 |
@@ -116,7 +117,7 @@ Cards whose mana value is 1.
 | [**`mtg:Rope`**](https://scryfall.com/card/mkm/173) | [[02 Cards/Artifacts/Rope\|PAGE]] | {G} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:Royal Treatment`**](https://scryfall.com/card/soa/56) | [[02 Cards/Instants/Royal Treatment\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
 | [**`mtg:Rubblebelt Maverick`**](https://scryfall.com/card/mkm/174) | [[02 Cards/Creatures/Rubblebelt Maverick\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
-| [**`mtg:Sacred Cat`**](https://scryfall.com/card/akh/27) | [[02 Cards/Creatures/Sacred Cat\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.58 |
+| [**`mtg:Sacred Cat`**](https://scryfall.com/card/akh/27) | [[02 Cards/Creatures/Sacred Cat\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 1.18 |
 | [**`mtg:Savannah Lions`**](https://scryfall.com/card/fdn/146) | [[02 Cards/Creatures/Savannah Lions\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.08 |
 | [**`mtg:Sazh's Chocobo`**](https://scryfall.com/card/fin/200) | [[02 Cards/Creatures/Sazh's Chocobo\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.56 |
 | [**`mtg:Scavenger's Talent`**](https://scryfall.com/card/blb/111) | [[02 Cards/Enchantments/Scavenger's Talent\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.82 |

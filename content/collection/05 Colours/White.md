@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**261** copies · **196** names.
+**262** copies · **196** names.
 
 ```decklist
 group: auto
@@ -97,7 +97,7 @@ legality: commander
 1 Resolute Reinforcements
 1 Rhox Faithmender
 2 Riling Dawnbreaker // Signaling Roar
-1 Sacred Cat
+2 Sacred Cat
 1 Salt Road Packbeast
 1 Savannah Lions
 1 Selfless Spirit

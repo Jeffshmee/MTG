@@ -36,6 +36,7 @@
 | 04/09/2026 | MageCards · Axion_Now |
 | 05/09/2026 | MageCards · MtgGambit |
 | 08/09/2026 | Booster haul |
+| 14/09/2026 | Cardmarket · Nikolcia01 |
 
 </div>
 
@@ -44,7 +45,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>41</div>
+<div class="synergy-score-num"><span>Copies</span>45</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -60,12 +61,12 @@
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>—</td><td>1</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>foil</td><td>1</td><td>Box</td><td>0.15</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>281</td><td>—</td><td>2</td><td>Box</td><td>0.08</td></tr>
-<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>1</td><td>Box</td><td>0.18</td></tr>
+<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>2</td><td>Box</td><td>0.18</td></tr>
 <tr><td>Modern Horizons 3 (<code>MH3</code>)</td><td>308</td><td>foil</td><td>2</td><td>Box</td><td>0.25</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>foil</td><td>1</td><td>Maralen</td><td>0.18</td></tr>
 <tr><td>Wilds of Eldraine (<code>WOE</code>)</td><td>266</td><td>foil</td><td>1</td><td>Maralen</td><td>0.41</td></tr>
 <tr><td>Modern Horizons 3 (<code>MH3</code>)</td><td>308</td><td>foil</td><td>2</td><td>Maralen</td><td>0.25</td></tr>
-<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>2</td><td>Maralen</td><td>0.18</td></tr>
+<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>1</td><td>Maralen</td><td>0.18</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>285</td><td>foil</td><td>1</td><td>Maralen</td><td>0.13</td></tr>
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.05</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>—</td><td>1</td><td>Arahbo</td><td>0.17</td></tr>
@@ -73,6 +74,10 @@
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.18</td></tr>
 <tr><td>War of the Spark (<code>WAR</code>)</td><td>262</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.18</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
+<tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>286</td><td>foil</td><td>1</td><td>Box</td><td>0.13</td></tr>
+<tr><td>Dominaria United (<code>DMU</code>)</td><td>274</td><td>foil</td><td>1</td><td>Box</td><td>0.06</td></tr>
+<tr><td>Throne of Eldraine (<code>ELD</code>)</td><td>269</td><td>foil</td><td>1</td><td>Box</td><td>0.07</td></tr>
+<tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>285</td><td>foil</td><td>1</td><td>Maralen</td><td>0.11</td></tr>
 </tbody>
 </table>
 </div>
@@ -129,12 +134,28 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>BLB 278 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/5/2/52097f6a-58d3-4176-b3bf-dc94f44adf30.jpg" alt="Forest DMU 274 · ×1">
+<figcaption>DMU 274 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/e/8/e84c0880-728d-4ac2-b685-4f18f66c24db.jpg" alt="Forest DSK 285 · ×1">
+<figcaption>DSK 285 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/0/d/0da5fbc2-24ad-4520-a60a-436d3a485fec.jpg" alt="Forest DSK 286 · ×1">
+<figcaption>DSK 286 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/2/3/23c9425a-2093-40c1-b3a9-a882d80cf198.jpg" alt="Forest DTK 263 · ×1">
 <figcaption>DTK 263 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/4/b460f5f7-c7c9-400c-8419-23d614f45bf9.jpg" alt="Forest ECL 273 · ×1">
 <figcaption>ECL 273 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/4/f/4fd257a5-439d-4ef8-9cc9-9741e99a04e3.jpg" alt="Forest ELD 269 · ×1">
+<figcaption>ELD 269 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/c/c/cc485069-e081-4e83-bbad-d5faf7a5bd03.jpg" alt="Forest MKM 285 · ×1">
@@ -156,7 +177,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/WAR|War of the Spark]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/WAR|War of the Spark]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/ELD|Throne of Eldraine]]
 
 ---
 
@@ -169,7 +190,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Forest"
 > scryfall_id: d232fcc2-12f6-401a-b1aa-ddff11cb9378
-> quantity: 41
+> quantity: 45
 > tags:
 >   - card
 >   - collection

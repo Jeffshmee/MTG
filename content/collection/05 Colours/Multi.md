@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**276** copies · **206** names.
+**278** copies · **208** names.
 
 ```decklist
 group: auto
@@ -35,6 +35,7 @@ legality: commander
 2 Colossus of the Blood Age
 1 Consuming Aberration
 1 Cuboid Colony
+1 Deathrite Shaman
 1 Deputy of Detention
 1 Dreadwing Scavenger
 1 Drogskol Reaver
@@ -106,6 +107,7 @@ legality: commander
 1 Queen Allenal of Ruadach
 1 Rakish Scoundrel
 1 Reflector Mage
+1 Rem Karolus, Stalwart Slayer
 2 Reputable Merchant
 1 Riftburst Hellion
 2 Ruby, Daring Tracker

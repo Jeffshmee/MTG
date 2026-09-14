@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Winged Words`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{U}  
 > **Type:** Sorcery  
 >
@@ -88,7 +88,7 @@ Winged Words is a cantrip or refill at {2}{U}. Noncreature, so [[02 Cards/Creatu
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 82
@@ -96,7 +96,7 @@ Winged Words is a cantrip or refill at {2}{U}. Noncreature, so [[02 Cards/Creatu
 > scryfall_id: ff765065-b160-49b6-99ac-cd695bd0d903
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - sorcerie
 > ```
 

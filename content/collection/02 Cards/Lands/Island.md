@@ -35,6 +35,7 @@
 | 04/09/2026 | MageCards · Axion_Now |
 | 05/09/2026 | MageCards · MtgGambit |
 | 08/09/2026 | Booster haul |
+| 14/09/2026 | Cardmarket · Nikolcia01 |
 
 </div>
 
@@ -43,7 +44,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>41</div>
+<div class="synergy-score-num"><span>Copies</span>42</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -55,7 +56,6 @@
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>273</td><td>—</td><td>1</td><td>Maralen</td><td>0.47</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>2</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>284</td><td>—</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>268</td><td>—</td><td>1</td><td>Kykar</td><td>0.60</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>foil</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>297</td><td>foil</td><td>2</td><td>Box</td><td>0.22</td></tr>
@@ -70,6 +70,8 @@
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>190</td><td>—</td><td>1</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>280</td><td>—</td><td>1</td><td>Box</td><td>0.03</td></tr>
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>279</td><td>—</td><td>1</td><td>Box</td><td>0.06</td></tr>
+<tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>280</td><td>foil</td><td>1</td><td>Kykar</td><td>0.17</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>268</td><td>—</td><td>1</td><td>Box</td><td>0.60</td></tr>
 </tbody>
 </table>
 </div>
@@ -104,6 +106,10 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/d/fd1b9e7c-09d0-4907-9f48-34289f3cd2cc.jpg" alt="Island SOS 275 · ×2">
 <figcaption>SOS 275 · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/e/1/e1d10d9c-8771-4870-aebf-e767d0fada32.jpg" alt="Island DSK 280 · ×1">
+<figcaption>DSK 280 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/0/b0da67fb-1cb2-4105-ab5c-b7c680b8116c.jpg" alt="Island ECL 270 · ×1">
@@ -161,7 +167,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Island|Island]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/MOM|March of the Machine]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Island|Island]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/MOM|March of the Machine]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]]
 
 ---
 
@@ -174,7 +180,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Island"
 > scryfall_id: 17e2b637-72b1-4457-aaba-66d51107be4c
-> quantity: 41
+> quantity: 42
 > tags:
 >   - card
 >   - collection

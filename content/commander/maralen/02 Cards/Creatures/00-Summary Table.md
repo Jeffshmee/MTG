@@ -2,11 +2,12 @@
 
 Every **Creatures** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**63** copies · **63** names.
+**64** copies · **64** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Arbor Elf`**](https://scryfall.com/card/a25/160) | [[02 Cards/Creatures/Arbor Elf\|PAGE]] | {G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | 1 | 1 | 0.60 |
+| [**`mtg:Deathrite Shaman`**](https://scryfall.com/card/rvr/175) | [[02 Cards/Creatures/Deathrite Shaman\|PAGE]] | {B/G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Shaman\|Shaman]] | [[05 Colours/Black\|Black]] [[05 Colours/Green\|Green]] | 1 | 1 | 6.22 |
 | [**`mtg:Elves of Deep Shadow`**](https://scryfall.com/card/ddj/47) | [[02 Cards/Creatures/Elves of Deep Shadow\|PAGE]] | {G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | 1 | 1 | 3.39 |
 | [**`mtg:Elvish Mystic`**](https://scryfall.com/card/hoc/205) | [[02 Cards/Creatures/Elvish Mystic\|PAGE]] | {G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | 1 | 1 | 0.58 |
 | [**`mtg:Fyndhorn Elves`**](https://scryfall.com/card/cmr/228) | [[02 Cards/Creatures/Fyndhorn Elves\|PAGE]] | {G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | 1 | 1 | 4.21 |
