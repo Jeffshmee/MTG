@@ -2,13 +2,12 @@
 
 Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **seller**. Edit `08 Assets/outstanding-orders.csv` and rebuild. PAGE is the collection page when a copy is already owned. Purchase price is unit GBP from the order (item price, not postage).
 
-**141** copies · **102** names · **19** sellers · **£458.95**.
+**139** copies · **100** names · **18** sellers · **£458.62**.
 
 ## Contents
 
 | Source | Seller | Copies | Cards | Price (GBP) |
 |--------|--------|--------|-------|-------------|
-| MageCards | [[#MageCards · Magic-R-us\|Magic-R-us]] | 2 | 2 | 0.33 |
 | MageCards | [[#MageCards · FanofThingscouk\|FanofThingscouk]] | 9 | 8 | 10.99 |
 | MageCards | [[#MageCards · Arcadiacardz\|Arcadiacardz]] | 2 | 2 | 0.79 |
 | MageCards | [[#MageCards · avm4474\|avm4474]] | 1 | 1 | 0.68 |
@@ -27,15 +26,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | Cardmarket | [[#Cardmarket · Budgiecards\|Budgiecards]] | 19 | 5 | 26.30 |
 | Cardmarket | [[#Cardmarket · LegendaryCardCo\|LegendaryCardCo]] | 10 | 2 | 1.60 |
 | Cardmarket | [[#Cardmarket · Wideboi\|Wideboi]] | 7 | 7 | 42.34 |
-
-## MageCards · Magic-R-us
-
-**2** copies · **2** cards · **£0.33**. Source: MageCards. Seller: Magic-R-us.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | {2}{W}{W} | [[03 Card Types/Artifact\|Artifact]] | FIN 41 | — | 1 | 0.13 | Nonfoil — foil already arrived from TommyNom |
-| [**`mtg:Restoration Angel`**](https://scryfall.com/card/moc/201) | — | {3}{W} | [[03 Card Types/Creature\|Creature]] | MOC 201 | — | 1 | 0.20 | Kykar buy-rank 9 |
 
 ## MageCards · FanofThingscouk
 

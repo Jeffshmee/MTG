@@ -2,7 +2,7 @@
 
 Cards needed for trades and buys — **one list**, every deck. Qty is copies needed. Est. Price is Scryfall market (EUR × 0.8626). PAGE is the collection page when a copy is already owned. **For** is the deck that needs it. **Offer** opens the trade form with that card filled in. **🟡 Ordered** is on [[06 Browse/Outstanding Orders/Outstanding Orders|Outstanding Orders]] (purchased, not in hand) — the row drops when that copy arrives. **Trades Offered** is live form responses.
 
-**38** names · ~**£161.77** listed
+**39** names · ~**£162.14** listed
 
 ## Contents
 
@@ -10,7 +10,7 @@ Cards needed for trades and buys — **one list**, every deck. Qty is copies nee
 |---------|-------|------------------|
 | [[#Trades Offered]] | 0 | — |
 | [[#Mythic]] | 2 | 18.58 |
-| [[#Rare]] | 16 | 102.89 |
+| [[#Rare]] | 17 | 103.26 |
 | [[#Uncommon]] | 16 | 37.05 |
 | [[#Common]] | 4 | 3.25 |
 | [[#MageCards paste]] | — | — |
@@ -33,7 +33,7 @@ Live responses from the trade form. Email stays off this page.
 
 ## Rare
 
-**16** names.
+**17** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) | Status | For | Offer |
 |------|--|------|------|--------|------|-----|------------------|-----|-----|-----|
@@ -50,6 +50,7 @@ Live responses from the trade form. Email stays off this page.
 | [**`mtg:Sapphire Medallion`**](https://scryfall.com/card/mh3/296/sapphire-medallion) | — | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.58 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Sapphire%20Medallion&entry.1565345403=1) |
 | [**`mtg:Eerie Interlude`**](https://scryfall.com/card/khc/22/eerie-interlude) | — | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 5.53 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Eerie%20Interlude&entry.1565345403=1) |
 | [**`mtg:Nine-Lives Familiar`**](https://scryfall.com/card/fdn/66/nine-lives-familiar) | — | {1}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.19 | 🟡 Ordered | [[02 Cards/Creatures/Ayli, Eternal Pilgrim\|Ayli, Eternal Pilgrim]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Nine-Lives%20Familiar&entry.1565345403=1) |
+| [**`mtg:Restoration Angel`**](https://scryfall.com/card/inr/38/restoration-angel) | — | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.37 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Restoration%20Angel&entry.1565345403=1) |
 | [**`mtg:Supreme Verdict`**](https://scryfall.com/card/clu/211/supreme-verdict) | — | {1}{W}{W}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.00 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Supreme%20Verdict&entry.1565345403=1) |
 | [**`mtg:Conjurer's Closet`**](https://scryfall.com/card/inr/259/conjurers-closet) | — | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 2.46 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Conjurer%27s%20Closet&entry.1565345403=1) |
 | [**`mtg:Evacuation`**](https://scryfall.com/card/lcc/156/evacuation) | — | {3}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.40 | — | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|Kykar, Zephyr Awakener]] | [Offer](https://docs.google.com/forms/d/e/1FAIpQLSft-z6oH-0SUJVaUQxNlWFwa2AqiOO796ZtQ84t9Y3Ymg_VPQ/viewform?usp=pp_url&entry.2102978014=Evacuation&entry.1565345403=1) |
@@ -121,6 +122,7 @@ Click the block (it selects all), then copy. Qty then name, one card per line. �
 1 Razorgrass Ambush
 1 Recruiter of the Guard
 1 Reliquary Tower
+1 Restoration Angel
 1 Riptide Laboratory
 1 Sapphire Medallion
 1 Sea of Clouds

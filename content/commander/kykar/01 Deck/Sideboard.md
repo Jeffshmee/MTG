@@ -261,7 +261,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Restoration Angel`**
-> **88** / 100 · 🟡 Ordered
+> **88** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
 > [[02 Cards/Creatures/Restoration Angel|Open local page →]]
