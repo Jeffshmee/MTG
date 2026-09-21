@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Debt to the Deathless`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {X}{W}{W}{B}{B}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Debt to the Deathless](https://cards.scryfall.io/border_crop/front/f/0/f0d2831e-36b6-448b-9613-37eaf3ad1878.jpg)
+> ![Debt to the Deathless](https://cards.scryfall.io/border_crop/front/a/4/a42f8d69-dff4-4c35-a5fc-527ea5f1d21b.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@ Each opponent loses two times X life. You gain life equal to the life lost this 
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Debt to the Deathless|Debt to the Deathless]] at {X}{W}{W}{B}{B}: each opponent loses two times X life. You gain life equal to the life lost this way. Serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s aristocrats plan. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Sorceries/Debt to the Deathless|Debt to the Deathless]] at {X}{W}{W}{B}{B}: each opponent loses two times X life. You gain life equal to the life lost this way. Serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s aristocrats plan. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -61,7 +61,7 @@ Each opponent loses two times X life. You gain life equal to the life lost this 
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -84,15 +84,15 @@ Each opponent loses two times X life. You gain life equal to the life lost this 
 > colors: ["B", "W"]
 > color_identity: ["B", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: f0d2831e-36b6-448b-9613-37eaf3ad1878
+> scryfall_id: a42f8d69-dff4-4c35-a5fc-527ea5f1d21b
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Soul Warden`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}  
 > **Type:** Creature — Human Cleric  
 > **P/T:** 1/1  
@@ -48,7 +48,7 @@ Whenever another creature enters, you [[03 Effects/Gain Life|gain 1 life]].
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Soul Warden|Soul Warden]] is the Sister. Every creature ETB — yours and theirs — you gain 1. This is how +10 happens without only Hinterland. Delney does not double it (triggered, but Warden is 1/1 — Delney doubles P≤2 *other* creatures' triggers, not this trigger's instances from fat ETBs). Sleeve with or instead of [[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Soul Warden|Soul Warden]] is the Sister. Every creature ETB — yours and theirs — you gain 1. This is how +10 happens without only Hinterland. Delney does not double it (triggered, but Warden is 1/1 — Delney doubles P≤2 *other* creatures' triggers, not this trigger's instances from fat ETBs). Sleeve with or instead of [[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]]. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@ Whenever another creature enters, you [[03 Effects/Gain Life|gain 1 life]].
 ## Anti-synergies / Notes
 
 - Does nothing if nobody casts a creature. Their board also feeds it — that is on-plan.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Whenever another creature enters, you [[03 Effects/Gain Life|gain 1 life]].
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -94,7 +94,7 @@ Whenever another creature enters, you [[03 Effects/Gain Life|gain 1 life]].
 > scryfall_id: d96266b3-a7cb-40ce-a328-ac13719fe5f0
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

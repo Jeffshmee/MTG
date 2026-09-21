@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Fetid Heath`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Fetid Heath](https://cards.scryfall.io/border_crop/front/7/1/713d95ae-4217-4544-9e00-06854fd0c6c7.jpg)
+> ![Fetid Heath](https://cards.scryfall.io/border_crop/front/e/0/e0547b3a-dc3e-42ba-bb80-1815ee62e9f1.jpg)
 >
 > ### Deck Scores
 >
@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Fetid Heath|Fetid Heath]] is an untapped filter: {C} for free, or {W/B} for {W}{W} / {W}{B} / {B}{B}. That is the double-pip turn for [[02 Cards/Sorceries/Grim Tutor|Grim Tutor]], [[02 Cards/Sorceries/Damn|Damn]], and [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] plus a white spell. Zurgo keeps the sleeved SOC 372 last copy — do not pull it. This is the extra 2XM 316 foil. 🟡 Ordered (Axion_Now) — not in hand. Do not sleeve a proxy.
+[[02 Cards/Lands/Fetid Heath|Fetid Heath]] is an untapped filter: {C} for free, or {W/B} for {W}{W} / {W}{B} / {B}{B}. That is the double-pip turn for [[02 Cards/Sorceries/Grim Tutor|Grim Tutor]], [[02 Cards/Sorceries/Damn|Damn]], and [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] plus a white spell. Zurgo keeps the sleeved SOC 372 last copy — do not pull it. This is the extra A25 238 foil (ordered 2XM 316 foil). In hand 17/09/2026 (Axion_Now). Binders stay Box until a named cut.
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,7 @@
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet. Status stays Ordered until it is in hand.
+- Sleeved 17/09/2026.
 - Filter costs a pip. Isolated Chapel is the free dual if you already have a Plains or Swamp.
 
 ## Related Pages
@@ -88,15 +88,15 @@
 > colors: []
 > color_identity: ["B", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 82
 >   deck_specific: 86
 >   combined: 84
-> scryfall_id: 713d95ae-4217-4544-9e00-06854fd0c6c7
+> scryfall_id: e0547b3a-dc3e-42ba-bb80-1815ee62e9f1
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

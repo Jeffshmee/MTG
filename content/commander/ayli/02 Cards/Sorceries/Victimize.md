@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Victimize`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{B}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Victimize](https://cards.scryfall.io/border_crop/front/e/e/ee008d81-df28-49a8-917d-44f66527e469.jpg)
+> ![Victimize](https://cards.scryfall.io/border_crop/front/8/3/83379f7f-3766-43f5-bd5e-e11ef9070ddb.jpg)
 >
 > ### Deck Scores
 >
@@ -84,15 +84,15 @@ Choose two target creature cards in your graveyard. Sacrifice a creature. If you
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: ee008d81-df28-49a8-917d-44f66527e469
+> scryfall_id: 83379f7f-3766-43f5-bd5e-e11ef9070ddb
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - sorcerie
 > ```
 

@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 12/09/2026 | Cardmarket · NuggetGaming |
+| 17/09/2026 | Cardmarket · Weird-Ginge |
 
 </div>
 
@@ -38,13 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>17</div>
+<div class="synergy-score-num"><span>Copies</span>19</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Tarkir: Dragonstorm Commander Tokens (<code>TTDC</code>)</td><td>2</td><td>—</td><td>1</td><td>Box</td><td>0.31</td></tr>
-<tr><td>Duskmourn Commander Tokens (<code>TDSC</code>)</td><td>2</td><td>—</td><td>16</td><td>Box</td><td>0.11</td></tr>
+<tr><td>Duskmourn Commander Tokens (<code>TDSC</code>)</td><td>2</td><td>—</td><td>18</td><td>Box</td><td>0.11</td></tr>
 </tbody>
 </table>
 </div>
@@ -56,8 +57,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/b/b/bb6d0a6a-3007-47fc-a42c-3db311c9c41f.jpg" alt="Angel TDSC 2 · ×16">
-<figcaption>TDSC 2 · ×16</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/b/b/bb6d0a6a-3007-47fc-a42c-3db311c9c41f.jpg" alt="Angel TDSC 2 · ×18">
+<figcaption>TDSC 2 · ×18</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/b/bb2b69c0-ba32-4db1-bf02-230b6d4802aa.jpg" alt="Angel TTDC 2 · ×1">
@@ -80,7 +81,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Creature — Angel // Token Creature — Demon"
 > scryfall_id: bb6d0a6a-3007-47fc-a42c-3db311c9c41f
-> quantity: 17
+> quantity: 19
 > tags:
 >   - angel
 >   - card

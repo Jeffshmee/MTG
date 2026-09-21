@@ -4,6 +4,10 @@ MageCards and other singles drops, newest first. Tables are split by seller.
 
 | Haul | Date | Copies | Names | Tables |
 |------|------|--------|-------|--------|
+| [[06 Browse/Singles Purchases/Singles Purchases 21-09-2026\|Singles Purchases 21/09/2026]] | 21/09/2026 | 3 | 3 | 1 |
+| [[06 Browse/Singles Purchases/Singles Purchases 18-09-2026\|Singles Purchases 18/09/2026]] | 18/09/2026 | 2 | 2 | 1 |
+| [[06 Browse/Singles Purchases/Singles Purchases 17-09-2026\|Singles Purchases 17/09/2026]] | 17/09/2026 | 53 | 24 | 7 |
+| [[06 Browse/Singles Purchases/Singles Purchases 16-09-2026\|Singles Purchases 16/09/2026]] | 16/09/2026 | 62 | 45 | 6 |
 | [[06 Browse/Singles Purchases/Singles Purchases 14-09-2026\|Singles Purchases 14/09/2026]] | 14/09/2026 | 18 | 12 | 3 |
 | [[06 Browse/Singles Purchases/Singles Purchases 12-09-2026\|Singles Purchases 12/09/2026]] | 12/09/2026 | 149 | 50 | 7 |
 | [[06 Browse/Singles Purchases/Singles Purchases 11-09-2026\|Singles Purchases 11/09/2026]] | 11/09/2026 | 29 | 27 | 9 |

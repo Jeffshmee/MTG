@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ajani's Welcome`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}  
 > **Type:** Enchantment  
 >
@@ -84,7 +84,7 @@ Whenever a creature you control enters, you [[03 Effects/Gain Life|gain 1 life]]
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -92,7 +92,7 @@ Whenever a creature you control enters, you [[03 Effects/Gain Life|gain 1 life]]
 > scryfall_id: c9045fcb-b633-4c35-8058-6234311551ae
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

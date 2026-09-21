@@ -31,6 +31,7 @@
 |------|-------|
 | 02/09/2026 | Booster haul |
 | 12/09/2026 | Cardmarket · NuggetGaming |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -39,14 +40,14 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>13</div>
+<div class="synergy-score-num"><span>Copies</span>14</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Tarkir: Dragonstorm Commander Tokens (<code>TTDC</code>)</td><td>17</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>3</td><td>—</td><td>3</td><td>Box</td><td>—</td></tr>
-<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>2</td><td>—</td><td>5</td><td>Box</td><td>—</td></tr>
+<tr><td>Secrets of Strixhaven Tokens (<code>TSOS</code>)</td><td>2</td><td>—</td><td>6</td><td>Box</td><td>—</td></tr>
 <tr><td>Lorwyn Eclipsed Commander Tokens (<code>TECC</code>)</td><td>9</td><td>—</td><td>4</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
@@ -59,8 +60,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/5/7/57b98846-85e3-47c7-a903-29953d0b0e8a.jpg" alt="Elemental TSOS 2 · ×5">
-<figcaption>TSOS 2 · ×5</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/5/7/57b98846-85e3-47c7-a903-29953d0b0e8a.jpg" alt="Elemental TSOS 2 · ×6">
+<figcaption>TSOS 2 · ×6</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/a/1ab6cab4-a3a5-4b48-832a-1d486e8094a5.jpg" alt="Elemental TECC 9 · ×4">
@@ -91,7 +92,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Creature — Elemental"
 > scryfall_id: 57b98846-85e3-47c7-a903-29953d0b0e8a
-> quantity: 13
+> quantity: 14
 > tags:
 >   - card
 >   - collection

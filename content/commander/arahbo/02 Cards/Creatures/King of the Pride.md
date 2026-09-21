@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:King of the Pride`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{W}  
 > **Type:** Creature — Cat  
 > **P/T:** 2/1  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![King of the Pride](https://cards.scryfall.io/border_crop/front/c/4/c4e83abd-6f15-491e-9253-90af9f6f1025.jpg)
+> ![King of the Pride](https://cards.scryfall.io/border_crop/front/5/6/56b8343f-0554-42b1-9e32-431dcc4b0346.jpg)
 >
 > ### Deck Scores
 >
@@ -48,7 +48,7 @@ Other Cats you control [[03 Effects/Pump Creatures|get +2/+1]].
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/King of the Pride|King of the Pride]] is other Cats get +2/+1. Pure lord. Three mana. Stacks with First Fang, Banner, Regal, Sovereign. Not a token maker. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/King of the Pride|King of the Pride]] is other Cats get +2/+1. Pure lord. Three mana. Stacks with First Fang, Banner, Regal, Sovereign. Not a token maker. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ Other Cats you control [[03 Effects/Pump Creatures|get +2/+1]].
 ## Anti-synergies / Notes
 
 - Does not pump itself. Empty-board King is a 2/1.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -85,15 +85,15 @@ Other Cats you control [[03 Effects/Pump Creatures|get +2/+1]].
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: c4e83abd-6f15-491e-9253-90af9f6f1025
+> scryfall_id: 56b8343f-0554-42b1-9e32-431dcc4b0346
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

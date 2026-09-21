@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Firdoch Core`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}  
 > **Type:** Kindred Artifact — Shapeshifter  
 >
@@ -49,7 +49,7 @@ Changeling (This card is every creature type.)
 
 ## Deck Role & Rating
 
-[[02 Cards/Artifacts/Firdoch Core|Firdoch Core]] chooses a creature type and pumps it, and it taps for mana. Name Cat. Second Banner, not a generic mana rock. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Artifacts/Firdoch Core|Firdoch Core]] chooses a creature type and pumps it, and it taps for mana. Name Cat. Second Banner, not a generic mana rock. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@ Changeling (This card is every creature type.)
 ## Anti-synergies / Notes
 
 - Naming anything except Cat is a miss.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Changeling (This card is every creature type.)
 > colors: []
 > color_identity: []
 > keywords: ["Changeling"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -94,7 +94,7 @@ Changeling (This card is every creature type.)
 > scryfall_id: 8e45cd37-bf97-4742-978d-96f96ed653cd
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

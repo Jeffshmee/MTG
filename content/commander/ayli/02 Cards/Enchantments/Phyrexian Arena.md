@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Phyrexian Arena`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}{B}  
 > **Type:** Enchantment  
 >
@@ -47,7 +47,7 @@ At the beginning of your upkeep, you [[03 Effects/Draw a Card|draw a card]] and 
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Phyrexian Arena|Phyrexian Arena]] at {1}{B}{B}: at the beginning of your upkeep, you draw a card and you lose 1 life. Draw is for hitting lands and fodder, not a blink loop. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Enchantments/Phyrexian Arena|Phyrexian Arena]] at {1}{B}{B}: at the beginning of your upkeep, you draw a card and you lose 1 life. Draw is for hitting lands and fodder, not a blink loop. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ At the beginning of your upkeep, you [[03 Effects/Draw a Card|draw a card]] and 
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -85,7 +85,7 @@ At the beginning of your upkeep, you [[03 Effects/Draw a Card|draw a card]] and 
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -93,7 +93,7 @@ At the beginning of your upkeep, you [[03 Effects/Draw a Card|draw a card]] and 
 > scryfall_id: 0784b6f0-9ebf-43d2-ba0f-a6bc93ba0c48
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

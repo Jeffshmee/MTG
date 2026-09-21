@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**278** copies · **208** names.
+**294** copies · **218** names.
 
 ```decklist
 group: auto
@@ -12,6 +12,7 @@ legality: commander
 3 Abigale, Poet Laureate // Heroic Stanza
 1 Abstract Paintmage
 1 Alela, Cunning Conqueror
+1 Alesha, Who Laughs at Fate
 1 Anim Pakal, Thousandth Moon
 1 Arahbo, Roar of the World
 1 Aron, Benalia's Ruin
@@ -65,7 +66,7 @@ legality: commander
 1 Halana and Alena, Partners
 3 High Perfect Morcant
 1 Immersturm Predator
-3 Imperious Inkmage
+4 Imperious Inkmage
 3 Inkling Mascot
 1 Inquisitive Glimmer
 1 Isshin, Two Heavens as One
@@ -77,10 +78,12 @@ legality: commander
 1 Karlov of the Ghost Council
 1 Katara, the Fearless
 2 Kirol, History Buff // Pack a Punch
+1 Kutzil, Malamet Exemplar
 1 Kykar, Zephyr Awakener
 2 Lathril, Blade of the Elves
 1 Ledev Champion
 1 Lilysplash Mentor
+1 Lluwen, Exchange Student // Pest Friend
 1 Lluwen, Imperfect Naturalist
 1 Maraleaf Pixie
 3 Maralen, Fae Ascendant
@@ -103,7 +106,7 @@ legality: commander
 1 Pond Prophet
 1 Practiced Scrollsmith
 2 Private Eye
-4 Pterafractyl
+5 Pterafractyl
 1 Queen Allenal of Ruadach
 1 Rakish Scoundrel
 1 Reflector Mage
@@ -121,12 +124,13 @@ legality: commander
 1 Soulherder
 1 Sovereign Okinec Ahau
 1 Spectacular Skywhale
+1 Speedball, New Warrior
 1 Spider Manifestation
 3 Spirit Mascot
 3 Stadium Tidalmage
 1 Stalwart Successor
 2 Startled Relic Sloth
-1 Stirring Honormancer
+2 Stirring Honormancer
 1 Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield
 2 Tam, Observant Sequencer // Deep Sight
 1 Tatyova, Benthic Druid
@@ -141,6 +145,7 @@ legality: commander
 1 Thorin Oakenshield
 1 Thranduil's Company
 1 Thranduil, Sindarin Liege // Silvan Rally
+1 Thranduil, the Elvenking
 1 Tolsimir, Midnight's Light
 1 Trygon Predator
 1 Twinflame Travelers
@@ -148,6 +153,7 @@ legality: commander
 1 Veteran Beastrider
 1 Veteran Guardmouse
 1 Vinereap Mentor
+1 Wall of Denial
 2 Wardens of the Cycle
 1 Wilt-Leaf Liege
 1 Zimone, Paradox Sculptor
@@ -173,15 +179,17 @@ legality: commander
 1 Rakshasa's Bargain
 1 Silverquill Charm
 2 Stress Dream
+1 Suspend Aggression
 1 Teach by Example
 1 Traumatic Critique
-1 Vibrant Outburst
+2 Vibrant Outburst
 3 Wilt in the Heat
 1 Witherbloom Charm
 
 # Sorceries
 1 Borrowed Knowledge
 1 Deadly Brew
+1 Debt to the Deathless
 1 Defibrillating Current
 1 Fix What's Broken
 1 Flower // Flourish
@@ -194,11 +202,11 @@ legality: commander
 1 Mammoth Bellow
 1 Mind into Matter
 1 Mind Roots
-3 Molten Note
+4 Molten Note
 2 Moment of Reckoning
 4 Pursue the Past
 1 Push // Pull
-5 Render Speechless
+6 Render Speechless
 2 Root Manipulation
 1 Shadow Summoning
 1 Social Snub
@@ -208,6 +216,7 @@ legality: commander
 # Enchantments
 1 All-Out Assault
 1 Anthem of Champions
+1 Hidden Stockpile
 1 Hollowmurk Siege
 1 Insidious Roots
 1 Mardu Ascendancy
@@ -217,6 +226,7 @@ legality: commander
 1 Thousand-Year Storm
 1 Thunder of Unity
 1 Unflinching Courage
+1 Warleader's Call
 1 Windcrag Siege
 
 # Artifacts

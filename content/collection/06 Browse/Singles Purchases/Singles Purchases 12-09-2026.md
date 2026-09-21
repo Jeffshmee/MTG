@@ -10,7 +10,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 
 | Card | | Mana | Type | Deck | Note |
 |------|--|------|------|------|------|
-| [**`mtg:Authority of the Consuls`**](https://scryfall.com/card/fic/232) | [[02 Cards/Enchantments/Authority of the Consuls\|PAGE]] | {W} | [[03 Card Types/Enchantment\|Enchantment]] | Arahbo | FIC 232 foil (Recollect-Ltd). Combined 92 Arahbo / 92 Ayli / 81 Kykar. Default Arahbo first-sleeve (Ocelot Pride lifegain). AtomikSnowball FDN 137 foil still outstanding. |
+| [**`mtg:Authority of the Consuls`**](https://scryfall.com/card/fdn/137) | [[02 Cards/Enchantments/Authority of the Consuls\|PAGE]] | {W} | [[03 Card Types/Enchantment\|Enchantment]] | Arahbo | FIC 232 foil (Recollect-Ltd). Combined 92 Arahbo / 92 Ayli / 81 Kykar. Default Arahbo first-sleeve (Ocelot Pride lifegain). AtomikSnowball FDN 137 foil still outstanding. |
 | [**`mtg:Ocelot Pride`**](https://scryfall.com/card/mh3/38) | [[02 Cards/Creatures/Ocelot Pride\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] | Arahbo | Arahbo first-sleeve. |
 | [**`mtg:Knight of the White Orchid`**](https://scryfall.com/card/moc/193) | [[02 Cards/Creatures/Knight of the White Orchid\|PAGE]] | {W}{W} | [[03 Card Types/Creature\|Creature]] | Ayli | MOC 193 (Recollect-Ltd). Combined 81 Ayli / 83 Kykar. Default Ayli first-sleeve (no cut). Kykar wants the blinkable Plains ETB on 25 lands — optional named cut if you refuse Ayli. |
 | [**`mtg:Unclaimed Territory`**](https://scryfall.com/card/xln/258) | [[02 Cards/Lands/Unclaimed Territory\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Arahbo | Arahbo first-sleeve. |

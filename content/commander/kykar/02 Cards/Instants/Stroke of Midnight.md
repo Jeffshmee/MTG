@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Stroke of Midnight`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{W}  
 > **Type:** Instant  
 >
@@ -85,7 +85,7 @@ Stroke of Midnight ({2}{W}). Owned. Exile a nonland, they get a 1/1. Answers eng
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 84
 >   deck_specific: 86
@@ -93,7 +93,7 @@ Stroke of Midnight ({2}{W}). Owned. Exile a nonland, they get a 1/1. Answers eng
 > scryfall_id: b000f605-177f-459d-a197-fcf54efec2fb
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - instant
 > ```
 

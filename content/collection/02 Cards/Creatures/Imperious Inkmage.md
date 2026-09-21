@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>3</div>
+<div class="synergy-score-num"><span>Copies</span>4</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>195</td><td>—</td><td>3</td><td>Box</td><td>0.03</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>195</td><td>—</td><td>4</td><td>Box</td><td>0.03</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/d/5/d5df1c3f-2536-4476-b8cd-34b026c38366.jpg" alt="Imperious Inkmage SOS 195 · ×3">
-<figcaption>SOS 195 · ×3</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/d/5/d5df1c3f-2536-4476-b8cd-34b026c38366.jpg" alt="Imperious Inkmage SOS 195 · ×4">
+<figcaption>SOS 195 · ×4</figcaption>
 </figure>
 </div>
 
@@ -75,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 3
 > type: "Creature — Orc Warlock"
 > scryfall_id: d5df1c3f-2536-4476-b8cd-34b026c38366
-> quantity: 3
+> quantity: 4
 > tags:
 >   - card
 >   - collection

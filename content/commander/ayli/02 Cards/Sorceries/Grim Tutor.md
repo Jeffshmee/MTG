@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Grim Tutor`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}{B}  
 > **Type:** Sorcery  
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Grim Tutor|Grim Tutor]] is {1}{B}{B}: any card into hand, lose 3 life. Same find as [[02 Cards/Sorceries/Demonic Tutor|Demonic Tutor]], one mana and one life more. The life feeds [[02 Cards/Creatures/Essence Channeler|Essence Channeler]]. 🟡 Ordered (Axion_Now M21 315 foil) — not in hand. Do not sleeve a proxy.
+[[02 Cards/Sorceries/Grim Tutor|Grim Tutor]] is {1}{B}{B}: any card into hand, lose 3 life. Same find as [[02 Cards/Sorceries/Demonic Tutor|Demonic Tutor]], one mana and one life more. The life feeds [[02 Cards/Creatures/Essence Channeler|Essence Channeler]]. In hand 17/09/2026 (Axion_Now M21 315 foil). Binders stay Box until a named cut.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet. Status stays Ordered until it is in hand.
+- Sleeved 17/09/2026.
 - Three mana is a lot on the same turn as Ayli exile. Demonic is the first tutor to sleeve.
 
 ## Related Pages
@@ -87,7 +87,7 @@
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 86
 >   deck_specific: 90
@@ -95,7 +95,7 @@
 > scryfall_id: fbf0dded-552a-4ad2-bb62-f1bfabad9bac
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

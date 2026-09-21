@@ -2,7 +2,7 @@
 
 Creature type: Noble.
 
-**23** copies · **18** names.
+**24** copies · **19** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -23,4 +23,5 @@ Creature type: Noble.
 | [**`mtg:Sovereign Okinec Ahau`**](https://scryfall.com/card/lci/240) | [[02 Cards/Creatures/Sovereign Okinec Ahau\|PAGE]] | {2}{G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.50 |
 | [**`mtg:Thranduil, Sindarin Liege`**](https://scryfall.com/card/hob/166) | [[02 Cards/Creatures/Thranduil, Sindarin Liege\|PAGE]] | {2}{G/U}{G/U} // {1}{G/U}{G/U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |
 | [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 1.15 |
+| [**`mtg:Thranduil, the Elvenking`**](https://scryfall.com/card/hob/246) | [[02 Cards/Creatures/Thranduil, the Elvenking\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 15.41 |
 | [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | {4}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 2.50 |

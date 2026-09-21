@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
+| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -32,6 +32,7 @@
 | 21/08/2026 | Ordered to owned |
 | 24/08/2026 | Traded to Mark for Leaf-Crowned Visionary |
 | 09/09/2026 | MageCards · LvlUpGaming |
+| 16/09/2026 | MageCards · MTG_Factory |
 
 </div>
 
@@ -40,7 +41,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>6</div>
+<div class="synergy-score-num"><span>Copies</span>7</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -49,6 +50,7 @@
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>283</td><td>—</td><td>1</td><td>Zurgo</td><td>0.40</td></tr>
 <tr><td>Final Fantasy Commander (<code>FIC</code>)</td><td>332</td><td>—</td><td>3</td><td>Box</td><td>0.70</td></tr>
 <tr><td>Final Fantasy Commander (<code>FIC</code>)</td><td>335</td><td>—</td><td>1</td><td>Kykar</td><td>0.76</td></tr>
+<tr><td>Final Fantasy Commander (<code>FIC</code>)</td><td>333</td><td>—</td><td>1</td><td>Ayli</td><td>0.74</td></tr>
 </tbody>
 </table>
 </div>
@@ -59,6 +61,7 @@
 - [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
 - [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -68,6 +71,10 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/9/c/9ce66ebc-b39f-4b40-9d95-981629a5dd06.jpg" alt="Arcane Signet FIC 332 · ×4">
 <figcaption>FIC 332 · ×4</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/4/f4f7cc5b-a52a-470b-8970-260b61c91ad5.jpg" alt="Arcane Signet FIC 333 · ×1">
+<figcaption>FIC 333 · ×1</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/4/c/4c861c4c-0520-46d9-b281-63a1188417dc.jpg" alt="Arcane Signet FIC 335 · ×1">
@@ -81,7 +88,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/FIC|Final Fantasy Commander]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/FIC|Final Fantasy Commander]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]]
 
 ---
 
@@ -94,7 +101,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 2
 > type: "Artifact"
 > scryfall_id: 9ce66ebc-b39f-4b40-9d95-981629a5dd06
-> quantity: 6
+> quantity: 7
 > tags:
 >   - artifact
 >   - card

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ashnod's Altar`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}  
 > **Type:** Artifact  
 >
@@ -47,14 +47,14 @@ Sacrifice a creature: [[03 Effects/Add Mana|Add]] {C}{C}.
 
 ## Deck Role & Rating
 
-[[02 Cards/Artifacts/Ashnod's Altar|Ashnod's Altar]] is a free sac outlet that makes {C}{C}. Ayli's sac costs {1} and pays toughness in life; the Altar pays mana. [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]] and [[02 Cards/Creatures/Priest of Forgotten Gods|Priest of Forgotten Gods]] are the sleeved outlets. This copy is 🟡 Ordered — add when it is in hand. Do not sleeve a proxy.
+[[02 Cards/Artifacts/Ashnod's Altar|Ashnod's Altar]] is a free sac outlet that makes {C}{C}. Ayli's sac costs {1} and pays toughness in life; the Altar pays mana. [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]] and [[02 Cards/Creatures/Priest of Forgotten Gods|Priest of Forgotten Gods]] are the sleeved outlets. Sleeved 16/09/2026.
 
 ## Play Patterns & Lines
 
 - Sac Sage / Inspector / a token, not Delney or Hinterland. The {C}{C} dumps Delney or Wurm.
 - The death feeds Bastion and Bloodwitch. Ayli exile is not a death.
 - Do not tap the last mana if Ayli exile is up the same turn.
-- 🟡 Ordered. Do not sleeve a proxy. Binders stay Box until this copy is in hand.
+- Sleeved 16/09/2026.
 
 ## Key Synergies
 
@@ -64,7 +64,7 @@ Sacrifice a creature: [[03 Effects/Add Mana|Add]] {C}{C}.
 ## Anti-synergies / Notes
 
 - Colourless mana. Does not make {W} or {B}. Tokens that leave to exile do not pay the cost.
-- Purchased, not in hand. Status stays Ordered until you sleeve it.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -87,7 +87,7 @@ Sacrifice a creature: [[03 Effects/Add Mana|Add]] {C}{C}.
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -95,7 +95,7 @@ Sacrifice a creature: [[03 Effects/Add Mana|Add]] {C}{C}.
 > scryfall_id: 3c0f7157-a375-499c-92c7-d47d2e95dbad
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

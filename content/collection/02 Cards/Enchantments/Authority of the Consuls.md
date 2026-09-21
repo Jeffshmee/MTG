@@ -5,7 +5,7 @@
 > **Mana Cost:** {W}
 > **Type:** Enchantment
 >
-> ![Authority of the Consuls](https://cards.scryfall.io/border_crop/front/5/3/53e3fa87-8de0-4e3a-90bf-780dd0a9fb48.jpg)
+> ![Authority of the Consuls](https://cards.scryfall.io/border_crop/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg)
 
 <div class="collection-side-tables">
 
@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
-| **Where** | [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
+| **Where** | [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 12/09/2026 | Cardmarket · Recollect-Ltd |
+| 17/09/2026 | MageCards · AtomikSnowball |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Final Fantasy Commander (<code>FIC</code>)</td><td>232</td><td>foil</td><td>1</td><td>Ayli</td><td>5.95</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>137</td><td>foil</td><td>1</td><td>Arahbo</td><td>3.97</td></tr>
 </tbody>
 </table>
 </div>
@@ -52,12 +54,17 @@
 ## In decks
 
 - [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
 Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg" alt="Authority of the Consuls FDN 137 · ×1">
+<figcaption>FDN 137 · ×1</figcaption>
+</figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/5/3/53e3fa87-8de0-4e3a-90bf-780dd0a9fb48.jpg" alt="Authority of the Consuls FIC 232 · ×1">
 <figcaption>FIC 232 · ×1</figcaption>
@@ -66,7 +73,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Enchantment|Enchantment]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/FIC|Final Fantasy Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Enchantment|Enchantment]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/FIC|Final Fantasy Commander]] · [[06 Browse/Sets/FDN|Foundations]]
 
 ---
 
@@ -78,8 +85,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: "{W}"
 > cmc: 1
 > type: "Enchantment"
-> scryfall_id: 53e3fa87-8de0-4e3a-90bf-780dd0a9fb48
-> quantity: 1
+> scryfall_id: 42ce2d7f-5924-47c0-b5ed-dacf9f9617a0
+> quantity: 2
 > tags:
 >   - card
 >   - collection

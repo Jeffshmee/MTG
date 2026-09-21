@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Skyknight Squire`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Cat Scout  
 > **P/T:** 1/1  
@@ -50,7 +50,7 @@ As long as this creature has three or more +1/+1 counters on it, it has [[03 Eff
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Skyknight Squire|Skyknight Squire]] grows a +1/+1 counter whenever another creature enters, and at 3+ counters it has flying and is a Knight. First Fang, tokens, Parent — every ETB is a counter. A Cat that becomes a flyer. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Skyknight Squire|Skyknight Squire]] grows a +1/+1 counter whenever another creature enters, and at 3+ counters it has flying and is a Knight. First Fang, tokens, Parent — every ETB is a counter. A Cat that becomes a flyer. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ As long as this creature has three or more +1/+1 counters on it, it has [[03 Eff
 ## Anti-synergies / Notes
 
 - Does nothing if you never play another creature. Counters die with it.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -88,7 +88,7 @@ As long as this creature has three or more +1/+1 counters on it, it has [[03 Eff
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -96,7 +96,7 @@ As long as this creature has three or more +1/+1 counters on it, it has [[03 Eff
 > scryfall_id: fcfe4e62-c153-47b8-8e09-cedaf91f53d8
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

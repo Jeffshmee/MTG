@@ -61,7 +61,6 @@
 <tr><td>Foundations (<code>FDN</code>)</td><td>286</td><td>—</td><td>1</td><td>Zurgo</td><td>0.67</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>191</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>276</td><td>foil</td><td>1</td><td>Maralen</td><td>0.14</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>269</td><td>—</td><td>1</td><td>Maralen</td><td>0.52</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>277</td><td>foil</td><td>1</td><td>Box</td><td>0.20</td></tr>
 <tr><td>Strixhaven: School of Mages (<code>STX</code>)</td><td>371</td><td>foil</td><td>1</td><td>Maralen</td><td>0.07</td></tr>
 <tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>282</td><td>foil</td><td>1</td><td>Maralen</td><td>0.13</td></tr>
@@ -77,6 +76,7 @@
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>281</td><td>foil</td><td>1</td><td>Ayli</td><td>0.08</td></tr>
 <tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>282</td><td>foil</td><td>1</td><td>Box</td><td>0.13</td></tr>
 <tr><td>Phyrexia: All Will Be One (<code>ONE</code>)</td><td>274</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.12</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>269</td><td>—</td><td>1</td><td>Box</td><td>0.52</td></tr>
 </tbody>
 </table>
 </div>

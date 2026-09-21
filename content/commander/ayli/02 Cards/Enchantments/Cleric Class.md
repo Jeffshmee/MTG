@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Cleric Class`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}  
 > **Type:** Enchantment — Class  
 >
@@ -89,7 +89,7 @@ When this Class becomes level 3, return target creature card from your graveyard
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -97,7 +97,7 @@ When this Class becomes level 3, return target creature card from your graveyard
 > scryfall_id: 47ce8b7e-d8e1-489a-a69e-99089eeb8739
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

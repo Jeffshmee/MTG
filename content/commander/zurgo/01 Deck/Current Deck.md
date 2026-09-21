@@ -18,11 +18,11 @@ legality: commander
 1 Loyal Apprentice
 1 Shocking Sharpshooter
 1 Adeline, Resplendent Cathar
+1 Alesha, Who Laughs at Fate
 1 Anim Pakal, Thousandth Moon
 1 Aron, Benalia's Ruin
 1 Boggart Mischief
 1 Dalkovan Packbeasts
-1 Gix, Yawgmoth Praetor
 1 Isshin, Two Heavens as One
 1 Kambal, Profiteering Mayor
 1 Legion Warboss
@@ -47,7 +47,6 @@ legality: commander
 1 Thalisse, Reverent Medium
 1 Aurelia, the Warleader
 1 Sun Titan
-1 Myr Battlesphere
 
 # Planeswalkers
 1 Kaya, Geist Hunter
@@ -70,6 +69,7 @@ legality: commander
 1 Impact Tremors
 1 Bastion of Remembrance
 1 Mardu Ascendancy
+1 Warleader's Call
 1 Windcrag Siege
 1 Within Range
 1 All-Out Assault
@@ -100,10 +100,11 @@ legality: commander
 1 Fetid Heath
 1 Godless Shrine
 1 Isolated Chapel
-4 Mountain
+3 Mountain
 1 Nomad Outpost
 1 Path of Ancestry
 4 Plains
+1 Rugged Prairie
 1 Sacred Foundry
 1 Savai Triome
 1 Shattered Landscape
@@ -118,7 +119,7 @@ legality: commander
 ---
 
 *Source: `mardu-zurgo/07 Assets/current-deck.md`*
-*Last synced: 2026-09-14 (Rem Karolus)*
+*Last synced: 2026-08-30*
 
 ---
 
@@ -135,11 +136,11 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Loyal Apprentice|Loyal Apprentice]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Shocking Sharpshooter|Shocking Sharpshooter]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
+- [[02 Cards/Creatures/Alesha, Who Laughs at Fate|Alesha, Who Laughs at Fate]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Anim Pakal, Thousandth Moon|Anim Pakal, Thousandth Moon]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Aron, Benalia's Ruin|Aron, Benalia's Ruin]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Enchantments/Boggart Mischief|Boggart Mischief]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Dalkovan Packbeasts|Dalkovan Packbeasts]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
-- [[02 Cards/Creatures/Gix, Yawgmoth Praetor|Gix, Yawgmoth Praetor]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Isshin, Two Heavens as One|Isshin, Two Heavens as One]] **96** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:96%"></div></div>
 - [[02 Cards/Creatures/Kambal, Profiteering Mayor|Kambal, Profiteering Mayor]] **74** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:74%"></div></div>
 - [[02 Cards/Creatures/Legion Warboss|Legion Warboss]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
@@ -165,7 +166,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Thalisse, Reverent Medium|Thalisse, Reverent Medium]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Aurelia, the Warleader|Aurelia, the Warleader]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Sun Titan|Sun Titan]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
-- [[02 Cards/Creatures/Myr Battlesphere|Myr Battlesphere]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 
 ### Planeswalkers
 - [[02 Cards/Planeswalkers/Kaya, Geist Hunter|Kaya, Geist Hunter]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
@@ -188,6 +188,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Enchantments/Impact Tremors|Impact Tremors]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Enchantments/Mardu Ascendancy|Mardu Ascendancy]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
+- [[02 Cards/Enchantments/Warleader's Call|Warleader's Call]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Enchantments/Windcrag Siege|Windcrag Siege]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Enchantments/Within Range|Within Range]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Enchantments/All-Out Assault|All-Out Assault]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
@@ -222,6 +223,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Lands/Nomad Outpost|Nomad Outpost]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Lands/Plains|Plains]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>
+- [[02 Cards/Lands/Rugged Prairie|Rugged Prairie]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Lands/Sacred Foundry|Sacred Foundry]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Savai Triome|Savai Triome]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Shattered Landscape|Shattered Landscape]] **69** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:69%"></div></div>

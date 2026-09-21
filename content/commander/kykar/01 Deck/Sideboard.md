@@ -34,6 +34,7 @@ legality: commander
 1 Banishing Light
 1 Cloudkin Seer
 1 Divide by Zero
+1 Elrond, Moon-Reader
 1 Empyrean Eagle
 1 Inspiring Overseer
 1 Mentor of the Meek
@@ -41,6 +42,7 @@ legality: commander
 1 Sevinne's Reclamation
 1 Skyscanner
 1 Stormplain Detainment
+1 Stroke of Midnight
 1 Tocasia's Welcome
 1 Winged Words
 1 Day of Judgment
@@ -55,6 +57,10 @@ legality: commander
 1 Wisdom of Ages
 
 # Ordered
+1 Cloudshift
+1 Skyclave Apparition
+1 Venser, Shaper Savant
+1 Time Wipe
 
 # Wishlist
 1 Adarkar Wastes
@@ -64,9 +70,7 @@ legality: commander
 1 Reliquary Tower
 1 Riptide Laboratory
 1 Sea of Clouds
-1 Seachrome Coast
 1 Skycloud Expanse
-1 Cloudshift
 1 Consider
 1 Essence Flux
 1 Path to Exile
@@ -78,7 +82,6 @@ legality: commander
 1 Parting Gust
 1 Razorgrass Ambush
 1 Sapphire Medallion
-1 Thought Vessel
 1 Wall of Omens
 1 Circuit Mender
 1 Eerie Interlude
@@ -90,21 +93,18 @@ legality: commander
 1 Man-o'-War
 1 Recruiter of the Guard
 1 Sink into Stupor
-1 Skyclave Apparition
 1 Spellseeker
 1 Restoration Angel
 1 Supreme Verdict
-1 Venser, Shaper Savant
 1 Witch Enchanter
 1 Conjurer's Closet
 1 Evacuation
-1 Time Wipe
 ```
 
 ---
 
 *Source: `kykar-zephyr/07 Assets/sideboard.md`*
-*Last synced: 2026-09-14 (Eiganjo / Clock / Sower)*
+*Last synced: 2026-09-18 (Seachrome Coast sleeved)*
 
 ---
 
@@ -154,7 +154,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Wall of Omens|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Circuit Mender`**
 > **83** / 100 · ⚪ Wishlist
@@ -162,13 +162,21 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Circuit Mender|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Cloudkin Seer`**
 > **79** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:79%"></div></div>
 >
 > [[02 Cards/Creatures/Cloudkin Seer|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Elrond, Moon-Reader`**
+> **84** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Creatures/Elrond, Moon-Reader|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -186,7 +194,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Exclusion Mage|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Hydroelectric Specimen`**
 > **85** / 100 · ⚪ Wishlist
@@ -194,7 +202,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Hydroelectric Specimen|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Inspiring Overseer`**
 > **84** / 100 · 🟢 Owned
@@ -205,12 +213,12 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Man-o'-War`**
-> **82** / 100 · 🟡 Ordered
+> **82** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:82%"></div></div>
 >
 > [[02 Cards/Creatures/Man-o'-War|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Mentor of the Meek`**
 > **75** / 100 · 🟢 Owned
@@ -226,7 +234,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Recruiter of the Guard|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Skyclave Apparition`**
 > **90** / 100 · 🟡 Ordered
@@ -234,7 +242,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Skyclave Apparition|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Purchased, not in hand. Add when the shipment arrives.*
 
 > [!info] **`mtg:Skyscanner`**
 > **79** / 100 · 🟢 Owned
@@ -250,7 +258,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Spellseeker|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Felidar Savior`**
 > **76** / 100 · 🟢 Owned
@@ -266,7 +274,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Restoration Angel|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Solemn Simulacrum`**
 > **83** / 100 · 🟢 Owned
@@ -282,7 +290,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Venser, Shaper Savant|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Purchased, not in hand. Add when the shipment arrives.*
 
 > [!info] **`mtg:Witch Enchanter`**
 > **87** / 100 · ⚪ Wishlist
@@ -290,7 +298,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Creatures/Witch Enchanter|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Bard, King of Dale`**
 > **80** / 100 · 🟢 Owned
@@ -315,7 +323,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Cloudshift|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Purchased, not in hand. Add when the shipment arrives.*
 
 > [!info] **`mtg:Consider`**
 > **86** / 100 · ⚪ Wishlist
@@ -323,7 +331,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Consider|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Divine Resilience`**
 > **74** / 100 · 🟢 Owned
@@ -339,7 +347,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Essence Flux|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Opt`**
 > **90** / 100 · 🟢 Owned
@@ -355,7 +363,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Path to Exile|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Disenchant`**
 > **75** / 100 · 🟢 Owned
@@ -371,7 +379,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Dovin's Veto|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Essence Scatter`**
 > **73** / 100 · 🟢 Owned
@@ -387,7 +395,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Get Lost|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Mission Briefing`**
 > **82** / 100 · 🟢 Owned
@@ -398,12 +406,12 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Momentary Blink`**
-> **85** / 100 · 🟡 Ordered
+> **85** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Instants/Momentary Blink|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Parting Gust`**
 > **84** / 100 · ⚪ Wishlist
@@ -411,7 +419,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Parting Gust|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Personify`**
 > **76** / 100 · 🟢 Owned
@@ -427,7 +435,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Razorgrass Ambush|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Run Away Together`**
 > **69** / 100 · 🟢 Owned
@@ -451,7 +459,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Eerie Interlude|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Frantic Search`**
 > **86** / 100 · ⚪ Wishlist
@@ -459,7 +467,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Frantic Search|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Generous Gift`**
 > **85** / 100 · ⚪ Wishlist
@@ -467,7 +475,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Generous Gift|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Refute`**
 > **77** / 100 · 🟢 Owned
@@ -482,6 +490,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Instants/Sink into Stupor|Open local page →]]
+>
+> *Stay in sideboard / wishlist — not purchased.*
+
+> [!info] **`mtg:Stroke of Midnight`**
+> **85** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:85%"></div></div>
+>
+> [[02 Cards/Instants/Stroke of Midnight|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -499,7 +515,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Instants/Evacuation|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 ### Sorceries
 > [!info] **`mtg:Preordain`**
@@ -508,7 +524,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Preordain|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Chart a Course`**
 > **76** / 100 · 🟢 Owned
@@ -564,7 +580,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Supreme Verdict|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Time Wipe`**
 > **89** / 100 · 🟡 Ordered
@@ -572,7 +588,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Sorceries/Time Wipe|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Purchased, not in hand. Add when the shipment arrives.*
 
 > [!info] **`mtg:Turtles in Time`**
 > **80** / 100 · 🟢 Owned
@@ -629,7 +645,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Enchantments/Ghostly Prison|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Stormplain Detainment`**
 > **82** / 100 · 🟢 Owned
@@ -670,7 +686,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Artifacts/Mind Stone|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Sapphire Medallion`**
 > **84** / 100 · ⚪ Wishlist
@@ -678,7 +694,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Artifacts/Sapphire Medallion|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Talisman of Progress`**
 > **85** / 100 · 🟢 Owned
@@ -688,21 +704,13 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
-> [!info] **`mtg:Thought Vessel`**
-> **85** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:85%"></div></div>
->
-> [[02 Cards/Artifacts/Thought Vessel|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
 > [!info] **`mtg:Conjurer's Closet`**
 > **85** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Artifacts/Conjurer's Closet|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 ### Lands
 > [!info] **`mtg:Adarkar Wastes`**
@@ -711,7 +719,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Adarkar Wastes|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Azorius Guildgate`**
 > **72** / 100 · 🟢 Owned
@@ -743,7 +751,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Hengegate Pathway|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Hidden Grotto`**
 > **67** / 100 · 🟢 Owned
@@ -759,7 +767,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Meticulous Archive|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Otawara, Soaring City`**
 > **89** / 100 · ⚪ Wishlist
@@ -767,7 +775,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Otawara, Soaring City|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Reliquary Tower`**
 > **84** / 100 · ⚪ Wishlist
@@ -775,7 +783,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Reliquary Tower|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Riptide Laboratory`**
 > **84** / 100 · ⚪ Wishlist
@@ -783,7 +791,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Riptide Laboratory|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Sea of Clouds`**
 > **82** / 100 · ⚪ Wishlist
@@ -791,15 +799,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Sea of Clouds|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
-> [!info] **`mtg:Seachrome Coast`**
-> **83** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:83%"></div></div>
->
-> [[02 Cards/Lands/Seachrome Coast|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Skycloud Expanse`**
 > **82** / 100 · ⚪ Wishlist
@@ -807,7 +807,7 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > [[02 Cards/Lands/Skycloud Expanse|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Terramorphic Expanse`**
 > **73** / 100 · 🟢 Owned

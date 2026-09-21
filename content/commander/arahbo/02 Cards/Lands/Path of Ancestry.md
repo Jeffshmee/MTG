@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Path of Ancestry`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Path of Ancestry](https://cards.scryfall.io/border_crop/front/9/3/9335e773-4b45-4b91-8140-5159fe7e0395.jpg)
+> ![Path of Ancestry](https://cards.scryfall.io/border_crop/front/4/d/4dd83a5d-1908-4141-8449-fac5e77cd6c0.jpg)
 >
 > ### Deck Scores
 >
@@ -50,7 +50,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] this land enters tapped. Tapped — third land, not the land for a turn-1 Cat. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Path of Ancestry|Path of Ancestry]] this land enters tapped. Tapped — third land, not the land for a turn-1 Cat. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 - Tapped. Third land, not the land for a turn-1 Cat.
 
 ## Related Pages
@@ -89,15 +89,15 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 > colors: []
 > color_identity: []
 > keywords: ["Scry"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: 9335e773-4b45-4b91-8140-5159fe7e0395
+> scryfall_id: 4dd83a5d-1908-4141-8449-fac5e77cd6c0
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

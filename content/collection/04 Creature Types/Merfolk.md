@@ -2,7 +2,7 @@
 
 Creature type: Merfolk.
 
-**32** copies · **22** names.
+**33** copies · **22** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -12,7 +12,7 @@ Creature type: Merfolk.
 | [**`mtg:Gravelgill Scoundrel`**](https://scryfall.com/card/ecl/53) | [[02 Cards/Creatures/Gravelgill Scoundrel\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Harbinger of the Tides`**](https://scryfall.com/card/fdn/593) | [[02 Cards/Creatures/Harbinger of the Tides\|PAGE]] | {U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |
 | [**`mtg:Hydro-Channeler`**](https://scryfall.com/card/sos/54) | [[02 Cards/Creatures/Hydro-Channeler\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.36 |
-| [**`mtg:Landscape Painter`**](https://scryfall.com/card/sos/56) | [[02 Cards/Creatures/Landscape Painter\|PAGE]] | {1}{U} // {4}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.11 |
+| [**`mtg:Landscape Painter`**](https://scryfall.com/card/sos/56) | [[02 Cards/Creatures/Landscape Painter\|PAGE]] | {1}{U} // {4}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 0.15 |
 | [**`mtg:Silvergill Mentor`**](https://scryfall.com/card/ecl/69) | [[02 Cards/Creatures/Silvergill Mentor\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Sygg, Wanderwine Wisdom`**](https://scryfall.com/card/ecl/76) | [[02 Cards/Creatures/Sygg, Wanderwine Wisdom\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
 | [**`mtg:Wanderbrine Preacher`**](https://scryfall.com/card/ecl/41) | [[02 Cards/Creatures/Wanderbrine Preacher\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |

@@ -19,7 +19,6 @@ legality: commander
 1 Selfless Spirit
 1 Aether Channeler
 1 Deputy of Detention
-1 Elrond, Moon-Reader
 1 Glasspool Mimic
 1 Kitesail Larcenist
 1 Loran of the Third Path
@@ -31,6 +30,7 @@ legality: commander
 1 Archaeomancer
 1 Bigfin Bouncer
 1 Displacer Kitten
+1 Eluge, the Shoreless Sea
 1 High Fae Trickster
 1 Micromancer
 1 Naga Fleshcrafter
@@ -60,7 +60,6 @@ legality: commander
 1 Snap
 1 Think Twice
 1 Ghostly Flicker
-1 Stroke of Midnight
 1 Aetherize
 
 # Sorceries
@@ -89,6 +88,7 @@ legality: commander
 1 Arcane Signet
 1 Azorius Signet
 1 Swiftfoot Boots
+1 Thought Vessel
 1 Wizard's Staff
 1 Midnight Clock
 1 Panharmonicon
@@ -105,9 +105,11 @@ legality: commander
 1 Irrigated Farmland
 9 Island
 1 Mystic Sanctuary
-3 Plains
+1 Plains
 1 Port Town
 1 Prairie Stream
+1 Restless Anchorage
+1 Seachrome Coast
 1 Temple of Enlightenment
 1 Tranquil Cove
 ```
@@ -115,7 +117,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-14 (Eiganjo / Clock / Sower)*
+*Last synced: 2026-09-18 (Seachrome Coast)*
 
 ---
 
@@ -133,7 +135,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Selfless Spirit|Selfless Spirit]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Aether Channeler|Aether Channeler]] **93** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:93%"></div></div>
 - [[02 Cards/Creatures/Deputy of Detention|Deputy of Detention]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
-- [[02 Cards/Creatures/Elrond, Moon-Reader|Elrond, Moon-Reader]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Glasspool Mimic|Glasspool Mimic]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Kitesail Larcenist|Kitesail Larcenist]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Loran of the Third Path|Loran of the Third Path]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
@@ -145,6 +146,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Archaeomancer|Archaeomancer]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Creatures/Bigfin Bouncer|Bigfin Bouncer]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Displacer Kitten|Displacer Kitten]] **96** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:96%"></div></div>
+- [[02 Cards/Creatures/Eluge, the Shoreless Sea|Eluge, the Shoreless Sea]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Creatures/High Fae Trickster|High Fae Trickster]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
 - [[02 Cards/Creatures/Micromancer|Micromancer]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
@@ -175,7 +177,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Instants/Snap|Snap]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Instants/Ghostly Flicker|Ghostly Flicker]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
-- [[02 Cards/Instants/Stroke of Midnight|Stroke of Midnight]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Instants/Aetherize|Aetherize]] **95** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:95%"></div></div>
 
 ### Sorceries
@@ -204,6 +205,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Artifacts/Azorius Signet|Azorius Signet]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Swiftfoot Boots|Swiftfoot Boots]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Artifacts/Thought Vessel|Thought Vessel]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Wizard's Staff|Wizard's Staff]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Midnight Clock|Midnight Clock]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
@@ -223,5 +225,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Lands/Plains|Plains]] **71** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:71%"></div></div>
 - [[02 Cards/Lands/Port Town|Port Town]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Lands/Prairie Stream|Prairie Stream]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
+- [[02 Cards/Lands/Restless Anchorage|Restless Anchorage]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
+- [[02 Cards/Lands/Seachrome Coast|Seachrome Coast]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Lands/Temple of Enlightenment|Temple of Enlightenment]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Lands/Tranquil Cove|Tranquil Cove]] **70** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:70%"></div></div>

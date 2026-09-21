@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Cat\|Cat]] · [[04 Creature Types/Cleric\|Cleric]] |
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -31,6 +31,7 @@
 |------|-------|
 | 02/09/2026 | Booster haul |
 | 08/09/2026 | Booster haul |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -39,16 +40,21 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>152</td><td>—</td><td>2</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>152</td><td>—</td><td>1</td><td>Arahbo</td><td>0.09</td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
+## In decks
+
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -56,14 +62,14 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/9/1/911442e3-3003-4683-a766-e791e9553667.jpg" alt="Infirmary Healer // Stream of Life SOS 152 · ×2">
-<figcaption>SOS 152 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/9/1/911442e3-3003-4683-a766-e791e9553667.jpg" alt="Infirmary Healer // Stream of Life SOS 152 · ×3">
+<figcaption>SOS 152 · ×3</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Cat|Cat]] · [[04 Creature Types/Cleric|Cleric]] · [[05 Colours/Green|Green]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Cat|Cat]] · [[04 Creature Types/Cleric|Cleric]] · [[05 Colours/Green|Green]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 
@@ -77,7 +83,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 2
 > type: "Creature — Cat Cleric // Sorcery"
 > scryfall_id: 911442e3-3003-4683-a766-e791e9553667
-> quantity: 2
+> quantity: 3
 > tags:
 >   - card
 >   - cat

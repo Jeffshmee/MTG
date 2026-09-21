@@ -2,12 +2,12 @@
 
 Creature type: Orc.
 
-**25** copies · **13** names.
+**26** copies · **13** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Jeskai Devotee`**](https://scryfall.com/card/tdm/110) | [[02 Cards/Creatures/Jeskai Devotee\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Monk\|Monk]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
-| [**`mtg:Imperious Inkmage`**](https://scryfall.com/card/sos/195) | [[02 Cards/Creatures/Imperious Inkmage\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.09 |
+| [**`mtg:Imperious Inkmage`**](https://scryfall.com/card/sos/195) | [[02 Cards/Creatures/Imperious Inkmage\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 0.12 |
 | [**`mtg:Poisoner's Apprentice`**](https://scryfall.com/card/sos/92) | [[02 Cards/Creatures/Poisoner's Apprentice\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.11 |
 | [**`mtg:Redoubled Stormsinger`**](https://scryfall.com/card/soc/251) | [[02 Cards/Creatures/Redoubled Stormsinger\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
 | [**`mtg:Strife Scholar`**](https://scryfall.com/card/sos/131) | [[02 Cards/Creatures/Strife Scholar\|PAGE]] | {2}{R} // {5}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |

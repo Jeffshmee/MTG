@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Sunpetal Grove`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
-> ![Sunpetal Grove](https://cards.scryfall.io/border_crop/front/e/8/e83092ee-4a90-4eac-915f-3fd01b7d9bd0.jpg)
+> ![Sunpetal Grove](https://cards.scryfall.io/border_crop/front/5/b/5b0275b1-64bc-4c78-ac1a-9bd31399b946.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Forest
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Sunpetal Grove|Sunpetal Grove]] this land enters tapped unless you control a Forest or a Plains. Tapped — third land, not the land for a turn-1 Cat. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Sunpetal Grove|Sunpetal Grove]] this land enters tapped unless you control a Forest or a Plains. Tapped — third land, not the land for a turn-1 Cat. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Forest
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 - Tapped. Third land, not the land for a turn-1 Cat.
 
 ## Related Pages
@@ -88,15 +88,15 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control a Forest
 > colors: []
 > color_identity: ["G", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
 >   combined: 80
-> scryfall_id: e83092ee-4a90-4eac-915f-3fd01b7d9bd0
+> scryfall_id: 5b0275b1-64bc-4c78-ac1a-9bd31399b946
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

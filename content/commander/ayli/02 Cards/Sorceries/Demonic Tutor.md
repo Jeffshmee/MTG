@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Demonic Tutor`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:94%"></div></div>
 >
-> ![Demonic Tutor](https://cards.scryfall.io/border_crop/front/7/7/77be13ed-5ef5-4452-a16f-ccd3599d8555.jpg)
+> ![Demonic Tutor](https://cards.scryfall.io/border_crop/front/6/8/68841ca8-a043-4f30-9a17-e983ed960bc2.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Demonic Tutor|Demonic Tutor]] is {1}{B}: any card into hand. Same job as [[02 Cards/Instants/Vampiric Tutor|Vampiric Tutor]] without waiting for the draw step. [[02 Cards/Creatures/Emeritus of Woe|Emeritus of Woe]] // Demonic Tutor is a Lesson DFC already in the Ayli binder — a different card. This is the dedicated tutor. 🟡 Ordered (Axion_Now PLST DDC-49) — not in hand. Do not sleeve a proxy.
+[[02 Cards/Sorceries/Demonic Tutor|Demonic Tutor]] is {1}{B}: any card into hand. Same job as [[02 Cards/Instants/Vampiric Tutor|Vampiric Tutor]] without waiting for the draw step. [[02 Cards/Creatures/Emeritus of Woe|Emeritus of Woe]] // Demonic Tutor is a Lesson DFC already in the Ayli binder — a different card. This is the dedicated tutor. In hand 17/09/2026 (scan DVD 49; ordered PLST DDC-49). Binders stay Box until a named cut.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet. Status stays Ordered until it is in hand.
+- Sleeved 17/09/2026.
 - Sorcery speed. Vampiric is the instant window.
 
 ## Related Pages
@@ -86,15 +86,15 @@
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 92
 >   deck_specific: 96
 >   combined: 94
-> scryfall_id: 77be13ed-5ef5-4452-a16f-ccd3599d8555
+> scryfall_id: 68841ca8-a043-4f30-9a17-e983ed960bc2
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

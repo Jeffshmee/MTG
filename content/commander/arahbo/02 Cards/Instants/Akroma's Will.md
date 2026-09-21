@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Akroma's Will`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{W}  
 > **Type:** Instant  
 >
@@ -11,15 +11,15 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Akroma's Will](https://cards.scryfall.io/border_crop/front/6/0/608cdbdb-6f7e-438a-bab0-0e7782435f0f.jpg)
+> ![Akroma's Will](https://cards.scryfall.io/border_crop/front/6/7/674e08ef-5291-4465-99c0-7313698f7a93.jpg)
 >
 > ### Deck Scores
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | Deck-Specific | 88 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | **Combined** | **85** | Line prefer — on-plan redundancy or a named dual/anthem. |
+> | General | 80 | Sleeved 21/09/2026. SOA 1 foil over Plains FDN 273. |
+> | Deck-Specific | 88 | Sleeved 21/09/2026. SOA 1 foil over Plains FDN 273. |
+> | **Combined** | **85** | Sleeved 21/09/2026. SOA 1 foil over Plains FDN 273. |
 >
 > ### Classification
 >
@@ -40,7 +40,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Line prefer — on-plan redundancy or a named dual/anthem. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Sleeved 21/09/2026. SOA 1 foil over Plains FDN 273. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
 
 ## Oracle Text
 
@@ -52,20 +52,21 @@ Choose one. If you control a commander as you cast this spell, you may choose bo
 
 ## Deck Role & Rating
 
-[[02 Cards/Instants/Akroma's Will|Akroma's Will]] is the big combat / save. Flying, vigilance, first strike or lifelink, trample, indestructible. Convoke-friendly board. 🟢 Owned extra on the sideboard — not sleeved.
+Akroma's Will ({3}{W}). Sleeved 21/09/2026. SOA 1 foil over Plains FDN 273. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan.
 
 ## Play Patterns & Lines
 
-- Cycle-speed save or the attack that ends someone. Sleeve with Heroic.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Combat**: [[02 Cards/Instants/Claws Out|Claws Out]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
 
 ## Related Pages
 
@@ -88,17 +89,17 @@ Choose one. If you control a commander as you cast this spell, you may choose bo
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: 608cdbdb-6f7e-438a-bab0-0e7782435f0f
+> scryfall_id: 674e08ef-5291-4465-99c0-7313698f7a93
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - instant
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Phyrexian\|Phyrexian]] · [[04 Creature Types/Praetor\|Praetor]] |
 | **Colour** | [[05 Colours/Black\|Black]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+| **Where** | [[06 Browse/Box\|Box]] |
 
 </div>
 
@@ -43,15 +43,11 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>181</td><td>—</td><td>1</td><td>Zurgo</td><td>1.11</td></tr>
+<tr><td>Tarkir: Dragonstorm Commander (<code>TDC</code>)</td><td>181</td><td>—</td><td>1</td><td>Box</td><td>1.11</td></tr>
 </tbody>
 </table>
 </div>
 </div>
-
-## In decks
-
-- [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -66,7 +62,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Phyrexian|Phyrexian]] · [[04 Creature Types/Praetor|Praetor]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/4 Mythic|Mythic]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Phyrexian|Phyrexian]] · [[04 Creature Types/Praetor|Praetor]] · [[05 Colours/Black|Black]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/4 Mythic|Mythic]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TDC|Tarkir: Dragonstorm Commander]]
 
 ---
 

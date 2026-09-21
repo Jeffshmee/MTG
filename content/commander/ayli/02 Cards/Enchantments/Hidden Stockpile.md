@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Hidden Stockpile`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {W}{B}  
 > **Type:** Enchantment  
 >
@@ -89,7 +89,7 @@ Revolt — At the [[03 Effects/End Step|beginning of your end step]], if a perma
 > colors: ["B", "W"]
 > color_identity: ["B", "W"]
 > keywords: ["Revolt", "Scry"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -97,7 +97,7 @@ Revolt — At the [[03 Effects/End Step|beginning of your end step]], if a perma
 > scryfall_id: a9119c90-716b-4884-9b1e-471f262c2639
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

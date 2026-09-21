@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Gix, Yawgmoth Praetor`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{B}{B}  
 > **Type:** Legendary Creature — Phyrexian Praetor  
 > **P/T:** 3/3  
@@ -96,7 +96,7 @@ Gix is a combat-damage draw engine, not a token maker. Each creature that connec
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 85
 >   deck_specific: 82
@@ -104,7 +104,7 @@ Gix is a combat-damage draw engine, not a token maker. Each creature that connec
 > scryfall_id: 135c5948-4c95-4f24-b648-eda55ab637c8
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

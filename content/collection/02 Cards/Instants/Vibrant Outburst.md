@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>240</td><td>—</td><td>1</td><td>Box</td><td>0.19</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>240</td><td>—</td><td>2</td><td>Box</td><td>0.19</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/f/9/f9ba68ef-6efc-4249-8b74-e33f47173902.jpg" alt="Vibrant Outburst SOS 240 · ×1">
-<figcaption>SOS 240 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/f/9/f9ba68ef-6efc-4249-8b74-e33f47173902.jpg" alt="Vibrant Outburst SOS 240 · ×2">
+<figcaption>SOS 240 · ×2</figcaption>
 </figure>
 </div>
 
@@ -75,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 2
 > type: "Instant"
 > scryfall_id: f9ba68ef-6efc-4249-8b74-e33f47173902
-> quantity: 1
+> quantity: 2
 > tags:
 >   - card
 >   - collection

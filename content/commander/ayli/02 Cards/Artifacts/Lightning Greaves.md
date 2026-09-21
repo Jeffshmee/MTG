@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Lightning Greaves`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}  
 > **Type:** Artifact — Equipment  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Lightning Greaves](https://cards.scryfall.io/border_crop/front/8/b/8b59b12c-fde5-4f19-a357-e09f06f490cc.jpg)
+> ![Lightning Greaves](https://cards.scryfall.io/border_crop/front/d/a/da9da49d-e319-4897-9ab6-57c7c69478a6.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ Equip {0}
 
 ## Deck Role & Rating
 
-[[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]] is haste and shroud for Ayli. The 33 has no protection sleeved. 🟢 SB — sleeve if tables are stealing or killing her. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]] is haste and shroud for Ayli. The 33 has no protection sleeved. 🟢 SB — sleeve if tables are stealing or killing her. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@ Equip {0}
 ## Anti-synergies / Notes
 
 - Shroud stops your own auras and equip-to-Ayli tricks. Boots is hexproof if you need to target her.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -86,15 +86,15 @@ Equip {0}
 > colors: []
 > color_identity: []
 > keywords: ["Equip"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: 8b59b12c-fde5-4f19-a357-e09f06f490cc
+> scryfall_id: da9da49d-e319-4897-9ab6-57c7c69478a6
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Cultivate`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{G}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Cultivate](https://cards.scryfall.io/border_crop/front/e/6/e60deb92-f7dd-4f4e-9036-e47dd586f985.jpg)
+> ![Cultivate](https://cards.scryfall.io/border_crop/front/0/c/0c5f5297-fe94-44df-9004-427640196afd.jpg)
 >
 > ### Deck Scores
 >
@@ -47,7 +47,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Cultivate|Cultivate]] is slower ramp: one Forest in play tapped, one to hand. Sleeve with Visits / Lore. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Sorceries/Cultivate|Cultivate]] is slower ramp: one Forest in play tapped, one to hand. Sleeve with Visits / Lore. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -60,7 +60,7 @@
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -83,15 +83,15 @@
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: e60deb92-f7dd-4f4e-9036-e47dd586f985
+> scryfall_id: 0c5f5297-fe94-44df-9004-427640196afd
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

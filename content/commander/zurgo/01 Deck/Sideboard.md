@@ -19,6 +19,7 @@ legality: commander
 1 Mindblade Render
 1 Shadow Summoning
 1 Anafenza, Unyielding Lineage
+1 Gix, Yawgmoth Praetor
 1 Mardu Banner
 1 Nightblade Brigade
 1 Thunder of Unity
@@ -31,6 +32,7 @@ legality: commander
 1 Redcap Gutter-Dweller
 1 Sandskitter Outrider
 1 Goldlust Triad
+1 Myr Battlesphere
 1 Eliminate the Competition
 1 Goblin Negotiation
 1 Perforating Artist
@@ -43,7 +45,7 @@ legality: commander
 ---
 
 *Source: `mardu-zurgo/07 Assets/sideboard.md`*
-*Last synced: 2026-09-08*
+*Last synced: 2026-09-17 (Alesha / Warleader / Prairie)*
 
 ---
 
@@ -76,6 +78,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:76%"></div></div>
 >
 > [[02 Cards/Creatures/Anafenza, Unyielding Lineage|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Gix, Yawgmoth Praetor`**
+> **83** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:83%"></div></div>
+>
+> [[02 Cards/Creatures/Gix, Yawgmoth Praetor|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -148,6 +158,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:76%"></div></div>
 >
 > [[02 Cards/Creatures/Goldlust Triad|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Myr Battlesphere`**
+> **83** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:83%"></div></div>
+>
+> [[02 Cards/Creatures/Myr Battlesphere|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 

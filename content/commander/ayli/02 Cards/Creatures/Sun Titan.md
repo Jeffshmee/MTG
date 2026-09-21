@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Sun Titan`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}{W}{W}  
 > **Type:** Creature — Giant  
 > **P/T:** 6/6  
@@ -43,7 +43,7 @@ Whenever this creature [[03 Effects/ETB|enters]] or attacks, you may return targ
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Sun Titan|Sun Titan]] is the six-mana recursion Giant. ETB or attack: return a permanent with mana value 3 or less. Priority: Hinterland, Delney, Bastion, Feeder, Seer — not a random 1/1. Boxed spare in some piles; this copy is for Ayli once the 1–3 engines are sleeved. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Sun Titan|Sun Titan]] is the six-mana recursion Giant. ETB or attack: return a permanent with mana value 3 or less. Priority: Hinterland, Delney, Bastion, Feeder, Seer — not a random 1/1. Boxed spare in some piles; this copy is for Ayli once the 1–3 engines are sleeved. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -58,7 +58,7 @@ Whenever this creature [[03 Effects/ETB|enters]] or attacks, you may return targ
 ## Anti-synergies / Notes
 
 - Six mana. Dead if the yard has nothing cheap. Does not return lands above 3 or instants.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026 Box temp.
 
 ## Related Pages
 
@@ -81,7 +81,7 @@ Whenever this creature [[03 Effects/ETB|enters]] or attacks, you may return targ
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Vigilance"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 90
@@ -89,7 +89,7 @@ Whenever this creature [[03 Effects/ETB|enters]] or attacks, you may return targ
 > scryfall_id: 3d6eacf2-f6c7-4ede-b5a5-7463602699ae
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Resolute Reinforcements`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Human Soldier  
 > **P/T:** 1/1  
@@ -87,7 +87,7 @@
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Flash"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -95,7 +95,7 @@
 > scryfall_id: 940f3989-77cc-49a9-92e0-095a75d80f0f
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**264** copies · **176** names.
+**276** copies · **184** names.
 
 ```decklist
 group: auto
@@ -11,6 +11,7 @@ legality: commander
 # Creatures
 1 Aberrant Manawurm
 1 Alacrian Jaguar
+1 Ambitious Augmenter
 1 Anthropede
 1 Arbor Elf
 1 Bakersbane Duo
@@ -41,6 +42,7 @@ legality: commander
 1 Elvish Mystic
 2 Elvish Regrower
 1 Elvish Rejuvenator
+1 Elvish Vanguard
 1 Elvish Warmaster
 1 Emil, Vastlands Roamer
 1 Environmental Scientist
@@ -60,10 +62,12 @@ legality: commander
 2 Hungry Graffalon
 1 Hungry Lynx
 4 Imperious Perfect
-2 Infirmary Healer // Stream of Life
+3 Infirmary Healer // Stream of Life
 1 Insidious Fungus
 1 Jedit Ojanen of Efrava
+1 Ka-Zar of the Savage Land
 1 Keen-Eyed Curator
+1 Keeper of Fables
 1 Kujar Seedsculptor
 1 Leaf-Crowned Visionary
 1 Little Bear
@@ -78,7 +82,7 @@ legality: commander
 1 Mold Adder
 1 Nasty Little Rabbit
 2 Nervous Gardener
-4 Noxious Newt
+5 Noxious Newt
 1 Old Fat Spider
 2 Ordinary Bear
 1 Pelakka Wurm
@@ -95,6 +99,7 @@ legality: commander
 1 Sage of the Fang
 2 Sagu Pummeler
 1 Sagu Wildling // Roost Seek
+1 Savage Land Dinosaur
 1 Sazh's Chocobo
 2 Shopkeeper's Bane
 1 Springbloom Druid
@@ -105,6 +110,7 @@ legality: commander
 1 Surrak, the Hunt Caller
 2 Tajuru Snarecaster
 2 Tenured Concocter
+1 The Unbeatable Squirrel Girl
 2 Thornfist Striker
 2 Thornweald Archer
 1 Three Tree Rootweaver
@@ -135,7 +141,7 @@ legality: commander
 2 Bite Down
 3 Broken Wings
 2 Burrog Barrage
-2 Efflorescence
+3 Efflorescence
 1 Get a Leg Up
 3 Giant Growth
 2 Glorious Decay
@@ -156,6 +162,7 @@ legality: commander
 2 Bushwhack
 2 Chelonian Tackle
 1 Circuitous Route
+1 Cultivate
 1 Earthbending Lesson
 1 Farseek
 5 Follow the Lumarets
@@ -179,7 +186,7 @@ legality: commander
 1 Zimone's Experiment
 
 # Enchantments
-1 Additive Evolution
+2 Additive Evolution
 1 Aid from the Cowl
 1 Airtight Alibi
 1 Beastmaster Ascension
@@ -189,6 +196,7 @@ legality: commander
 2 Pitiless Fists
 1 Point the Way
 1 Shimmerwilds Growth
+1 Super Strength
 1 Wilderness Reclamation
 
 # Artifacts

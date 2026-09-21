@@ -2,7 +2,7 @@
 
 Creature type: Sorcerer.
 
-**28** copies · **14** names.
+**29** copies · **14** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,7 +13,7 @@ Creature type: Sorcerer.
 | [**`mtg:Sanar, Unfinished Genius`**](https://scryfall.com/card/sos/223) | [[02 Cards/Creatures/Sanar, Unfinished Genius\|PAGE]] | {U}{R} // {3}{U}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Abstract Paintmage`**](https://scryfall.com/card/sos/171) | [[02 Cards/Creatures/Abstract Paintmage\|PAGE]] | {U}{U/R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Enraged Flamecaster`**](https://scryfall.com/card/ecl/135) | [[02 Cards/Creatures/Enraged Flamecaster\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
-| [**`mtg:Rubble Rouser`**](https://scryfall.com/card/sos/128) | [[02 Cards/Creatures/Rubble Rouser\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.15 |
+| [**`mtg:Rubble Rouser`**](https://scryfall.com/card/sos/128) | [[02 Cards/Creatures/Rubble Rouser\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 0.20 |
 | [**`mtg:Strife Scholar`**](https://scryfall.com/card/sos/131) | [[02 Cards/Creatures/Strife Scholar\|PAGE]] | {2}{R} // {5}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
 | [**`mtg:Stadium Tidalmage`**](https://scryfall.com/card/sos/232) | [[02 Cards/Creatures/Stadium Tidalmage\|PAGE]] | {2}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Djinn\|Djinn]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 0.06 |
 | [**`mtg:Tackle Artist`**](https://scryfall.com/card/sos/133) | [[02 Cards/Creatures/Tackle Artist\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.12 |

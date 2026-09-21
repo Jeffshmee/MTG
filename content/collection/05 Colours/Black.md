@@ -2,7 +2,7 @@
 
 Mono-black cards ({B} only). Lands and tokens are listed separately.
 
-**226** copies · **169** names.
+**246** copies · **184** names.
 
 ```decklist
 group: auto
@@ -21,7 +21,7 @@ legality: commander
 1 Blood Artist
 1 Bloodghast
 1 Bone Devourer
-2 Burrog Banemaker
+3 Burrog Banemaker
 1 Cackling Slasher
 1 Canyon Crawler
 1 Carrion Feeder
@@ -61,18 +61,21 @@ legality: commander
 2 Marauding Blight-Priest
 1 Massacre Girl, Known Killer
 1 Massacre Wurm
-3 Melancholic Poet
+4 Melancholic Poet
 1 Midnight Reaper
 1 Mindblade Render
 1 Moonglove Extractor
+1 Moonstone, Harsh Mistress
 1 Morbid Opportunist
 1 Moseo, Vein's New Dean
 1 Myojin of Night's Reach
 1 Nightblade Brigade
 2 Nighthowl Pursuer
+1 Nine-Lives Familiar
 1 Nullpriest of Oblivion
 2 Ophiomancer
 1 Ozox, the Clattering King
+1 Pawn of Ulamog
 1 Persuasive Interrogators
 1 Pitiless Plunderer
 2 Poisoner's Apprentice
@@ -80,6 +83,7 @@ legality: commander
 1 Pulse Tracker
 2 Purging Stormbrood // Absorb Essence
 1 Ravening Warg
+1 Reassembling Skeleton
 2 Repeat Offender
 1 Rhovanion Rampager
 1 Rot Farm Mortipede
@@ -95,6 +99,7 @@ legality: commander
 1 Suspicious Shambler
 1 Tragedy Feaster
 3 Ulna Alley Shopkeep
+1 Unliving Legionnaire
 1 Unrooted Ancestor
 2 Vampire Nighthawk
 1 Vampire Soulcaller
@@ -102,9 +107,12 @@ legality: commander
 1 Vile Entomber
 1 Viscera Seer
 1 Vito, Thorn of the Dusk Rose
-1 Yahenni, Undying Partisan
+1 Woe Strider
+2 Yahenni, Undying Partisan
+1 Zulaport Cutthroat
 
 # Instants
+1 Ad Nauseam
 1 Alesha's Legacy
 1 Azula Always Lies
 2 Bake into a Pie
@@ -133,9 +141,11 @@ legality: commander
 2 Stab
 1 Tribute to Hunger
 1 Undying Malice
+1 Vampiric Tutor
 1 Village Rites
 1 Wail of War
 3 Wander Off
+1 Widow's Bite
 1 Winter's Intervention
 
 # Sorceries
@@ -146,18 +156,21 @@ legality: commander
 4 Cost of Brilliance
 1 Damn
 1 Deathmark
+1 Demonic Tutor
 1 Diresight
 1 Dread Summons
 1 Duress
 1 Eliminate the Competition
 1 End of the Hunt
 1 Essence Drain
-1 Exsanguinate
+2 Exsanguinate
 2 Feed the Swarm
+1 Grim Tutor
 1 Macabre Reconstruction
 2 Pilfer
 1 Pox Plague
-2 Pull from the Grave
+3 Pull from the Grave
+1 Reanimate
 1 Sanguine Indulgence
 1 Seeker's Folly
 4 Send in the Pest
@@ -165,6 +178,7 @@ legality: commander
 2 Stargaze
 1 Stir Up Trouble
 1 Toxic Deluge
+1 Victimize
 2 Worthy Cost
 2 Zombify
 
@@ -177,6 +191,7 @@ legality: commander
 1 Midnight Snack
 1 Mornsong Aria
 1 Northern Air Temple
+1 Phyrexian Arena
 1 Scavenger's Talent
 1 Soul Enervation
 1 Swampsnare Trap

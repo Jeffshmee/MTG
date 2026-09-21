@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mortuary Mire`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -51,7 +51,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Mortuary Mire|Mortuary Mire]] this land enters tapped. Tapped — third land, not the land for turn-2 Ayli. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Mortuary Mire|Mortuary Mire]] this land enters tapped. Tapped — third land, not the land for turn-2 Ayli. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -66,7 +66,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 - Tapped. Third land, not the land for turn-2 Ayli.
 
 ## Related Pages
@@ -90,7 +90,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 > colors: []
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -98,7 +98,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]].
 > scryfall_id: 058f30e5-64a9-4d6b-b7a6-0fd95d460cae
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

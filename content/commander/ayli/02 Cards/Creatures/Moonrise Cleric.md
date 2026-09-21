@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Moonrise Cleric`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W/B}{W/B}  
 > **Type:** Creature — Bat Cleric  
 > **P/T:** 2/3  
@@ -85,7 +85,7 @@ Whenever this creature attacks, you [[03 Effects/Gain Life|gain 1 life]].
 > colors: ["W", "B"]
 > color_identity: ["W", "B"]
 > keywords: ["Flying"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 70
 >   deck_specific: 78
@@ -93,7 +93,7 @@ Whenever this creature attacks, you [[03 Effects/Gain Life|gain 1 life]].
 > scryfall_id: 35f2a71f-31e8-4b51-9dd4-51a5336b3b86
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

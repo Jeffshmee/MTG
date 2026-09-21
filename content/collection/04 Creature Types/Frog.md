@@ -2,11 +2,11 @@
 
 Creature type: Frog.
 
-**12** copies · **8** names.
+**13** copies · **8** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Burrog Banemaker`**](https://scryfall.com/card/sos/75) | [[02 Cards/Creatures/Burrog Banemaker\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
+| [**`mtg:Burrog Banemaker`**](https://scryfall.com/card/sos/75) | [[02 Cards/Creatures/Burrog Banemaker\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.27 |
 | [**`mtg:Bogwater Lumaret`**](https://scryfall.com/card/sos/177) | [[02 Cards/Creatures/Bogwater Lumaret\|PAGE]] | {B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Frog\|Frog]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.33 |
 | [**`mtg:Dour Port-Mage`**](https://scryfall.com/card/blb/303) | [[02 Cards/Creatures/Dour Port-Mage\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.65 |
 | [**`mtg:Pond Prophet`**](https://scryfall.com/card/blb/229) | [[02 Cards/Creatures/Pond Prophet\|PAGE]] | {G/U}{G/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |

@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Elf\|Elf]] · [[04 Creature Types/Druid\|Druid]] |
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[07 Trades/01 - Trades Summary/Trades Summary\|Traded Out]] |
+| **Where** | [[06 Browse/Box\|Box]] |
 
 </div>
 
@@ -31,6 +31,7 @@
 |------|-------|
 | 02/09/2026 | Booster haul |
 | 03/09/2026 | Traded to Mark for Danitha, Benalia's Hope and Selfless Spirit |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -44,7 +45,7 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>199</td><td>—</td><td>1</td><td>Traded Out</td><td>0.12</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>199</td><td>foil</td><td>1</td><td>Box</td><td>0.13</td></tr>
 </tbody>
 </table>
 </div>
@@ -63,7 +64,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[07 Trades/01 - Trades Summary/Trades Summary|Trades Summary]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Druid|Druid]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Legendary|Legendary]] · [[07 Trades/01 - Trades Summary/Trades Summary|Traded Out]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[03 Card Types/Sorcery|Sorcery]] · [[04 Creature Types/Elf|Elf]] · [[04 Creature Types/Druid|Druid]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
 
 ---
 

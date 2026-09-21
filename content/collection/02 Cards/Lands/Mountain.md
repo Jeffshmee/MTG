@@ -60,9 +60,9 @@
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>270</td><td>—</td><td>1</td><td>Box</td><td>0.47</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>197</td><td>—</td><td>1</td><td>Box</td><td>0.53</td></tr>
 <tr><td>The Lord of the Rings: Tales of Middle-earth (<code>LTR</code>)</td><td>268</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.14</td></tr>
-<tr><td>The Lord of the Rings: Tales of Middle-earth (<code>LTR</code>)</td><td>269</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.14</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>288</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>289</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
+<tr><td>The Lord of the Rings: Tales of Middle-earth (<code>LTR</code>)</td><td>269</td><td>foil</td><td>1</td><td>Box</td><td>0.14</td></tr>
 </tbody>
 </table>
 </div>

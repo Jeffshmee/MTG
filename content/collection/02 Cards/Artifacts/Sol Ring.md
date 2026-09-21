@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Colourless\|Colourless]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (1)\|Mana (1)]] |
-| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] |
+| **Where** | [[06 Browse/Box\|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar\|Kykar]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -48,7 +48,7 @@
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>305</td><td>foil</td><td>2</td><td>Box</td><td>2.08</td></tr>
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>305</td><td>—</td><td>1</td><td>Zurgo</td><td>1.01</td></tr>
 <tr><td>Modern Horizons 3 Commander (<code>M3C</code>)</td><td>305</td><td>foil</td><td>1</td><td>Kykar</td><td>2.16</td></tr>
-<tr><td>Bloomburrow Commander (<code>BLC</code>)</td><td>129</td><td>—</td><td>1</td><td>Box</td><td>1.27</td></tr>
+<tr><td>Bloomburrow Commander (<code>BLC</code>)</td><td>129</td><td>—</td><td>1</td><td>Arahbo</td><td>1.27</td></tr>
 </tbody>
 </table>
 </div>
@@ -58,6 +58,7 @@
 
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
 - [[06 Browse/Decks/Kykar Deck/Kykar|Kykar — Main Deck]]
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -76,7 +77,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]] · [[06 Browse/Sets/BLC|Bloomburrow Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Artifact|Artifact]] · [[05 Colours/Colourless|Colourless]] · [[06 Browse/Mana Costs/Mana (1)|Mana (1)]] · [[06 Browse/Rarities/2 Uncommon|Uncommon]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/M3C|Modern Horizons 3 Commander]] · [[06 Browse/Sets/BLC|Bloomburrow Commander]]
 
 ---
 

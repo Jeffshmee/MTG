@@ -2,7 +2,7 @@
 
 Cards whose mana value is 6.
 
-**72** copies · **58** names.
+**73** copies · **59** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -51,6 +51,7 @@ Cards whose mana value is 6.
 | [**`mtg:Reputable Merchant`**](https://scryfall.com/card/tdm/217) | [[02 Cards/Creatures/Reputable Merchant\|PAGE]] | {2/W}{2/B}{2/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.08 |
 | [**`mtg:River's Rebuke`**](https://scryfall.com/card/fdn/595) | [[02 Cards/Sorceries/River's Rebuke\|PAGE]] | {4}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.39 |
 | [**`mtg:Salt Road Packbeast`**](https://scryfall.com/card/tdm/23) | [[02 Cards/Creatures/Salt Road Packbeast\|PAGE]] | {5}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Beast\|Beast]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.06 |
+| [**`mtg:Savage Land Dinosaur`**](https://scryfall.com/card/msh/185) | [[02 Cards/Creatures/Savage Land Dinosaur\|PAGE]] | {4}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.15 |
 | [**`mtg:Savage Ventmaw`**](https://scryfall.com/card/fdn/665) | [[02 Cards/Creatures/Savage Ventmaw\|PAGE]] | {4}{R}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.38 |
 | [**`mtg:Shinestriker`**](https://scryfall.com/card/ecl/68) | [[02 Cards/Creatures/Shinestriker\|PAGE]] | {4}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.15 |
 | [**`mtg:Snarl Song`**](https://scryfall.com/card/sos/161) | [[02 Cards/Sorceries/Snarl Song\|PAGE]] | {5}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.13 |

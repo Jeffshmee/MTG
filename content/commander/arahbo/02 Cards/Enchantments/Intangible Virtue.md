@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Intangible Virtue`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}  
 > **Type:** Enchantment  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Intangible Virtue](https://cards.scryfall.io/border_crop/front/7/1/716d82a1-fb5d-4607-b1fa-e8e9edd4dd77.jpg)
+> ![Intangible Virtue](https://cards.scryfall.io/border_crop/front/b/b/bb1bc2f9-d02a-4515-aa07-fcf98a3d194d.jpg)
 >
 > ### Deck Scores
 >
@@ -48,7 +48,7 @@ Creature tokens you control [[03 Effects/Pump Creatures|get +1/+1]] and have [[0
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Intangible Virtue|Intangible Virtue]] pumps token creatures +1/+1 and vigilance. First Fang tokens and Retreat Cat Beasts. 🟢 SB. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Enchantments/Intangible Virtue|Intangible Virtue]] pumps token creatures +1/+1 and vigilance. First Fang tokens and Retreat Cat Beasts. 🟢 SB. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ Creature tokens you control [[03 Effects/Pump Creatures|get +1/+1]] and have [[0
 ## Anti-synergies / Notes
 
 - Does not pump nontoken Cats.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -85,15 +85,15 @@ Creature tokens you control [[03 Effects/Pump Creatures|get +1/+1]] and have [[0
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: 716d82a1-fb5d-4607-b1fa-e8e9edd4dd77
+> scryfall_id: bb1bc2f9-d02a-4515-aa07-fcf98a3d194d
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

@@ -2,7 +2,7 @@
 
 Set `BLB`. Qty here is copies of this name from this set.
 
-**46** copies · **45** names.
+**48** copies · **47** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -34,6 +34,7 @@ Set `BLB`. Qty here is copies of this name from this set.
 | [**`mtg:Warren Elder`**](https://scryfall.com/card/blb/37) | [[02 Cards/Creatures/Warren Elder\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rabbit\|Rabbit]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Whiskerquill Scribe`**](https://scryfall.com/card/blb/161) | [[02 Cards/Creatures/Whiskerquill Scribe\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Mouse\|Mouse]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Brambleguard Veteran`**](https://scryfall.com/card/blb/165) | [[02 Cards/Creatures/Brambleguard Veteran\|PAGE]] | {1}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Raccoon\|Raccoon]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.19 |
+| [**`mtg:Caretaker's Talent`**](https://scryfall.com/card/blb/6) | [[02 Cards/Enchantments/Caretaker's Talent\|PAGE]] | {2}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 7.46 |
 | [**`mtg:Diresight`**](https://scryfall.com/card/blb/91) | [[02 Cards/Sorceries/Diresight\|PAGE]] | {2}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Harnesser of Storms`**](https://scryfall.com/card/blb/137) | [[02 Cards/Creatures/Harnesser of Storms\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Otter\|Otter]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |
 | [**`mtg:Intrepid Rabbit`**](https://scryfall.com/card/blb/17) | [[02 Cards/Creatures/Intrepid Rabbit\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rabbit\|Rabbit]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
@@ -44,6 +45,7 @@ Set `BLB`. Qty here is copies of this name from this set.
 | [**`mtg:Starlit Soothsayer`**](https://scryfall.com/card/blb/115) | [[02 Cards/Creatures/Starlit Soothsayer\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bat\|Bat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Stickytongue Sentinel`**](https://scryfall.com/card/blb/193) | [[02 Cards/Creatures/Stickytongue Sentinel\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Tempest Angler`**](https://scryfall.com/card/blb/235) | [[02 Cards/Creatures/Tempest Angler\|PAGE]] | {1}{U/R}{U/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Otter\|Otter]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
+| [**`mtg:Eluge, the Shoreless Sea`**](https://scryfall.com/card/blb/49) | [[02 Cards/Creatures/Eluge, the Shoreless Sea\|PAGE]] | {1}{U}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Fish\|Fish]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 3.17 |
 | [**`mtg:Lilysplash Mentor`**](https://scryfall.com/card/blb/222) | [[02 Cards/Creatures/Lilysplash Mentor\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Treetop Sentries`**](https://scryfall.com/card/blb/201) | [[02 Cards/Creatures/Treetop Sentries\|PAGE]] | {3}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Squirrel\|Squirrel]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.08 |
 | [**`mtg:Veteran Guardmouse`**](https://scryfall.com/card/blb/237) | [[02 Cards/Creatures/Veteran Guardmouse\|PAGE]] | {3}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Mouse\|Mouse]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |

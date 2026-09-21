@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Blind Obedience`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}  
 > **Type:** Enchantment  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Blind Obedience](https://cards.scryfall.io/border_crop/front/d/8/d859e1f9-feb3-497a-af0b-f74fee46861f.jpg)
+> ![Blind Obedience](https://cards.scryfall.io/border_crop/front/1/c/1cb0ea8e-0707-46a8-9dc6-77c17244fd7b.jpg)
 >
 > ### Deck Scores
 >
@@ -85,15 +85,15 @@ Artifacts and creatures your opponents control enter tapped.
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Extort"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: d859e1f9-feb3-497a-af0b-f74fee46861f
+> scryfall_id: 1cb0ea8e-0707-46a8-9dc6-77c17244fd7b
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 

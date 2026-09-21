@@ -2,13 +2,14 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**264** copies · **204** names.
+**268** copies · **206** names.
 
 ```decklist
 group: auto
 legality: commander
 
 # Creatures
+1 A.I.M. Scientists
 2 Academy Journeymage
 1 Aegis Turtle
 1 Aether Channeler
@@ -37,6 +38,7 @@ legality: commander
 1 Draugr Thought-Thief
 1 Elementalist Adept
 1 Elrond, Moon-Reader
+1 Eluge, the Shoreless Sea
 1 Elven Raft-Steerer
 2 Elvenking's Harper
 1 Emeritus of Ideation // Ancestral Recall
@@ -68,7 +70,7 @@ legality: commander
 1 Jadzi, Steward of Fate // Oracle's Gift
 1 Kiora, the Rising Tide
 1 Kitesail Larcenist
-3 Landscape Painter // Vibrant Idea
+4 Landscape Painter // Vibrant Idea
 2 Lightshell Duo
 1 Long Lake Nuisance
 1 Matterbending Mage
@@ -97,7 +99,7 @@ legality: commander
 1 Skystreak Engineer
 1 Sower of Temptation
 5 Spectral Sailor
-2 Spellbook Seeker // Careful Study
+3 Spellbook Seeker // Careful Study
 1 Spellstutter Sprite
 1 Sphinx of the Final Word
 1 Starfield Vocalist

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Zulaport Cutthroat`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}  
 > **Type:** Creature — Human Rogue Ally  
 > **P/T:** 1/1  
@@ -48,7 +48,7 @@ Whenever this creature or another creature you control dies, each opponent loses
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] drains each opponent whenever another creature you control dies. Plan 2. Sleeve before you call the aristocrats line a win. Ayli exile is not a death. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] drains each opponent whenever another creature you control dies. Plan 2. Sleeve before you call the aristocrats line a win. Ayli exile is not a death. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ Whenever this creature or another creature you control dies, each opponent loses
 ## Anti-synergies / Notes
 
 - Your creature — their deaths do not trigger it. Exile is not a death.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -85,7 +85,7 @@ Whenever this creature or another creature you control dies, each opponent loses
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -93,7 +93,7 @@ Whenever this creature or another creature you control dies, each opponent loses
 > scryfall_id: c43609fb-3cee-44e0-98d0-3ecaba1d5767
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

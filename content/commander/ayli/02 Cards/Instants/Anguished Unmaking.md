@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Anguished Unmaking`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}{B}  
 > **Type:** Instant  
 >
@@ -85,7 +85,7 @@
 > colors: ["B", "W"]
 > color_identity: ["B", "W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -93,7 +93,7 @@
 > scryfall_id: 272e0f42-a881-4ee2-94a5-2c740863aa74
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - instant
 > ```
 

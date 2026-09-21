@@ -2,7 +2,7 @@
 
 Set `TDC`. Qty here is copies of this name from this set.
 
-**91** copies · **75** names.
+**93** copies · **77** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,6 +11,7 @@ Set `TDC`. Qty here is copies of this name from this set.
 | [**`mtg:Command Tower`**](https://scryfall.com/card/m3c/331) | [[02 Cards/Lands/Command Tower\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.27 |
 | [**`mtg:Fortified Village`**](https://scryfall.com/card/tdc/366) | [[02 Cards/Lands/Fortified Village\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.18 |
 | [**`mtg:Mosswort Bridge`**](https://scryfall.com/card/tdc/379) | [[02 Cards/Lands/Mosswort Bridge\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.39 |
+| [**`mtg:Overgrown Farmland`**](https://scryfall.com/card/tdc/381) | [[02 Cards/Lands/Overgrown Farmland\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 3.06 |
 | [**`mtg:Shattered Landscape`**](https://scryfall.com/card/tdc/390) | [[02 Cards/Lands/Shattered Landscape\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B}{R} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.13 |
 | [**`mtg:Shattered Sanctum`**](https://scryfall.com/card/sos/260) | [[02 Cards/Lands/Shattered Sanctum\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 1.92 |
 | [**`mtg:Temple of Abandon`**](https://scryfall.com/card/tdc/400) | [[02 Cards/Lands/Temple of Abandon\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {R}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.17 |
@@ -37,6 +38,7 @@ Set `TDC`. Qty here is copies of this name from this set.
 | [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.89 |
 | [**`mtg:Loyal Apprentice`**](https://scryfall.com/card/tdc/222) | [[02 Cards/Creatures/Loyal Apprentice\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
 | [**`mtg:Mindblade Render`**](https://scryfall.com/card/tdc/187) | [[02 Cards/Creatures/Mindblade Render\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Azra\|Azra]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.14 |
+| [**`mtg:Reassembling Skeleton`**](https://scryfall.com/card/tdc/195) | [[02 Cards/Creatures/Reassembling Skeleton\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Skeleton\|Skeleton]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.20 |
 | [**`mtg:Shadow Summoning`**](https://scryfall.com/card/tdc/101) | [[02 Cards/Sorceries/Shadow Summoning\|PAGE]] | {W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
 | [**`mtg:Talisman of Conviction`**](https://scryfall.com/card/tdc/329) | [[02 Cards/Artifacts/Talisman of Conviction\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.38 |
 | [**`mtg:Think Twice`**](https://scryfall.com/card/tdc/168) | [[02 Cards/Instants/Think Twice\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.13 |
@@ -50,7 +52,7 @@ Set `TDC`. Qty here is copies of this name from this set.
 | [**`mtg:Lingering Souls`**](https://scryfall.com/card/tdc/123) | [[02 Cards/Sorceries/Lingering Souls\|PAGE]] | {2}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |
 | [**`mtg:Ophiomancer`**](https://scryfall.com/card/cc2/3) | [[02 Cards/Creatures/Ophiomancer\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.94 |
 | [**`mtg:Springbloom Druid`**](https://scryfall.com/card/tdc/271) | [[02 Cards/Creatures/Springbloom Druid\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |
-| [**`mtg:Stroke of Midnight`**](https://scryfall.com/card/tdc/132) | [[02 Cards/Instants/Stroke of Midnight\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 1.19 |
+| [**`mtg:Stroke of Midnight`**](https://scryfall.com/card/tdc/132) | [[02 Cards/Instants/Stroke of Midnight\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 1.26 |
 | [**`mtg:Taurean Mauler`**](https://scryfall.com/card/tdc/238) | [[02 Cards/Creatures/Taurean Mauler\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.02 |
 | [**`mtg:Twilight Drover`**](https://scryfall.com/card/tdc/136) | [[02 Cards/Creatures/Twilight Drover\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.17 |
 | [**`mtg:Will of the Mardu`**](https://scryfall.com/card/tdc/17) | [[02 Cards/Instants/Will of the Mardu\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.06 |

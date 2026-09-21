@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Nine-Lives Familiar`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}{B}  
 > **Type:** Creature — Cat  
 > **P/T:** 1/1  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:87%"></div></div>
 >
-> ![Nine-Lives](https://cards.scryfall.io/border_crop/front/b/f/bf1c1b96-7ec0-4063-833f-fb32b720650e.jpg)
+> ![Nine-Lives Familiar](https://cards.scryfall.io/border_crop/front/9/8/988c23f6-59fe-49f9-a9ce-9881dccb7033.jpg)
 >
 > ### Deck Scores
 >
@@ -50,7 +50,7 @@ When this creature [[03 Effects/Dies Trigger|dies]], if it had a revival counter
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Nine-Lives Familiar|Nine-Lives Familiar]] is a 1/1 Cat that you cast with eight revival counters. Each death with a counter on it returns it at the next end step with one fewer — eight extra sacs, or a blocker that keeps standing up. Each return is an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]] and a death for [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]]. This copy is 🟡 Ordered — add when it is in hand. Do not sleeve a proxy.
+[[02 Cards/Creatures/Nine-Lives Familiar|Nine-Lives Familiar]] is a 1/1 Cat that you cast with eight revival counters. Each death with a counter on it returns it at the next end step with one fewer — eight extra sacs, or a blocker that keeps standing up. Each return is an ETB for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]] and a death for [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]]. Sleeved 16/09/2026.
 
 ## Play Patterns & Lines
 
@@ -58,7 +58,7 @@ When this creature [[03 Effects/Dies Trigger|dies]], if it had a revival counter
 - Sac once per turn cycle. It comes back at end step — not mid-combo like Skeleton. Block with it on their turn after your sac.
 - Do not Ayli-exile it. Exile is not a death and the counters never come back.
 - Hinterland or a Sister in play turns each return into life toward +10 and a Vito ping.
-- 🟡 Ordered. Do not sleeve a proxy. Binders stay Box until this copy is in hand.
+- Sleeved 16/09/2026.
 
 ## Key Synergies
 
@@ -71,7 +71,7 @@ When this creature [[03 Effects/Dies Trigger|dies]], if it had a revival counter
 - Returns at end step, not immediately. One sac a turn unless you have a second body.
 - The eight counters only apply if you cast it. Victimize / Reanimate is a 1/1 that stays dead.
 - Revival counters are not +1/+1 counters. Karlov and Pridemate do not see them.
-- Purchased, not in hand. Status stays Ordered until you sleeve it.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -94,15 +94,15 @@ When this creature [[03 Effects/Dies Trigger|dies]], if it had a revival counter
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 82
 >   deck_specific: 90
 >   combined: 87
-> scryfall_id: bf1c1b96-7ec0-4063-833f-fb32b720650e
+> scryfall_id: 988c23f6-59fe-49f9-a9ce-9881dccb7033
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

@@ -51,6 +51,7 @@ legality: commander
 1 Shessra, Death's Whisper
 1 Thranduil's Company
 1 Thranduil, Sindarin Liege
+1 Thranduil, the Elvenking
 
 # Instants
 1 Assassin's Trophy
@@ -79,6 +80,7 @@ legality: commander
 1 Dawn-Blessed Pennant
 1 Arcane Signet
 1 Lightning Greaves
+1 Chromatic Lantern
 1 Firdoch Core
 1 Patchwork Banner
 1 Panharmonicon
@@ -90,14 +92,14 @@ legality: commander
 1 Eclipsed Realms
 9 Forest
 1 Hedge Maze
-5 Island
+4 Island
 1 Opulent Palace
 1 Overgrown Tomb
 1 Path of Ancestry
 1 Rogue's Passage
 1 Secluded Courtyard
 1 Secluded Glen
-7 Swamp
+6 Swamp
 1 Three Tree City
 1 Wastewood Verge
 1 Watery Grave
@@ -107,7 +109,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/current-deck.md`*
-*Last synced: 2026-09-14 (Deathrite)*
+*Last synced: 2026-08-30*
 
 ---
 
@@ -158,6 +160,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Thranduil's Company|Thranduil's Company]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Thranduil, Sindarin Liege|Thranduil, Sindarin Liege]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
+- [[02 Cards/Creatures/Thranduil, the Elvenking|Thranduil, the Elvenking]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 
 ### Instants
 - [[02 Cards/Instants/Assassin's Trophy|Assassin's Trophy]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
@@ -186,6 +189,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Artifacts/Dawn-Blessed Pennant|Dawn-Blessed Pennant]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Lightning Greaves|Lightning Greaves]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
+- [[02 Cards/Artifacts/Chromatic Lantern|Chromatic Lantern]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Artifacts/Firdoch Core|Firdoch Core]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
 - [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Artifacts/Panharmonicon|Panharmonicon]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>

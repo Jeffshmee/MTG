@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Yahenni, Undying Partisan`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{B}  
 > **Type:** Legendary Creature — Aetherborn Vampire  
 > **P/T:** 2/2  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Yahenni](https://cards.scryfall.io/border_crop/front/5/1/518b155a-cb84-48d3-9aba-07577f60f091.jpg)
+> ![Yahenni, Undying Partisan](https://cards.scryfall.io/border_crop/front/5/1/518b155a-cb84-48d3-9aba-07577f60f091.jpg)
 >
 > ### Deck Scores
 >
@@ -88,7 +88,7 @@ Sacrifice another creature: Yahenni gains [[03 Effects/Indestructible|indestruct
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Haste"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -96,7 +96,7 @@ Sacrifice another creature: Yahenni gains [[03 Effects/Indestructible|indestruct
 > scryfall_id: 518b155a-cb84-48d3-9aba-07577f60f091
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

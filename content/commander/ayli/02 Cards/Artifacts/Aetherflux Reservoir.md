@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Aetherflux Reservoir`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {4}  
 > **Type:** Artifact  
 >
@@ -85,7 +85,7 @@ Pay 50 life: This artifact deals 50 damage to any target.
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -93,7 +93,7 @@ Pay 50 life: This artifact deals 50 damage to any target.
 > scryfall_id: 96b6b2e1-c3e6-464c-8a13-b15deb34e862
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

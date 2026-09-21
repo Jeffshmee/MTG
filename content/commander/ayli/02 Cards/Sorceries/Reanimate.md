@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Reanimate`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {B}  
 > **Type:** Sorcery  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Reanimate](https://cards.scryfall.io/border_crop/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg)
+> ![Reanimate](https://cards.scryfall.io/border_crop/front/e/e/eee48ed0-3965-4bcc-8eee-bcd8f1607808.jpg)
 >
 > ### Deck Scores
 >
@@ -83,15 +83,15 @@ Put target creature card from a graveyard onto the battlefield under your contro
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: 368b6903-5fc4-43e7-bd44-46b8107c8bb4
+> scryfall_id: eee48ed0-3965-4bcc-8eee-bcd8f1607808
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 

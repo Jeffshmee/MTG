@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Cryptic Caves`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -49,7 +49,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Cryptic Caves|Cryptic Caves]] {T}: Add {C}. Colourless — do not count it as {W} or {B}. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Lands/Cryptic Caves|Cryptic Caves]] {T}: Add {C}. Colourless — do not count it as {W} or {B}. Sequence [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] so she is {W}{B} on 2. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Swamp, and [[02 Cards/Lands/Shadowy Backstreet|Shadowy Backstreet]]. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -65,7 +65,7 @@
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026 Box temp.
 
 ## Related Pages
 
@@ -88,7 +88,7 @@
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -96,7 +96,7 @@
 > scryfall_id: a7976098-b560-458a-ad3c-18f7873add21
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - land
 > ```
 

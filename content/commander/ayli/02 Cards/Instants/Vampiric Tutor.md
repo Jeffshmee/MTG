@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Vampiric Tutor`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {B}  
 > **Type:** Instant  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:94%"></div></div>
 >
-> ![Vampiric Tutor](https://cards.scryfall.io/border_crop/front/1/8/18bd50f2-c3ba-4217-a2d5-bb771e199706.jpg)
+> ![Vampiric Tutor](https://cards.scryfall.io/border_crop/front/3/4/34a0203f-9cce-43a4-9cb7-8ce6647895cd.jpg)
 >
 > ### Deck Scores
 >
@@ -63,7 +63,7 @@
 
 ## Anti-synergies / Notes
 
-- Not in the owned list yet. Status stays Ordered until it is in hand.
+- Sleeved 17/09/2026.
 - Puts the card on top, not in hand — you still need the draw step or a cantrip.
 
 ## Related Pages
@@ -87,15 +87,15 @@
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 92
 >   deck_specific: 96
 >   combined: 94
-> scryfall_id: 18bd50f2-c3ba-4217-a2d5-bb771e199706
+> scryfall_id: 34a0203f-9cce-43a4-9cb7-8ce6647895cd
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - instant
 > ```
 

@@ -2,7 +2,7 @@
 
 Set `MKM`. Qty here is copies of this name from this set.
 
-**83** copies · **67** names.
+**84** copies · **68** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -46,6 +46,7 @@ Set `MKM`. Qty here is copies of this name from this set.
 | [**`mtg:Magnifying Glass`**](https://scryfall.com/card/mkm/255) | [[02 Cards/Artifacts/Magnifying Glass\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Makeshift Binding`**](https://scryfall.com/card/mkm/23) | [[02 Cards/Enchantments/Makeshift Binding\|PAGE]] | {2}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Private Eye`**](https://scryfall.com/card/mkm/223) | [[02 Cards/Creatures/Private Eye\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Homunculus\|Homunculus]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.22 |
+| [**`mtg:Warleader's Call`**](https://scryfall.com/card/mkm/242) | [[02 Cards/Enchantments/Warleader's Call\|PAGE]] | {1}{R}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 4.86 |
 | [**`mtg:Gadget Technician`**](https://scryfall.com/card/mkm/204) | [[02 Cards/Creatures/Gadget Technician\|PAGE]] | {2}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.08 |
 | [**`mtg:Granite Witness`**](https://scryfall.com/card/mkm/206) | [[02 Cards/Creatures/Granite Witness\|PAGE]] | {2}{W}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Gargoyle\|Gargoyle]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.04 |
 | [**`mtg:Griffnaut Tracker`**](https://scryfall.com/card/mkm/17) | [[02 Cards/Creatures/Griffnaut Tracker\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |

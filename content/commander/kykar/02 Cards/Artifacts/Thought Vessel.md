@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Thought Vessel`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}  
 > **Type:** Artifact  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Thought Vessel](https://cards.scryfall.io/border_crop/front/a/d/ad077996-6b5e-4eb8-bb6e-93d43c5efa8f.jpg)
+> ![Thought Vessel](https://cards.scryfall.io/border_crop/front/c/d/cdaa22df-e071-4b2a-aa42-0334ff7bd662.jpg)
 >
 > ### Deck Scores
 >
@@ -48,13 +48,13 @@ You have no maximum hand size.
 
 ## Deck Role & Rating
 
-Thought Vessel is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], and Wayfarer's Bauble — this list is short of the 8–12 band until Signet / Talisman arrive. Noncreature rocks trigger Kykar. Rock plus no max hand. You draw a lot. It is not in the owned 65 yet.
+Thought Vessel is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|Sol Ring]], [[02 Cards/Artifacts/Arcane Signet|Arcane Signet]], and Wayfarer's Bauble — this list is short of the 8–12 band until Signet / Talisman arrive. Noncreature rocks trigger Kykar. Rock plus no max hand. You draw a lot. Sleeved 17/09/2026.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
+- Sleeved 17/09/2026.
 
 ## Key Synergies
 
@@ -66,7 +66,7 @@ Thought Vessel is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 17/09/2026.
 
 ## Related Pages
 
@@ -89,15 +89,15 @@ Thought Vessel is ramp at {2}. The live rocks are [[02 Cards/Artifacts/Sol Ring|
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 86
 >   combined: 85
-> scryfall_id: ad077996-6b5e-4eb8-bb6e-93d43c5efa8f
+> scryfall_id: cdaa22df-e071-4b2a-aa42-0334ff7bd662
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 

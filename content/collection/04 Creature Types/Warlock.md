@@ -2,11 +2,11 @@
 
 Creature type: Warlock.
 
-**50** copies · **30** names.
+**52** copies · **30** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Burrog Banemaker`**](https://scryfall.com/card/sos/75) | [[02 Cards/Creatures/Burrog Banemaker\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.18 |
+| [**`mtg:Burrog Banemaker`**](https://scryfall.com/card/sos/75) | [[02 Cards/Creatures/Burrog Banemaker\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 3 | 0.27 |
 | [**`mtg:Infestation Sage`**](https://scryfall.com/card/fdn/64) | [[02 Cards/Creatures/Infestation Sage\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.28 |
 | [**`mtg:Lecturing Scornmage`**](https://scryfall.com/card/sos/87) | [[02 Cards/Creatures/Lecturing Scornmage\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/206) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.42 |
@@ -18,7 +18,7 @@ Creature type: Warlock.
 | [**`mtg:Adventurous Eater`**](https://scryfall.com/card/sos/72) | [[02 Cards/Creatures/Adventurous Eater\|PAGE]] | {2}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.08 |
 | [**`mtg:Chaos Spewer`**](https://scryfall.com/card/ecl/210) | [[02 Cards/Creatures/Chaos Spewer\|PAGE]] | {2}{B/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.04 |
 | [**`mtg:Heirloom Auntie`**](https://scryfall.com/card/ecl/107) | [[02 Cards/Creatures/Heirloom Auntie\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
-| [**`mtg:Imperious Inkmage`**](https://scryfall.com/card/sos/195) | [[02 Cards/Creatures/Imperious Inkmage\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.09 |
+| [**`mtg:Imperious Inkmage`**](https://scryfall.com/card/sos/195) | [[02 Cards/Creatures/Imperious Inkmage\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 0.12 |
 | [**`mtg:Moonglove Extractor`**](https://scryfall.com/card/ecl/109) | [[02 Cards/Creatures/Moonglove Extractor\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Moseo, Vein's New Dean`**](https://scryfall.com/card/sos/91) | [[02 Cards/Creatures/Moseo, Vein's New Dean\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Skeleton\|Skeleton]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.68 |
 | [**`mtg:Poisoner's Apprentice`**](https://scryfall.com/card/sos/92) | [[02 Cards/Creatures/Poisoner's Apprentice\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.11 |

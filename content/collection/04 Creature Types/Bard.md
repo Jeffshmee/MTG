@@ -2,13 +2,13 @@
 
 Creature type: Bard.
 
-**25** copies · **15** names.
+**27** copies · **15** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Harmonized Trio`**](https://scryfall.com/card/sos/52) | [[02 Cards/Creatures/Harmonized Trio\|PAGE]] | {U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Bard\|Bard]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.32 |
 | [**`mtg:Elvenking's Harper`**](https://scryfall.com/card/hob/38) | [[02 Cards/Creatures/Elvenking's Harper\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.04 |
-| [**`mtg:Melancholic Poet`**](https://scryfall.com/card/sos/90) | [[02 Cards/Creatures/Melancholic Poet\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.21 |
+| [**`mtg:Melancholic Poet`**](https://scryfall.com/card/sos/90) | [[02 Cards/Creatures/Melancholic Poet\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 0.28 |
 | [**`mtg:Nori, Teller of Tales`**](https://scryfall.com/card/hob/161) | [[02 Cards/Creatures/Nori, Teller of Tales\|PAGE]] | {1}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.06 |
 | [**`mtg:Thunderdrum Soloist`**](https://scryfall.com/card/sos/134) | [[02 Cards/Creatures/Thunderdrum Soloist\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
 | [**`mtg:Abigale, Poet Laureate`**](https://scryfall.com/card/sos/170) | [[02 Cards/Creatures/Abigale, Poet Laureate\|PAGE]] | {1}{W}{B} // {1}{W/B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.35 |
@@ -19,5 +19,5 @@ Creature type: Bard.
 | [**`mtg:Starfield Vocalist`**](https://scryfall.com/card/eoe/78) | [[02 Cards/Creatures/Starfield Vocalist\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.27 |
 | [**`mtg:Balin, Loremaster`**](https://scryfall.com/card/hob/87) | [[02 Cards/Creatures/Balin, Loremaster\|PAGE]] | {3}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.23 |
 | [**`mtg:Orysa, Tide Choreographer`**](https://scryfall.com/card/sos/62) | [[02 Cards/Creatures/Orysa, Tide Choreographer\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.06 |
-| [**`mtg:Stirring Honormancer`**](https://scryfall.com/card/sos/234) | [[02 Cards/Creatures/Stirring Honormancer\|PAGE]] | {2}{W}{W/B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rhino\|Rhino]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
+| [**`mtg:Stirring Honormancer`**](https://scryfall.com/card/sos/234) | [[02 Cards/Creatures/Stirring Honormancer\|PAGE]] | {2}{W}{W/B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rhino\|Rhino]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.04 |
 | [**`mtg:Bifur, Melodic Rider`**](https://scryfall.com/card/hob/147) | [[02 Cards/Creatures/Bifur, Melodic Rider\|PAGE]] | {4}{R/W}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.08 |

@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Giant\|Giant]] |
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (6)\|Mana (6)]] |
-| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Box\|Box]] |
+| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
 
 </div>
 
@@ -44,7 +44,7 @@
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Duel Decks: Heroes vs. Monsters (<code>DDL</code>)</td><td>1</td><td>foil</td><td>1</td><td>Zurgo</td><td>1.10</td></tr>
-<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>178</td><td>—</td><td>1</td><td>Box</td><td>0.25</td></tr>
+<tr><td>Secrets of Strixhaven Commander (<code>SOC</code>)</td><td>178</td><td>—</td><td>1</td><td>Ayli</td><td>0.25</td></tr>
 </tbody>
 </table>
 </div>
@@ -53,6 +53,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
+- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -71,7 +72,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Giant|Giant]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (6)|Mana (6)]] · [[06 Browse/Rarities/4 Mythic|Mythic]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/DDL|Duel Decks: Heroes vs. Monsters]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Giant|Giant]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (6)|Mana (6)]] · [[06 Browse/Rarities/4 Mythic|Mythic]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/DDL|Duel Decks: Heroes vs. Monsters]] · [[06 Browse/Sets/SOC|Secrets of Strixhaven Commander]]
 
 ---
 

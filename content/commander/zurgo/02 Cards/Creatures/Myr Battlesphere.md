@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Myr Battlesphere`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {7}  
 > **Type:** Artifact Creature — Myr Construct  
 > **P/T:** 4/7  
@@ -96,7 +96,7 @@ Myr Battlesphere is a seven-mana pile of bodies, not the plan. Four Myr enter in
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 85
@@ -104,7 +104,7 @@ Myr Battlesphere is a seven-mana pile of bodies, not the plan. Four Myr enter in
 > scryfall_id: 71e7ef4a-2032-4571-afc6-5207d4b40c3d
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

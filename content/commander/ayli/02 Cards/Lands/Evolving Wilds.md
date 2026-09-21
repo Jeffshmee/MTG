@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Evolving Wilds`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -86,7 +86,7 @@
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -94,7 +94,7 @@
 > scryfall_id: 62209251-4118-4843-895b-46afb7284c75
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - land
 > ```
 

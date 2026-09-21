@@ -36,6 +36,7 @@
 | 05/09/2026 | MageCards · MtgGambit |
 | 08/09/2026 | Booster haul |
 | 14/09/2026 | Cardmarket · Nikolcia01 |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -44,20 +45,20 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>42</div>
+<div class="synergy-score-num"><span>Copies</span>43</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.23</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>7</td><td>Box</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>8</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>275</td><td>—</td><td>9</td><td>Box</td><td>0.09</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>280</td><td>—</td><td>1</td><td>Maralen</td><td>0.22</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>273</td><td>—</td><td>1</td><td>Maralen</td><td>0.47</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>2</td><td>Maralen</td><td>0.09</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>274</td><td>—</td><td>1</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>284</td><td>—</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>foil</td><td>1</td><td>Kykar</td><td>0.12</td></tr>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>275</td><td>—</td><td>2</td><td>Box</td><td>0.11</td></tr>
 <tr><td>Final Fantasy (<code>FIN</code>)</td><td>297</td><td>foil</td><td>2</td><td>Box</td><td>0.22</td></tr>
 <tr><td>Modern Horizons 3 (<code>MH3</code>)</td><td>305</td><td>foil</td><td>3</td><td>Box</td><td>0.19</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>270</td><td>—</td><td>1</td><td>Box</td><td>0.07</td></tr>
@@ -104,8 +105,8 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>MH3 305 · ×4</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/f/d/fd1b9e7c-09d0-4907-9f48-34289f3cd2cc.jpg" alt="Island SOS 275 · ×2">
-<figcaption>SOS 275 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/f/d/fd1b9e7c-09d0-4907-9f48-34289f3cd2cc.jpg" alt="Island SOS 275 · ×3">
+<figcaption>SOS 275 · ×3</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/e/1/e1d10d9c-8771-4870-aebf-e767d0fada32.jpg" alt="Island DSK 280 · ×1">
@@ -180,7 +181,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Island"
 > scryfall_id: 17e2b637-72b1-4457-aaba-66d51107be4c
-> quantity: 42
+> quantity: 43
 > tags:
 >   - card
 >   - collection

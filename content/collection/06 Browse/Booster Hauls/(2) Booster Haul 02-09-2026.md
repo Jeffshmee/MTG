@@ -166,7 +166,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Divergent Equation`**](https://scryfall.com/card/sos/43) | [[02 Cards/Instants/Divergent Equation\|PAGE]] | {X}{X}{U} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Ennis, Debate Moderator`**](https://scryfall.com/card/sos/14) | [[02 Cards/Creatures/Ennis, Debate Moderator\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Helping Hand`**](https://scryfall.com/card/soa/5) | [[02 Cards/Sorceries/Helping Hand\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.12 | — |
-| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | — | — | — | Uncommon | — | 1 | 0.12 | — |
+| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | {2}{B}{G} // {B/G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Rabid Attack`**](https://scryfall.com/card/sos/96) | [[02 Cards/Instants/Rabid Attack\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Thunderdrum Soloist`**](https://scryfall.com/card/sos/134) | [[02 Cards/Creatures/Thunderdrum Soloist\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.12 | — |
 | [**`mtg:Dissection Practice`**](https://scryfall.com/card/sos/79) | [[02 Cards/Instants/Dissection Practice\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.11 | — |
@@ -714,7 +714,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Pterafractyl`**](https://scryfall.com/card/sos/215) | [[02 Cards/Creatures/Pterafractyl\|PAGE]] | {X}{G}{U} | [[03 Card Types/Creature\|Creature]] | Common | — | 1 | 0.04 |
 | [**`mtg:Vibrant Outburst`**](https://scryfall.com/card/sos/240) | [[02 Cards/Instants/Vibrant Outburst\|PAGE]] | {U}{R} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.19 |
 | [**`mtg:Soaring Stoneglider`**](https://scryfall.com/card/sos/32) | [[02 Cards/Creatures/Soaring Stoneglider\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.05 |
-| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | — | — | — | Uncommon | — | 1 | 0.12 |
+| [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | {2}{B}{G} // {B/G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.12 |
 | [**`mtg:Tragedy Feaster`**](https://scryfall.com/card/sos/102) | [[02 Cards/Creatures/Tragedy Feaster\|PAGE]] | {2}{B}{B} | [[03 Card Types/Creature\|Creature]] | Rare | — | 1 | 0.22 |
 | [**`mtg:Locust Spray`**](https://scryfall.com/card/soa/31) | [[02 Cards/Instants/Locust Spray\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | Uncommon | — | 1 | 0.06 |
 | [**`mtg:Terramorphic Expanse`**](https://scryfall.com/card/sos/265) | [[02 Cards/Lands/Terramorphic Expanse\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | foil | 1 | 0.10 |

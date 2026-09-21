@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**123** copies · **86** names.
+**135** copies · **94** names.
 
 ```decklist
 group: auto
@@ -49,20 +49,25 @@ legality: commander
 
 # Artifacts
 1 Abzan Monument
+1 Aetherflux Reservoir
+1 Andúril, Narsil Reforged
 1 Arc Reactor
-6 Arcane Signet
+7 Arcane Signet
+1 Ashnod's Altar
 1 Azorius Signet
 1 Basilisk Collar
 1 Bear Trap
 2 Blade of Selves
+1 Chromatic Lantern
 1 Cultivator's Caravan
 4 Dawn-Blessed Pennant
 1 Diary of Dreams
+1 Door of Destinies
 1 Dwarven Mattock
 1 Excalibur II
 1 Expedition Map
 1 Feldon's Cane
-1 Firdoch Core
+2 Firdoch Core
 1 Fireshrieker
 1 Fishing Pole
 1 Fountainport Bell
@@ -77,7 +82,8 @@ legality: commander
 1 Idol of Oblivion
 2 Jeskai Monument
 1 Kyoshi Battle Fan
-3 Lightning Greaves
+4 Lightning Greaves
+1 Lothlórien Blade
 1 Magnifying Glass
 1 Mardu Monument
 1 Mazemind Tome
@@ -88,17 +94,19 @@ legality: commander
 3 Potioner's Trove
 1 Pyromancer's Goggles
 1 Ravenous Amulet
+1 Selesnya Locket
 1 Skullclamp
 1 Skybox Ferry
 5 Sol Ring
 1 Sorcerous Spyglass
 1 Soul-Guide Lantern
 1 Stalactite Dagger
-2 Strixhaven Skycoach
+3 Strixhaven Skycoach
 2 Swiftfoot Boots
 1 Talisman of Conviction
 1 Talisman of Hierarchy
 1 Talisman of Progress
+1 Thought Vessel
 1 Wayfarer's Bauble
 1 Well of Lost Dreams
 

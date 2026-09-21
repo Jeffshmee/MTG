@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Keeper of Fables`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{G}{G}  
 > **Type:** Creature — Cat  
 > **P/T:** 4/5  
@@ -48,7 +48,7 @@ Whenever one or more non-Human creatures you control deal combat damage to a pla
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Keeper of Fables|Keeper of Fables]] draws whenever one or more non-Human creatures deal combat damage to a player. Cats are not Humans. One trigger per combat, not per Cat. Card advantage for the wide board. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Keeper of Fables|Keeper of Fables]] draws whenever one or more non-Human creatures deal combat damage to a player. Cats are not Humans. One trigger per combat, not per Cat. Card advantage for the wide board. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ Whenever one or more non-Human creatures you control deal combat damage to a pla
 ## Anti-synergies / Notes
 
 - One trigger per combat. Humans on their side do not turn it off — your Cats are still non-Human.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -85,7 +85,7 @@ Whenever one or more non-Human creatures you control deal combat damage to a pla
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -93,7 +93,7 @@ Whenever one or more non-Human creatures you control deal combat damage to a pla
 > scryfall_id: 3e7d8c13-bfab-4501-8773-64adbfeb0957
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Reassembling Skeleton`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}  
 > **Type:** Creature — Skeleton Warrior  
 > **P/T:** 1/1  
@@ -48,7 +48,7 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Reassembling Skeleton|Reassembling Skeleton]] pays {1}{B} from the yard to return tapped. Repeatable fodder. Each loop is a death for Bastion / Bloodwitch and an ETB for Hinterland. Slower than [[02 Cards/Creatures/Nine-Lives Familiar|Nine-Lives Familiar]] (end-step return) and cheaper than Victimize. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Reassembling Skeleton|Reassembling Skeleton]] pays {1}{B} from the yard to return tapped. Repeatable fodder. Each loop is a death for Bastion / Bloodwitch and an ETB for Hinterland. Slower than [[02 Cards/Creatures/Nine-Lives Familiar|Nine-Lives Familiar]] (end-step return) and cheaper than Victimize. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@
 ## Anti-synergies / Notes
 
 - Returns tapped. Not a surprise blocker. Empty mana = it stays dead.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -94,7 +94,7 @@
 > scryfall_id: 4d431445-d7db-4ce1-b422-41494d9be1b4
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

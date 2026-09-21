@@ -2,13 +2,13 @@
 
 Set `ECL`. Qty here is copies of this name from this set.
 
-**114** copies · **81** names.
+**116** copies · **81** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Eclipsed Realms`**](https://scryfall.com/card/ecl/263) | [[02 Cards/Lands/Eclipsed Realms\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 4 | 2.88 |
 | [**`mtg:Forest`**](https://scryfall.com/card/fdn/280) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.11 |
-| [**`mtg:Hallowed Fountain`**](https://scryfall.com/card/ecl/265) | [[02 Cards/Lands/Hallowed Fountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 6.78 |
+| [**`mtg:Hallowed Fountain`**](https://scryfall.com/card/ecl/265) | [[02 Cards/Lands/Hallowed Fountain\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Plains\|Plains]] [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 16.37 |
 | [**`mtg:Island`**](https://scryfall.com/card/fdn/274) | [[02 Cards/Lands/Island\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Island\|Island]] | [[02 Cards/Lands/01 - Summary\|Land]] {U} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 0.29 |
 | [**`mtg:Overgrown Tomb`**](https://scryfall.com/card/ecl/266) | [[02 Cards/Lands/Overgrown Tomb\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] [[06 Browse/Land Types/Swamp\|Swamp]] [[06 Browse/Land Types/Forest\|Forest]] | [[02 Cards/Lands/01 - Summary\|Land]] {B}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 7.39 |
 | [**`mtg:Plains`**](https://scryfall.com/card/fdn/272) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Plains\|Plains]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.21 |
@@ -49,7 +49,7 @@ Set `ECL`. Qty here is copies of this name from this set.
 | [**`mtg:Eclipsed Boggart`**](https://scryfall.com/card/ecl/335) | [[02 Cards/Creatures/Eclipsed Boggart\|PAGE]] | {B/R}{B/R}{B/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.18 |
 | [**`mtg:Eclipsed Elf`**](https://scryfall.com/card/ecl/218) | [[02 Cards/Creatures/Eclipsed Elf\|PAGE]] | {B/G}{B/G}{B/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Enraged Flamecaster`**](https://scryfall.com/card/ecl/135) | [[02 Cards/Creatures/Enraged Flamecaster\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
-| [**`mtg:Firdoch Core`**](https://scryfall.com/card/ecl/255) | [[02 Cards/Artifacts/Firdoch Core\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
+| [**`mtg:Firdoch Core`**](https://scryfall.com/card/ecl/255) | [[02 Cards/Artifacts/Firdoch Core\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.43 |
 | [**`mtg:Glamermite`**](https://scryfall.com/card/ecl/50) | [[02 Cards/Creatures/Glamermite\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.04 |
 | [**`mtg:Heirloom Auntie`**](https://scryfall.com/card/ecl/107) | [[02 Cards/Creatures/Heirloom Auntie\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.05 |
 | [**`mtg:Meek Attack`**](https://scryfall.com/card/ecl/151) | [[02 Cards/Enchantments/Meek Attack\|PAGE]] | {2}{R} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.51 |

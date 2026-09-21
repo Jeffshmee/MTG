@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>5</div>
+<div class="synergy-score-num"><span>Copies</span>6</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>220</td><td>—</td><td>4</td><td>Box</td><td>0.03</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>220</td><td>—</td><td>5</td><td>Box</td><td>0.03</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>220</td><td>foil</td><td>1</td><td>Box</td><td>0.03</td></tr>
 </tbody>
 </table>
@@ -56,8 +57,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/2/5/25bbb1c7-14e8-444f-ab98-e95f50927460.jpg" alt="Render Speechless SOS 220 · ×5">
-<figcaption>SOS 220 · ×5</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/2/5/25bbb1c7-14e8-444f-ab98-e95f50927460.jpg" alt="Render Speechless SOS 220 · ×6">
+<figcaption>SOS 220 · ×6</figcaption>
 </figure>
 </div>
 
@@ -76,7 +77,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 4
 > type: "Sorcery"
 > scryfall_id: 25bbb1c7-14e8-444f-ab98-e95f50927460
-> quantity: 5
+> quantity: 6
 > tags:
 >   - card
 >   - collection

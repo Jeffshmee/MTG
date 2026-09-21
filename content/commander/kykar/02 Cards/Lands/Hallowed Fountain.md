@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:88%"></div></div>
 >
-> ![Hallowed Fountain](https://cards.scryfall.io/border_crop/front/e/0/e056b55f-82ed-4fe0-ab0c-bb20fa4a218a.jpg)
+> ![Hallowed Fountain](https://cards.scryfall.io/border_crop/front/1/9/19cba6be-7291-4788-9241-87dad3b68363.jpg)
 >
 > ### Deck Scores
 >
@@ -94,7 +94,7 @@ Hallowed Fountain is a mana source for this Azorius pile. Shock. Best Azorius du
 >   general: 92
 >   deck_specific: 86
 >   combined: 88
-> scryfall_id: e056b55f-82ed-4fe0-ab0c-bb20fa4a218a
+> scryfall_id: 19cba6be-7291-4788-9241-87dad3b68363
 > tags:
 >   - card
 >   - main-deck

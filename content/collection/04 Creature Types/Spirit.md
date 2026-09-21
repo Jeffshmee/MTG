@@ -2,7 +2,7 @@
 
 Creature type: Spirit.
 
-**31** copies · **19** names.
+**32** copies · **19** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -12,7 +12,7 @@ Creature type: Spirit.
 | [**`mtg:Karlov of the Ghost Council`**](https://scryfall.com/card/rvr/193) | [[02 Cards/Creatures/Karlov of the Ghost Council\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 9.49 |
 | [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.62 |
 | [**`mtg:Spirit Mascot`**](https://scryfall.com/card/sos/230) | [[02 Cards/Creatures/Spirit Mascot\|PAGE]] | {R}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Ox\|Ox]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.21 |
-| [**`mtg:Stone Docent`**](https://scryfall.com/card/sos/36) | [[02 Cards/Creatures/Stone Docent\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Chimera\|Chimera]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.09 |
+| [**`mtg:Stone Docent`**](https://scryfall.com/card/sos/36) | [[02 Cards/Creatures/Stone Docent\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Chimera\|Chimera]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 0.12 |
 | [**`mtg:Anafenza, Unyielding Lineage`**](https://scryfall.com/card/tdm/2) | [[02 Cards/Creatures/Anafenza, Unyielding Lineage\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
 | [**`mtg:Charging Strifeknight`**](https://scryfall.com/card/sos/110) | [[02 Cards/Creatures/Charging Strifeknight\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.13 |
 | [**`mtg:Empyrean Eagle`**](https://scryfall.com/card/fdn/239) | [[02 Cards/Creatures/Empyrean Eagle\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |

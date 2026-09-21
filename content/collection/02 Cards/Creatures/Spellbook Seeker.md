@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>68</td><td>—</td><td>2</td><td>Box</td><td>0.05</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>68</td><td>—</td><td>3</td><td>Box</td><td>0.05</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/c/c/cc44eaa4-59a4-419e-b1d1-d92f354ff588.jpg" alt="Spellbook Seeker // Careful Study SOS 68 · ×2">
-<figcaption>SOS 68 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/c/c/cc44eaa4-59a4-419e-b1d1-d92f354ff588.jpg" alt="Spellbook Seeker // Careful Study SOS 68 · ×3">
+<figcaption>SOS 68 · ×3</figcaption>
 </figure>
 </div>
 
@@ -76,7 +77,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 4
 > type: "Creature — Bird Wizard // Sorcery"
 > scryfall_id: cc44eaa4-59a4-419e-b1d1-d92f354ff588
-> quantity: 2
+> quantity: 3
 > tags:
 >   - bird
 >   - blue

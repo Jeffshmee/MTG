@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 16/09/2026 | MageCards · MTG_Factory |
 
 </div>
 
@@ -38,12 +38,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations (<code>FDN</code>)</td><td>173</td><td>—</td><td>1</td><td>Box</td><td>0.33</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>173</td><td>—</td><td>2</td><td>Box</td><td>0.33</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +55,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/f/1/f11d7311-4066-4a5d-ba28-9857fa707a0b.jpg" alt="Exsanguinate FDN 173 · ×1">
-<figcaption>FDN 173 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/f/1/f11d7311-4066-4a5d-ba28-9857fa707a0b.jpg" alt="Exsanguinate FDN 173 · ×2">
+<figcaption>FDN 173 · ×2</figcaption>
 </figure>
 </div>
 
@@ -75,7 +75,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 2
 > type: "Sorcery"
 > scryfall_id: f11d7311-4066-4a5d-ba28-9857fa707a0b
-> quantity: 1
+> quantity: 2
 > tags:
 >   - black
 >   - card

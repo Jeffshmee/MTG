@@ -31,6 +31,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -39,12 +40,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>4</div>
+<div class="synergy-score-num"><span>Copies</span>5</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>266</td><td>—</td><td>3</td><td>Box</td><td>0.10</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>266</td><td>—</td><td>4</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>266</td><td>foil</td><td>1</td><td>Box</td><td>0.06</td></tr>
 </tbody>
 </table>
@@ -57,8 +58,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/a/9/a9ab41c8-3ee2-4676-9b8b-20c34d9f5f21.jpg" alt="Titan's Grave SOS 266 · ×4">
-<figcaption>SOS 266 · ×4</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/a/9/a9ab41c8-3ee2-4676-9b8b-20c34d9f5f21.jpg" alt="Titan's Grave SOS 266 · ×5">
+<figcaption>SOS 266 · ×5</figcaption>
 </figure>
 </div>
 
@@ -77,7 +78,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Land"
 > scryfall_id: a9ab41c8-3ee2-4676-9b8b-20c34d9f5f21
-> quantity: 4
+> quantity: 5
 > tags:
 >   - card
 >   - collection

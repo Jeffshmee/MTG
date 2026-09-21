@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**397** copies · **135** names.
+**413** copies · **144** names.
 
 ```decklist
 group: auto
@@ -12,10 +12,15 @@ legality: commander
 1 Glasspool Mimic // Glasspool Shore
 1 Westvale Abbey // Ormendahl, Profane Prince
 
+# Artifacts
+1 Razortide Bridge
+
 # Lands
+1 A.I.M. Labs
 1 Abandoned Air Temple
 1 Adventurer's Inn
 1 Animal Sanctuary
+1 Arctic Flats
 1 Azorius Chancery
 1 Azorius Guildgate
 1 Battlefield Forge
@@ -50,7 +55,7 @@ legality: commander
 3 Evolving Wilds
 1 Exotic Orchard
 1 Fabled Passage
-1 Fetid Heath
+2 Fetid Heath
 4 Fields of Strife
 1 Floodfarm Verge
 45 Forest
@@ -64,14 +69,14 @@ legality: commander
 1 Graypelt Refuge
 1 Gruul Guildgate
 1 Hall of Heliod's Generosity
-1 Hallowed Fountain
+2 Hallowed Fountain
 1 Hedge Maze
 1 Hidden Grotto
 1 High Market
 1 Hobbit Hole
 2 Iron Hills
 1 Irrigated Farmland
-42 Island
+43 Island
 2 Isolated Chapel
 1 Izzet Guildgate
 4 Jungle Hollow
@@ -79,6 +84,7 @@ legality: commander
 1 Maze's End
 1 Meditation Pools
 1 Mirkwood
+1 Mortuary Mire
 1 Mosswort Bridge
 32 Mountain
 1 Myriad Landscape
@@ -87,24 +93,28 @@ legality: commander
 1 Opal Palace
 4 Opulent Palace
 1 Orzhov Guildgate
+1 Overgrown Farmland
 1 Overgrown Tomb
 4 Paradox Gardens
-2 Path of Ancestry
+3 Path of Ancestry
 1 Peculiar Lighthouse
 1 Petrified Hamlet
-33 Plains
+35 Plains
 1 Port Town
 1 Prairie Stream
 1 Radiant Fountain
 1 Rakdos Guildgate
+1 Restless Anchorage
 1 Restless Fortress
 2 Rogue's Passage
 4 Rugged Highlands
+1 Rugged Prairie
 1 Rumble Arena
 1 Sacred Foundry
 1 Savage Lands
 1 Savai Triome
 3 Scoured Barrens
+1 Seachrome Coast
 2 Secluded Courtyard
 1 Secluded Glen
 1 Secret Tunnel
@@ -119,6 +129,7 @@ legality: commander
 1 Smoldering Marsh
 3 Spectacle Summit
 1 Sundown Pass
+1 Sunpetal Grove
 43 Swamp
 3 Swiftwater Cliffs
 1 Takenuma, Abandoned Mire
@@ -137,7 +148,7 @@ legality: commander
 1 The Lonely Mountain
 4 Thornwood Falls
 2 Three Tree City
-4 Titan's Grave
+5 Titan's Grave
 4 Tranquil Cove
 1 Unclaimed Territory
 2 Vault of the Archangel

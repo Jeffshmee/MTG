@@ -31,6 +31,7 @@
 |------|-------|
 | 02/09/2026 | Booster haul |
 | 08/09/2026 | Booster haul |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -39,12 +40,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>3</div>
+<div class="synergy-score-num"><span>Copies</span>4</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>204</td><td>—</td><td>3</td><td>Box</td><td>0.07</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>204</td><td>—</td><td>4</td><td>Box</td><td>0.07</td></tr>
 </tbody>
 </table>
 </div>
@@ -56,8 +57,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/5/0/506f69aa-7dc4-4dd7-990a-7371fc1762c0.jpg" alt="Molten Note SOS 204 · ×3">
-<figcaption>SOS 204 · ×3</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/5/0/506f69aa-7dc4-4dd7-990a-7371fc1762c0.jpg" alt="Molten Note SOS 204 · ×4">
+<figcaption>SOS 204 · ×4</figcaption>
 </figure>
 </div>
 
@@ -76,7 +77,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 2
 > type: "Sorcery"
 > scryfall_id: 506f69aa-7dc4-4dd7-990a-7371fc1762c0
-> quantity: 3
+> quantity: 4
 > tags:
 >   - card
 >   - collection

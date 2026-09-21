@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Pawn of Ulamog`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{B}{B}  
 > **Type:** Creature — Vampire Shaman  
 > **P/T:** 2/2  
@@ -49,7 +49,7 @@ Whenever this creature or another nontoken creature you control dies, you may [[
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Pawn of Ulamog|Pawn of Ulamog]] leaves a 0/1 Eldrazi Spawn with '{T}, Sacrifice this: add {C}' whenever a nontoken creature you control dies. Token deaths do not trigger it. Ayli-sacing Sage mints a Spawn; sacing a Snake token does not. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Pawn of Ulamog|Pawn of Ulamog]] leaves a 0/1 Eldrazi Spawn with '{T}, Sacrifice this: add {C}' whenever a nontoken creature you control dies. Token deaths do not trigger it. Ayli-sacing Sage mints a Spawn; sacing a Snake token does not. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@ Whenever this creature or another nontoken creature you control dies, you may [[
 ## Anti-synergies / Notes
 
 - Token deaths (Ophiomancer Snakes, Inspector's leftover) do not mint Spawns.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Whenever this creature or another nontoken creature you control dies, you may [[
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -94,7 +94,7 @@ Whenever this creature or another nontoken creature you control dies, you may [[
 > scryfall_id: c1b0377c-efd6-4fab-89f0-b219ca2c4c22
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

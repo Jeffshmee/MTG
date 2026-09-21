@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Elrond, Moon-Reader`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{U}  
 > **Type:** Legendary Creature — Elf Noble  
 > **P/T:** 3/3  
@@ -90,7 +90,7 @@ Elrond draws the first time you activate a creature ability each turn — [[02 C
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 78
 >   deck_specific: 88
@@ -98,7 +98,7 @@ Elrond draws the first time you activate a creature ability each turn — [[02 C
 > scryfall_id: fbcb310c-be73-46f8-8e65-8632454ccc6e
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - creature
 > ```
 

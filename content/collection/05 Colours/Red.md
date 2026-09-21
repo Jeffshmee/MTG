@@ -2,7 +2,7 @@
 
 Mono-red cards ({R} only). Lands and tokens are listed separately.
 
-**204** copies · **150** names.
+**208** copies · **151** names.
 
 ```decklist
 group: auto
@@ -60,6 +60,7 @@ legality: commander
 1 Item Shopkeep
 2 Jeskai Devotee
 1 Kindlespark Duo
+1 Kree Sentinel
 1 Lathliss, Dragon Queen
 1 Legion Warboss
 1 Loyal Apprentice
@@ -75,7 +76,7 @@ legality: commander
 1 Redcap Gutter-Dweller
 1 Redoubled Stormsinger
 1 Roughshod Duo
-3 Rubble Rouser
+4 Rubble Rouser
 1 Rubblebelt Braggart
 1 Shock Brigade
 1 Shocking Sharpshooter
@@ -117,7 +118,7 @@ legality: commander
 1 Monstrous Rage
 1 Pinecone Strike
 1 Reckless Ransacking
-1 Return the Favor
+2 Return the Favor
 1 Seize Opportunity
 1 Smaug's Fury
 2 Thrill of Possibility
@@ -127,7 +128,7 @@ legality: commander
 
 # Sorceries
 1 Act of Treason
-2 Ancestral Anger
+3 Ancestral Anger
 1 Archaic's Agony
 1 Artistic Process
 1 Boltwave

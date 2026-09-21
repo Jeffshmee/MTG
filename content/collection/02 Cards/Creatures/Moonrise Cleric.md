@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Bat\|Bat]] · [[04 Creature Types/Cleric\|Cleric]] |
 | **Colour** | [[05 Colours/Multi\|Multi]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (3)\|Mana (3)]] |
-| **Where** | [[06 Browse/Decks/Ayli Deck/Ayli\|Ayli]] |
+| **Where** | [[06 Browse/Box\|Box]] |
 
 </div>
 
@@ -43,15 +43,11 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Bloomburrow (<code>BLB</code>)</td><td>226</td><td>—</td><td>1</td><td>Ayli</td><td>0.13</td></tr>
+<tr><td>Bloomburrow (<code>BLB</code>)</td><td>226</td><td>—</td><td>1</td><td>Box</td><td>0.13</td></tr>
 </tbody>
 </table>
 </div>
 </div>
-
-## In decks
-
-- [[06 Browse/Decks/Ayli Deck/Ayli|Ayli — Main Deck]]
 
 ### Arts in this Collection
 
@@ -66,7 +62,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Bat|Bat]] · [[04 Creature Types/Cleric|Cleric]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/BLB|Bloomburrow]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Bat|Bat]] · [[04 Creature Types/Cleric|Cleric]] · [[05 Colours/Multi|Multi]] · [[06 Browse/Mana Costs/Mana (3)|Mana (3)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/BLB|Bloomburrow]]
 
 ---
 

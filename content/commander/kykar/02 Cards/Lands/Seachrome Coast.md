@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Seachrome Coast`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -11,7 +11,7 @@
 >
 > <div class="synergy-bar"><div style="width:83%"></div></div>
 >
-> ![Seachrome Coast](https://cards.scryfall.io/border_crop/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg)
+> ![Seachrome Coast](https://cards.scryfall.io/border_crop/front/f/d/fd8a9bf6-07c7-4dde-8c37-4bae64ca10ef.jpg)
 >
 > ### Deck Scores
 >
@@ -49,13 +49,13 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you control two or f
 
 ## Deck Role & Rating
 
-Seachrome Coast is a mana source for this Azorius pile. Fast land. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. It is not in the owned 65 yet.
+Seachrome Coast is a mana source for this Azorius pile. Fast land. The live base is Island ×8 / Plains ×6 plus [[02 Cards/Lands/Command Tower|Command Tower]]; duals are almost all on the buy list ([[02 Cards/Lands/Hallowed Fountain|Hallowed Fountain]], Floodfarm Verge). Do not treat this as a spell that triggers [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]. Sleeved 18/09/2026.
 
 ## Play Patterns & Lines
 
 - Sequence it so Kykar is {W}{U} on time. Live base is 8 Island / 6 Plains plus Tower.
 - Tapped duals are keepable while the buy list still holds Fountain / Otawara / Verge. Do not flood on Guildgate plus Cove plus Temple.
-- Not in the owned 65. Duals are the manabase hole.
+- In hand on the sideboard. Duals are the manabase hole.
 
 ## Key Synergies
 
@@ -65,7 +65,7 @@ Seachrome Coast is a mana source for this Azorius pile. Fast land. The live base
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- Sleeved 18/09/2026.
 - Tapped. Do not keep a two-lander that needs this untapped for Kykar.
 
 ## Related Pages
@@ -89,15 +89,15 @@ Seachrome Coast is a mana source for this Azorius pile. Fast land. The live base
 > colors: []
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 84
 >   deck_specific: 82
 >   combined: 83
-> scryfall_id: 9ed7441f-f624-49c8-8611-d9bba0e441ac
+> scryfall_id: fd8a9bf6-07c7-4dde-8c37-4bae64ca10ef
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 

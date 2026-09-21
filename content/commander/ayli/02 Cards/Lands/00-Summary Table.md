@@ -11,18 +11,18 @@ Every **Lands** page in this vault. Same columns as the collection Catalogue (ma
 | [**`mtg:Castle Ardenvale`**](https://scryfall.com/card/tdc/346) | [[02 Cards/Lands/Castle Ardenvale\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {W} | 0 | 1 | 0.24 |
 | [**`mtg:Command Tower`**](https://scryfall.com/card/msc/233) | [[02 Cards/Lands/Command Tower\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.84 |
 | [**`mtg:Cryptic Caves`**](https://scryfall.com/card/fdn/771) | [[02 Cards/Lands/Cryptic Caves\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.16 |
-| [**`mtg:Demolition Field`**](https://scryfall.com/card/fdn/687) | [[02 Cards/Lands/Demolition Field\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.22 |
-| [**`mtg:Emeria, the Sky Ruin`**](https://scryfall.com/card/soc/368) | [[02 Cards/Lands/Emeria, the Sky Ruin\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {W} | 0 | 1 | 0.00 |
+| [**`mtg:Demolition Field`**](https://scryfall.com/card/fdn/687) | [[02 Cards/Lands/Demolition Field\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.23 |
+| [**`mtg:Emeria, the Sky Ruin`**](https://scryfall.com/card/soc/368) | [[02 Cards/Lands/Emeria, the Sky Ruin\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {W} | 0 | 1 | 3.71 |
 | [**`mtg:Evolving Wilds`**](https://scryfall.com/card/msc/240) | [[02 Cards/Lands/Evolving Wilds\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.08 |
 | [**`mtg:Fabled Passage`**](https://scryfall.com/card/msc/242) | [[02 Cards/Lands/Fabled Passage\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 2.07 |
-| [**`mtg:Fetid Heath`**](https://scryfall.com/card/2xm/316) | [[02 Cards/Lands/Fetid Heath\|PAGE]] | — | [[04 Types/Land\|Land]] | [[05 Colours/Black\|Black]] [[05 Colours/White\|White]] | 0 | 1 | 5.32 |
+| [**`mtg:Fetid Heath`**](https://scryfall.com/card/soc/372) | [[02 Cards/Lands/Fetid Heath\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {B}{W} | 0 | 1 | 4.70 |
 | [**`mtg:Hall of Heliod's Generosity`**](https://scryfall.com/card/dsc/283) | [[02 Cards/Lands/Hall of Heliod's Generosity\|PAGE]] | — | [[04 Types/Legendary\|Legendary]] [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {W} | 0 | 1 | 8.39 |
-| [**`mtg:High Market`**](https://scryfall.com/card/soc/380) | [[02 Cards/Lands/High Market\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.00 |
+| [**`mtg:High Market`**](https://scryfall.com/card/soc/380) | [[02 Cards/Lands/High Market\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.71 |
 | [**`mtg:Hobbit Hole`**](https://scryfall.com/card/hob/184) | [[02 Cards/Lands/Hobbit Hole\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.02 |
-| [**`mtg:Isolated Chapel`**](https://scryfall.com/card/soc/382) | [[02 Cards/Lands/Isolated Chapel\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {B}{W} | 0 | 1 | 0.44 |
+| [**`mtg:Isolated Chapel`**](https://scryfall.com/card/soc/382) | [[02 Cards/Lands/Isolated Chapel\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {B}{W} | 0 | 1 | 0.51 |
 | [**`mtg:Marsh Flats`**](https://scryfall.com/card/mh2/248) | [[02 Cards/Lands/Marsh Flats\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.00 |
-| [**`mtg:Mortuary Mire`**](https://scryfall.com/card/clb/900) | [[02 Cards/Lands/Mortuary Mire\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {B} | 0 | 1 | 0.00 |
-| [**`mtg:Myriad Landscape`**](https://scryfall.com/card/eoc/169) | [[02 Cards/Lands/Myriad Landscape\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.00 |
+| [**`mtg:Mortuary Mire`**](https://scryfall.com/card/clb/900) | [[02 Cards/Lands/Mortuary Mire\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {B} | 0 | 1 | 0.19 |
+| [**`mtg:Myriad Landscape`**](https://scryfall.com/card/eoc/169) | [[02 Cards/Lands/Myriad Landscape\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.17 |
 | [**`mtg:Orzhov Guildgate`**](https://scryfall.com/card/fdn/692) | [[02 Cards/Lands/Orzhov Guildgate\|PAGE]] | — | [[04 Types/Land\|Land]] [[04 Types/Gate\|Gate]] | [[04 Types/Land\|Land]] {B}{W} | 0 | 1 | 0.15 |
 | [**`mtg:Phyrexian Tower`**](https://scryfall.com/card/mh3/303) | [[02 Cards/Lands/Phyrexian Tower\|PAGE]] | — | [[04 Types/Legendary\|Legendary]] [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {B} | 0 | 1 | 0.00 |
 | [**`mtg:Plains`**](https://scryfall.com/card/trk/317) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[04 Types/Basic\|Basic]] [[04 Types/Land\|Land]] [[04 Types/Plains\|Plains]] | [[04 Types/Land\|Land]] {W} | 0 | 4 | 2.12 |

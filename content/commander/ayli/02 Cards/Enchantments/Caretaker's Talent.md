@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Caretaker's Talent`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{W}  
 > **Type:** Enchantment — Class  
 >
@@ -94,7 +94,7 @@ Creature tokens you control [[03 Effects/Pump Creatures|get +2/+2]].
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -102,7 +102,7 @@ Creature tokens you control [[03 Effects/Pump Creatures|get +2/+2]].
 > scryfall_id: ad5ea98a-e36e-4ab9-b4da-cc572f3777db
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - enchantment
 > ```
 

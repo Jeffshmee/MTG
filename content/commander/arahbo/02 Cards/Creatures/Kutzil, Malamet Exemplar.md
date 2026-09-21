@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Kutzil, Malamet Exemplar`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}{W}  
 > **Type:** Legendary Creature — Cat Warrior  
 > **P/T:** 3/3  
@@ -12,7 +12,7 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Kutzil](https://cards.scryfall.io/border_crop/front/c/9/c9f88a40-a6ed-4c1f-a309-011aca1acddd.jpg)
+> ![Kutzil, Malamet Exemplar](https://cards.scryfall.io/border_crop/front/c/9/c9f88a40-a6ed-4c1f-a309-011aca1acddd.jpg)
 >
 > ### Deck Scores
 >
@@ -49,7 +49,7 @@ Whenever one or more creatures you control each with power greater than its base
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Kutzil, Malamet Exemplar|Kutzil, Malamet Exemplar]] stops them casting on your turn and draws when a creature with power greater than its base deals combat damage. Banner / First Fang / Regal / Pridemate counters all count. The tax is the main job; the draw is extra. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Kutzil, Malamet Exemplar|Kutzil, Malamet Exemplar]] stops them casting on your turn and draws when a creature with power greater than its base deals combat damage. Banner / First Fang / Regal / Pridemate counters all count. The tax is the main job; the draw is extra. Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -64,7 +64,7 @@ Whenever one or more creatures you control each with power greater than its base
 ## Anti-synergies / Notes
 
 - Base power equal to current power does not draw. Unpumped Cats do not trigger the draw.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -87,7 +87,7 @@ Whenever one or more creatures you control each with power greater than its base
 > colors: ["G", "W"]
 > color_identity: ["G", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -95,7 +95,7 @@ Whenever one or more creatures you control each with power greater than its base
 > scryfall_id: c9f88a40-a6ed-4c1f-a309-011aca1acddd
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

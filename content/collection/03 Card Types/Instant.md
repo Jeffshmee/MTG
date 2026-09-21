@@ -2,7 +2,7 @@
 
 Card type: Instant.
 
-**290** copies · **194** names.
+**298** copies · **199** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -42,6 +42,7 @@ Card type: Instant.
 | [**`mtg:Swords to Plowshares`**](https://scryfall.com/card/soc/179) | [[02 Cards/Instants/Swords to Plowshares\|PAGE]] | {W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 1.78 |
 | [**`mtg:Undying Malice`**](https://scryfall.com/card/fdn/528) | [[02 Cards/Instants/Undying Malice\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.51 |
 | [**`mtg:Unsummon`**](https://scryfall.com/card/fdn/599) | [[02 Cards/Instants/Unsummon\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.16 |
+| [**`mtg:Vampiric Tutor`**](https://scryfall.com/card/dmr/108) | [[02 Cards/Instants/Vampiric Tutor\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 36.55 |
 | [**`mtg:Veil of Summer`**](https://scryfall.com/card/soa/60) | [[02 Cards/Instants/Veil of Summer\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 3.46 |
 | [**`mtg:Village Rites`**](https://scryfall.com/card/lcc/212) | [[02 Cards/Instants/Village Rites\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.42 |
 | [**`mtg:Abrade`**](https://scryfall.com/card/soa/37) | [[02 Cards/Instants/Abrade\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 0.89 |
@@ -101,7 +102,7 @@ Card type: Instant.
 | [**`mtg:Rebellious Strike`**](https://scryfall.com/card/tdm/20) | [[02 Cards/Instants/Rebellious Strike\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Reckless Ransacking`**](https://scryfall.com/card/ecl/152) | [[02 Cards/Instants/Reckless Ransacking\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.06 |
 | [**`mtg:Repel Calamity`**](https://scryfall.com/card/soa/8) | [[02 Cards/Instants/Repel Calamity\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.07 |
-| [**`mtg:Return the Favor`**](https://scryfall.com/card/soa/47) | [[02 Cards/Instants/Return the Favor\|PAGE]] | {R}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.22 |
+| [**`mtg:Return the Favor`**](https://scryfall.com/card/soa/47) | [[02 Cards/Instants/Return the Favor\|PAGE]] | {R}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.44 |
 | [**`mtg:Run Away Together`**](https://scryfall.com/card/blb/67) | [[02 Cards/Instants/Run Away Together\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.11 |
 | [**`mtg:Sarkhan's Resolve`**](https://scryfall.com/card/tdm/158) | [[02 Cards/Instants/Sarkhan's Resolve\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.08 |
 | [**`mtg:Silverquill Charm`**](https://scryfall.com/card/sos/225) | [[02 Cards/Instants/Silverquill Charm\|PAGE]] | {W}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
@@ -116,9 +117,10 @@ Card type: Instant.
 | [**`mtg:Traumatic Critique`**](https://scryfall.com/card/sos/239) | [[02 Cards/Instants/Traumatic Critique\|PAGE]] | {X}{U}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.86 |
 | [**`mtg:Twin Bolt`**](https://scryfall.com/card/tdm/128) | [[02 Cards/Instants/Twin Bolt\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Valorous Stance`**](https://scryfall.com/card/fdn/583) | [[02 Cards/Instants/Valorous Stance\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.11 |
-| [**`mtg:Vibrant Outburst`**](https://scryfall.com/card/sos/240) | [[02 Cards/Instants/Vibrant Outburst\|PAGE]] | {U}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.19 |
+| [**`mtg:Vibrant Outburst`**](https://scryfall.com/card/sos/240) | [[02 Cards/Instants/Vibrant Outburst\|PAGE]] | {U}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.38 |
 | [**`mtg:Vow to Erebor`**](https://scryfall.com/card/hob/31) | [[02 Cards/Instants/Vow to Erebor\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Warg Tactics`**](https://scryfall.com/card/hob/139) | [[02 Cards/Instants/Warg Tactics\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.06 |
+| [**`mtg:Widow's Bite`**](https://scryfall.com/card/msh/122) | [[02 Cards/Instants/Widow's Bite\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Winter's Intervention`**](https://scryfall.com/card/dsk/123) | [[02 Cards/Instants/Winter's Intervention\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Witherbloom Charm`**](https://scryfall.com/card/sos/244) | [[02 Cards/Instants/Witherbloom Charm\|PAGE]] | {B}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.20 |
 | [**`mtg:Anguished Unmaking`**](https://scryfall.com/card/pip/209) | [[02 Cards/Instants/Anguished Unmaking\|PAGE]] | {1}{W}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.73 |
@@ -131,7 +133,7 @@ Card type: Instant.
 | [**`mtg:Dina's Guidance`**](https://scryfall.com/card/sos/184) | [[02 Cards/Instants/Dina's Guidance\|PAGE]] | {1}{B}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.67 |
 | [**`mtg:Divide by Zero`**](https://scryfall.com/card/stx/41) | [[02 Cards/Instants/Divide by Zero\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.39 |
 | [**`mtg:Dragon's Prey`**](https://scryfall.com/card/tdm/79) | [[02 Cards/Instants/Dragon's Prey\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
-| [**`mtg:Efflorescence`**](https://scryfall.com/card/sos/144) | [[02 Cards/Instants/Efflorescence\|PAGE]] | {2}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.06 |
+| [**`mtg:Efflorescence`**](https://scryfall.com/card/sos/144) | [[02 Cards/Instants/Efflorescence\|PAGE]] | {2}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.09 |
 | [**`mtg:Emeritus of Truce`**](https://scryfall.com/card/sos/13) | [[02 Cards/Creatures/Emeritus of Truce\|PAGE]] | {1}{W}{W} // {W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.29 |
 | [**`mtg:Encouraging Aviator`**](https://scryfall.com/card/sos/46) | [[02 Cards/Creatures/Encouraging Aviator\|PAGE]] | {2}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.12 |
 | [**`mtg:Faebloom Trick`**](https://scryfall.com/card/fdn/38) | [[02 Cards/Instants/Faebloom Trick\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.12 |
@@ -151,7 +153,8 @@ Card type: Instant.
 | [**`mtg:Skycoach Conductor`**](https://scryfall.com/card/sos/67) | [[02 Cards/Creatures/Skycoach Conductor\|PAGE]] | {2}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Pilot\|Pilot]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.62 |
 | [**`mtg:Spin Out`**](https://scryfall.com/card/dft/106) | [[02 Cards/Instants/Spin Out\|PAGE]] | {1}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Stand Up for Yourself`**](https://scryfall.com/card/sos/34) | [[02 Cards/Instants/Stand Up for Yourself\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.12 |
-| [**`mtg:Stroke of Midnight`**](https://scryfall.com/card/tdc/132) | [[02 Cards/Instants/Stroke of Midnight\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 1.19 |
+| [**`mtg:Stroke of Midnight`**](https://scryfall.com/card/tdc/132) | [[02 Cards/Instants/Stroke of Midnight\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 1.26 |
+| [**`mtg:Suspend Aggression`**](https://scryfall.com/card/sos/236) | [[02 Cards/Instants/Suspend Aggression\|PAGE]] | {1}{R}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Thirst for Identity`**](https://scryfall.com/card/ecl/79) | [[02 Cards/Instants/Thirst for Identity\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Tribute to Hunger`**](https://scryfall.com/card/fdn/614) | [[02 Cards/Instants/Tribute to Hunger\|PAGE]] | {2}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.16 |
 | [**`mtg:Tweeze`**](https://scryfall.com/card/ecl/162) | [[02 Cards/Instants/Tweeze\|PAGE]] | {2}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
@@ -164,6 +167,7 @@ Card type: Instant.
 | [**`mtg:White Sun's Zenith`**](https://scryfall.com/card/onc/90) | [[02 Cards/Instants/White Sun's Zenith\|PAGE]] | {X}{W}{W}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.25 |
 | [**`mtg:Will of the Mardu`**](https://scryfall.com/card/tdc/17) | [[02 Cards/Instants/Will of the Mardu\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.06 |
 | [**`mtg:Aetherize`**](https://scryfall.com/card/znc/23) | [[02 Cards/Instants/Aetherize\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.52 |
+| [**`mtg:Akroma's Will`**](https://scryfall.com/card/soa/1) | [[02 Cards/Instants/Akroma's Will\|PAGE]] | {3}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 14.72 |
 | [**`mtg:Appeal to Eirdu`**](https://scryfall.com/card/ecl/5) | [[02 Cards/Instants/Appeal to Eirdu\|PAGE]] | {3}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.03 |
 | [**`mtg:Bake into a Pie`**](https://scryfall.com/card/fdn/169) | [[02 Cards/Instants/Bake into a Pie\|PAGE]] | {2}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.14 |
 | [**`mtg:Bolt Bend`**](https://scryfall.com/card/fdn/619) | [[02 Cards/Instants/Bolt Bend\|PAGE]] | {3}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 2.62 |
@@ -181,6 +185,7 @@ Card type: Instant.
 | [**`mtg:Uneasy Partings`**](https://scryfall.com/card/hob/58) | [[02 Cards/Instants/Uneasy Partings\|PAGE]] | {3}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.02 |
 | [**`mtg:Wander Off`**](https://scryfall.com/card/sos/104) | [[02 Cards/Instants/Wander Off\|PAGE]] | {3}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 0.10 |
 | [**`mtg:Wilt in the Heat`**](https://scryfall.com/card/sos/243) | [[02 Cards/Instants/Wilt in the Heat\|PAGE]] | {2}{R}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 0.09 |
+| [**`mtg:Ad Nauseam`**](https://scryfall.com/card/soa/25) | [[02 Cards/Instants/Ad Nauseam\|PAGE]] | {3}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 5.93 |
 | [**`mtg:Ajani's Response`**](https://scryfall.com/card/sos/6) | [[02 Cards/Instants/Ajani's Response\|PAGE]] | {4}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.09 |
 | [**`mtg:Claws Out`**](https://scryfall.com/card/fdn/6) | [[02 Cards/Instants/Claws Out\|PAGE]] | {3}{W}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.13 |
 | [**`mtg:Early Winter`**](https://scryfall.com/card/blb/93) | [[02 Cards/Instants/Early Winter\|PAGE]] | {4}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.04 |

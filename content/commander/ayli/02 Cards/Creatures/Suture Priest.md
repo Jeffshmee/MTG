@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Suture Priest`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Phyrexian Cleric  
 > **P/T:** 1/1  
@@ -49,7 +49,7 @@ Whenever a creature an opponent controls enters, you may have that player lose 1
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Suture Priest|Suture Priest]] gains 1 whenever another creature you control enters, and each opponent loses 1 whenever a creature they control enters. Sister plus a tax. Delney doubles it (1/1). 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Suture Priest|Suture Priest]] gains 1 whenever another creature you control enters, and each opponent loses 1 whenever a creature they control enters. Sister plus a tax. Delney doubles it (1/1). Live in the sleeved pile.
 
 ## Play Patterns & Lines
 
@@ -63,7 +63,7 @@ Whenever a creature an opponent controls enters, you may have that player lose 1
 ## Anti-synergies / Notes
 
 - Your own ETBs do not drain them — only theirs. Not a second Zulaport.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 16/09/2026.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Whenever a creature an opponent controls enters, you may have that player lose 1
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -94,7 +94,7 @@ Whenever a creature an opponent controls enters, you may have that player lose 1
 > scryfall_id: 430b96aa-7bb0-4d2b-b265-9c4987db28a2
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

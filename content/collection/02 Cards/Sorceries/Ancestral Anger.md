@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 02/09/2026 | Booster haul |
+| 21/09/2026 | Booster haul |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>3</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>106</td><td>—</td><td>2</td><td>Box</td><td>0.04</td></tr>
+<tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>106</td><td>—</td><td>3</td><td>Box</td><td>0.04</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/6/c/6c5a93d6-d4ab-4062-bb3c-1b5330bf15ad.jpg" alt="Ancestral Anger SOS 106 · ×2">
-<figcaption>SOS 106 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/6/c/6c5a93d6-d4ab-4062-bb3c-1b5330bf15ad.jpg" alt="Ancestral Anger SOS 106 · ×3">
+<figcaption>SOS 106 · ×3</figcaption>
 </figure>
 </div>
 
@@ -75,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 1
 > type: "Sorcery"
 > scryfall_id: 6c5a93d6-d4ab-4062-bb3c-1b5330bf15ad
-> quantity: 2
+> quantity: 3
 > tags:
 >   - card
 >   - collection

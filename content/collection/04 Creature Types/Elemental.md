@@ -2,7 +2,7 @@
 
 Creature type: Elemental.
 
-**20** copies · **17** names.
+**21** copies · **18** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -15,6 +15,7 @@ Creature type: Elemental.
 | [**`mtg:Elemental Mascot`**](https://scryfall.com/card/sos/185) | [[02 Cards/Creatures/Elemental Mascot\|PAGE]] | {1}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Bird\|Bird]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.12 |
 | [**`mtg:Enraged Flamecaster`**](https://scryfall.com/card/ecl/135) | [[02 Cards/Creatures/Enraged Flamecaster\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Mindsparker`**](https://scryfall.com/card/fdn/628) | [[02 Cards/Creatures/Mindsparker\|PAGE]] | {1}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
+| [**`mtg:Eluge, the Shoreless Sea`**](https://scryfall.com/card/blb/49) | [[02 Cards/Creatures/Eluge, the Shoreless Sea\|PAGE]] | {1}{U}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Fish\|Fish]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 3.17 |
 | [**`mtg:Invasion of Karsus`**](https://scryfall.com/card/mom/146) | [[02 Cards/Battles/Invasion of Karsus\|PAGE]] | {2}{R}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Battle\|Battle]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.11 |
 | [**`mtg:Spectacular Skywhale`**](https://scryfall.com/card/sos/229) | [[02 Cards/Creatures/Spectacular Skywhale\|PAGE]] | {2}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Whale\|Whale]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.04 |
 | [**`mtg:Twinflame Travelers`**](https://scryfall.com/card/ecl/345) | [[02 Cards/Creatures/Twinflame Travelers\|PAGE]] | {2}{U}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Sorcerer\|Sorcerer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.39 |

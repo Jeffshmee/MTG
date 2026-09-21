@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Oreskos Swiftclaw`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Cat Warrior  
 > **P/T:** 3/1  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 21/09/2026 for Infirmary Healer. |
+> | Deck-Specific | 78 | Cut 21/09/2026 for Infirmary Healer. |
+> | **Combined** | **77** | Cut 21/09/2026 for Infirmary Healer. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 21/09/2026 for Infirmary Healer. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -48,20 +48,23 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Oreskos Swiftclaw|Oreskos Swiftclaw]] is a 3/1 Cat with flash. Two-drop instant-speed Cat.
+Oreskos Swiftclaw ({1}{W}). Cut 21/09/2026 for Infirmary Healer. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Flash it on their end step if you want First Fang's token on your turn, or block.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -84,7 +87,7 @@
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -92,9 +95,9 @@
 > scryfall_id: 0ea1dfb4-1983-41f7-956c-f2a1d1489b54
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

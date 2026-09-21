@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**262** copies · **196** names.
+**284** copies · **213** names.
 
 ```decklist
 group: auto
@@ -42,7 +42,7 @@ legality: commander
 1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
 2 Dragonback Lancer
 1 Dwarven Provisioner
-2 Eager Glyphmage
+3 Eager Glyphmage
 1 Eagle of the Great Shelf
 4 Elite Interceptor // Rejoinder
 1 Emeria Angel
@@ -51,6 +51,7 @@ legality: commander
 3 Esgaroth Garrison
 1 Essence Channeler
 1 Felidar Cub
+1 Felidar Guardian
 1 Felidar Savior
 1 Fortress Kin-Guard
 1 Glider Kids
@@ -70,10 +71,13 @@ legality: commander
 2 Ironwill Forger
 1 Jazal Goldmane
 1 Karlov Watchdog
+1 King of the Pride
 1 Knight of Grace
 1 Knight of the White Orchid
+1 Kree Commandos
 2 Lake-town Lookout
 1 Lake-town Toymaker
+1 Leonin Warleader
 1 Linden, the Steadfast Queen
 1 Loran of the Third Path
 1 Lyra Dawnbringer
@@ -91,6 +95,7 @@ legality: commander
 1 Prowling Caracal
 1 Quill-Blade Laureate // Twofold Intent
 1 Rabaroo Troop
+1 Red Guardian, Super-Soldier
 1 Regal Caracal
 3 Rehearsed Debater
 1 Reluctant Dounguard
@@ -104,15 +109,18 @@ legality: commander
 1 Serra Ascendant
 2 Shattered Acolyte
 1 Shrike Force
-1 Soaring Stoneglider
+1 Skyknight Squire
+2 Soaring Stoneglider
+1 Soul Warden
 1 Speaker of the Heavens
 1 Spiritcall Enthusiast // Scrollboost
 1 Squad Rallier
-3 Stone Docent
+4 Stone Docent
 1 Stonehorn Dignitary
 2 Summoned Dromedary
 2 Sun Titan
 2 Sun-Dappled Celebrant
+1 Suture Priest
 1 Swiftwing Assailant
 1 Syr Alin, the Lion's Claw
 1 Tempest Hawk
@@ -123,6 +131,7 @@ legality: commander
 2 Wanderbrine Preacher
 2 Wanderbrine Trapper
 1 Warren Elder
+1 Youthful Valkyrie
 1 Zetalpa, Primal Dawn
 
 # Planeswalkers
@@ -130,6 +139,7 @@ legality: commander
 
 # Instants
 3 Ajani's Response
+1 Akroma's Will
 1 Appeal to Eirdu
 2 Auspicious Arrival
 1 Claws Out
@@ -171,7 +181,7 @@ legality: commander
 2 Dig Site Inventory
 1 Farewell
 1 Group Project
-1 Helping Hand
+2 Helping Hand
 2 Hop to It
 1 Hour of Reckoning
 1 Lingering Souls
@@ -186,16 +196,22 @@ legality: commander
 
 # Enchantments
 1 Airbender Ascension
+1 Ajani's Welcome
 1 Angelic Destiny
-1 Authority of the Consuls
+2 Authority of the Consuls
 1 Banishing Light
+1 Blind Obedience
+1 Caretaker's Talent
 1 Case of the Pilfered Proof
 3 Celebrate the Mountain-king
+1 Cleric Class
 1 Commander's Insignia
 1 Divine Visitation
 1 Felidar Retreat
 1 Graduation Day
+1 Intangible Virtue
 2 Legion Loyalty
+1 Leyline of Hope
 1 Lightwheel Enhancements
 1 Makeshift Binding
 1 Sheltered by Ghosts
@@ -213,6 +229,7 @@ legality: commander
 # Artifacts
 1 Bark of Doran
 1 Dwarven Shortsword
+1 S.H.I.E.L.D. Spy Kit
 1 Stormbeacon Blade
 1 White Auracite
 

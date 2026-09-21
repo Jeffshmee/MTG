@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Leonin Warleader`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{W}{W}  
 > **Type:** Creature — Cat Soldier  
 > **P/T:** 4/4  
@@ -63,7 +63,7 @@ Whenever this creature attacks, [[03 Effects/Create Token|create two 1/1 white C
 ## Anti-synergies / Notes
 
 - Tokens do not trigger First Fang. Needs to attack — summoning sick the turn it lands.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Sleeved 18/09/2026.
 
 ## Related Pages
 
@@ -86,7 +86,7 @@ Whenever this creature attacks, [[03 Effects/Create Token|create two 1/1 white C
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -94,7 +94,7 @@ Whenever this creature attacks, [[03 Effects/Create Token|create two 1/1 white C
 > scryfall_id: b31b2e5e-6572-462a-9fa0-1b2e660099e3
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 

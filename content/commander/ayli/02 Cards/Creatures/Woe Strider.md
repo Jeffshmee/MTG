@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Woe Strider`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{B}  
 > **Type:** Creature — Horror  
 > **P/T:** 3/2  
@@ -92,7 +92,7 @@ This creature escapes with two [[03 Effects/Plus One Counters|+1/+1 counters]] o
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Escape", "Scry"]
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -100,7 +100,7 @@ This creature escapes with two [[03 Effects/Plus One Counters|+1/+1 counters]] o
 > scryfall_id: f458ae68-5cda-4c40-a348-47b4196fba02
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - creature
 > ```
 

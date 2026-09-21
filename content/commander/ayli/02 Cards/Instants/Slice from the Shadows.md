@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Slice from the Shadows`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {X}{B}  
 > **Type:** Instant  
 >
@@ -84,7 +84,7 @@ Target creature gets -X/-X until end of turn.
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 74
 >   deck_specific: 76
@@ -92,7 +92,7 @@ Target creature gets -X/-X until end of turn.
 > scryfall_id: d4e49c72-0fa2-4271-aabd-38a3e2b4779c
 > tags:
 >   - card
->   - main-deck
+>   - sideboard
 >   - instant
 > ```
 
