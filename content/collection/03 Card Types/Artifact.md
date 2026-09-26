@@ -2,7 +2,7 @@
 
 Card type: Artifact.
 
-**158** copies · **119** names.
+**161** copies · **122** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -47,6 +47,7 @@ Card type: Artifact.
 | [**`mtg:Jeskai Monument`**](https://scryfall.com/card/tdm/244) | [[02 Cards/Artifacts/Jeskai Monument\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.14 |
 | [**`mtg:Kyoshi Battle Fan`**](https://scryfall.com/card/tla/257) | [[02 Cards/Artifacts/Kyoshi Battle Fan\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 15.99 |
+| [**`mtg:Lion Sash`**](https://scryfall.com/card/neo/26) | [[02 Cards/Creatures/Lion Sash\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Equipment\|Equipment]] [[04 Creature Types/Cat\|Cat]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.72 |
 | [**`mtg:Mage Tower Referee`**](https://scryfall.com/card/sos/249) | [[02 Cards/Creatures/Mage Tower Referee\|PAGE]] | {2} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Mardu Monument`**](https://scryfall.com/card/tdm/245) | [[02 Cards/Artifacts/Mardu Monument\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Mazemind Tome`**](https://scryfall.com/card/fdn/676) | [[02 Cards/Artifacts/Mazemind Tome\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
@@ -108,6 +109,7 @@ Card type: Artifact.
 | [**`mtg:Well of Lost Dreams`**](https://scryfall.com/card/ltc/291) | [[02 Cards/Artifacts/Well of Lost Dreams\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.37 |
 | [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | {2}{W}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
+| [**`mtg:Banner of Kinship`**](https://scryfall.com/card/fdn/352) | [[02 Cards/Artifacts/Banner of Kinship\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 7.41 |
 | [**`mtg:Boulderborn Dragon`**](https://scryfall.com/card/tdm/239) | [[02 Cards/Creatures/Boulderborn Dragon\|PAGE]] | {5} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.13 |
 | [**`mtg:Gilded Lotus`**](https://scryfall.com/card/blc/271) | [[02 Cards/Artifacts/Gilded Lotus\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
 | [**`mtg:Kree Sentinel`**](https://scryfall.com/card/msh/141) | [[02 Cards/Creatures/Kree Sentinel\|PAGE]] | {4}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Kree\|Kree]] [[04 Creature Types/Robot\|Robot]] [[04 Creature Types/Villain\|Villain]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
@@ -115,6 +117,7 @@ Card type: Artifact.
 | [**`mtg:Polygraph Orb`**](https://scryfall.com/card/mkm/99) | [[02 Cards/Artifacts/Polygraph Orb\|PAGE]] | {4}{B} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.08 |
 | [**`mtg:Pyromancer's Goggles`**](https://scryfall.com/card/fdn/677) | [[02 Cards/Artifacts/Pyromancer's Goggles\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.57 |
 | [**`mtg:Skybox Ferry`**](https://scryfall.com/card/dft/243) | [[02 Cards/Artifacts/Skybox Ferry\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
+| [**`mtg:Chronicle of Victory`**](https://scryfall.com/card/ecl/253) | [[02 Cards/Artifacts/Chronicle of Victory\|PAGE]] | {6} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 17.03 |
 | [**`mtg:Colossus of the Blood Age`**](https://scryfall.com/card/sos/181) | [[02 Cards/Creatures/Colossus of the Blood Age\|PAGE]] | {4}{R}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.18 |
 | [**`mtg:Marina Vendrell's Grimoire`**](https://scryfall.com/card/dsk/308) | [[02 Cards/Artifacts/Marina Vendrell's Grimoire\|PAGE]] | {5}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.13 |
 | [**`mtg:Ramos, Dragon Engine`**](https://scryfall.com/card/fdn/678) | [[02 Cards/Creatures/Ramos, Dragon Engine\|PAGE]] | {6} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.62 |

@@ -11,7 +11,7 @@ Every **Sorceries** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Demonic Tutor`**](https://scryfall.com/card/cmm/150) | [[02 Cards/Sorceries/Demonic Tutor\|PAGE]] | {1}{B} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | 2 | 1 | 44.77 |
 | [**`mtg:Exsanguinate`**](https://scryfall.com/card/fdn/173) | [[02 Cards/Sorceries/Exsanguinate\|PAGE]] | {X}{B}{B} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | 2 | 1 | 0.33 |
 | [**`mtg:Grim Tutor`**](https://scryfall.com/card/m21/103) | [[02 Cards/Sorceries/Grim Tutor\|PAGE]] | {1}{B}{B} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | 3 | 1 | 16.84 |
-| [**`mtg:Lingering Souls`**](https://scryfall.com/card/tdc/123) | [[02 Cards/Sorceries/Lingering Souls\|PAGE]] | {2}{W} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | 3 | 1 | 0.11 |
+| [**`mtg:Lingering Souls`**](https://scryfall.com/card/frc/27) | [[02 Cards/Sorceries/Lingering Souls\|PAGE]] | {2}{W} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | 3 | 1 | 0.11 |
 | [**`mtg:Sevinne's Reclamation`**](https://scryfall.com/card/soc/170) | [[02 Cards/Sorceries/Sevinne's Reclamation\|PAGE]] | {2}{W} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | 3 | 1 | 0.32 |
 | [**`mtg:Toxic Deluge`**](https://scryfall.com/card/msc/161) | [[02 Cards/Sorceries/Toxic Deluge\|PAGE]] | {2}{B} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | 3 | 1 | 5.51 |
 | [**`mtg:Victimize`**](https://scryfall.com/card/tdc/198) | [[02 Cards/Sorceries/Victimize\|PAGE]] | {2}{B} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | 3 | 1 | 0.70 |

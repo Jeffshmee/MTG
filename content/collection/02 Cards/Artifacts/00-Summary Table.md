@@ -2,7 +2,7 @@
 
 Every **Artifacts** page in this vault. Same columns as [[01 Catalogue/Catalogue|Catalogue]]. Sorted by mana value, then name.
 
-**118** copies · **89** names.
+**120** copies · **91** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -89,9 +89,11 @@ Every **Artifacts** page in this vault. Same columns as [[01 Catalogue/Catalogue
 | [**`mtg:Well of Lost Dreams`**](https://scryfall.com/card/ltc/291) | [[02 Cards/Artifacts/Well of Lost Dreams\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.37 |
 | [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | {2}{W}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
+| [**`mtg:Banner of Kinship`**](https://scryfall.com/card/fdn/352) | [[02 Cards/Artifacts/Banner of Kinship\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 7.41 |
 | [**`mtg:Gilded Lotus`**](https://scryfall.com/card/blc/271) | [[02 Cards/Artifacts/Gilded Lotus\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
 | [**`mtg:Polygraph Orb`**](https://scryfall.com/card/mkm/99) | [[02 Cards/Artifacts/Polygraph Orb\|PAGE]] | {4}{B} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.08 |
 | [**`mtg:Pyromancer's Goggles`**](https://scryfall.com/card/fdn/677) | [[02 Cards/Artifacts/Pyromancer's Goggles\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.57 |
 | [**`mtg:Skybox Ferry`**](https://scryfall.com/card/dft/243) | [[02 Cards/Artifacts/Skybox Ferry\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
+| [**`mtg:Chronicle of Victory`**](https://scryfall.com/card/ecl/253) | [[02 Cards/Artifacts/Chronicle of Victory\|PAGE]] | {6} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 17.03 |
 | [**`mtg:Marina Vendrell's Grimoire`**](https://scryfall.com/card/dsk/308) | [[02 Cards/Artifacts/Marina Vendrell's Grimoire\|PAGE]] | {5}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.13 |
 | [**`mtg:Thundering Broodwagon`**](https://scryfall.com/card/dft/225) | [[02 Cards/Artifacts/Thundering Broodwagon\|PAGE]] | {2}{B}{B}{G}{G} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |

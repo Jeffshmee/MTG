@@ -1,5 +1,7 @@
 # Cost Reduction
 
-A spell costs less mana to cast.
+The spell costs less mana.
 
-**In this vault:** [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] · [[02 Cards/Artifacts/Urza's Incubator|Urza's Incubator]]
+Effects that show up in Maralen, Fae Ascendant's Elves and Faeries list.
+
+**In this vault:** [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]]

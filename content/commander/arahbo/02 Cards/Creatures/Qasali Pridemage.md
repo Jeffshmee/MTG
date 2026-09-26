@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Qasali Pridemage`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {G}{W}  
 > **Type:** Creature — Cat Wizard  
 > **P/T:** 2/2  
@@ -12,15 +12,15 @@
 >
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> ![Qasali Pridemage](https://cards.scryfall.io/border_crop/front/a/1/a103646d-b363-4896-a48f-0527d746587e.jpg)
+> ![Qasali Pridemage](https://cards.scryfall.io/border_crop/front/b/0/b035fa74-7e0d-4bcc-8bd7-4ae0c33db317.jpg)
 >
 > ### Deck Scores
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | Deck-Specific | 88 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | **Combined** | **85** | Line prefer — on-plan redundancy or a named dual/anthem. |
+> | General | 80 | Sleeved 26/09/2026. 2X2 386 foil over Felidar Cub FDN 573. |
+> | Deck-Specific | 88 | Sleeved 26/09/2026. 2X2 386 foil over Felidar Cub FDN 573. |
+> | **Combined** | **85** | Sleeved 26/09/2026. 2X2 386 foil over Felidar Cub FDN 573. |
 >
 > ### Classification
 >
@@ -28,7 +28,7 @@
 > |----------|-------|
 > | **Colours** | [[05 Colours/Green\|Green]] · [[05 Colours/White\|White]] |
 > | **Type** | [[04 Types/Creature\|Creature]] · [[04 Types/Cat\|Cat]] · [[04 Types/Wizard\|Wizard]] |
-> | **Effects** | [[03 Effects/Destroy\|Destroy]] · [[03 Effects/Pump Creatures\|Pump Creatures]] |
+> | **Effects** | [[03 Effects/Destroy\|Destroy]] · [[03 Effects/Pump Creatures\|Pump Creatures]] · [[03 Effects/Sacrifice\|Sacrifice]] |
 >
 > ### Extracted Effects
 >
@@ -36,10 +36,11 @@
 > |--------|-------|
 > | [[03 Effects/Destroy\|Destroy]] | ) {1}, Sacrifice this creature: Destroy target artifact or enchantment |
 > | [[03 Effects/Pump Creatures\|Pump Creatures]] | Pump Creatures |
+> | [[03 Effects/Sacrifice\|Sacrifice]] | Sacrifice |
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Line prefer — on-plan redundancy or a named dual/anthem. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. 2X2 386 foil over Felidar Cub FDN 573. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
 
 ## Oracle Text
 
@@ -50,22 +51,21 @@ Exalted (Whenever a creature you control attacks alone, that creature [[03 Effec
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Qasali Pridemage|Qasali Pridemage]] is exalted and a {1}, sac: destroy an artifact or enchantment. Cheap Cat that Naturalizes. Exalted wants a solo attacker — this pile is go-wide, so exalted is extra, not the plan. Sac the Pridemage, not First Fang. 🟢 Owned extra on the sideboard — not sleeved.
+Qasali Pridemage ({G}{W}). Sleeved 26/09/2026. 2X2 386 foil over Felidar Cub FDN 573. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan.
 
 ## Play Patterns & Lines
 
-- Keep {{1}} up for the Naturalize. Exalted only if you actually attack with one creature (Tunnel).
-- First Fang ETB when it lands.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Naturalize / Cat**: [[02 Cards/Creatures/Qasali Slingers|Qasali Slingers]], [[02 Cards/Creatures/Feline Sovereign|Feline Sovereign]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Exalted fights the go-wide plan. Do not sac it if Slingers is about to ETB a free Naturalize.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
 
 ## Related Pages
 
@@ -88,17 +88,17 @@ Exalted (Whenever a creature you control attacks alone, that creature [[03 Effec
 > colors: ["G", "W"]
 > color_identity: ["G", "W"]
 > keywords: ["Exalted"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
 >   combined: 85
-> scryfall_id: a103646d-b363-4896-a48f-0527d746587e
+> scryfall_id: b035fa74-7e0d-4bcc-8bd7-4ae0c33db317
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

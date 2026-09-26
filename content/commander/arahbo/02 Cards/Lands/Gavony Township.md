@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Gavony Township`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 78 | Named land for the manabase. Colour fixing or a utility hole. |
-> | Deck-Specific | 82 | Named land for the manabase. Colour fixing or a utility hole. |
-> | **Combined** | **80** | Named land for the manabase. Colour fixing or a utility hole. |
+> | General | 78 | Sleeved 26/09/2026. MOC 406 over Forest FIN 308 foil. |
+> | Deck-Specific | 82 | Sleeved 26/09/2026. MOC 406 over Forest FIN 308 foil. |
+> | **Combined** | **80** | Sleeved 26/09/2026. MOC 406 over Forest FIN 308 foil. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">80<span>/100</span></div><p class="synergy-score-why">Named land for the manabase. Colour fixing or a utility hole. General 78 and Deck-Specific 82 produce Combined 80.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">80<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. MOC 406 over Forest FIN 308 foil. General 78 and Deck-Specific 82 produce Combined 80.</p></div>
 
 ## Oracle Text
 
@@ -49,23 +49,20 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Lands/Gavony Township|Gavony Township]] {T}: Add {C}. Sequence a white Cat on 1–2 and [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] on 3. Untapped core is [[02 Cards/Lands/Command Tower|Command Tower]], Plains, Forest, [[02 Cards/Lands/Temple Garden|Temple Garden]]. [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]] is colourless — do not count it as {G} or {W}. 🟢 Owned extra on the sideboard — not sleeved.
+Gavony Township is a mana source for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal list. Sleeved 26/09/2026. MOC 406 over Forest FIN 308 foil. Basics plus [[02 Cards/Lands/Command Tower|Command Tower]] are the live untapped core; named duals on the sideboard fill as they arrive.
 
 ## Play Patterns & Lines
 
-- Sequence so a white Cat is on 1–2 and First Fang is on 3. Tapped duals are a third land.
-- Colourless. Do not count it as {G} or {W}.
-- Do not treat token Cats as First Fang ETBs.
+- Sequence tapped lands as a third land. Keep untapped colours for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]] on curve.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
-- **Untapped core**: [[02 Cards/Lands/Command Tower|Command Tower]], [[02 Cards/Lands/Plains|Plains]], [[02 Cards/Lands/Forest|Forest]], [[02 Cards/Lands/Temple Garden|Temple Garden]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
 
 ## Related Pages
 
@@ -88,7 +85,7 @@
 > colors: []
 > color_identity: ["G", "W"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -96,9 +93,9 @@
 > scryfall_id: ce46c4e2-a515-41d7-8d70-d20cf4925996
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - land
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

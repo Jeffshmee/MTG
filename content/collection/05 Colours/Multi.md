@@ -2,7 +2,7 @@
 
 Cards with two or more colours. Lands and tokens are listed separately.
 
-**294** copies · **218** names.
+**297** copies · **220** names.
 
 ```decklist
 group: auto
@@ -44,7 +44,7 @@ legality: commander
 1 Earth Rumble Wrestlers
 1 Eclipsed Boggart
 1 Eclipsed Elf
-1 Elas il-Kor, Sadistic Pilgrim
+2 Elas il-Kor, Sadistic Pilgrim
 3 Elemental Mascot
 1 Empyrean Eagle
 1 Enigma Drake
@@ -89,6 +89,7 @@ legality: commander
 3 Maralen, Fae Ascendant
 1 Merrow Skyswimmer
 1 Mirkwood Nurturer
+1 Mirri, Weatherlight Duelist
 2 Monastery Messenger
 1 Moonrise Cleric
 3 Morcant's Loyalist
@@ -107,6 +108,7 @@ legality: commander
 1 Practiced Scrollsmith
 2 Private Eye
 5 Pterafractyl
+1 Qasali Pridemage
 1 Queen Allenal of Ruadach
 1 Rakish Scoundrel
 1 Reflector Mage

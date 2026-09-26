@@ -2,7 +2,7 @@
 
 Every **Sorceries** page in this vault. Same columns as [[01 Catalogue/Catalogue|Catalogue]]. Sorted by mana value, then name.
 
-**212** copies · **150** names.
+**213** copies · **150** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -133,7 +133,7 @@ Every **Sorceries** page in this vault. Same columns as [[01 Catalogue/Catalogue
 | [**`mtg:Artistic Process`**](https://scryfall.com/card/sos/108) | [[02 Cards/Sorceries/Artistic Process\|PAGE]] | {3}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.12 |
 | [**`mtg:Eliminate the Competition`**](https://scryfall.com/card/tdc/179) | [[02 Cards/Sorceries/Eliminate the Competition\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.14 |
 | [**`mtg:Essence Drain`**](https://scryfall.com/card/m13/93) | [[02 Cards/Sorceries/Essence Drain\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
-| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 6.43 |
+| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 13.58 |
 | [**`mtg:Incinerating Blast`**](https://scryfall.com/card/fdn/90) | [[02 Cards/Sorceries/Incinerating Blast\|PAGE]] | {4}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.06 |
 | [**`mtg:Mammoth Bellow`**](https://scryfall.com/card/tdm/205) | [[02 Cards/Sorceries/Mammoth Bellow\|PAGE]] | {2}{G}{U}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Overrun`**](https://scryfall.com/card/fdn/230) | [[02 Cards/Sorceries/Overrun\|PAGE]] | {2}{G}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.30 |

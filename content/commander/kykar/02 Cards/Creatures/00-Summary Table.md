@@ -2,7 +2,7 @@
 
 Every **Creatures** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**58** copies · **58** names.
+**59** copies · **59** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -29,7 +29,7 @@ Every **Creatures** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Inspiring Overseer`**](https://scryfall.com/card/fdn/736) | [[02 Cards/Creatures/Inspiring Overseer\|PAGE]] | {2}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Angel\|Angel]] [[04 Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | 3 | 1 | 0.21 |
 | [**`mtg:Kitesail Larcenist`**](https://scryfall.com/card/lci/61) | [[02 Cards/Creatures/Kitesail Larcenist\|PAGE]] | {2}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | 3 | 1 | 0.60 |
 | [**`mtg:Loran of the Third Path`**](https://scryfall.com/card/mkc/71) | [[02 Cards/Creatures/Loran of the Third Path\|PAGE]] | {2}{W} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | 3 | 1 | 3.67 |
-| [**`mtg:Man-o'-War`**](https://scryfall.com/card/dmr/58) | [[02 Cards/Creatures/Man-o'-War\|PAGE]] | {2}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Jellyfish\|Jellyfish]] | [[05 Colours/Blue\|Blue]] | 3 | 1 | 0.00 |
+| [**`mtg:Man-o'-War`**](https://scryfall.com/card/dmr/58) | [[02 Cards/Creatures/Man-o'-War\|PAGE]] | {2}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Jellyfish\|Jellyfish]] | [[05 Colours/Blue\|Blue]] | 3 | 1 | 0.05 |
 | [**`mtg:Mentor of the Meek`**](https://scryfall.com/card/hoc/170) | [[02 Cards/Creatures/Mentor of the Meek\|PAGE]] | {2}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | 3 | 1 | 0.20 |
 | [**`mtg:Mocking Sprite`**](https://scryfall.com/card/fdn/744) | [[02 Cards/Creatures/Mocking Sprite\|PAGE]] | {2}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Faerie\|Faerie]] [[04 Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | 3 | 1 | 0.08 |
 | [**`mtg:Recruiter of the Guard`**](https://scryfall.com/card/mh3/266) | [[02 Cards/Creatures/Recruiter of the Guard\|PAGE]] | {2}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | 3 | 1 | 0.00 |
@@ -43,6 +43,7 @@ Every **Creatures** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Archaeomancer`**](https://scryfall.com/card/uma/45) | [[02 Cards/Creatures/Archaeomancer\|PAGE]] | {2}{U}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 0.33 |
 | [**`mtg:Bigfin Bouncer`**](https://scryfall.com/card/fdn/31) | [[02 Cards/Creatures/Bigfin Bouncer\|PAGE]] | {3}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Shark\|Shark]] [[04 Types/Pirate\|Pirate]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 0.08 |
 | [**`mtg:Displacer Kitten`**](https://scryfall.com/card/clb/63) | [[02 Cards/Creatures/Displacer Kitten\|PAGE]] | {3}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Beast\|Beast]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 21.57 |
+| [**`mtg:Eluge, the Shoreless Sea`**](https://scryfall.com/card/blb/49) | [[02 Cards/Creatures/Eluge, the Shoreless Sea\|PAGE]] | {1}{U}{U}{U} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Elemental\|Elemental]] [[04 Types/Fish\|Fish]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 3.17 |
 | [**`mtg:Felidar Savior`**](https://scryfall.com/card/fdn/12) | [[02 Cards/Creatures/Felidar Savior\|PAGE]] | {3}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Beast\|Beast]] | [[05 Colours/White\|White]] | 4 | 1 | 0.10 |
 | [**`mtg:High Fae Trickster`**](https://scryfall.com/card/fdn/40) | [[02 Cards/Creatures/High Fae Trickster\|PAGE]] | {3}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Faerie\|Faerie]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 5.24 |
 | [**`mtg:Kykar, Zephyr Awakener`**](https://scryfall.com/card/fdn/122) | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|PAGE]] | {2}{W}{U} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Bird\|Bird]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] [[05 Colours/White\|White]] | 4 | 1 | 0.24 |

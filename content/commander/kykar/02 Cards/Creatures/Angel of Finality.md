@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Angel of Finality`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {3}{W}  
 > **Type:** Creature — Angel  
 > **P/T:** 3/4  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Owned. Flying ETB exile a graveyard. Fine blink hate bear. |
-> | Deck-Specific | 74 | Owned. Flying ETB exile a graveyard. Fine blink hate bear. |
-> | **Combined** | **75** | Owned. Flying ETB exile a graveyard. Fine blink hate bear. |
+> | General | 76 | Cut 26/09/2026 for Man-o'-War. |
+> | Deck-Specific | 74 | Cut 26/09/2026 for Man-o'-War. |
+> | **Combined** | **75** | Cut 26/09/2026 for Man-o'-War. |
 >
 > ### Classification
 >
@@ -40,7 +40,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">75<span>/100</span></div><p class="synergy-score-why">Owned. Flying ETB exile a graveyard. Fine blink hate bear. General 76 and Deck-Specific 74 produce Combined 75.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">75<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Man-o'-War. General 76 and Deck-Specific 74 produce Combined 75.</p></div>
 
 ## Oracle Text
 
@@ -51,22 +51,23 @@
 
 ## Deck Role & Rating
 
-Angel of Finality is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]] (end step), [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] (instant All Aboard). Owned. Flying ETB exile a graveyard. Fine blink hate bear. Sleeved copy is FDN 136 foil (07/09 art swap).
+Angel of Finality is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] (end step), Thassa, Deep-Dwelling (end step), Skycoach Conductor (instant All Aboard). Cut 26/09/2026 for Man-o'-War. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
-- Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
+- Cast on curve if it advances Blink spells for [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]
-- **Blink (live)**: [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]], [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]], [[02 Cards/Creatures/Charming Prince|Charming Prince]]
-- **ETB payoffs (live)**: [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], [[02 Cards/Creatures/Cloudblazer|Cloudblazer]]
+- **Plan**: Blink spells
 
 ## Anti-synergies / Notes
 
-- Judge it by whether it triggers Kykar or is worth blinking. Spirit mode is backup.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -89,7 +90,7 @@ Angel of Finality is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zep
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Flying"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 74
@@ -97,7 +98,7 @@ Angel of Finality is an ETB at {3}{W}. Blink it: [[02 Cards/Creatures/Kykar, Zep
 > scryfall_id: baaabd52-3aa9-4e2f-9369-d4db8b405ba8
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

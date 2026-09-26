@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Germination Practicum`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {3}{G}{G}  
 > **Type:** Sorcery — Lesson  
 >
@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 85 | Line must — this is how the 99 actually does the plan. |
-> | Deck-Specific | 96 | Line must — this is how the 99 actually does the plan. |
-> | **Combined** | **92** | Line must — this is how the 99 actually does the plan. |
+> | General | 85 | Sleeved 26/09/2026. SOS 296 foil over Nature's Lore MSC 177. Maralen keeps the nonfoil and its own Nature's Lore. |
+> | Deck-Specific | 96 | Sleeved 26/09/2026. SOS 296 foil over Nature's Lore MSC 177. Maralen keeps the nonfoil and its own Nature's Lore. |
+> | **Combined** | **92** | Sleeved 26/09/2026. SOS 296 foil over Nature's Lore MSC 177. Maralen keeps the nonfoil and its own Nature's Lore. |
 >
 > ### Classification
 >
@@ -39,7 +39,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">92<span>/100</span></div><p class="synergy-score-why">Line must — this is how the 99 actually does the plan. General 85 and Deck-Specific 96 produce Combined 92.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">92<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. SOS 296 foil over Nature's Lore MSC 177. Maralen keeps the nonfoil and its own Nature's Lore. General 85 and Deck-Specific 96 produce Combined 92.</p></div>
 
 ## Oracle Text
 
@@ -50,21 +50,21 @@ Paradigm (Then [[03 Effects/Exile|exile this spell]]. After you first resolve a 
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Germination Practicum|Germination Practicum]] at {3}{G}{G}: put two +1/+1 counters on each creature you control. Name Cat if it asks. Stacks with First Fang and [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]. 🟢 Owned extra on the sideboard — not sleeved.
+Germination Practicum ({3}{G}{G}). Sleeved 26/09/2026. SOS 296 foil over Nature's Lore MSC 177. Maralen keeps the nonfoil and its own Nature's Lore. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan.
 
 ## Play Patterns & Lines
 
-- Cast it when it makes a Cat, pumps Cats, or ramps into First Fang.
-- Do not treat token Cats as First Fang ETBs.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
 
 ## Related Pages
 
@@ -87,7 +87,7 @@ Paradigm (Then [[03 Effects/Exile|exile this spell]]. After you first resolve a 
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: ["Paradigm"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -95,9 +95,9 @@ Paradigm (Then [[03 Effects/Exile|exile this spell]]. After you first resolve a 
 > scryfall_id: df144bff-cdc8-46df-bbd2-6fdc93f04f04
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - sorcerie
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

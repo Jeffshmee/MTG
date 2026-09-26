@@ -2,7 +2,7 @@
 
 Creature type: Warlock.
 
-**52** copies · **30** names.
+**53** copies · **31** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -35,4 +35,5 @@ Creature type: Warlock.
 | [**`mtg:Scathing Shadelock`**](https://scryfall.com/card/sos/98) | [[02 Cards/Creatures/Scathing Shadelock\|PAGE]] | {4}{B} // {B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Snake\|Snake]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
 | [**`mtg:Sneering Shadewriter`**](https://scryfall.com/card/sos/101) | [[02 Cards/Creatures/Sneering Shadewriter\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.27 |
 | [**`mtg:Vampire Soulcaller`**](https://scryfall.com/card/fdn/75) | [[02 Cards/Creatures/Vampire Soulcaller\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
+| [**`mtg:Witch of the Moors`**](https://scryfall.com/card/sld/1722) | [[02 Cards/Creatures/Witch of the Moors\|PAGE]] | {3}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 13.22 |
 | [**`mtg:Forum Necroscribe`**](https://scryfall.com/card/sos/84) | [[02 Cards/Creatures/Forum Necroscribe\|PAGE]] | {5}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Troll\|Troll]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.22 |

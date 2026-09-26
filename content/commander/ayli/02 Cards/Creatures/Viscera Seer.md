@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Viscera Seer`**
 >
-> **Status:** Ordered  
+> **Status:** Wishlist  
 > **Mana Cost:** {B}  
 > **Type:** Creature — Vampire Wizard  
 > **P/T:** 1/1  
@@ -49,7 +49,7 @@ Sacrifice a creature: [[03 Effects/Scry|Scry 1]]. ([[03 Effects/Look at Top|Look
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Viscera Seer|Viscera Seer]] is the free sac outlet to sleeve. Sac a creature: scry 1. Ayli is an outlet that costs {1}; Seer is the one that does not. 🟢 Owned extra on the sideboard — not sleeved.
+[[02 Cards/Creatures/Viscera Seer|Viscera Seer]] is the free sac outlet to sleeve. Sac a creature: scry 1. Ayli is an outlet that costs {1}; Seer is the one that does not. ⚪ Wishlist. Axion_Now CMR 158 foil was cancelled and refunded 25/09/2026. Zurgo keeps SOC 229.
 
 ## Play Patterns & Lines
 
@@ -62,7 +62,7 @@ Sacrifice a creature: [[03 Effects/Scry|Scry 1]]. ([[03 Effects/Look at Top|Look
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Wishlist. The Axion_Now foil was cancelled. Do not take Zurgo's SOC 229.
 
 ## Related Pages
 
@@ -85,7 +85,7 @@ Sacrifice a creature: [[03 Effects/Scry|Scry 1]]. ([[03 Effects/Look at Top|Look
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Scry"]
-> status: Ordered
+> status: Wishlist
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -93,7 +93,7 @@ Sacrifice a creature: [[03 Effects/Scry|Scry 1]]. ([[03 Effects/Look at Top|Look
 > scryfall_id: f511830b-1c1f-4d30-aa5d-4314726d142e
 > tags:
 >   - card
->   - ordered
+>   - wishlist
 >   - creature
 > ```
 

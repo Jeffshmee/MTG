@@ -11,18 +11,16 @@ legality: commander
 1 Adventurer's Inn
 1 Bountiful Promenade
 1 Crawling Barrens
-1 Gavony Township
 1 Rogue's Passage
+1 Savannah Lions
 1 Arcane Signet
-1 Lion Sash
+1 Dawnwing Marshal
+1 Felidar Cub
+1 Nature's Lore
 1 Oreskos Swiftclaw
-1 Qasali Pridemage
-1 Mirri, Weatherlight Duelist
+1 Prowling Caracal
 1 Queen Allenal of Ruadach
-1 Jazal Goldmane
 1 Alacrian Jaguar
-1 Banner of Kinship
-1 Germination Practicum
 1 Chronicle of Victory
 
 # Ordered
@@ -33,7 +31,7 @@ legality: commander
 ---
 
 *Source: `arahbo-roar/07 Assets/sideboard.md`*
-*Last synced: 2026-09-21 (Akroma's Will, Andúril, Infirmary Healer)*
+*Last synced: 2026-09-26 (26-09 to-do)*
 
 ---
 
@@ -45,11 +43,27 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 **Status key:** 🟢 Owned · 🟡 Ordered · ⚪ Wishlist
 
 ### Creatures
-> [!info] **`mtg:Lion Sash`**
+> [!info] **`mtg:Savannah Lions`**
 > **77** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> [[02 Cards/Creatures/Lion Sash|Open local page →]]
+> [[02 Cards/Creatures/Savannah Lions|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Dawnwing Marshal`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Creatures/Dawnwing Marshal|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Felidar Cub`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Creatures/Felidar Cub|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -61,19 +75,11 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
-> [!info] **`mtg:Qasali Pridemage`**
-> **85** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:85%"></div></div>
+> [!info] **`mtg:Prowling Caracal`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> [[02 Cards/Creatures/Qasali Pridemage|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
-> [!info] **`mtg:Mirri, Weatherlight Duelist`**
-> **92** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:92%"></div></div>
->
-> [[02 Cards/Creatures/Mirri, Weatherlight Duelist|Open local page →]]
+> [[02 Cards/Creatures/Prowling Caracal|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -82,14 +88,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:75%"></div></div>
 >
 > [[02 Cards/Creatures/Queen Allenal of Ruadach|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
-> [!info] **`mtg:Jazal Goldmane`**
-> **85** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:85%"></div></div>
->
-> [[02 Cards/Creatures/Jazal Goldmane|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -102,11 +100,11 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Sorceries
-> [!info] **`mtg:Germination Practicum`**
-> **92** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:92%"></div></div>
+> [!info] **`mtg:Nature's Lore`**
+> **85** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:85%"></div></div>
 >
-> [[02 Cards/Sorceries/Germination Practicum|Open local page →]]
+> [[02 Cards/Sorceries/Nature's Lore|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -116,14 +114,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Artifacts/Arcane Signet|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
-> [!info] **`mtg:Banner of Kinship`**
-> **77** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:77%"></div></div>
->
-> [[02 Cards/Artifacts/Banner of Kinship|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -157,14 +147,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
 > [[02 Cards/Lands/Crawling Barrens|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
-> [!info] **`mtg:Gavony Township`**
-> **80** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:80%"></div></div>
->
-> [[02 Cards/Lands/Gavony Township|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 

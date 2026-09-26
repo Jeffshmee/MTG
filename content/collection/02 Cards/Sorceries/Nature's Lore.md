@@ -19,7 +19,7 @@
 | **Creature type** | — |
 | **Colour** | [[05 Colours/Green\|Green]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (2)\|Mana (2)]] |
-| **Where** | [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] · [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] |
+| **Where** | [[06 Browse/Decks/Maralen Deck/Maralen\|Maralen]] · [[06 Browse/Box\|Box]] |
 
 </div>
 
@@ -43,8 +43,8 @@
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Marvel Super Heroes Commander (<code>MSC</code>)</td><td>177</td><td>—</td><td>1</td><td>Arahbo</td><td>2.06</td></tr>
 <tr><td>Marvel Super Heroes Commander (<code>MSC</code>)</td><td>177</td><td>—</td><td>1</td><td>Maralen</td><td>2.06</td></tr>
+<tr><td>Marvel Super Heroes Commander (<code>MSC</code>)</td><td>177</td><td>—</td><td>1</td><td>Box</td><td>2.06</td></tr>
 </tbody>
 </table>
 </div>
@@ -52,7 +52,6 @@
 
 ## In decks
 
-- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 - [[06 Browse/Decks/Maralen Deck/Maralen|Maralen — Main Deck]]
 
 ### Arts in this Collection
@@ -68,7 +67,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/Green|Green]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Sets/MSC|Marvel Super Heroes Commander]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Sorcery|Sorcery]] · [[05 Colours/Green|Green]] · [[06 Browse/Mana Costs/Mana (2)|Mana (2)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/MSC|Marvel Super Heroes Commander]]
 
 ---
 

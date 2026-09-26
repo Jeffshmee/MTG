@@ -2,7 +2,7 @@
 
 Set `SOC`. Qty here is copies of this name from this set.
 
-**42** copies · **36** names.
+**43** copies · **37** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -30,6 +30,7 @@ Set `SOC`. Qty here is copies of this name from this set.
 | [**`mtg:Priest of Forgotten Gods`**](https://scryfall.com/card/soc/225) | [[02 Cards/Creatures/Priest of Forgotten Gods\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.69 |
 | [**`mtg:Selfless Spirit`**](https://scryfall.com/card/soc/167) | [[02 Cards/Creatures/Selfless Spirit\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.62 |
 | [**`mtg:Sheltered by Ghosts`**](https://scryfall.com/card/soc/171) | [[02 Cards/Enchantments/Sheltered by Ghosts\|PAGE]] | {1}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.50 |
+| [**`mtg:Stensian Sanguinist`**](https://scryfall.com/card/soc/29) | [[02 Cards/Creatures/Stensian Sanguinist\|PAGE]] | {1}{B} // {X}{B}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 5.61 |
 | [**`mtg:Talisman of Hierarchy`**](https://scryfall.com/card/soc/358) | [[02 Cards/Artifacts/Talisman of Hierarchy\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.66 |
 | [**`mtg:Zulaport Cutthroat`**](https://scryfall.com/card/soc/233) | [[02 Cards/Creatures/Zulaport Cutthroat\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rogue\|Rogue]] [[04 Creature Types/Ally\|Ally]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.39 |
 | [**`mtg:Morbid Opportunist`**](https://scryfall.com/card/soc/219) | [[02 Cards/Creatures/Morbid Opportunist\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.22 |

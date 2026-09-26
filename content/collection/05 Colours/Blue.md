@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**268** copies · **206** names.
+**271** copies · **209** names.
 
 ```decklist
 group: auto
@@ -53,6 +53,7 @@ legality: commander
 1 Gandalf, Wandering Wizard
 1 Gateway Sneak
 1 Geyser Leaper
+1 Giant-Sized Flying Ant
 1 Glamer Gifter
 2 Glamermite
 1 Gravelgill Scoundrel
@@ -73,6 +74,7 @@ legality: commander
 4 Landscape Painter // Vibrant Idea
 2 Lightshell Duo
 1 Long Lake Nuisance
+1 Man-o'-War
 1 Matterbending Mage
 3 Micromancer
 1 Mirkwood Meditator
@@ -151,6 +153,7 @@ legality: commander
 1 Into the Roil
 1 Just the Wind
 1 Lofty Denial
+1 Mana Sculpt
 1 Mission Briefing
 3 Muse's Encouragement
 1 Mystical Teachings

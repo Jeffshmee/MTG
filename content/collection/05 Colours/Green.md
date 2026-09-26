@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**276** copies · **184** names.
+**278** copies · **185** names.
 
 ```decklist
 group: auto
@@ -39,6 +39,7 @@ legality: commander
 1 Elfhame Druid
 1 Elves of Deep Shadow
 4 Elvish Archdruid
+1 Elvish Champion
 1 Elvish Mystic
 2 Elvish Regrower
 1 Elvish Rejuvenator
@@ -167,7 +168,7 @@ legality: commander
 1 Farseek
 5 Follow the Lumarets
 1 Genesis Wave
-1 Germination Practicum
+2 Germination Practicum
 1 Grow from the Ashes
 1 Gysahl Greens
 2 Knockout Maneuver

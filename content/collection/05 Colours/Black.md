@@ -2,7 +2,7 @@
 
 Mono-black cards ({B} only). Lands and tokens are listed separately.
 
-**246** copies · **184** names.
+**251** copies · **188** names.
 
 ```decklist
 group: auto
@@ -42,6 +42,7 @@ legality: commander
 1 Gatekeeper of Malakir
 1 Gix, Yawgmoth Praetor
 1 Glidedive Duo
+1 Gollum, Riddle Master
 2 Gollum, Silent Slinker // Meager Meal
 1 Great Fierce Bee
 1 Great Ugly-Looking Goblin // Clap! Snap!
@@ -94,6 +95,7 @@ legality: commander
 1 Shambling Cie'th
 3 Sneering Shadewriter
 1 Starlit Soothsayer
+1 Stensian Sanguinist
 1 Streaking Oilgorger
 2 Stromkirk Bloodthief
 1 Suspicious Shambler
@@ -107,6 +109,7 @@ legality: commander
 1 Vile Entomber
 1 Viscera Seer
 1 Vito, Thorn of the Dusk Rose
+1 Witch of the Moors
 1 Woe Strider
 2 Yahenni, Undying Partisan
 1 Zulaport Cutthroat
@@ -192,7 +195,8 @@ legality: commander
 1 Mornsong Aria
 1 Northern Air Temple
 1 Phyrexian Arena
-1 Scavenger's Talent
+1 Phyrexian Reclamation
+2 Scavenger's Talent
 1 Soul Enervation
 1 Swampsnare Trap
 1 Vampiric Rites

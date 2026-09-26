@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Hinterland Sanctifier`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {W}  
 > **Type:** Creature — Rabbit Cleric  
 > **P/T:** 1/2  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 26/09/2026 for Soul's Attendant. |
+> | Deck-Specific | 78 | Cut 26/09/2026 for Soul's Attendant. |
+> | **Combined** | **77** | Cut 26/09/2026 for Soul's Attendant. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Soul's Attendant. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -48,23 +48,23 @@ Whenever another creature you control enters, you [[03 Effects/Gain Life|gain 1 
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]] is how +10 happens in this pile without a Soul Sister. Whenever another creature you control enters, gain 1. [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]] doubles it. Turn-1 white one-drop. This is the life ETB the sleeved pile actually has.
+Hinterland Sanctifier ({W}). Cut 26/09/2026 for Soul's Attendant. Judge it by whether it serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Lead it. Every later ETB is a life — Inspector, Sage, Ayli, Delney, tokens.
-- Do not sac it to Ayli while +10 is still the job.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Doubled by**: [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]]
-- **Bodies that trigger it**: [[02 Cards/Creatures/Novice Inspector|Novice Inspector]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]], [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Sleeve next**: [[02 Cards/Creatures/Soul Warden|Soul Warden]] *(owned extra)*, [[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]] *(owned extra)*, [[02 Cards/Creatures/Suture Priest|Suture Priest]] *(owned extra)*
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- Does nothing if you never play a second creature.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -87,7 +87,7 @@ Whenever another creature you control enters, you [[03 Effects/Gain Life|gain 1 
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -95,9 +95,9 @@ Whenever another creature you control enters, you [[03 Effects/Gain Life|gain 1 
 > scryfall_id: 632df69e-6377-43d0-bba5-65518a320aa5
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

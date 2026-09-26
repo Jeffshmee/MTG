@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Lofty Denial`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{U}  
 > **Type:** Instant  
 >
@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Owned. Counter unless they pay {1}, or {4} if you have a flyer. Kykar flies. |
-> | Deck-Specific | 84 | Owned. Counter unless they pay {1}, or {4} if you have a flyer. Kykar flies. |
-> | **Combined** | **82** | Owned. Counter unless they pay {1}, or {4} if you have a flyer. Kykar flies. |
+> | General | 80 | Cut 26/09/2026 for Mana Sculpt. |
+> | Deck-Specific | 84 | Cut 26/09/2026 for Mana Sculpt. |
+> | **Combined** | **82** | Cut 26/09/2026 for Mana Sculpt. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">82<span>/100</span></div><p class="synergy-score-why">Owned. Counter unless they pay {1}, or {4} if you have a flyer. Kykar flies. General 80 and Deck-Specific 84 produce Combined 82.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">82<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Mana Sculpt. General 80 and Deck-Specific 84 produce Combined 82.</p></div>
 
 ## Oracle Text
 
@@ -48,7 +48,7 @@ Counter target spell unless its controller pays {1}. If you control a creature w
 
 ## Deck Role & Rating
 
-Lofty Denial is interaction at {1}{U}. Hold it for the spell that would remove [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or stop a Deadeye turn. Noncreature, so Kykar blinks or makes a Spirit. Owned. Counter unless they pay {1}, or {4} if you have a flyer. Kykar flies.
+Lofty Denial is interaction at {1}{U}. Hold it for the spell that would remove [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]] or stop a Deadeye turn. Noncreature, so Kykar blinks or makes a Spirit. Cut 26/09/2026 for Mana Sculpt. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
@@ -59,12 +59,11 @@ Lofty Denial is interaction at {1}{U}. Hold it for the spell that would remove [
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]
-- **Blink (live)**: [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]], [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]], [[02 Cards/Creatures/Charming Prince|Charming Prince]]
-- **ETB payoffs (live)**: [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], [[02 Cards/Creatures/Cloudblazer|Cloudblazer]]
+- **Plan**: Blink spells
 
 ## Anti-synergies / Notes
 
-- Judge it by whether it triggers Kykar or is worth blinking. Spirit mode is backup.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -87,7 +86,7 @@ Lofty Denial is interaction at {1}{U}. Hold it for the spell that would remove [
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 84
@@ -95,7 +94,7 @@ Lofty Denial is interaction at {1}{U}. Hold it for the spell that would remove [
 > scryfall_id: 64832674-beb1-446e-b2f7-8a5e271139a5
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - instant
 > ```
 

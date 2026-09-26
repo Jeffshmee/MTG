@@ -1,5 +1,7 @@
 # Shaman
 
-A creature type.
+Shaman.
 
-**In this vault:** [[02 Cards/Creatures/Glowspore Shaman|Glowspore Shaman]] · [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] · [[02 Cards/Creatures/Reclamation Sage|Reclamation Sage]]
+Types in this Elves and Faeries list.
+
+**In this vault:** [[02 Cards/Creatures/Deathrite Shaman|Deathrite Shaman]] · [[02 Cards/Creatures/Golgari Findbroker|Golgari Findbroker]] · [[02 Cards/Creatures/Reclamation Sage|Reclamation Sage]]

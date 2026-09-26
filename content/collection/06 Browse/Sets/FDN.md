@@ -2,7 +2,7 @@
 
 Set `FDN`. Qty here is copies of this name from this set.
 
-**476** copies · **282** names.
+**478** copies · **283** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -224,7 +224,7 @@ Set `FDN`. Qty here is copies of this name from this set.
 | [**`mtg:Hidetsugu's Second Rite`**](https://scryfall.com/card/fdn/202) | [[02 Cards/Instants/Hidetsugu's Second Rite\|PAGE]] | {3}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.07 |
 | [**`mtg:High Fae Trickster`**](https://scryfall.com/card/fdn/40) | [[02 Cards/Creatures/High Fae Trickster\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 5.24 |
 | [**`mtg:Immersturm Predator`**](https://scryfall.com/card/fdn/660) | [[02 Cards/Creatures/Immersturm Predator\|PAGE]] | {2}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.21 |
-| [**`mtg:Jazal Goldmane`**](https://scryfall.com/card/fdn/497) | [[02 Cards/Creatures/Jazal Goldmane\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.29 |
+| [**`mtg:Jazal Goldmane`**](https://scryfall.com/card/fdn/497) | [[02 Cards/Creatures/Jazal Goldmane\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.41 |
 | [**`mtg:Kykar, Zephyr Awakener`**](https://scryfall.com/card/fdn/122) | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|PAGE]] | {2}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
 | [**`mtg:Lathril, Blade of the Elves`**](https://scryfall.com/card/fdn/242) | [[02 Cards/Creatures/Lathril, Blade of the Elves\|PAGE]] | {2}{B}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 2.10 |
 | [**`mtg:Lightshell Duo`**](https://scryfall.com/card/fdn/157) | [[02 Cards/Creatures/Lightshell Duo\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rat\|Rat]] [[04 Creature Types/Otter\|Otter]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |
@@ -247,6 +247,7 @@ Set `FDN`. Qty here is copies of this name from this set.
 | [**`mtg:Wilt-Leaf Liege`**](https://scryfall.com/card/fdn/668) | [[02 Cards/Creatures/Wilt-Leaf Liege\|PAGE]] | {1}{G/W}{G/W}{G/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Knight\|Knight]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |
 | [**`mtg:Zimone, Paradox Sculptor`**](https://scryfall.com/card/fdn/351) | [[02 Cards/Creatures/Zimone, Paradox Sculptor\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 3.01 |
 | [**`mtg:Zombify`**](https://scryfall.com/card/fdn/187) | [[02 Cards/Sorceries/Zombify\|PAGE]] | {3}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.16 |
+| [**`mtg:Banner of Kinship`**](https://scryfall.com/card/fdn/352) | [[02 Cards/Artifacts/Banner of Kinship\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 7.41 |
 | [**`mtg:Claws Out`**](https://scryfall.com/card/fdn/6) | [[02 Cards/Instants/Claws Out\|PAGE]] | {3}{W}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.13 |
 | [**`mtg:Cloudblazer`**](https://scryfall.com/card/fdn/653) | [[02 Cards/Creatures/Cloudblazer\|PAGE]] | {3}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Scout\|Scout]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.12 |
 | [**`mtg:Gigantosaurus`**](https://scryfall.com/card/fdn/718) | [[02 Cards/Creatures/Gigantosaurus\|PAGE]] | {G}{G}{G}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.61 |

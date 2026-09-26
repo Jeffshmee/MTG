@@ -2,6 +2,6 @@
 
 Gets +1/+1 until end of turn whenever you cast a noncreature spell.
 
-Blink, bounce, and cantrips feed Kykar. Tokens that leave cease; counters do not return.
+Effects that show up in Kykar, Zephyr Awakener's Blink spells list.
 
 **In this vault:** [[02 Cards/Creatures/Shipwreck Dowser|Shipwreck Dowser]] · [[02 Cards/Artifacts/Wizard's Staff|Wizard's Staff]]

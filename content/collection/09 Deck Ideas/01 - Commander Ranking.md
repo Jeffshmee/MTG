@@ -1283,7 +1283,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Slaughter Specialist` | {1}{B} | Creature — Vampire Warrior | £0.57 |
 > | `mtg:Starscape Cleric` | {1}{B} | Creature — Bat Cleric | £1.32 |
 > | `mtg:Umbral Collar Zealot` | {1}{B} | Creature — Human Cleric | £0.37 |
-> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Warren Soultrader` | {2}{B} | Creature — Zombie Goblin Wizard | £12.28 |
 > | `mtg:Woe Strider` 🟡 | {2}{B} | Creature — Horror | £0.18 |
 > | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
@@ -1565,7 +1565,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Stony-Voiced Goblins` | {1}{B} | Creature — Goblin Bard | £0.03 |
 > | `mtg:The Great Goblin` | {1}{B/R}{B/R} | Creature — Goblin Noble | £0.37 |
 > | `mtg:Underfoot Underdogs` | {2}{R} | Creature — Goblin Warrior | £0.04 |
-> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Chaos Warp` | {2}{R} | Instant | — |
 > | `mtg:Village Rites` 🟡 | {B} | Instant | £0.30 |
 > | `mtg:Assault on Osgiliath` | {X}{R}{R}{R} | Sorcery | £0.43 |
@@ -2096,7 +2096,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Silversmote Ghoul` | {2}{B} | Creature — Zombie Vampire | £0.30 |
 > | `mtg:South Wind Avatar` | {3}{B} | Creature — Snake Spirit Avatar | £0.97 |
 > | `mtg:Starscape Cleric` | {1}{B} | Creature — Bat Cleric | £1.32 |
-> | `mtg:Stensian Sanguinist` | {1}{B} | Creature — Vampire Cleric | £5.38 |
+> | `mtg:Stensian Sanguinist` 🟡 | {1}{B} | Creature — Vampire Cleric | £5.38 |
 > | `mtg:Stitcher's Supplier` | {B} | Creature — Zombie | £0.43 |
 > | `mtg:Tivash, Gloom Summoner` | {4}{B} | Creature — Human Warlock | £0.25 |
 > | `mtg:Twilight Diviner` | {2}{B} | Creature — Elf Cleric | £2.71 |
@@ -2104,7 +2104,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Umbral Collar Zealot` | {1}{B} | Creature — Human Cleric | £0.37 |
 > | `mtg:Veinwitch Coven` | {2}{B} | Creature — Vampire Warlock | £0.28 |
 > | `mtg:Vito, Thorn of the Dusk Rose` 🟡 | {2}{B} | Creature — Vampire Cleric | £6.95 |
-> | `mtg:Witch of the Moors` | {3}{B}{B} | Creature — Human Warlock | £0.38 |
+> | `mtg:Witch of the Moors` 🟡 | {3}{B}{B} | Creature — Human Warlock | £0.38 |
 > | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Ob Nixilis of the Black Oath` | {3}{B}{B} | Planeswalker — Nixilis | £0.40 |
 > | `mtg:Archenemy's Charm` | {B}{B}{B} | Instant | £0.86 |
@@ -2237,7 +2237,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Tenacious Dead` | {B} | Creature — Skeleton Warrior | £0.16 |
 > | `mtg:Tinybones, the Pickpocket` | {B} | Creature — Skeleton Rogue | £3.93 |
 > | `mtg:Underworld Sentinel` | {3}{B}{B} | Creature — Skeleton Soldier | £0.32 |
-> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Warren Soultrader` | {2}{B} | Creature — Zombie Goblin Wizard | £12.28 |
 > | `mtg:Zulaport Cutthroat` 🟡 | {1}{B} | Creature — Human Rogue Ally | £1.26 |
 > | `mtg:Corrupted Conviction` | {B} | Instant | £0.29 |
@@ -2521,7 +2521,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Speaker of the Heavens` 🟡 | {W} | Creature — Human Cleric | £0.72 |
 > | `mtg:Suture Priest` 🟡 | {1}{W} | Creature — Phyrexian Cleric | £2.98 |
 > | `mtg:Teysa, Orzhov Scion` 🟡 | {1}{W}{B} | Creature — Human Advisor | £1.34 |
-> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Vito, Thorn of the Dusk Rose` 🟡 | {2}{B} | Creature — Vampire Cleric | £6.95 |
 > | `mtg:Woe Strider` 🟡 | {2}{B} | Creature — Horror | £0.18 |
 > | `mtg:Yahenni, Undying Partisan` 🟡 | {2}{B} | Creature — Aetherborn Vampire | £0.23 |
@@ -3184,7 +3184,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Deathrite Shaman` | {B/G} | Creature — Elf Shaman | £6.23 |
 > | `mtg:Dionus, Elvish Archdruid` | {3}{G} | Creature — Elf Druid | £9.35 |
 > | `mtg:Elves of Deep Shadow` | {G} | Creature — Elf Druid | £2.43 |
-> | `mtg:Elvish Champion` | {1}{G}{G} | Creature — Elf | £8.35 |
+> | `mtg:Elvish Champion` 🟡 | {1}{G}{G} | Creature — Elf | £8.35 |
 > | `mtg:Elvish Harbinger` | {2}{G} | Creature — Elf Druid | £4.17 |
 > | `mtg:Elvish Mystic` | {G} | Creature — Elf Druid | £4.77 |
 > | `mtg:Elvish Warmaster` | {1}{G} | Creature — Elf Warrior | £3.51 |
@@ -5403,7 +5403,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Canopy Tactician` | {3}{G} | Creature — Elf Warrior | £3.25 |
 > | `mtg:Circle of Dreams Druid` | {G}{G}{G} | Creature — Elf Druid | £10.08 |
 > | `mtg:Craterhoof Behemoth` | {5}{G}{G}{G} | Creature — Beast | £16.30 |
-> | `mtg:Elvish Champion` | {1}{G}{G} | Creature — Elf | £8.35 |
+> | `mtg:Elvish Champion` 🟡 | {1}{G}{G} | Creature — Elf | £8.35 |
 > | `mtg:Elvish Mystic` | {G} | Creature — Elf Druid | £4.77 |
 > | `mtg:Elvish Visionary` | {1}{G} | Creature — Elf Shaman | £1.15 |
 > | `mtg:Elvish Warmaster` | {1}{G} | Creature — Elf Warrior | £3.51 |
@@ -6791,7 +6791,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Thieving Varmint` | {1}{B} | Creature — Varmint | £2.97 |
 > | `mtg:Tinybones, Bauble Burglar` | {1}{B} | Creature — Skeleton Rogue | £0.51 |
 > | `mtg:Tinybones, the Pickpocket` | {B} | Creature — Skeleton Rogue | £3.93 |
-> | `mtg:Viscera Seer` 🟡 | {B} | Creature — Vampire Wizard | £0.51 |
+> | `mtg:Viscera Seer` | {B} | Creature — Vampire Wizard | £0.51 |
 > | `mtg:Abstruse Appropriation` | {2}{W}{B} | Instant | £0.16 |
 > | `mtg:Anguished Unmaking` 🟡 | {1}{W}{B} | Instant | £1.68 |
 > | `mtg:Erode` | {W} | Instant | £6.48 |
@@ -6904,7 +6904,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Eclipsed Elf` | {B/G}{B/G}{B/G} | Creature — Elf Scout | £0.11 |
 > | `mtg:Eladamri, Korvecdal` | {1}{G}{G} | Creature — Elf Warrior | £5.58 |
 > | `mtg:Elves of Deep Shadow` | {G} | Creature — Elf Druid | £2.43 |
-> | `mtg:Elvish Champion` | {1}{G}{G} | Creature — Elf | £8.35 |
+> | `mtg:Elvish Champion` 🟡 | {1}{G}{G} | Creature — Elf | £8.35 |
 > | `mtg:Elvish Harbinger` | {2}{G} | Creature — Elf Druid | £4.17 |
 > | `mtg:Elvish Mystic` | {G} | Creature — Elf Druid | £4.77 |
 > | `mtg:Elvish Warmaster` | {1}{G} | Creature — Elf Warrior | £3.51 |
@@ -8158,7 +8158,7 @@ Why jumps to that commander under [[#Why these unowned]].
 > | `mtg:Ghostly Flicker` | {2}{U} | Instant | £1.22 |
 > | `mtg:Hide on the Ceiling` | {X}{U} | Instant | £0.88 |
 > | `mtg:High Tide` | {U} | Instant | £1.02 |
-> | `mtg:Mana Sculpt` | {1}{U}{U} | Instant | £0.71 |
+> | `mtg:Mana Sculpt` 🟡 | {1}{U}{U} | Instant | £0.71 |
 > | `mtg:Perplexing Test` | {3}{U}{U} | Instant | £0.20 |
 > | `mtg:Planar Incision` | {1}{U} | Instant | £0.19 |
 > | `mtg:Pongify` | {U} | Instant | £1.67 |

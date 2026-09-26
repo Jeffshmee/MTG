@@ -61,7 +61,7 @@
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>—</td><td>1</td><td>Maralen</td><td>0.09</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>280</td><td>foil</td><td>1</td><td>Box</td><td>0.15</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>281</td><td>—</td><td>2</td><td>Box</td><td>0.08</td></tr>
-<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>2</td><td>Box</td><td>0.18</td></tr>
+<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>3</td><td>Box</td><td>0.18</td></tr>
 <tr><td>Modern Horizons 3 (<code>MH3</code>)</td><td>308</td><td>foil</td><td>2</td><td>Box</td><td>0.25</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>foil</td><td>1</td><td>Maralen</td><td>0.18</td></tr>
 <tr><td>Wilds of Eldraine (<code>WOE</code>)</td><td>266</td><td>foil</td><td>1</td><td>Maralen</td><td>0.41</td></tr>
@@ -71,7 +71,6 @@
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.05</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>290</td><td>—</td><td>1</td><td>Arahbo</td><td>0.17</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>285</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.13</td></tr>
-<tr><td>Final Fantasy (<code>FIN</code>)</td><td>308</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.18</td></tr>
 <tr><td>War of the Spark (<code>WAR</code>)</td><td>262</td><td>foil</td><td>1</td><td>Arahbo</td><td>0.18</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
 <tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>286</td><td>foil</td><td>1</td><td>Box</td><td>0.13</td></tr>

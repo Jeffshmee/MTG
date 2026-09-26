@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 26/09/2026 | extra · no seller on outstanding orders |
 
 </div>
 
@@ -38,12 +38,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>31</td><td>—</td><td>1</td><td>Box</td><td>0.04</td></tr>
+<tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>31</td><td>—</td><td>2</td><td>Box</td><td>0.04</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +55,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/d/b/dbce93c0-5efc-4b60-9cef-9d9b374d397b.jpg" alt="Reluctant Dounguard ECL 31 · ×1">
-<figcaption>ECL 31 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/d/b/dbce93c0-5efc-4b60-9cef-9d9b374d397b.jpg" alt="Reluctant Dounguard ECL 31 · ×2">
+<figcaption>ECL 31 · ×2</figcaption>
 </figure>
 </div>
 
@@ -75,7 +75,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 3
 > type: "Creature — Kithkin Soldier"
 > scryfall_id: dbce93c0-5efc-4b60-9cef-9d9b374d397b
-> quantity: 1
+> quantity: 2
 > tags:
 >   - card
 >   - collection

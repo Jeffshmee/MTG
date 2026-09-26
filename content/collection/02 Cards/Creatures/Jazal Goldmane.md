@@ -19,7 +19,7 @@
 | **Creature type** | [[04 Creature Types/Cat\|Cat]] · [[04 Creature Types/Warrior\|Warrior]] |
 | **Colour** | [[05 Colours/White\|White]] |
 | **Mana** | [[06 Browse/Mana Costs/Mana (4)\|Mana (4)]] |
-| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] |
+| **Where** | [[06 Browse/Decks/Zurgo Deck/Zurgo\|Zurgo]] · [[06 Browse/Decks/Arahbo Deck/Arahbo\|Arahbo]] |
 
 </div>
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Bought from Nerdbase |
+| 26/09/2026 | MageCards · Axion_Now |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations (<code>FDN</code>)</td><td>497</td><td>—</td><td>1</td><td>Zurgo</td><td>0.29</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>497</td><td>—</td><td>1</td><td>Arahbo</td><td>0.12</td></tr>
 </tbody>
 </table>
 </div>
@@ -52,6 +54,7 @@
 ## In decks
 
 - [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo — Main Deck]]
+- [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo — Main Deck]]
 
 ### Arts in this Collection
 
@@ -59,14 +62,14 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/5/a/5aa8f635-c638-4207-8631-f6b5185f8696.jpg" alt="Jazal Goldmane FDN 497 · ×1">
-<figcaption>FDN 497 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/5/a/5aa8f635-c638-4207-8631-f6b5185f8696.jpg" alt="Jazal Goldmane FDN 497 · ×2">
+<figcaption>FDN 497 · ×2</figcaption>
 </figure>
 </div>
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Cat|Cat]] · [[04 Creature Types/Warrior|Warrior]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/FDN|Foundations]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Creature|Creature]] · [[04 Creature Types/Cat|Cat]] · [[04 Creature Types/Warrior|Warrior]] · [[05 Colours/White|White]] · [[06 Browse/Mana Costs/Mana (4)|Mana (4)]] · [[06 Browse/Rarities/3 Rare|Rare]] · [[06 Browse/Legendary|Legendary]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/FDN|Foundations]]
 
 ---
 
@@ -79,7 +82,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 4
 > type: "Legendary Creature — Cat Warrior"
 > scryfall_id: 5aa8f635-c638-4207-8631-f6b5185f8696
-> quantity: 1
+> quantity: 2
 > tags:
 >   - card
 >   - cat

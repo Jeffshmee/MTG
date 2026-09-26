@@ -1,7 +1,7 @@
 # Gate
 
-A land subtype. Azorius Guildgate is the one in this 65.
+A land subtype. Guildgates enter tapped and make one colour of their pair.
 
-Types in this Azorius blink list.
+Types in this Blink spells list.
 
 **In this vault:** [[02 Cards/Lands/Azorius Guildgate|Azorius Guildgate]]

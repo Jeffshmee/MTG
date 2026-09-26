@@ -2,11 +2,12 @@
 
 Set `CLU`. Qty here is copies of this name from this set.
 
-**6** copies · **4** names.
+**7** copies · **5** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Selesnya Sanctuary`**](https://scryfall.com/card/clu/246) | [[02 Cards/Lands/Selesnya Sanctuary\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.11 |
+| [**`mtg:Doomed Traveler`**](https://scryfall.com/card/clu/59) | [[02 Cards/Creatures/Doomed Traveler\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
 | [**`mtg:Ajani's Pridemate`**](https://scryfall.com/card/clu/52) | [[02 Cards/Creatures/Ajani's Pridemate\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.54 |
 | [**`mtg:Cloudkin Seer`**](https://scryfall.com/card/clu/82) | [[02 Cards/Creatures/Cloudkin Seer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |
 | [**`mtg:Beast Whisperer`**](https://scryfall.com/card/clu/158) | [[02 Cards/Creatures/Beast Whisperer\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 5.56 |

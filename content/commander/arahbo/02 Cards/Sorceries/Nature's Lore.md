@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Nature's Lore`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{G}  
 > **Type:** Sorcery  
 >
@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | Deck-Specific | 88 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | **Combined** | **85** | Line prefer — on-plan redundancy or a named dual/anthem. |
+> | General | 80 | Cut 26/09/2026 for Germination Practicum. |
+> | Deck-Specific | 88 | Cut 26/09/2026 for Germination Practicum. |
+> | **Combined** | **85** | Cut 26/09/2026 for Germination Practicum. |
 >
 > ### Classification
 >
@@ -37,7 +37,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Line prefer — on-plan redundancy or a named dual/anthem. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Germination Practicum. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
 
 ## Oracle Text
 
@@ -47,20 +47,23 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Sorceries/Nature's Lore|Nature's Lore]] is the other untapped Forest (or Forest dual). Same slot as Three Visits.
+Nature's Lore ({1}{G}). Cut 26/09/2026 for Germination Practicum. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Can find Temple Garden / Overgrown Farmland / Sunpetal Grove / Canopy Vista once those are sleeved — they have Forest.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Ramp**: [[02 Cards/Sorceries/Three Visits|Three Visits]], [[02 Cards/Sorceries/Cultivate|Cultivate]] *(owned extra)*, [[02 Cards/Lands/Temple Garden|Temple Garden]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -83,7 +86,7 @@
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -91,9 +94,9 @@
 > scryfall_id: 7afc4a15-5ff8-457a-aa62-803b2d78d912
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - sorcerie
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

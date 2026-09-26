@@ -2,6 +2,6 @@
 
 Discard this card to draw a card.
 
-Blink, bounce, and cantrips feed Kykar. Tokens that leave cease; counters do not return.
+Effects that show up in Kykar, Zephyr Awakener's Blink spells list.
 
 **In this vault:** [[02 Cards/Lands/Irrigated Farmland|Irrigated Farmland]]

@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Maralen, Fae Ascendant
-99 + 1 = 100 cards (target 100).
+99 + 1 = 100 cards (target 100). Nothing sleeved until you say it is in hand.
 
 ```decklist
 group: auto
@@ -30,8 +30,8 @@ legality: commander
 1 Thornweald Archer
 1 Urborg Elf
 1 Circle of Dreams Druid
-1 Eclipsed Elf
 1 Elvish Archdruid
+1 Elvish Champion
 1 Glamermite
 1 Imperious Perfect
 1 Marwyn, the Nurturer
@@ -109,7 +109,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/current-deck.md`*
-*Last synced: 2026-08-30*
+*Last synced: 2026-09-26 (26-09 to-do)*
 
 ---
 
@@ -138,8 +138,8 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Thornweald Archer|Thornweald Archer]] **74** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:74%"></div></div>
 - [[02 Cards/Creatures/Urborg Elf|Urborg Elf]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Circle of Dreams Druid|Circle of Dreams Druid]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
-- [[02 Cards/Creatures/Eclipsed Elf|Eclipsed Elf]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
+- [[02 Cards/Creatures/Elvish Champion|Elvish Champion]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Glamermite|Glamermite]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Marwyn, the Nurturer|Marwyn, the Nurturer]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Lion Sash`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{W}  
 > **Type:** Artifact Creature — Equipment Cat  
 > **P/T:** 1/1  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Sleeved 26/09/2026. NEO 26 over Savannah Lions FDN 146. |
+> | Deck-Specific | 78 | Sleeved 26/09/2026. NEO 26 over Savannah Lions FDN 146. |
+> | **Combined** | **77** | Sleeved 26/09/2026. NEO 26 over Savannah Lions FDN 146. |
 >
 > ### Classification
 >
@@ -40,7 +40,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. NEO 26 over Savannah Lions FDN 146. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -52,22 +52,21 @@ Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a 
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Lion Sash|Lion Sash]] is an Equipment Cat: exile a yard card for {W}, grow, reconfigure onto a Cat. As a creature it is a Cat for First Fang / Banner. As equipment it pumps the suited Cat. Grave-hate for their recursion. 🟢 Owned extra on the sideboard — not sleeved.
+Lion Sash ({1}{W}). Sleeved 26/09/2026. NEO 26 over Savannah Lions FDN 146. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan.
 
 ## Play Patterns & Lines
 
-- Cast as a Cat if you need the ETB token from First Fang. Reconfigure onto First Fang or Regal.
-- Exile their best yard card. Permanent cards also grow the Sash.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat / equipment**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Reconfigure is sorcery-speed. Instant-speed yard hate is only the {{W}} while it is a creature or attached.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
 
 ## Related Pages
 
@@ -90,7 +89,7 @@ Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a 
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Reconfigure"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -98,9 +97,9 @@ Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a 
 > scryfall_id: 3e1766e9-2fa7-4446-a255-7beea1467ece
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

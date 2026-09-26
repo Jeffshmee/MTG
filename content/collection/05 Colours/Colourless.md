@@ -2,7 +2,7 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**135** copies · **94** names.
+**137** copies · **96** names.
 
 ```decklist
 group: auto
@@ -55,10 +55,12 @@ legality: commander
 7 Arcane Signet
 1 Ashnod's Altar
 1 Azorius Signet
+1 Banner of Kinship
 1 Basilisk Collar
 1 Bear Trap
 2 Blade of Selves
 1 Chromatic Lantern
+1 Chronicle of Victory
 1 Cultivator's Caravan
 4 Dawn-Blessed Pennant
 1 Diary of Dreams

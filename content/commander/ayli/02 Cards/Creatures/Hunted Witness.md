@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Hunted Witness`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {W}  
 > **Type:** Creature — Human  
 > **P/T:** 1/1  
@@ -86,7 +86,7 @@ When this creature dies, [[03 Effects/Create Token|create a 1/1 white Soldier cr
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -94,7 +94,7 @@ When this creature dies, [[03 Effects/Create Token|create a 1/1 white Soldier cr
 > scryfall_id: 8c31b8e5-2349-4119-9dc2-3e41c5364a78
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - creature
 > ```
 

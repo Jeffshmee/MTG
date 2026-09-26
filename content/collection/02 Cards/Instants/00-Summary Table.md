@@ -2,7 +2,7 @@
 
 Every **Instants** page in this vault. Same columns as [[01 Catalogue/Catalogue|Catalogue]]. Sorted by mana value, then name.
 
-**284** copies · **188** names.
+**286** copies · **190** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -87,6 +87,7 @@ Every **Instants** page in this vault. Same columns as [[01 Catalogue/Catalogue|
 | [**`mtg:Midnight Tilling`**](https://scryfall.com/card/ecl/182) | [[02 Cards/Instants/Midnight Tilling\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Mission Briefing`**](https://scryfall.com/card/mkc/110) | [[02 Cards/Instants/Mission Briefing\|PAGE]] | {U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
 | [**`mtg:Moment of Craving`**](https://scryfall.com/card/fdn/524) | [[02 Cards/Instants/Moment of Craving\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
+| [**`mtg:Momentary Blink`**](https://scryfall.com/card/dmr/15) | [[02 Cards/Instants/Momentary Blink\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.12 |
 | [**`mtg:Negate`**](https://scryfall.com/card/m20/69) | [[02 Cards/Instants/Negate\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.13 |
 | [**`mtg:Origin of Metalbending`**](https://scryfall.com/card/tla/187) | [[02 Cards/Instants/Origin of Metalbending\|PAGE]] | {1}{G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.32 |
 | [**`mtg:Osseous Exhale`**](https://scryfall.com/card/tdm/17) | [[02 Cards/Instants/Osseous Exhale\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.05 |
@@ -140,6 +141,7 @@ Every **Instants** page in this vault. Same columns as [[01 Catalogue/Catalogue|
 | [**`mtg:Hero's Downfall`**](https://scryfall.com/card/fdn/175) | [[02 Cards/Instants/Hero's Downfall\|PAGE]] | {1}{B}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.20 |
 | [**`mtg:Make a Stand`**](https://scryfall.com/card/cmr/32) | [[02 Cards/Instants/Make a Stand\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.11 |
 | [**`mtg:Make Your Move`**](https://scryfall.com/card/fdn/143) | [[02 Cards/Instants/Make Your Move\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.12 |
+| [**`mtg:Mana Sculpt`**](https://scryfall.com/card/sos/57) | [[02 Cards/Instants/Mana Sculpt\|PAGE]] | {1}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.82 |
 | [**`mtg:Mortify`**](https://scryfall.com/card/fdn/662) | [[02 Cards/Instants/Mortify\|PAGE]] | {1}{W}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
 | [**`mtg:Protective Response`**](https://scryfall.com/card/ecl/29) | [[02 Cards/Instants/Protective Response\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.12 |
 | [**`mtg:Quick Study`**](https://scryfall.com/card/sos/65) | [[02 Cards/Instants/Quick Study\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 0.52 |

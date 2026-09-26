@@ -1,5 +1,7 @@
 # Surveil
 
-Look at the top card of your library. You may put it into your graveyard.
+Look at that many cards, then you may put them into your graveyard.
 
-**In this vault:** [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]] · [[02 Cards/Enchantments/Morcant's Eyes|Morcant's Eyes]]
+Effects that show up in Maralen, Fae Ascendant's Elves and Faeries list.
+
+**In this vault:** [[02 Cards/Lands/Hedge Maze|Hedge Maze]] · [[02 Cards/Enchantments/Morcant's Eyes|Morcant's Eyes]]

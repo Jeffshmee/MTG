@@ -6,7 +6,7 @@ Every **Artifacts** page in this vault. Same columns as the collection Catalogue
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
-| [**`mtg:Arcane Signet`**](https://scryfall.com/card/msc/191) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[04 Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | 2 | 1 | 0.76 |
+| [**`mtg:Arcane Signet`**](https://scryfall.com/card/frc/20) | [[02 Cards/Artifacts/Arcane Signet\|PAGE]] | {2} | [[04 Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | 2 | 1 | 0.76 |
 | [**`mtg:Lightning Greaves`**](https://scryfall.com/card/msc/202) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[04 Types/Artifact\|Artifact]] [[04 Types/Equipment\|Equipment]] | [[05 Colours/Colourless\|Colourless]] | 2 | 1 | 4.94 |
 | [**`mtg:Swiftfoot Boots`**](https://scryfall.com/card/mbc/77) | [[02 Cards/Artifacts/Swiftfoot Boots\|PAGE]] | {2} | [[04 Types/Artifact\|Artifact]] [[04 Types/Equipment\|Equipment]] | [[05 Colours/Colourless\|Colourless]] | 2 | 1 | 2.14 |
 | [**`mtg:Ashnod's Altar`**](https://scryfall.com/card/cmm/368) | [[02 Cards/Artifacts/Ashnod's Altar\|PAGE]] | {3} | [[04 Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | 3 | 1 | 13.69 |

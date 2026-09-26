@@ -2,7 +2,7 @@
 
 Creature type: Vampire.
 
-**41** copies · **29** names.
+**42** copies · **30** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -19,6 +19,7 @@ Creature type: Vampire.
 | [**`mtg:Nullpriest of Oblivion`**](https://scryfall.com/card/fdn/611) | [[02 Cards/Creatures/Nullpriest of Oblivion\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
 | [**`mtg:Sanguine Syphoner`**](https://scryfall.com/card/fdn/68) | [[02 Cards/Creatures/Sanguine Syphoner\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.10 |
 | [**`mtg:Scheming Silvertongue`**](https://scryfall.com/card/sos/99) | [[02 Cards/Creatures/Scheming Silvertongue\|PAGE]] | {1}{B} // {B}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.87 |
+| [**`mtg:Stensian Sanguinist`**](https://scryfall.com/card/soc/29) | [[02 Cards/Creatures/Stensian Sanguinist\|PAGE]] | {1}{B} // {X}{B}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 5.61 |
 | [**`mtg:Vengeful Bloodwitch`**](https://scryfall.com/card/fdn/76) | [[02 Cards/Creatures/Vengeful Bloodwitch\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 5 | 0.90 |
 | [**`mtg:Alley Assailant`**](https://scryfall.com/card/mkm/76) | [[02 Cards/Creatures/Alley Assailant\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.14 |
 | [**`mtg:Arnyn, Deathbloom Botanist`**](https://scryfall.com/card/sos/74) | [[02 Cards/Creatures/Arnyn, Deathbloom Botanist\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.19 |

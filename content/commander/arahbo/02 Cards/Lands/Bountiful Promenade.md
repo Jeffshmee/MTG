@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Bountiful Promenade`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -88,7 +88,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you have two or more
 > colors: []
 > color_identity: ["G", "W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -96,7 +96,7 @@ This land [[03 Effects/Enters Tapped|enters tapped]] unless you have two or more
 > scryfall_id: f0b11ba3-68ba-4067-af40-2a55e31b395e
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - land
 > ```
 

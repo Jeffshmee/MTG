@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Momentary Blink`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Instant  
 >
@@ -67,7 +67,7 @@ Momentary Blink blinks a creature you control ({1}{W}). That is instant or delay
 
 ## Anti-synergies / Notes
 
-- Not in the owned 65 yet. Status stays Ordered until it is in hand and committed.
+- In hand 26/09/2026. Flashback is {3}{U}, so this stays Kykar. Not in the 100 until a named cut.
 - Kykar's blink is delayed. Do not block with the blinked creature; it is gone until end of turn.
 
 ## Related Pages
@@ -91,7 +91,7 @@ Momentary Blink blinks a creature you control ({1}{W}). That is instant or delay
 > colors: ["W"]
 > color_identity: ["U", "W"]
 > keywords: ["Flashback"]
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -99,7 +99,7 @@ Momentary Blink blinks a creature you control ({1}{W}). That is instant or delay
 > scryfall_id: 619c620d-1920-40d1-98d4-df5607f84d26
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - instant
 > ```
 

@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**284** copies · **213** names.
+**291** copies · **218** names.
 
 ```decklist
 group: auto
@@ -40,6 +40,7 @@ legality: commander
 1 Dawnwing Marshal
 1 Delney, Streetwise Lookout
 1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
+1 Doomed Traveler
 2 Dragonback Lancer
 1 Dwarven Provisioner
 3 Eager Glyphmage
@@ -63,13 +64,14 @@ legality: commander
 1 Hero of Bladehold
 4 Hinterland Sanctifier
 2 Honorbound Page // Forum's Favor
+1 Hunted Witness
 1 Inkshape Demonstrator
 1 Inspiring Overseer
 1 Inspiring Paladin
 1 Intrepid Rabbit
 2 Iron Hills Blacksmith
 2 Ironwill Forger
-1 Jazal Goldmane
+2 Jazal Goldmane
 1 Karlov Watchdog
 1 King of the Pride
 1 Knight of Grace
@@ -79,6 +81,7 @@ legality: commander
 1 Lake-town Toymaker
 1 Leonin Warleader
 1 Linden, the Steadfast Queen
+1 Lion Sash
 1 Loran of the Third Path
 1 Lyra Dawnbringer
 1 Mentor of the Meek
@@ -98,7 +101,7 @@ legality: commander
 1 Red Guardian, Super-Soldier
 1 Regal Caracal
 3 Rehearsed Debater
-1 Reluctant Dounguard
+2 Reluctant Dounguard
 1 Resolute Reinforcements
 1 Rhox Faithmender
 2 Riling Dawnbreaker // Signaling Roar
@@ -112,6 +115,7 @@ legality: commander
 1 Skyknight Squire
 2 Soaring Stoneglider
 1 Soul Warden
+1 Soul's Attendant
 1 Speaker of the Heavens
 1 Spiritcall Enthusiast // Scrollboost
 1 Squad Rallier
@@ -156,6 +160,7 @@ legality: commander
 1 Luminous Rebuke
 1 Make a Stand
 3 Make Your Move
+1 Momentary Blink
 1 Osseous Exhale
 1 Personify
 1 Protective Response

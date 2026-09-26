@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Novice Inspector`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {W}  
 > **Type:** Creature — Human Detective  
 > **P/T:** 1/2  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | 1/2 ETB Investigate. Sac fodder and a Clue. |
-> | Deck-Specific | 84 | 1/2 ETB Investigate. Sac fodder and a Clue. |
-> | **Combined** | **81** | 1/2 ETB Investigate. Sac fodder and a Clue. |
+> | General | 76 | Cut 26/09/2026 for Phyrexian Reclamation. |
+> | Deck-Specific | 84 | Cut 26/09/2026 for Phyrexian Reclamation. |
+> | **Combined** | **81** | Cut 26/09/2026 for Phyrexian Reclamation. |
 >
 > ### Classification
 >
@@ -28,7 +28,7 @@
 > |----------|-------|
 > | **Colours** | [[05 Colours/White\|White]] |
 > | **Type** | [[04 Types/Creature\|Creature]] · [[04 Types/Human\|Human]] · [[04 Types/Detective\|Detective]] |
-> | **Effects** | [[03 Effects/Draw a Card\|Draw a Card]] · [[03 Effects/Create Token\|Create Token]] · [[03 Effects/ETB\|ETB]] |
+> | **Effects** | [[03 Effects/Draw a Card\|Draw a Card]] · [[03 Effects/Create Token\|Create Token]] · [[03 Effects/ETB\|ETB]] · [[03 Effects/Sacrifice\|Sacrifice]] |
 >
 > ### Extracted Effects
 >
@@ -37,10 +37,11 @@
 > | [[03 Effects/Draw a Card\|Draw a Card]] | It's an artifact with "{2}, Sacrifice this token: Draw a card |
 > | [[03 Effects/Create Token\|Create Token]] | (Create a Clue token |
 > | [[03 Effects/ETB\|ETB]] | When this enters |
+> | [[03 Effects/Sacrifice\|Sacrifice]] | Sacrifice |
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">81<span>/100</span></div><p class="synergy-score-why">1/2 ETB Investigate. Sac fodder and a Clue. General 76 and Deck-Specific 84 produce Combined 81.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">81<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Phyrexian Reclamation. General 76 and Deck-Specific 84 produce Combined 81.</p></div>
 
 ## Oracle Text
 
@@ -50,20 +51,23 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Novice Inspector|Novice Inspector]] is a 1/2 that ETB-makes a Clue. Fodder. Delney doubles the ETB. Crack the Clue later; sac the body to Ayli.
+Novice Inspector is an ETB at {W}. Judge it by whether that ETB serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. Cut 26/09/2026 for Phyrexian Reclamation. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Turn-1 white. Do not crack the Clue the turn you need {1} for Ayli exile or Mentor.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Delney / Mentor**: [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Creatures/Mentor of the Meek|Mentor of the Meek]]
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- Tokens that die are fodder. Ayli exile is not a death — drain pieces do not see it.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -86,7 +90,7 @@
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Investigate"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 84
@@ -94,9 +98,9 @@
 > scryfall_id: 0ad38866-fc5f-4f62-89c1-afc0f50765aa
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

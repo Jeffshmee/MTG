@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Eclipsed Elf`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {B/G}{B/G}{B/G}  
 > **Type:** Creature — Elf Scout  
 > **P/T:** 3/2  
@@ -12,15 +12,15 @@
 >
 > <div class="synergy-bar"><div style="width:84%"></div></div>
 >
-> ![Eclipsed](https://cards.scryfall.io/border_crop/front/9/c/9c8579f3-6125-4f22-b1c2-b7a0cfc50eed.jpg?1783904412)
+> ![Eclipsed Elf](https://cards.scryfall.io/border_crop/front/9/c/9c8579f3-6125-4f22-b1c2-b7a0cfc50eed.jpg)
 >
 > ### Deck Scores
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Finds another Elf or a land. On-plan three-drop. |
-> | Deck-Specific | 86 | Finds another Elf or a land. On-plan three-drop. |
-> | **Combined** | **84** | Finds another Elf or a land. On-plan three-drop. |
+> | General | 80 | Cut 26/09/2026 for Elvish Champion. |
+> | Deck-Specific | 86 | Cut 26/09/2026 for Elvish Champion. |
+> | **Combined** | **84** | Cut 26/09/2026 for Elvish Champion. |
 >
 > ### Classification
 >
@@ -28,47 +28,44 @@
 > |----------|-------|
 > | **Colours** | [[05 Colours/Black\|Black]] · [[05 Colours/Green\|Green]] |
 > | **Type** | [[04 Types/Creature\|Creature]] · [[04 Types/Elf\|Elf]] · [[04 Types/Scout\|Scout]] |
-> | **Effects** | [[03 Effects/ETB\|ETB]] · [[03 Effects/Look at Top\|Look at Top]] |
+> | **Effects** | [[03 Effects/Look at Top\|Look at Top]] · [[03 Effects/ETB\|ETB]] |
 >
 > ### Extracted Effects
 >
 > | Effect | Notes |
 > |--------|-------|
-> | [[03 Effects/ETB\|ETB]] | When this creature enters |
-> | [[03 Effects/Look at Top\|Look at Top]] | Look at the top |
+> | [[03 Effects/Look at Top\|Look at Top]] | Look at Top |
+> | [[03 Effects/ETB\|ETB]] | When this enters |
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">84<span>/100</span></div><p class="synergy-score-why">Finds another Elf or a land. On-plan three-drop. General 80 and Deck-Specific 86 produce Combined 84.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">84<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Elvish Champion. General 80 and Deck-Specific 86 produce Combined 84.</p></div>
 
 ## Oracle Text
 
-[[03 Effects/ETB|When this creature enters]], [[03 Effects/Look at Top|look at the top]] four cards of your library. You may reveal an Elf, Swamp, or Forest card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+[[03 Effects/ETB|When this creature enters, [[03 Effects/Look at Top|look at the top four cards of your library]]]]. You may reveal an Elf, Swamp, or Forest card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 ---
 
 ## Deck Role & Rating
 
-Eclipsed Elf is the owned list's cheap Elf finder. The ETB looks at four and takes an Elf, a Swamp, or a Forest. After Maralen that is a mill plus the next piece; before her it is a land or a dork so you hit {B}{G}{U} on time. If the four contain [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]] or [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], take the one the table requires (see [[06 Strategy/Play Patterns|Play Patterns]]).
+Eclipsed Elf is an ETB at {B/G}{B/G}{B/G}. Judge it by whether that ETB serves [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]'s Elves and Faeries plan. Cut 26/09/2026 for Elvish Champion. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- After Maralen: mill, then take Lathril if you need tokens / Wave fuel / steal count; take Morcant if they have a creature board to blight.
-- If neither legend is in the four, take [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]] (Wave ritual) or [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]] (tokens). Land is last unless you are colour-screwed.
-- He is *not* [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]]. Rhythm puts the creature onto the battlefield. This puts it in hand.
-- Three hybrid mana. Cast him on two lands if you have double hybrid; otherwise he waits.
+- Cast on curve if it advances Elves and Faeries for [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
-- **What you want to see**: [[02 Cards/Creatures/Lathril, Blade of the Elves|Lathril]], [[02 Cards/Creatures/High Perfect Morcant|High Perfect Morcant]], [[02 Cards/Creatures/Elvish Archdruid|Elvish Archdruid]], [[02 Cards/Creatures/Imperious Perfect|Imperious Perfect]]
-- **Hard tutor if the four miss**: [[02 Cards/Sorceries/Nature's Rhythm|Nature's Rhythm]]
 - **Commander**: [[02 Cards/Creatures/Maralen, Fae Ascendant|Maralen, Fae Ascendant]]
+- **Plan**: Elves and Faeries
 
 ## Anti-synergies / Notes
 
-- Four cards, not the deck. A miss is a Forest and you move on.
-- Cannot find Faeries, Banner, or Uprising.
-- Shuffle effects after you look (Wave, Rhythm) do not save a miss you already put on the bottom.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -84,14 +81,14 @@ Eclipsed Elf is the owned list's cheap Elf finder. The ETB looks at four and tak
 > ```yaml
 > name: Eclipsed Elf
 > mana_cost: "{B/G}{B/G}{B/G}"
-> cmc: 3.0
+> cmc: 3
 > type: Creature — Elf Scout
 > power: "3"
 > toughness: "2"
-> colors: [B, G]
-> color_identity: [B, G]
+> colors: ["B", "G"]
+> color_identity: ["B", "G"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 86
@@ -99,9 +96,9 @@ Eclipsed Elf is the owned list's cheap Elf finder. The ETB looks at four and tak
 > scryfall_id: 9c8579f3-6125-4f22-b1c2-b7a0cfc50eed
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-08-17*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + maralen-fae-commander scoring*

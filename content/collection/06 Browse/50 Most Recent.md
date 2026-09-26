@@ -2,10 +2,38 @@
 
 The 50 names most recently added to the collection. Cards with no recorded date use **15/08/2026**. Dates are dd/MM/yyyy.
 
-**216** copies · **50** names.
+**141** copies · **50** names.
 
 | Date added | Name | | Qty |
 |------------|------|--|-----|
+| 26/09/2026 | [**`mtg:Banner of Kinship`**](https://scryfall.com/card/fdn/352) | [[02 Cards/Artifacts/Banner of Kinship\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Bountiful Promenade`**](https://scryfall.com/card/msc/226) | [[02 Cards/Lands/Bountiful Promenade\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Chronicle of Victory`**](https://scryfall.com/card/ecl/253) | [[02 Cards/Artifacts/Chronicle of Victory\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Doomed Traveler`**](https://scryfall.com/card/clu/59) | [[02 Cards/Creatures/Doomed Traveler\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Dragonlord's Servant`**](https://scryfall.com/card/tdc/210) | [[02 Cards/Creatures/Dragonlord's Servant\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Elas il-Kor, Sadistic Pilgrim`**](https://scryfall.com/card/dmu/198) | [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim\|PAGE]] | 2 |
+| 26/09/2026 | [**`mtg:Elvish Champion`**](https://scryfall.com/card/dpa/60) | [[02 Cards/Creatures/Elvish Champion\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Gavony Township`**](https://scryfall.com/card/moc/406) | [[02 Cards/Lands/Gavony Township\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | 2 |
+| 26/09/2026 | [**`mtg:Giant-Sized Flying Ant`**](https://scryfall.com/card/msh/56) | [[02 Cards/Creatures/Giant-Sized Flying Ant\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Gollum, Riddle Master`**](https://scryfall.com/card/hob/70) | [[02 Cards/Creatures/Gollum, Riddle Master\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Hunted Witness`**](https://scryfall.com/card/grn/15) | [[02 Cards/Creatures/Hunted Witness\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Jazal Goldmane`**](https://scryfall.com/card/fdn/497) | [[02 Cards/Creatures/Jazal Goldmane\|PAGE]] | 2 |
+| 26/09/2026 | [**`mtg:Lion Sash`**](https://scryfall.com/card/neo/26) | [[02 Cards/Creatures/Lion Sash\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Man-o'-War`**](https://scryfall.com/card/dmr/58) | [[02 Cards/Creatures/Man-o'-War\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Mana Sculpt`**](https://scryfall.com/card/sos/57) | [[02 Cards/Instants/Mana Sculpt\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Mirri, Weatherlight Duelist`**](https://scryfall.com/card/cmm/347) | [[02 Cards/Creatures/Mirri, Weatherlight Duelist\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Momentary Blink`**](https://scryfall.com/card/dmr/15) | [[02 Cards/Instants/Momentary Blink\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Phyrexian Reclamation`**](https://scryfall.com/card/tdc/194) | [[02 Cards/Enchantments/Phyrexian Reclamation\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Phyrexian Tower`**](https://scryfall.com/card/sld/208) | [[02 Cards/Lands/Phyrexian Tower\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Qasali Pridemage`**](https://scryfall.com/card/2x2/386) | [[02 Cards/Creatures/Qasali Pridemage\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Reluctant Dounguard`**](https://scryfall.com/card/ecl/31) | [[02 Cards/Creatures/Reluctant Dounguard\|PAGE]] | 2 |
+| 26/09/2026 | [**`mtg:Scavenger's Talent`**](https://scryfall.com/card/blb/111) | [[02 Cards/Enchantments/Scavenger's Talent\|PAGE]] | 2 |
+| 26/09/2026 | [**`mtg:Silent Clearing`**](https://scryfall.com/card/mh1/246) | [[02 Cards/Lands/Silent Clearing\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Soul's Attendant`**](https://scryfall.com/card/ltc/520) | [[02 Cards/Creatures/Soul's Attendant\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Starlit Sanctum`**](https://scryfall.com/card/clb/917) | [[02 Cards/Lands/Starlit Sanctum\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Stensian Sanguinist`**](https://scryfall.com/card/soc/29) | [[02 Cards/Creatures/Stensian Sanguinist\|PAGE]] | 1 |
+| 26/09/2026 | [**`mtg:Witch of the Moors`**](https://scryfall.com/card/sld/1722) | [[02 Cards/Creatures/Witch of the Moors\|PAGE]] | 1 |
 | 21/09/2026 | [**`mtg:A.I.M. Labs`**](https://scryfall.com/card/msh/257) | [[02 Cards/Lands/A.I.M. Labs\|PAGE]] | 1 |
 | 21/09/2026 | [**`mtg:A.I.M. Scientists`**](https://scryfall.com/card/msh/44) | [[02 Cards/Creatures/A.I.M. Scientists\|PAGE]] | 1 |
 | 21/09/2026 | [**`mtg:Ad Nauseam`**](https://scryfall.com/card/soa/25) | [[02 Cards/Instants/Ad Nauseam\|PAGE]] | 1 |
@@ -28,31 +56,3 @@ The 50 names most recently added to the collection. Cards with no recorded date 
 | 21/09/2026 | [**`mtg:Kree Commandos`**](https://scryfall.com/card/msh/19) | [[02 Cards/Creatures/Kree Commandos\|PAGE]] | 1 |
 | 21/09/2026 | [**`mtg:Kree Sentinel`**](https://scryfall.com/card/msh/141) | [[02 Cards/Creatures/Kree Sentinel\|PAGE]] | 1 |
 | 21/09/2026 | [**`mtg:Landscape Painter`**](https://scryfall.com/card/sos/56) | [[02 Cards/Creatures/Landscape Painter\|PAGE]] | 4 |
-| 21/09/2026 | [**`mtg:Lluwen, Exchange Student`**](https://scryfall.com/card/sos/199) | [[02 Cards/Creatures/Lluwen, Exchange Student\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Melancholic Poet`**](https://scryfall.com/card/sos/90) | [[02 Cards/Creatures/Melancholic Poet\|PAGE]] | 4 |
-| 21/09/2026 | [**`mtg:Molten Note`**](https://scryfall.com/card/sos/204) | [[02 Cards/Sorceries/Molten Note\|PAGE]] | 4 |
-| 21/09/2026 | [**`mtg:Moonstone, Harsh Mistress`**](https://scryfall.com/card/msh/107) | [[02 Cards/Creatures/Moonstone, Harsh Mistress\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Noxious Newt`**](https://scryfall.com/card/sos/155) | [[02 Cards/Creatures/Noxious Newt\|PAGE]] | 5 |
-| 21/09/2026 | [**`mtg:Pest`**](https://scryfall.com/card/tsos/9) | [[02 Cards/Tokens/Pest\|PAGE]] | 8 |
-| 21/09/2026 | [**`mtg:Pterafractyl`**](https://scryfall.com/card/sos/215) | [[02 Cards/Creatures/Pterafractyl\|PAGE]] | 5 |
-| 21/09/2026 | [**`mtg:Pull from the Grave`**](https://scryfall.com/card/sos/95) | [[02 Cards/Sorceries/Pull from the Grave\|PAGE]] | 3 |
-| 21/09/2026 | [**`mtg:Red Guardian, Super-Soldier`**](https://scryfall.com/card/msh/34) | [[02 Cards/Creatures/Red Guardian, Super-Soldier\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Render Speechless`**](https://scryfall.com/card/sos/220) | [[02 Cards/Sorceries/Render Speechless\|PAGE]] | 6 |
-| 21/09/2026 | [**`mtg:Return the Favor`**](https://scryfall.com/card/soa/47) | [[02 Cards/Instants/Return the Favor\|PAGE]] | 2 |
-| 21/09/2026 | [**`mtg:Rubble Rouser`**](https://scryfall.com/card/sos/128) | [[02 Cards/Creatures/Rubble Rouser\|PAGE]] | 4 |
-| 21/09/2026 | [**`mtg:S.H.I.E.L.D. Spy Kit`**](https://scryfall.com/card/msh/36) | [[02 Cards/Artifacts/S.H.I.E.L.D. Spy Kit\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Savage Land Dinosaur`**](https://scryfall.com/card/msh/185) | [[02 Cards/Creatures/Savage Land Dinosaur\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Soaring Stoneglider`**](https://scryfall.com/card/sos/32) | [[02 Cards/Creatures/Soaring Stoneglider\|PAGE]] | 2 |
-| 21/09/2026 | [**`mtg:Speedball, New Warrior`**](https://scryfall.com/card/msh/227) | [[02 Cards/Creatures/Speedball, New Warrior\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Spellbook Seeker`**](https://scryfall.com/card/sos/68) | [[02 Cards/Creatures/Spellbook Seeker\|PAGE]] | 3 |
-| 21/09/2026 | [**`mtg:Squirrel`**](https://scryfall.com/card/tmsh/14) | [[02 Cards/Tokens/Squirrel\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Stirring Honormancer`**](https://scryfall.com/card/sos/234) | [[02 Cards/Creatures/Stirring Honormancer\|PAGE]] | 2 |
-| 21/09/2026 | [**`mtg:Stone Docent`**](https://scryfall.com/card/sos/36) | [[02 Cards/Creatures/Stone Docent\|PAGE]] | 4 |
-| 21/09/2026 | [**`mtg:Strixhaven Skycoach`**](https://scryfall.com/card/sos/252) | [[02 Cards/Artifacts/Strixhaven Skycoach\|PAGE]] | 3 |
-| 21/09/2026 | [**`mtg:Super Strength`**](https://scryfall.com/card/msh/189) | [[02 Cards/Enchantments/Super Strength\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Suspend Aggression`**](https://scryfall.com/card/sos/236) | [[02 Cards/Instants/Suspend Aggression\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:The Unbeatable Squirrel Girl`**](https://scryfall.com/card/msh/193) | [[02 Cards/Creatures/The Unbeatable Squirrel Girl\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Titan's Grave`**](https://scryfall.com/card/sos/266) | [[02 Cards/Lands/Titan's Grave\|PAGE]] | 5 |
-| 21/09/2026 | [**`mtg:Treasure`**](https://scryfall.com/card/tdsk/15) | [[02 Cards/Tokens/Treasure\|PAGE]] | 35 |
-| 21/09/2026 | [**`mtg:Unliving Legionnaire`**](https://scryfall.com/card/msh/119) | [[02 Cards/Creatures/Unliving Legionnaire\|PAGE]] | 1 |
-| 21/09/2026 | [**`mtg:Vibrant Outburst`**](https://scryfall.com/card/sos/240) | [[02 Cards/Instants/Vibrant Outburst\|PAGE]] | 2 |

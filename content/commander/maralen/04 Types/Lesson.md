@@ -1,5 +1,7 @@
 # Lesson
 
-A spell subtype from Strixhaven-style sets.
+Lesson.
 
-**In this vault:** [[02 Cards/Instants/Origin of Metalbending|Origin of Metalbending]] · [[02 Cards/Sorceries/Germination Practicum|Germination Practicum]]
+Types in this Elves and Faeries list.
+
+**In this vault:** [[02 Cards/Sorceries/Germination Practicum|Germination Practicum]] · [[02 Cards/Instants/Origin of Metalbending|Origin of Metalbending]]

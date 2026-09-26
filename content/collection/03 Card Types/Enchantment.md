@@ -2,7 +2,7 @@
 
 Card type: Enchantment.
 
-**112** copies · **98** names.
+**114** copies · **99** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,9 +13,10 @@ Card type: Enchantment.
 | [**`mtg:Graduation Day`**](https://scryfall.com/card/sos/16) | [[02 Cards/Enchantments/Graduation Day\|PAGE]] | {W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.14 |
 | [**`mtg:Lightwheel Enhancements`**](https://scryfall.com/card/dft/20) | [[02 Cards/Enchantments/Lightwheel Enhancements\|PAGE]] | {W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.03 |
 | [**`mtg:Northern Air Temple`**](https://scryfall.com/card/tla/111) | [[02 Cards/Enchantments/Northern Air Temple\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
+| [**`mtg:Phyrexian Reclamation`**](https://scryfall.com/card/tdc/194) | [[02 Cards/Enchantments/Phyrexian Reclamation\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.07 |
 | [**`mtg:Point the Way`**](https://scryfall.com/card/dft/175) | [[02 Cards/Enchantments/Point the Way\|PAGE]] | {G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:Ringing Strike Mastery`**](https://scryfall.com/card/tdm/53) | [[02 Cards/Enchantments/Ringing Strike Mastery\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.06 |
-| [**`mtg:Scavenger's Talent`**](https://scryfall.com/card/blb/111) | [[02 Cards/Enchantments/Scavenger's Talent\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.82 |
+| [**`mtg:Scavenger's Talent`**](https://scryfall.com/card/blb/111) | [[02 Cards/Enchantments/Scavenger's Talent\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 1.64 |
 | [**`mtg:Vampiric Rites`**](https://scryfall.com/card/fdn/615) | [[02 Cards/Enchantments/Vampiric Rites\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.18 |
 | [**`mtg:Witness Protection`**](https://scryfall.com/card/fdn/168) | [[02 Cards/Enchantments/Witness Protection\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.20 |
 | [**`mtg:Airbender Ascension`**](https://scryfall.com/card/tla/6) | [[02 Cards/Enchantments/Airbender Ascension\|PAGE]] | {1}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 1.13 |

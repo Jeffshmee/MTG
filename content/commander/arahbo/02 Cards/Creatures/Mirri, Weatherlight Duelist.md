@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mirri, Weatherlight Duelist`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {1}{G}{W}  
 > **Type:** Legendary Creature — Cat Warrior  
 > **P/T:** 3/2  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 85 | Line must — this is how the 99 actually does the plan. |
-> | Deck-Specific | 96 | Line must — this is how the 99 actually does the plan. |
-> | **Combined** | **92** | Line must — this is how the 99 actually does the plan. |
+> | General | 85 | Sleeved 26/09/2026. CMM 347 over Dawnwing Marshal FDN 570. |
+> | Deck-Specific | 96 | Sleeved 26/09/2026. CMM 347 over Dawnwing Marshal FDN 570. |
+> | **Combined** | **92** | Sleeved 26/09/2026. CMM 347 over Dawnwing Marshal FDN 570. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">92<span>/100</span></div><p class="synergy-score-why">Line must — this is how the 99 actually does the plan. General 85 and Deck-Specific 96 produce Combined 92.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">92<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. CMM 347 over Dawnwing Marshal FDN 570. General 85 and Deck-Specific 96 produce Combined 92.</p></div>
 
 ## Oracle Text
 
@@ -50,22 +50,21 @@ As long as Mirri is tapped, no more than one creature can attack you each combat
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Mirri, Weatherlight Duelist|Mirri, Weatherlight Duelist]] first-strikes, and when she attacks each opponent can only block with one creature. While she is tapped, only one creature can attack you. Go-wide enabler and pillowfort. [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] sees the nontoken ETB. 🟢 Owned extra on the sideboard — not sleeved.
+Mirri, Weatherlight Duelist ({1}{G}{W}). Sleeved 26/09/2026. CMM 347 over Dawnwing Marshal FDN 570. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan.
 
 ## Play Patterns & Lines
 
-- Attack with the team. They pick one blocker; the rest connect. Leave her tapped to tax their attack.
-- Do not tap her for no reason if you need to block a team.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Combat**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Lands/Secret Tunnel|Secret Tunnel]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- If she is untapped, they can attack with everyone. First strike only helps her, not the team.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
 
 ## Related Pages
 
@@ -88,7 +87,7 @@ As long as Mirri is tapped, no more than one creature can attack you each combat
 > colors: ["G", "W"]
 > color_identity: ["G", "W"]
 > keywords: ["First strike"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 85
 >   deck_specific: 96
@@ -96,9 +95,9 @@ As long as Mirri is tapped, no more than one creature can attack you each combat
 > scryfall_id: db44fe95-6a32-4d6f-a32f-72491381f495
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

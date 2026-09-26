@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Phyrexian Reclamation`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {B}  
 > **Type:** Enchantment  
 >
@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | Deck-Specific | 88 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | **Combined** | **85** | Line prefer — on-plan redundancy or a named dual/anthem. |
+> | General | 80 | Sleeved 26/09/2026. TDC 194 over Novice Inspector MKM 29. |
+> | Deck-Specific | 88 | Sleeved 26/09/2026. TDC 194 over Novice Inspector MKM 29. |
+> | **Combined** | **85** | Sleeved 26/09/2026. TDC 194 over Novice Inspector MKM 29. |
 >
 > ### Classification
 >
@@ -37,7 +37,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Line prefer — on-plan redundancy or a named dual/anthem. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. TDC 194 over Novice Inspector MKM 29. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
 
 ## Oracle Text
 
@@ -47,21 +47,21 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Phyrexian Reclamation|Phyrexian Reclamation]] is recursion, not bounce. Pay {1} and 2 life: return a creature card from your graveyard to your hand. Recast Hinterland, Delney, or a drain. 🟢 Owned extra on the sideboard — not sleeved.
+Phyrexian Reclamation at {B} recurs from the yard. Point it at the engine, not a 1/1. Sleeved 26/09/2026. TDC 194 over Novice Inspector MKM 29.
 
 ## Play Patterns & Lines
 
-- Point it at the engine that died, not a 1/1. Life paid still feeds Pridemate / Blight-Priest / Vito.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Recur**: [[02 Cards/Sorceries/Victimize|Victimize]] *(owned extra)*, [[02 Cards/Sorceries/Reanimate|Reanimate]] *(owned extra)*, [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]]
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- This is not Unsummon. Tokens that died stay dead.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Ayli, Eternal Pilgrim's Lifegain aristocrats plan.
 
 ## Related Pages
 
@@ -84,7 +84,7 @@
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -92,9 +92,9 @@
 > scryfall_id: 10c09b68-1d92-42da-8d4d-0d60453a6aa7
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - enchantment
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

@@ -2,7 +2,7 @@
 
 Set `SOS`. Qty here is copies of this name from this set.
 
-**456** copies · **228** names.
+**458** copies · **229** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -125,6 +125,7 @@ Set `SOS`. Qty here is copies of this name from this set.
 | [**`mtg:Grapple with Death`**](https://scryfall.com/card/sos/192) | [[02 Cards/Sorceries/Grapple with Death\|PAGE]] | {1}{B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.18 |
 | [**`mtg:Imperious Inkmage`**](https://scryfall.com/card/sos/195) | [[02 Cards/Creatures/Imperious Inkmage\|PAGE]] | {1}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 0.12 |
 | [**`mtg:Jadzi, Steward of Fate`**](https://scryfall.com/card/sos/55) | [[02 Cards/Creatures/Jadzi, Steward of Fate\|PAGE]] | {2}{U} // {X}{X}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
+| [**`mtg:Mana Sculpt`**](https://scryfall.com/card/sos/57) | [[02 Cards/Instants/Mana Sculpt\|PAGE]] | {1}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.82 |
 | [**`mtg:Matterbending Mage`**](https://scryfall.com/card/sos/59) | [[02 Cards/Creatures/Matterbending Mage\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Mind Roots`**](https://scryfall.com/card/sos/203) | [[02 Cards/Sorceries/Mind Roots\|PAGE]] | {1}{B}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.06 |
 | [**`mtg:Moseo, Vein's New Dean`**](https://scryfall.com/card/sos/91) | [[02 Cards/Creatures/Moseo, Vein's New Dean\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Skeleton\|Skeleton]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.68 |
@@ -203,7 +204,7 @@ Set `SOS`. Qty here is copies of this name from this set.
 | [**`mtg:Embrace the Paradox`**](https://scryfall.com/card/sos/186) | [[02 Cards/Instants/Embrace the Paradox\|PAGE]] | {3}{G}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.27 |
 | [**`mtg:Emeritus of Ideation`**](https://scryfall.com/card/sos/45) | [[02 Cards/Creatures/Emeritus of Ideation\|PAGE]] | {3}{U}{U} // {U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Instant\|Instant]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 7.18 |
 | [**`mtg:Fractal Tender`**](https://scryfall.com/card/sos/190) | [[02 Cards/Creatures/Fractal Tender\|PAGE]] | {3}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.10 |
-| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 6.43 |
+| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 13.58 |
 | [**`mtg:Heated Argument`**](https://scryfall.com/card/sos/118) | [[02 Cards/Instants/Heated Argument\|PAGE]] | {4}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.06 |
 | [**`mtg:Muse's Encouragement`**](https://scryfall.com/card/sos/61) | [[02 Cards/Instants/Muse's Encouragement\|PAGE]] | {4}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.12 |
 | [**`mtg:Orysa, Tide Choreographer`**](https://scryfall.com/card/sos/62) | [[02 Cards/Creatures/Orysa, Tide Choreographer\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.06 |

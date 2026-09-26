@@ -1,5 +1,7 @@
 # Soldier
 
-Soldier is a card type or subtype on cards in this vault.
+Soldier.
 
-**In this vault:** [[02 Cards/Creatures/Scion of Oona|Scion of Oona]]
+Types in this Elves and Faeries list.
+
+**In this vault:** [[02 Cards/Creatures/Scion of Oona|Scion of Oona]] · [[02 Cards/Creatures/Thranduil's Company|Thranduil's Company]]

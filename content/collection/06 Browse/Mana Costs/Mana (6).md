@@ -2,7 +2,7 @@
 
 Cards whose mana value is 6.
 
-**73** copies · **59** names.
+**74** copies · **60** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -16,6 +16,7 @@ Cards whose mana value is 6.
 | [**`mtg:Bolrac-Clan Basher`**](https://scryfall.com/card/mkm/112) | [[02 Cards/Creatures/Bolrac-Clan Basher\|PAGE]] | {4}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cyclops\|Cyclops]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.05 |
 | [**`mtg:Bottomless Pool`**](https://scryfall.com/card/dsk/43) | [[02 Cards/Enchantments/Bottomless Pool\|PAGE]] | {U} // {4}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
 | [**`mtg:Canyon Crawler`**](https://scryfall.com/card/tla/90) | [[02 Cards/Creatures/Canyon Crawler\|PAGE]] | {4}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spider\|Spider]] [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.08 |
+| [**`mtg:Chronicle of Victory`**](https://scryfall.com/card/ecl/253) | [[02 Cards/Artifacts/Chronicle of Victory\|PAGE]] | {6} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 17.03 |
 | [**`mtg:Colossus of the Blood Age`**](https://scryfall.com/card/sos/181) | [[02 Cards/Creatures/Colossus of the Blood Age\|PAGE]] | {4}{R}{W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.18 |
 | [**`mtg:Confiscate`**](https://scryfall.com/card/fdn/709) | [[02 Cards/Enchantments/Confiscate\|PAGE]] | {4}{U}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |
 | [**`mtg:Deadeye Navigator`**](https://scryfall.com/card/sld/902) | [[02 Cards/Creatures/Deadeye Navigator\|PAGE]] | {4}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 2.40 |

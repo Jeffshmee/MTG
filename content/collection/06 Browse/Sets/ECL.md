@@ -2,7 +2,7 @@
 
 Set `ECL`. Qty here is copies of this name from this set.
 
-**116** copies · **81** names.
+**118** copies · **82** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -59,7 +59,7 @@ Set `ECL`. Qty here is copies of this name from this set.
 | [**`mtg:Mornsong Aria`**](https://scryfall.com/card/ecl/111) | [[02 Cards/Enchantments/Mornsong Aria\|PAGE]] | {1}{B}{B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.33 |
 | [**`mtg:Noggle Robber`**](https://scryfall.com/card/ecl/237) | [[02 Cards/Creatures/Noggle Robber\|PAGE]] | {1}{R/G}{R/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Noggle\|Noggle]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Protective Response`**](https://scryfall.com/card/ecl/29) | [[02 Cards/Instants/Protective Response\|PAGE]] | {2}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.12 |
-| [**`mtg:Reluctant Dounguard`**](https://scryfall.com/card/ecl/31) | [[02 Cards/Creatures/Reluctant Dounguard\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kithkin\|Kithkin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
+| [**`mtg:Reluctant Dounguard`**](https://scryfall.com/card/ecl/31) | [[02 Cards/Creatures/Reluctant Dounguard\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kithkin\|Kithkin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.08 |
 | [**`mtg:Silvergill Peddler`**](https://scryfall.com/card/ecl/70) | [[02 Cards/Creatures/Silvergill Peddler\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Sting-Slinger`**](https://scryfall.com/card/ecl/161) | [[02 Cards/Creatures/Sting-Slinger\|PAGE]] | {2}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Thirst for Identity`**](https://scryfall.com/card/ecl/79) | [[02 Cards/Instants/Thirst for Identity\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.15 |
@@ -83,6 +83,7 @@ Set `ECL`. Qty here is copies of this name from this set.
 | [**`mtg:Raiding Schemes`**](https://scryfall.com/card/ecl/239) | [[02 Cards/Enchantments/Raiding Schemes\|PAGE]] | {3}{R}{G} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.42 |
 | [**`mtg:Rooftop Percher`**](https://scryfall.com/card/ecl/2) | [[02 Cards/Creatures/Rooftop Percher\|PAGE]] | {5} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.10 |
 | [**`mtg:Unexpected Assistance`**](https://scryfall.com/card/ecl/80) | [[02 Cards/Instants/Unexpected Assistance\|PAGE]] | {3}{U}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
+| [**`mtg:Chronicle of Victory`**](https://scryfall.com/card/ecl/253) | [[02 Cards/Artifacts/Chronicle of Victory\|PAGE]] | {6} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 17.03 |
 | [**`mtg:Shinestriker`**](https://scryfall.com/card/ecl/68) | [[02 Cards/Creatures/Shinestriker\|PAGE]] | {4}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.15 |
 | [**`mtg:Sun-Dappled Celebrant`**](https://scryfall.com/card/ecl/37) | [[02 Cards/Creatures/Sun-Dappled Celebrant\|PAGE]] | {4}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Treefolk\|Treefolk]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.06 |
 | [**`mtg:Wanderwine Farewell`**](https://scryfall.com/card/ecl/83) | [[02 Cards/Sorceries/Wanderwine Farewell\|PAGE]] | {5}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Merfolk\|Merfolk]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.11 |

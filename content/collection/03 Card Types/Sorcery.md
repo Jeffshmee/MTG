@@ -2,7 +2,7 @@
 
 Card type: Sorcery.
 
-**282** copies · **188** names.
+**284** copies · **189** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -83,6 +83,7 @@ Card type: Sorcery.
 | [**`mtg:Shared Roots`**](https://scryfall.com/card/soa/58) | [[02 Cards/Sorceries/Shared Roots\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.50 |
 | [**`mtg:Sign in Blood`**](https://scryfall.com/card/dsc/156) | [[02 Cards/Sorceries/Sign in Blood\|PAGE]] | {B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.81 |
 | [**`mtg:Stargaze`**](https://scryfall.com/card/blb/114) | [[02 Cards/Sorceries/Stargaze\|PAGE]] | {X}{B}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.21 |
+| [**`mtg:Stensian Sanguinist`**](https://scryfall.com/card/soc/29) | [[02 Cards/Creatures/Stensian Sanguinist\|PAGE]] | {1}{B} // {X}{B}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 5.61 |
 | [**`mtg:Three Visits`**](https://scryfall.com/card/msc/181) | [[02 Cards/Sorceries/Three Visits\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 4.21 |
 | [**`mtg:Tome Blast`**](https://scryfall.com/card/sos/135) | [[02 Cards/Sorceries/Tome Blast\|PAGE]] | {1}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.16 |
 | [**`mtg:True Ancestry`**](https://scryfall.com/card/tla/199) | [[02 Cards/Sorceries/True Ancestry\|PAGE]] | {1}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.20 |
@@ -161,7 +162,7 @@ Card type: Sorcery.
 | [**`mtg:Disruptive Stormbrood`**](https://scryfall.com/card/tdm/178) | [[02 Cards/Creatures/Disruptive Stormbrood\|PAGE]] | {4}{G} // {1}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.10 |
 | [**`mtg:Eliminate the Competition`**](https://scryfall.com/card/tdc/179) | [[02 Cards/Sorceries/Eliminate the Competition\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.14 |
 | [**`mtg:Essence Drain`**](https://scryfall.com/card/m13/93) | [[02 Cards/Sorceries/Essence Drain\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
-| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 6.43 |
+| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 13.58 |
 | [**`mtg:Incinerating Blast`**](https://scryfall.com/card/fdn/90) | [[02 Cards/Sorceries/Incinerating Blast\|PAGE]] | {4}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.06 |
 | [**`mtg:Mammoth Bellow`**](https://scryfall.com/card/tdm/205) | [[02 Cards/Sorceries/Mammoth Bellow\|PAGE]] | {2}{G}{U}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Overrun`**](https://scryfall.com/card/fdn/230) | [[02 Cards/Sorceries/Overrun\|PAGE]] | {2}{G}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.30 |

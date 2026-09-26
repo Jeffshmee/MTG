@@ -2,7 +2,7 @@
 
 Creature type: Elf.
 
-**127** copies · **82** names.
+**128** copies · **83** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -44,6 +44,7 @@ Creature type: Elf.
 | [**`mtg:Elrond, Moon-Reader`**](https://scryfall.com/card/hob/36) | [[02 Cards/Creatures/Elrond, Moon-Reader\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.86 |
 | [**`mtg:Elven Raft-Steerer`**](https://scryfall.com/card/hob/37) | [[02 Cards/Creatures/Elven Raft-Steerer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Pilot\|Pilot]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Elvish Archdruid`**](https://scryfall.com/card/fdn/219) | [[02 Cards/Creatures/Elvish Archdruid\|PAGE]] | {1}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 1.88 |
+| [**`mtg:Elvish Champion`**](https://scryfall.com/card/dpa/60) | [[02 Cards/Creatures/Elvish Champion\|PAGE]] | {1}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 9.72 |
 | [**`mtg:Elvish Rejuvenator`**](https://scryfall.com/card/m3c/226) | [[02 Cards/Creatures/Elvish Rejuvenator\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Emil, Vastlands Roamer`**](https://scryfall.com/card/sos/146) | [[02 Cards/Creatures/Emil, Vastlands Roamer\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
 | [**`mtg:Fierce Empath`**](https://scryfall.com/card/fdn/636) | [[02 Cards/Creatures/Fierce Empath\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |

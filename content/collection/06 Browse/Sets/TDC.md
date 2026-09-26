@@ -2,7 +2,7 @@
 
 Set `TDC`. Qty here is copies of this name from this set.
 
-**93** copies · **77** names.
+**95** copies · **79** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -21,6 +21,7 @@ Set `TDC`. Qty here is copies of this name from this set.
 | [**`mtg:Vault of the Archangel`**](https://scryfall.com/card/tdc/410) | [[02 Cards/Lands/Vault of the Archangel\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 2 | 2.92 |
 | [**`mtg:Windbrisk Heights`**](https://scryfall.com/card/tdc/411) | [[02 Cards/Lands/Windbrisk Heights\|PAGE]] | — | [[03 Card Types/Land\|Land]] | [[02 Cards/Lands/01 - Summary\|Land]] {W} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.22 |
 | [**`mtg:Dragonmaster Outcast`**](https://scryfall.com/card/tdc/211) | [[02 Cards/Creatures/Dragonmaster Outcast\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.33 |
+| [**`mtg:Phyrexian Reclamation`**](https://scryfall.com/card/tdc/194) | [[02 Cards/Enchantments/Phyrexian Reclamation\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.07 |
 | [**`mtg:Ponder`**](https://scryfall.com/card/tdc/159) | [[02 Cards/Sorceries/Ponder\|PAGE]] | {U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 2.63 |
 | [**`mtg:Skullclamp`**](https://scryfall.com/card/tdc/103) | [[02 Cards/Artifacts/Skullclamp\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 5.26 |
 | [**`mtg:Tempt with Vengeance`**](https://scryfall.com/card/tdc/239) | [[02 Cards/Sorceries/Tempt with Vengeance\|PAGE]] | {X}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.27 |
@@ -31,6 +32,7 @@ Set `TDC`. Qty here is copies of this name from this set.
 | [**`mtg:Blade of Selves`**](https://scryfall.com/card/tdc/313) | [[02 Cards/Artifacts/Blade of Selves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 4.80 |
 | [**`mtg:Deadly Dispute`**](https://scryfall.com/card/tdc/177) | [[02 Cards/Instants/Deadly Dispute\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.49 |
 | [**`mtg:Despark`**](https://scryfall.com/card/tdc/284) | [[02 Cards/Instants/Despark\|PAGE]] | {W}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.32 |
+| [**`mtg:Dragonlord's Servant`**](https://scryfall.com/card/tdc/210) | [[02 Cards/Creatures/Dragonlord's Servant\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.20 |
 | [**`mtg:Feed the Swarm`**](https://scryfall.com/card/soa/29) | [[02 Cards/Sorceries/Feed the Swarm\|PAGE]] | {1}{B} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
 | [**`mtg:Grand Crescendo`**](https://scryfall.com/card/tdc/118) | [[02 Cards/Instants/Grand Crescendo\|PAGE]] | {X}{W}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.69 |
 | [**`mtg:Grenzo, Havoc Raiser`**](https://scryfall.com/card/tdc/216) | [[02 Cards/Creatures/Grenzo, Havoc Raiser\|PAGE]] | {R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.48 |

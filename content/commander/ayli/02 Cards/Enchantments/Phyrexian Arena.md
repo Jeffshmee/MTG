@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Phyrexian Arena`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{B}{B}  
 > **Type:** Enchantment  
 >
@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 26/09/2026 for Scavenger's Talent. |
+> | Deck-Specific | 78 | Cut 26/09/2026 for Scavenger's Talent. |
+> | **Combined** | **77** | Cut 26/09/2026 for Scavenger's Talent. |
 >
 > ### Classification
 >
@@ -33,11 +33,11 @@
 >
 > | Effect | Notes |
 > |--------|-------|
-> | [[03 Effects/Draw a Card\|Draw a Card]] | At the beginning of your upkeep, you draw a card and you lose 1 life |
+> | [[03 Effects/Draw a Card\|Draw a Card]] | At the beginning of your upkeep, you draw a card and lose 1 life |
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Scavenger's Talent. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -47,22 +47,23 @@ At the beginning of your upkeep, you [[03 Effects/Draw a Card|draw a card]] and 
 
 ## Deck Role & Rating
 
-[[02 Cards/Enchantments/Phyrexian Arena|Phyrexian Arena]] at {1}{B}{B}: at the beginning of your upkeep, you draw a card and you lose 1 life. Draw is for hitting lands and fodder, not a blink loop. Live in the sleeved pile.
+Phyrexian Arena ({1}{B}{B}). Cut 26/09/2026 for Scavenger's Talent. Judge it by whether it serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Do not spend the last {1} on draw if Ayli exile is up.
-- Cast it when it makes a body, gains life, pays off a death, or answers the thing that stops Ayli.
-- Do not sac Delney, Hinterland, or Vito to the first outlet.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life toward +10**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]]
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- Sleeved 16/09/2026.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -85,7 +86,7 @@ At the beginning of your upkeep, you [[03 Effects/Draw a Card|draw a card]] and 
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -93,9 +94,9 @@ At the beginning of your upkeep, you [[03 Effects/Draw a Card|draw a card]] and 
 > scryfall_id: 0784b6f0-9ebf-43d2-ba0f-a6bc93ba0c48
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - enchantment
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

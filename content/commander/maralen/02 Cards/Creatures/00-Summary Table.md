@@ -2,7 +2,7 @@
 
 Every **Creatures** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**64** copies · **64** names.
+**66** copies · **66** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -38,6 +38,7 @@ Every **Creatures** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Circle of Dreams Druid`**](https://scryfall.com/card/afr/176) | [[02 Cards/Creatures/Circle of Dreams Druid\|PAGE]] | {G}{G}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | 3 | 1 | 9.21 |
 | [**`mtg:Eclipsed Elf`**](https://scryfall.com/card/ecl/218) | [[02 Cards/Creatures/Eclipsed Elf\|PAGE]] | {B/G}{B/G}{B/G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Scout\|Scout]] | [[05 Colours/Black\|Black]] [[05 Colours/Green\|Green]] | 3 | 1 | 0.13 |
 | [**`mtg:Elvish Archdruid`**](https://scryfall.com/card/hoc/204) | [[02 Cards/Creatures/Elvish Archdruid\|PAGE]] | {1}{G}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | 3 | 1 | 0.47 |
+| [**`mtg:Elvish Champion`**](https://scryfall.com/card/10e/261) | [[02 Cards/Creatures/Elvish Champion\|PAGE]] | {1}{G}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] | [[05 Colours/Green\|Green]] | 3 | 1 | 9.72 |
 | [**`mtg:Elvish Rejuvenator`**](https://scryfall.com/card/otc/191) | [[02 Cards/Creatures/Elvish Rejuvenator\|PAGE]] | {2}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | 3 | 1 | 0.07 |
 | [**`mtg:Formidable Speaker`**](https://scryfall.com/card/ecl/176) | [[02 Cards/Creatures/Formidable Speaker\|PAGE]] | {2}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Druid\|Druid]] | [[05 Colours/Green\|Green]] | 3 | 1 | 0.00 |
 | [**`mtg:Glamermite`**](https://scryfall.com/card/ecl/50) | [[02 Cards/Creatures/Glamermite\|PAGE]] | {2}{U} | [[04 Types/Creature\|Creature]] [[04 Types/Faerie\|Faerie]] [[04 Types/Rogue\|Rogue]] | [[05 Colours/Blue\|Blue]] | 3 | 1 | 0.02 |
@@ -70,3 +71,4 @@ Every **Creatures** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | {2}{B}{G}{U} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Faerie\|Faerie]] [[04 Types/Noble\|Noble]] | [[05 Colours/Black\|Black]] [[05 Colours/Green\|Green]] [[05 Colours/Blue\|Blue]] | 5 | 1 | 0.49 |
 | [**`mtg:Springmantle Cleric`**](https://scryfall.com/card/znr/205) | [[02 Cards/Creatures/Springmantle Cleric\|PAGE]] | {4}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Cleric\|Cleric]] | [[05 Colours/Green\|Green]] | 5 | 1 | 0.03 |
 | [**`mtg:Thranduil the Strategist`**](https://scryfall.com/card/hoc/106) | [[02 Cards/Creatures/Thranduil the Strategist\|PAGE]] | {3}{G}{U} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Noble\|Noble]] | [[05 Colours/Green\|Green]] [[05 Colours/Blue\|Blue]] | 5 | 1 | 0.00 |
+| [**`mtg:Thranduil, the Elvenking`**](https://scryfall.com/card/hob/167) | [[02 Cards/Creatures/Thranduil, the Elvenking\|PAGE]] | {2}{B}{G}{U} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Noble\|Noble]] | [[05 Colours/Black\|Black]] [[05 Colours/Green\|Green]] [[05 Colours/Blue\|Blue]] | 5 | 1 | 15.41 |

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Prowling Caracal`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Cat  
 > **P/T:** 3/1  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 26/09/2026 for Jazal Goldmane. |
+> | Deck-Specific | 78 | Cut 26/09/2026 for Jazal Goldmane. |
+> | **Combined** | **77** | Cut 26/09/2026 for Jazal Goldmane. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Jazal Goldmane. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -48,20 +48,23 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Prowling Caracal|Prowling Caracal]] is a 3/1 Cat two-drop. Body. First Fang sees it.
+Prowling Caracal ({1}{W}). Cut 26/09/2026 for Jazal Goldmane. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Turn 2 if First Fang is not in hand. Turn 3 after First Fang for a token.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Cat**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -84,7 +87,7 @@
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -92,9 +95,9 @@
 > scryfall_id: 1e689e4a-fc54-46f4-b0c5-c0e65d88340e
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

@@ -1,5 +1,7 @@
 # Dies Trigger
 
-An ability that triggers when the creature dies.
+An ability that triggers when a creature dies.
 
-**In this vault:** [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]] · [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]] · [[02 Cards/Creatures/Tegwyll, Duke of Splendor|Tegwyll, Duke of Splendor]]
+Effects that show up in Maralen, Fae Ascendant's Elves and Faeries list.
+
+**In this vault:** [[02 Cards/Creatures/Morcant's Loyalist|Morcant's Loyalist]] · [[02 Cards/Creatures/Tegwyll, Duke of Splendor|Tegwyll, Duke of Splendor]]

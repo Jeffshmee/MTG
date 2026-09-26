@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Adeline, Resplendent Cathar`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}{W}  
 > **Type:** Legendary Creature — Human Knight  
 > **P/T:** */4  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 26/09/2026 for Elas il-Kor, Sadistic Pilgrim. |
+> | Deck-Specific | 78 | Cut 26/09/2026 for Elas il-Kor, Sadistic Pilgrim. |
+> | **Combined** | **77** | Cut 26/09/2026 for Elas il-Kor, Sadistic Pilgrim. |
 >
 > ### Classification
 >
@@ -39,7 +39,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Elas il-Kor, Sadistic Pilgrim. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -51,22 +51,24 @@ Whenever you attack, for each opponent, [[03 Effects/Create Token|create a 1/1 w
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Adeline, Resplendent Cathar|Adeline, Resplendent Cathar]] is a token engine, not a beater you lead. Power equals creature count; whenever you attack, each opponent gets a tapped-and-attacking 1/1 Human. Those Humans are fodder for Ayli and ETBs for [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]]. Delney does not double Adeline (power is usually over 2 once the board exists).
+Adeline, Resplendent Cathar ({1}{W}{W}). Cut 26/09/2026 for Elas il-Kor, Sadistic Pilgrim. Judge it by whether it serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Attack with anything — Adeline triggers on you attacking, not on her attacking. Sit her back if the table is armed.
-- The Humans ETB attacking; Hinterland still gains. Sac them next turn, not mid-combat unless you need the life.
-- Do not swing her into a board that eats legends. The tokens are the card.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Tokens / life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]]
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- The Humans are attacking — they will die in combat. That is on-plan if Bastion or Bloodwitch is in play.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
+- Tokens that leave cease. Do not expect a token back after bounce or exile.
 
 ## Related Pages
 
@@ -89,7 +91,7 @@ Whenever you attack, for each opponent, [[03 Effects/Create Token|create a 1/1 w
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Vigilance"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -97,9 +99,9 @@ Whenever you attack, for each opponent, [[03 Effects/Create Token|create a 1/1 w
 > scryfall_id: 1de30c12-2011-495a-be25-f7a46b23e142
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

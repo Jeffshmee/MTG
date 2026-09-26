@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Chronicle of Victory`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {6}  
 > **Type:** Legendary Artifact  
 >
@@ -89,7 +89,7 @@ Whenever you cast a spell of the chosen type, [[03 Effects/Draw a Card|draw a ca
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -97,7 +97,7 @@ Whenever you cast a spell of the chosen type, [[03 Effects/Draw a Card|draw a ca
 > scryfall_id: b3c2d68d-690b-41e7-99ed-2d20c7e0a9b4
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - artifact
 > ```
 

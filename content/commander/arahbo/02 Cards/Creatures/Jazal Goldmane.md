@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Jazal Goldmane`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {2}{W}{W}  
 > **Type:** Legendary Creature — Cat Warrior  
 > **P/T:** 4/4  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | Deck-Specific | 88 | Line prefer — on-plan redundancy or a named dual/anthem. |
-> | **Combined** | **85** | Line prefer — on-plan redundancy or a named dual/anthem. |
+> | General | 80 | Sleeved 26/09/2026. Second FDN 497 over Prowling Caracal M20 309. Zurgo keeps its FDN 497. |
+> | Deck-Specific | 88 | Sleeved 26/09/2026. Second FDN 497 over Prowling Caracal M20 309. Zurgo keeps its FDN 497. |
+> | **Combined** | **85** | Sleeved 26/09/2026. Second FDN 497 over Prowling Caracal M20 309. Zurgo keeps its FDN 497. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Line prefer — on-plan redundancy or a named dual/anthem. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. Second FDN 497 over Prowling Caracal M20 309. Zurgo keeps its FDN 497. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
 
 ## Oracle Text
 
@@ -49,22 +49,21 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Jazal Goldmane|Jazal Goldmane]] is first strike and {3}{W}{W}: attacking creatures get +X/+X where X is the number attacking. Go-wide closer. Activate after blockers if you can. Not a lord that sits there — it is a mana sink. 🟢 Owned extra on the sideboard — not sleeved.
+Jazal Goldmane ({2}{W}{W}). Sleeved 26/09/2026. Second FDN 497 over Prowling Caracal M20 309. Zurgo keeps its FDN 497. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan.
 
 ## Play Patterns & Lines
 
-- Attack with many Cats, activate, connect. Banner / Regal already on the team.
-- Do not activate into a wrath on the stack.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Go-wide**: [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]], [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]], [[02 Cards/Creatures/Leonin Warleader|Leonin Warleader]] *(owned extra)*
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Five mana to cast, five more to activate. Empty-board Jazal is a 4/4 first strike.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
 
 ## Related Pages
 
@@ -87,7 +86,7 @@
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["First strike"]
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -95,9 +94,9 @@
 > scryfall_id: 5aa8f635-c638-4207-8631-f6b5185f8696
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

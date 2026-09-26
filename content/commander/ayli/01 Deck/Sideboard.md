@@ -12,33 +12,34 @@ legality: commander
 1 Emeria, the Sky Ruin
 1 Evolving Wilds
 1 Hobbit Hole
-1 Phyrexian Tower
-1 Silent Clearing
 1 Starlit Sanctum
+1 Culling the Weak
 1 Doomed Traveler
+1 Hinterland Sanctifier
 1 Hunted Witness
-1 Phyrexian Reclamation
+1 Novice Inspector
 1 Slice from the Shadows
-1 Soul's Attendant
-1 Viscera Seer
 1 Despark
-1 Elas il-Kor, Sadistic Pilgrim
 1 Exsanguinate
 1 Kalastria Highborn
 1 Knight of the White Orchid
 1 Resolute Reinforcements
+1 Adeline, Resplendent Cathar
 1 Anguished Unmaking
 1 Inspiring Overseer
 1 Lingering Souls
 1 Midnight Reaper
 1 Moonrise Cleric
+1 Phyrexian Arena
 1 Victimize
 1 Woe Strider
+1 Massacre Wurm
 
 # Ordered
 
 # Wishlist
 1 Marsh Flats
+1 Viscera Seer
 1 Cruel Celebrant
 1 Generous Gift
 ```
@@ -46,7 +47,7 @@ legality: commander
 ---
 
 *Source: `ayli-pilgrim/07 Assets/sideboard.md`*
-*Last synced: 2026-09-21 (Ad Nauseam)*
+*Last synced: 2026-09-26 (26-09 to-do)*
 
 ---
 
@@ -66,6 +67,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
+> [!info] **`mtg:Hinterland Sanctifier`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Creatures/Hinterland Sanctifier|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
 > [!info] **`mtg:Hunted Witness`**
 > **77** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:77%"></div></div>
@@ -74,21 +83,24 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
-> [!info] **`mtg:Soul's Attendant`**
-> **92** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:92%"></div></div>
+> [!info] **`mtg:Novice Inspector`**
+> **81** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:81%"></div></div>
 >
-> [[02 Cards/Creatures/Soul's Attendant|Open local page →]]
+> [[02 Cards/Creatures/Novice Inspector|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Viscera Seer`**
-> **92** / 100 · 🟢 Owned
+> **92** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:92%"></div></div>
 >
 > [[02 Cards/Creatures/Viscera Seer|Open local page →]]
 >
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+> > [!note]- Possible Cuts
+> > - [[02 Cards/Creatures/Gollum, Riddle Master|Gollum, Riddle Master]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
+> > - [[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+> > - [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
 
 > [!info] **`mtg:Cruel Celebrant`**
 > **92** / 100 · ⚪ Wishlist
@@ -97,17 +109,9 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > [[02 Cards/Creatures/Cruel Celebrant|Open local page →]]
 >
 > > [!note]- Possible Cuts
+> > - [[02 Cards/Creatures/Gollum, Riddle Master|Gollum, Riddle Master]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
 > > - [[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
 > > - [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
-> > - [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
-
-> [!info] **`mtg:Elas il-Kor, Sadistic Pilgrim`**
-> **92** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:92%"></div></div>
->
-> [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Kalastria Highborn`**
 > **78** / 100 · 🟢 Owned
@@ -130,6 +134,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
 > [[02 Cards/Creatures/Resolute Reinforcements|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Adeline, Resplendent Cathar`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Creatures/Adeline, Resplendent Cathar|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -165,7 +177,23 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
+> [!info] **`mtg:Massacre Wurm`**
+> **87** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:87%"></div></div>
+>
+> [[02 Cards/Creatures/Massacre Wurm|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
 ### Instants
+> [!info] **`mtg:Culling the Weak`**
+> **85** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:85%"></div></div>
+>
+> [[02 Cards/Instants/Culling the Weak|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
 > [!info] **`mtg:Slice from the Shadows`**
 > **75** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:75%"></div></div>
@@ -224,11 +252,11 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Enchantments
-> [!info] **`mtg:Phyrexian Reclamation`**
-> **85** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:85%"></div></div>
+> [!info] **`mtg:Phyrexian Arena`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> [[02 Cards/Enchantments/Phyrexian Reclamation|Open local page →]]
+> [[02 Cards/Enchantments/Phyrexian Arena|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -274,22 +302,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > > [!note]- Possible Cuts
 > > - [[02 Cards/Lands/Plains|Plains]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
 > > - [[02 Cards/Lands/Swamp|Swamp]] **70** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:70%"></div></div>
-
-> [!info] **`mtg:Phyrexian Tower`**
-> **80** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:80%"></div></div>
->
-> [[02 Cards/Lands/Phyrexian Tower|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
-> [!info] **`mtg:Silent Clearing`**
-> **80** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:80%"></div></div>
->
-> [[02 Cards/Lands/Silent Clearing|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Starlit Sanctum`**
 > **80** / 100 · 🟢 Owned

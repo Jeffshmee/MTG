@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**413** copies · **144** names.
+**418** copies · **149** names.
 
 ```decklist
 group: auto
@@ -29,6 +29,7 @@ legality: commander
 3 Blossoming Sands
 2 Bojuka Bog
 1 Boros Guildgate
+1 Bountiful Promenade
 1 Branchloft Pathway // Boulderloft Pathway
 1 Breeding Pool
 1 Canopy Vista
@@ -62,6 +63,7 @@ legality: commander
 1 Fortified Village
 3 Forum of Amity
 1 Gathering Place
+1 Gavony Township
 1 Glacial Fortress
 3 Goblin-town
 1 Godless Shrine
@@ -99,6 +101,7 @@ legality: commander
 3 Path of Ancestry
 1 Peculiar Lighthouse
 1 Petrified Hamlet
+1 Phyrexian Tower
 35 Plains
 1 Port Town
 1 Prairie Stream
@@ -124,10 +127,12 @@ legality: commander
 1 Shambling Vent
 1 Shattered Landscape
 2 Shattered Sanctum
+1 Silent Clearing
 1 Simic Guildgate
 1 Skycoach Waypoint
 1 Smoldering Marsh
 3 Spectacle Summit
+1 Starlit Sanctum
 1 Sundown Pass
 1 Sunpetal Grove
 43 Swamp

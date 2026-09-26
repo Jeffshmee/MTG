@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Culling the Weak`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {B}  
 > **Type:** Instant  
 >
@@ -17,9 +17,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 84 | Black ritual off a fodder body. |
-> | Deck-Specific | 86 | Black ritual off a fodder body. |
-> | **Combined** | **85** | Black ritual off a fodder body. |
+> | General | 84 | Cut 26/09/2026 for Gollum, Riddle Master. |
+> | Deck-Specific | 86 | Cut 26/09/2026 for Gollum, Riddle Master. |
+> | **Combined** | **85** | Cut 26/09/2026 for Gollum, Riddle Master. |
 >
 > ### Classification
 >
@@ -27,17 +27,18 @@
 > |----------|-------|
 > | **Colours** | [[05 Colours/Black\|Black]] |
 > | **Type** | [[04 Types/Instant\|Instant]] |
-> | **Effects** | [[03 Effects/Add Mana\|Add Mana]] |
+> | **Effects** | [[03 Effects/Add Mana\|Add Mana]] · [[03 Effects/Sacrifice\|Sacrifice]] |
 >
 > ### Extracted Effects
 >
 > | Effect | Notes |
 > |--------|-------|
 > | [[03 Effects/Add Mana\|Add Mana]] | {T}: Add mana |
+> | [[03 Effects/Sacrifice\|Sacrifice]] | Sacrifice |
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Black ritual off a fodder body. General 84 and Deck-Specific 86 produce Combined 85.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Gollum, Riddle Master. General 84 and Deck-Specific 86 produce Combined 85.</p></div>
 
 ## Oracle Text
 
@@ -48,22 +49,23 @@ As an additional cost to cast this spell, sacrifice a creature.
 
 ## Deck Role & Rating
 
-[[02 Cards/Instants/Culling the Weak|Culling the Weak]] is the ritual in this pile. Sac a creature, add {B}{B}{B}{B}. Ramp is otherwise lands only. Hold it to dump Delney plus a spell, not to turn-1 nothing.
+Culling the Weak is ramp at {B}. Cut 26/09/2026 for Gollum, Riddle Master. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Sac Sage / Inspector / a token, not Delney or Hinterland.
-- The death feeds Bloodwitch if she is in play.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Fodder**: [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Novice Inspector|Novice Inspector]], [[02 Cards/Creatures/Resolute Reinforcements|Resolute Reinforcements]]
-- **Death**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]]
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- Sacing Ayli to it is a loss. Sacing Delney to it is usually a loss.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -86,7 +88,7 @@ As an additional cost to cast this spell, sacrifice a creature.
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 84
 >   deck_specific: 86
@@ -94,9 +96,9 @@ As an additional cost to cast this spell, sacrifice a creature.
 > scryfall_id: 6c84aa77-bcb0-4a59-b94c-8cb9cbf6af76
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - instant
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

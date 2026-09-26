@@ -2,7 +2,7 @@
 
 Cards whose mana value is 4.
 
-**267** copies · **206** names.
+**269** copies · **207** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -85,6 +85,7 @@ Cards whose mana value is 4.
 | [**`mtg:Garna, Bloodfist of Keld`**](https://scryfall.com/card/fdn/658) | [[02 Cards/Creatures/Garna, Bloodfist of Keld\|PAGE]] | {1}{B}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.16 |
 | [**`mtg:Gathering Stone`**](https://scryfall.com/card/ecl/257) | [[02 Cards/Artifacts/Gathering Stone\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.50 |
 | [**`mtg:Getaway Barrel`**](https://scryfall.com/card/hob/98) | [[02 Cards/Artifacts/Getaway Barrel\|PAGE]] | {3}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
+| [**`mtg:Giant-Sized Flying Ant`**](https://scryfall.com/card/msh/56) | [[02 Cards/Creatures/Giant-Sized Flying Ant\|PAGE]] | {3}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Insect\|Insect]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.10 |
 | [**`mtg:Gnarlback Rhino`**](https://scryfall.com/card/fdn/638) | [[02 Cards/Creatures/Gnarlback Rhino\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Rhino\|Rhino]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.09 |
 | [**`mtg:Goldnight Commander`**](https://scryfall.com/card/tdc/117) | [[02 Cards/Creatures/Goldnight Commander\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.17 |
 | [**`mtg:Golgari Findbroker`**](https://scryfall.com/card/rvr/187) | [[02 Cards/Creatures/Golgari Findbroker\|PAGE]] | {B}{B}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Shaman\|Shaman]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.13 |
@@ -108,7 +109,7 @@ Cards whose mana value is 4.
 | [**`mtg:Inkshape Demonstrator`**](https://scryfall.com/card/sos/21) | [[02 Cards/Creatures/Inkshape Demonstrator\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elephant\|Elephant]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
 | [**`mtg:Invasion of Karsus`**](https://scryfall.com/card/mom/146) | [[02 Cards/Battles/Invasion of Karsus\|PAGE]] | {2}{R}{R} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Battle\|Battle]] — [[04 Creature Types/Elemental\|Elemental]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.11 |
 | [**`mtg:Ironwill Forger`**](https://scryfall.com/card/tdc/13) | [[02 Cards/Creatures/Ironwill Forger\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.80 |
-| [**`mtg:Jazal Goldmane`**](https://scryfall.com/card/fdn/497) | [[02 Cards/Creatures/Jazal Goldmane\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.29 |
+| [**`mtg:Jazal Goldmane`**](https://scryfall.com/card/fdn/497) | [[02 Cards/Creatures/Jazal Goldmane\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.41 |
 | [**`mtg:Karlov Watchdog`**](https://scryfall.com/card/mkm/20) | [[02 Cards/Creatures/Karlov Watchdog\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dog\|Dog]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.11 |
 | [**`mtg:Kaya, Spirits' Justice`**](https://scryfall.com/card/mkm/211) | [[02 Cards/Planeswalkers/Kaya, Spirits' Justice\|PAGE]] | {2}{W}{B} | [[03 Card Types/Planeswalker\|Planeswalker]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.33 |
 | [**`mtg:Kykar, Zephyr Awakener`**](https://scryfall.com/card/fdn/122) | [[02 Cards/Creatures/Kykar, Zephyr Awakener\|PAGE]] | {2}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.24 |

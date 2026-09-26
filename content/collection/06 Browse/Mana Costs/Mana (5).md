@@ -2,7 +2,7 @@
 
 Cards whose mana value is 5.
 
-**161** copies · **120** names.
+**164** copies · **122** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -22,6 +22,7 @@ Cards whose mana value is 5.
 | [**`mtg:Artistic Process`**](https://scryfall.com/card/sos/108) | [[02 Cards/Sorceries/Artistic Process\|PAGE]] | {3}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.12 |
 | [**`mtg:Ascendant Dustspeaker`**](https://scryfall.com/card/sos/8) | [[02 Cards/Creatures/Ascendant Dustspeaker\|PAGE]] | {4}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Orc\|Orc]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.09 |
 | [**`mtg:Balin, Loremaster`**](https://scryfall.com/card/hob/87) | [[02 Cards/Creatures/Balin, Loremaster\|PAGE]] | {3}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.23 |
+| [**`mtg:Banner of Kinship`**](https://scryfall.com/card/fdn/352) | [[02 Cards/Artifacts/Banner of Kinship\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 7.41 |
 | [**`mtg:Bashful Beastie`**](https://scryfall.com/card/dsk/169) | [[02 Cards/Creatures/Bashful Beastie\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Beast\|Beast]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Benthic Criminologists`**](https://scryfall.com/card/mkm/40) | [[02 Cards/Creatures/Benthic Criminologists\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.08 |
 | [**`mtg:Beorn, Reluctant Host`**](https://scryfall.com/card/hob/118) | [[02 Cards/Creatures/Beorn, Reluctant Host\|PAGE]] | {4}{G} // {1}{G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Bear\|Bear]] [[04 Creature Types/Shapeshifter\|Shapeshifter]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.04 |
@@ -48,7 +49,7 @@ Cards whose mana value is 5.
 | [**`mtg:Fate of the Sun-Cryst`**](https://scryfall.com/card/fin/19) | [[02 Cards/Instants/Fate of the Sun-Cryst\|PAGE]] | {4}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.03 |
 | [**`mtg:Fractal Tender`**](https://scryfall.com/card/sos/190) | [[02 Cards/Creatures/Fractal Tender\|PAGE]] | {3}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.10 |
 | [**`mtg:Gandalf, Wandering Wizard`**](https://scryfall.com/card/hob/41) | [[02 Cards/Creatures/Gandalf, Wandering Wizard\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
-| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 6.43 |
+| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 13.58 |
 | [**`mtg:Geyser Leaper`**](https://scryfall.com/card/tla/52) | [[02 Cards/Creatures/Geyser Leaper\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warrior\|Warrior]] [[04 Creature Types/Ally\|Ally]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
 | [**`mtg:Gigantosaurus`**](https://scryfall.com/card/fdn/718) | [[02 Cards/Creatures/Gigantosaurus\|PAGE]] | {G}{G}{G}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.61 |
 | [**`mtg:Gilded Lotus`**](https://scryfall.com/card/blc/271) | [[02 Cards/Artifacts/Gilded Lotus\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
@@ -126,3 +127,4 @@ Cards whose mana value is 5.
 | [**`mtg:Virtue of Knowledge`**](https://scryfall.com/card/woe/279) | [[02 Cards/Enchantments/Virtue of Knowledge\|PAGE]] | {4}{U} // {1}{U} | [[03 Card Types/Instant\|Instant]] [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 4.60 |
 | [**`mtg:Voracious Greatshark`**](https://scryfall.com/card/fdn/600) | [[02 Cards/Creatures/Voracious Greatshark\|PAGE]] | {3}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Shark\|Shark]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.20 |
 | [**`mtg:Wilderland Scrounger`**](https://scryfall.com/card/hob/141) | [[02 Cards/Creatures/Wilderland Scrounger\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.10 |
+| [**`mtg:Witch of the Moors`**](https://scryfall.com/card/sld/1722) | [[02 Cards/Creatures/Witch of the Moors\|PAGE]] | {3}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Warlock\|Warlock]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 13.22 |

@@ -2,7 +2,7 @@
 
 Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **seller**. Edit `08 Assets/outstanding-orders.csv` and rebuild. PAGE is the collection page when a copy is already owned. Purchase price is unit GBP from the order (item price, not postage).
 
-**46** copies · **43** names · **8** sellers · **£126.14**.
+**26** copies · **23** names · **6** sellers · **£15.45**.
 
 ## Contents
 
@@ -12,8 +12,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | MageCards | [[#MageCards · Arcadiacardz\|Arcadiacardz]] | 2 | 2 | 0.79 |
 | MageCards | [[#MageCards · avm4474\|avm4474]] | 1 | 1 | 0.68 |
 | MageCards | [[#MageCards · MTG_Factory\|MTG_Factory]] | 1 | 1 | 0.20 |
-| MageCards | [[#MageCards · Axion_Now\|Axion_Now]] | 16 | 16 | 110.56 |
-| MageCards | [[#MageCards · ryanbeauc\|ryanbeauc]] | 4 | 4 | 0.13 |
 | MageCards | [[#MageCards · JackTradesCards\|JackTradesCards]] | 11 | 10 | 2.69 |
 | Cardmarket | [[#Cardmarket · Weird-Ginge\|Weird-Ginge]] | 2 | 1 | 0.10 |
 
@@ -56,40 +54,6 @@ Purchased, not in hand. Grouped by **source** (MageCards, Ebay, …) then **sell
 | Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
 |------|--|------|------|-----|------|-----|-------------|------|
 | [**`mtg:Think Twice`**](https://scryfall.com/card/fdn/315) | [[02 Cards/Instants/Think Twice\|PAGE]] | {1}{U} | [[03 Card Types/Instant\|Instant]] | FDN 315 | foil | 1 | 0.20 | Order 49736 missing foil — Factory confirmed sending with 50371 |
-
-## MageCards · Axion_Now
-
-**16** copies · **16** cards · **£110.56**. Source: MageCards. Seller: Axion_Now.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Jazal Goldmane`**](https://scryfall.com/card/c17/62) | [[02 Cards/Creatures/Jazal Goldmane\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] | C17 62 | — | 1 | 0.52 | Order 07/09/2026 |
-| [**`mtg:Viscera Seer`**](https://scryfall.com/card/cmr/158) | [[02 Cards/Creatures/Viscera Seer\|PAGE]] | {B} | [[03 Card Types/Creature\|Creature]] | CMR 158 | foil | 1 | 1.27 | Order 07/09/2026 — LP |
-| [**`mtg:Starlit Sanctum`**](https://scryfall.com/card/clb/917) | — | — | [[03 Card Types/Land\|Land]] | CLB 917 | — | 1 | 0.52 | Order 07/09/2026 |
-| [**`mtg:Mirri, Weatherlight Duelist`**](https://scryfall.com/card/cmm/347) | — | {1}{G}{W} | [[03 Card Types/Creature\|Creature]] | CMM 347 | — | 1 | 4.67 | Order 07/09/2026 |
-| [**`mtg:Elas il-Kor, Sadistic Pilgrim`**](https://scryfall.com/card/dmu/198) | [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] | DMU 198 | — | 1 | 2.13 | Order 07/09/2026 |
-| [**`mtg:Qasali Pridemage`**](https://scryfall.com/card/2x2/386) | — | {G}{W} | [[03 Card Types/Creature\|Creature]] | 2X2 386 | foil | 1 | 0.52 | Order 07/09/2026 |
-| [**`mtg:Banner of Kinship`**](https://scryfall.com/card/fdn/352) | — | {5} | [[03 Card Types/Artifact\|Artifact]] | FDN 352 | — | 1 | 10.49 | Order 07/09/2026 |
-| [**`mtg:Chronicle of Victory`**](https://scryfall.com/card/pecl/253p) | — | {6} | [[03 Card Types/Artifact\|Artifact]] | PECL 253p | foil | 1 | 19.96 | Order 07/09/2026 |
-| [**`mtg:Bountiful Promenade`**](https://scryfall.com/card/msc/226) | — | — | [[03 Card Types/Land\|Land]] | MSC 226 | — | 1 | 6.44 | Order 07/09/2026 |
-| [**`mtg:Silent Clearing`**](https://scryfall.com/card/mh1/246) | — | — | [[03 Card Types/Land\|Land]] | MH1 246 | — | 1 | 5.36 | Order 07/09/2026 |
-| [**`mtg:Gavony Township`**](https://scryfall.com/card/ncc/406) | — | — | [[03 Card Types/Land\|Land]] | NCC 406 | — | 1 | 5.69 | Order 07/09/2026 |
-| [**`mtg:Soul's Attendant`**](https://scryfall.com/card/roe/44) | — | {W} | [[03 Card Types/Creature\|Creature]] | ROE 44 | — | 1 | 7.43 | Order 07/09/2026 |
-| [**`mtg:Germination Practicum`**](https://scryfall.com/card/sos/296) | [[02 Cards/Sorceries/Germination Practicum\|PAGE]] | {3}{G}{G} | [[03 Card Types/Sorcery\|Sorcery]] | SOS 296 | — | 1 | 10.87 | Order 07/09/2026 |
-| [**`mtg:Lion Sash`**](https://scryfall.com/card/plst/NEO-26) | — | {1}{W} | [[03 Card Types/Creature\|Creature]] | PLST NEO-26 | — | 1 | 3.88 | Order 07/09/2026 |
-| [**`mtg:Phyrexian Tower`**](https://scryfall.com/card/uma/248) | — | — | [[03 Card Types/Land\|Land]] | UMA 248 | — | 1 | 27.42 | Order 07/09/2026 |
-| [**`mtg:Phyrexian Reclamation`**](https://scryfall.com/card/ulg/63) | — | {B} | [[03 Card Types/Enchantment\|Enchantment]] | ULG 63 | — | 1 | 3.39 | Order 07/09/2026 — LP |
-
-## MageCards · ryanbeauc
-
-**4** copies · **4** cards · **£0.13**. Source: MageCards. Seller: ryanbeauc.
-
-| Name | | Mana | Type | Set | Foil | Qty | Price (GBP) | Note |
-|------|--|------|------|-----|------|-----|-------------|------|
-| [**`mtg:Man-o'-War`**](https://scryfall.com/card/dmr/58) | — | {2}{U} | [[03 Card Types/Creature\|Creature]] | DMR 58 | — | 1 | 0.03 | Order 07/09/2026 |
-| [**`mtg:Momentary Blink`**](https://scryfall.com/card/dmr/15) | — | {1}{W} | [[03 Card Types/Instant\|Instant]] | DMR 15 | — | 1 | 0.04 | Order 07/09/2026 |
-| [**`mtg:Hunted Witness`**](https://scryfall.com/card/grn/15) | — | {W} | [[03 Card Types/Creature\|Creature]] | GRN 15 | — | 1 | 0.02 | Order 07/09/2026 |
-| [**`mtg:Doomed Traveler`**](https://scryfall.com/card/ima/16) | — | {W} | [[03 Card Types/Creature\|Creature]] | IMA 16 | — | 1 | 0.04 | Order 07/09/2026 |
 
 ## MageCards · JackTradesCards
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Banner of Kinship`**
 >
-> **Status:** Ordered  
+> **Status:** Main Deck  
 > **Mana Cost:** {5}  
 > **Type:** Artifact  
 >
@@ -11,15 +11,15 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Banner of Kinship](https://cards.scryfall.io/border_crop/front/a/1/a14c16c0-4053-46b0-8fa6-be8b4a7a1c8a.jpg)
+> ![Banner of Kinship](https://cards.scryfall.io/border_crop/front/1/9/19a9b8b0-c1ba-48c3-8f90-6af6948274ee.jpg)
 >
 > ### Deck Scores
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Sleeved 26/09/2026. FDN 352 over Plains SOS 272. |
+> | Deck-Specific | 78 | Sleeved 26/09/2026. FDN 352 over Plains SOS 272. |
+> | **Combined** | **77** | Sleeved 26/09/2026. FDN 352 over Plains SOS 272. |
 >
 > ### Classification
 >
@@ -37,7 +37,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. FDN 352 over Plains SOS 272. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -48,20 +48,21 @@ Creatures you control of the chosen type [[03 Effects/Pump Creatures|get +1/+1]]
 
 ## Deck Role & Rating
 
-[[02 Cards/Artifacts/Banner of Kinship|Banner of Kinship]] is a type anthem that also looks at how many of that type you have. Name Cat. 🟢 Owned extra on the sideboard — not sleeved.
+Banner of Kinship ({5}). Sleeved 26/09/2026. FDN 352 over Plains SOS 272. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan.
 
 ## Play Patterns & Lines
 
-- Play into a Cat board. Empty-board Banner is a weak 5-drop.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Anthem**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/King of the Pride|King of the Pride]] *(owned extra)*
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
 
 ## Related Pages
 
@@ -84,17 +85,17 @@ Creatures you control of the chosen type [[03 Effects/Pump Creatures|get +1/+1]]
 > colors: []
 > color_identity: []
 > keywords: []
-> status: Ordered
+> status: Main Deck
 > scores:
 >   general: 76
 >   deck_specific: 78
 >   combined: 77
-> scryfall_id: a14c16c0-4053-46b0-8fa6-be8b4a7a1c8a
+> scryfall_id: 19a9b8b0-c1ba-48c3-8f90-6af6948274ee
 > tags:
 >   - card
->   - ordered
+>   - main-deck
 >   - artifact
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

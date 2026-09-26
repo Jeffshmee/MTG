@@ -8,6 +8,9 @@ group: auto
 legality: commander
 
 # Owned extras (in hand, not sleeved)
+1 Lofty Denial
+1 Angel of Finality
+1 Momentary Blink
 1 Azorius Guildgate
 1 Cryptic Caves
 1 Evolving Wilds
@@ -78,7 +81,6 @@ legality: commander
 1 Dovin's Veto
 1 Get Lost
 1 Mind Stone
-1 Momentary Blink
 1 Parting Gust
 1 Razorgrass Ambush
 1 Sapphire Medallion
@@ -90,7 +92,6 @@ legality: commander
 1 Generous Gift
 1 Ghostly Prison
 1 Hydroelectric Specimen
-1 Man-o'-War
 1 Recruiter of the Guard
 1 Sink into Stupor
 1 Spellseeker
@@ -104,7 +105,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/sideboard.md`*
-*Last synced: 2026-09-18 (Seachrome Coast sleeved)*
+*Last synced: 2026-09-26 (Mana Sculpt, Man-o'-War)*
 
 ---
 
@@ -116,6 +117,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 **Status key:** 🟢 Owned · 🟡 Ordered · ⚪ Wishlist
 
 ### Creatures
+
+> [!info] **`mtg:Angel of Finality`**
+> **75** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:75%"></div></div>
+>
+> [[02 Cards/Creatures/Angel of Finality|Open local page →]]
+>
+> *Cut 26/09/2026 for Man-o'-War. The foil left the 100. The nonfoil stays in the box.*
+
 > [!info] **`mtg:Spectral Sailor`**
 > **73** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:73%"></div></div>
@@ -211,14 +221,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > [[02 Cards/Creatures/Inspiring Overseer|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
-> [!info] **`mtg:Man-o'-War`**
-> **82** / 100 · ⚪ Wishlist
-> <div class="synergy-bar"><div style="width:82%"></div></div>
->
-> [[02 Cards/Creatures/Man-o'-War|Open local page →]]
->
-> *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Mentor of the Meek`**
 > **75** / 100 · 🟢 Owned
@@ -317,6 +319,16 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Instants
+
+> [!info] **`mtg:Lofty Denial`**
+> **82** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:82%"></div></div>
+>
+> [[02 Cards/Instants/Lofty Denial|Open local page →]]
+>
+> *Cut 26/09/2026 for Mana Sculpt.*
+
+
 > [!info] **`mtg:Cloudshift`**
 > **89** / 100 · 🟡 Ordered
 > <div class="synergy-bar"><div style="width:89%"></div></div>
@@ -406,12 +418,12 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Momentary Blink`**
-> **85** / 100 · ⚪ Wishlist
+> **85** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:85%"></div></div>
 >
 > [[02 Cards/Instants/Momentary Blink|Open local page →]]
 >
-> *Stay in sideboard / wishlist — not purchased.*
+> *Arrived 26/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
 
 > [!info] **`mtg:Parting Gust`**
 > **84** / 100 · ⚪ Wishlist

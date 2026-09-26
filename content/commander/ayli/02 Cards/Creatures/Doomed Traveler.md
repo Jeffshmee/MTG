@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Doomed Traveler`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {W}  
 > **Type:** Creature — Human Soldier  
 > **P/T:** 1/1  
@@ -86,7 +86,7 @@ When this creature dies, [[03 Effects/Create Token|create a 1/1 white Spirit cre
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -94,7 +94,7 @@ When this creature dies, [[03 Effects/Create Token|create a 1/1 white Spirit cre
 > scryfall_id: 8a03d414-bff9-4aba-8b0a-0ed57982251e
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - creature
 > ```
 

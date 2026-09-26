@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Starlit Sanctum`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** —  
 > **Type:** Land  
 >
@@ -88,7 +88,7 @@
 > colors: []
 > color_identity: ["B", "W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 78
 >   deck_specific: 82
@@ -96,7 +96,7 @@
 > scryfall_id: f5774836-0140-420a-9a0f-8ba291cc5ca8
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - land
 > ```
 

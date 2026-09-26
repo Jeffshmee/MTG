@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Dawnwing Marshal`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Cat Soldier  
 > **P/T:** 2/2  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 26/09/2026 for Mirri, Weatherlight Duelist. |
+> | Deck-Specific | 78 | Cut 26/09/2026 for Mirri, Weatherlight Duelist. |
+> | **Combined** | **77** | Cut 26/09/2026 for Mirri, Weatherlight Duelist. |
 >
 > ### Classification
 >
@@ -39,7 +39,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Mirri, Weatherlight Duelist. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -50,20 +50,23 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Dawnwing Marshal|Dawnwing Marshal]] is a flying Cat that can pump the team for {4}{W}. Anthem-on-a-stick.
+Dawnwing Marshal ({1}{W}). Cut 26/09/2026 for Mirri, Weatherlight Duelist. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Attack in the air. Pay the pump only if the board can use +1/+1 and flying.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Go-wide**: [[02 Cards/Artifacts/Patchwork Banner|Patchwork Banner]], [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -86,7 +89,7 @@
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Flying"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -94,9 +97,9 @@
 > scryfall_id: 807db84f-addb-4ef0-b9ba-32b3e1bced3d
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

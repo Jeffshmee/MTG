@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Massacre Wurm`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {3}{B}{B}{B}  
 > **Type:** Creature — Phyrexian Wurm  
 > **P/T:** 6/5  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 86 | Opponents lose life when their creatures die. Closer. |
-> | Deck-Specific | 88 | Opponents lose life when their creatures die. Closer. |
-> | **Combined** | **87** | Opponents lose life when their creatures die. Closer. |
+> | General | 86 | Cut 26/09/2026 for Witch of the Moors. |
+> | Deck-Specific | 88 | Cut 26/09/2026 for Witch of the Moors. |
+> | **Combined** | **87** | Cut 26/09/2026 for Witch of the Moors. |
 >
 > ### Classification
 >
@@ -28,17 +28,18 @@
 > |----------|-------|
 > | **Colours** | [[05 Colours/Black\|Black]] |
 > | **Type** | [[04 Types/Creature\|Creature]] · [[04 Types/Phyrexian\|Phyrexian]] · [[04 Types/Wurm\|Wurm]] |
-> | **Effects** | [[03 Effects/ETB\|ETB]] |
+> | **Effects** | [[03 Effects/ETB\|ETB]] · [[03 Effects/Dies Trigger\|Dies Trigger]] |
 >
 > ### Extracted Effects
 >
 > | Effect | Notes |
 > |--------|-------|
 > | [[03 Effects/ETB\|ETB]] | When this enters |
+> | [[03 Effects/Dies Trigger\|Dies Trigger]] | Dies Trigger |
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">87<span>/100</span></div><p class="synergy-score-why">Opponents lose life when their creatures die. Closer. General 86 and Deck-Specific 88 produce Combined 87.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">87<span>/100</span></div><p class="synergy-score-why">Cut 26/09/2026 for Witch of the Moors. General 86 and Deck-Specific 88 produce Combined 87.</p></div>
 
 ## Oracle Text
 
@@ -49,21 +50,23 @@ Whenever a creature an opponent controls dies, that player loses 2 life.
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Massacre Wurm|Massacre Wurm]] is the closer once they have a board. ETB gives their creatures -2/-2; when a creature an opponent controls dies, that player loses 2. Not turn 4.
+Massacre Wurm is an ETB at {3}{B}{B}{B}. Judge it by whether that ETB serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. Cut 26/09/2026 for Witch of the Moors. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Cast into a wide board, not as a 6-drop on an empty table.
-- Your own 1/1s die too if they are in range — sac them to Ayli first if you need the life.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Drain**: [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]], [[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]]
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- Hits your tokens. Clear your own 1/1s first if Hinterland still needs them.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -86,7 +89,7 @@ Whenever a creature an opponent controls dies, that player loses 2 life.
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 86
 >   deck_specific: 88
@@ -94,9 +97,9 @@ Whenever a creature an opponent controls dies, that player loses 2 life.
 > scryfall_id: 39be2675-986c-4812-9448-99737e797671
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

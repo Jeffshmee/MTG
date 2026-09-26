@@ -2,7 +2,7 @@
 
 Every **Lands** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**41** copies · **35** names.
+**39** copies · **35** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,24 +11,24 @@ Every **Lands** page in this vault. Same columns as the collection Catalogue (ma
 | [**`mtg:Animal Sanctuary`**](https://scryfall.com/card/m21/242) | [[02 Cards/Lands/Animal Sanctuary\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 1.15 |
 | [**`mtg:Arctic Flats`**](https://scryfall.com/card/csp/143) | [[02 Cards/Lands/Arctic Flats\|PAGE]] | — | [[04 Types/Snow\|Snow]] [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 0.38 |
 | [**`mtg:Blossoming Sands`**](https://scryfall.com/card/tdm/251) | [[02 Cards/Lands/Blossoming Sands\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 0.08 |
-| [**`mtg:Bountiful Promenade`**](https://scryfall.com/card/msc/226) | [[02 Cards/Lands/Bountiful Promenade\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 0.00 |
+| [**`mtg:Bountiful Promenade`**](https://scryfall.com/card/msc/226) | [[02 Cards/Lands/Bountiful Promenade\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 5.26 |
 | [**`mtg:Branchloft Pathway`**](https://scryfall.com/card/znr/258) | [[02 Cards/Lands/Branchloft Pathway\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 2.61 |
 | [**`mtg:Canopy Vista`**](https://scryfall.com/card/msc/227) | [[02 Cards/Lands/Canopy Vista\|PAGE]] | — | [[04 Types/Land\|Land]] [[04 Types/Forest\|Forest]] [[04 Types/Plains\|Plains]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 0.23 |
 | [**`mtg:Cavern of Souls`**](https://scryfall.com/card/lci/269) | [[02 Cards/Lands/Cavern of Souls\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 52.99 |
-| [**`mtg:Command Tower`**](https://scryfall.com/card/msc/233) | [[02 Cards/Lands/Command Tower\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.84 |
+| [**`mtg:Command Tower`**](https://scryfall.com/card/frc/22) | [[02 Cards/Lands/Command Tower\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.84 |
 | [**`mtg:Crawling Barrens`**](https://scryfall.com/card/fdn/685) | [[02 Cards/Lands/Crawling Barrens\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.13 |
 | [**`mtg:Evolving Wilds`**](https://scryfall.com/card/msc/240) | [[02 Cards/Lands/Evolving Wilds\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.08 |
-| [**`mtg:Forest`**](https://scryfall.com/card/trk/325) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[04 Types/Basic\|Basic]] [[04 Types/Land\|Land]] [[04 Types/Forest\|Forest]] | [[04 Types/Land\|Land]] {G} | 0 | 4 | 1.64 |
+| [**`mtg:Forest`**](https://scryfall.com/card/trk/325) | [[02 Cards/Lands/Forest\|PAGE]] | — | [[04 Types/Basic\|Basic]] [[04 Types/Land\|Land]] [[04 Types/Forest\|Forest]] | [[04 Types/Land\|Land]] {G} | 0 | 3 | 1.23 |
 | [**`mtg:Fortified Village`**](https://scryfall.com/card/msc/245) | [[02 Cards/Lands/Fortified Village\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 0.18 |
 | [**`mtg:Gathering Place`**](https://scryfall.com/card/msh/266) | [[02 Cards/Lands/Gathering Place\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 2.67 |
-| [**`mtg:Gavony Township`**](https://scryfall.com/card/moc/406) | [[02 Cards/Lands/Gavony Township\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 0.00 |
+| [**`mtg:Gavony Township`**](https://scryfall.com/card/moc/406) | [[02 Cards/Lands/Gavony Township\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 3.78 |
 | [**`mtg:Graypelt Refuge`**](https://scryfall.com/card/c19/249) | [[02 Cards/Lands/Graypelt Refuge\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 0.16 |
 | [**`mtg:Krosan Verge`**](https://scryfall.com/card/otc/304) | [[02 Cards/Lands/Krosan Verge\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.20 |
 | [**`mtg:Mosswort Bridge`**](https://scryfall.com/card/tdc/379) | [[02 Cards/Lands/Mosswort Bridge\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G} | 0 | 1 | 0.39 |
 | [**`mtg:Opal Palace`**](https://scryfall.com/card/soc/390) | [[02 Cards/Lands/Opal Palace\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.12 |
 | [**`mtg:Overgrown Farmland`**](https://scryfall.com/card/fra/185) | [[02 Cards/Lands/Overgrown Farmland\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{W} | 0 | 1 | 3.06 |
 | [**`mtg:Path of Ancestry`**](https://scryfall.com/card/mbc/80) | [[02 Cards/Lands/Path of Ancestry\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.16 |
-| [**`mtg:Plains`**](https://scryfall.com/card/trk/317) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[04 Types/Basic\|Basic]] [[04 Types/Land\|Land]] [[04 Types/Plains\|Plains]] | [[04 Types/Land\|Land]] {W} | 0 | 4 | 2.12 |
+| [**`mtg:Plains`**](https://scryfall.com/card/trk/317) | [[02 Cards/Lands/Plains\|PAGE]] | — | [[04 Types/Basic\|Basic]] [[04 Types/Land\|Land]] [[04 Types/Plains\|Plains]] | [[04 Types/Land\|Land]] {W} | 0 | 3 | 1.59 |
 | [**`mtg:Rogue's Passage`**](https://scryfall.com/card/hoc/212) | [[02 Cards/Lands/Rogue's Passage\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.57 |
 | [**`mtg:Secluded Courtyard`**](https://scryfall.com/card/msc/265) | [[02 Cards/Lands/Secluded Courtyard\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.29 |
 | [**`mtg:Secret Tunnel`**](https://scryfall.com/card/tla/278) | [[02 Cards/Lands/Secret Tunnel\|PAGE]] | — | [[04 Types/Land\|Land]] [[04 Types/Cave\|Cave]] | [[04 Types/Land\|Land]] | 0 | 1 | 1.73 |

@@ -1,7 +1,7 @@
 # Current Deck
 
 Commander: Kykar, Zephyr Awakener
-99 + 1 = 100 cards (target 100).
+99 + 1 = 100 cards (target 100). Nothing sleeved until you say it is in hand.
 
 ```decklist
 group: auto
@@ -22,11 +22,11 @@ legality: commander
 1 Glasspool Mimic
 1 Kitesail Larcenist
 1 Loran of the Third Path
+1 Man-o'-War
 1 Mocking Sprite
 1 Reflector Mage
 1 Skycoach Conductor
 1 Soulherder
-1 Angel of Finality
 1 Archaeomancer
 1 Bigfin Bouncer
 1 Displacer Kitten
@@ -56,10 +56,10 @@ legality: commander
 1 Counterspell
 1 Dawn's Truce
 1 Into the Roil
-1 Lofty Denial
 1 Snap
 1 Think Twice
 1 Ghostly Flicker
+1 Mana Sculpt
 1 Aetherize
 
 # Sorceries
@@ -117,7 +117,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-18 (Seachrome Coast)*
+*Last synced: 2026-09-26 (26-09 to-do)*
 
 ---
 
@@ -138,11 +138,11 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Glasspool Mimic|Glasspool Mimic]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Creatures/Kitesail Larcenist|Kitesail Larcenist]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Loran of the Third Path|Loran of the Third Path]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
+- [[02 Cards/Creatures/Man-o'-War|Man-o'-War]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Creatures/Reflector Mage|Reflector Mage]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Soulherder|Soulherder]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
-- [[02 Cards/Creatures/Angel of Finality|Angel of Finality]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Creatures/Archaeomancer|Archaeomancer]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Creatures/Bigfin Bouncer|Bigfin Bouncer]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Displacer Kitten|Displacer Kitten]] **96** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:96%"></div></div>
@@ -173,10 +173,10 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Instants/Counterspell|Counterspell]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Instants/Dawn's Truce|Dawn's Truce]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Instants/Into the Roil|Into the Roil]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
-- [[02 Cards/Instants/Lofty Denial|Lofty Denial]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Instants/Snap|Snap]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Instants/Think Twice|Think Twice]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
 - [[02 Cards/Instants/Ghostly Flicker|Ghostly Flicker]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
+- [[02 Cards/Instants/Mana Sculpt|Mana Sculpt]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Instants/Aetherize|Aetherize]] **95** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:95%"></div></div>
 
 ### Sorceries

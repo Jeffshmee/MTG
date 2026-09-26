@@ -2,7 +2,7 @@
 
 Creature type: Wizard.
 
-**89** copies · **62** names.
+**90** copies · **63** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -24,6 +24,7 @@ Creature type: Wizard.
 | [**`mtg:Mischievous Mystic`**](https://scryfall.com/card/fdn/47) | [[02 Cards/Creatures/Mischievous Mystic\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.28 |
 | [**`mtg:Muse Seeker`**](https://scryfall.com/card/sos/60) | [[02 Cards/Creatures/Muse Seeker\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.08 |
 | [**`mtg:Omenspeaker`**](https://scryfall.com/card/cmr/83) | [[02 Cards/Creatures/Omenspeaker\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
+| [**`mtg:Qasali Pridemage`**](https://scryfall.com/card/2x2/386) | [[02 Cards/Creatures/Qasali Pridemage\|PAGE]] | {G}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.22 |
 | [**`mtg:Silvergill Mentor`**](https://scryfall.com/card/ecl/69) | [[02 Cards/Creatures/Silvergill Mentor\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Spellstutter Sprite`**](https://scryfall.com/card/mma/65) | [[02 Cards/Creatures/Spellstutter Sprite\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.76 |
 | [**`mtg:Sygg, Wanderwine Wisdom`**](https://scryfall.com/card/ecl/76) | [[02 Cards/Creatures/Sygg, Wanderwine Wisdom\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |

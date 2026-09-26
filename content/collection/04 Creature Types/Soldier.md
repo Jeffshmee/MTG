@@ -2,10 +2,11 @@
 
 Creature type: Soldier.
 
-**48** copies · **39** names.
+**50** copies · **40** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Doomed Traveler`**](https://scryfall.com/card/clu/59) | [[02 Cards/Creatures/Doomed Traveler\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
 | [**`mtg:Dryad Militant`**](https://scryfall.com/card/fdn/656) | [[02 Cards/Creatures/Dryad Militant\|PAGE]] | {G/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dryad\|Dryad]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
 | [**`mtg:Ajani's Pridemate`**](https://scryfall.com/card/clu/52) | [[02 Cards/Creatures/Ajani's Pridemate\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 5 | 0.78 |
 | [**`mtg:Ballyrush Banneret`**](https://scryfall.com/card/fdn/567) | [[02 Cards/Creatures/Ballyrush Banneret\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kithkin\|Kithkin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.25 |
@@ -29,7 +30,7 @@ Creature type: Soldier.
 | [**`mtg:Nightblade Brigade`**](https://scryfall.com/card/tdm/85) | [[02 Cards/Creatures/Nightblade Brigade\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:North Pole Patrol`**](https://scryfall.com/card/tla/65) | [[02 Cards/Creatures/North Pole Patrol\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] [[04 Creature Types/Ally\|Ally]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Red Guardian, Super-Soldier`**](https://scryfall.com/card/msh/34) | [[02 Cards/Creatures/Red Guardian, Super-Soldier\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] [[04 Creature Types/Villain\|Villain]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
-| [**`mtg:Reluctant Dounguard`**](https://scryfall.com/card/ecl/31) | [[02 Cards/Creatures/Reluctant Dounguard\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kithkin\|Kithkin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
+| [**`mtg:Reluctant Dounguard`**](https://scryfall.com/card/ecl/31) | [[02 Cards/Creatures/Reluctant Dounguard\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kithkin\|Kithkin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.08 |
 | [**`mtg:Scion of Oona`**](https://scryfall.com/card/woc/109) | [[02 Cards/Creatures/Scion of Oona\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 4.28 |
 | [**`mtg:Caesar, Legion's Emperor`**](https://scryfall.com/card/pip/1) | [[02 Cards/Creatures/Caesar, Legion's Emperor\|PAGE]] | {1}{R}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 4.95 |
 | [**`mtg:Dragonback Lancer`**](https://scryfall.com/card/tdm/9) | [[02 Cards/Creatures/Dragonback Lancer\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |

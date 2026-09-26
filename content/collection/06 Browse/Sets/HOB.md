@@ -2,7 +2,7 @@
 
 Set `HOB`. Qty here is copies of this name from this set.
 
-**127** copies · **90** names.
+**128** copies · **91** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -31,6 +31,7 @@ Set `HOB`. Qty here is copies of this name from this set.
 | [**`mtg:Front Porch Sentries`**](https://scryfall.com/card/hob/67) | [[02 Cards/Creatures/Front Porch Sentries\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.06 |
 | [**`mtg:Goblin Plate Mail`**](https://scryfall.com/card/hob/157) | [[02 Cards/Artifacts/Goblin Plate Mail\|PAGE]] | {1}{B/R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Goblin-town Flunkies`**](https://scryfall.com/card/hob/100) | [[02 Cards/Creatures/Goblin-town Flunkies\|PAGE]] | {1}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
+| [**`mtg:Gollum, Riddle Master`**](https://scryfall.com/card/hob/70) | [[02 Cards/Creatures/Gollum, Riddle Master\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.75 |
 | [**`mtg:Guardian of the Halls`**](https://scryfall.com/card/hob/127) | [[02 Cards/Creatures/Guardian of the Halls\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Iron Hills Blacksmith`**](https://scryfall.com/card/hob/16) | [[02 Cards/Creatures/Iron Hills Blacksmith\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Artificer\|Artificer]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.18 |
 | [**`mtg:Nori, Teller of Tales`**](https://scryfall.com/card/hob/161) | [[02 Cards/Creatures/Nori, Teller of Tales\|PAGE]] | {1}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.06 |

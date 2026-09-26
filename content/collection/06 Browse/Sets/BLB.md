@@ -2,7 +2,7 @@
 
 Set `BLB`. Qty here is copies of this name from this set.
 
-**48** copies · **47** names.
+**49** copies · **47** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -16,7 +16,7 @@ Set `BLB`. Qty here is copies of this name from this set.
 | [**`mtg:Fountainport Bell`**](https://scryfall.com/card/blb/245) | [[02 Cards/Artifacts/Fountainport Bell\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.12 |
 | [**`mtg:Into the Flood Maw`**](https://scryfall.com/card/blb/52) | [[02 Cards/Instants/Into the Flood Maw\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 1.33 |
 | [**`mtg:Might of the Meek`**](https://scryfall.com/card/blb/144) | [[02 Cards/Instants/Might of the Meek\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.14 |
-| [**`mtg:Scavenger's Talent`**](https://scryfall.com/card/blb/111) | [[02 Cards/Enchantments/Scavenger's Talent\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.82 |
+| [**`mtg:Scavenger's Talent`**](https://scryfall.com/card/blb/111) | [[02 Cards/Enchantments/Scavenger's Talent\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 1.64 |
 | [**`mtg:Bakersbane Duo`**](https://scryfall.com/card/blb/163) | [[02 Cards/Creatures/Bakersbane Duo\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Squirrel\|Squirrel]] [[04 Creature Types/Raccoon\|Raccoon]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Dawn's Truce`**](https://scryfall.com/card/blb/9) | [[02 Cards/Instants/Dawn's Truce\|PAGE]] | {1}{W} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 8.13 |
 | [**`mtg:Dour Port-Mage`**](https://scryfall.com/card/blb/303) | [[02 Cards/Creatures/Dour Port-Mage\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 3.65 |

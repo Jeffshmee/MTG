@@ -2,7 +2,7 @@
 
 Mono-red cards ({R} only). Lands and tokens are listed separately.
 
-**208** copies · **151** names.
+**209** copies · **152** names.
 
 ```decklist
 group: auto
@@ -26,6 +26,7 @@ legality: commander
 1 Courageous Goblin
 3 Crackling Cyclops
 1 Dragon Mage
+1 Dragonlord's Servant
 1 Dragonmaster Outcast
 1 Dwarven Mauler
 1 Enraged Flamecaster

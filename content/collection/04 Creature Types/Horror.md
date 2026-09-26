@@ -2,10 +2,11 @@
 
 Creature type: Horror.
 
-**10** copies · **8** names.
+**11** copies · **9** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Gollum, Riddle Master`**](https://scryfall.com/card/hob/70) | [[02 Cards/Creatures/Gollum, Riddle Master\|PAGE]] | {1}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Halfling\|Halfling]] [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 2.75 |
 | [**`mtg:Shambling Cie'th`**](https://scryfall.com/card/fin/117) | [[02 Cards/Creatures/Shambling Cie'th\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Mutant\|Mutant]] [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.04 |
 | [**`mtg:Stitched Mangler`**](https://scryfall.com/card/inr/87) | [[02 Cards/Creatures/Stitched Mangler\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Zombie\|Zombie]] [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.08 |
 | [**`mtg:Woe Strider`**](https://scryfall.com/card/soc/231) | [[02 Cards/Creatures/Woe Strider\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Horror\|Horror]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.22 |

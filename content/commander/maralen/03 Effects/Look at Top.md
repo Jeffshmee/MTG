@@ -1,5 +1,7 @@
 # Look at Top
 
-Look at or reveal the top cards of a library, then keep or arrange some of them.
+Look at cards on top of a library.
 
-**In this vault:** [[02 Cards/Enchantments/Aid from the Cowl|Aid from the Cowl]] · [[02 Cards/Instants/Confounding Riddle|Confounding Riddle]] · [[02 Cards/Creatures/Eclipsed Elf|Eclipsed Elf]] · [[02 Cards/Enchantments/Elven Chorus|Elven Chorus]] · [[02 Cards/Creatures/Elvish Rejuvenator|Elvish Rejuvenator]] · [[02 Cards/Sorceries/Genesis Wave|Genesis Wave]] · [[02 Cards/Creatures/Lys Alana Informant|Lys Alana Informant]] · [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]]
+Effects that show up in Maralen, Fae Ascendant's Elves and Faeries list.
+
+**In this vault:** [[02 Cards/Instants/Confounding Riddle|Confounding Riddle]] · [[02 Cards/Creatures/Eclipsed Elf|Eclipsed Elf]] · [[02 Cards/Lands/Hedge Maze|Hedge Maze]] · [[02 Cards/Enchantments/Morcant's Eyes|Morcant's Eyes]] · [[02 Cards/Lands/Path of Ancestry|Path of Ancestry]]
