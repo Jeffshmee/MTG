@@ -1379,3 +1379,42 @@ body[data-slug="hot"] {
     }
   }
 }
+
+// Booster haul pages: each h2 section is a closed disclosure.
+// The heading toggles it. A contents-table link opens the target.
+article details.haul-fold {
+  margin: 0.15rem 0 0.85rem;
+  border-top: 1px solid #333333;
+  padding-top: 0.1rem;
+}
+
+article details.haul-fold > summary {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+article details.haul-fold > summary::-webkit-details-marker {
+  display: none;
+}
+
+article details.haul-fold > summary::marker {
+  content: "";
+}
+
+article details.haul-fold > summary::before {
+  content: "▸";
+  flex: 0 0 auto;
+  color: #c9a227;
+}
+
+article details.haul-fold[open] > summary::before {
+  content: "▾";
+}
+
+article details.haul-fold > summary > h2 {
+  margin: 0.35rem 0;
+  flex: 1 1 auto;
+}

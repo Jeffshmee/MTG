@@ -496,6 +496,7 @@ export async function loadQuartzConfig(
   const { MtgDecklist } = await import("../transformers/mtgDecklist")
   const { VaultLinks } = await import("../transformers/vaultLinks")
   const { CardMeta } = await import("../transformers/cardMeta")
+  const { HaulFolds } = await import("../transformers/haulFolds")
   const builtinTransformers: unknown[] = [ManaPips(), MtgDecklist()]
   const builtinEmitters = [
     builtinPlugins.ComponentResources(),
@@ -510,6 +511,7 @@ export async function loadQuartzConfig(
       ...(await instantiate(transformers, "transformer")),
       CardMeta(),
       VaultLinks(),
+      HaulFolds(),
     ],
     filters: await instantiate(filters, "filter"),
     emitters: [...builtinEmitters, ...(await instantiate(emitters, "emitter"))],

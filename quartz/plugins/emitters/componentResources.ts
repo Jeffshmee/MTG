@@ -8,6 +8,8 @@ import spaRouterScript from "../../components/scripts/spa.inline"
 import popoverScript from "../../components/scripts/popover.inline"
 // @ts-ignore
 import sortableTablesScript from "../../components/scripts/sortableTables.inline"
+// @ts-ignore
+import haulFoldsScript from "../../components/scripts/haulFolds.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
@@ -93,6 +95,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   }
 
   componentResources.afterDOMLoaded.push(sortableTablesScript)
+  componentResources.afterDOMLoaded.push(haulFoldsScript)
 
   if (cfg.analytics?.provider === "google") {
     const tagId = cfg.analytics.tagId
