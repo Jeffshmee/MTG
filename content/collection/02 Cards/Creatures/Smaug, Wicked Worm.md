@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 29/09/2026 | Traded to Jack for Urza, Prince of Kroog; Simulacrum Synthesizer; Hardlight Containment; Knight of the Ebon Legion; Eladamri's Call; Tivash, Gloom Summoner; Aethermage's Touch; Avenger of the Fallen |
 
 </div>
 
@@ -38,12 +39,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>1</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>The Hobbit (<code>HOB</code>)</td><td>164</td><td>—</td><td>2</td><td>Box</td><td>0.81</td></tr>
+<tr><td>The Hobbit (<code>HOB</code>)</td><td>164</td><td>—</td><td>1</td><td>Box</td><td>0.81</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,8 +56,8 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/1/9/19cc91f0-e724-41ac-b6d8-9a293bd63b42.jpg" alt="Smaug, Wicked Worm HOB 164 · ×2">
-<figcaption>HOB 164 · ×2</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/1/9/19cc91f0-e724-41ac-b6d8-9a293bd63b42.jpg" alt="Smaug, Wicked Worm HOB 164 · ×1">
+<figcaption>HOB 164 · ×1</figcaption>
 </figure>
 </div>
 
@@ -75,7 +76,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 5
 > type: "Legendary Creature — Dragon"
 > scryfall_id: 19cc91f0-e724-41ac-b6d8-9a293bd63b42
-> quantity: 2
+> quantity: 1
 > tags:
 >   - card
 >   - collection

@@ -2,7 +2,7 @@
 
 Every **Artifacts** page in this vault. Same columns as [[01 Catalogue/Catalogue|Catalogue]]. Sorted by mana value, then name.
 
-**120** copies · **91** names.
+**130** copies · **97** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -11,10 +11,12 @@ Every **Artifacts** page in this vault. Same columns as [[01 Catalogue/Catalogue
 | [**`mtg:Dawn-Blessed Pennant`**](https://scryfall.com/card/ecl/254) | [[02 Cards/Artifacts/Dawn-Blessed Pennant\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 4 | 0.60 |
 | [**`mtg:Excalibur II`**](https://scryfall.com/card/fin/257) | [[02 Cards/Artifacts/Excalibur II\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.38 |
 | [**`mtg:Expedition Map`**](https://scryfall.com/card/m3c/292) | [[02 Cards/Artifacts/Expedition Map\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 1.28 |
+| [**`mtg:Eye of Jace`**](https://scryfall.com/card/fra/170) | [[02 Cards/Artifacts/Eye of Jace\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.02 |
 | [**`mtg:Feldon's Cane`**](https://scryfall.com/card/fdn/673) | [[02 Cards/Artifacts/Feldon's Cane\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.20 |
 | [**`mtg:Fishing Pole`**](https://scryfall.com/card/fdn/128) | [[02 Cards/Artifacts/Fishing Pole\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.10 |
 | [**`mtg:Fountainport Bell`**](https://scryfall.com/card/blb/245) | [[02 Cards/Artifacts/Fountainport Bell\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.12 |
 | [**`mtg:Giant's Boulder`**](https://scryfall.com/card/hob/173) | [[02 Cards/Artifacts/Giant's Boulder\|PAGE]] | {1} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.20 |
+| [**`mtg:Hunter's Axe`**](https://scryfall.com/card/fra/108) | [[02 Cards/Artifacts/Hunter's Axe\|PAGE]] | {G} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
 | [**`mtg:Knife`**](https://scryfall.com/card/mkm/134) | [[02 Cards/Artifacts/Knife\|PAGE]] | {R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.06 |
 | [**`mtg:Rope`**](https://scryfall.com/card/mkm/173) | [[02 Cards/Artifacts/Rope\|PAGE]] | {G} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:S.H.I.E.L.D. Spy Kit`**](https://scryfall.com/card/msh/36) | [[02 Cards/Artifacts/S.H.I.E.L.D. Spy Kit\|PAGE]] | {W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.06 |
@@ -41,6 +43,7 @@ Every **Artifacts** page in this vault. Same columns as [[01 Catalogue/Catalogue
 | [**`mtg:Lightning Greaves`**](https://scryfall.com/card/drc/55) | [[02 Cards/Artifacts/Lightning Greaves\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 4 | 15.99 |
 | [**`mtg:Mardu Monument`**](https://scryfall.com/card/tdm/245) | [[02 Cards/Artifacts/Mardu Monument\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Mazemind Tome`**](https://scryfall.com/card/fdn/676) | [[02 Cards/Artifacts/Mazemind Tome\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.17 |
+| [**`mtg:Medic's Kitesail`**](https://scryfall.com/card/fra/173) | [[02 Cards/Artifacts/Medic's Kitesail\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.21 |
 | [**`mtg:Midnight Mangler`**](https://scryfall.com/card/dft/50) | [[02 Cards/Artifacts/Midnight Mangler\|PAGE]] | {1}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.02 |
 | [**`mtg:Monk's Fist`**](https://scryfall.com/card/fin/265) | [[02 Cards/Artifacts/Monk's Fist\|PAGE]] | {2} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Ragged Short Spear`**](https://scryfall.com/card/hob/108) | [[02 Cards/Artifacts/Ragged Short Spear\|PAGE]] | {1}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
@@ -70,9 +73,11 @@ Every **Artifacts** page in this vault. Same columns as [[01 Catalogue/Catalogue
 | [**`mtg:Magnifying Glass`**](https://scryfall.com/card/mkm/255) | [[02 Cards/Artifacts/Magnifying Glass\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Midnight Clock`**](https://scryfall.com/card/sld/2217) | [[02 Cards/Artifacts/Midnight Clock\|PAGE]] | {2}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 3.74 |
 | [**`mtg:Mobile Garrison`**](https://scryfall.com/card/aer/165) | [[02 Cards/Artifacts/Mobile Garrison\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
+| [**`mtg:Murmuring Volume`**](https://scryfall.com/card/fra/174) | [[02 Cards/Artifacts/Murmuring Volume\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.08 |
 | [**`mtg:Patchwork Banner`**](https://scryfall.com/card/soc/353) | [[02 Cards/Artifacts/Patchwork Banner\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 4 | 6.76 |
 | [**`mtg:Potioner's Trove`**](https://scryfall.com/card/sos/251) | [[02 Cards/Artifacts/Potioner's Trove\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.09 |
 | [**`mtg:Selesnya Locket`**](https://scryfall.com/card/grn/240) | [[02 Cards/Artifacts/Selesnya Locket\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.09 |
+| [**`mtg:Simulacrum Synthesizer`**](https://scryfall.com/card/mar/61) | [[02 Cards/Artifacts/Simulacrum Synthesizer\|PAGE]] | {2}{U} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 14.29 |
 | [**`mtg:Strixhaven Skycoach`**](https://scryfall.com/card/sos/252) | [[02 Cards/Artifacts/Strixhaven Skycoach\|PAGE]] | {3} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.06 |
 | [**`mtg:Tablet of Discovery`**](https://scryfall.com/card/sos/132) | [[02 Cards/Artifacts/Tablet of Discovery\|PAGE]] | {2}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.81 |
 | [**`mtg:Veloheart Bike`**](https://scryfall.com/card/dft/184) | [[02 Cards/Artifacts/Veloheart Bike\|PAGE]] | {2}{G} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
@@ -86,6 +91,7 @@ Every **Artifacts** page in this vault. Same columns as [[01 Catalogue/Catalogue
 | [**`mtg:Hedron Archive`**](https://scryfall.com/card/blc/275) | [[02 Cards/Artifacts/Hedron Archive\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.15 |
 | [**`mtg:Panharmonicon`**](https://scryfall.com/card/drc/135) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 10.47 |
 | [**`mtg:Resonating Lute`**](https://scryfall.com/card/sos/221) | [[02 Cards/Artifacts/Resonating Lute\|PAGE]] | {2}{U}{R} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.27 |
+| [**`mtg:Warrior's Blades`**](https://scryfall.com/card/fra/163) | [[02 Cards/Artifacts/Warrior's Blades\|PAGE]] | {2}{R}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.09 |
 | [**`mtg:Well of Lost Dreams`**](https://scryfall.com/card/ltc/291) | [[02 Cards/Artifacts/Well of Lost Dreams\|PAGE]] | {4} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 1.37 |
 | [**`mtg:White Auracite`**](https://scryfall.com/card/fin/41) | [[02 Cards/Artifacts/White Auracite\|PAGE]] | {2}{W}{W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Arc Reactor`**](https://scryfall.com/card/msh/310) | [[02 Cards/Artifacts/Arc Reactor\|PAGE]] | {5} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |

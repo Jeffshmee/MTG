@@ -58,7 +58,7 @@ When this creature dies, [[03 Effects/Create Token|create a 1/1 black and green 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Sac**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Instants/Culling the Weak|Culling the Weak]]
+- **Sac**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 - **Delney**: [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]]
 
 ## Anti-synergies / Notes

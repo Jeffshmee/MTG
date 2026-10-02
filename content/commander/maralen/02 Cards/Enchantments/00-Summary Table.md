@@ -2,10 +2,11 @@
 
 Every **Enchantments** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**8** copies · **8** names.
+**9** copies · **9** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Abundant Growth`**](https://scryfall.com/card/ecc/97) | [[02 Cards/Enchantments/Abundant Growth\|PAGE]] | {G} | [[04 Types/Enchantment\|Enchantment]] [[04 Types/Aura\|Aura]] | [[05 Colours/Green\|Green]] | 1 | 1 | 0.23 |
 | [**`mtg:Bitterblossom`**](https://scryfall.com/card/2x2/69) | [[02 Cards/Enchantments/Bitterblossom\|PAGE]] | {1}{B} | [[04 Types/Kindred\|Kindred]] [[04 Types/Enchantment\|Enchantment]] [[04 Types/Faerie\|Faerie]] | [[05 Colours/Black\|Black]] | 2 | 1 | 17.98 |
 | [**`mtg:Morcant's Eyes`**](https://scryfall.com/card/ecl/185) | [[02 Cards/Enchantments/Morcant's Eyes\|PAGE]] | {1}{G} | [[04 Types/Kindred\|Kindred]] [[04 Types/Enchantment\|Enchantment]] [[04 Types/Elf\|Elf]] | [[05 Colours/Green\|Green]] | 2 | 1 | 0.10 |
 | [**`mtg:Garruk's Uprising`**](https://scryfall.com/card/ecc/109) | [[02 Cards/Enchantments/Garruk's Uprising\|PAGE]] | {2}{G} | [[04 Types/Enchantment\|Enchantment]] | [[05 Colours/Green\|Green]] | 3 | 1 | 0.47 |

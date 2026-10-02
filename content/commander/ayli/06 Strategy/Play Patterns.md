@@ -35,7 +35,7 @@ Ayli's **activated** abilities are not triggered. Delney does not double the sac
 
 **Mulligan** hands with no black, or two tapped duals and no one-drop.
 
-Ramp in this pile is **lands only**. [[02 Cards/Instants/Culling the Weak|Culling the Weak]] is the ritual off a fodder body — hold it to dump Delney + a spell, not to turn-1 nothing.
+Ramp in this pile is lands and the rocks still in the 100. Culling the Weak SOA 27 was traded to Jack on 29/09/2026.
 
 ---
 

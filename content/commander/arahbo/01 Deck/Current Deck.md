@@ -15,15 +15,14 @@ legality: commander
 1 Sacred Cat
 1 Adorned Pouncer
 1 Ajani's Pridemate
-1 Ajani's Sunstriker
 1 Bronzehide Lion
 1 Fleecemane Lion
 1 Helpful Hunter
 1 Hungry Lynx
-1 Infirmary Healer
 1 Lion Sash
 1 Qasali Pridemage
 1 Skyknight Squire
+1 Tigra, Feline Fury
 1 Arahbo, the First Fang
 1 Brimaz, King of Oreskos
 1 Cat Collector
@@ -42,6 +41,7 @@ legality: commander
 1 Leonin Warleader
 1 Sovereign Okinec Ahau
 1 Wilt-Leaf Liege
+1 Ka-Zar of the Savage Land
 1 Keeper of Fables
 1 Qasali Slingers
 1 Regal Caracal
@@ -51,6 +51,7 @@ legality: commander
 1 Ajani, Caller of the Pride
 
 # Instants
+1 Eladamri's Call
 1 Heroic Intervention
 1 Unbreakable Formation
 1 Akroma's Will
@@ -89,7 +90,6 @@ legality: commander
 
 # Lands
 1 Abandoned Air Temple
-1 Animal Sanctuary
 1 Arctic Flats
 1 Blossoming Sands
 1 Branchloft Pathway
@@ -123,7 +123,7 @@ legality: commander
 ---
 
 *Source: `arahbo-roar/07 Assets/current-deck.md`*
-*Last synced: 2026-09-26 (26-09 to-do)*
+*Last synced: 2026-09-29 (29-09 to-do)*
 
 ---
 
@@ -137,15 +137,14 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Sacred Cat|Sacred Cat]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Adorned Pouncer|Adorned Pouncer]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
-- [[02 Cards/Creatures/Ajani's Sunstriker|Ajani's Sunstriker]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Bronzehide Lion|Bronzehide Lion]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Fleecemane Lion|Fleecemane Lion]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Hungry Lynx|Hungry Lynx]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
-- [[02 Cards/Creatures/Infirmary Healer|Infirmary Healer]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Creatures/Lion Sash|Lion Sash]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Qasali Pridemage|Qasali Pridemage]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Skyknight Squire|Skyknight Squire]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
+- [[02 Cards/Creatures/Tigra, Feline Fury|Tigra, Feline Fury]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Arahbo, the First Fang|Arahbo, the First Fang]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Brimaz, King of Oreskos|Brimaz, King of Oreskos]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Cat Collector|Cat Collector]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
@@ -165,6 +164,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Sovereign Okinec Ahau|Sovereign Okinec Ahau]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Wilt-Leaf Liege|Wilt-Leaf Liege]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
+- [[02 Cards/Creatures/Ka-Zar of the Savage Land|Ka-Zar of the Savage Land]] **72** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:72%"></div></div>
 - [[02 Cards/Creatures/Keeper of Fables|Keeper of Fables]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Qasali Slingers|Qasali Slingers]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Regal Caracal|Regal Caracal]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
@@ -174,6 +174,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Planeswalkers/Ajani, Caller of the Pride|Ajani, Caller of the Pride]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 
 ### Instants
+- [[02 Cards/Instants/Eladamri's Call|Eladamri's Call]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Instants/Heroic Intervention|Heroic Intervention]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Instants/Unbreakable Formation|Unbreakable Formation]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Instants/Akroma's Will|Akroma's Will]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
@@ -212,7 +213,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 
 ### Lands
 - [[02 Cards/Lands/Abandoned Air Temple|Abandoned Air Temple]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
-- [[02 Cards/Lands/Animal Sanctuary|Animal Sanctuary]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Lands/Arctic Flats|Arctic Flats]] **78** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:78%"></div></div>
 - [[02 Cards/Lands/Blossoming Sands|Blossoming Sands]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Lands/Branchloft Pathway|Branchloft Pathway]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>

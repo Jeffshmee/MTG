@@ -2,7 +2,7 @@
 
 Set `FDN`. Qty here is copies of this name from this set.
 
-**478** copies · **283** names.
+**477** copies · **282** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -72,8 +72,7 @@ Set `FDN`. Qty here is copies of this name from this set.
 | [**`mtg:Stab`**](https://scryfall.com/card/fdn/71) | [[02 Cards/Instants/Stab\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.10 |
 | [**`mtg:Stromkirk Noble`**](https://scryfall.com/card/fdn/632) | [[02 Cards/Creatures/Stromkirk Noble\|PAGE]] | {R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vampire\|Vampire]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.19 |
 | [**`mtg:Undying Malice`**](https://scryfall.com/card/fdn/528) | [[02 Cards/Instants/Undying Malice\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.51 |
-| [**`mtg:Unsummon`**](https://scryfall.com/card/fdn/599) | [[02 Cards/Instants/Unsummon\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.16 |
-| [**`mtg:Vampiric Rites`**](https://scryfall.com/card/fdn/615) | [[02 Cards/Enchantments/Vampiric Rites\|PAGE]] | {B} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.18 |
+| [**`mtg:Unsummon`**](https://scryfall.com/card/fra/46) | [[02 Cards/Instants/Unsummon\|PAGE]] | {U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.16 |
 | [**`mtg:Wildwood Scourge`**](https://scryfall.com/card/fdn/236) | [[02 Cards/Creatures/Wildwood Scourge\|PAGE]] | {X}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Hydra\|Hydra]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.09 |
 | [**`mtg:Witness Protection`**](https://scryfall.com/card/fdn/168) | [[02 Cards/Enchantments/Witness Protection\|PAGE]] | {U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.20 |
 | [**`mtg:Abrade`**](https://scryfall.com/card/soa/37) | [[02 Cards/Instants/Abrade\|PAGE]] | {1}{R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.32 |

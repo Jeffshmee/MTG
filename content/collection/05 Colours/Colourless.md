@@ -2,14 +2,15 @@
 
 True colourless cards only — empty colour, no coloured pips. Lands (including shocks and duals) are on the Lands index; tokens on Tokens.
 
-**137** copies · **96** names.
+**155** copies · **104** names.
 
 ```decklist
 group: auto
 legality: commander
 
 # Creatures
-1 Adaptive Automaton
+3 Afterthought Sentry
+1 Archive Arbiter
 2 Biblioplex Tomekeeper
 2 Boulderborn Dragon
 1 Burnished Hart
@@ -21,6 +22,9 @@ legality: commander
 1 Foraging Wickermaw
 1 Gate Colossus
 2 Gravestone Strider
+1 Karn, Argent Defender
+3 Keeper of the Quiet Hour
+2 Living Library
 1 Lumbering Laundry
 2 Mage Tower Referee
 1 Meteor Golem
@@ -40,6 +44,7 @@ legality: commander
 1 The Dawning Archaic
 1 Three Tree Mascot
 1 Transcendent Archaic
+2 Traxos, Scourge Eternal
 
 # Sorceries
 1 Together as One
@@ -68,6 +73,7 @@ legality: commander
 1 Dwarven Mattock
 1 Excalibur II
 1 Expedition Map
+1 Eye of Jace
 1 Feldon's Cane
 2 Firdoch Core
 1 Fireshrieker
@@ -89,8 +95,10 @@ legality: commander
 1 Magnifying Glass
 1 Mardu Monument
 1 Mazemind Tome
+3 Medic's Kitesail
 1 Mobile Garrison
 1 Monk's Fist
+3 Murmuring Volume
 2 Panharmonicon
 4 Patchwork Banner
 3 Potioner's Trove

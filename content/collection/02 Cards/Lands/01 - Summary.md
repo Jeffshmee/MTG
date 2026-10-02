@@ -2,7 +2,7 @@
 
 Every land in the collection, including basics, duals, shocks, and utility lands.
 
-**418** copies · **149** names.
+**457** copies · **167** names.
 
 ```decklist
 group: auto
@@ -36,6 +36,7 @@ legality: commander
 1 Canyon Slough
 2 Castle Ardenvale
 1 Castle Embereth
+1 Castle Vantress
 1 Cavern of Souls
 1 Caves of Koilos
 1 Clifftop Retreat
@@ -43,6 +44,7 @@ legality: commander
 1 Cori Mountain Monastery
 1 Crawling Barrens
 1 Cryptic Caves
+2 Dedicated Commons
 2 Demolition Field
 1 Deserted Beach
 1 Dimir Guildgate
@@ -56,10 +58,12 @@ legality: commander
 3 Evolving Wilds
 1 Exotic Orchard
 1 Fabled Passage
+2 Fatehold Annex
 2 Fetid Heath
 4 Fields of Strife
 1 Floodfarm Verge
-45 Forest
+49 Forest
+1 Formidable Commons
 1 Fortified Village
 3 Forum of Amity
 1 Gathering Place
@@ -70,25 +74,30 @@ legality: commander
 1 Golgari Guildgate
 1 Graypelt Refuge
 1 Gruul Guildgate
+1 Hall of Echoes
 1 Hall of Heliod's Generosity
 2 Hallowed Fountain
 1 Hedge Maze
+2 Hexhaven Dueling Arena
 1 Hidden Grotto
 1 High Market
 1 Hobbit Hole
+2 Innovative Commons
 2 Iron Hills
 1 Irrigated Farmland
-43 Island
+47 Island
 2 Isolated Chapel
 1 Izzet Guildgate
 4 Jungle Hollow
+1 Konstrari Annex
 1 Krosan Verge
 1 Maze's End
 1 Meditation Pools
+1 Meticulous Commons
 1 Mirkwood
 1 Mortuary Mire
 1 Mosswort Bridge
-32 Mountain
+34 Mountain
 1 Myriad Landscape
 1 Mystic Sanctuary
 1 Nomad Outpost
@@ -102,14 +111,17 @@ legality: commander
 1 Peculiar Lighthouse
 1 Petrified Hamlet
 1 Phyrexian Tower
-35 Plains
+37 Plains
 1 Port Town
 1 Prairie Stream
 1 Radiant Fountain
 1 Rakdos Guildgate
 1 Restless Anchorage
 1 Restless Fortress
+1 Rockfall Vale
 2 Rogue's Passage
+1 Roiling Canopy
+1 Room of Refuge
 4 Rugged Highlands
 1 Rugged Prairie
 1 Rumble Arena
@@ -120,6 +132,7 @@ legality: commander
 1 Seachrome Coast
 2 Secluded Courtyard
 1 Secluded Glen
+1 Secret Passage
 1 Secret Tunnel
 1 Selesnya Guildgate
 1 Selesnya Sanctuary
@@ -133,9 +146,10 @@ legality: commander
 1 Smoldering Marsh
 3 Spectacle Summit
 1 Starlit Sanctum
+1 Stingerquill Annex
 1 Sundown Pass
 1 Sunpetal Grove
-43 Swamp
+46 Swamp
 3 Swiftwater Cliffs
 1 Takenuma, Abandoned Mire
 1 Temple Garden
@@ -151,12 +165,16 @@ legality: commander
 2 Temple of Triumph
 6 Terramorphic Expanse
 1 The Lonely Mountain
+1 Theorist's Sanctum
+2 Theorix Annex
 4 Thornwood Falls
 2 Three Tree City
 5 Titan's Grave
 4 Tranquil Cove
+2 Transformative Commons
 1 Unclaimed Territory
 2 Vault of the Archangel
+1 Vigorbloom Annex
 1 Wastewood Verge
 1 Watery Grave
 4 Wind-Scarred Crag

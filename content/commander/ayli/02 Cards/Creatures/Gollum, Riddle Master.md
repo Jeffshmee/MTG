@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Gollum, Riddle Master`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{B}  
 > **Type:** Legendary Creature — Halfling Horror  
 > **P/T:** 3/1  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 74 | Sleeved 26/09/2026. HOB 70 over Culling the Weak SOA 27. |
-> | Deck-Specific | 72 | Sleeved 26/09/2026. HOB 70 over Culling the Weak SOA 27. |
-> | **Combined** | **73** | Sleeved 26/09/2026. HOB 70 over Culling the Weak SOA 27. |
+> | General | 74 | Cut 29/09/2026 for Vile Entomber. |
+> | Deck-Specific | 72 | Cut 29/09/2026 for Vile Entomber. |
+> | **Combined** | **73** | Cut 29/09/2026 for Vile Entomber. |
 >
 > ### Classification
 >
@@ -40,7 +40,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">73<span>/100</span></div><p class="synergy-score-why">Sleeved 26/09/2026. HOB 70 over Culling the Weak SOA 27. General 74 and Deck-Specific 72 produce Combined 73.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">73<span>/100</span></div><p class="synergy-score-why">Cut 29/09/2026 for Vile Entomber. General 74 and Deck-Specific 72 produce Combined 73.</p></div>
 
 ## Oracle Text
 
@@ -50,12 +50,14 @@ As Gollum enters, choose odd or even. Whenever an opponent casts a spell with ma
 
 ## Deck Role & Rating
 
-Gollum, Riddle Master ({1}{B}). Sleeved 26/09/2026. HOB 70 over Culling the Weak SOA 27. Judge it by whether it serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan.
+Gollum, Riddle Master ({1}{B}). Cut 29/09/2026 for Vile Entomber. Judge it by whether it serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
 - Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
@@ -64,7 +66,7 @@ Gollum, Riddle Master ({1}{B}). Sleeved 26/09/2026. HOB 70 over Culling the Weak
 
 ## Anti-synergies / Notes
 
-- Judge it by whether it serves Ayli, Eternal Pilgrim's Lifegain aristocrats plan.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -87,7 +89,7 @@ Gollum, Riddle Master ({1}{B}). Sleeved 26/09/2026. HOB 70 over Culling the Weak
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 74
 >   deck_specific: 72
@@ -95,7 +97,7 @@ Gollum, Riddle Master ({1}{B}). Sleeved 26/09/2026. HOB 70 over Culling the Weak
 > scryfall_id: bbdc7e37-c65a-497a-92b7-a30a6e369c71
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ajani's Pridemate`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{W}  
 > **Type:** Creature — Cat Soldier  
 > **P/T:** 2/2  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 29/09/2026 for Heliod, Sun-Crowned. |
+> | Deck-Specific | 78 | Cut 29/09/2026 for Heliod, Sun-Crowned. |
+> | **Combined** | **77** | Cut 29/09/2026 for Heliod, Sun-Crowned. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 29/09/2026 for Heliod, Sun-Crowned. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -48,21 +48,23 @@ Whenever you gain life, put a [[03 Effects/Plus One Counters|+1/+1 counter]] on 
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]] turns life into a body. Each life-gain puts a +1/+1 counter on it. It is 2/2, so [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]] doubles its own ETB if anything cares, and Mentor can draw off it.
+Ajani's Pridemate ({1}{W}). Cut 29/09/2026 for Heliod, Sun-Crowned. Judge it by whether it serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Play it after Hinterland or Angel so the first gain is a counter.
-- It is a body Ayli can sac in a pinch — usually keep it as the clock instead.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Lands/Adventurer's Inn|Adventurer's Inn]], [[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]]
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- Ayli exile is not a death. Do not sequence this as if it were.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -85,7 +87,7 @@ Whenever you gain life, put a [[03 Effects/Plus One Counters|+1/+1 counter]] on 
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -93,9 +95,9 @@ Whenever you gain life, put a [[03 Effects/Plus One Counters|+1/+1 counter]] on 
 > scryfall_id: 1796b260-7053-4d68-9918-c7392e312d10
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

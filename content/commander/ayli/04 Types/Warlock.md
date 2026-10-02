@@ -4,4 +4,4 @@ Warlock.
 
 Types in this Lifegain aristocrats list.
 
-**In this vault:** [[02 Cards/Creatures/Emeritus of Woe|Emeritus of Woe]] · [[02 Cards/Creatures/Infestation Sage|Infestation Sage]] · [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]] · [[02 Cards/Creatures/Witch of the Moors|Witch of the Moors]]
+**In this vault:** [[02 Cards/Creatures/Emeritus of Woe|Emeritus of Woe]] · [[02 Cards/Creatures/Infestation Sage|Infestation Sage]] · [[02 Cards/Creatures/Tivash, Gloom Summoner|Tivash, Gloom Summoner]] · [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]] · [[02 Cards/Creatures/Vile Entomber|Vile Entomber]] · [[02 Cards/Creatures/Witch of the Moors|Witch of the Moors]]

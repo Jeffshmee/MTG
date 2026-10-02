@@ -2,7 +2,7 @@
 
 Creature type: Merfolk.
 
-**33** copies · **22** names.
+**40** copies · **25** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -17,6 +17,8 @@ Creature type: Merfolk.
 | [**`mtg:Sygg, Wanderwine Wisdom`**](https://scryfall.com/card/ecl/76) | [[02 Cards/Creatures/Sygg, Wanderwine Wisdom\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] [[04 Creature Types/Rogue\|Rogue]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.28 |
 | [**`mtg:Wanderbrine Preacher`**](https://scryfall.com/card/ecl/41) | [[02 Cards/Creatures/Wanderbrine Preacher\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 2 | 0.12 |
 | [**`mtg:Adept Watershaper`**](https://scryfall.com/card/ecl/3) | [[02 Cards/Creatures/Adept Watershaper\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.45 |
+| [**`mtg:Divining Duelist`**](https://scryfall.com/card/fra/29) | [[02 Cards/Creatures/Divining Duelist\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 3 | 0.27 |
+| [**`mtg:Kiora of Salt and Sand`**](https://scryfall.com/card/fra/273) | [[02 Cards/Creatures/Kiora of Salt and Sand\|PAGE]] | {1}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.10 |
 | [**`mtg:Kiora, the Rising Tide`**](https://scryfall.com/card/fdn/45) | [[02 Cards/Creatures/Kiora, the Rising Tide\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.57 |
 | [**`mtg:Silvergill Peddler`**](https://scryfall.com/card/ecl/70) | [[02 Cards/Creatures/Silvergill Peddler\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Citizen\|Citizen]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |
 | [**`mtg:Campus Composer`**](https://scryfall.com/card/sos/40) | [[02 Cards/Creatures/Campus Composer\|PAGE]] | {3}{U} // {4}{U} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.06 |
@@ -27,4 +29,5 @@ Creature type: Merfolk.
 | [**`mtg:Shipwreck Dowser`**](https://scryfall.com/card/fdn/596) | [[02 Cards/Creatures/Shipwreck Dowser\|PAGE]] | {3}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.12 |
 | [**`mtg:Tatyova, Benthic Druid`**](https://scryfall.com/card/fdn/247) | [[02 Cards/Creatures/Tatyova, Benthic Druid\|PAGE]] | {3}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.09 |
 | [**`mtg:Teferi's Wavecaster`**](https://scryfall.com/card/m21/327) | [[02 Cards/Creatures/Teferi's Wavecaster\|PAGE]] | {3}{U}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.09 |
+| [**`mtg:Kiora of Fire and Ashes`**](https://scryfall.com/card/fra/247) | [[02 Cards/Creatures/Kiora of Fire and Ashes\|PAGE]] | {4}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Merfolk\|Merfolk]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 2 | 0.04 |
 | [**`mtg:Wanderwine Farewell`**](https://scryfall.com/card/ecl/83) | [[02 Cards/Sorceries/Wanderwine Farewell\|PAGE]] | {5}{U}{U} | [[03 Card Types/Sorcery\|Sorcery]] [[03 Card Types/Kindred\|Kindred]] — [[04 Creature Types/Merfolk\|Merfolk]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.11 |

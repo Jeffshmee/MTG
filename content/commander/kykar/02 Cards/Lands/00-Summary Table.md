@@ -2,13 +2,14 @@
 
 Every **Lands** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**39** copies · **31** names.
+**40** copies · **32** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Adarkar Wastes`**](https://scryfall.com/card/eoc/147) | [[02 Cards/Lands/Adarkar Wastes\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {U}{W} | 0 | 1 | 0.00 |
 | [**`mtg:Azorius Chancery`**](https://scryfall.com/card/dsc/261) | [[02 Cards/Lands/Azorius Chancery\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {U}{W} | 0 | 1 | 0.16 |
 | [**`mtg:Azorius Guildgate`**](https://scryfall.com/card/fdn/683) | [[02 Cards/Lands/Azorius Guildgate\|PAGE]] | — | [[04 Types/Land\|Land]] [[04 Types/Gate\|Gate]] | [[04 Types/Land\|Land]] {U}{W} | 0 | 1 | 0.15 |
+| [**`mtg:Castle Vantress`**](https://scryfall.com/card/dsc/267) | [[02 Cards/Lands/Castle Vantress\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {U} | 0 | 1 | 0.22 |
 | [**`mtg:Command Tower`**](https://scryfall.com/card/frc/22) | [[02 Cards/Lands/Command Tower\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.84 |
 | [**`mtg:Cryptic Caves`**](https://scryfall.com/card/fdn/771) | [[02 Cards/Lands/Cryptic Caves\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.16 |
 | [**`mtg:Demolition Field`**](https://scryfall.com/card/fdn/687) | [[02 Cards/Lands/Demolition Field\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.23 |

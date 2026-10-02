@@ -21,7 +21,7 @@ Every **Sorceries** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Release the Dogs`**](https://scryfall.com/card/tdc/127) | [[02 Cards/Sorceries/Release the Dogs\|PAGE]] | {3}{W} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | 4 | 1 | 0.20 |
 | [**`mtg:Rite of Replication`**](https://scryfall.com/card/soc/202) | [[02 Cards/Sorceries/Rite of Replication\|PAGE]] | {2}{U}{U} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 0.30 |
 | [**`mtg:Supreme Verdict`**](https://scryfall.com/card/clu/211) | [[02 Cards/Sorceries/Supreme Verdict\|PAGE]] | {1}{W}{W}{U} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] [[05 Colours/White\|White]] | 4 | 1 | 0.00 |
-| [**`mtg:Time Wipe`**](https://scryfall.com/card/tdc/308) | [[02 Cards/Sorceries/Time Wipe\|PAGE]] | {2}{W}{W}{U} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] [[05 Colours/White\|White]] | 5 | 1 | 0.00 |
+| [**`mtg:Time Wipe`**](https://scryfall.com/card/tdc/308) | [[02 Cards/Sorceries/Time Wipe\|PAGE]] | {2}{W}{W}{U} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] [[05 Colours/White\|White]] | 5 | 1 | 0.11 |
 | [**`mtg:Farewell`**](https://scryfall.com/card/mkc/64) | [[02 Cards/Sorceries/Farewell\|PAGE]] | {4}{W}{W} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | 6 | 1 | 3.41 |
 | [**`mtg:Flood of Tears`**](https://scryfall.com/card/voc/104) | [[02 Cards/Sorceries/Flood of Tears\|PAGE]] | {4}{U}{U} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | 6 | 1 | 0.85 |
 | [**`mtg:River's Rebuke`**](https://scryfall.com/card/fdn/595) | [[02 Cards/Sorceries/River's Rebuke\|PAGE]] | {4}{U}{U} | [[04 Types/Sorcery\|Sorcery]] | [[05 Colours/Blue\|Blue]] | 6 | 1 | 0.39 |

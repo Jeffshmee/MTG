@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Marauding Blight-Priest`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{B}  
 > **Type:** Creature — Vampire Cleric  
 > **P/T:** 3/2  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 29/09/2026 for Reaping Willow. |
+> | Deck-Specific | 78 | Cut 29/09/2026 for Reaping Willow. |
+> | **Combined** | **77** | Cut 29/09/2026 for Reaping Willow. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 29/09/2026 for Reaping Willow. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -48,22 +48,23 @@ Whenever you gain life, each opponent loses 1 life.
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]] turns each life gain into a ping. 3/2 — [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]] does **not** double it. Live drain-on-life with [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]].
+Marauding Blight-Priest ({2}{B}). Cut 29/09/2026 for Reaping Willow. Judge it by whether it serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Play after Hinterland so each ETB pings. This is how life becomes a clock before Vito is sleeved.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Life**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]]
-- **Life ping**: [[02 Cards/Creatures/Hinterland Sanctifier|Hinterland Sanctifier]], [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]], [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]]
-- **Still sideboard**: [[02 Cards/Creatures/Enduring Tenacity|Enduring Tenacity]] *(owned extra)*
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- 3/2: Delney off.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -86,7 +87,7 @@ Whenever you gain life, each opponent loses 1 life.
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: []
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -94,9 +95,9 @@ Whenever you gain life, each opponent loses 1 life.
 > scryfall_id: 5f70dafc-c638-4ec0-ab5b-62998f752720
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

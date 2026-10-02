@@ -1,7 +1,7 @@
 # Tyvar
 
-*Planeswalker type.*
+Tyvar.
 
-The subtype on [[02 Cards/Planeswalkers/Tyvar Kell|Tyvar Kell]]. Only one legendary Tyvar with that name can be controlled.
+Types in this Elves plus Faeries list.
 
 **In this vault:** [[02 Cards/Planeswalkers/Tyvar Kell|Tyvar Kell]]

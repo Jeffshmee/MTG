@@ -2,7 +2,7 @@
 
 Creature type: Berserker.
 
-**9** copies · **8** names.
+**11** copies · **9** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -12,5 +12,6 @@ Creature type: Berserker.
 | [**`mtg:Bloodbraid Elf`**](https://scryfall.com/card/pca/84) | [[02 Cards/Creatures/Bloodbraid Elf\|PAGE]] | {2}{R}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.46 |
 | [**`mtg:Boneclub Berserker`**](https://scryfall.com/card/ecl/126) | [[02 Cards/Creatures/Boneclub Berserker\|PAGE]] | {3}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.05 |
 | [**`mtg:Garna, Bloodfist of Keld`**](https://scryfall.com/card/fdn/658) | [[02 Cards/Creatures/Garna, Bloodfist of Keld\|PAGE]] | {1}{B}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.16 |
+| [**`mtg:Jiang Yanggu, Alone`**](https://scryfall.com/card/fra/246) | [[02 Cards/Creatures/Jiang Yanggu, Alone\|PAGE]] | {4}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.06 |
 | [**`mtg:Junkblade Bruiser`**](https://scryfall.com/card/blb/220) | [[02 Cards/Creatures/Junkblade Bruiser\|PAGE]] | {3}{R/G}{R/G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Raccoon\|Raccoon]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.05 |
 | [**`mtg:Wildvine Pummeler`**](https://scryfall.com/card/ecl/203) | [[02 Cards/Creatures/Wildvine Pummeler\|PAGE]] | {6}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Giant\|Giant]] [[04 Creature Types/Berserker\|Berserker]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.03 |

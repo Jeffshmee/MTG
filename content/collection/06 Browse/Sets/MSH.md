@@ -2,7 +2,7 @@
 
 Set `MSH`. Qty here is copies of this name from this set.
 
-**21** copies · **21** names.
+**23** copies · **23** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,10 +10,12 @@ Set `MSH`. Qty here is copies of this name from this set.
 | [**`mtg:Gathering Place`**](https://scryfall.com/card/msh/381) | [[02 Cards/Lands/Gathering Place\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 2.67 |
 | [**`mtg:S.H.I.E.L.D. Spy Kit`**](https://scryfall.com/card/msh/36) | [[02 Cards/Artifacts/S.H.I.E.L.D. Spy Kit\|PAGE]] | {W} | [[03 Card Types/Artifact\|Artifact]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.06 |
 | [**`mtg:Super-Soldier Serum`**](https://scryfall.com/card/msh/38) | [[02 Cards/Enchantments/Super-Soldier Serum\|PAGE]] | {1}{W} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.61 |
+| [**`mtg:Tigra, Feline Fury`**](https://scryfall.com/card/msh/191) | [[02 Cards/Creatures/Tigra, Feline Fury\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Human\|Human]] [[04 Creature Types/Hero\|Hero]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.16 |
 | [**`mtg:Undercover Skrull`**](https://scryfall.com/card/msh/194) | [[02 Cards/Creatures/Undercover Skrull\|PAGE]] | {1}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Skrull\|Skrull]] [[04 Creature Types/Shapeshifter\|Shapeshifter]] [[04 Creature Types/Villain\|Villain]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.09 |
 | [**`mtg:Widow's Bite`**](https://scryfall.com/card/msh/122) | [[02 Cards/Instants/Widow's Bite\|PAGE]] | {1}{B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Depower`**](https://scryfall.com/card/msh/50) | [[02 Cards/Instants/Depower\|PAGE]] | {2}{U} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Frozen in Ice`**](https://scryfall.com/card/msh/54) | [[02 Cards/Enchantments/Frozen in Ice\|PAGE]] | {2}{U} | [[03 Card Types/Enchantment\|Enchantment]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
+| [**`mtg:Justice, Vance Astrovik`**](https://scryfall.com/card/msh/61) | [[02 Cards/Creatures/Justice, Vance Astrovik\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Mutant\|Mutant]] [[04 Creature Types/Hero\|Hero]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.10 |
 | [**`mtg:Kree Commandos`**](https://scryfall.com/card/msh/19) | [[02 Cards/Creatures/Kree Commandos\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Kree\|Kree]] [[04 Creature Types/Soldier\|Soldier]] [[04 Creature Types/Villain\|Villain]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Red Guardian, Super-Soldier`**](https://scryfall.com/card/msh/34) | [[02 Cards/Creatures/Red Guardian, Super-Soldier\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] [[04 Creature Types/Villain\|Villain]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.13 |
 | [**`mtg:Speedball, New Warrior`**](https://scryfall.com/card/msh/227) | [[02 Cards/Creatures/Speedball, New Warrior\|PAGE]] | {2}{U/R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Hero\|Hero]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.07 |

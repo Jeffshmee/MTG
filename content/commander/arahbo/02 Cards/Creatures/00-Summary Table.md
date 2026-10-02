@@ -2,7 +2,7 @@
 
 Every **Creatures** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**43** copies · **43** names.
+**45** copies · **45** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -24,6 +24,7 @@ Every **Creatures** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Prowling Caracal`**](https://scryfall.com/card/m20/309) | [[02 Cards/Creatures/Prowling Caracal\|PAGE]] | {1}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] | [[05 Colours/White\|White]] | 2 | 1 | 0.15 |
 | [**`mtg:Qasali Pridemage`**](https://scryfall.com/card/2x2/267) | [[02 Cards/Creatures/Qasali Pridemage\|PAGE]] | {G}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Wizard\|Wizard]] | [[05 Colours/Green\|Green]] [[05 Colours/White\|White]] | 2 | 1 | 0.22 |
 | [**`mtg:Skyknight Squire`**](https://scryfall.com/card/fdn/23) | [[02 Cards/Creatures/Skyknight Squire\|PAGE]] | {1}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Scout\|Scout]] | [[05 Colours/White\|White]] | 2 | 1 | 0.34 |
+| [**`mtg:Tigra, Feline Fury`**](https://scryfall.com/card/msh/191) | [[02 Cards/Creatures/Tigra, Feline Fury\|PAGE]] | {1}{G} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Human\|Human]] [[04 Types/Hero\|Hero]] | [[05 Colours/Green\|Green]] | 2 | 1 | 0.16 |
 | [**`mtg:Arahbo, the First Fang`**](https://scryfall.com/card/fdn/2) | [[02 Cards/Creatures/Arahbo, the First Fang\|PAGE]] | {2}{W} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Avatar\|Avatar]] | [[05 Colours/White\|White]] | 3 | 1 | 0.58 |
 | [**`mtg:Brimaz, King of Oreskos`**](https://scryfall.com/card/bng/5) | [[02 Cards/Creatures/Brimaz, King of Oreskos\|PAGE]] | {1}{W}{W} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | 3 | 1 | 5.30 |
 | [**`mtg:Cat Collector`**](https://scryfall.com/card/fdn/4) | [[02 Cards/Creatures/Cat Collector\|PAGE]] | {2}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Citizen\|Citizen]] | [[05 Colours/White\|White]] | 3 | 1 | 0.16 |
@@ -45,6 +46,7 @@ Every **Creatures** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Wilt-Leaf Liege`**](https://scryfall.com/card/fdn/668) | [[02 Cards/Creatures/Wilt-Leaf Liege\|PAGE]] | {1}{G/W}{G/W}{G/W} | [[04 Types/Creature\|Creature]] [[04 Types/Elf\|Elf]] [[04 Types/Knight\|Knight]] | [[05 Colours/Green\|Green]] [[05 Colours/White\|White]] | 4 | 1 | 0.24 |
 | [**`mtg:Alacrian Jaguar`**](https://scryfall.com/card/dft/152) | [[02 Cards/Creatures/Alacrian Jaguar\|PAGE]] | {4}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Mount\|Mount]] | [[05 Colours/Green\|Green]] | 5 | 1 | 0.03 |
 | [**`mtg:Arahbo, Roar of the World`**](https://scryfall.com/card/c17/35) | [[02 Cards/Creatures/Arahbo, Roar of the World\|PAGE]] | {3}{G}{W} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Avatar\|Avatar]] | [[05 Colours/Green\|Green]] [[05 Colours/White\|White]] | 5 | 1 | 18.47 |
+| [**`mtg:Ka-Zar of the Savage Land`**](https://scryfall.com/card/msh/174) | [[02 Cards/Creatures/Ka-Zar of the Savage Land\|PAGE]] | {4}{G} | [[04 Types/Legendary\|Legendary]] [[04 Types/Creature\|Creature]] [[04 Types/Human\|Human]] [[04 Types/Barbarian\|Barbarian]] [[04 Types/Hero\|Hero]] | [[05 Colours/Green\|Green]] | 5 | 1 | 0.08 |
 | [**`mtg:Keeper of Fables`**](https://scryfall.com/card/znc/71) | [[02 Cards/Creatures/Keeper of Fables\|PAGE]] | {3}{G}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] | [[05 Colours/Green\|Green]] | 5 | 1 | 0.13 |
 | [**`mtg:Qasali Slingers`**](https://scryfall.com/card/c17/33) | [[02 Cards/Creatures/Qasali Slingers\|PAGE]] | {4}{G} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] [[04 Types/Warrior\|Warrior]] | [[05 Colours/Green\|Green]] | 5 | 1 | 6.69 |
 | [**`mtg:Regal Caracal`**](https://scryfall.com/card/fdn/579) | [[02 Cards/Creatures/Regal Caracal\|PAGE]] | {3}{W}{W} | [[04 Types/Creature\|Creature]] [[04 Types/Cat\|Cat]] | [[05 Colours/White\|White]] | 5 | 1 | 0.36 |

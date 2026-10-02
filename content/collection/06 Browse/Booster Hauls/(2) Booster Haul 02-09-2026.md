@@ -20,7 +20,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Dreamroot Cascade`**](https://scryfall.com/card/sos/254) | [[02 Cards/Lands/Dreamroot Cascade\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Maralen | Sleeved in the Maralen 100 (cut one FDN 281 Forest). |
 | [**`mtg:Prismatic Ending`**](https://scryfall.com/card/soa/7) | [[02 Cards/Sorceries/Prismatic Ending\|PAGE]] | {X}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Zurgo | Owned on Zurgo sideboard. Suggested cut: Mortify. |
 | [**`mtg:Emeritus of Woe`**](https://scryfall.com/card/sos/80) | [[02 Cards/Creatures/Emeritus of Woe\|PAGE]] | {3}{B} // {1}{B} | [[03 Card Types/Creature\|Creature]] | Box | Sleeve for the box (mythic). Vampire Warlock — not an Elf/Faerie. Not a Maralen 100 cut. |
-| [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | [[02 Cards/Instants/Culling the Weak\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | Box | Sleeve for the box (rare £6.63). Not a 100 cut — sacrifice a body for {B}{B}{B}{B} is hard to spend in this Sultai pile. |
+| Culling the Weak | — | — | — | Box | Sleeve for the box (rare £6.63). Not a 100 cut — sacrifice a body for {B}{B}{B}{B} is hard to spend in this Sultai pile. |
 | [**`mtg:Emeritus of Ideation`**](https://scryfall.com/card/sos/45) | [[02 Cards/Creatures/Emeritus of Ideation\|PAGE]] | {3}{U}{U} // {U} | [[03 Card Types/Creature\|Creature]] | Kykar | Sleeved in the Kykar in-hand pile (now in deck). Commander-legal — the banned card is standalone Ancestral Recall |
 | [**`mtg:Improvisation Capstone`**](https://scryfall.com/card/sos/120) | [[02 Cards/Sorceries/Improvisation Capstone\|PAGE]] | {5}{R}{R} | [[03 Card Types/Sorcery\|Sorcery]] | Box | Sleeve for the box (mythic). |
 | [**`mtg:Flashback`**](https://scryfall.com/card/sos/115) | [[02 Cards/Instants/Flashback\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | Box | Sleeve for the box (rare £4.11). |
@@ -91,7 +91,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 
 | Name | | Mana | Type | Rarity | Foil | Qty | Est. Price (GBP) | Note |
 |------|--|------|------|--------|------|-----|------------------|------|
-| [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | [[02 Cards/Instants/Culling the Weak\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | Rare | — | 1 | 6.63 | **Box:** Sleeve for the box (rare £6.63). Not a 100 cut — sacrifice a body for {B}{B}{B}{B} is hard to spend in this Sultai pile. |
+| [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | — | — | — | Rare | — | 1 | 6.63 | **Box:** Sleeve for the box (rare £6.63). Not a 100 cut — sacrifice a body for {B}{B}{B}{B} is hard to spend in this Sultai pile. |
 | [**`mtg:Flashback`**](https://scryfall.com/card/sos/115) | [[02 Cards/Instants/Flashback\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | Rare | — | 1 | 4.11 | **Box:** Sleeve for the box (rare £4.11). |
 | [**`mtg:Veil of Summer`**](https://scryfall.com/card/soa/60) | [[02 Cards/Instants/Veil of Summer\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | Rare | — | 1 | 3.46 | **Maralen:** Owned on Maralen Sideboard. Suggested cut: Negate (Heroic Intervention already covers wipes; Veil is cheaper vs blue/black). |
 | [**`mtg:Cauldron of Essence`**](https://scryfall.com/card/sos/179) | [[02 Cards/Artifacts/Cauldron of Essence\|PAGE]] | {1}{B}{G} | [[03 Card Types/Artifact\|Artifact]] | Rare | — | 1 | 2.73 | **Box:** Sleeve for the box (rare £2.73). |
@@ -944,7 +944,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Borrowed Knowledge`**](https://scryfall.com/card/sos/178) | [[02 Cards/Sorceries/Borrowed Knowledge\|PAGE]] | {2}{R}{W} | [[03 Card Types/Sorcery\|Sorcery]] | Uncommon | — | 1 | 0.10 | — |
 | [**`mtg:Eternal Student`**](https://scryfall.com/card/sos/82) | [[02 Cards/Creatures/Eternal Student\|PAGE]] | {3}{B} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.05 | — |
 | [**`mtg:Mind into Matter`**](https://scryfall.com/card/sos/202) | [[02 Cards/Sorceries/Mind into Matter\|PAGE]] | {X}{G}{U} | [[03 Card Types/Sorcery\|Sorcery]] | Rare | — | 1 | 0.29 | — |
-| [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | [[02 Cards/Instants/Culling the Weak\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | Rare | — | 1 | 6.63 | **Box:** Sleeve for the box (rare £6.63). Not a 100 cut — sacrifice a body for {B}{B}{B}{B} is hard to spend in this Sultai pile. |
+| [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | — | — | — | Rare | — | 1 | 6.63 | **Box:** Sleeve for the box (rare £6.63). Not a 100 cut — sacrifice a body for {B}{B}{B}{B} is hard to spend in this Sultai pile. |
 | [**`mtg:Render Speechless`**](https://scryfall.com/card/sos/220) | [[02 Cards/Sorceries/Render Speechless\|PAGE]] | {2}{W}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Common | foil | 1 | 0.03 | — |
 | [**`mtg:Swamp`**](https://scryfall.com/card/sos/269) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.52 | — |
 | [**`mtg:Elemental`**](https://scryfall.com/card/tsos/3) | [[02 Cards/Tokens/Elemental\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |

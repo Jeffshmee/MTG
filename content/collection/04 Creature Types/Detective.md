@@ -2,13 +2,14 @@
 
 Creature type: Detective.
 
-**16** copies · **12** names.
+**17** copies · **13** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Novice Inspector`**](https://scryfall.com/card/mkm/29) | [[02 Cards/Creatures/Novice Inspector\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.26 |
 | [**`mtg:Rubblebelt Maverick`**](https://scryfall.com/card/mkm/174) | [[02 Cards/Creatures/Rubblebelt Maverick\|PAGE]] | {G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.13 |
 | [**`mtg:Jaded Analyst`**](https://scryfall.com/card/mkm/62) | [[02 Cards/Creatures/Jaded Analyst\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
+| [**`mtg:Proft, Consulting Detective`**](https://scryfall.com/card/fra/218) | [[02 Cards/Creatures/Proft, Consulting Detective\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.03 |
 | [**`mtg:Faerie Snoop`**](https://scryfall.com/card/mkm/203) | [[02 Cards/Creatures/Faerie Snoop\|PAGE]] | {1}{U}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Faerie\|Faerie]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.03 |
 | [**`mtg:Forensic Gadgeteer`**](https://scryfall.com/card/mkm/342) | [[02 Cards/Creatures/Forensic Gadgeteer\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Vedalken\|Vedalken]] [[04 Creature Types/Artificer\|Artificer]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 1.54 |
 | [**`mtg:Private Eye`**](https://scryfall.com/card/mkm/223) | [[02 Cards/Creatures/Private Eye\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Homunculus\|Homunculus]] [[04 Creature Types/Detective\|Detective]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.22 |

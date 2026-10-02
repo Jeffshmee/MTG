@@ -2,10 +2,11 @@
 
 Every **Instants** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**5** copies · **5** names.
+**6** copies · **6** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Eladamri's Call`**](https://scryfall.com/card/mh1/197) | [[02 Cards/Instants/Eladamri's Call\|PAGE]] | {G}{W} | [[04 Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] [[05 Colours/White\|White]] | 2 | 1 | 6.86 |
 | [**`mtg:Heroic Intervention`**](https://scryfall.com/card/cmm/295) | [[02 Cards/Instants/Heroic Intervention\|PAGE]] | {1}{G} | [[04 Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | 2 | 1 | 11.93 |
 | [**`mtg:Unbreakable Formation`**](https://scryfall.com/card/rvr/32) | [[02 Cards/Instants/Unbreakable Formation\|PAGE]] | {2}{W} | [[04 Types/Instant\|Instant]] | [[05 Colours/White\|White]] | 3 | 1 | 0.55 |
 | [**`mtg:White Sun's Zenith`**](https://scryfall.com/card/cmr/391) | [[02 Cards/Instants/White Sun's Zenith\|PAGE]] | {X}{W}{W}{W} | [[04 Types/Instant\|Instant]] | [[05 Colours/White\|White]] | 3 | 1 | 0.25 |

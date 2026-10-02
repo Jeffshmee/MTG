@@ -13,26 +13,35 @@ legality: commander
 1 Evolving Wilds
 1 Hobbit Hole
 1 Starlit Sanctum
-1 Culling the Weak
 1 Doomed Traveler
 1 Hinterland Sanctifier
 1 Hunted Witness
+1 Knight of the Ebon Legion
 1 Novice Inspector
 1 Slice from the Shadows
+1 Ajani's Pridemate
 1 Despark
 1 Exsanguinate
+1 Gollum, Riddle Master
 1 Kalastria Highborn
 1 Knight of the White Orchid
+1 Nullpriest of Oblivion
 1 Resolute Reinforcements
+1 Return to Action
+1 Tymaret, Chosen from Death
+1 Whitesun's Passage
 1 Adeline, Resplendent Cathar
 1 Anguished Unmaking
 1 Inspiring Overseer
 1 Lingering Souls
+1 Marauding Blight-Priest
 1 Midnight Reaper
 1 Moonrise Cleric
 1 Phyrexian Arena
 1 Victimize
 1 Woe Strider
+1 Yahenni, Undying Partisan
+1 Tivash, Gloom Summoner
 1 Massacre Wurm
 
 # Ordered
@@ -47,7 +56,7 @@ legality: commander
 ---
 
 *Source: `ayli-pilgrim/07 Assets/sideboard.md`*
-*Last synced: 2026-09-26 (26-09 to-do)*
+*Last synced: 2026-09-29 (29-09 to-do)*
 
 ---
 
@@ -83,6 +92,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
+> [!info] **`mtg:Knight of the Ebon Legion`**
+> **63** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:63%"></div></div>
+>
+> [[02 Cards/Creatures/Knight of the Ebon Legion|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
 > [!info] **`mtg:Novice Inspector`**
 > **81** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:81%"></div></div>
@@ -98,9 +115,17 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > [[02 Cards/Creatures/Viscera Seer|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Gollum, Riddle Master|Gollum, Riddle Master]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
-> > - [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+> > - [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+> > - [[02 Cards/Creatures/Priest of Forgotten Gods|Priest of Forgotten Gods]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+> > - [[02 Cards/Creatures/Rhox Faithmender|Rhox Faithmender]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+
+> [!info] **`mtg:Ajani's Pridemate`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Creatures/Ajani's Pridemate|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Cruel Celebrant`**
 > **92** / 100 · ⚪ Wishlist
@@ -109,9 +134,17 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > [[02 Cards/Creatures/Cruel Celebrant|Open local page →]]
 >
 > > [!note]- Possible Cuts
-> > - [[02 Cards/Creatures/Gollum, Riddle Master|Gollum, Riddle Master]] **73** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:73%"></div></div>
-> > - [[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
-> > - [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+> > - [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+> > - [[02 Cards/Creatures/Priest of Forgotten Gods|Priest of Forgotten Gods]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+> > - [[02 Cards/Creatures/Rhox Faithmender|Rhox Faithmender]] **77** <div class="synergy-bar" style="display:inline-block;width:100px;vertical-align:middle;margin-left:6px"><div style="width:77%"></div></div>
+
+> [!info] **`mtg:Gollum, Riddle Master`**
+> **73** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:73%"></div></div>
+>
+> [[02 Cards/Creatures/Gollum, Riddle Master|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 > [!info] **`mtg:Kalastria Highborn`**
 > **78** / 100 · 🟢 Owned
@@ -129,11 +162,27 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
+> [!info] **`mtg:Nullpriest of Oblivion`**
+> **85** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:85%"></div></div>
+>
+> [[02 Cards/Creatures/Nullpriest of Oblivion|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
 > [!info] **`mtg:Resolute Reinforcements`**
 > **77** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
 > [[02 Cards/Creatures/Resolute Reinforcements|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Tymaret, Chosen from Death`**
+> **73** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:73%"></div></div>
+>
+> [[02 Cards/Creatures/Tymaret, Chosen from Death|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -150,6 +199,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
 > [[02 Cards/Creatures/Inspiring Overseer|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Marauding Blight-Priest`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Creatures/Marauding Blight-Priest|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -177,6 +234,22 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
+> [!info] **`mtg:Yahenni, Undying Partisan`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Creatures/Yahenni, Undying Partisan|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Tivash, Gloom Summoner`**
+> **72** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:72%"></div></div>
+>
+> [[02 Cards/Creatures/Tivash, Gloom Summoner|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
 > [!info] **`mtg:Massacre Wurm`**
 > **87** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:87%"></div></div>
@@ -186,14 +259,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Instants
-> [!info] **`mtg:Culling the Weak`**
-> **85** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:85%"></div></div>
->
-> [[02 Cards/Instants/Culling the Weak|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
 > [!info] **`mtg:Slice from the Shadows`**
 > **75** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:75%"></div></div>
@@ -207,6 +272,22 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
 > [[02 Cards/Instants/Despark|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Return to Action`**
+> **76** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:76%"></div></div>
+>
+> [[02 Cards/Instants/Return to Action|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Whitesun's Passage`**
+> **65** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:65%"></div></div>
+>
+> [[02 Cards/Instants/Whitesun's Passage|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 

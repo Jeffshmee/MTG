@@ -2,7 +2,7 @@
 
 Every **Artifacts** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**14** copies · **14** names.
+**15** copies · **15** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -18,5 +18,6 @@ Every **Artifacts** page in this vault. Same columns as the collection Catalogue
 | [**`mtg:Thought Vessel`**](https://scryfall.com/card/mbc/78) | [[02 Cards/Artifacts/Thought Vessel\|PAGE]] | {2} | [[04 Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | 2 | 1 | 0.85 |
 | [**`mtg:Wizard's Staff`**](https://scryfall.com/card/hob/59) | [[02 Cards/Artifacts/Wizard's Staff\|PAGE]] | {1}{U} | [[04 Types/Artifact\|Artifact]] [[04 Types/Equipment\|Equipment]] | [[05 Colours/Blue\|Blue]] | 2 | 1 | 3.72 |
 | [**`mtg:Midnight Clock`**](https://scryfall.com/card/otc/100) | [[02 Cards/Artifacts/Midnight Clock\|PAGE]] | {2}{U} | [[04 Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | 3 | 1 | 3.74 |
+| [**`mtg:Simulacrum Synthesizer`**](https://scryfall.com/card/big/6) | [[02 Cards/Artifacts/Simulacrum Synthesizer\|PAGE]] | {2}{U} | [[04 Types/Artifact\|Artifact]] | [[05 Colours/Blue\|Blue]] | 3 | 1 | 14.29 |
 | [**`mtg:Panharmonicon`**](https://scryfall.com/card/2x2/310) | [[02 Cards/Artifacts/Panharmonicon\|PAGE]] | {4} | [[04 Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | 4 | 1 | 5.37 |
 | [**`mtg:Conjurer's Closet`**](https://scryfall.com/card/inr/259) | [[02 Cards/Artifacts/Conjurer's Closet\|PAGE]] | {5} | [[04 Types/Artifact\|Artifact]] | [[05 Colours/Colourless\|Colourless]] | 5 | 1 | 0.00 |

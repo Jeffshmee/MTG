@@ -2,12 +2,12 @@
 
 Every **Instants** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**41** copies · **41** names.
+**42** copies · **42** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:An Offer You Can't Refuse`**](https://scryfall.com/card/fdn/160) | [[02 Cards/Instants/An Offer You Can't Refuse\|PAGE]] | {U} | [[04 Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | 1 | 1 | 2.29 |
-| [**`mtg:Cloudshift`**](https://scryfall.com/card/tle/152) | [[02 Cards/Instants/Cloudshift\|PAGE]] | {W} | [[04 Types/Instant\|Instant]] | [[05 Colours/White\|White]] | 1 | 1 | 0.00 |
+| [**`mtg:Cloudshift`**](https://scryfall.com/card/tle/152) | [[02 Cards/Instants/Cloudshift\|PAGE]] | {W} | [[04 Types/Instant\|Instant]] | [[05 Colours/White\|White]] | 1 | 1 | 0.68 |
 | [**`mtg:Consider`**](https://scryfall.com/card/tle/157) | [[02 Cards/Instants/Consider\|PAGE]] | {U} | [[04 Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | 1 | 1 | 0.00 |
 | [**`mtg:Divine Resilience`**](https://scryfall.com/card/fdn/10) | [[02 Cards/Instants/Divine Resilience\|PAGE]] | {W} | [[04 Types/Instant\|Instant]] | [[05 Colours/White\|White]] | 1 | 1 | 0.16 |
 | [**`mtg:Ephemerate`**](https://scryfall.com/card/mh1/7) | [[02 Cards/Instants/Ephemerate\|PAGE]] | {W} | [[04 Types/Instant\|Instant]] | [[05 Colours/White\|White]] | 1 | 1 | 4.30 |
@@ -45,5 +45,6 @@ Every **Instants** page in this vault. Same columns as the collection Catalogue 
 | [**`mtg:Sink into Stupor`**](https://scryfall.com/card/mh3/241) | [[02 Cards/Instants/Sink into Stupor\|PAGE]] | — | [[04 Types/Instant\|Instant]] [[04 Types/Land\|Land]] | [[05 Colours/Colourless\|Colourless]] | 3 | 1 | 0.00 |
 | [**`mtg:Stroke of Midnight`**](https://scryfall.com/card/frc/35) | [[02 Cards/Instants/Stroke of Midnight\|PAGE]] | {2}{W} | [[04 Types/Instant\|Instant]] | [[05 Colours/White\|White]] | 3 | 1 | 0.42 |
 | [**`mtg:Aetherize`**](https://scryfall.com/card/fdn/151) | [[02 Cards/Instants/Aetherize\|PAGE]] | {3}{U} | [[04 Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 0.52 |
+| [**`mtg:Aethermage's Touch`**](https://scryfall.com/card/2x2/167) | [[02 Cards/Instants/Aethermage's Touch\|PAGE]] | {2}{W}{U} | [[04 Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] [[05 Colours/White\|White]] | 4 | 1 | 0.11 |
 | [**`mtg:Mystical Teachings`**](https://scryfall.com/card/fdn/594) | [[02 Cards/Instants/Mystical Teachings\|PAGE]] | {3}{U} | [[04 Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | 4 | 1 | 0.11 |
 | [**`mtg:Evacuation`**](https://scryfall.com/card/lcc/156) | [[02 Cards/Instants/Evacuation\|PAGE]] | {3}{U}{U} | [[04 Types/Instant\|Instant]] | [[05 Colours/Blue\|Blue]] | 5 | 1 | 0.00 |

@@ -8,6 +8,16 @@ group: auto
 legality: commander
 
 # Owned extras (in hand, not sleeved)
+1 Daydream
+1 Mocking Sprite
+1 Aven Fogbringer
+1 Simulacrum Synthesizer
+1 Aethermage's Touch
+1 Hardlight Containment
+1 Castle Vantress
+1 Deceiver Exarch
+1 Twining Twins
+1 Time Wipe
 1 Lofty Denial
 1 Angel of Finality
 1 Momentary Blink
@@ -53,17 +63,14 @@ legality: commander
 1 Mystical Teachings
 1 Release the Dogs
 1 Solemn Simulacrum
-1 Bard, King of Dale
 1 Meteor Golem
 1 Turtles in Time
 1 Wanderwine Farewell
 1 Wisdom of Ages
 
 # Ordered
-1 Cloudshift
 1 Skyclave Apparition
 1 Venser, Shaper Savant
-1 Time Wipe
 
 # Wishlist
 1 Adarkar Wastes
@@ -105,7 +112,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/sideboard.md`*
-*Last synced: 2026-09-26 (Mana Sculpt, Man-o'-War)*
+*Last synced: 2026-09-29 (Cloudshift, Justice)*
 
 ---
 
@@ -117,6 +124,42 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 **Status key:** 🟢 Owned · 🟡 Ordered · ⚪ Wishlist
 
 ### Creatures
+
+> [!info] **`mtg:Mocking Sprite`**
+> **75** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:75%"></div></div>
+>
+> [[02 Cards/Creatures/Mocking Sprite|Open local page →]]
+>
+> *Cut 29/09/2026 for Justice, Vance Astrovik. FDN 159. Maralen keeps its FDN 159.*
+
+
+> [!info] **`mtg:Aven Fogbringer`**
+> **63** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:63%"></div></div>
+>
+> [[02 Cards/Creatures/Aven Fogbringer|Open local page →]]
+>
+> *Arrived 29/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
+
+
+> [!info] **`mtg:Deceiver Exarch`**
+> **82** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:82%"></div></div>
+>
+> [[02 Cards/Creatures/Deceiver Exarch|Open local page →]]
+>
+> *Arrived 29/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
+
+
+> [!info] **`mtg:Twining Twins`**
+> **84** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:84%"></div></div>
+>
+> [[02 Cards/Creatures/Twining Twins|Open local page →]]
+>
+> *Arrived 29/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
+
 
 > [!info] **`mtg:Angel of Finality`**
 > **75** / 100 · 🟢 Owned
@@ -302,14 +345,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Stay in sideboard / wishlist — not purchased.*
 
-> [!info] **`mtg:Bard, King of Dale`**
-> **80** / 100 · 🟢 Owned
-> <div class="synergy-bar"><div style="width:80%"></div></div>
->
-> [[02 Cards/Creatures/Bard, King of Dale|Open local page →]]
->
-> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
-
 > [!info] **`mtg:Meteor Golem`**
 > **76** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:76%"></div></div>
@@ -320,6 +355,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 
 ### Instants
 
+> [!info] **`mtg:Aethermage's Touch`**
+> **76** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:76%"></div></div>
+>
+> [[02 Cards/Instants/Aethermage's Touch|Open local page →]]
+>
+> *Arrived 29/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
+
+
 > [!info] **`mtg:Lofty Denial`**
 > **82** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:82%"></div></div>
@@ -328,14 +372,6 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Cut 26/09/2026 for Mana Sculpt.*
 
-
-> [!info] **`mtg:Cloudshift`**
-> **89** / 100 · 🟡 Ordered
-> <div class="synergy-bar"><div style="width:89%"></div></div>
->
-> [[02 Cards/Instants/Cloudshift|Open local page →]]
->
-> *Purchased, not in hand. Add when the shipment arrives.*
 
 > [!info] **`mtg:Consider`**
 > **86** / 100 · ⚪ Wishlist
@@ -530,6 +566,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / wishlist — not purchased.*
 
 ### Sorceries
+
+> [!info] **`mtg:Daydream`**
+> **88** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:88%"></div></div>
+>
+> [[02 Cards/Sorceries/Daydream|Open local page →]]
+>
+> *Cut 29/09/2026 for Cloudshift. SOS 9. Sorcery blink. Lands stayed 26.*
+
 > [!info] **`mtg:Preordain`**
 > **86** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:86%"></div></div>
@@ -595,13 +640,12 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / wishlist — not purchased.*
 
 > [!info] **`mtg:Time Wipe`**
-> **89** / 100 · 🟡 Ordered
+> **89** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:89%"></div></div>
 >
 > [[02 Cards/Sorceries/Time Wipe|Open local page →]]
 >
-> *Purchased, not in hand. Add when the shipment arrives.*
-
+> *Arrived 29/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
 > [!info] **`mtg:Turtles in Time`**
 > **80** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:80%"></div></div>
@@ -627,6 +671,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Enchantments
+
+> [!info] **`mtg:Hardlight Containment`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Enchantments/Hardlight Containment|Open local page →]]
+>
+> *Arrived 29/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
+
 > [!info] **`mtg:Authority of the Consuls`**
 > **81** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:81%"></div></div>
@@ -676,6 +729,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
 ### Artifacts
+
+> [!info] **`mtg:Simulacrum Synthesizer`**
+> **72** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:72%"></div></div>
+>
+> [[02 Cards/Artifacts/Simulacrum Synthesizer|Open local page →]]
+>
+> *Arrived 29/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
+
 > [!info] **`mtg:Soul-Guide Lantern`**
 > **79** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:79%"></div></div>
@@ -725,6 +787,15 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > *Stay in sideboard / wishlist — not purchased.*
 
 ### Lands
+
+> [!info] **`mtg:Castle Vantress`**
+> **82** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:82%"></div></div>
+>
+> [[02 Cards/Lands/Castle Vantress|Open local page →]]
+>
+> *Arrived 29/09/2026. In hand on the sideboard. Binders stay Box until a named cut.*
+
 > [!info] **`mtg:Adarkar Wastes`**
 > **85** / 100 · ⚪ Wishlist
 > <div class="synergy-bar"><div style="width:85%"></div></div>

@@ -66,7 +66,7 @@ Do not sleeve Reservoir until the life engine is on the table (Hinterland / Sist
 | Sac outlets | Ayli, [[02 Cards/Creatures/Bartolomé del Presidio\|Bartolomé]], [[02 Cards/Creatures/Priest of Forgotten Gods\|Priest]] | [[02 Cards/Creatures/Viscera Seer\|Viscera Seer]], [[02 Cards/Creatures/Carrion Feeder\|Carrion Feeder]], [[02 Cards/Creatures/Yahenni, Undying Partisan\|Yahenni]], [[02 Cards/Creatures/Woe Strider\|Woe Strider]] |
 | Draw | [[02 Cards/Creatures/Mentor of the Meek\|Mentor]], Clue from Inspector, [[02 Cards/Instants/Village Rites\|Village Rites]] | [[02 Cards/Enchantments/Phyrexian Arena\|Arena]] |
 | Recursion | [[02 Cards/Lands/Takenuma, Abandoned Mire\|Takenuma]] | [[02 Cards/Enchantments/Phyrexian Reclamation\|Reclamation]], [[02 Cards/Sorceries/Victimize\|Victimize]], [[02 Cards/Sorceries/Reanimate\|Reanimate]] |
-| Ritual | [[02 Cards/Instants/Culling the Weak\|Culling the Weak]] | — |
+| Ritual | Culling the Weak traded 29/09/2026 | — |
 | Spot | [[02 Cards/Instants/Slice from the Shadows\|Slice from the Shadows]], [[02 Cards/Instants/Anguished Unmaking\|Anguished Unmaking]], [[02 Cards/Instants/Despark\|Despark]] | — |
 
 ---

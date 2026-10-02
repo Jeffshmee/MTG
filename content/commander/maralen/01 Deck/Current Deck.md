@@ -70,6 +70,7 @@ legality: commander
 1 Germination Practicum
 
 # Enchantments
+1 Abundant Growth
 1 Bitterblossom
 1 Morcant's Eyes
 1 Garruk's Uprising
@@ -99,7 +100,7 @@ legality: commander
 1 Rogue's Passage
 1 Secluded Courtyard
 1 Secluded Glen
-6 Swamp
+5 Swamp
 1 Three Tree City
 1 Wastewood Verge
 1 Watery Grave
@@ -109,7 +110,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/current-deck.md`*
-*Last synced: 2026-09-26 (26-09 to-do)*
+*Last synced: 2026-09-29 (29-09 to-do)*
 
 ---
 
@@ -179,6 +180,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Sorceries/Germination Practicum|Germination Practicum]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 
 ### Enchantments
+- [[02 Cards/Enchantments/Abundant Growth|Abundant Growth]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
 - [[02 Cards/Enchantments/Bitterblossom|Bitterblossom]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Enchantments/Morcant's Eyes|Morcant's Eyes]] **81** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:81%"></div></div>
 - [[02 Cards/Enchantments/Garruk's Uprising|Garruk's Uprising]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>

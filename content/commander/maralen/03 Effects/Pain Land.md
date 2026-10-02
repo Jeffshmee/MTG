@@ -1,5 +1,7 @@
 # Pain Land
 
-A dual land that enters tapped unless you pay 2 life.
+Deals damage to you for coloured mana.
 
-**In this vault:** [[02 Cards/Creatures/Shessra, Death's Whisper|Shessra, Death's Whisper]] · [[02 Cards/Lands/Breeding Pool|Breeding Pool]] · [[02 Cards/Lands/Overgrown Tomb|Overgrown Tomb]] · [[02 Cards/Lands/Watery Grave|Watery Grave]]
+Effects that show up in Maralen, Fae Ascendant's Elves plus Faeries list.
+
+**In this vault:** [[02 Cards/Creatures/Elves of Deep Shadow|Elves of Deep Shadow]]

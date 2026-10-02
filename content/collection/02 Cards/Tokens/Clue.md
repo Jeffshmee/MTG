@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Artifact — Clue // Token
 >
-> ![Clue](https://cards.scryfall.io/border_crop/front/4/c/4c9669e6-e093-4f88-9699-a1a32793bfa9.jpg)
+> ![Clue](https://cards.scryfall.io/border_crop/front/d/2/d25234a6-cb8d-479a-90f5-9d1a1084277b.jpg)
 
 <div class="collection-side-tables">
 
@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Booster haul |
+| 29/09/2026 | MageCards · JackTradesCards |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Avatar: The Last Airbender Tokens (<code>TTLA</code>)</td><td>16</td><td>—</td><td>1</td><td>Box</td><td>—</td></tr>
+<tr><td>Battle for Baldur's Gate Tokens (<code>TCLB</code>)</td><td>47</td><td>—</td><td>1</td><td>Box</td><td>0.24</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,6 +57,10 @@ Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/2/d25234a6-cb8d-479a-90f5-9d1a1084277b.jpg" alt="Clue TCLB 47 · ×1">
+<figcaption>TCLB 47 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/4/c/4c9669e6-e093-4f88-9699-a1a32793bfa9.jpg" alt="Clue TTLA 16 · ×1">
 <figcaption>TTLA 16 · ×1</figcaption>
 </figure>
@@ -62,7 +68,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TTLA|Avatar: The Last Airbender Tokens]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TTLA|Avatar: The Last Airbender Tokens]] · [[06 Browse/Sets/TCLB|Battle for Baldur's Gate Tokens]]
 
 ---
 
@@ -74,8 +80,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Artifact — Clue // Token"
-> scryfall_id: 4c9669e6-e093-4f88-9699-a1a32793bfa9
-> quantity: 1
+> scryfall_id: d25234a6-cb8d-479a-90f5-9d1a1084277b
+> quantity: 2
 > tags:
 >   - artifact
 >   - card

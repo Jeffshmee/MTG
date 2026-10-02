@@ -37,6 +37,7 @@
 | 05/09/2026 | MageCards · MtgGambit |
 | 08/09/2026 | Booster haul |
 | 14/09/2026 | Cardmarket · Nikolcia01 |
+| 02/10/2026 | Booster haul |
 
 </div>
 
@@ -45,7 +46,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>43</div>
+<div class="synergy-score-num"><span>Copies</span>46</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -54,9 +55,8 @@
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>281</td><td>—</td><td>2</td><td>Box</td><td>0.15</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>276</td><td>—</td><td>7</td><td>Box</td><td>0.10</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>277</td><td>—</td><td>8</td><td>Box</td><td>0.09</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>2</td><td>Box</td><td>0.24</td></tr>
+<tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>3</td><td>Box</td><td>0.24</td></tr>
 <tr><td>Tarkir: Dragonstorm (<code>TDM</code>)</td><td>281</td><td>—</td><td>1</td><td>Maralen</td><td>0.15</td></tr>
-<tr><td>Foundations (<code>FDN</code>)</td><td>287</td><td>—</td><td>1</td><td>Maralen</td><td>0.24</td></tr>
 <tr><td>Lorwyn Eclipsed (<code>ECL</code>)</td><td>276</td><td>—</td><td>1</td><td>Zurgo</td><td>0.18</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>286</td><td>—</td><td>1</td><td>Zurgo</td><td>0.67</td></tr>
 <tr><td>The Hobbit (<code>HOB</code>)</td><td>191</td><td>—</td><td>1</td><td>Box</td><td>0.10</td></tr>
@@ -77,6 +77,9 @@
 <tr><td>Phyrexia: All Will Be One (<code>ONE</code>)</td><td>274</td><td>foil</td><td>1</td><td>Zurgo</td><td>0.12</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>269</td><td>—</td><td>1</td><td>Box</td><td>0.52</td></tr>
 <tr><td>Murders at Karlov Manor (<code>MKM</code>)</td><td>281</td><td>foil</td><td>1</td><td>Box</td><td>0.08</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>286</td><td>—</td><td>1</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>390</td><td>—</td><td>1</td><td>Box</td><td>0.47</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>285</td><td>—</td><td>1</td><td>Box</td><td>0.13</td></tr>
 </tbody>
 </table>
 </div>
@@ -138,6 +141,18 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>FDN 286 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/3/0/30693b85-550d-4c98-8c5b-4fd4e91c9f28.jpg" alt="Swamp FRA 285 · ×1">
+<figcaption>FRA 285 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/0/5/05465ed0-f511-4e6f-9561-49bf6608fb80.jpg" alt="Swamp FRA 286 · ×1">
+<figcaption>FRA 286 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/f/0/f080e0af-cd86-488b-968e-e69b0fa0fe93.jpg" alt="Swamp FRA 390 · ×1">
+<figcaption>FRA 390 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/4/0/4031e5e4-e573-4130-8d20-4a606edef0a0.jpg" alt="Swamp HOB 191 · ×1">
 <figcaption>HOB 191 · ×1</figcaption>
 </figure>
@@ -181,7 +196,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ELD|Throne of Eldraine]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/ORI|Magic Origins]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Swamp|Swamp]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/STX|Strixhaven: School of Mages]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/ELD|Throne of Eldraine]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/THB|Theros Beyond Death]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/ORI|Magic Origins]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]] · [[06 Browse/Sets/FRA|Reality Fracture]]
 
 ---
 
@@ -194,7 +209,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Swamp"
 > scryfall_id: 13505c15-14e0-4200-82bd-fb9bce949e68
-> quantity: 43
+> quantity: 46
 > tags:
 >   - card
 >   - collection

@@ -30,6 +30,7 @@
 | Date | Event |
 |------|-------|
 | 30/08/2026 | Bought from Nerdbase |
+| 29/09/2026 | Traded from Jack |
 
 </div>
 
@@ -38,12 +39,13 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>1</div>
+<div class="synergy-score-num"><span>Copies</span>2</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>The Brothers' War (<code>BRO</code>)</td><td>226</td><td>—</td><td>1</td><td>Box</td><td>0.32</td></tr>
+<tr><td>The Brothers' War (<code>BRO</code>)</td><td>296</td><td>—</td><td>1</td><td>Box</td><td>0.60</td></tr>
 </tbody>
 </table>
 </div>
@@ -57,6 +59,10 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/5/a/5a7329cd-95af-4d71-984f-f5f28982520c.jpg" alt="Urza, Prince of Kroog BRO 226 · ×1">
 <figcaption>BRO 226 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/8/f/8f944c2f-c84f-4986-9e6f-ec8e171298c6.jpg" alt="Urza, Prince of Kroog BRO 296 · ×1">
+<figcaption>BRO 296 · ×1</figcaption>
 </figure>
 </div>
 
@@ -75,7 +81,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 4
 > type: "Legendary Creature — Human Artificer"
 > scryfall_id: 5a7329cd-95af-4d71-984f-f5f28982520c
-> quantity: 1
+> quantity: 2
 > tags:
 >   - artificer
 >   - card

@@ -60,7 +60,7 @@ As an additional cost to cast this spell, sacrifice a creature.
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 - **Fodder / death**: [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Creatures/Novice Inspector|Novice Inspector]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]]
-- **Other draw**: [[02 Cards/Creatures/Mentor of the Meek|Mentor of the Meek]], [[02 Cards/Instants/Culling the Weak|Culling the Weak]]
+- **Other draw**: [[02 Cards/Creatures/Mentor of the Meek|Mentor of the Meek]]
 
 ## Anti-synergies / Notes
 

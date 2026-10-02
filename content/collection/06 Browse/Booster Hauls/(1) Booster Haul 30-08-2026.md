@@ -109,7 +109,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Thranduil, Sindarin Liege`**](https://scryfall.com/card/hob/166) | [[02 Cards/Creatures/Thranduil, Sindarin Liege\|PAGE]] | {2}{G/U}{G/U} // {1}{G/U}{G/U} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.02 | **Maralen:** Sleeved in the Maralen 100 (cut Llanowar Visionary). |
 | [**`mtg:Great Ugly-Looking Goblin`**](https://scryfall.com/card/hob/223) | [[02 Cards/Creatures/Great Ugly-Looking Goblin\|PAGE]] | {5}{B} // {1}{B} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.09 | — |
 | [**`mtg:Gandalf, Spark Starter`**](https://scryfall.com/card/hob/97) | [[02 Cards/Creatures/Gandalf, Spark Starter\|PAGE]] | {4}{R}{R} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.02 | — |
-| [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | {4}{W}{U} | [[03 Card Types/Creature\|Creature]] | Mythic | — | 1 | 2.50 | — |
+| [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | — | — | — | Mythic | — | 1 | 2.50 | — |
 | [**`mtg:Dwarven Shortsword`**](https://scryfall.com/card/hob/10) | [[02 Cards/Artifacts/Dwarven Shortsword\|PAGE]] | {3}{W} | [[03 Card Types/Artifact\|Artifact]] | Common | foil | 1 | 0.07 | — |
 | [**`mtg:Swamp`**](https://scryfall.com/card/hob/191) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[03 Card Types/Land\|Land]] | Common | — | 1 | 0.10 | — |
 | [**`mtg:Goblin Army`**](https://scryfall.com/card/thob/4) | [[02 Cards/Tokens/Goblin Army\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | Common | — | 1 | — | — |

@@ -2,7 +2,7 @@
 
 Set `TDC`. Qty here is copies of this name from this set.
 
-**95** copies · **79** names.
+**96** copies · **80** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -80,6 +80,7 @@ Set `TDC`. Qty here is copies of this name from this set.
 | [**`mtg:Neriv, Crackling Vanguard`**](https://scryfall.com/card/tdc/6) | [[02 Cards/Creatures/Neriv, Crackling Vanguard\|PAGE]] | {2}{R}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.50 |
 | [**`mtg:Siege-Gang Commander`**](https://scryfall.com/card/tdc/232) | [[02 Cards/Creatures/Siege-Gang Commander\|PAGE]] | {3}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Goblin\|Goblin]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.22 |
 | [**`mtg:Thalisse, Reverent Medium`**](https://scryfall.com/card/tdc/306) | [[02 Cards/Creatures/Thalisse, Reverent Medium\|PAGE]] | {3}{W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.15 |
+| [**`mtg:Time Wipe`**](https://scryfall.com/card/tdc/308) | [[02 Cards/Sorceries/Time Wipe\|PAGE]] | {2}{W}{W}{U} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.11 |
 | [**`mtg:Lathliss, Dragon Queen`**](https://scryfall.com/card/tdc/219) | [[02 Cards/Creatures/Lathliss, Dragon Queen\|PAGE]] | {4}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.57 |
 | [**`mtg:Hour of Reckoning`**](https://scryfall.com/card/tdc/120) | [[02 Cards/Sorceries/Hour of Reckoning\|PAGE]] | {4}{W}{W}{W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.21 |
 | [**`mtg:Myr Battlesphere`**](https://scryfall.com/card/tdc/322) | [[02 Cards/Creatures/Myr Battlesphere\|PAGE]] | {7} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Artifact\|Artifact]] — [[04 Creature Types/Myr\|Myr]] [[04 Creature Types/Construct\|Construct]] | [[05 Colours/Colourless\|Colourless]] | [[06 Browse/Mana Costs/Mana (7)\|7]] | 1 | 0.16 |

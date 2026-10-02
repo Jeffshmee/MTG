@@ -5,7 +5,7 @@
 > **Mana Cost:** —
 > **Type:** Token Creature — Beast // Token
 >
-> ![Beast](https://cards.scryfall.io/border_crop/front/2/1/21bd6fb3-f60c-49cc-8854-6a20a1e1d9c7.jpg)
+> ![Beast](https://cards.scryfall.io/border_crop/front/8/5/859bda9a-fa90-4ad3-b0c1-6fc62e27c12f.jpg)
 
 <div class="collection-side-tables">
 
@@ -29,7 +29,7 @@
 
 | Date | Event |
 |------|-------|
-| 15/08/2026 | Added to collection |
+| 02/10/2026 | Booster haul |
 
 </div>
 
@@ -38,13 +38,14 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>2</div>
+<div class="synergy-score-num"><span>Copies</span>8</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
 <tr><td>Foundations Tokens (<code>TFDN</code>)</td><td>33</td><td>—</td><td>1</td><td>Box</td><td>0.20</td></tr>
 <tr><td>Tarkir: Dragonstorm Commander Tokens (<code>TTDC</code>)</td><td>20</td><td>—</td><td>1</td><td>Box</td><td>0.19</td></tr>
+<tr><td>Reality Fracture Tokens (<code>TFRA</code>)</td><td>8</td><td>—</td><td>6</td><td>Box</td><td>—</td></tr>
 </tbody>
 </table>
 </div>
@@ -55,6 +56,10 @@
 Printings in the collection. Infocard uses the most copies.
 
 <div class="deck-arts">
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/8/5/859bda9a-fa90-4ad3-b0c1-6fc62e27c12f.jpg" alt="Beast TFRA 8 · ×6">
+<figcaption>TFRA 8 · ×6</figcaption>
+</figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/2/1/21bd6fb3-f60c-49cc-8854-6a20a1e1d9c7.jpg" alt="Beast TFDN 33 · ×1">
 <figcaption>TFDN 33 · ×1</figcaption>
@@ -67,7 +72,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TFDN|Foundations Tokens]] · [[06 Browse/Sets/TTDC|Tarkir: Dragonstorm Commander Tokens]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[02 Cards/Tokens/01 - Summary|Tokens]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Box|Box]] · [[06 Browse/Sets/TFDN|Foundations Tokens]] · [[06 Browse/Sets/TTDC|Tarkir: Dragonstorm Commander Tokens]] · [[06 Browse/Sets/TFRA|Reality Fracture Tokens]]
 
 ---
 
@@ -79,8 +84,8 @@ Printings in the collection. Infocard uses the most copies.
 > mana_cost: ""
 > cmc: 0
 > type: "Token Creature — Beast // Token"
-> scryfall_id: 21bd6fb3-f60c-49cc-8854-6a20a1e1d9c7
-> quantity: 2
+> scryfall_id: 859bda9a-fa90-4ad3-b0c1-6fc62e27c12f
+> quantity: 8
 > tags:
 >   - beast
 >   - card

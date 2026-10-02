@@ -37,6 +37,7 @@
 | 05/09/2026 | MageCards · MtgGambit |
 | 08/09/2026 | Booster haul |
 | 14/09/2026 | Cardmarket · Nikolcia01 |
+| 02/10/2026 | Booster haul |
 
 </div>
 
@@ -45,7 +46,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>45</div>
+<div class="synergy-score-num"><span>Copies</span>49</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -77,6 +78,10 @@
 <tr><td>Dominaria United (<code>DMU</code>)</td><td>274</td><td>foil</td><td>1</td><td>Box</td><td>0.06</td></tr>
 <tr><td>Throne of Eldraine (<code>ELD</code>)</td><td>269</td><td>foil</td><td>1</td><td>Box</td><td>0.07</td></tr>
 <tr><td>Duskmourn: House of Horror (<code>DSK</code>)</td><td>285</td><td>foil</td><td>1</td><td>Maralen</td><td>0.11</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>394</td><td>—</td><td>1</td><td>Box</td><td>0.43</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>290</td><td>—</td><td>1</td><td>Box</td><td>0.12</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>395</td><td>foil</td><td>1</td><td>Box</td><td>0.68</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>395</td><td>—</td><td>1</td><td>Box</td><td>0.46</td></tr>
 </tbody>
 </table>
 </div>
@@ -115,6 +120,10 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/1/1/117ab60a-b888-4585-b0c6-769d387069f7.jpg" alt="Forest FDN 291 · ×2">
 <figcaption>FDN 291 · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/1/c/1c2ac08e-3810-46f4-94ab-8b32986f9185.jpg" alt="Forest FRA 395 · ×2">
+<figcaption>FRA 395 · ×2</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/f/1/f169dfb2-e4c8-46e9-8591-e51bb82da082.jpg" alt="Forest SOS 280 · ×2">
@@ -157,6 +166,14 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>ELD 269 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/2/5/25e36841-3242-436b-8e82-9099063fa461.jpg" alt="Forest FRA 290 · ×1">
+<figcaption>FRA 290 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/7/9/790dcf48-ab51-4b10-9933-6b7e3baf0f52.jpg" alt="Forest FRA 394 · ×1">
+<figcaption>FRA 394 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/c/c/cc485069-e081-4e83-bbad-d5faf7a5bd03.jpg" alt="Forest MKM 285 · ×1">
 <figcaption>MKM 285 · ×1</figcaption>
 </figure>
@@ -176,7 +193,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/WAR|War of the Spark]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/ELD|Throne of Eldraine]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Forest|Forest]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Maralen Deck/Maralen|Maralen]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/DTK|Dragons of Tarkir]] · [[06 Browse/Sets/FIN|Final Fantasy]] · [[06 Browse/Sets/TLA|Avatar: The Last Airbender]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/MH3|Modern Horizons 3]] · [[06 Browse/Sets/WOE|Wilds of Eldraine]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/WAR|War of the Spark]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/DMU|Dominaria United]] · [[06 Browse/Sets/ELD|Throne of Eldraine]] · [[06 Browse/Sets/FRA|Reality Fracture]]
 
 ---
 
@@ -189,7 +206,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Forest"
 > scryfall_id: d232fcc2-12f6-401a-b1aa-ddff11cb9378
-> quantity: 45
+> quantity: 49
 > tags:
 >   - card
 >   - collection

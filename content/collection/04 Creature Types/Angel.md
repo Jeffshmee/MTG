@@ -2,7 +2,7 @@
 
 Creature type: Angel.
 
-**12** copies · **10** names.
+**15** copies · **11** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -10,6 +10,7 @@ Creature type: Angel.
 | [**`mtg:Angel of Vitality`**](https://scryfall.com/card/fdn/706) | [[02 Cards/Creatures/Angel of Vitality\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.34 |
 | [**`mtg:Inspiring Overseer`**](https://scryfall.com/card/fdn/496) | [[02 Cards/Creatures/Inspiring Overseer\|PAGE]] | {2}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.21 |
 | [**`mtg:Angel of Finality`**](https://scryfall.com/card/fdn/136) | [[02 Cards/Creatures/Angel of Finality\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.23 |
+| [**`mtg:Blossom-Blessed Angel`**](https://scryfall.com/card/fra/3) | [[02 Cards/Creatures/Blossom-Blessed Angel\|PAGE]] | {3}{W} // {G/W} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Angel\|Angel]] [[04 Creature Types/Cleric\|Cleric]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 3 | 0.27 |
 | [**`mtg:Emeria Angel`**](https://scryfall.com/card/tdc/114) | [[02 Cards/Creatures/Emeria Angel\|PAGE]] | {2}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.36 |
 | [**`mtg:Vanguard Seraph`**](https://scryfall.com/card/fdn/28) | [[02 Cards/Creatures/Vanguard Seraph\|PAGE]] | {3}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 2 | 0.04 |
 | [**`mtg:Angel of Invention`**](https://scryfall.com/card/tdc/109) | [[02 Cards/Creatures/Angel of Invention\|PAGE]] | {3}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Angel\|Angel]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.26 |

@@ -4,7 +4,7 @@ title: Commander ranking
 
 # Commander ranking
 
-The **next** 100. Not a deck. Scoring rules: [[00 - Scoring]]. Do not create a vault from a row until you name the commander.
+The **next** 100. Not a deck. Scoring rules: [[00 - Scoring]]. Deck theory beside this list: [[Urza|Urza, Simulacrum Synthesizer]]. Do not create a vault from a row until you name the commander.
 
 ## Ranked list
 
@@ -9345,6 +9345,8 @@ Why jumps to that commander under [[#Why these unowned]].
 > | **Next box(s)** | [[06 Browse/Sets/BRO\|BRO]] [MH2](https://scryfall.com/sets/mh2) [[06 Browse/Sets/MH3\|MH3]] [[06 Browse/Sets/ONE\|ONE]] [[06 Browse/Sets/EOE\|EOE]] [[06 Browse/Sets/DOM\|DOM]] [[06 Browse/Sets/MKM\|MKM]] [[06 Browse/Sets/DFT\|DFT]] [[06 Browse/Sets/MH1\|MH1]] [[06 Browse/Sets/OTJ\|OTJ]] [[06 Browse/Sets/LCI\|LCI]] [[06 Browse/Sets/AFR\|AFR]] [[06 Browse/Sets/NEO\|NEO]] |
 >
 > {W}{U} **Artifact soldiers**. Artifact creatures +2/+2. {6}: copy an artifact as a 1/1 Soldier. The line is artifact-creature density (Chief of the Foundry, Steel Overseer, Foundry Inspector, Ornithopter of Paradise, Stonecoil Serpent, Ancient Den / Seat of the Synod, Nettlecyst, Master of Etherium) so the anthem is real, then copy Sol Ring / a value artifact into a Soldier. Overlaps Kykar on Azorius — variety penalty already applied. Still not a blink deck: it is artifact creatures and copies. Sai, Master Thopterist and Urza, Lord Protector's cousins if owned.
+>
+> Separate deck theory, not this 99: [[Urza|Simulacrum Synthesizer theory]].
 >
 > Legendary Creature — Human Artificer. Mana {2}{W}{U}.
 >

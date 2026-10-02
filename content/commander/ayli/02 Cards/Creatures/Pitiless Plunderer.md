@@ -60,7 +60,7 @@ Whenever another creature you control dies, [[03 Effects/Create Token|create a T
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
 - **Deaths**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Ophiomancer|Ophiomancer]]
-- **Dump**: [[02 Cards/Creatures/Massacre Wurm|Massacre Wurm]], [[02 Cards/Instants/Culling the Weak|Culling the Weak]]
+- **Dump**: [[02 Cards/Creatures/Massacre Wurm|Massacre Wurm]]
 
 ## Anti-synergies / Notes
 

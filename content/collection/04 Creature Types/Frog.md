@@ -2,7 +2,7 @@
 
 Creature type: Frog.
 
-**13** copies · **8** names.
+**15** copies · **10** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -14,3 +14,5 @@ Creature type: Frog.
 | [**`mtg:Textbook Tabulator`**](https://scryfall.com/card/sos/70) | [[02 Cards/Creatures/Textbook Tabulator\|PAGE]] | {2}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 2 | 0.10 |
 | [**`mtg:Lilysplash Mentor`**](https://scryfall.com/card/blb/222) | [[02 Cards/Creatures/Lilysplash Mentor\|PAGE]] | {2}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Druid\|Druid]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (4)\|4]] | 1 | 0.12 |
 | [**`mtg:Skyskipper Duo`**](https://scryfall.com/card/blb/71) | [[02 Cards/Creatures/Skyskipper Duo\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Bird\|Bird]] [[04 Creature Types/Frog\|Frog]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.04 |
+| [**`mtg:Yargle, Glutton of Urborg`**](https://scryfall.com/card/fra/241) | [[02 Cards/Creatures/Yargle, Glutton of Urborg\|PAGE]] | {4}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.12 |
+| [**`mtg:Yargle, Goliath of Otaria`**](https://scryfall.com/card/fra/225) | [[02 Cards/Creatures/Yargle, Goliath of Otaria\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Spirit\|Spirit]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.04 |

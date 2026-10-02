@@ -2,11 +2,12 @@
 
 Every **Enchantments** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**13** copies · **13** names.
+**14** copies · **14** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Authority of the Consuls`**](https://scryfall.com/card/fdn/137) | [[02 Cards/Enchantments/Authority of the Consuls\|PAGE]] | {W} | [[04 Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | 1 | 1 | 5.95 |
+| [**`mtg:Hardlight Containment`**](https://scryfall.com/card/eoe/20) | [[02 Cards/Enchantments/Hardlight Containment\|PAGE]] | {W} | [[04 Types/Enchantment\|Enchantment]] [[04 Types/Aura\|Aura]] | [[05 Colours/White\|White]] | 1 | 1 | 0.13 |
 | [**`mtg:Witness Protection`**](https://scryfall.com/card/fdn/168) | [[02 Cards/Enchantments/Witness Protection\|PAGE]] | {U} | [[04 Types/Enchantment\|Enchantment]] [[04 Types/Aura\|Aura]] | [[05 Colours/Blue\|Blue]] | 1 | 1 | 0.10 |
 | [**`mtg:Airbender Ascension`**](https://scryfall.com/card/tla/6) | [[02 Cards/Enchantments/Airbender Ascension\|PAGE]] | {1}{W} | [[04 Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | 2 | 1 | 1.13 |
 | [**`mtg:Banishing Light`**](https://scryfall.com/card/hoc/161) | [[02 Cards/Enchantments/Banishing Light\|PAGE]] | {2}{W} | [[04 Types/Enchantment\|Enchantment]] | [[05 Colours/White\|White]] | 3 | 1 | 0.05 |

@@ -2,7 +2,7 @@
 
 Mono-green cards ({G} only). Lands and tokens are listed separately.
 
-**278** copies · **185** names.
+**342** copies · **219** names.
 
 ```decklist
 group: auto
@@ -14,6 +14,7 @@ legality: commander
 1 Ambitious Augmenter
 1 Anthropede
 1 Arbor Elf
+2 Arcane Amphisbaena
 1 Bakersbane Duo
 1 Bashful Beastie
 1 Beast Whisperer
@@ -23,6 +24,7 @@ legality: commander
 2 Beorn, Reluctant Host // Till and Tend
 1 Bloom Tender
 1 Brambleguard Veteran
+3 Budding Insurgent
 1 Cackling Prowler
 1 Cautious Survivor
 1 Centaur's Herald
@@ -36,6 +38,7 @@ legality: commander
 1 Dusyut Earthcarver
 4 Dwynen's Elite
 1 Dwynen, Gilt-Leaf Daen
+2 Edgar, Moonlit Sovereign
 1 Elfhame Druid
 1 Elves of Deep Shadow
 4 Elvish Archdruid
@@ -47,25 +50,32 @@ legality: commander
 1 Elvish Warmaster
 1 Emil, Vastlands Roamer
 1 Environmental Scientist
+1 Fblthp, Knows the Way
 1 Feline Sovereign
 1 Fierce Empath
 1 Flourishing Bloom-Kin
 1 Fyndhorn Elves
 1 Fynn, the Fangbearer
+2 Ghalta the Unstoppable
 1 Gigantosaurus
 1 Gnarlback Rhino
 2 Great Forest Druid
+3 Greenhouse Propagator
 1 Greenwood Sentinel
 1 Guardian of the Halls
 1 Halsin, Emerald Archdruid
+2 Heartwood Crafter // Soul Tether
 1 Heroes' Bane
 1 Highspire Artisan
+1 Hungering Puppetbeast
 2 Hungry Graffalon
 1 Hungry Lynx
 4 Imperious Perfect
 3 Infirmary Healer // Stream of Life
 1 Insidious Fungus
+2 Inspired Tethermage
 1 Jedit Ojanen of Efrava
+3 Jiang Yanggu, Never Alone
 1 Ka-Zar of the Savage Land
 1 Keen-Eyed Curator
 1 Keeper of Fables
@@ -76,9 +86,11 @@ legality: commander
 1 Llanowar Envoy
 1 Llanowar Loamspeaker
 1 Llanowar Visionary
+1 Loot, the Nexus
 1 Loxodon Eavesdropper
 2 Lys Alana Informant
 1 Marwyn, the Nurturer
+2 Marwyn, the Preserver
 4 Mindful Biomancer
 1 Mold Adder
 1 Nasty Little Rabbit
@@ -88,6 +100,7 @@ legality: commander
 2 Ordinary Bear
 1 Pelakka Wurm
 1 Pestbrood Sloth
+1 Pia, Aether Ascetic
 1 Predator Ooze
 1 Pride Sovereign
 1 Priest of Titania
@@ -97,6 +110,7 @@ legality: commander
 3 Reclamation Sage
 2 Rosethorn Acolyte // Seasonal Ritual
 1 Rubblebelt Maverick
+3 Ruric Thar, Magecrusher
 1 Sage of the Fang
 2 Sagu Pummeler
 1 Sagu Wildling // Roost Seek
@@ -108,6 +122,7 @@ legality: commander
 1 Stickytongue Sentinel
 2 Studious First-Year // Rampant Growth
 1 Summon: Fenrir
+4 Sureshot Sower
 1 Surrak, the Hunt Caller
 2 Tajuru Snarecaster
 2 Tenured Concocter
@@ -115,6 +130,8 @@ legality: commander
 2 Thornfist Striker
 2 Thornweald Archer
 1 Three Tree Rootweaver
+1 Tigra, Feline Fury
+1 Titanbones, Towering Heart
 1 Toph, the Blind Bandit
 1 Topiary Lecturer
 1 Treetop Sentries
@@ -124,6 +141,8 @@ legality: commander
 1 Urborg Elf
 1 Vastlands Scavenger // Bind to Life
 1 Venom Connoisseur
+1 Verdant Kraken
+3 Vinelasher Adept
 4 Virulent Emissary
 2 Wargling
 2 Wary Thespian
@@ -134,6 +153,8 @@ legality: commander
 1 Wildwood Scourge
 1 Wood Elves
 2 Woodland Weavemaster
+2 Wrecking Gecko
+3 Yoshimaru, Scrappy Stray
 
 # Planeswalkers
 1 Vivien, Arkbow Ranger
@@ -142,7 +163,9 @@ legality: commander
 2 Bite Down
 3 Broken Wings
 2 Burrog Barrage
+3 Compel Brutality
 3 Efflorescence
+1 Flourishing Grapple
 1 Get a Leg Up
 3 Giant Growth
 2 Glorious Decay
@@ -152,14 +175,18 @@ legality: commander
 2 Midnight Tilling
 2 Origin of Metalbending
 1 Pillar Launch
+2 Restore with Empathy
 2 Royal Treatment
 2 Sarkhan's Resolve
 3 Snakeskin Veil
+2 Something Worth Saving
+2 Tethermage's Advantage
 1 Veil of Summer
 2 Warg Tactics
 
 # Sorceries
 1 Analyze the Pollen
+4 Bestial Incursion
 2 Bushwhack
 2 Chelonian Tackle
 1 Circuitous Route
@@ -183,25 +210,32 @@ legality: commander
 2 Snarl Song
 1 Three Visits
 1 True Ancestry
+1 Vivid Revival
 3 Wild Hypothesis
 1 Zimone's Experiment
 
 # Enchantments
+1 Abundant Growth
 2 Additive Evolution
 1 Aid from the Cowl
 1 Airtight Alibi
 1 Beastmaster Ascension
+1 Gardenize
 1 Garruk's Uprising
 1 Morcant's Eyes
+1 Omnipresence
 1 Ordeal of Nylea
 2 Pitiless Fists
 1 Point the Way
+1 Puppet Crafting
 1 Shimmerwilds Growth
 1 Super Strength
+1 Way of the Paradox
 1 Wilderness Reclamation
 
 # Artifacts
 1 Dragonbroods' Relic
+1 Hunter's Axe
 1 Rope
 1 Veloheart Bike
 

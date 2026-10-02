@@ -2,7 +2,7 @@
 
 Creature type: Wolf.
 
-**10** copies · **7** names.
+**13** copies · **8** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,3 +13,4 @@ Creature type: Wolf.
 | [**`mtg:Rhovanion Rampager`**](https://scryfall.com/card/hob/82) | [[02 Cards/Creatures/Rhovanion Rampager\|PAGE]] | {2}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.02 |
 | [**`mtg:Summon: Fenrir`**](https://scryfall.com/card/fin/203) | [[02 Cards/Creatures/Summon Fenrir\|PAGE]] | {2}{G} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Enchantment\|Enchantment]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (3)\|3]] | 1 | 0.22 |
 | [**`mtg:Wilderland Scrounger`**](https://scryfall.com/card/hob/141) | [[02 Cards/Creatures/Wilderland Scrounger\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.10 |
+| [**`mtg:Apex Witchstalker`**](https://scryfall.com/card/fra/48) | [[02 Cards/Creatures/Apex Witchstalker\|PAGE]] | {4}{B}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 3 | 0.21 |

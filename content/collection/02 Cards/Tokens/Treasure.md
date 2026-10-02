@@ -36,6 +36,7 @@
 | 12/09/2026 | Cardmarket · NuggetGaming |
 | 17/09/2026 | Cardmarket · Weird-Ginge |
 | 21/09/2026 | Booster haul |
+| 02/10/2026 | Booster haul |
 
 </div>
 
@@ -44,12 +45,12 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>35</div>
+<div class="synergy-score-num"><span>Copies</span>36</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
 <tbody>
-<tr><td>Foundations Tokens (<code>TFDN</code>)</td><td>23</td><td>—</td><td>1</td><td>Box</td><td>0.07</td></tr>
+<tr><td>Foundations Tokens (<code>TFDN</code>)</td><td>23</td><td>—</td><td>2</td><td>Box</td><td>0.07</td></tr>
 <tr><td>Lorwyn Eclipsed Tokens (<code>TECL</code>)</td><td>10</td><td>—</td><td>2</td><td>Box</td><td>—</td></tr>
 <tr><td>Tarkir: Dragonstorm Tokens (<code>TTDM</code>)</td><td>16</td><td>—</td><td>1</td><td>Box</td><td>0.22</td></tr>
 <tr><td>Duskmourn: House of Horror Tokens (<code>TDSK</code>)</td><td>15</td><td>—</td><td>15</td><td>Box</td><td>0.19</td></tr>
@@ -84,8 +85,8 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>TECL 10 · ×2</figcaption>
 </figure>
 <figure>
-<img src="https://cards.scryfall.io/border_crop/front/2/1/21210145-8edd-41f5-9a64-9f0b5be79864.jpg" alt="Treasure TFDN 23 · ×1">
-<figcaption>TFDN 23 · ×1</figcaption>
+<img src="https://cards.scryfall.io/border_crop/front/2/1/21210145-8edd-41f5-9a64-9f0b5be79864.jpg" alt="Treasure TFDN 23 · ×2">
+<figcaption>TFDN 23 · ×2</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/c/6/c6e096bb-ad9e-4a8b-8b42-26852fa32c1d.jpg" alt="Treasure THOB 12 · ×1">
@@ -112,7 +113,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Token Artifact — Treasure"
 > scryfall_id: 5c0b31c3-5775-41a6-9981-44fc4a6d4aa8
-> quantity: 35
+> quantity: 36
 > tags:
 >   - artifact
 >   - card

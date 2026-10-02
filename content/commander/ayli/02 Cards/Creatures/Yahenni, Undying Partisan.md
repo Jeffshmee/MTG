@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Yahenni, Undying Partisan`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{B}  
 > **Type:** Legendary Creature — Aetherborn Vampire  
 > **P/T:** 2/2  
@@ -12,15 +12,15 @@
 >
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
-> ![Yahenni, Undying Partisan](https://cards.scryfall.io/border_crop/front/5/1/518b155a-cb84-48d3-9aba-07577f60f091.jpg)
+> ![Yahenni](https://cards.scryfall.io/border_crop/front/5/1/518b155a-cb84-48d3-9aba-07577f60f091.jpg)
 >
 > ### Deck Scores
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 29/09/2026 for Daxos, Blessed by the Sun. |
+> | Deck-Specific | 78 | Cut 29/09/2026 for Daxos, Blessed by the Sun. |
+> | **Combined** | **77** | Cut 29/09/2026 for Daxos, Blessed by the Sun. |
 >
 > ### Classification
 >
@@ -28,7 +28,7 @@
 > |----------|-------|
 > | **Colours** | [[05 Colours/Black\|Black]] |
 > | **Type** | [[04 Types/Legendary\|Legendary]] · [[04 Types/Creature\|Creature]] · [[04 Types/Aetherborn\|Aetherborn]] · [[04 Types/Vampire\|Vampire]] |
-> | **Effects** | [[03 Effects/Indestructible\|Indestructible]] · [[03 Effects/Plus One Counters\|Plus One Counters]] |
+> | **Effects** | [[03 Effects/Indestructible\|Indestructible]] · [[03 Effects/Plus One Counters\|Plus One Counters]] · [[03 Effects/Sacrifice\|Sacrifice]] · [[03 Effects/Dies Trigger\|Dies Trigger]] |
 >
 > ### Extracted Effects
 >
@@ -36,10 +36,12 @@
 > |--------|-------|
 > | [[03 Effects/Indestructible\|Indestructible]] | Indestructible |
 > | [[03 Effects/Plus One Counters\|Plus One Counters]] | Plus One Counters |
+> | [[03 Effects/Sacrifice\|Sacrifice]] | Sacrifice |
+> | [[03 Effects/Dies Trigger\|Dies Trigger]] | Dies Trigger |
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 29/09/2026 for Daxos, Blessed by the Sun. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -51,21 +53,23 @@ Sacrifice another creature: Yahenni gains [[03 Effects/Indestructible|indestruct
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni, Undying Partisan]] is haste, a free sac outlet, and indestructible if a creature died this turn. Sac Sage, Yahenni lives through the wrath. Drain still sees the Sage. 🟢 Owned extra on the sideboard — not sleeved.
+Yahenni, Undying Partisan ({2}{B}). Cut 29/09/2026 for Daxos, Blessed by the Sun. Judge it by whether it serves [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]'s Lifegain aristocrats plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Sac before the wrath. Haste means it can attack the turn it lands if you already have a death.
+- Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Sac / death**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Carrion Feeder|Carrion Feeder]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]]
+- **Plan**: Lifegain aristocrats
 
 ## Anti-synergies / Notes
 
-- Indestructible needs a death first. Empty-board Yahenni dies to the same wrath.
-- Owned extra — not in the sleeved pile. Sleeve from this vault's sideboard; binders stay Box until then.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -88,7 +92,7 @@ Sacrifice another creature: Yahenni gains [[03 Effects/Indestructible|indestruct
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Haste"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -96,9 +100,9 @@ Sacrifice another creature: Yahenni gains [[03 Effects/Indestructible|indestruct
 > scryfall_id: 518b155a-cb84-48d3-9aba-07577f60f091
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + ayli-pilgrim-commander scoring*

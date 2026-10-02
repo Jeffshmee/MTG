@@ -36,6 +36,7 @@
 | 08/09/2026 | Booster haul |
 | 14/09/2026 | Cardmarket · Nikolcia01 |
 | 16/09/2026 | MageCards · MTG_Factory |
+| 02/10/2026 | Booster haul |
 
 </div>
 
@@ -44,7 +45,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>35</div>
+<div class="synergy-score-num"><span>Copies</span>37</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -67,6 +68,8 @@
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>267</td><td>—</td><td>1</td><td>Box</td><td>0.53</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>272</td><td>—</td><td>1</td><td>Box</td><td>0.19</td></tr>
 <tr><td>Secrets of Strixhaven (<code>SOS</code>)</td><td>273</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>281</td><td>—</td><td>1</td><td>Box</td><td>0.11</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>281</td><td>foil</td><td>1</td><td>Box</td><td>0.15</td></tr>
 </tbody>
 </table>
 </div>
@@ -103,6 +106,10 @@ Printings in the collection. Infocard uses the most copies.
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/7/a/7a0f9892-89cd-46ff-bc87-114e175cb575.jpg" alt="Plains FDN 283 · ×2">
 <figcaption>FDN 283 · ×2</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/a/4/a4eaecb8-066a-4c72-aa5d-5ed0614ba537.jpg" alt="Plains FRA 281 · ×2">
+<figcaption>FRA 281 · ×2</figcaption>
 </figure>
 <figure>
 <img src="https://cards.scryfall.io/border_crop/front/b/8/b8c391f2-b340-43c7-89e6-afac5b70491f.jpg" alt="Plains TDM 278 · ×2">
@@ -148,7 +155,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Plains|Plains]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Decks/Ayli Deck/Ayli|Ayli]] · [[06 Browse/Decks/Kykar Deck/Kykar|Kykar]] · [[06 Browse/Decks/Arahbo Deck/Arahbo|Arahbo]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/ECL|Lorwyn Eclipsed]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/MKM|Murders at Karlov Manor]] · [[06 Browse/Sets/ONE|Phyrexia: All Will Be One]] · [[06 Browse/Sets/DSK|Duskmourn: House of Horror]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/FRA|Reality Fracture]]
 
 ---
 
@@ -161,7 +168,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Plains"
 > scryfall_id: 4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3
-> quantity: 35
+> quantity: 37
 > tags:
 >   - card
 >   - collection

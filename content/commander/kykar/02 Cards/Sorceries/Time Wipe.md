@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Time Wipe`**
 >
-> **Status:** Ordered  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{W}{W}{U}  
 > **Type:** Sorcery  
 >
@@ -91,7 +91,7 @@ Time Wipe is bounce at {2}{W}{W}{U}: tokens that leave cease to exist, and a cre
 > colors: ["U", "W"]
 > color_identity: ["U", "W"]
 > keywords: []
-> status: Ordered
+> status: Sideboard
 > scores:
 >   general: 88
 >   deck_specific: 90
@@ -99,7 +99,7 @@ Time Wipe is bounce at {2}{W}{W}{U}: tokens that leave cease to exist, and a cre
 > scryfall_id: eb4b75e6-3080-412b-bf40-b6029ea8bbfe
 > tags:
 >   - card
->   - ordered
+>   - sideboard
 >   - sorcerie
 > ```
 

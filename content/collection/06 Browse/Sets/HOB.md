@@ -2,7 +2,7 @@
 
 Set `HOB`. Qty here is copies of this name from this set.
 
-**128** copies · **91** names.
+**126** copies · **90** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -88,10 +88,9 @@ Set `HOB`. Qty here is copies of this name from this set.
 | [**`mtg:Esgaroth Garrison`**](https://scryfall.com/card/hob/13) | [[02 Cards/Creatures/Esgaroth Garrison\|PAGE]] | {4}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.06 |
 | [**`mtg:Gandalf, Wandering Wizard`**](https://scryfall.com/card/hob/41) | [[02 Cards/Creatures/Gandalf, Wandering Wizard\|PAGE]] | {4}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.02 |
 | [**`mtg:Iron Hills Stalwart`**](https://scryfall.com/card/hob/102) | [[02 Cards/Creatures/Iron Hills Stalwart\|PAGE]] | {4}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Warrior\|Warrior]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 3 | 0.06 |
-| [**`mtg:Smaug, Wicked Worm`**](https://scryfall.com/card/hob/164) | [[02 Cards/Creatures/Smaug, Wicked Worm\|PAGE]] | {3}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 1.62 |
+| [**`mtg:Smaug, Wicked Worm`**](https://scryfall.com/card/hob/164) | [[02 Cards/Creatures/Smaug, Wicked Worm\|PAGE]] | {3}{B}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dragon\|Dragon]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 0.81 |
 | [**`mtg:Thranduil, the Elvenking`**](https://scryfall.com/card/hob/246) | [[02 Cards/Creatures/Thranduil, the Elvenking\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elf\|Elf]] [[04 Creature Types/Noble\|Noble]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 1 | 15.41 |
 | [**`mtg:Wilderland Scrounger`**](https://scryfall.com/card/hob/141) | [[02 Cards/Creatures/Wilderland Scrounger\|PAGE]] | {4}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Wolf\|Wolf]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (5)\|5]] | 2 | 0.10 |
-| [**`mtg:Bard, King of Dale`**](https://scryfall.com/card/hob/144) | [[02 Cards/Creatures/Bard, King of Dale\|PAGE]] | {4}{W}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Noble\|Noble]] [[04 Creature Types/Archer\|Archer]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 2.50 |
 | [**`mtg:Bifur, Melodic Rider`**](https://scryfall.com/card/hob/147) | [[02 Cards/Creatures/Bifur, Melodic Rider\|PAGE]] | {4}{R/W}{R/W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dwarf\|Dwarf]] [[04 Creature Types/Bard\|Bard]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.08 |
 | [**`mtg:Gandalf, Spark Starter`**](https://scryfall.com/card/hob/97) | [[02 Cards/Creatures/Gandalf, Spark Starter\|PAGE]] | {4}{R}{R} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Avatar\|Avatar]] [[04 Creature Types/Wizard\|Wizard]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.02 |
 | [**`mtg:Great Ugly-Looking Goblin`**](https://scryfall.com/card/hob/223) | [[02 Cards/Creatures/Great Ugly-Looking Goblin\|PAGE]] | {5}{B} // {1}{B} | [[03 Card Types/Creature\|Creature]] [[03 Card Types/Sorcery\|Sorcery]] — [[04 Creature Types/Goblin\|Goblin]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.09 |

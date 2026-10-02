@@ -9,13 +9,16 @@ legality: commander
 
 # Owned extras (in hand, not sleeved)
 1 Adventurer's Inn
+1 Animal Sanctuary
 1 Bountiful Promenade
 1 Crawling Barrens
 1 Rogue's Passage
 1 Savannah Lions
+1 Ajani's Sunstriker
 1 Arcane Signet
 1 Dawnwing Marshal
 1 Felidar Cub
+1 Infirmary Healer
 1 Nature's Lore
 1 Oreskos Swiftclaw
 1 Prowling Caracal
@@ -31,7 +34,7 @@ legality: commander
 ---
 
 *Source: `arahbo-roar/07 Assets/sideboard.md`*
-*Last synced: 2026-09-26 (26-09 to-do)*
+*Last synced: 2026-09-29 (29-09 to-do)*
 
 ---
 
@@ -51,6 +54,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
+> [!info] **`mtg:Ajani's Sunstriker`**
+> **77** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:77%"></div></div>
+>
+> [[02 Cards/Creatures/Ajani's Sunstriker|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
 > [!info] **`mtg:Dawnwing Marshal`**
 > **77** / 100 · 🟢 Owned
 > <div class="synergy-bar"><div style="width:77%"></div></div>
@@ -64,6 +75,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:77%"></div></div>
 >
 > [[02 Cards/Creatures/Felidar Cub|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Infirmary Healer`**
+> **81** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:81%"></div></div>
+>
+> [[02 Cards/Creatures/Infirmary Healer|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 
@@ -131,6 +150,14 @@ Pending / ordered cards, owned extras, and wishlist. Each entry is a mini-Infoca
 > <div class="synergy-bar"><div style="width:80%"></div></div>
 >
 > [[02 Cards/Lands/Adventurer's Inn|Open local page →]]
+>
+> *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
+
+> [!info] **`mtg:Animal Sanctuary`**
+> **80** / 100 · 🟢 Owned
+> <div class="synergy-bar"><div style="width:80%"></div></div>
+>
+> [[02 Cards/Lands/Animal Sanctuary|Open local page →]]
 >
 > *Owned extra — sleeve into this 100 when you build it. Binders stay Box until then.*
 

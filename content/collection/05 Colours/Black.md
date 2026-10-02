@@ -2,7 +2,7 @@
 
 Mono-black cards ({B} only). Lands and tokens are listed separately.
 
-**251** copies · **188** names.
+**313** copies · **220** names.
 
 ```decklist
 group: auto
@@ -12,8 +12,10 @@ legality: commander
 2 Adventurous Eater // Have a Bite
 1 Agency Coroner
 2 Alley Assailant
+3 Apex Witchstalker
 1 Arbiter of Woe
 1 Arnyn, Deathbloom Botanist
+1 Avenger of the Fallen
 1 Azula, On the Hunt
 1 Balemurk Leech
 2 Bitterbloom Bearer
@@ -27,6 +29,8 @@ legality: commander
 1 Carrion Feeder
 2 Cheerful Osteomancer // Raise Dead
 1 Chittering Witch
+2 Danitha, Spear of Agony
+1 Dark Matter Manipulator
 1 Desecration Demon
 1 Diregraf Ghoul
 1 Dream Seizer
@@ -42,6 +46,7 @@ legality: commander
 1 Gatekeeper of Malakir
 1 Gix, Yawgmoth Praetor
 1 Glidedive Duo
+1 Gloomdrifter
 1 Gollum, Riddle Master
 2 Gollum, Silent Slinker // Meager Meal
 1 Great Fierce Bee
@@ -55,12 +60,17 @@ legality: commander
 1 Kalastria Highborn
 1 Kin-Tree Nurturer
 1 Knight of Malice
+1 Knight of the Ebon Legion
 1 Lecturing Scornmage
 1 Leech Collector // Bloodletting
 1 Leering Onlooker
+1 Liliana the Repentant
+1 Loot, the Anomaly
+1 Mabel, Bitter Recluse
 1 Malboro
 2 Marauding Blight-Priest
 1 Massacre Girl, Known Killer
+1 Massacre Girl, Most Wanted
 1 Massacre Wurm
 4 Melancholic Poet
 1 Midnight Reaper
@@ -81,8 +91,11 @@ legality: commander
 1 Pitiless Plunderer
 2 Poisoner's Apprentice
 1 Priest of Forgotten Gods
+1 Proft, Sinister Mastermind
 1 Pulse Tracker
 2 Purging Stormbrood // Absorb Essence
+3 Rampart Hunter
+2 Rank Rat
 1 Ravening Warg
 1 Reassembling Skeleton
 2 Repeat Offender
@@ -92,6 +105,7 @@ legality: commander
 1 Sanguine Syphoner
 1 Scathing Shadelock // Venomous Words
 1 Scheming Silvertongue // Sign in Blood
+2 Screeching Soulbreaker
 1 Shambling Cie'th
 3 Sneering Shadewriter
 1 Starlit Soothsayer
@@ -99,7 +113,12 @@ legality: commander
 1 Streaking Oilgorger
 2 Stromkirk Bloodthief
 1 Suspicious Shambler
+3 Teyo, Diamondblade Mage
+2 Theoretical Necromancer
+1 Tinybones, Pocket Nuisance
+1 Tivash, Gloom Summoner
 1 Tragedy Feaster
+1 Tymaret, Chosen from Death
 3 Ulna Alley Shopkeep
 1 Unliving Legionnaire
 1 Unrooted Ancestor
@@ -109,9 +128,12 @@ legality: commander
 1 Vile Entomber
 1 Viscera Seer
 1 Vito, Thorn of the Dusk Rose
+3 Void Extrapolator // Omit Variables
+2 Winter, Tormented Loner
 1 Witch of the Moors
 1 Woe Strider
 2 Yahenni, Undying Partisan
+1 Yargle, Glutton of Urborg
 1 Zulaport Cutthroat
 
 # Instants
@@ -121,27 +143,31 @@ legality: commander
 2 Bake into a Pie
 1 Bilbo's Deadly Slice
 3 Bitter Triumph
+1 Break Under Pressure
 1 Cruel Truths
-1 Culling the Weak
 1 Deadly Dispute
 1 Desperate Measures
 1 Dissection Practice
 2 Dragon's Prey
 1 Early Winter
+3 Extended Absence
 1 Fake Your Own Death
 1 Foolish Fate
 2 Hero's Downfall
 1 It Doesn't Add Up
-3 Last Gasp
+6 Last Gasp
 1 Locust Spray
 2 Masterful Flourish
 1 Moment of Craving
+2 Multiply by Zero
 1 Presumed Dead
 1 Rabid Attack
+1 Return to Action
 2 Reverent Howl
 2 Slice from the Shadows
 1 Spin Out
 2 Stab
+2 Terminal Criticism
 1 Tribute to Hunger
 1 Undying Malice
 1 Vampiric Tutor
@@ -155,6 +181,7 @@ legality: commander
 1 Arcane Omens
 1 Auntie's Sentence
 1 Bogslither's Embrace
+3 Cast Away Doubt
 1 Commune with Evil
 4 Cost of Brilliance
 1 Damn
@@ -167,6 +194,7 @@ legality: commander
 1 End of the Hunt
 1 Essence Drain
 2 Exsanguinate
+1 Extrapolate the Impossible
 2 Feed the Swarm
 1 Grim Tutor
 1 Macabre Reconstruction
@@ -174,14 +202,18 @@ legality: commander
 1 Pox Plague
 3 Pull from the Grave
 1 Reanimate
+2 Rewrite Regrets
 1 Sanguine Indulgence
 1 Seeker's Folly
 4 Send in the Pest
 1 Sign in Blood
+4 Silence the Echo
+4 Solve for Disappointment
 2 Stargaze
 1 Stir Up Trouble
 1 Toxic Deluge
 1 Victimize
+1 Vraska's Final Mercy
 2 Worthy Cost
 2 Zombify
 
@@ -199,7 +231,7 @@ legality: commander
 2 Scavenger's Talent
 1 Soul Enervation
 1 Swampsnare Trap
-1 Vampiric Rites
+2 Way of the Necromancer
 1 Within Range
 
 # Artifacts

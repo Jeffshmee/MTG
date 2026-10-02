@@ -2,12 +2,11 @@
 
 Set `SOA`. Qty here is copies of this name from this set.
 
-**38** copies · **29** names.
+**37** copies · **28** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Burst Lightning`**](https://scryfall.com/card/fdn/192) | [[02 Cards/Instants/Burst Lightning\|PAGE]] | {R} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Red\|Red]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
-| [**`mtg:Culling the Weak`**](https://scryfall.com/card/soa/27) | [[02 Cards/Instants/Culling the Weak\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 6.63 |
 | [**`mtg:Giant Growth`**](https://scryfall.com/card/fdn/223) | [[02 Cards/Instants/Giant Growth\|PAGE]] | {G} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.08 |
 | [**`mtg:Helping Hand`**](https://scryfall.com/card/soa/5) | [[02 Cards/Sorceries/Helping Hand\|PAGE]] | {W} | [[03 Card Types/Sorcery\|Sorcery]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 2 | 0.26 |
 | [**`mtg:Locust Spray`**](https://scryfall.com/card/soa/31) | [[02 Cards/Instants/Locust Spray\|PAGE]] | {B} | [[03 Card Types/Instant\|Instant]] | [[05 Colours/Black\|Black]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.06 |

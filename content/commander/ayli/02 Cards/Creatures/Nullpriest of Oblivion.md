@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Nullpriest of Oblivion`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{B}  
 > **Type:** Creature — Vampire Cleric  
 > **P/T:** 2/1  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Sleeved 16/09/2026 Box temp. Flying lifelink 2/1. Kicker returns a creature. Recursion plus +10. |
-> | Deck-Specific | 88 | Sleeved 16/09/2026 Box temp. Flying lifelink 2/1. Kicker returns a creature. Recursion plus +10. |
-> | **Combined** | **85** | Sleeved 16/09/2026 Box temp. Flying lifelink 2/1. Kicker returns a creature. Recursion plus +10. |
+> | General | 80 | Cut 29/09/2026 for Avenger of the Fallen. |
+> | Deck-Specific | 88 | Cut 29/09/2026 for Avenger of the Fallen. |
+> | **Combined** | **85** | Cut 29/09/2026 for Avenger of the Fallen. |
 >
 > ### Classification
 >
@@ -41,7 +41,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Sleeved 16/09/2026 Box temp. Flying lifelink 2/1. Kicker returns a creature. Recursion plus +10. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">85<span>/100</span></div><p class="synergy-score-why">Cut 29/09/2026 for Avenger of the Fallen. General 80 and Deck-Specific 88 produce Combined 85.</p></div>
 
 ## Oracle Text
 
@@ -54,12 +54,14 @@ Menace (This creature can't be blocked except by two or more creatures.)
 
 ## Deck Role & Rating
 
-Nullpriest of Oblivion at {1}{B} recurs from the yard. Point it at the engine, not a 1/1. Sleeved 16/09/2026 Box temp. Flying lifelink 2/1. Kicker returns a creature. Recursion plus +10.
+Nullpriest of Oblivion at {1}{B} recurs from the yard. Point it at the engine, not a 1/1. Cut 29/09/2026 for Avenger of the Fallen. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it advances Lifegain aristocrats for [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]].
 - Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
@@ -68,7 +70,7 @@ Nullpriest of Oblivion at {1}{B} recurs from the yard. Point it at the engine, n
 
 ## Anti-synergies / Notes
 
-- Judge it by whether it serves Ayli, Eternal Pilgrim's Lifegain aristocrats plan.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -91,7 +93,7 @@ Nullpriest of Oblivion at {1}{B} recurs from the yard. Point it at the engine, n
 > colors: ["B"]
 > color_identity: ["B"]
 > keywords: ["Lifelink", "Menace", "Kicker"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 88
@@ -99,7 +101,7 @@ Nullpriest of Oblivion at {1}{B} recurs from the yard. Point it at the engine, n
 > scryfall_id: b2c7613c-38fc-49c3-93ee-1df93136455a
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

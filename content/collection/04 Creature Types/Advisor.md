@@ -2,10 +2,11 @@
 
 Creature type: Advisor.
 
-**8** copies · **8** names.
+**11** copies · **9** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Campus Crier`**](https://scryfall.com/card/fra/4) | [[02 Cards/Creatures/Campus Crier\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.18 |
 | [**`mtg:Forecasting Fortune Teller`**](https://scryfall.com/card/tla/51) | [[02 Cards/Creatures/Forecasting Fortune Teller\|PAGE]] | {1}{U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Advisor\|Advisor]] [[04 Creature Types/Ally\|Ally]] | [[05 Colours/Blue\|Blue]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.04 |
 | [**`mtg:Karlov of the Ghost Council`**](https://scryfall.com/card/rvr/193) | [[02 Cards/Creatures/Karlov of the Ghost Council\|PAGE]] | {W}{B} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Spirit\|Spirit]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 9.49 |
 | [**`mtg:Pond Prophet`**](https://scryfall.com/card/blb/229) | [[02 Cards/Creatures/Pond Prophet\|PAGE]] | {G/U}{G/U} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Frog\|Frog]] [[04 Creature Types/Advisor\|Advisor]] | [[05 Colours/Multi\|Multi]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 1 | 0.15 |

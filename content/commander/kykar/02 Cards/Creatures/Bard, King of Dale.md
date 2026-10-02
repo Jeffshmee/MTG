@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Bard, King of Dale`**
 >
-> **Status:** Ordered  
+> **Status:** Traded out  
 > **Mana Cost:** {4}{W}{U}  
 > **Type:** Legendary Creature — Human Noble Archer  
 > **P/T:** 3/5  
@@ -42,6 +42,8 @@
 
 <div class="synergy-score"><div class="synergy-score-num">80<span>/100</span></div><p class="synergy-score-why">Owned. Six-mana extra draws and token doubling. Off-plan as a Spirit closer until the 100 is full. General 82 and Deck-Specific 78 produce Combined 80.</p></div>
 
+Traded to Jack on 29/09/2026. Not an owned extra.
+
 ## Oracle Text
 
 [[03 Effects/Reach|Reach]], [[03 Effects/Vigilance|vigilance]]
@@ -52,14 +54,13 @@ If one or more tokens would be created under your control, twice that many of th
 
 ## Deck Role & Rating
 
-Bard, King of Dale is an ETB draw body at {4}{W}{U}. Blink it with [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]], [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]], or [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] to refill. Owned. Six-mana extra draws and token doubling. Off-plan as a Spirit closer until the 100 is full. It is not in the owned 65 yet. Owned extra — sitting on the sideboard, not a default 65 include.
+Traded to Jack on 29/09/2026. Not an owned extra. The last copy left the collection.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
 - Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
-- Not in the owned 65 until it is in hand and committed.
-- Owned extra. Stay on the sideboard unless a named cut opens a 65 slot.
+- Traded to Jack on 29/09/2026. Not in the collection.
 
 ## Key Synergies
 
@@ -69,7 +70,7 @@ Bard, King of Dale is an ETB draw body at {4}{W}{U}. Blink it with [[02 Cards/Cr
 
 ## Anti-synergies / Notes
 
-- Owned extra. Stay on the sideboard — no main-deck swap suggested.
+- Traded to Jack on 29/09/2026.
 - Your own tokens that leave (Kykar Spirit, Channeler Bird) cease. Do not blink a token expecting it back.
 
 ## Related Pages
@@ -93,7 +94,7 @@ Bard, King of Dale is an ETB draw body at {4}{W}{U}. Blink it with [[02 Cards/Cr
 > colors: ["U", "W"]
 > color_identity: ["U", "W"]
 > keywords: ["Reach", "Vigilance"]
-> status: Ordered
+> status: Traded out
 > scores:
 >   general: 82
 >   deck_specific: 78

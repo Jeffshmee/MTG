@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Infirmary Healer`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {1}{G} // {X}{G}  
 > **Type:** Creature — Cat Cleric // Sorcery  
 > **P/T:** 2/3  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 80 | Sleeved 21/09/2026. SOS 152 over Oreskos Swiftclaw M19 31. Two copies stay in the box. |
-> | Deck-Specific | 82 | Sleeved 21/09/2026. SOS 152 over Oreskos Swiftclaw M19 31. Two copies stay in the box. |
-> | **Combined** | **81** | Sleeved 21/09/2026. SOS 152 over Oreskos Swiftclaw M19 31. Two copies stay in the box. |
+> | General | 80 | Cut 29/09/2026 for Tigra, Feline Fury. |
+> | Deck-Specific | 82 | Cut 29/09/2026 for Tigra, Feline Fury. |
+> | **Combined** | **81** | Cut 29/09/2026 for Tigra, Feline Fury. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">81<span>/100</span></div><p class="synergy-score-why">Sleeved 21/09/2026. SOS 152 over Oreskos Swiftclaw M19 31. Two copies stay in the box. General 80 and Deck-Specific 82 produce Combined 81.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">81<span>/100</span></div><p class="synergy-score-why">Cut 29/09/2026 for Tigra, Feline Fury. General 80 and Deck-Specific 82 produce Combined 81.</p></div>
 
 ## Oracle Text
 
@@ -49,12 +49,14 @@ Stream of Life: Target player gains X life.
 
 ## Deck Role & Rating
 
-Infirmary Healer ({1}{G} // {X}{G}). Sleeved 21/09/2026. SOS 152 over Oreskos Swiftclaw M19 31. Two copies stay in the box. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan.
+Infirmary Healer ({1}{G} // {X}{G}). Cut 29/09/2026 for Tigra, Feline Fury. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
 - Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
 - Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
@@ -63,7 +65,7 @@ Infirmary Healer ({1}{G} // {X}{G}). Sleeved 21/09/2026. SOS 152 over Oreskos Sw
 
 ## Anti-synergies / Notes
 
-- Judge it by whether it serves Arahbo, Roar of the World's Cat tribal plan.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -86,7 +88,7 @@ Infirmary Healer ({1}{G} // {X}{G}). Sleeved 21/09/2026. SOS 152 over Oreskos Sw
 > colors: ["G"]
 > color_identity: ["G"]
 > keywords: ["Prepared"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 80
 >   deck_specific: 82
@@ -94,7 +96,7 @@ Infirmary Healer ({1}{G} // {X}{G}). Sleeved 21/09/2026. SOS 152 over Oreskos Sw
 > scryfall_id: 911442e3-3003-4683-a766-e791e9553667
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

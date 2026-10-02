@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Ajani's Sunstriker`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {W}{W}  
 > **Type:** Creature — Cat Cleric  
 > **P/T:** 2/2  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 76 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | Deck-Specific | 78 | Makes the 99. On-plan enough to keep over a generic staple. |
-> | **Combined** | **77** | Makes the 99. On-plan enough to keep over a generic staple. |
+> | General | 76 | Cut 29/09/2026 for Ka-Zar of the Savage Land. |
+> | Deck-Specific | 78 | Cut 29/09/2026 for Ka-Zar of the Savage Land. |
+> | **Combined** | **77** | Cut 29/09/2026 for Ka-Zar of the Savage Land. |
 >
 > ### Classification
 >
@@ -38,7 +38,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Makes the 99. On-plan enough to keep over a generic staple. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">77<span>/100</span></div><p class="synergy-score-why">Cut 29/09/2026 for Ka-Zar of the Savage Land. General 76 and Deck-Specific 78 produce Combined 77.</p></div>
 
 ## Oracle Text
 
@@ -48,20 +48,23 @@
 
 ## Deck Role & Rating
 
-[[02 Cards/Creatures/Ajani's Sunstriker|Ajani's Sunstriker]] is a 2/2 lifelink Cat. Feeds Pridemate and Collector. Honest two-drop.
+Ajani's Sunstriker ({W}{W}). Cut 29/09/2026 for Ka-Zar of the Savage Land. Judge it by whether it serves [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]'s Cat tribal plan. It is not in the sleeved 100 yet. 🟢 Owned extra on the sideboard — not a default include.
 
 ## Play Patterns & Lines
 
-- Connect once. That life is a Collector Cat and a Pridemate counter.
+- Cast on curve if it advances Cat tribal for [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Arahbo, Roar of the World|Arahbo, Roar of the World]]
-- **Life**: [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]], [[02 Cards/Creatures/Cat Collector|Cat Collector]], [[02 Cards/Creatures/Regal Caracal|Regal Caracal]]
+- **Plan**: Cat tribal
 
 ## Anti-synergies / Notes
 
-- Roar is still ordered. There is no Eminence pump until that copy is in the command zone.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -84,7 +87,7 @@
 > colors: ["W"]
 > color_identity: ["W"]
 > keywords: ["Lifelink"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 76
 >   deck_specific: 78
@@ -92,9 +95,9 @@
 > scryfall_id: 373d6799-e031-4043-8437-ed4880be0de9
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 
-*Last evaluated: 2026-09-10*  
+*Last evaluated: 2026-08-30*  
 *Data source: mtg-scryfall-bulk + arahbo-roar-commander scoring*

@@ -2,10 +2,11 @@
 
 Set `CLU`. Qty here is copies of this name from this set.
 
-**7** copies · **5** names.
+**8** copies · **6** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
+| [**`mtg:Secret Passage`**](https://scryfall.com/card/clu/20) | [[02 Cards/Lands/Secret Passage\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {U}{B} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.20 |
 | [**`mtg:Selesnya Sanctuary`**](https://scryfall.com/card/clu/246) | [[02 Cards/Lands/Selesnya Sanctuary\|PAGE]] | — | [[03 Card Types/Land\|Land]] — [[06 Browse/Land Types/Duals\|Duals]] | [[02 Cards/Lands/01 - Summary\|Land]] {W}{G} | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.11 |
 | [**`mtg:Doomed Traveler`**](https://scryfall.com/card/clu/59) | [[02 Cards/Creatures/Doomed Traveler\|PAGE]] | {W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Human\|Human]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (1)\|1]] | 1 | 0.15 |
 | [**`mtg:Ajani's Pridemate`**](https://scryfall.com/card/clu/52) | [[02 Cards/Creatures/Ajani's Pridemate\|PAGE]] | {1}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Cat\|Cat]] [[04 Creature Types/Soldier\|Soldier]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (2)\|2]] | 3 | 0.54 |

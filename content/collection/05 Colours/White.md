@@ -2,7 +2,7 @@
 
 Mono-white cards ({W} only). Lands and tokens are listed separately.
 
-**291** copies · **218** names.
+**357** copies · **253** names.
 
 ```decklist
 group: auto
@@ -13,7 +13,7 @@ legality: commander
 2 Adeline, Resplendent Cathar
 1 Adept Watershaper
 1 Ainok Strike Leader
-5 Ajani's Pridemate
+7 Ajani's Pridemate
 1 Ajani's Sunstriker
 1 Anafenza, Unyielding Lineage
 2 Angel of Finality
@@ -27,9 +27,11 @@ legality: commander
 1 Ashe, Princess of Dalmasca
 1 Ballyrush Banneret
 1 Belladonna Took
+3 Blossom-Blessed Angel // Seed Suture
 1 Brave-Kin Duo
 1 Brightfield Glider
 1 Brimaz, King of Oreskos
+3 Campus Crier
 1 Cat Collector
 1 Cathar Commando
 1 Charming Prince
@@ -37,7 +39,9 @@ legality: commander
 1 Cult Healer
 1 Dalkovan Packbeasts
 1 Danitha, Benalia's Hope
+2 Danitha, Sword of Hope
 1 Dawnwing Marshal
+1 Daxos, Blessed by the Sun
 1 Delney, Streetwise Lookout
 1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
 1 Doomed Traveler
@@ -51,15 +55,20 @@ legality: commander
 1 Ennis, Debate Moderator
 3 Esgaroth Garrison
 1 Essence Channeler
+3 Fateshaper Aspirant
 1 Felidar Cub
 1 Felidar Guardian
 1 Felidar Savior
+1 Flickering Hound
 1 Fortress Kin-Guard
+1 Ghalta the Immovable
 1 Glider Kids
 1 Goldnight Commander
+3 Graft Surgeon
 1 Griffnaut Tracker
 1 Healer of the Pride
 1 Healer's Hawk
+1 Heliod, Sun-Crowned
 2 Helpful Hunter
 1 Hero of Bladehold
 4 Hinterland Sanctifier
@@ -76,10 +85,12 @@ legality: commander
 1 King of the Pride
 1 Knight of Grace
 1 Knight of the White Orchid
+1 Koth of the Homestead
 1 Kree Commandos
 2 Lake-town Lookout
 1 Lake-town Toymaker
 1 Leonin Warleader
+1 Liliana the Faultless
 1 Linden, the Steadfast Queen
 1 Lion Sash
 1 Loran of the Third Path
@@ -102,6 +113,7 @@ legality: commander
 1 Regal Caracal
 3 Rehearsed Debater
 2 Reluctant Dounguard
+1 Rescue Girl, First Responder
 1 Resolute Reinforcements
 1 Rhox Faithmender
 2 Riling Dawnbreaker // Signaling Roar
@@ -111,6 +123,7 @@ legality: commander
 1 Selfless Spirit
 1 Serra Ascendant
 2 Shattered Acolyte
+4 Shatterwing Pegasus
 1 Shrike Force
 1 Skyknight Squire
 2 Soaring Stoneglider
@@ -128,41 +141,51 @@ legality: commander
 1 Swiftwing Assailant
 1 Syr Alin, the Lion's Claw
 1 Tempest Hawk
+2 Teyo, Lightshield Expert
+2 Thalia, the Survivor
 1 Twilight Drover
 1 Twinmaw Stormbrood // Charring Bite
+3 Unflinching Hortimancer
 2 Vanguard Seraph
 1 Velvetwing Butterflies // Gaze in Wonder
 2 Wanderbrine Preacher
 2 Wanderbrine Trapper
 1 Warren Elder
+2 Yoshimaru, Beloved Companion
 1 Youthful Valkyrie
+1 Yuriko, Blade of the Mighty
 1 Zetalpa, Primal Dawn
 
 # Planeswalkers
 1 Ajani, Caller of the Pride
 
 # Instants
+2 Academic Ascent
 3 Ajani's Response
 1 Akroma's Will
 1 Appeal to Eirdu
 2 Auspicious Arrival
 1 Claws Out
+1 Cloudshift
 1 Dawn's Truce
 1 Disenchant
 2 Divine Resilience
 3 Duty Beyond Death
 1 Ephemerate
 1 Fate of the Sun-Cryst
+2 Germinate Recruits
 1 Grand Crescendo
 3 Interjection
 2 Joust Through
 2 Lightfoot Technique
+1 Loyal Tutor
 1 Luminous Rebuke
 1 Make a Stand
 3 Make Your Move
 1 Momentary Blink
 1 Osseous Exhale
 1 Personify
+2 Prophesied End
 1 Protective Response
 2 Rapier Wit
 1 Rebellious Strike
@@ -177,7 +200,9 @@ legality: commander
 1 Valorous Stance
 1 Vow to Erebor
 1 White Sun's Zenith
+1 Whitesun's Passage
 1 Will of the Mardu
+1 Your Fate Ends Here
 
 # Sorceries
 1 Day of Judgment
@@ -185,19 +210,25 @@ legality: commander
 1 Devout Decree
 2 Dig Site Inventory
 1 Farewell
+2 Generous Revival
 1 Group Project
 2 Helping Hand
+2 Hexhaven Battalion
 2 Hop to It
 1 Hour of Reckoning
+1 Kindred Judgment
 1 Lingering Souls
 1 Moment of Glory
 1 Practiced Offense
+3 Predictive Preparations
 1 Prismatic Ending
+1 Refute Destiny
 2 Release the Dogs
 1 Requisition Raid
 1 Restoration Seminar
 1 Sevinne's Reclamation
 1 Split Up
+2 Surgical Precision
 
 # Enchantments
 1 Airbender Ascension
@@ -214,11 +245,13 @@ legality: commander
 1 Divine Visitation
 1 Felidar Retreat
 1 Graduation Day
+1 Hardlight Containment
 1 Intangible Virtue
 2 Legion Loyalty
 1 Leyline of Hope
 1 Lightwheel Enhancements
 1 Makeshift Binding
+3 Memory Trap
 1 Sheltered by Ghosts
 1 Southern Air Temple
 1 Spiral into Solitude
@@ -230,6 +263,8 @@ legality: commander
 1 Tocasia's Welcome
 1 Trapped in the Screen
 2 Twinblade Blessing
+2 Way of the Healer
+2 Way of the Mentor
 
 # Artifacts
 1 Bark of Doran

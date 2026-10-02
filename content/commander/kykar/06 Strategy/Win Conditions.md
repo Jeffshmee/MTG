@@ -60,7 +60,7 @@ Point spot bounce at the **engine**.
 
 ## 4. Spirit mode — backup only
 
-**How it wins:** Kykar makes 1/1 flying Spirits when there is nothing to blink. [[02 Cards/Creatures/Empyrean Eagle|Empyrean Eagle]] (owned extra, not in the 65) would anthem them. This is **not** the plan. Zurgo is the go-wide deck. [[02 Cards/Creatures/Bard, King of Dale|Bard, King of Dale]] stays on the sideboard.
+**How it wins:** Kykar makes 1/1 flying Spirits when there is nothing to blink. [[02 Cards/Creatures/Empyrean Eagle|Empyrean Eagle]] (owned extra, not in the 65) would anthem them. This is **not** the plan. Zurgo is the go-wide deck. Bard, King of Dale was traded to Jack on 29/09/2026.
 
 ---
 

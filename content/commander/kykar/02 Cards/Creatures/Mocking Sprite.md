@@ -2,7 +2,7 @@
 
 > [!card-proxy] **`mtg:Mocking Sprite`**
 >
-> **Status:** Main Deck  
+> **Status:** Sideboard  
 > **Mana Cost:** {2}{U}  
 > **Type:** Creature — Faerie Rogue  
 > **P/T:** 2/1  
@@ -18,9 +18,9 @@
 >
 > | Score | Value | Breakdown |
 > |-------|-------|-----------|
-> | General | 70 | Spare copy (Maralen has one). Discounts every instant and sorcery this deck casts. Not Faerie tribal here. |
-> | Deck-Specific | 78 | Spare copy (Maralen has one). Discounts every instant and sorcery this deck casts. Not Faerie tribal here. |
-> | **Combined** | **75** | Spare copy (Maralen has one). Discounts every instant and sorcery this deck casts. Not Faerie tribal here. |
+> | General | 70 | Cut 29/09/2026 for Justice, Vance Astrovik. |
+> | Deck-Specific | 78 | Cut 29/09/2026 for Justice, Vance Astrovik. |
+> | **Combined** | **75** | Cut 29/09/2026 for Justice, Vance Astrovik. |
 >
 > ### Classification
 >
@@ -39,7 +39,7 @@
 
 ### Combined Deck Synergy Score
 
-<div class="synergy-score"><div class="synergy-score-num">75<span>/100</span></div><p class="synergy-score-why">Spare copy (Maralen has one). Discounts every instant and sorcery this deck casts. Not Faerie tribal here. General 70 and Deck-Specific 78 produce Combined 75.</p></div>
+<div class="synergy-score"><div class="synergy-score-num">75<span>/100</span></div><p class="synergy-score-why">Cut 29/09/2026 for Justice, Vance Astrovik. General 70 and Deck-Specific 78 produce Combined 75.</p></div>
 
 ## Oracle Text
 
@@ -54,18 +54,19 @@ Spare copy (Maralen has the other). Instant and sorcery spells cost {1} less —
 
 ## Play Patterns & Lines
 
-- Cast on curve if it is a noncreature (Kykar trigger) or an ETB worth blinking.
-- Blink targets in the 65: Channeler, Hunter, Cloudblazer, Charming Prince, Overseer, Kitesail, Banishing Light.
+- Cast on curve if it advances Blink spells for [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]].
+- Owned copies stay on the sideboard until you sleeve them into this 100.
+- Not in the sleeved 100 until it is in hand and committed.
+- Owned extra. Sleeve today if it is in the intended 99.
 
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Kykar, Zephyr Awakener|Kykar, Zephyr Awakener]]
-- **Blink (live)**: [[02 Cards/Creatures/Thassa, Deep-Dwelling|Thassa, Deep-Dwelling]], [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]], [[02 Cards/Creatures/Charming Prince|Charming Prince]]
-- **ETB payoffs (live)**: [[02 Cards/Creatures/Aether Channeler|Aether Channeler]], [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]], [[02 Cards/Creatures/Cloudblazer|Cloudblazer]]
+- **Plan**: Blink spells
 
 ## Anti-synergies / Notes
 
-- Judge it by whether it triggers Kykar or is worth blinking. Spirit mode is backup.
+- Owned, not sleeved. Sleeve into this 100 when you build it today.
 
 ## Related Pages
 
@@ -88,7 +89,7 @@ Spare copy (Maralen has the other). Instant and sorcery spells cost {1} less —
 > colors: ["U"]
 > color_identity: ["U"]
 > keywords: ["Flying"]
-> status: Main Deck
+> status: Sideboard
 > scores:
 >   general: 70
 >   deck_specific: 78
@@ -96,7 +97,7 @@ Spare copy (Maralen has the other). Instant and sorcery spells cost {1} less —
 > scryfall_id: f6792f63-b651-497d-8aa5-cddf4cedeca8
 > tags:
 >   - card
->   - main-deck
+>   - ordered
 >   - creature
 > ```
 

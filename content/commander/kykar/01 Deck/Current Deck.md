@@ -20,10 +20,10 @@ legality: commander
 1 Aether Channeler
 1 Deputy of Detention
 1 Glasspool Mimic
+1 Justice, Vance Astrovik
 1 Kitesail Larcenist
 1 Loran of the Third Path
 1 Man-o'-War
-1 Mocking Sprite
 1 Reflector Mage
 1 Skycoach Conductor
 1 Soulherder
@@ -47,6 +47,7 @@ legality: commander
 
 # Instants
 1 An Offer You Can't Refuse
+1 Cloudshift
 1 Ephemerate
 1 Into the Flood Maw
 1 Repeal
@@ -64,7 +65,6 @@ legality: commander
 
 # Sorceries
 1 Boomerang Basics
-1 Daydream
 1 Ponder
 1 Sleight of Hand
 1 Flow State
@@ -117,7 +117,7 @@ legality: commander
 ---
 
 *Source: `kykar-zephyr/07 Assets/current-deck.md`*
-*Last synced: 2026-09-26 (26-09 to-do)*
+*Last synced: 2026-09-29 (29-09 to-do)*
 
 ---
 
@@ -136,10 +136,10 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Aether Channeler|Aether Channeler]] **93** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:93%"></div></div>
 - [[02 Cards/Creatures/Deputy of Detention|Deputy of Detention]] **91** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:91%"></div></div>
 - [[02 Cards/Creatures/Glasspool Mimic|Glasspool Mimic]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
+- [[02 Cards/Creatures/Justice, Vance Astrovik|Justice, Vance Astrovik]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Kitesail Larcenist|Kitesail Larcenist]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Loran of the Third Path|Loran of the Third Path]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Man-o'-War|Man-o'-War]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
-- [[02 Cards/Creatures/Mocking Sprite|Mocking Sprite]] **75** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:75%"></div></div>
 - [[02 Cards/Creatures/Reflector Mage|Reflector Mage]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Skycoach Conductor|Skycoach Conductor]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Soulherder|Soulherder]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
@@ -164,6 +164,7 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 
 ### Instants
 - [[02 Cards/Instants/An Offer You Can't Refuse|An Offer You Can't Refuse]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
+- [[02 Cards/Instants/Cloudshift|Cloudshift]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Instants/Ephemerate|Ephemerate]] **94** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:94%"></div></div>
 - [[02 Cards/Instants/Into the Flood Maw|Into the Flood Maw]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Instants/Repeal|Repeal]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>
@@ -181,7 +182,6 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 
 ### Sorceries
 - [[02 Cards/Sorceries/Boomerang Basics|Boomerang Basics]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
-- [[02 Cards/Sorceries/Daydream|Daydream]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 - [[02 Cards/Sorceries/Ponder|Ponder]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Sorceries/Sleight of Hand|Sleight of Hand]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Sorceries/Flow State|Flow State]] **84** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:84%"></div></div>

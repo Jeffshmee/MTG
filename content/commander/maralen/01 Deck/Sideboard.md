@@ -23,7 +23,7 @@ legality: commander
 ---
 
 *Source: `maralen-fae/07 Assets/sideboard.md`*
-*Last synced: 2026-09-26 (26-09 to-do)*
+*Last synced: 2026-09-29 (29-09 to-do)*
 
 ---
 

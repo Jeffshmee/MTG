@@ -2,7 +2,7 @@
 
 Every **Lands** page in this vault. Same columns as the collection Catalogue (mana-value order). PAGE is the card in this vault.
 
-**38** copies · **22** names.
+**37** copies · **22** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -22,7 +22,7 @@ Every **Lands** page in this vault. Same columns as the collection Catalogue (ma
 | [**`mtg:Secluded Courtyard`**](https://scryfall.com/card/msc/265) | [[02 Cards/Lands/Secluded Courtyard\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 0.29 |
 | [**`mtg:Secluded Glen`**](https://scryfall.com/card/lrw/271) | [[02 Cards/Lands/Secluded Glen\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {B}{U} | 0 | 1 | 0.73 |
 | [**`mtg:Simic Guildgate`**](https://scryfall.com/card/fdn/695) | [[02 Cards/Lands/Simic Guildgate\|PAGE]] | — | [[04 Types/Land\|Land]] [[04 Types/Gate\|Gate]] | [[04 Types/Land\|Land]] {G}{U} | 0 | 1 | 0.15 |
-| [**`mtg:Swamp`**](https://scryfall.com/card/trk/321) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[04 Types/Basic\|Basic]] [[04 Types/Land\|Land]] [[04 Types/Swamp\|Swamp]] | [[04 Types/Land\|Land]] {B} | 0 | 6 | 4.02 |
+| [**`mtg:Swamp`**](https://scryfall.com/card/trk/321) | [[02 Cards/Lands/Swamp\|PAGE]] | — | [[04 Types/Basic\|Basic]] [[04 Types/Land\|Land]] [[04 Types/Swamp\|Swamp]] | [[04 Types/Land\|Land]] {B} | 0 | 5 | 3.35 |
 | [**`mtg:Thornwood Falls`**](https://scryfall.com/card/tdm/269) | [[02 Cards/Lands/Thornwood Falls\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {G}{U} | 0 | 1 | 0.07 |
 | [**`mtg:Three Tree City`**](https://scryfall.com/card/blb/260) | [[02 Cards/Lands/Three Tree City\|PAGE]] | — | [[04 Types/Legendary\|Legendary]] [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] | 0 | 1 | 16.79 |
 | [**`mtg:Wastewood Verge`**](https://scryfall.com/card/dft/268) | [[02 Cards/Lands/Wastewood Verge\|PAGE]] | — | [[04 Types/Land\|Land]] | [[04 Types/Land\|Land]] {B}{G} | 0 | 1 | 7.31 |

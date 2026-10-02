@@ -2,7 +2,7 @@
 
 Creature type: Dinosaur.
 
-**11** copies · **7** names.
+**14** copies · **9** names.
 
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
@@ -13,3 +13,5 @@ Creature type: Dinosaur.
 | [**`mtg:Quakestrider Ceratops`**](https://scryfall.com/card/fdn/110) | [[02 Cards/Creatures/Quakestrider Ceratops\|PAGE]] | {3}{G}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.16 |
 | [**`mtg:Savage Land Dinosaur`**](https://scryfall.com/card/msh/185) | [[02 Cards/Creatures/Savage Land Dinosaur\|PAGE]] | {4}{G}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (6)\|6]] | 1 | 0.15 |
 | [**`mtg:Zetalpa, Primal Dawn`**](https://scryfall.com/card/tdc/142) | [[02 Cards/Creatures/Zetalpa, Primal Dawn\|PAGE]] | {6}{W}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elder\|Elder]] [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (8)\|8]] | 1 | 0.21 |
+| [**`mtg:Ghalta the Immovable`**](https://scryfall.com/card/fra/197) | [[02 Cards/Creatures/Ghalta the Immovable\|PAGE]] | {8}{W} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elder\|Elder]] [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/White\|White]] | [[06 Browse/Mana Costs/Mana (9)\|9]] | 1 | 0.02 |
+| [**`mtg:Ghalta the Unstoppable`**](https://scryfall.com/card/fra/260) | [[02 Cards/Creatures/Ghalta the Unstoppable\|PAGE]] | {8}{G} | [[03 Card Types/Creature\|Creature]] — [[04 Creature Types/Elder\|Elder]] [[04 Creature Types/Dinosaur\|Dinosaur]] | [[05 Colours/Green\|Green]] | [[06 Browse/Mana Costs/Mana (9)\|9]] | 2 | 0.41 |

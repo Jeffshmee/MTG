@@ -35,6 +35,7 @@
 | 07/09/2026 | MageCards · avm4474 |
 | 11/09/2026 | arrival extra |
 | 14/09/2026 | Cardmarket · Nikolcia01 |
+| 02/10/2026 | Booster haul |
 
 </div>
 
@@ -43,7 +44,7 @@
 ## Printings
 
 <div class="synergy-score collection-copies">
-<div class="synergy-score-num"><span>Copies</span>32</div>
+<div class="synergy-score-num"><span>Copies</span>34</div>
 <div class="synergy-score-why">
 <table>
 <thead><tr><th>Set</th><th>#</th><th>Foil</th><th>Qty</th><th>Where</th><th>Est. Price (GBP)</th></tr></thead>
@@ -63,6 +64,8 @@
 <tr><td>Foundations (<code>FDN</code>)</td><td>288</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>Foundations (<code>FDN</code>)</td><td>289</td><td>—</td><td>1</td><td>Box</td><td>0.17</td></tr>
 <tr><td>The Lord of the Rings: Tales of Middle-earth (<code>LTR</code>)</td><td>269</td><td>foil</td><td>1</td><td>Box</td><td>0.14</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>392</td><td>—</td><td>1</td><td>Box</td><td>0.44</td></tr>
+<tr><td>Reality Fracture (<code>FRA</code>)</td><td>393</td><td>—</td><td>1</td><td>Box</td><td>0.38</td></tr>
 </tbody>
 </table>
 </div>
@@ -110,6 +113,14 @@ Printings in the collection. Infocard uses the most copies.
 <figcaption>FDN 289 · ×1</figcaption>
 </figure>
 <figure>
+<img src="https://cards.scryfall.io/border_crop/front/d/d/ddc91faf-dd36-4c26-b3b4-0a6a624b5663.jpg" alt="Mountain FRA 392 · ×1">
+<figcaption>FRA 392 · ×1</figcaption>
+</figure>
+<figure>
+<img src="https://cards.scryfall.io/border_crop/front/a/4/a49ae3b7-4b1f-41b6-8c05-cbdc44f070cb.jpg" alt="Mountain FRA 393 · ×1">
+<figcaption>FRA 393 · ×1</figcaption>
+</figure>
+<figure>
 <img src="https://cards.scryfall.io/border_crop/front/e/3/e3731001-4e6a-4a91-9e7d-fc2ea039a60b.jpg" alt="Mountain LTR 268 · ×1">
 <figcaption>LTR 268 · ×1</figcaption>
 </figure>
@@ -137,7 +148,7 @@ Printings in the collection. Infocard uses the most copies.
 
 ## Related
 
-- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Mountain|Mountain]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/M19|Core Set 2019]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]]
+- [[index|Collection]] · [[01 Catalogue/Catalogue|Catalogue]] · [[03 Card Types/Land|Land]] · [[02 Cards/Lands/01 - Summary|Lands]] · [[06 Browse/Land Types/Mountain|Mountain]] · [[06 Browse/Mana Costs/Mana (0)|Mana (0)]] · [[06 Browse/Rarities/1 Common|Common]] · [[06 Browse/Foil|Foil]] · [[06 Browse/Box|Box]] · [[06 Browse/Decks/Zurgo Deck/Zurgo|Zurgo]] · [[06 Browse/Sets/BLB|Bloomburrow]] · [[06 Browse/Sets/TDM|Tarkir: Dragonstorm]] · [[06 Browse/Sets/FDN|Foundations]] · [[06 Browse/Sets/SOS|Secrets of Strixhaven]] · [[06 Browse/Sets/M19|Core Set 2019]] · [[06 Browse/Sets/HOB|The Hobbit]] · [[06 Browse/Sets/LTR|The Lord of the Rings: Tales of Middle-earth]] · [[06 Browse/Sets/FRA|Reality Fracture]]
 
 ---
 
@@ -150,7 +161,7 @@ Printings in the collection. Infocard uses the most copies.
 > cmc: 0
 > type: "Basic Land — Mountain"
 > scryfall_id: 279df7e2-2a3b-464a-a7df-e91da28e3a8c
-> quantity: 32
+> quantity: 34
 > tags:
 >   - card
 >   - collection

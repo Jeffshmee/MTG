@@ -1,5 +1,7 @@
 # Planeswalker
 
-A permanent with loyalty abilities. You may activate one loyalty ability on your turn as a sorcery.
+Planeswalker.
+
+Types in this Elves plus Faeries list.
 
 **In this vault:** [[02 Cards/Planeswalkers/Tyvar Kell|Tyvar Kell]]

@@ -23,7 +23,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 | [**`mtg:Maralen, Fae Ascendant`**](https://scryfall.com/card/ecl/233) | [[02 Cards/Creatures/Maralen, Fae Ascendant\|PAGE]] | {2}{B}{G}{U} | [[03 Card Types/Creature\|Creature]] | Maralen | Foil ECL 233. Art swap for the commander (nonfoil ECL 233 out to Box). |
 | [**`mtg:Dwynen, Gilt-Leaf Daen`**](https://scryfall.com/card/fdn/217) | [[02 Cards/Creatures/Dwynen, Gilt-Leaf Daen\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] | Box | Elf lord. Optional Maralen add — see the sleeve to-do. Until then, Box. |
 | [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/206) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] | Box | ECL 206 nonfoil. Extra next to yesterday's ECL 331 foil. Box. |
-| [**`mtg:Eclipsed Boggart`**](https://scryfall.com/card/ecl/335) | [[02 Cards/Creatures/Eclipsed Boggart\|PAGE]] | {B/R}{B/R}{B/R} | [[03 Card Types/Creature\|Creature]] | Box | Not an Elf/Faerie. Box. |
+| Eclipsed Boggart | — | — | — | Box | Not an Elf/Faerie. Box. |
 | [**`mtg:Airbender Ascension`**](https://scryfall.com/card/tla/6) | [[02 Cards/Enchantments/Airbender Ascension\|PAGE]] | {1}{W} | [[03 Card Types/Enchantment\|Enchantment]] | Box | Not on a current 100. Box. |
 | [**`mtg:Essence Drain`**](https://scryfall.com/card/m13/93) | [[02 Cards/Sorceries/Essence Drain\|PAGE]] | {4}{B} | [[03 Card Types/Sorcery\|Sorcery]] | Box | Ebay. Not on a current 100. Box. |
 | [**`mtg:Ajani, Caller of the Pride`**](https://scryfall.com/card/m14/1) | [[02 Cards/Planeswalkers/Ajani, Caller of the Pride\|PAGE]] | {1}{W}{W} | [[03 Card Types/Planeswalker\|Planeswalker]] | Box | Not on a current 100. Box. |
@@ -108,7 +108,7 @@ Cards from this opening to sleeve for a current list, or to protect in the box.
 |------|--|------|------|--------|------|-----|------------------|------|
 | [**`mtg:Dwynen, Gilt-Leaf Daen`**](https://scryfall.com/card/fdn/217) | [[02 Cards/Creatures/Dwynen, Gilt-Leaf Daen\|PAGE]] | {2}{G}{G} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.16 | **Box:** Elf lord. Optional Maralen add — see the sleeve to-do. Until then, Box. |
 | [**`mtg:Boggart Cursecrafter`**](https://scryfall.com/card/ecl/206) | [[02 Cards/Creatures/Boggart Cursecrafter\|PAGE]] | {B}{R} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.20 | **Box:** ECL 206 nonfoil. Extra next to yesterday's ECL 331 foil. Box. |
-| [**`mtg:Eclipsed Boggart`**](https://scryfall.com/card/ecl/335) | [[02 Cards/Creatures/Eclipsed Boggart\|PAGE]] | {B/R}{B/R}{B/R} | [[03 Card Types/Creature\|Creature]] | Uncommon | foil | 1 | 0.18 | **Box:** Not an Elf/Faerie. Box. |
+| [**`mtg:Eclipsed Boggart`**](https://scryfall.com/card/ecl/335) | — | — | — | Uncommon | foil | 1 | 0.18 | **Box:** Not an Elf/Faerie. Box. |
 | [**`mtg:Reflector Mage`**](https://scryfall.com/card/ogw/157) | [[02 Cards/Creatures/Reflector Mage\|PAGE]] | {1}{W}{U} | [[03 Card Types/Creature\|Creature]] | Uncommon | — | 1 | 0.42 | **Kykar:** Owned on Kykar Sideboard. Sleeve into the 88 (no cut). |
 
 ## Calas222

@@ -7,7 +7,7 @@ Set `TTDC`. Qty here is copies of this name from this set.
 | Name | | Cost | Type | Colour | Mana | Qty | Est. Price (GBP) |
 |------|--|------|------|--------|------|-----|------------------|
 | [**`mtg:Angel`**](https://scryfall.com/card/tdsc/2) | [[02 Cards/Tokens/Angel\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.31 |
-| [**`mtg:Beast`**](https://scryfall.com/card/tfdn/33) | [[02 Cards/Tokens/Beast\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.19 |
+| [**`mtg:Beast`**](https://scryfall.com/card/tfra/8) | [[02 Cards/Tokens/Beast\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.19 |
 | [**`mtg:Citizen`**](https://scryfall.com/card/ttdc/26) | [[02 Cards/Tokens/Citizen\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.19 |
 | [**`mtg:Dog`**](https://scryfall.com/card/ttdc/3) | [[02 Cards/Tokens/Dog\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 3 | 0.45 |
 | [**`mtg:Eldrazi`**](https://scryfall.com/card/ttdc/1) | [[02 Cards/Tokens/Eldrazi\|PAGE]] | — | [[02 Cards/Tokens/01 - Summary\|Token]] | [[02 Cards/Tokens/01 - Summary\|Token]] | [[06 Browse/Mana Costs/Mana (0)\|0]] | 1 | 0.19 |

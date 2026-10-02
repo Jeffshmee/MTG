@@ -58,7 +58,7 @@ Whenever this creature or another creature you control dies, target opponent los
 ## Key Synergies
 
 - **Commander**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]]
-- **Deaths**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]], [[02 Cards/Instants/Culling the Weak|Culling the Weak]]
+- **Deaths**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]]
 - **Deaths live**: [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]], [[02 Cards/Enchantments/Bastion of Remembrance|Bastion of Remembrance]], [[02 Cards/Creatures/Infestation Sage|Infestation Sage]]
 - **Still sideboard**: [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] *(owned extra)*, [[02 Cards/Creatures/Blood Artist|Blood Artist]] *(owned extra)*
 

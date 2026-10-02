@@ -17,18 +17,16 @@ legality: commander
 1 Soul Warden
 1 Soul's Attendant
 1 Speaker of the Heavens
-1 Ajani's Pridemate
 1 Bartolomé del Presidio
 1 Bitterbloom Bearer
 1 Blood Artist
 1 Bloodghast
+1 Daxos, Blessed by the Sun
 1 Elas il-Kor, Sadistic Pilgrim
 1 Essence Channeler
-1 Gollum, Riddle Master
 1 Helpful Hunter
 1 Jadar, Ghoulcaller of Nephalia
 1 Karlov of the Ghost Council
-1 Nullpriest of Oblivion
 1 Priest of Forgotten Gods
 1 Reassembling Skeleton
 1 Stensian Sanguinist
@@ -36,21 +34,23 @@ legality: commander
 1 Vengeful Bloodwitch
 1 Zulaport Cutthroat
 1 Angel of Vitality
+1 Avenger of the Fallen
 1 Delney, Streetwise Lookout
+1 Heliod, Sun-Crowned
 1 Kambal, Consul of Allocation
-1 Marauding Blight-Priest
 1 Mentor of the Meek
 1 Nine-Lives Familiar
 1 Ophiomancer
 1 Pawn of Ulamog
 1 Teysa, Orzhov Scion
 1 Vito, Thorn of the Dusk Rose
-1 Yahenni, Undying Partisan
 1 Emeritus of Woe
 1 Enduring Tenacity
 1 Pitiless Plunderer
+1 Reaping Willow
 1 Rhox Faithmender
 1 Sifter of Skulls
+1 Vile Entomber
 1 Witch of the Moors
 1 Sun Titan
 
@@ -121,7 +121,7 @@ legality: commander
 ---
 
 *Source: `ayli-pilgrim/07 Assets/current-deck.md`*
-*Last synced: 2026-09-26 (26-09 to-do)*
+*Last synced: 2026-09-29 (29-09 to-do)*
 
 ---
 
@@ -137,19 +137,17 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Soul Warden|Soul Warden]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Soul's Attendant|Soul's Attendant]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Speaker of the Heavens|Speaker of the Heavens]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
-- [[02 Cards/Creatures/Ajani's Pridemate|Ajani's Pridemate]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Ayli, Eternal Pilgrim|Ayli, Eternal Pilgrim]] **98** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:98%"></div></div>
 - [[02 Cards/Creatures/Bartolomé del Presidio|Bartolomé del Presidio]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Bitterbloom Bearer|Bitterbloom Bearer]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Blood Artist|Blood Artist]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Bloodghast|Bloodghast]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Creatures/Daxos, Blessed by the Sun|Daxos, Blessed by the Sun]] **89** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:89%"></div></div>
 - [[02 Cards/Creatures/Elas il-Kor, Sadistic Pilgrim|Elas il-Kor, Sadistic Pilgrim]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Essence Channeler|Essence Channeler]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
-- [[02 Cards/Creatures/Gollum, Riddle Master|Gollum, Riddle Master]] **73** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:73%"></div></div>
 - [[02 Cards/Creatures/Helpful Hunter|Helpful Hunter]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
 - [[02 Cards/Creatures/Jadar, Ghoulcaller of Nephalia|Jadar, Ghoulcaller of Nephalia]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Karlov of the Ghost Council|Karlov of the Ghost Council]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
-- [[02 Cards/Creatures/Nullpriest of Oblivion|Nullpriest of Oblivion]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Priest of Forgotten Gods|Priest of Forgotten Gods]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Reassembling Skeleton|Reassembling Skeleton]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Stensian Sanguinist|Stensian Sanguinist]] **80** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:80%"></div></div>
@@ -157,21 +155,23 @@ Each entry links to the local card page and shows the Combined Deck Synergy scor
 - [[02 Cards/Creatures/Vengeful Bloodwitch|Vengeful Bloodwitch]] **86** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:86%"></div></div>
 - [[02 Cards/Creatures/Zulaport Cutthroat|Zulaport Cutthroat]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Angel of Vitality|Angel of Vitality]] **82** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:82%"></div></div>
+- [[02 Cards/Creatures/Avenger of the Fallen|Avenger of the Fallen]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Delney, Streetwise Lookout|Delney, Streetwise Lookout]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
+- [[02 Cards/Creatures/Heliod, Sun-Crowned|Heliod, Sun-Crowned]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Kambal, Consul of Allocation|Kambal, Consul of Allocation]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
-- [[02 Cards/Creatures/Marauding Blight-Priest|Marauding Blight-Priest]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Mentor of the Meek|Mentor of the Meek]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Nine-Lives Familiar|Nine-Lives Familiar]] **87** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:87%"></div></div>
 - [[02 Cards/Creatures/Ophiomancer|Ophiomancer]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Pawn of Ulamog|Pawn of Ulamog]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Teysa, Orzhov Scion|Teysa, Orzhov Scion]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
 - [[02 Cards/Creatures/Vito, Thorn of the Dusk Rose|Vito, Thorn of the Dusk Rose]] **92** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:92%"></div></div>
-- [[02 Cards/Creatures/Yahenni, Undying Partisan|Yahenni, Undying Partisan]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Emeritus of Woe|Emeritus of Woe]] **90** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:90%"></div></div>
 - [[02 Cards/Creatures/Enduring Tenacity|Enduring Tenacity]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
 - [[02 Cards/Creatures/Pitiless Plunderer|Pitiless Plunderer]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Creatures/Reaping Willow|Reaping Willow]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Rhox Faithmender|Rhox Faithmender]] **77** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:77%"></div></div>
 - [[02 Cards/Creatures/Sifter of Skulls|Sifter of Skulls]] **85** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:85%"></div></div>
+- [[02 Cards/Creatures/Vile Entomber|Vile Entomber]] **79** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:79%"></div></div>
 - [[02 Cards/Creatures/Witch of the Moors|Witch of the Moors]] **83** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:83%"></div></div>
 - [[02 Cards/Creatures/Sun Titan|Sun Titan]] **88** <div class="synergy-bar" style="display:inline-block;width:120px;vertical-align:middle;margin-left:8px"><div style="width:88%"></div></div>
 

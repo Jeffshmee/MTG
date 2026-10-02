@@ -2,7 +2,7 @@
 
 Mono-blue cards ({U} only). Lands and tokens are listed separately.
 
-**271** copies · **209** names.
+**335** copies · **245** names.
 
 ```decklist
 group: auto
@@ -16,6 +16,8 @@ legality: commander
 2 Agent of Kotis
 1 Arcanis the Omnipotent
 1 Archaeomancer
+1 Arni, Humble Scribe
+1 Aven Fogbringer
 1 Benthic Criminologists
 1 Bigfin Bouncer
 2 Bilbo Baggins, Burglar // Take a Glance
@@ -27,11 +29,14 @@ legality: commander
 1 Cloud of Faeries
 1 Cloudkin Seer
 1 Constrictor Sage
+2 Cryotheory Adept
 1 Deadeye Navigator
+1 Deceiver Exarch
 2 Deluge Virtuoso
 1 Dirgur Island Dragon // Skimming Strike
 1 Displacer Kitten
 1 Diversion Unit
+3 Divining Duelist
 1 Dour Port-Mage
 1 Dragonologist
 1 Dragonstorm Forecaster
@@ -46,17 +51,20 @@ legality: commander
 1 Exhibition Tidecaller
 1 Faerie Mastermind
 1 Faerie Vandal
+2 Fblthp, Impossibly Lost
 1 Fog Bank
 1 Forecasting Fortune Teller
 1 Forensic Gadgeteer
 1 Galecaster Colossus
 1 Gandalf, Wandering Wizard
 1 Gateway Sneak
+2 Geist of Saint Thalia
 1 Geyser Leaper
 1 Giant-Sized Flying Ant
 1 Glamer Gifter
 2 Glamermite
 1 Gravelgill Scoundrel
+1 Hapatra, the Desert Frost
 1 Harbinger of the Tides
 1 Harmonized Trio // Brainstorm
 1 High Fae Trickster
@@ -69,6 +77,7 @@ legality: commander
 1 Illusion Spinners
 1 Jaded Analyst
 1 Jadzi, Steward of Fate // Oracle's Gift
+1 Justice, Vance Astrovik
 1 Kiora, the Rising Tide
 1 Kitesail Larcenist
 4 Landscape Painter // Vibrant Idea
@@ -77,6 +86,7 @@ legality: commander
 1 Man-o'-War
 1 Matterbending Mage
 3 Micromancer
+3 Mindseeker Oculus
 1 Mirkwood Meditator
 2 Mischievous Mystic
 2 Mocking Sprite
@@ -89,8 +99,11 @@ legality: commander
 1 Orysa, Tide Choreographer
 1 Pensive Professor
 1 Peregrine Drake
+1 Proft, Consulting Detective
+3 Ruric Thar, Biomagus
 1 Scion of Oona
 1 Scourge of Fleets
+3 Semester Foreseer // Peer Review
 1 Shinestriker
 1 Shipwreck Dowser
 1 Shoreline Looter
@@ -109,17 +122,29 @@ legality: commander
 1 Stormwing Entity
 1 Strix Lookout
 2 Surveillance Monitor
+3 Surveillance Phantasm
 1 Teferi's Wavecaster
 1 Tempest Djinn
 1 Tester of the Tangential
+2 Tetsuko Umezawa, Fugitive
 2 Textbook Tabulator
 1 Thassa, Deep-Dwelling
+1 Theorist's Proxy
 2 Tolarian Terror
+2 Traxos, Academy Guardian
+1 Twining Twins // Swift Spiral
 1 Ultros, Obnoxious Octopus
+3 Undulating Witness
+1 Variable Chaser // Arc of Fortune
 1 Vnwxt, Verbose Host
 1 Voracious Greatshark
 1 Wall of Runes
 2 Wanderwine Distracter
+1 Yargle, Goliath of Otaria
+1 Yuriko, Hope from the Shadows
+
+# Planeswalkers
+1 The Theorist, Jace Beleren
 
 # Instants
 1 Accumulate Wisdom
@@ -130,9 +155,11 @@ legality: commander
 1 Blink of an Eye
 1 Brush Off
 1 Call to Heel
+1 Chain of Vapor
 3 Chase Inspiration
 1 Confounding Riddle
 2 Confusticate and Bebother
+1 Countersculpt
 2 Counterspell
 2 Deduce
 1 Depower
@@ -148,9 +175,11 @@ legality: commander
 1 Fractalize
 1 Ghostly Flicker
 2 Homesickness
+3 Icy Reception
 1 Illusionist's Gambit
 1 Into the Flood Maw
 1 Into the Roil
+1 Jace's Machinations
 1 Just the Wind
 1 Lofty Denial
 1 Mana Sculpt
@@ -159,6 +188,8 @@ legality: commander
 1 Mystical Teachings
 1 Negate
 4 Opt
+1 Perfected Theory
+1 Precise Redaction
 4 Quick Study
 2 Reasonable Doubt
 2 Refute
@@ -170,13 +201,14 @@ legality: commander
 1 Spectral Denial
 1 Spectral Interference
 2 Spell Pierce
+4 Sphinx's Approach
 2 Think Twice
 1 Thirst for Identity
 1 Twist Reality
 1 Uncharted Voyage
 1 Uneasy Partings
 1 Unexpected Assistance
-1 Unsummon
+4 Unsummon
 1 Virtue of Knowledge // Vantress Visions
 
 # Sorceries
@@ -192,6 +224,7 @@ legality: commander
 1 Otterball Antics
 1 Ponder
 3 Procrastinate
+2 Protege's Awakening
 1 Rite of Replication
 1 River's Rebuke
 1 Sleight of Hand
@@ -215,16 +248,21 @@ legality: commander
 1 Frozen in Ice
 1 Illusory Gains
 1 Imprisoned in the Moon
+2 Infinite Coursework
 1 Leyline of Anticipation
 1 Old Fat Spider Can't See Me
+1 Plan for All Outcomes
 1 Propaganda
 1 Ringing Strike Mastery
+2 Way of the Cryomancer
+1 Way of the Mind Sculptor
 2 Witness Protection
 
 # Artifacts
 1 Marina Vendrell's Grimoire
 1 Midnight Clock
 1 Midnight Mangler
+1 Simulacrum Synthesizer
 1 Wizard's Staff
 
 ```
